@@ -1,5 +1,6 @@
 {
 	"tags": "fediverse",
 	"layout": "postlayout.njk",
-	"sectionTitle": "Fediverse"
+	"sectionTitle": "Fediverse",
+	"permalink": "/fediverse/{{ page.fileSlug }}/"
 }

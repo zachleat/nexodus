@@ -1,5 +1,6 @@
 {
 	"tags": "bluesky",
 	"layout": "postlayout.njk",
-	"sectionTitle": "Bluesky"
+	"sectionTitle": "Bluesky",
+	"permalink": "/bluesky/{{ page.fileSlug }}/"
 }
