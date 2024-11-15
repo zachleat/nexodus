@@ -1,0 +1,17 @@
+{
+  "name": "@zachleat/nexodus",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "import": "npx @11ty/import bluesky @zachleat.com --output=bluesky --cacheduration=4s",
+    "import-production": "npx @11ty/import bluesky @zachleat.com --output=bluesky --cacheduration=4s --persist=github:zachleat/nexodus",
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve",
+    "production": "npm run import-production && npm run build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/import": "^1.0.0-beta.1"
+  }
+}
