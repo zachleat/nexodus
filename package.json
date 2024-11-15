@@ -5,10 +5,9 @@
   "type": "module",
   "scripts": {
     "import": "./import.sh",
-    "import-production": "./import.sh persist",
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve",
-    "production": "npm run import-production && npm run build"
+    "production": "./import.sh persist && npm run build"
   },
   "license": "MIT",
   "dependencies": {
