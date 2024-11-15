@@ -4,12 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "import-bsky": "npx @11ty/import bluesky @zachleat.com --output=bluesky --cacheduration=4h",
-    "import-fedi": "npx @11ty/import fediverse zachleat@fediverse.zachleat.com --output=fediverse --cacheduration=4h",
-    "import": "npm run import-bsky && npm run import-fedi",
-    "import-prod-bsky": "npx @11ty/import bluesky @zachleat.com --output=bluesky --cacheduration=4h --persist=github:zachleat/nexodus",
-    "import-prod-fedi": "npx @11ty/import fediverse zachleat@fediverse.zachleat.com --output=fediverse --cacheduration=4h --persist=github:zachleat/nexodus",
-    "import-production": "npm run import-prod-bsky && npm run import-prod-fedi",
+    "import": "./import.sh",
+    "import-production": "./import.sh persist",
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve",
     "production": "npm run import-production && npm run build"
