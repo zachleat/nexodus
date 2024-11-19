@@ -1,11 +1,20 @@
 ---
 layout: layout.njk
 ---
-{{ content | safe }}
+{% set previousPost = collections.all | getPreviousCollectionItem %}
+{% set nextPost = collections.all | getNextCollectionItem %}
+<ul>
+	<li>Next {% if nextPost %}<a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{% else %}<em>(End)</em>{% endif %}</li>
+	<li>Previous {% if previousPost %}<a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% else %}<em>(End)</em>{% endif %}</li>
+</ul>
+
+<hr>
+
+<blockquote>
+	{{ content | safe }}
+</blockquote>
 
 <ul>
 	<li><small><em>{{ page.date.toUTCString() }} — {{ authors | renderAuthors | safe }}</em></small></li>
 	<li><small><em><a href="{{ metadata.url }}">Original on {{ sectionTitle }}</a></em></small></li>
 </ul>
-
-<p><a href="/">&lt; Nexodus</a></p>
