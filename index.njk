@@ -6,7 +6,10 @@ eleventyExcludeFromCollections: true
 {%- for post in collections.all | reverse %}
 	<li>
 		{{ post.content | safe }}
-		<small><em><a href="{{ post.url }}">{{ post.date.toUTCString() }}</a> {{ post.data.sectionTitle }} {{ post.data.authors | renderAuthors | safe }}</em></small>
+		<ul>
+			<li><small><em><a href="{{ post.url }}">{{ post.date.toUTCString() }}</a> — {{ post.data.authors | renderAuthors | safe }}</em></small></li>
+			<li><small><em><a href="{{ post.data.metadata.url }}">Original on {{ post.data.sectionTitle }}</a></em></small></li>
+		</ul>
 	</li>
 {%- endfor %}
 </ol>

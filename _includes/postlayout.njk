@@ -3,6 +3,9 @@ layout: layout.njk
 ---
 {{ content | safe }}
 
-<small><em><a href="{{ metadata.url }}">{{ page.date.toUTCString() }}</a> {{ sectionTitle }} {{ authors | renderAuthors | safe }}</em></small>
+<ul>
+	<li><small><em>{{ page.date.toUTCString() }} — {{ authors | renderAuthors | safe }}</em></small></li>
+	<li><small><em><a href="{{ metadata.url }}">Original on {{ sectionTitle }}</a></em></small></li>
+</ul>
 
 <p><a href="/">&lt; Nexodus</a></p>
