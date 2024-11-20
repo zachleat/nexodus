@@ -10,7 +10,9 @@ layout: layout.njk
 
 <hr>
 
-{{ content | safe }}
+<article>
+	{{ content | safe }}
+</article>
 
 <ul>
 	<li><small><em>{{ page.date.toUTCString() }} — {{ authors | renderAuthors | safe }}</em></small></li>

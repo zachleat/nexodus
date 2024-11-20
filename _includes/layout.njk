@@ -1,5 +1,5 @@
 ---
-pageTitle: Nexodus
+pageTitle: Nexodus Archive
 ---
 <!doctype html>
 <html lang="en">
@@ -7,18 +7,18 @@ pageTitle: Nexodus
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		{# <meta name="description" content=""> #}
-		<title>{{ sectionTitle or pageTitle }}</title>
+		<title>{{ pageTitle }}{% if sectionTitle %}: {{ sectionTitle }}{% endif %}</title>
 	</head>
 	<body>
 		<header>
-			<h1>{{ sectionTitle or pageTitle }}</h1>
+			<h1>{%- if page.url !== "/" %}<a href="/">{% endif %}{{ pageTitle }}{%- if page.url !== "/" %}</a>{% endif %}{% if sectionTitle %}: {{ sectionTitle }}{% endif %}</h1>
 		</header>
 		<main>
 			{{ content | safe }}
 		</main>
 		<footer>
+			<hr>
 			<p>
-				{%- if page.url !== "/" %}<a href="/">&lt; Back to <strong>Nexodus</strong> Home</a>{% endif %}
 				<em>Built with <a href="https://www.11ty.dev/">11ty</a> and <a href="https://github.com/11ty/eleventy-import">11ty/import</a> — <a href="https://github.com/zachleat/nexodus">Source code</a></em>
 			</p>
 		</footer>
