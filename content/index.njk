@@ -4,6 +4,8 @@ eleventyExcludeFromCollections: true
 ---
 <p><a href="https://github.com/zachleat/nexodus">Source code at <code>zachleat/nexodus</code></a></p>
 
+<h2>{{ collections.all.length }} post{% if collections.all.length != 1 %}s{% endif %} total</h2>
+
 <ol reversed>
 {%- for post in collections.all | reverse %}
 	<li>

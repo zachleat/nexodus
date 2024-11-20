@@ -5,5 +5,5 @@ else
 	persist=""
 fi
 
-npx @11ty/import bluesky @zachleat.com --output=bluesky --cacheduration=4h $persist
-npx @11ty/import fediverse zachleat@fediverse.zachleat.com --output=fediverse --cacheduration=4h $persist
+npx @11ty/import bluesky @zachleat.com --output=content/bluesky --cacheduration=4h --assetrefs=absolute $persist
+npx @11ty/import fediverse zachleat@fediverse.zachleat.com --output=content/fediverse --cacheduration=4h --assetrefs=absolute $persist

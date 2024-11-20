@@ -8,7 +8,14 @@ function renderAuthors(authors) {
 	}).join(" ");
 }
 
+/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default function(eleventyConfig) {
 	eleventyConfig.ignores.add("README.md");
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
+}
+
+export const config = {
+	dir: {
+		input: "content"
+	}
 }
