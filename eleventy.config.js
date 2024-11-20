@@ -12,6 +12,11 @@ function renderAuthors(authors) {
 export default function(eleventyConfig) {
 	eleventyConfig.ignores.add("README.md");
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
+
+	eleventyConfig.addPassthroughCopy({
+		"content/**/*.png": "assets/"
+	});
+
 }
 
 export const config = {
