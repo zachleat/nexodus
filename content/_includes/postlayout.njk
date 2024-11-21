@@ -3,7 +3,9 @@ layout: layout.njk
 ---
 {% set previousPost = collections.all | getPreviousCollectionItem %}
 {% set nextPost = collections.all | getNextCollectionItem %}
+{% set postIndex = collections.all | getCollectionItemIndex %}
 <ul>
+	<li>Post #{{ postIndex + 1 }}</li>
 	<li>Next {% if nextPost %}<a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{% else %}<em>(End)</em>{% endif %}</li>
 	<li>Previous {% if previousPost %}<a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% else %}<em>(End)</em>{% endif %}</li>
 </ul>
