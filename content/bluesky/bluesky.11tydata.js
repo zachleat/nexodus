@@ -1,4 +1,4 @@
-{
+export default {
 	"tags": "bluesky",
 	"layout": "postlayout.njk",
 	"sectionTitle": "Bluesky",
