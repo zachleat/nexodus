@@ -1,5 +1,5 @@
 ---
-title: December 5, 2024 at 2:26:00 PM UTC
+title: December 5, 2024 at 8:26:00 AM CST
 authors:
   - name: '@zachleat.com - Zach Leatherman'
     url: https://bsky.app/profile/zachleat.com
@@ -10,6 +10,13 @@ metadata:
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lckusgtkuk2r
 ---
-time to review my HTML wrapped 2024 Most used: Doing work to reduce infrastructure bills: Underrated:
+time to review my HTML wrapped 2024
 
-Misunderstood: <details>Tame but a small win: <search>Hope the design never calls for it: <dialog>Not today Satan:<canvas>Pure vibes:<noscript></noscript></canvas></dialog></search></details>
+Most used: &lt;a&gt;
+Doing work to reduce infrastructure bills: &lt;picture&gt;
+Underrated: &lt;output&gt;
+Misunderstood: &lt;details&gt;
+Tame but a small win: &lt;search&gt;
+Hope the design never calls for it: &lt;dialog&gt;
+Not today Satan: &lt;canvas&gt;
+Pure vibes: &lt;noscript&gt;
