@@ -104,12 +104,12 @@ img, video { max-width: 100%; height: auto; border-radius: 8px; }
 	border-left: 3px solid var(--accent);
 	border-radius: var(--radius);
 }
-#search .pagefind-ui__result:has(a[href^="/bluesky/"]) { --accent: var(--bluesky); }
+#search .pagefind-ui__result:has(a[href*="/bluesky/"]) { --accent: var(--bluesky); }
 #search .pagefind-ui__result-thumb { display: none; }
 #search .pagefind-ui__result-inner { margin: 0; }
 #search .pagefind-ui__result-title { margin: 0; font-size: .85rem; font-weight: 400; }
 #search .pagefind-ui__result-title::before { content: "Fediverse"; margin-right: 1rem; color: var(--accent); font-weight: 600; }
-#search .pagefind-ui__result:has(a[href^="/bluesky/"]) .pagefind-ui__result-title::before { content: "Bluesky"; }
+#search .pagefind-ui__result:has(a[href*="/bluesky/"]) .pagefind-ui__result-title::before { content: "Bluesky"; }
 #search .pagefind-ui__result-link { color: var(--muted); }
 #search .pagefind-ui__result-link:hover { text-decoration: underline; }
 #search .pagefind-ui__result-excerpt { margin: .5rem 0 0; font-size: 1rem; color: var(--text); }

@@ -1,5 +1,6 @@
 import path from "node:path";
 import * as pagefind from "pagefind";
+import { HtmlBasePlugin } from "@11ty/eleventy";
 
 function cleanCustomEmoji(str) {
 	return str.replaceAll(/\:[^:]*\:/g, "").trim();
@@ -61,6 +62,7 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.ignores.add("README.md");
+	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.setServerOptions({ port: 8347 });
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
 	eleventyConfig.addFilter("readableDate", date => date.toLocaleString("en-US", {
@@ -94,6 +96,8 @@ export default function(eleventyConfig) {
 }
 
 export const config = {
+	// Set by the GitHub Pages workflow for project sites, e.g. /nexodus/
+	pathPrefix: process.env.PATH_PREFIX || "/",
 	// Imported posts may contain template syntax
 	markdownTemplateEngine: false,
 	dir: {

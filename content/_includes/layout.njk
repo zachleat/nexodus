@@ -12,7 +12,7 @@ pageTitle: Nexodus Archive
 		<script src="/pagefind/pagefind-ui.js" defer></script>
 		<script type="module">
 		window.addEventListener("DOMContentLoaded", () => {
-			new PagefindUI({ element: "#search", showSubResults: false, showImages: false, resetStyles: false, openFilters: ["source"], pageSize: 20 });
+			new PagefindUI({ element: "#search", baseUrl: "{{ "/" | htmlBaseUrl }}", showSubResults: false, showImages: false, resetStyles: false, openFilters: ["source"], pageSize: 20 });
 		});
 		</script>
 	</head>
