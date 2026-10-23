@@ -1,0 +1,160 @@
+{
+	"comments": [
+		{
+			"id": "115175570136804421",
+			"parentId": 0,
+			"url": "https://social.lol/@tylersticka/115175570106349249",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2025-09-09T17:42:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Who I want to be versus who I probably actually am</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115175675055405886",
+			"parentId": "115175570136804421",
+			"url": "https://fediverse.zachleat.com/@zachleat/115175675055405886",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-09T18:08:50.800Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\">@<span>tylersticka</span></a></span> haha — this is too much self awareness for social media</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180591480824955",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/115180591480824955",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T14:59:09.499Z",
+			"content": "<p>I do think the results of the above (even with a small sample) suggest that there is a big expectations mismatch in how security issues are communicated in the JavaScript ecosystem</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180617315983553",
+			"parentId": "115180591480824955",
+			"url": "https://front-end.social/@keith/115180617293133497",
+			"author": {
+				"name": "keith kurson",
+				"url": "https://front-end.social/@keith",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/360/103/949/477/783/original/80002de2f6e514d3.jpeg"
+			},
+			"date": "2025-09-10T15:05:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i think when it was my job (glitch) i would like to know asap so that i could action on it and make sure that user data was secure. now i have less immediate need and can follow along or just see the writeup afterwards</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180661237115676",
+			"parentId": "115180617315983553",
+			"url": "https://fediverse.zachleat.com/@zachleat/115180661237115676",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T15:16:53.898Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@keith\" class=\"u-url mention\">@<span>keith</span></a></span> mostly thinking about Monday’s incident, where active build infections were still happening but (imo) very little communication about it as folks were (to be fair) scrambling to minimize the impact</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180679529750220",
+			"parentId": "115180661237115676",
+			"url": "https://front-end.social/@keith/115180679506385574",
+			"author": {
+				"name": "keith kurson",
+				"url": "https://front-end.social/@keith",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/360/103/949/477/783/original/80002de2f6e514d3.jpeg"
+			},
+			"date": "2025-09-10T15:21:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh yeah i think npm should have been communicating way more once it was clear</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180698485602511",
+			"parentId": "115180679529750220",
+			"url": "https://fediverse.zachleat.com/@zachleat/115180698485602511",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T15:26:22.264Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@keith\" class=\"u-url mention\">@<span>keith</span></a></span> yeah, I dunno what happened exactly internally but it does have me wondering if this hugely important thing has sufficient staffing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180744662299578",
+			"parentId": "115180591480824955",
+			"url": "https://mastodon.social/@sil/115180744593170756",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2025-09-10T15:38:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I see the theory, but in practice what does \"communication\" look like here? I'm not suggesting that this was perfectly handled or anything, but afaict the hacked versions were identified and pulled from npm in 3-4 hours. The only reason we saw it was it failed a build which we did in the window. How would npm have informed me in a 3-hour window? Without me getting 8 kajillion emails a day?<br>(maybe some people need that level of alerting, and they should have a way to get it, of course!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180816566193402",
+			"parentId": "115180744662299578",
+			"url": "https://fediverse.zachleat.com/@zachleat/115180816566193402",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T15:56:24.031Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> the window from the timeline I measured was ~5 hours but to solve the root issue would require architecture changes to npm publish workflows — but until something changes upstream, yeah — more alerts! more emails! I want to know every time a build dependency in my projects is compromised as soon as possible so that I can make the best choices for my projects</p><p>From my perspective it seems like Monday’s style of incident is happening a few times a year</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180839534202299",
+			"parentId": "115180816566193402",
+			"url": "https://mastodon.social/@sil/115180839479744767",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2025-09-10T16:02:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fair, yeah; you are definitely one of the people who is OK with getting emails the whole time so you can stay 100% on top of this stuff, and I'm glad of that, and that does mitigate things for your downstreams, which is important in itself! I don't think a firehose will help everybody, but it'll help some people (who then help others) so it's a good thing to have. I don't envy those at npm who already have \"identify problems fast; fix fast\" on their list and also need \"tell people\" too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115180846408290004",
+			"parentId": "115180839534202299",
+			"url": "https://fediverse.zachleat.com/@zachleat/115180846408290004",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T16:03:59.385Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> yeah, that’s a good take. it also has me wondering if the project has sufficient staffing. sometimes those post-acquisition things can get kinda lean due to leadership problems</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115184371165102442",
+			"parentId": "115180698485602511",
+			"url": "https://hachyderm.io/@mb21/115184371136952705",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-09-11T07:00:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@keith\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>keith</span></a></span> What do you think of <a href=\"https://jsr.io\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">jsr.io</span><span class=\"invisible\"></span></a> ?</p>",
+			"via": "fediverse"
+		}
+	]
+}

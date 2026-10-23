@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "116058891417318007",
+			"parentId": 0,
+			"url": "https://toot.cafe/@potch/116058891284359136",
+			"author": {
+				"name": "Potch",
+				"url": "https://toot.cafe/@potch",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/372/191/374/688/687/original/e9171b52e128b8a4.png"
+			},
+			"date": "2026-02-12T17:42:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I see `code_repository` here: <a href=\"https://microformats.org/wiki/existing-rel-values#HTML5_link_type_extensions\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">microformats.org/wiki/existing</span><span class=\"invisible\">-rel-values#HTML5_link_type_extensions</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116058929961589005",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/116058929961589005",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-12T17:52:11.104Z",
+			"content": "<p>Looks like <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@adactio\" class=\"u-url mention\">@<span>adactio</span></a></span> suggested rel=&quot;source&quot; in 2014: <a href=\"https://adactio.com/journal/6667\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">adactio.com/journal/6667</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116058937006397639",
+			"parentId": "116058891417318007",
+			"url": "https://fediverse.zachleat.com/@zachleat/116058937006397639",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-12T17:53:58.598Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@potch\" class=\"u-url mention\">@<span>potch</span></a></span> thank you! I was hoping for a more granular way to link to a specific content file but this is another clue in my journey!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116058958258465632",
+			"parentId": "116058929961589005",
+			"url": "https://notes.kvibber.com/@kelson/statuses/01KH9FWEVP5M161MXP24Q98QRZ",
+			"author": {
+				"name": "Kelson",
+				"url": "https://notes.kvibber.com/@kelson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/321/981/369/391/290/original/f957ba6a1410244a.png"
+			},
+			"date": "2026-02-12T17:55:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@adactio\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>adactio</span></a></span> It's logical, at least!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059027183844033",
+			"parentId": "116058937006397639",
+			"url": "https://mastodon.social/@khalidabuhakmeh/116059027119482161",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2026-02-12T18:16:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@potch\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>potch</span></a></span> <a href=\"https://www.youtube.com/watch?v=stSSWCJD710\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/watch?v=stSSWCJD710</span><span class=\"invisible\"></span></a> maybe using this format?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059208259951049",
+			"parentId": "116059027183844033",
+			"url": "https://fediverse.zachleat.com/@zachleat/116059208259951049",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-12T19:02:57.600Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@potch\" class=\"u-url mention\">@<span>potch</span></a></span> excellent cross reference, thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059564152052632",
+			"parentId": "116058929961589005",
+			"url": "https://social.lol/@jgarber/116059564128007219",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/806/761/171/789/152/original/092aea9395842a5d.jpg"
+			},
+			"date": "2026-02-12T20:33:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@adactio\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>adactio</span></a></span> I’ve been using rel-source on my websites since seeing Jeremy’s article all those years ago. It’s great.</p><p>…and also:</p><p>At some point last year there was a bunch of pedantic whinging in the IndieWeb community/IRC/wherever about how “source” is the wrong word and I just kinda tuned out.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059577530923660",
+			"parentId": 0,
+			"url": "https://social.lol/@jgarber/116059577507033716",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/806/761/171/789/152/original/092aea9395842a5d.jpg"
+			},
+			"date": "2026-02-12T20:36:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Found it on the microformats wiki, under “brainstorming”…</p><p><a href=\"https://microformats.org/wiki/existing-rel-values\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">microformats.org/wiki/existing</span><span class=\"invisible\">-rel-values</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059731222165682",
+			"parentId": "116058937006397639",
+			"url": "https://mastodon.social/@chriswrench/116059731176464812",
+			"author": {
+				"name": "Chris",
+				"url": "https://mastodon.social/@chriswrench",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-02-12T21:15:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This page <a href=\"https://microformats.org/wiki/existing-rel-values#HTML5_link_type_extensions\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">microformats.org/wiki/existing</span><span class=\"invisible\">-rel-values#HTML5_link_type_extensions</span></a> also suggests rel=\"source\", <a href=\"https://adactio.com/journal/6667/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">adactio.com/journal/6667/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

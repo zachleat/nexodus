@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "113601142080661335",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113601142080661335",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-05T16:24:24.265Z",
+			"content": "<p>fine I’ll post the context <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/cause\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.mozilla.org/en-US/do</span><span class=\"invisible\">cs/Web/JavaScript/Reference/Global_Objects/Error/cause</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113601173678776945",
+			"parentId": 0,
+			"url": "https://indieweb.social/@sstephenson/113601173635832596",
+			"author": {
+				"name": "Sam Stephenson",
+				"url": "https://indieweb.social/@sstephenson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/045/827/319/083/230/original/f907faf82871a520.jpg"
+			},
+			"date": "2024-12-05T16:32:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> all `catch`es are bad</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113601187951944617",
+			"parentId": "113601173678776945",
+			"url": "https://fediverse.zachleat.com/@zachleat/113601187951944617",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-05T16:36:04.208Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@sstephenson\" class=\"u-url mention\">@<span>sstephenson</span></a></span> see, you get it</p><p>HTML does it right, it never saw nothin’</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113601251541472728",
+			"parentId": 0,
+			"url": "https://mastodon.design/@Saint_loup/113601251486487514",
+			"author": {
+				"name": "Baptiste",
+				"url": "https://mastodon.design/@Saint_loup",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/325/969/026/788/740/original/99120b6b8d96a901.jpeg"
+			},
+			"date": "2024-12-05T16:52:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> git blame'ists get stitches.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113601272463641502",
+			"parentId": "113601187951944617",
+			"url": "https://ruby.social/@konnorrogers/113601272437290704",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-12-05T16:57:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@sstephenson\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sstephenson</span></a></span> </p><p>\"Ohhh thats not an error. Thats a happy accident. I'll fix that for you.\" - HTML Parser</p>",
+			"via": "fediverse"
+		}
+	]
+}

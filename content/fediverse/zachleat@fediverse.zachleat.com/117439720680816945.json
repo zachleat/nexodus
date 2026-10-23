@@ -1,0 +1,764 @@
+{
+	"comments": [
+		{
+			"id": "117439727849615297",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117439727849615297",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T14:27:14.814Z",
+			"content": "<p>Forked from this <a href=\"https://davidlazar.co/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">davidlazar.co/</span><span class=\"invisible\"></span></a> extension: <a href=\"https://addons.mozilla.org/en-US/firefox/addon/list-all-tabs/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/en-US/firef</span><span class=\"invisible\">ox/addon/list-all-tabs/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439731693700499",
+			"parentId": 0,
+			"url": "https://front-end.social/@rem/117439731657978443",
+			"author": {
+				"name": "rem",
+				"url": "https://front-end.social/@rem",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/337/799/327/859/909/original/4c7ca13f121949ca.jpg"
+			},
+			"date": "2026-10-14T14:28:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my wife suffers from the same condition (I get anxiety every time I see her screen!) - but I thought a really useful extension would be one that could tell you *how long* the tab has been open.</p><p>I did dabble to see if I could make it, but didn't get far. Surely if the tab's been open for 12 months+ it's time to kill it, right? RIGHT?!?!?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439735368873697",
+			"parentId": "117439731693700499",
+			"url": "https://front-end.social/@rem/117439735247932125",
+			"author": {
+				"name": "rem",
+				"url": "https://front-end.social/@rem",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/337/799/327/859/909/original/4c7ca13f121949ca.jpg"
+			},
+			"date": "2026-10-14T14:29:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> zooming in on those screenshots it does actually show the timings - but I want them to be in the actual title of the tab 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439736528614727",
+			"parentId": "117439731693700499",
+			"url": "https://fediverse.zachleat.com/@zachleat/117439736528614727",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T14:29:27.247Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@rem\" class=\"u-url mention\">@<span>rem</span></a></span> it shows this!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439741556668798",
+			"parentId": "117439735368873697",
+			"url": "https://fediverse.zachleat.com/@zachleat/117439741556668798",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T14:30:43.969Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@rem\" class=\"u-url mention\">@<span>rem</span></a></span> ha, that would be funny to see! The purist in me would never change document.title on my beautiful tabs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439763236542439",
+			"parentId": 0,
+			"url": "https://woof.group/@furioursus/117439763155715820",
+			"author": {
+				"name": "Christopher Kennedy-Nuñez",
+				"url": "https://woof.group/@furioursus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/479/404/252/456/original/84c9ba1324554577.png"
+			},
+			"date": "2026-10-14T14:36:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh this is very cool. I wonder how well it works with Zen, since the tabs work slightly differently when using tab organizers, in my past experience.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439788676901477",
+			"parentId": 0,
+			"url": "https://idlethumbs.social/@ysbreker/117439788635005143",
+			"author": {
+				"name": "ysbreker",
+				"url": "https://idlethumbs.social/@ysbreker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/970/889/493/292/828/original/7dc3e5d859b243e2.jpg"
+			},
+			"date": "2026-10-14T14:42:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Can I make a feature request? I would love to be able to consolidate tabs into a new tab group</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439788755901903",
+			"parentId": "117439763236542439",
+			"url": "https://fediverse.zachleat.com/@zachleat/117439788755901903",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T14:42:44.172Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://woof.group/@furioursus\" class=\"u-url mention\">@<span>furioursus</span></a></span> seems to install and operate okay on my local Zen!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439791486402139",
+			"parentId": "117439788676901477",
+			"url": "https://fediverse.zachleat.com/@zachleat/117439791486402139",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T14:43:25.835Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://idlethumbs.social/@ysbreker\" class=\"u-url mention\">@<span>ysbreker</span></a></span> <a href=\"https://github.com/zachleat/list-all-tabs\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/list-all-t</span><span class=\"invisible\">abs</span></a> is the home base! (though that one might be a tough sell since I don’t personally use tab groups 😬)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439812125299450",
+			"parentId": "117439788755901903",
+			"url": "https://woof.group/@furioursus/117439811620014654",
+			"author": {
+				"name": "Christopher Kennedy-Nuñez",
+				"url": "https://woof.group/@furioursus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/479/404/252/456/original/84c9ba1324554577.png"
+			},
+			"date": "2026-10-14T14:48:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh that’s wonderful news. I’m gonna install it when I get home. I’d love for Zen (or Mozilla browsers in general) to have some sort of first party sorting but this will easily fill that need.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439967096577499",
+			"parentId": 0,
+			"url": "https://mastodon.social/@orenmi/117439965064381369",
+			"author": {
+				"name": "orenmi",
+				"url": "https://mastodon.social/@orenmi",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-10-14T15:27:34.000Z",
+			"content": "<p>@zachleat Fellow tab hoarder and extension developer here — I went a different direction and built Tab Manager &amp; Session Saver focused on *saving named sessions* so I can close tabs without anxiety. Different from your approach (yours is organization of existing tabs, mine is persistence/restore). Interesting to see how others tackle the same problem space.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439990322247004",
+			"parentId": "117439812125299450",
+			"url": "https://woof.group/@furioursus/117439990257209652",
+			"author": {
+				"name": "Christopher Kennedy-Nuñez",
+				"url": "https://woof.group/@furioursus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/479/404/252/456/original/84c9ba1324554577.png"
+			},
+			"date": "2026-10-14T15:33:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yoooooo this is dope! I love it already! I don't even keep *that* many tabs but this makes it feel way more manageable, even then!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439997214438062",
+			"parentId": "117439990322247004",
+			"url": "https://woof.group/@furioursus/117439997137451951",
+			"author": {
+				"name": "Christopher Kennedy-Nuñez",
+				"url": "https://woof.group/@furioursus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/479/404/252/456/original/84c9ba1324554577.png"
+			},
+			"date": "2026-10-14T15:35:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> One thing I’m wondering: what does \"Consolidate All\" do? In Zen at least, it just opens a new window but doesn’t seem to change anything?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439997533881914",
+			"parentId": "117439990322247004",
+			"url": "https://fediverse.zachleat.com/@zachleat/117439997533881914",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T15:35:49.872Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://woof.group/@furioursus\" class=\"u-url mention\">@<span>furioursus</span></a></span> awesome! even adding that feedback as a review would be helpful to others!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117439999272662950",
+			"parentId": "117439997214438062",
+			"url": "https://fediverse.zachleat.com/@zachleat/117439999272662950",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T15:36:16.402Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://woof.group/@furioursus\" class=\"u-url mention\">@<span>furioursus</span></a></span> Consolidate moves things to one window. If you only have one window, it will do nothing, I suppose!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440004722519912",
+			"parentId": 0,
+			"url": "https://fediscience.org/@bmarne/117440004577763634",
+			"author": {
+				"name": "Bertrand Marne",
+				"url": "https://fediscience.org/@bmarne",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/241/005/636/119/102/original/6e0b0fa32e07f8b1.png"
+			},
+			"date": "2026-10-14T15:37:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span><br>Thanks, it seems very interesting. I am currently fond of <a href=\"https://fediscience.org/tags/alltabhelper\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>alltabhelper</span></a> <a href=\"https://addons.mozilla.org/fr/firefox/addon/all-tabs-helper/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/fr/firefox/</span><span class=\"invisible\">addon/all-tabs-helper/</span></a></p><p>I will try yours to compare!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440016537836293",
+			"parentId": "117439999272662950",
+			"url": "https://woof.group/@furioursus/117440016467548110",
+			"author": {
+				"name": "Christopher Kennedy-Nuñez",
+				"url": "https://woof.group/@furioursus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/479/404/252/456/original/84c9ba1324554577.png"
+			},
+			"date": "2026-10-14T15:40:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Gotcha. That seems to often be a caveat of using Zen. The one window syncing everything to itself makes for an odd moment where they just sort of sit there with a blank tab after the process. I’ll keep that in mind.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440204407948414",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117440204407948414",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T16:28:26.517Z",
+			"content": "<p>All of my 300+ browser tabs are beautiful</p><p><a href=\"https://www.zachleat.com/web/firefox-list-all-tabs/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/firefox-list-</span><span class=\"invisible\">all-tabs/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440287856934473",
+			"parentId": "117440204407948414",
+			"url": "https://mastodon.social/@jimniels/117440286770500038",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2026-10-14T16:49:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> anybody else here in the replies wanna help me with an intervention?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440297649073161",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rauschma/117440297572072416",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2026-10-14T16:52:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I recently read something about “open loops” (=unfinished tasks) being a cognitive burden and am wondering:</p><p>What if it were easy to add older open tabs to an archive of links (and close them)? Data per link:<br>• URL<br>• Title<br>• Topic (crucial for retrieval—think one or more short tags such as “JS”, “politics”, “cooking”, etc.)<br>• If available: date of the tab being opened<br>• Maybe: Date of last update of web page</p><p>Users would have to be prompted for a tag—unless a tab is in a tab group.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440312468904476",
+			"parentId": "117440287856934473",
+			"url": "https://mastodon.social/@ardouglass/117440311721343237",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2026-10-14T16:55:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think we need the browser tab equivalent of a Pythagorean cup. If you open too many tabs it’ll close them all and delete them from your history so you can’t reopen them. Maybe also if you open a duplicate tab.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440326956756328",
+			"parentId": "117440312468904476",
+			"url": "https://fediverse.zachleat.com/@zachleat/117440326956756328",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T16:59:36.466Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> cruel!! I can stop opening tabs any time I want</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440333188355741",
+			"parentId": "117440297649073161",
+			"url": "https://fediverse.zachleat.com/@zachleat/117440333188355741",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T17:01:11.551Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> yes! there is definitely something productive there. syncing to a bookmarking service would be lovely too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440698496422812",
+			"parentId": "117439791486402139",
+			"url": "https://idlethumbs.social/@ysbreker/117440698452610538",
+			"author": {
+				"name": "ysbreker",
+				"url": "https://idlethumbs.social/@ysbreker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/970/889/493/292/828/original/7dc3e5d859b243e2.jpg"
+			},
+			"date": "2026-10-14T18:34:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> understandable. I try to use them every now and then. But I don't have enough tabs open to make them really useful 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440729298690494",
+			"parentId": "117440204407948414",
+			"url": "https://mastodon.green/@adamarmfield/117440729271587225",
+			"author": {
+				"name": "adamarmfield",
+				"url": "https://mastodon.green/@adamarmfield",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-10-14T18:41:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have to use cunning sometimes to get another instance of a page to open if my browser wants to switch to open tab</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440740859344519",
+			"parentId": "117440204407948414",
+			"url": "https://mastodon.social/@rianmurnen/117440740278044936",
+			"author": {
+				"name": "Rian",
+				"url": "https://mastodon.social/@rianmurnen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/875/544/375/458/original/5a6cb4abf70d7c42.jpg"
+			},
+			"date": "2026-10-14T18:44:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  Now we know what drove the price of RAM up. SOMEone is using it all</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117440765937502239",
+			"parentId": "117440740859344519",
+			"url": "https://fediverse.zachleat.com/@zachleat/117440765937502239",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T18:51:14.781Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rianmurnen\" class=\"u-url mention\">@<span>rianmurnen</span></a></span> I have no idea what you mean</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441079910109874",
+			"parentId": "117440326956756328",
+			"url": "https://mastodon.social/@jimniels/117441078278115514",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2026-10-14T20:10:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ardouglass</span></a></span> the first step is acceptance. C’mon Zach, say it with us, “I have a problem and my (digital) life has become unmanageable.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441136114886533",
+			"parentId": "117441079910109874",
+			"url": "https://fediverse.zachleat.com/@zachleat/117441136114886533",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T20:25:23.240Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> 300 tabs is a perfectly normal amount of tabs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441155122657526",
+			"parentId": "117441136114886533",
+			"url": "https://mastodon.social/@jimniels/117441153146777225",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2026-10-14T20:29:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ardouglass</span></a></span> </p><p>“how many tabs you got open?”</p><p>zach:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441163532585213",
+			"parentId": "117441136114886533",
+			"url": "https://mastodon.social/@ardouglass/117441163485148400",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2026-10-14T20:32:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> am I reading it right that some of the ones in the screenshot have been open for nearly a year?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441213178473870",
+			"parentId": "117440204407948414",
+			"url": "https://mastodon.social/@matthiasott/117441212720672502",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-10-14T20:44:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Zach, this is beautiful! 😍 I have HTHD (habitual tab hoarding disorder), too – can’t wait to give this a try!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441230234596676",
+			"parentId": "117441155122657526",
+			"url": "https://dreamin.online/@brettmn/117441229971120201",
+			"private": true,
+			"date": "2026-10-14T20:49:15.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441264413639342",
+			"parentId": "117441163532585213",
+			"url": "https://fediverse.zachleat.com/@zachleat/117441264413639342",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-14T20:58:00.923Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> don’t you dare scrutinize my screenshot</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117441841106870766",
+			"parentId": 0,
+			"url": "https://mastodon.social/@devolute/117441840767094154",
+			"author": {
+				"name": "devolute",
+				"url": "https://mastodon.social/@devolute",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/142/474/609/017/original/b1af8b9e7c70331a.jpg"
+			},
+			"date": "2026-10-14T23:24:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is very good. Clean. Clever. But uh… is this the best thing for ~~your~~ our mental health?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117442098269695274",
+			"parentId": "117441841106870766",
+			"url": "https://fediverse.zachleat.com/@zachleat/117442098269695274",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T00:30:04.556Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@devolute\" class=\"u-url mention\">@<span>devolute</span></a></span> maybe I should add a Bankruptcy button</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117442744605090094",
+			"parentId": 0,
+			"url": "https://mefi.social/@rodneylives/117442744567353555",
+			"author": {
+				"name": "John Harris",
+				"url": "https://mefi.social/@rodneylives",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/820/564/685/408/435/original/62666a13ec197b15.png"
+			},
+			"date": "2026-10-15T03:14:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is a great extension!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117443695170333554",
+			"parentId": 0,
+			"url": "https://typo.social/@triple/117443695137763800",
+			"author": {
+				"name": "Triple ⁂",
+				"url": "https://typo.social/@triple",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/094/259/582/460/original/6b818443a3ed8968.png"
+			},
+			"date": "2026-10-15T07:16:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kupfers\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kupfers</span></a></span> we, (firefox) tab hoarders, recognize each others.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117444715201313123",
+			"parentId": 0,
+			"url": "https://front-end.social/@robinwhittleton/117444715176365666",
+			"author": {
+				"name": "Robin Whittleton",
+				"url": "https://front-end.social/@robinwhittleton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/368/535/474/087/976/original/bbcae0cbe7e6c684.jpg"
+			},
+			"date": "2026-10-15T11:35:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wasn’t expecting 72 of my 509 current tabs to be duplicates 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117444969708873848",
+			"parentId": "117442744605090094",
+			"url": "https://fediverse.zachleat.com/@zachleat/117444969708873848",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T12:40:19.240Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mefi.social/@rodneylives\" class=\"u-url mention\">@<span>rodneylives</span></a></span> thanks John! (This would make a great review on the addons site 🫣)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445142147087460",
+			"parentId": "117444715201313123",
+			"url": "https://fediverse.zachleat.com/@zachleat/117445142147087460",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T13:24:10.438Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@robinwhittleton\" class=\"u-url mention\">@<span>robinwhittleton</span></a></span> we have the same problems</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445334181955620",
+			"parentId": "117440204407948414",
+			"url": "https://fediverse.zachleat.com/@zachleat/117445334181955620",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T14:13:00.657Z",
+			"content": "<p>v1.5 of this extension is out now (adds Undo/Redo, a new purgatory Saved section, shows any tabs actively playing audio with Mute controls)</p><p><a href=\"https://addons.mozilla.org/en-US/firefox/addon/list-all-tabs-updated/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/en-US/firef</span><span class=\"invisible\">ox/addon/list-all-tabs-updated/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445444385881646",
+			"parentId": "117441155122657526",
+			"url": "https://mastodon.social/@Richr/117445441361795155",
+			"author": {
+				"name": "Richard Rutter",
+				"url": "https://mastodon.social/@Richr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/661/793/823/433/original/cc3a410a6a2eb865.jpg"
+			},
+			"date": "2026-10-15T14:40:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ardouglass</span></a></span> 'tabs' not abs!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445460366690600",
+			"parentId": "117445334181955620",
+			"url": "https://aoir.social/@JessFairbairn/117445460350562996",
+			"author": {
+				"name": "Jess Fairbairn",
+				"url": "https://aoir.social/@JessFairbairn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/116/770/782/165/175/148/original/5364e5129467010b.jpg"
+			},
+			"date": "2026-10-15T14:45:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You've done a lot better than my version in a short time <a href=\"https://addons.mozilla.org/en-GB/firefox/addon/tab-kraken/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/en-GB/firef</span><span class=\"invisible\">ox/addon/tab-kraken/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445467120106058",
+			"parentId": "117445460366690600",
+			"url": "https://fediverse.zachleat.com/@zachleat/117445467120106058",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T14:46:49.134Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aoir.social/@JessFairbairn\" class=\"u-url mention\">@<span>JessFairbairn</span></a></span> all extensions are beautiful</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445531245475413",
+			"parentId": "117445444385881646",
+			"url": "https://fediverse.zachleat.com/@zachleat/117445531245475413",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T15:03:07.609Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Richr\" class=\"u-url mention\">@<span>Richr</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> I’ve been doing this too long <a href=\"https://github.com/zachleat/seven-minute-tabs\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/seven-minu</span><span class=\"invisible\">te-tabs</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445546414164452",
+			"parentId": "117445531245475413",
+			"url": "https://mastodon.social/@ardouglass/117445546329520230",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2026-10-15T15:06:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Richr\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Richr</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> more like 11 month tabs, am I right? (but it is a vvv good custom element, I've used it on a site).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117445547644608037",
+			"parentId": "117445546414164452",
+			"url": "https://fediverse.zachleat.com/@zachleat/117445547644608037",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T15:07:17.843Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Richr\" class=\"u-url mention\">@<span>Richr</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> *runs away screaming*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117446365348258841",
+			"parentId": "117445334181955620",
+			"url": "https://mastodon.social/@rianmurnen/117446364053048152",
+			"author": {
+				"name": "Rian",
+				"url": "https://mastodon.social/@rianmurnen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/875/544/375/458/original/5a6cb4abf70d7c42.jpg"
+			},
+			"date": "2026-10-15T18:34:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> How days until this becomes a full browser fork… Tabium, Tabzilla</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117446737415395013",
+			"parentId": "117446365348258841",
+			"url": "https://fediverse.zachleat.com/@zachleat/117446737415395013",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-15T20:09:52.303Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rianmurnen\" class=\"u-url mention\">@<span>rianmurnen</span></a></span> brb forming The Iowa Browser Company LLC</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117449682243944343",
+			"parentId": "117445334181955620",
+			"url": "https://front-end.social/@hejchristian/117449682220739143",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://front-end.social/@hejchristian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/116/449/740/285/259/246/original/790e685b08c026c8.jpeg"
+			},
+			"date": "2026-10-16T08:38:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Genuinely thank you for this 🙏 On more than one occasion I've found myself pushing 1000+ tabs, I think with this I might be able to _finally_ wrangle it all a bit better!</p><p>I love that it can group stuff up by host, that makes it really easy to clean up some of the tabs in a few clicks, The duplicate finder is nice too 👌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117450530562885811",
+			"parentId": "117449682243944343",
+			"url": "https://fediverse.zachleat.com/@zachleat/117450530562885811",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-16T12:14:31.139Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@hejchristian\" class=\"u-url mention\">@<span>hejchristian</span></a></span> this would make a lovely review on the mozilla site 🥺</p><p>(and you’re very welcome!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117450824032232578",
+			"parentId": "117440004722519912",
+			"url": "https://fediscience.org/@bmarne/117450823997545158",
+			"author": {
+				"name": "Bertrand Marne",
+				"url": "https://fediscience.org/@bmarne",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/241/005/636/119/102/original/6e0b0fa32e07f8b1.png"
+			},
+			"date": "2026-10-16T13:29:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I tried, it's nice. You're proposing “Important”, “All Tabs” and “Top Hosts” categories, why not All Windows? (close to what is done by <a href=\"https://fediscience.org/tags/alltabshelper\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>alltabshelper</span></a>)</p><p>Another interesting category (but would cost CPU) is like about:performance having the tabs sorted by CPU/RAM consumption…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117451074018540860",
+			"parentId": "117450824032232578",
+			"url": "https://fediverse.zachleat.com/@zachleat/117451074018540860",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-16T14:32:43.614Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediscience.org/@bmarne\" class=\"u-url mention\">@<span>bmarne</span></a></span> I would love to have an option for CPU/Memory directly but I didn’t see any addon-accessible option for those! Thanks for trying it!</p><p>I filed your other idea here: <a href=\"https://github.com/zachleat/list-all-tabs/issues/1\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/list-all-t</span><span class=\"invisible\">abs/issues/1</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117451208162422913",
+			"parentId": "117440204407948414",
+			"url": "https://mastodon.social/@SavaRocks/117451208120957062",
+			"author": {
+				"name": "Sava",
+				"url": "https://mastodon.social/@SavaRocks",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/648/886/144/005/940/original/60eb15edd0afa530.jpeg"
+			},
+			"date": "2026-10-16T15:06:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think your RAM looks 90 years old now ... :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117451278375623321",
+			"parentId": "117451074018540860",
+			"url": "https://fediscience.org/@bmarne/117451278352150719",
+			"private": true,
+			"date": "2026-10-16T15:24:41.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117451281888897689",
+			"parentId": 0,
+			"url": "https://fediscience.org/@bmarne/117451281803600513",
+			"private": true,
+			"date": "2026-10-16T15:25:34.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117451438801470388",
+			"parentId": "117451281888897689",
+			"url": "https://social.patpro.net/@patpro/statuses/01M52QC5W74CBM621YNQB1GK65",
+			"private": true,
+			"date": "2026-10-16T16:05:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117455896136440648",
+			"parentId": "117450530562885811",
+			"url": "https://front-end.social/@hejchristian/117455895997433837",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://front-end.social/@hejchristian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/116/449/740/285/259/246/original/790e685b08c026c8.jpeg"
+			},
+			"date": "2026-10-17T10:59:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great idea! I've made an account to do just that 🙏 </p><p>Thanks again, even my partner was amazed when she looked over to my screen! so we've gone and installed it on her browser too :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117484754049502208",
+			"parentId": "117440297649073161",
+			"url": "https://mastodon.social/@Stolzenhain/117484753932245391",
+			"author": {
+				"name": "Stolzenhain",
+				"url": "https://mastodon.social/@Stolzenhain",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-10-22T13:17:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I do this with the “Save Tabs URLs” add-on that exports tabs to a scratchpad. There are similar ones for better formatting .. but all of them re-open pasted URLs, too.</p><p>You place them in your knowledgebase or just a mail draft and prepend the current date (though the draft would have that, too). With a searchable title, this is easy to get back to. Also: my mail drafts are synched, so I can open them on any machine.</p><p><a href=\"https://addons.mozilla.org/en-US/firefox/addon/save-tab-urls/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/en-US/firef</span><span class=\"invisible\">ox/addon/save-tab-urls/</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

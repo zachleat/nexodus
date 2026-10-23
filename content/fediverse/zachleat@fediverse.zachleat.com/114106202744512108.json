@@ -1,0 +1,103 @@
+{
+	"comments": [
+		{
+			"id": "114106230520333014",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@Greenheart/114106230499793829",
+			"private": true,
+			"date": "2025-03-04T21:15:01.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114106341473913810",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@uncenter/114106341453101719",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2025-03-04T21:43:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>antfu</span></a></span> sweet! some other observations:</p><p>- `var Promise = global.Promise;` is this still needed? i think `Promise` is already available in the global scope by itself 🤔<br>- why do `var EventEmitter = require('node:events').EventEmitter;` instead of `var { EventEmitter } = require('node:events');`? (why we are using `var` is another question entirely...)<br>- i would think you can use node's `path.posix` methods instead of relying on the `slash` package? see <a href=\"https://nodejs.org/api/path.html#windows-vs-posix\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nodejs.org/api/path.html#windo</span><span class=\"invisible\">ws-vs-posix</span></a>.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114106345277784684",
+			"parentId": "114106341473913810",
+			"url": "https://fediverse.zachleat.com/@zachleat/114106345277784684",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-04T21:44:13.287Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> yeah! I did start with #1 but punted after I couldn’t get the repo’s linter to agree with it 😬 #2 and #3 would make good contributions! (this is a fork of an old dependency repo, fwiw, see <a href=\"https://github.com/11ty/eleventy/issues/3299\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/3299</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114106362083838902",
+			"parentId": "114106345277784684",
+			"url": "https://fosstodon.org/@uncenter/114106362062845720",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2025-03-04T21:48:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> &gt; I couldn’t get the repo’s linter to agree with it</p><p>probably because eslint is on version 2! 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114106367188755422",
+			"parentId": "114106362083838902",
+			"url": "https://fediverse.zachleat.com/@zachleat/114106367188755422",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-04T21:49:47.621Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> I didn’t upgrade the dev deps — that package will go away in the future: <a href=\"https://github.com/11ty/eleventy/issues/3360\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/3360</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114106403860605408",
+			"parentId": "114106367188755422",
+			"url": "https://fosstodon.org/@uncenter/114106403847515041",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2025-03-04T21:59:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah i saw that- when would you be willing to require node &gt;= v22.3.0 for eleventy?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114106409420002123",
+			"parentId": "114106403860605408",
+			"url": "https://fediverse.zachleat.com/@zachleat/114106409420002123",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-04T22:00:32.019Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> Not sure! My only point there is that it isn’t worth doing a ton of maintenance on dev deps there (imo) or even code style on the plugin code too for that matter</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114110455741554446",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114110455741554446",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-05T15:09:33.986Z",
+			"content": "<p>This is the one: <a href=\"https://fosstodon.org/@eleventy/114110182403525096\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@eleventy/114110</span><span class=\"invisible\">182403525096</span></a></p><p>With a special nod to GitHub user Jeffalo! (not on Mastodon)</p>",
+			"via": "fediverse"
+		}
+	]
+}

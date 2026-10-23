@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "113592141905417255",
+			"parentId": 0,
+			"url": "https://c.im/@oldcoyote/113592141893193546",
+			"author": {
+				"name": "🌧️ jschof 🌼",
+				"url": "https://c.im/@oldcoyote",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/214/911/237/737/original/f618c080c93716c4.png"
+			},
+			"date": "2024-12-04T02:15:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is conceptually super cool, but unless I'm making streams an async iterable I'm having trouble thinking of when this would be convenient.  Does anyone know of more examples?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113595036026603767",
+			"parentId": "113592141905417255",
+			"url": "https://fediverse.zachleat.com/@zachleat/113595036026603767",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-04T14:31:33.278Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@oldcoyote\" class=\"u-url mention\">@<span>oldcoyote</span></a></span> decoupling a promise from its resolver has been useful for me in a few places (though this code isn’t the cleanest but here’s a deep cut link: <a href=\"https://github.com/11ty/eleventy/blob/c901131cd15d3a65531f25a9804cc9246199649e/src/TemplateContent.js#L442\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/blob/</span><span class=\"invisible\">c901131cd15d3a65531f25a9804cc9246199649e/src/TemplateContent.js#L442</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113597947430250343",
+			"parentId": 0,
+			"url": "https://smeap.com/@max/113597947417941188",
+			"author": {
+				"name": "Max",
+				"url": "https://smeap.com/@max",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-12-05T02:51:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> I still have PTSD from cleaning up the mistakes of jQuery Deferred (and Dojo and Backbone relatives). I know this new API isn’t doomed to repeat the mistakes of the past and the same sorts of wild callback leaks just because it looks the same as some of the bad old predecessors Promises intentionally replaced, but I still worry what some devs are going to misuse with this all the same.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113600723676427312",
+			"parentId": "113597947430250343",
+			"url": "https://fediverse.zachleat.com/@zachleat/113600723676427312",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-05T14:37:59.925Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://smeap.com/@max\" class=\"u-url mention\">@<span>max</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> we can only control the code bases in our control!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113601249495513458",
+			"parentId": "113600723676427312",
+			"url": "https://smeap.com/@max/113601249482003551",
+			"author": {
+				"name": "Max",
+				"url": "https://smeap.com/@max",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-12-05T16:51:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> Sure. But Platforms can still carry the responsibility to try to avoid implementing things that are known to be footgun shaped.</p><p>In my codebases, sure I can just run an eslint rule to avoid this API. Unfortunately, yes, I can’t force my third party dependencies to adopt the same eslint rule no matter how much it impacts me if they shoot themselves in the foot.</p><p>Again, I know I’m worried about a worst case scenario that bad libraries can already do with extra work today.</p>",
+			"via": "fediverse"
+		}
+	]
+}

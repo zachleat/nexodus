@@ -1,0 +1,212 @@
+{
+	"comments": [
+		{
+			"id": "116291992077714700",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jawnsy/116291992019224586",
+			"author": {
+				"name": "Jonathan Yu",
+				"url": "https://mastodon.social/@jawnsy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/690/794/724/729/924/original/b78eb818922f60ba.jpeg"
+			},
+			"date": "2026-03-25T21:42:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matthiasott</span></a></span> I think that's the native aspect ratio of the sensor. Doesn't the HDMI port just output the same image that's visible on the display?</p><p>Have you tried changing your aspect ratio in the settings to 16:9, or did you already do that? I think in that case it just crops off part of the top and bottom of the image</p><p><a href=\"https://helpguide.sony.net/ilc/2070/v1/en/contents/TP0001140431.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">helpguide.sony.net/ilc/2070/v1</span><span class=\"invisible\">/en/contents/TP0001140431.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116292029905724691",
+			"parentId": "116291992077714700",
+			"url": "https://fediverse.zachleat.com/@zachleat/116292029905724691",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-03-25T21:52:33.982Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jawnsy\" class=\"u-url mention\">@<span>jawnsy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> hmm, yeah. I did change that to 16:9 (and have experimented with both Photo and Movie modes on the camera, though that setting is specific to Photo mode)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295212236388187",
+			"parentId": 0,
+			"url": "https://mastodon.social/@matthiasott/116295212123647016",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T11:21:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hey hey! I’d never ignore you! 😁 Let’s see……</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295251786785566",
+			"parentId": "116292029905724691",
+			"url": "https://mastodon.social/@matthiasott/116295251759776906",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T11:31:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jawnsy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jawnsy</span></a></span> In my case, the still image aspect ratio in the settings is set to 3:2 (the sensor size I think). And I am using manual mode (but don’t press record, it is just turned on). But I can look into it in more detail again later… 🧐</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295348641718985",
+			"parentId": "116295251786785566",
+			"url": "https://mastodon.social/@matthiasott/116295348603383994",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T11:56:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jawnsy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jawnsy</span></a></span> Oh, and the camera is set to recording mode (by pressing that button at the top of the camera) and the HDMI resolution (Setup 2 &gt; HDMI Settings) is set to 1080p @ 60p. I also turned the on-screen stuff off, of course</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295436406215216",
+			"parentId": "116295348641718985",
+			"url": "https://mastodon.social/@matthiasott/116295436296693108",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T12:18:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jawnsy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jawnsy</span></a></span> And as with all Sony cameras, you need to set that “Auto Power OFF Temp” setting to high so that the camera doesn’t shut down too quickly when it gets hot. In my case the camera still died on me in the middle of a workshop, so I’m now powering it with a dummy battery instead of the USB cable and it has a heat sink and a USB-powered (and speed-controlled) Noctua fan at the back …😅 Here you can see the madness: <a href=\"https://matthiasott.com/notes/tour-de-noise\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">matthiasott.com/notes/tour-de-</span><span class=\"invisible\">noise</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295751522069415",
+			"parentId": "116295436406215216",
+			"url": "https://fediverse.zachleat.com/@zachleat/116295751522069415",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-03-26T13:39:01.342Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jawnsy\" class=\"u-url mention\">@<span>jawnsy</span></a></span> yeah, I feel like I’ve tried every setting but unfortunately it is still 4:3 raw 😕</p><p>does yours look distorted here? <a href=\"https://codepen.io/zachleat/pen/yyaPrxb/1a9046375c3b18b7d0beb121402049f9\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/zachleat/pen/yyaPrx</span><span class=\"invisible\">b/1a9046375c3b18b7d0beb121402049f9</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295776263935429",
+			"parentId": "116295751522069415",
+			"url": "https://mastodon.social/@matthiasott/116295776034688800",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T13:45:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hmm……🧐 Looks very 16:9-y to me…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295782187105204",
+			"parentId": "116295776263935429",
+			"url": "https://mastodon.social/@matthiasott/116295782049258150",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T13:46:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But is it also 4:3 if you open QuickTime -&gt; New Movie Recording? Or is it only in Slack and the browser?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295834821789923",
+			"parentId": "116295782187105204",
+			"url": "https://fediverse.zachleat.com/@zachleat/116295834821789923",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-03-26T14:00:12.396Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> yeah, just in Slack and Browser. Interestingly, the aspect ratio corrects itself in browser/Slack if I open up the same video stream in Quicktime (so I have a workaround). Is that the native resolution you see in that codepen test? why is mine so smol 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295843486876442",
+			"parentId": "116295834821789923",
+			"url": "https://follow.ethanmarcotte.com/@beep/116295843471180659",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2026-03-26T14:02:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matthiasott</span></a></span> Not sure if this is the same thing — hi sorry for sealioning in, i use my phone for video calls — I have a friend who has to open Photo Booth after joining a call to unsquish the aspect ratio. Sounds similar!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295968094020549",
+			"parentId": "116295843486876442",
+			"url": "https://mastodon.social/@matthiasott/116295967842097577",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T14:34:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> When I was still running Adobe XD workshops, I always had to start the camera first before opening XD, otherwise the image would be completely black. Very convenient when you’re about to start a workshop. 😂 Adobe said that’s Elgato’s bug. Elgato said it’s Adobe’s bug. Maybe I should have tried opening Photo Booth first! 😁</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295979834061347",
+			"parentId": "116295968094020549",
+			"url": "https://fediverse.zachleat.com/@zachleat/116295979834061347",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-03-26T14:37:05.106Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> technology was a mistake</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295980451510294",
+			"parentId": "116295968094020549",
+			"url": "https://mastodon.social/@Kilian/116295980028094896",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://mastodon.social/@Kilian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/567/080/777/595/original/3126534d0903d30f.jpg"
+			},
+			"date": "2026-03-26T14:37:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matthiasott</span></a></span> You can just tell from *all of the above* how convoluted of a bug this is :D</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116295997440001948",
+			"parentId": "116295979834061347",
+			"url": "https://fediverse.zachleat.com/@zachleat/116295997440001948",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-03-26T14:41:33.751Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> (appreciate y’alls help though!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116296000538136387",
+			"parentId": "116295979834061347",
+			"url": "https://mastodon.social/@matthiasott/116296000125137158",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2026-03-26T14:42:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> First we shape our tools, then our tools squish us to a 4:3 aspect ratio</p>",
+			"via": "fediverse"
+		}
+	]
+}

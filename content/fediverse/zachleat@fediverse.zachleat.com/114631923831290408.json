@@ -1,0 +1,267 @@
+{
+	"comments": [
+		{
+			"id": "114632228158758944",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114632228158758944",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-05T18:43:09.237Z",
+			"content": "<p>decoupled this one right out of 11ty’s new demo/playground component: <a href=\"https://neighborhood.11ty.dev/@11ty/114519676689929120\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">neighborhood.11ty.dev/@11ty/11</span><span class=\"invisible\">4519676689929120</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114632475255814567",
+			"parentId": 0,
+			"url": "https://mastodon.social/@loucyx/114632475131715260",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2025-06-05T19:45:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> FYI: I tested the demo on Safari for iOS and two things that look kinda weird:</p><p>1. The line numbers are kinda laggy (almost looks like they are on a different framerate).<br>2. It doesn't work well with the \"overscroll\" behavior.</p><p>Here's a recording: <a href=\"https://i.imgur.com/BWASSxj.mp4\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">i.imgur.com/BWASSxj.mp4</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114632558257858723",
+			"parentId": "114632475255814567",
+			"url": "https://fediverse.zachleat.com/@zachleat/114632558257858723",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-05T20:07:06.151Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\">@<span>loucyx</span></a></span> thanks for testing! fair point about overscroll, I don’t think there is an `overscroll-behavior` value that makes sense for the component to add though — this seems more like an app-level option</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114632571355869542",
+			"parentId": "114632558257858723",
+			"url": "https://mastodon.social/@loucyx/114632571278661769",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2025-06-05T20:10:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yup. That's why I pointed it out as \"odd\", mainly because I would expect the line numbers to always be aligned with the lines. Those two things makes it feel \"disconnected\", but I'm guessing that's because the component is non-intrusive, so it adds the line numbers \"next to\" the lines, not \"into\" the lines.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114632595403116886",
+			"parentId": "114632571355869542",
+			"url": "https://fediverse.zachleat.com/@zachleat/114632595403116886",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-05T20:16:32.943Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\">@<span>loucyx</span></a></span> yeah — tradeoffs!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114632661384174883",
+			"parentId": 0,
+			"url": "https://mastodon.ml/@bano/114632661346520654",
+			"private": true,
+			"date": "2025-06-05T20:33:19.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114632702366912554",
+			"parentId": "114632661384174883",
+			"url": "https://fediverse.zachleat.com/@zachleat/114632702366912554",
+			"private": true,
+			"date": "2025-06-05T20:43:45.081Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114636686838294264",
+			"parentId": 0,
+			"url": "https://toot.cafe/@bkardell/114636686506672039",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2025-06-06T13:36:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wondered if this was going to just * display inline and do a generated content \"1\" :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114636693055079470",
+			"parentId": "114636686838294264",
+			"url": "https://fediverse.zachleat.com/@zachleat/114636693055079470",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-06T13:38:38.151Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> look, our line-based code coverage metrics have never been better!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114637712179926469",
+			"parentId": 0,
+			"url": "https://w3c.social/@tink/114637712131544609",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-06T17:57:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  This is timely because I've been looking into a challenge with a similar thing, the challenge being that screen readers can't/don't read the line numbers.</p><p>Using your demos:<br><a href=\"https://www.dropbox.com/scl/fi/m0mo1daul01audkpssrly/Responses-to-questions.md?rlkey=3bbh9jiczxgndkp41lorm13lj&amp;dl=0\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dropbox.com/scl/fi/m0mo1daul01</span><span class=\"invisible\">audkpssrly/Responses-to-questions.md?rlkey=3bbh9jiczxgndkp41lorm13lj&amp;dl=0</span></a></p><p>I *think your component may have the same challenge. Any ideas on how it might be solved? </p><p>Full disclosure, I've been stumped so far!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114638100241621594",
+			"parentId": "114637712179926469",
+			"url": "https://fediverse.zachleat.com/@zachleat/114638100241621594",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-06T19:36:30.112Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@tink\" class=\"u-url mention\">@<span>tink</span></a></span> yeah, you’re right — the numbers are aria-hidden. I could modify the component to have the line content embedded in the `&lt;ul&gt;` (but not visible) and hide the primary element from screen readers — that would be better for `&lt;pre&gt;` maybe but not textarea!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114641910760543732",
+			"parentId": "114638100241621594",
+			"url": "https://w3c.social/@tink/114641910714213783",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-07T11:45:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That'd do nicely for the pre, you're right. I'm not even sure there is a solution for textareas though?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114644340303123087",
+			"parentId": "114641910760543732",
+			"url": "https://fediverse.zachleat.com/@zachleat/114644340303123087",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-07T22:03:25.895Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@tink\" class=\"u-url mention\">@<span>tink</span></a></span> if content duplication isn’t an issue, it could be solved the same way but it would have some live region complexity to it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114647016869217742",
+			"parentId": "114644340303123087",
+			"url": "https://w3c.social/@tink/114647016820901374",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-08T09:24:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  I wondered about a live region but kept introducing issues as fast as removing them 🥴</p><p>If the line num is in the notification, the problem is timing and not having the notification and the s/reader speaking the line of code overspeak each other.</p><p>If the line num and the line of code is in the notification, then duplication is the problem like you mentioned.</p><p>...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114647018558511223",
+			"parentId": "114644340303123087",
+			"url": "https://w3c.social/@tink/114647018425711800",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-08T09:24:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>AFAIK there's no way to temporarily stop the s/reader reading the line of code in the textarea when first navigated to (leaving the notification to do the job), and even if there was it'd likely make interacting with the textarea content after that too brittle to be viable.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114653750119753843",
+			"parentId": "114647018558511223",
+			"url": "https://fediverse.zachleat.com/@zachleat/114653750119753843",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-09T13:56:28.304Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@tink\" class=\"u-url mention\">@<span>tink</span></a></span> just to brainstorm, I wonder if it would be better to have a pre-&gt;textarea toggle that requires an opt-in for editing. that way the Viewer mode would be a &lt;pre&gt; (easier problem) and editing could re-sync the `&lt;pre&gt;` content</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114654410359732865",
+			"parentId": "114653750119753843",
+			"url": "https://w3c.social/@tink/114654410293815430",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-09T16:44:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Can you explain that a bit more? Not sure I quite understand.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114654426635203317",
+			"parentId": "114653750119753843",
+			"url": "https://w3c.social/@tink/114654426549079295",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-09T16:48:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Chatted about this with Craig and Joe (also from TetraLogical) and the idea of a shortcut that triggered a live region notification with the line number in came up.</p><p>No idea if the given line number could be determined in this case. The chosen shortcut would need to be exposed to s/reader users too, perhaps using aria-describedby on the textarea, and it'd need not to conflict with existing shortcuts (easier said than done), but it might just work... 🧐</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114654496158178043",
+			"parentId": "114654410359732865",
+			"url": "https://fediverse.zachleat.com/@zachleat/114654496158178043",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-09T17:06:11.945Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@tink\" class=\"u-url mention\">@<span>tink</span></a></span> well, there are two separate problems here right? One is a scenario in which the textarea is readonly-esque and you want to report the value with line numbers outside of editing. The other is reporting line numbers while a user is editing? I’m not even sure what the latter might look like? e.g. “Your cursor is on line 4, which has the following code:”?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114658962434434889",
+			"parentId": "114654496158178043",
+			"url": "https://w3c.social/@tink/114658962391996631",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-10T12:02:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes, I think so. I'm guessing the readonly scenario is where the pre comes in? So could be fixed, perhaps, by unhiding the line numbers?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114658970737563705",
+			"parentId": "114654496158178043",
+			"url": "https://w3c.social/@tink/114658967777152673",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-06-10T12:03:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The other scenario (when editing inside the textarea) is what the k'board shortcut to report the current line number *might be able to solve?</p><p>Lots of \"ifs\", \"buts\", and \"maybes\" in there though!</p>",
+			"via": "fediverse"
+		}
+	]
+}

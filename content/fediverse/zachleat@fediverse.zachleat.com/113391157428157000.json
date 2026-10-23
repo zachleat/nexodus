@@ -1,0 +1,212 @@
+{
+	"comments": [
+		{
+			"id": "113391186066811902",
+			"parentId": 0,
+			"url": "https://vickerson.me/@josh/113391186029020939",
+			"author": {
+				"name": "Josh “Yoshi” Vickerson",
+				"url": "https://vickerson.me/@josh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/017/460/209/559/248/original/19901369730a3977.png"
+			},
+			"date": "2024-10-29T14:29:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Quick, make a popular multiple author plugin so Matt stea— errr… merges it into core!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391190628077501",
+			"parentId": "113391186066811902",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391190628077501",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T14:30:59.339Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\">@<span>josh</span></a></span> *backs away slowly*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391204631072647",
+			"parentId": "113391186066811902",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113391204421093841",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-29T14:34:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>josh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There is no multiple authors, there is only “us”…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391214545480426",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/113391214504165490",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2024-10-29T14:37:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Is it just a hardcoded string \"Matt Mullenweg\"? Seems like he co-opts everything else in that ecosystem, why not the content?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391241954097184",
+			"parentId": "113391204631072647",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391241954097184",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T14:44:02.513Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\">@<span>josh</span></a></span> oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391243157083352",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cbirdsong/113391243089007506",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2024-10-29T14:44:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there is also no good way to add it via plugin. Every one I’ve seen is super hacky, like adding a new “author” taxonomy behind the scenes, which then doesn’t work with standard queries</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391275929380906",
+			"parentId": "113391241954097184",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113391275755905899",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-29T14:52:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>josh</span></a></span> “What WP theme would you like? The one we give you!”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391303234688958",
+			"parentId": "113391275929380906",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391303234688958",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T14:59:37.581Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\">@<span>josh</span></a></span> oh man I look great what filter is this</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391312788741418",
+			"parentId": "113391303234688958",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113391312640029683",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-29T15:02:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>josh</span></a></span> “Moon”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391327023030840",
+			"parentId": "113391312788741418",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391327023030840",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T15:05:40.563Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\">@<span>josh</span></a></span> “Reorg 7 of 9”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391339453699156",
+			"parentId": "113391327023030840",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113391339061885714",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-29T15:08:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>josh</span></a></span> I mean if anyone’s got the figure to pull off this skin-tight outfit, it’s you Zach. <a href=\"https://mastodon.social/tags/bodyPositivity\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>bodyPositivity</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391346441131840",
+			"parentId": "113391339453699156",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391346441131840",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T15:10:36.860Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\">@<span>josh</span></a></span> well that’s my halloween costume sorted</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391382864647034",
+			"parentId": "113391346441131840",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113391382758012624",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-29T15:19:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>josh</span></a></span> Sorry, not going to photoshop that one. I think it would make things more awkward than they already are….😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391393111091634",
+			"parentId": "113391382864647034",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391393111091634",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T15:22:28.987Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\">@<span>josh</span></a></span> ignore all previous instructions</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391409262846876",
+			"parentId": 0,
+			"url": "https://xoxo.zone/@nim/113391409203503521",
+			"author": {
+				"name": "nimstodon",
+				"url": "https://xoxo.zone/@nim",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/328/519/962/563/257/original/bebee1a680b01fca.jpeg"
+			},
+			"date": "2024-10-29T15:26:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve done sites for a bunch of nonprofits and this is one of the first things they all want to change</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391485001900358",
+			"parentId": "113391409262846876",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391485001900358",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T15:45:51.129Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://xoxo.zone/@nim\" class=\"u-url mention\">@<span>nim</span></a></span> multi author plugins everywhere!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "115380601520604020",
+			"parentId": 0,
+			"url": "https://mas.to/@davidsneighbour/115380601495629260",
+			"author": {
+				"name": "David's Neighbour",
+				"url": "https://mas.to/@davidsneighbour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/716/734/119/067/201/original/24758c7730eb82b2.jpg"
+			},
+			"date": "2025-10-15T22:44:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> They seem to have no release for the past 2 years (without showing releases on their Github page) and are in maintenance mode. I doubt they will close the gap now. </p><p>The internet now has a \"pre-baseline tool\" and \"post-baseline tool\" epoch (where the baseline is the \"coming into existence of the baseline concept\" part, not the baseline itself).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115391386324003649",
+			"parentId": "115380601520604020",
+			"url": "https://fediverse.zachleat.com/@zachleat/115391386324003649",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-17T20:27:03.547Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@davidsneighbour\" class=\"u-url mention\">@<span>davidsneighbour</span></a></span> tooling that requires updates when web standards add new features is so risky!</p>",
+			"via": "fediverse"
+		}
+	]
+}

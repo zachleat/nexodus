@@ -1,0 +1,316 @@
+{
+	"comments": [
+		{
+			"id": "114229097029464725",
+			"parentId": 0,
+			"url": "https://indieweb.social/@alesroubicek/114229096976324810",
+			"author": {
+				"name": "Aleš Roubíček",
+				"url": "https://indieweb.social/@alesroubicek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/665/449/134/742/777/original/bb4c57c25ebaf52c.webp"
+			},
+			"date": "2025-03-26T14:01:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Browsers should do better than size-shaming</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229097281115762",
+			"parentId": 0,
+			"url": "https://appdot.net/@mikehoss/114229097262048483",
+			"author": {
+				"name": "Mike Hostetler",
+				"url": "https://appdot.net/@mikehoss",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/474/688/305/133/038/original/ef52823ac4e11953.jpg"
+			},
+			"date": "2025-03-26T14:01:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but doesn’t jQuery work better that way?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229106060062089",
+			"parentId": "114229097281115762",
+			"url": "https://fediverse.zachleat.com/@zachleat/114229106060062089",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T14:03:54.168Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://appdot.net/@mikehoss\" class=\"u-url mention\">@<span>mikehoss</span></a></span> it used to matter a lot before querySelector! But erroring at 1400 nodes — I’m trying to feed my family here</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229107335528576",
+			"parentId": "114229097029464725",
+			"url": "https://fediverse.zachleat.com/@zachleat/114229107335528576",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T14:04:13.631Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alesroubicek\" class=\"u-url mention\">@<span>alesroubicek</span></a></span> especially not at 800 nodes, c’mon</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229156166138104",
+			"parentId": 0,
+			"url": "https://mastodon.social/@chris22smith/114229156129921350",
+			"author": {
+				"name": "Chris Smith",
+				"url": "https://mastodon.social/@chris22smith",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/504/405/888/229/329/original/4ee6b2d6bf637c14.gif"
+			},
+			"date": "2025-03-26T14:16:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm being told that too by Lighthouse but my DOM has 49,000 nodes, so I have to hold my hands up.</p><p>In reality, with content-visibility: auto on my repeated nodes, it still performs quite well, but I'll give it a trim.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229157434049568",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/114229157392126704",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2025-03-26T14:16:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Dude all you have to do it put you entire JS bundle/workflow behind a `setTimeout(work, 3000)` and you will ace that test EVERY TIME!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229181698295475",
+			"parentId": 0,
+			"url": "https://yatil.social/@yatil/114229181672884812",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2025-03-26T14:23:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> *looks at <a href=\"https://www.w3.org/WAI/WCAG22/quickref/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">w3.org/WAI/WCAG22/quickref/</span><span class=\"invisible\"></span></a>*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229251318131361",
+			"parentId": "114229107335528576",
+			"url": "https://indieweb.social/@polarbirke/114229251308359931",
+			"author": {
+				"name": "Søren Birkemeyer",
+				"url": "https://indieweb.social/@polarbirke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/802/839/296/356/original/5c89c42a0ceea90b.gif"
+			},
+			"date": "2025-03-26T14:40:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alesroubicek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>alesroubicek</span></a></span> Agree that 800 is an excessive threshold size, but I like the trigger to question whether there might be a way to make the DOM leaner.</p><p>We saw nice benefits for mobile users when we switched to incremental loading of upcoming events (chunks of 7 days) for a state opera website. Now initial load contains ~900-1000 DOM nodes instead of ~16.000.</p><p>`content-visibility` will for sure be a player here, but we had too many accessibility concerns when we investigated it last year.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229280445124572",
+			"parentId": "114229251318131361",
+			"url": "https://indieweb.social/@alesroubicek/114229280420776102",
+			"author": {
+				"name": "Aleš Roubíček",
+				"url": "https://indieweb.social/@alesroubicek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/665/449/134/742/777/original/bb4c57c25ebaf52c.webp"
+			},
+			"date": "2025-03-26T14:48:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@polarbirke\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>polarbirke</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> When you do incremental loading, you still end up with ~16.000 nodes in the end. :) We need a native virtual scroller for this.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229284636393446",
+			"parentId": "114229107335528576",
+			"url": "https://floss.social/@webbureaucrat/114229284609778124",
+			"author": {
+				"name": "webbureaucrat",
+				"url": "https://floss.social/@webbureaucrat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/470/005/055/358/994/original/9d33992f38e0fb47.png"
+			},
+			"date": "2025-03-26T14:49:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alesroubicek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>alesroubicek</span></a></span> </p><p>In this economy?!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229352537456305",
+			"parentId": "114229284636393446",
+			"url": "https://fediverse.zachleat.com/@zachleat/114229352537456305",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T15:06:35.114Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://floss.social/@webbureaucrat\" class=\"u-url mention\">@<span>webbureaucrat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alesroubicek\" class=\"u-url mention\">@<span>alesroubicek</span></a></span> *exactly*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229357327864276",
+			"parentId": "114229156166138104",
+			"url": "https://fediverse.zachleat.com/@zachleat/114229357327864276",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T15:07:48.210Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chris22smith\" class=\"u-url mention\">@<span>chris22smith</span></a></span> ok wait 49K is wild</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229358973716796",
+			"parentId": "114229157434049568",
+			"url": "https://fediverse.zachleat.com/@zachleat/114229358973716796",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T15:08:13.324Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> client rendering is always faster weeeee</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229360415561361",
+			"parentId": "114229181698295475",
+			"url": "https://fediverse.zachleat.com/@zachleat/114229360415561361",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T15:08:35.325Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\">@<span>yatil</span></a></span> see, they get it. 9616 nodes is barely a scratch!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229374995152568",
+			"parentId": "114229357327864276",
+			"url": "https://mastodon.social/@chris22smith/114229374657086131",
+			"author": {
+				"name": "Chris Smith",
+				"url": "https://mastodon.social/@chris22smith",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/504/405/888/229/329/original/4ee6b2d6bf637c14.gif"
+			},
+			"date": "2025-03-26T15:12:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's one of those badly designed all data ever scenarios. It'll just keep going till it snaps.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229404733843528",
+			"parentId": "114229360415561361",
+			"url": "https://yatil.social/@yatil/114229404722924364",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2025-03-26T15:19:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hehe :-) For the amount of content that is in there, it really is not that much. It has an HTML file size that is smaller than most of the JS frameworks these days, and yet I had a lot of doubts putting a file that size.</p><p>(Tho that was with Flash and Silverlight techniques which balooned to over 1MB, if I recall correctly.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229501523427857",
+			"parentId": 0,
+			"url": "https://vickerson.me/@josh/114229501514489348",
+			"author": {
+				"name": "Josh “Yoshi” Vickerson",
+				"url": "https://vickerson.me/@josh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/017/460/209/559/248/original/19901369730a3977.png"
+			},
+			"date": "2025-03-26T15:44:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🎶 I like big DOMs and I cannot lie 🎶</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229510967925296",
+			"parentId": "114229404733843528",
+			"url": "https://fediverse.zachleat.com/@zachleat/114229510967925296",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T15:46:52.572Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\">@<span>yatil</span></a></span> clearly a 🏆.</p><p><a href=\"https://www.11ty.dev/speedlify/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/speedlify/</span><span class=\"invisible\"></span></a> is 8104! we’re all in this one together</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229765331221934",
+			"parentId": "114229280445124572",
+			"url": "https://indieweb.social/@polarbirke/114229765306831367",
+			"author": {
+				"name": "Søren Birkemeyer",
+				"url": "https://indieweb.social/@polarbirke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/802/839/296/356/original/5c89c42a0ceea90b.gif"
+			},
+			"date": "2025-03-26T16:51:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alesroubicek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>alesroubicek</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You're right!</p><p>But… it depends on the scenario.</p><p>Sure, if you scroll down into the future until you load events for Christmas, you'll get to 16k. </p><p>There's filter by month feature though and the server returns a new page with (again) only events for the first 7 days of that month.</p><p>Also, most visitors either look for events that happen soon (like, within a fortnight, because they're local) or far away (like, in a few months because they're tourists arriving on vacation).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114229789357915988",
+			"parentId": "114229765331221934",
+			"url": "https://indieweb.social/@polarbirke/114229789339002025",
+			"author": {
+				"name": "Søren Birkemeyer",
+				"url": "https://indieweb.social/@polarbirke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/802/839/296/356/original/5c89c42a0ceea90b.gif"
+			},
+			"date": "2025-03-26T16:57:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alesroubicek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>alesroubicek</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not sure if a native virtual scroller would be needed or if content-visibility is going to be the catch-all already, but obviously we and the state opera are nowhere near the end of the journey.</p><p>I just wanted to make a (small) case that the DOM node threshold can lead to something good. 😁</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114230262028136751",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jgarber/114230261931392470",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-03-26T18:57:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If it can’t fit in a `&lt;div id=\"app\"&gt;&lt;/div&gt;`, I don’t want it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114230264180037967",
+			"parentId": "114230262028136751",
+			"url": "https://fediverse.zachleat.com/@zachleat/114230264180037967",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-26T18:58:25.675Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> 100K nodes or bust</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114230309711659402",
+			"parentId": "114230264180037967",
+			"url": "https://indieweb.social/@jgarber/114230309680652240",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-03-26T19:09:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>•slaps roof of car•</p><p>this bad boy can fit so many fucking nodes in it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114233441526024823",
+			"parentId": 0,
+			"url": "https://swiss.social/@xeophin/114233441498462530",
+			"author": {
+				"name": "xeophin",
+				"url": "https://swiss.social/@xeophin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/634/750/025/687/143/original/0f2662391bd0e3ed.jpeg"
+			},
+			"date": "2025-03-27T08:26:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Nothing wrong with being a DOM TOP 🙃</p>",
+			"via": "fediverse"
+		}
+	]
+}

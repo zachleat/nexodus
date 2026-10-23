@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "116489094255230084",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jeremyjackson/116489094147880682",
+			"author": {
+				"name": "jeremy // making Star Spark",
+				"url": "https://mastodon.social/@jeremyjackson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/781/511/231/208/110/original/66c39f92037d306b.gif"
+			},
+			"date": "2026-04-29T17:08:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Happens to the best of us :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116489104088304926",
+			"parentId": "116489094255230084",
+			"url": "https://fediverse.zachleat.com/@zachleat/116489104088304926",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-29T17:11:07.363Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jeremyjackson\" class=\"u-url mention\">@<span>jeremyjackson</span></a></span> sure but what about me 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116489215692733856",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/116489215642746371",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2026-04-29T17:39:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> given all the supply chain attacks that might have been the safest thing to forget.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116489436164971373",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jasonkarns/116489436148197432",
+			"author": {
+				"name": "jasonkarns",
+				"url": "https://indieweb.social/@jasonkarns",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/732/846/803/418/446/original/66056b238ea9b205.png"
+			},
+			"date": "2026-04-29T18:35:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my most used git hook is a check for changes to lockfiles (npm, bundler, schema.rb) and alerts me if I need to run a command.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116489522403326854",
+			"parentId": "116489436164971373",
+			"url": "https://fediverse.zachleat.com/@zachleat/116489522403326854",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-29T18:57:30.344Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jasonkarns\" class=\"u-url mention\">@<span>jasonkarns</span></a></span> ooh cool idea! do you have more specific detail?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116493424480922867",
+			"parentId": "116489522403326854",
+			"url": "https://indieweb.social/@jasonkarns/116493424453841834",
+			"author": {
+				"name": "jasonkarns",
+				"url": "https://indieweb.social/@jasonkarns",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/732/846/803/418/446/original/66056b238ea9b205.png"
+			},
+			"date": "2026-04-30T11:29:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> here's the hook script <a href=\"https://github.com/jasonkarns/dotfiles/blob/main/.config/git/hooks/post-checkout/cmd-reminder\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jasonkarns/dotfiles</span><span class=\"invisible\">/blob/main/.config/git/hooks/post-checkout/cmd-reminder</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116495543170081706",
+			"parentId": "116493424480922867",
+			"url": "https://fediverse.zachleat.com/@zachleat/116495543170081706",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-30T20:28:39.953Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jasonkarns\" class=\"u-url mention\">@<span>jasonkarns</span></a></span> thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116501652191991742",
+			"parentId": "116495543170081706",
+			"url": "https://indieweb.social/@jasonkarns/116501652170301824",
+			"author": {
+				"name": "jasonkarns",
+				"url": "https://indieweb.social/@jasonkarns",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/732/846/803/418/446/original/66056b238ea9b205.png"
+			},
+			"date": "2026-05-01T22:22:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fair warning, the yarn check is probably not compatible across yarn versions. This script hasn’t been touched in a while.</p><p>So if you tweak it, PR me!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "115571115038209044",
+			"parentId": 0,
+			"url": "https://mastodon.social/@grooovinger/115571114612830050",
+			"author": {
+				"name": "Martin Grubinger",
+				"url": "https://mastodon.social/@grooovinger",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/653/035/686/101/original/208fd03b8d7cf5dd.jpg"
+			},
+			"date": "2025-11-18T14:14:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> can't be *that* dangerous after all 😆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115571289966039228",
+			"parentId": "115571115038209044",
+			"url": "https://fediverse.zachleat.com/@zachleat/115571289966039228",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-18T14:58:55.273Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@grooovinger\" class=\"u-url mention\">@<span>grooovinger</span></a></span> 😅😅😅😅 look, I’m wondering if we wait for the retro before we wade in too deep here</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115571318947540144",
+			"parentId": "115571289966039228",
+			"url": "https://mastodon.social/@grooovinger/115571318907957626",
+			"author": {
+				"name": "Martin Grubinger",
+				"url": "https://mastodon.social/@grooovinger",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/653/035/686/101/original/208fd03b8d7cf5dd.jpg"
+			},
+			"date": "2025-11-18T15:06:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I see no reason to do so 😆</p><p>I mean it could just as well be a missing use:server for their DNS app. Or everything is mounted in the wrong &lt;Activity&gt; branch. Should we take bets? 😁</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115571359221004822",
+			"parentId": "115571318947540144",
+			"url": "https://fediverse.zachleat.com/@zachleat/115571359221004822",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-18T15:16:32.019Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@grooovinger\" class=\"u-url mention\">@<span>grooovinger</span></a></span> *backs away slowly* 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115668589781629700",
+			"parentId": 0,
+			"url": "https://mastodon.social/@grooovinger/115668589461296217",
+			"author": {
+				"name": "Martin Grubinger",
+				"url": "https://mastodon.social/@grooovinger",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/653/035/686/101/original/208fd03b8d7cf5dd.jpg"
+			},
+			"date": "2025-12-05T19:23:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> still not. next time, maybe!</p>",
+			"via": "fediverse"
+		}
+	]
+}

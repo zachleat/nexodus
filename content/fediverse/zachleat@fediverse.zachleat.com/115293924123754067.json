@@ -1,0 +1,111 @@
+{
+	"comments": [
+		{
+			"id": "115293992534582759",
+			"parentId": 0,
+			"url": "https://im-in.space/@dubiousdisc/115293992369909392",
+			"author": {
+				"name": "Darshak Parikh",
+				"url": "https://im-in.space/@dubiousdisc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/767/313/800/479/original/78687f4ba7a19bdd.png"
+			},
+			"date": "2025-09-30T15:38:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Definitely. I've shared this feeling for a long while now. But how do we do that? Are there any initiatives that you know of?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115294072459638906",
+			"parentId": "115293992534582759",
+			"url": "https://fediverse.zachleat.com/@zachleat/115294072459638906",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-30T15:58:51.818Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://im-in.space/@dubiousdisc\" class=\"u-url mention\">@<span>dubiousdisc</span></a></span> I hesitate to give any answer that suggests more centralization but (imo) investing in community that isn’t centered on specific tools and infrastructure would be a great start</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115294610466763629",
+			"parentId": 0,
+			"url": "https://stefanbohacek.online/@stefan/115294610405173187",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/946/687/737/848/original/8b728a10cac32c70.png"
+			},
+			"date": "2025-09-30T18:15:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>!</p><p>Only tangentially related, sorry, but have you heard about Weird Web October?</p><p><a href=\"https://weirdweboctober.website\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">weirdweboctober.website</span><span class=\"invisible\"></span></a></p><p>Might be a fun event to help promote as way to build up the indie web community!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115294784925662616",
+			"parentId": "115294072459638906",
+			"url": "https://indiepocalypse.social/@bugbear/115294784897778898",
+			"private": true,
+			"date": "2025-09-30T19:00:02.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115294807728700513",
+			"parentId": "115294784925662616",
+			"url": "https://fediverse.zachleat.com/@zachleat/115294807728700513",
+			"private": true,
+			"date": "2025-09-30T19:05:51.133Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115295666971648715",
+			"parentId": "115294610466763629",
+			"url": "https://hachyderm.io/@TheIdOfAlan/115295666916124715",
+			"author": {
+				"name": "alan :blobfoxheadphones:",
+				"url": "https://hachyderm.io/@TheIdOfAlan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/237/370/375/665/original/ea5c3da9a6d6fac9.png"
+			},
+			"date": "2025-09-30T22:44:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stefanbohacek.online/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> whoa. I've got my process down to where I can spin up a new site in under 5min. this would be hell of a good way to put in some reps if I can remember to do it. </p><p>(thinking I'll go ahead an make stubs for them all tonight so I can just edit and ship the actual code... :blobfoxthink: )</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115295693615109899",
+			"parentId": "115295666971648715",
+			"url": "https://stefanbohacek.online/@stefan/115295693535529531",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/946/687/737/848/original/8b728a10cac32c70.png"
+			},
+			"date": "2025-09-30T22:51:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@TheIdOfAlan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>TheIdOfAlan</span></a></span> Nice, looking forward to seeing what you'll make!</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115298509143688139",
+			"parentId": 0,
+			"url": "https://mas.to/@onreact/115298509124887474",
+			"author": {
+				"name": "onreact",
+				"url": "https://mas.to/@onreact",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-10-01T10:47:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes! Start by not spreading division as in us vs them (good vs bad people).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115301172181505830",
+			"parentId": "115295693615109899",
+			"url": "https://hachyderm.io/@TheIdOfAlan/115301172139670904",
+			"author": {
+				"name": "alan :blobfoxheadphones:",
+				"url": "https://hachyderm.io/@TheIdOfAlan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/237/370/375/665/original/ea5c3da9a6d6fac9.png"
+			},
+			"date": "2025-10-01T22:04:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stefanbohacek.online/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> alright. day on of weird web october is up. the theme is transparency</p><p><a href=\"https://wwo-2025-1.alanwsmith.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wwo-2025-1.alanwsmith.com/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

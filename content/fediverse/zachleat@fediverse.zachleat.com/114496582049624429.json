@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "114496615761867201",
+			"parentId": 0,
+			"url": "https://mattstodon.panar.ooo/@eigen/114496615708794396",
+			"author": {
+				"name": "Matt Panaro",
+				"url": "https://mattstodon.panar.ooo/@eigen",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-05-12T19:55:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm actually a big fan of this: it has a negative `wat` factor.  It has to return a string, and it does; and there's nothing at all to join, so there's nothing at all in the string: it's just empty.  If only the rest of the language were as predictable &amp; consistent 😛</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114496629738908589",
+			"parentId": "114496615761867201",
+			"url": "https://fediverse.zachleat.com/@zachleat/114496629738908589",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-12T19:58:41.553Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mattstodon.panar.ooo/@eigen\" class=\"u-url mention\">@<span>eigen</span></a></span> we love a predictable string</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114496725738001176",
+			"parentId": "114496629738908589",
+			"url": "https://mattstodon.panar.ooo/@eigen/114496725685047573",
+			"author": {
+				"name": "Matt Panaro",
+				"url": "https://mattstodon.panar.ooo/@eigen",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-05-12T20:23:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> in this language, we love a predictable ·anything· 😝</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114497028475311716",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/114497028417179594",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-05-12T21:40:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://262.ecma-international.org/#sec-array.prototype.join\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">262.ecma-international.org/#se</span><span class=\"invisible\">c-array.prototype.join</span></a></p><p>Because R gets set to '' before it starts a loopin over values and gets returned at the end regardless. :D</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114497058118523335",
+			"parentId": 0,
+			"url": "https://social.lol/@bw/114497057793701620",
+			"author": {
+				"name": "Blake Watson :prami:",
+				"url": "https://social.lol/@bw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/605/727/192/440/original/576348ada777517b.jpeg"
+			},
+			"date": "2025-05-12T21:47:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114497102352423546",
+			"parentId": "114497058118523335",
+			"url": "https://indieweb.social/@clhenrick/114497102328492005",
+			"author": {
+				"name": "Chris Henrick",
+				"url": "https://indieweb.social/@clhenrick",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/394/247/013/828/172/original/ea78438788d1a81b.png"
+			},
+			"date": "2025-05-12T21:58:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have similar vibes about [].every(() =&gt; {}) or [].every((value) =&gt; value) and guess what those both evaluate to?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114497136969984605",
+			"parentId": "114497102352423546",
+			"url": "https://social.lol/@bw/114497136930974747",
+			"author": {
+				"name": "Blake Watson :prami:",
+				"url": "https://social.lol/@bw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/605/727/192/440/original/576348ada777517b.jpeg"
+			},
+			"date": "2025-05-12T22:07:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@clhenrick\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>clhenrick</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I feel like I just fixed a bug at work the other day related to this. It evaluates to true, doesn't it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114497530661873928",
+			"parentId": "114497058118523335",
+			"url": "https://mastodon.social/@spartanatreyu/114497530631309897",
+			"author": {
+				"name": "spartanatreyu",
+				"url": "https://mastodon.social/@spartanatreyu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/732/167/665/072/284/original/6ad9a61ded0a2136.jpg"
+			},
+			"date": "2025-05-12T23:47:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wait until you go down the rabbit hole of Church Numerals, Lambda Calculus and other related calculi.</p><p>This is a pretty good initial eye-opener:</p><p><a href=\"https://www.youtube.com/watch?v=RcVA8Nj6HEo\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/watch?v=RcVA8Nj6HEo</span><span class=\"invisible\"></span></a></p><p>There's also some videos of folks who will take an extremely basic programming \"environment\" where code and data are the same, and bootstrap a language out of it.</p>",
+			"via": "fediverse"
+		}
+	]
+}

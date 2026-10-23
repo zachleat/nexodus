@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "114433589816065034",
+			"parentId": 0,
+			"url": "https://diaspodon.fr/@thom4/114433589639121985",
+			"author": {
+				"name": "thomas",
+				"url": "https://diaspodon.fr/@thom4",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/766/847/460/301/original/f7233c9764e0a00a.jpeg"
+			},
+			"date": "2025-05-01T16:46:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah. The Vue ecosystem has spun out a set of great dev friendly tools.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114433978561314437",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@pauleveritt/114433978537086582",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2025-05-01T18:25:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And it's pretty smart about only re-running the tests for the changes you made. Even when running under debugger, it's almost as fast as I type.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114441393145266512",
+			"parentId": 0,
+			"url": "https://mastodon.social/@luhr/114441393113425219",
+			"author": {
+				"name": "David Luhr",
+				"url": "https://mastodon.social/@luhr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/105/489/816/077/589/original/ef655bb7176e7947.jpg"
+			},
+			"date": "2025-05-03T01:51:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> very excited about Browser Mode.</p><p>I've been using Web Test Runner with Mocha/Chai for this for about 2 years and it's my favorite way to do TDD. I even learned about a Firefox bug that's been open since 2001 I would have never otherwise been able to identify.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114455535586836667",
+			"parentId": "114441393145266512",
+			"url": "https://fediverse.zachleat.com/@zachleat/114455535586836667",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-05T13:47:54.556Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@luhr\" class=\"u-url mention\">@<span>luhr</span></a></span> amazing!! Here’s me in 2010 doing something similar with JsTestDriver: <a href=\"https://www.zachleat.com/web/javascript-tdd/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/javascript-td</span><span class=\"invisible\">d/</span></a> time is a flat circle 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114456157283935648",
+			"parentId": "114455535586836667",
+			"url": "https://mastodon.social/@luhr/114456157256860987",
+			"author": {
+				"name": "David Luhr",
+				"url": "https://mastodon.social/@luhr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/105/489/816/077/589/original/ef655bb7176e7947.jpg"
+			},
+			"date": "2025-05-05T16:26:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Absolutely! There was also Test'Em and Karma that were around for a while. Well proven demand at this point!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114456860057627885",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114456860057627885",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-05T19:24:44.373Z",
+			"content": "<p>Aw dang — looks like `import.meta.resolve` isn’t supported in Vitest (or Vite either?) <a href=\"https://github.com/vitest-dev/vitest/issues/6953\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vitest-dev/vitest/i</span><span class=\"invisible\">ssues/6953</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

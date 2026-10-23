@@ -1,0 +1,212 @@
+{
+	"comments": [
+		{
+			"id": "114240536362651374",
+			"parentId": 0,
+			"url": "https://social.lol/@tylersticka/114240536317712596",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2025-03-28T14:30:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Exciting! Congrats, Zach!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240541526543118",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114240541526543118",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-28T14:32:05.537Z",
+			"content": "<p>I’m proud of this project 🥰 I worked hard on it and it turned out great!</p><p>I’m thankful we didn’t add a bunch of third party JavaScript or overbearing analytics or advertisements — feels good to work with good folks.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240542555666437",
+			"parentId": "114240536362651374",
+			"url": "https://fediverse.zachleat.com/@zachleat/114240542555666437",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-28T14:32:21.241Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\">@<span>tylersticka</span></a></span> thank you Tyler!! 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240632791086158",
+			"parentId": "114240541526543118",
+			"url": "https://mastodon.social/@tcurdt/114240632645269492",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://mastodon.social/@tcurdt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/751/028/742/857/original/acf20e9220f52199.jpg"
+			},
+			"date": "2025-03-28T14:55:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Curious: What does the css inlining?<br>The source of the site is not public, is it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240698714745021",
+			"parentId": "114240632791086158",
+			"url": "https://fediverse.zachleat.com/@zachleat/114240698714745021",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-28T15:12:04.039Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tcurdt\" class=\"u-url mention\">@<span>tcurdt</span></a></span> not this repo specifically but that feature is as-is from eleventy-base-blog</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240708893720470",
+			"parentId": "114240698714745021",
+			"url": "https://mastodon.social/@tcurdt/114240708696255345",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://mastodon.social/@tcurdt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/751/028/742/857/original/acf20e9220f52199.jpg"
+			},
+			"date": "2025-03-28T15:14:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Courtesy link for anyone also curious:</p><p><a href=\"https://github.com/11ty/eleventy-base-blog\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-base-</span><span class=\"invisible\">blog</span></a></p><p>Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240789151266610",
+			"parentId": 0,
+			"url": "https://glasgow.social/@patrick/114240788929951065",
+			"author": {
+				"name": "Patrick Grey",
+				"url": "https://glasgow.social/@patrick",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/749/970/941/517/original/50f78ad78db6ab7d.jpg"
+			},
+			"date": "2025-03-28T15:35:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Don't stop the bus!! 🤣 Looks great Zach.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240849564246324",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@otowa/114240849541832616",
+			"author": {
+				"name": "Otowa",
+				"url": "https://hachyderm.io/@otowa",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/458/308/179/250/552/original/b413a0ff348fea1f.png"
+			},
+			"date": "2025-03-28T15:50:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Great work! No dirty code, very clean!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114241287296891549",
+			"parentId": 0,
+			"url": "https://vickerson.me/@josh/114241287287773397",
+			"author": {
+				"name": "Josh “Yoshi” Vickerson",
+				"url": "https://vickerson.me/@josh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/017/460/209/559/248/original/19901369730a3977.png"
+			},
+			"date": "2025-03-28T17:41:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it finished rendering the top of the page before the iOS animation of switching applications finished 😳</p><p>Now that’s fast!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114241564638644213",
+			"parentId": "114240789151266610",
+			"url": "https://fediverse.zachleat.com/@zachleat/114241564638644213",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-28T18:52:16.991Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://glasgow.social/@patrick\" class=\"u-url mention\">@<span>patrick</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> thank you Patrick!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114241566301915986",
+			"parentId": "114240849564246324",
+			"url": "https://fediverse.zachleat.com/@zachleat/114241566301915986",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-28T18:52:42.370Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@otowa\" class=\"u-url mention\">@<span>otowa</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> Thank you!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114241568055472228",
+			"parentId": "114241287296891549",
+			"url": "https://fediverse.zachleat.com/@zachleat/114241568055472228",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-28T18:53:09.126Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://vickerson.me/@josh\" class=\"u-url mention\">@<span>josh</span></a></span> is it fast or are iOS animations slow 😅 (thank you!!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114241587887830277",
+			"parentId": "114241568055472228",
+			"url": "https://vickerson.me/@josh/114241587876257192",
+			"author": {
+				"name": "Josh “Yoshi” Vickerson",
+				"url": "https://vickerson.me/@josh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/017/460/209/559/248/original/19901369730a3977.png"
+			},
+			"date": "2025-03-28T18:58:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it would be very Apple to start slowing the animations on my 13 Pro at this point 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114257268681199322",
+			"parentId": 0,
+			"url": "https://mastodon.social/@timsev/114257268444142772",
+			"author": {
+				"name": "Tim Severien",
+				"url": "https://mastodon.social/@timsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/338/141/483/533/original/253f6de61dd10af0.jpg"
+			},
+			"date": "2025-03-31T13:25:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Doing the *good* work. Congrats with the launch! 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114257400626486059",
+			"parentId": "114257268681199322",
+			"url": "https://fediverse.zachleat.com/@zachleat/114257400626486059",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-31T13:59:34.989Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@timsev\" class=\"u-url mention\">@<span>timsev</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> thanks Tim!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114261501230865246",
+			"parentId": "114240541526543118",
+			"url": "https://typo.social/@pixelambacht/114261501186953452",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2025-04-01T07:22:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hecketty heck yeps!! You should be proud! 💖</p>",
+			"via": "fediverse"
+		}
+	]
+}

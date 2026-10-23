@@ -1,0 +1,38 @@
+{
+	"comments": [
+		{
+			"id": "113470823355485821",
+			"parentId": 0,
+			"url": "https://social.dzajew.xyz/@dzajew/statuses/01JCGHSM370GRG78D2BA8KANR9",
+			"private": true,
+			"date": "2024-11-12T16:02:36.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113471162662999540",
+			"parentId": 0,
+			"url": "https://sunny.garden/@paulhebert/113471162636758313",
+			"author": {
+				"name": "Paul Hebert",
+				"url": "https://sunny.garden/@paulhebert",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/372/144/890/871/126/original/dd7bb559816bd1f0.jpg"
+			},
+			"date": "2024-11-12T17:28:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks for writing this Zach!</p><p>On a project a while ago we ran into a lot of headaches trying to compare Lighthouse scores over time to track performance changes. </p><p>Even the difference between running mobile lighthouse tests on a new M1 Macbook and an older Intel-powered Macbook was huge. We ended up having to change our strategy and rely more on tools like webpagetest.org.</p><p>I wish there was more info out there about how device variability impacts these scores!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113474527539187449",
+			"parentId": 0,
+			"url": "https://mastodon.online/@stvfrnzl/113474527490721748",
+			"author": {
+				"name": "Steve Frenzel",
+				"url": "https://mastodon.online/@stvfrnzl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/510/974/973/019/589/original/2f10c129f9b865b1.jpg"
+			},
+			"date": "2024-11-13T07:44:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> loving the evil tips 😈😈😈</p>",
+			"via": "fediverse"
+		}
+	]
+}

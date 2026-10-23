@@ -1,0 +1,158 @@
+{
+	"comments": [
+		{
+			"id": "115407934209876913",
+			"parentId": 0,
+			"url": "https://mastodon.guerilla.studio/@tixie/115407934164013019",
+			"private": true,
+			"date": "2025-10-20T18:35:23.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115407952026444030",
+			"parentId": "115407934209876913",
+			"url": "https://fediverse.zachleat.com/@zachleat/115407952026444030",
+			"private": true,
+			"date": "2025-10-20T18:39:56.106Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115408292265221290",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@edm00se/115408292087987889",
+			"author": {
+				"name": "Eric McCormick",
+				"url": "https://hachyderm.io/@edm00se",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/608/497/084/821/601/original/989832cc4f8b058d.jpeg"
+			},
+			"date": "2025-10-20T20:06:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115408321048014725",
+			"parentId": "115408292265221290",
+			"url": "https://fediverse.zachleat.com/@zachleat/115408321048014725",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-20T20:13:46.930Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@edm00se\" class=\"u-url mention\">@<span>edm00se</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115408370207913103",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/115408370207913103",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-20T20:26:17.049Z",
+			"content": "<p>correction: apparently people care about it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115408415640417069",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/115408415605453299",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2025-10-20T20:37:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I cared enough to add it to your 11ty Bundle page: <a href=\"https://11tybundle.dev/authors/zach-leatherman/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">11tybundle.dev/authors/zach-le</span><span class=\"invisible\">atherman/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115408532514740864",
+			"parentId": "115408415640417069",
+			"url": "https://fediverse.zachleat.com/@zachleat/115408532514740864",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-20T21:07:33.657Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> you’re the best, Bob! 🤝</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115408578724915627",
+			"parentId": "115408532514740864",
+			"url": "https://indieweb.social/@bobmonsour/115408578680656169",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2025-10-20T21:19:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Aw shucks</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115412664819835956",
+			"parentId": "115408370207913103",
+			"url": "https://mastodon.social/@Meyerweb/115412664741374928",
+			"author": {
+				"name": "Eric A. Meyer",
+				"url": "https://mastodon.social/@Meyerweb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/000/855/309/234/original/8eb6102f7385d076.png"
+			},
+			"date": "2025-10-21T14:38:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “Very few people will care about this but I wrote it up anyway” is pretty much what I was thinking when I blogged about my CSS reset.  I feel like there must be some law of information sharing where the interest you think people will have is, in general, inversely proportional to the actual interest.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115412673016429284",
+			"parentId": "115412664819835956",
+			"url": "https://fediverse.zachleat.com/@zachleat/115412673016429284",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-21T14:40:32.697Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\">@<span>Meyerweb</span></a></span> as a dad I have realized that I do not know what is cool (if I ever did) and it is quite a freeing feeling 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115412701283888283",
+			"parentId": "115412664819835956",
+			"url": "https://mastodon.social/@sil/115412701219323203",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2025-10-21T14:47:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Meyerweb</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also an inverse proportional relationship: the amount of attention a thing gets, vs the amount of time and effort you took creating it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115412738206992561",
+			"parentId": "115412701283888283",
+			"url": "https://fediverse.zachleat.com/@zachleat/115412738206992561",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-21T14:57:07.428Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\">@<span>Meyerweb</span></a></span> whew, yeah.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115416388205784358",
+			"parentId": "115407952026444030",
+			"url": "https://mastodon.guerilla.studio/@tixie/115416388158403244",
+			"private": true,
+			"date": "2025-10-22T06:25:21.000Z",
+			"via": "fediverse"
+		}
+	]
+}

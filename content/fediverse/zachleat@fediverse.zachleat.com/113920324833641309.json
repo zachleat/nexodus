@@ -1,0 +1,64 @@
+{
+	"comments": [
+		{
+			"id": "113920336379119995",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/113920336344589902",
+			"private": true,
+			"date": "2025-01-31T01:19:42.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113922689757549023",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cita/113922689681952273",
+			"author": {
+				"name": "Silvestar Bistrović",
+				"url": "https://mastodon.social/@cita",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/324/566/832/120/684/original/b636a9ddb28bcb9f.png"
+			},
+			"date": "2025-01-31T11:18:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I just converted my site to ESM, too!</p><p><a href=\"https://www.silvestar.codes/articles/switching-from-commonjs-to-esm/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">silvestar.codes/articles/switc</span><span class=\"invisible\">hing-from-commonjs-to-esm/</span></a></p><p>Thanks for the idea.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113923254973700331",
+			"parentId": "113922689757549023",
+			"url": "https://fediverse.zachleat.com/@zachleat/113923254973700331",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-31T13:41:56.957Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cita\" class=\"u-url mention\">@<span>cita</span></a></span> nice work! I think this method of importing JSON is a little cleaner `import packageJson from &quot;./package.json&quot; with { type: &quot;json&quot; }`</p><p>but also you don’t need that import — we provide this data for you! <a href=\"https://www.11ty.dev/docs/data-eleventy-supplied/#use-with-meta-name-generator\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/data-eleventy-su</span><span class=\"invisible\">pplied/#use-with-meta-name-generator</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113923418699102009",
+			"parentId": "113923254973700331",
+			"url": "https://mastodon.social/@cita/113923417691590104",
+			"author": {
+				"name": "Silvestar Bistrović",
+				"url": "https://mastodon.social/@cita",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/324/566/832/120/684/original/b636a9ddb28bcb9f.png"
+			},
+			"date": "2025-01-31T14:23:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I didn't know that. I'm going to update my site and my article right away. Thanks! 🙏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113923498440935196",
+			"parentId": "113923418699102009",
+			"url": "https://fediverse.zachleat.com/@zachleat/113923498440935196",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-31T14:43:51.973Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cita\" class=\"u-url mention\">@<span>cita</span></a></span> you’re very welcome!</p>",
+			"via": "fediverse"
+		}
+	]
+}

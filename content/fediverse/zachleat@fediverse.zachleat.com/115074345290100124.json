@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "115074381209505022",
+			"parentId": 0,
+			"url": "https://yatil.social/@yatil/115074381192078454",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2025-08-22T20:48:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Because Google Drive is a data base and not files.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074432580729226",
+			"parentId": 0,
+			"url": "https://mastodon.design/@keir/115074432537658411",
+			"author": {
+				"name": "Keir",
+				"url": "https://mastodon.design/@keir",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/427/401/714/474/653/original/8986cc8d97893581.png"
+			},
+			"date": "2025-08-22T21:01:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if absolutely should have that yeah. One option is mounting it with something like <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@mountainduckapp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mountainduckapp</span></a></span> which will let you view that like any other folder in finder</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074525340117596",
+			"parentId": "115074381209505022",
+			"url": "https://fediverse.zachleat.com/@zachleat/115074525340117596",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-22T21:25:08.633Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\">@<span>yatil</span></a></span> if database or files or simply amorphously file-shaped I would still like this feature</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074532054961540",
+			"parentId": "115074525340117596",
+			"url": "https://yatil.social/@yatil/115074532027127778",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2025-08-22T21:26:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, I would also like it to work like real files, but that’s not how it works, unfortunately. So cumbersome to work with.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074532477101882",
+			"parentId": "115074432580729226",
+			"url": "https://fediverse.zachleat.com/@zachleat/115074532477101882",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-22T21:26:57.534Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@keir\" class=\"u-url mention\">@<span>keir</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@mountainduckapp\" class=\"u-url mention\">@<span>mountainduckapp</span></a></span> good tip, I am already using Arq backup here, I just want to see how big the backup folder is without downloading it 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074640885504161",
+			"parentId": "115074532477101882",
+			"url": "https://mastodon.design/@keir/115074640844246328",
+			"author": {
+				"name": "Keir",
+				"url": "https://mastodon.design/@keir",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/427/401/714/474/653/original/8986cc8d97893581.png"
+			},
+			"date": "2025-08-22T21:54:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@mountainduckapp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mountainduckapp</span></a></span> that's a reasonable request that shouldn't be this difficult 😄</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074763173839206",
+			"parentId": 0,
+			"url": "https://typo.social/@onpaperwings/115074763127363903",
+			"author": {
+				"name": "Doug Wilson",
+				"url": "https://typo.social/@onpaperwings",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/296/608/644/576/original/6df23fbf8d967a4d.jpg"
+			},
+			"date": "2025-08-22T22:25:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> OMG THIS. </p><p>I assume it is because they don’t want you to know how much space something is taking up so it’s not easy to delete when you run out of space and you just purchase more space from them.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074795664436154",
+			"parentId": "115074763173839206",
+			"url": "https://mastodon.xyz/@Julianoe/115074795613428664",
+			"author": {
+				"name": "Julianoë",
+				"url": "https://mastodon.xyz/@Julianoe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/802/918/557/310/original/ae4dff74a1292e42.jpg"
+			},
+			"date": "2025-08-22T22:33:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@onpaperwings\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>onpaperwings</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes, thats by design.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115074923721693208",
+			"parentId": "115074763173839206",
+			"url": "https://fediverse.zachleat.com/@zachleat/115074923721693208",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-22T23:06:27.452Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@onpaperwings\" class=\"u-url mention\">@<span>onpaperwings</span></a></span> ugh, well I hadn’t even considered that it was a profitbug</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115077306331498967",
+			"parentId": 0,
+			"url": "https://toot.cafe/@tomayac/115077306202507935",
+			"author": {
+				"name": "Thomas Steiner :chrome:",
+				"url": "https://toot.cafe/@tomayac",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/136/001/410/553/original/b39518ad1807b9a8.jpeg"
+			},
+			"date": "2025-08-23T09:12:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There's also historically \"free\" folders that mess things up, for example from Pixel launches where you had unlimited photo storage which back then was somehow internally part of Drive, or Chromebook launches with similar \"free forever\" cloud storage. All I'm saying is that it's a bit of a mess, and while I fully agree with you that this is something they totally should offer as a feature, it's not that easy when you see how the sausage is made (and I have by no means much insights).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115078149326845503",
+			"parentId": "115077306331498967",
+			"url": "https://fediverse.zachleat.com/@zachleat/115078149326845503",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-23T12:46:46.283Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@tomayac\" class=\"u-url mention\">@<span>tomayac</span></a></span> complexity all the way down! 🫠</p>",
+			"via": "fediverse"
+		}
+	]
+}

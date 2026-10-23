@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "117157934213341425",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nickchomey/117157934103600540",
+			"author": {
+				"name": "Nick Chomey",
+				"url": "https://mastodon.social/@nickchomey",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-25T20:03:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> tried to access it via the Wayback Machine, but unfortunately it uses the Internet Archive...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117157958689707779",
+			"parentId": "117157934213341425",
+			"url": "https://fediverse.zachleat.com/@zachleat/117157958689707779",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-25T20:09:38.640Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nickchomey\" class=\"u-url mention\">@<span>nickchomey</span></a></span> not sure I understand, is the Internet Archive offline?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117158118016710014",
+			"parentId": "117157958689707779",
+			"url": "https://mastodon.social/@nickchomey/117158117492917776",
+			"author": {
+				"name": "Nick Chomey",
+				"url": "https://mastodon.social/@nickchomey",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-25T20:50:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i tried to use it twice today. A few hours ago I got an error message that it was down, and then it was exceptionally slow just now (it did end up loading though at some point in the background. But i find it is quite slow in general)</p><p>(Of course, I'm just being cynical here - the IA is a treasure)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117158185398871822",
+			"parentId": "117158118016710014",
+			"url": "https://fediverse.zachleat.com/@zachleat/117158185398871822",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-25T21:07:17.947Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nickchomey\" class=\"u-url mention\">@<span>nickchomey</span></a></span> shout out to <a href=\"https://archive.org/donate\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">archive.org/donate</span><span class=\"invisible\"></span></a> 🥹</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117162174827879531",
+			"parentId": "117158185398871822",
+			"url": "https://mastodon.social/@nickchomey/117162172523399297",
+			"author": {
+				"name": "Nick Chomey",
+				"url": "https://mastodon.social/@nickchomey",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-26T14:01:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Perhaps dolly's site would be better if people also donated to the WP Foundation. </p><p>Though, since they don't actually do anything (except fraud), they might just pass it on to the Internet Archive anyway </p><p><a href=\"https://wordpressfoundation.org/news/2024/wordpress-foundation-donation/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wordpressfoundation.org/news/2</span><span class=\"invisible\">024/wordpress-foundation-donation/</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

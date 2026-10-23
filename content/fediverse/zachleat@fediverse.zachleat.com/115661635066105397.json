@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "115661697252165980",
+			"parentId": 0,
+			"url": "https://mastodon.social/@localnerve/115661697140015355",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-12-04T14:10:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Thank you 🙏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115662020138705129",
+			"parentId": "115661697252165980",
+			"url": "https://fediverse.zachleat.com/@zachleat/115662020138705129",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-04T15:32:47.838Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\">@<span>localnerve</span></a></span> you’re welcome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115668245414690271",
+			"parentId": 0,
+			"url": "https://social.mottokrosh.com/@mottokrosh/115668245405907702",
+			"author": {
+				"name": "Frank // Mottokrosh",
+				"url": "https://social.mottokrosh.com/@mottokrosh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/009/616/148/484/448/original/ceca883e821725bd.jpeg"
+			},
+			"date": "2025-12-05T17:55:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ok but what did you do that makes the snowflakes only appear on some elements? Like headers but not body text? Some blend mode wizardry or *gasp* z-indexes?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115668347022688249",
+			"parentId": "115668245414690271",
+			"url": "https://fediverse.zachleat.com/@zachleat/115668347022688249",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-05T18:21:48.428Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mottokrosh.com/@mottokrosh\" class=\"u-url mention\">@<span>mottokrosh</span></a></span> nothing magical — they are there. white snow on a white bg 😅</p><p>(<a href=\"https://www.zachleat.com/web/snow-fall/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/snow-fall/</span><span class=\"invisible\"></span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115688798074861224",
+			"parentId": "115668347022688249",
+			"url": "https://social.mottokrosh.com/@mottokrosh/115688798059886908",
+			"author": {
+				"name": "Frank // Mottokrosh",
+				"url": "https://social.mottokrosh.com/@mottokrosh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/009/616/148/484/448/original/ceca883e821725bd.jpeg"
+			},
+			"date": "2025-12-09T09:02:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I looked more closely, and can indeed see the snow on the body text occasionally. I guess since it's not so dense it simply isn't visible so much, whereas on larger dark areas it stands out more. Next time I'll examine more closely before yelling questions. :D</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115690688864814015",
+			"parentId": "115688798074861224",
+			"url": "https://fediverse.zachleat.com/@zachleat/115690688864814015",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-09T17:03:37.883Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mottokrosh.com/@mottokrosh\" class=\"u-url mention\">@<span>mottokrosh</span></a></span> no worries at all! happy to answer easy questions</p>",
+			"via": "fediverse"
+		}
+	]
+}

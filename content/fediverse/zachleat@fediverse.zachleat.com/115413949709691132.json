@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "115413969978956287",
+			"parentId": 0,
+			"url": "https://follow.coryd.dev/@cory/115413969964259693",
+			"author": {
+				"name": "Cory Dransfeldt :demi:",
+				"url": "https://follow.coryd.dev/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/234/688/818/531/973/original/442430e2ae3f540f.png"
+			},
+			"date": "2025-10-21T20:10:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That just means you have to automate the steps to fix the automation</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115413970927205409",
+			"parentId": "115413969978956287",
+			"url": "https://fediverse.zachleat.com/@zachleat/115413970927205409",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-21T20:10:37.244Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> this is Senior Engineer thinking</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115413980628022680",
+			"parentId": "115413970927205409",
+			"url": "https://follow.coryd.dev/@cory/115413980615625020",
+			"author": {
+				"name": "Cory Dransfeldt :demi:",
+				"url": "https://follow.coryd.dev/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/234/688/818/531/973/original/442430e2ae3f540f.png"
+			},
+			"date": "2025-10-21T20:13:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That second layer of automation never fails</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115413987836067677",
+			"parentId": "115413980628022680",
+			"url": "https://fediverse.zachleat.com/@zachleat/115413987836067677",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-21T20:14:55.252Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> the pagerduty for that layer goes to someone not in my immediate org, so that’s fine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115413993741640475",
+			"parentId": "115413987836067677",
+			"url": "https://follow.coryd.dev/@cory/115413993696405778",
+			"author": {
+				"name": "Cory Dransfeldt :demi:",
+				"url": "https://follow.coryd.dev/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/234/688/818/531/973/original/442430e2ae3f540f.png"
+			},
+			"date": "2025-10-21T20:16:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The third layer automation is an email to the SRE that asks them to run sudo reboot</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115414970713165273",
+			"parentId": "115413970927205409",
+			"url": "https://hachyderm.io/@edm00se/115414970684453915",
+			"author": {
+				"name": "Eric McCormick",
+				"url": "https://hachyderm.io/@edm00se",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/608/497/084/821/601/original/989832cc4f8b058d.jpeg"
+			},
+			"date": "2025-10-22T00:24:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cory</span></a></span> unless you give an LLM access to creds to auto fix it for you. Then it qualifies not as automation but a sparkling vibe code mistake.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115414983802825295",
+			"parentId": "115414970713165273",
+			"url": "https://follow.coryd.dev/@cory/115414983791463684",
+			"author": {
+				"name": "Cory Dransfeldt :demi:",
+				"url": "https://follow.coryd.dev/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/234/688/818/531/973/original/442430e2ae3f540f.png"
+			},
+			"date": "2025-10-22T00:28:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@edm00se\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>edm00se</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We’ve gone straight from hug ops to torture ops</p>",
+			"via": "fediverse"
+		}
+	]
+}

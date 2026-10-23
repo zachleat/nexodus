@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "114240632791086158",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tcurdt/114240632645269492",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://mastodon.social/@tcurdt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/751/028/742/857/original/acf20e9220f52199.jpg"
+			},
+			"date": "2025-03-28T14:55:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Curious: What does the css inlining?<br>The source of the site is not public, is it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240698714745021",
+			"parentId": "114240632791086158",
+			"url": "https://fediverse.zachleat.com/@zachleat/114240698714745021",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-28T15:12:04.039Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tcurdt\" class=\"u-url mention\">@<span>tcurdt</span></a></span> not this repo specifically but that feature is as-is from eleventy-base-blog</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114240708893720470",
+			"parentId": "114240698714745021",
+			"url": "https://mastodon.social/@tcurdt/114240708696255345",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://mastodon.social/@tcurdt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/751/028/742/857/original/acf20e9220f52199.jpg"
+			},
+			"date": "2025-03-28T15:14:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Courtesy link for anyone also curious:</p><p><a href=\"https://github.com/11ty/eleventy-base-blog\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-base-</span><span class=\"invisible\">blog</span></a></p><p>Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114261501230865246",
+			"parentId": 0,
+			"url": "https://typo.social/@pixelambacht/114261501186953452",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2025-04-01T07:22:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hecketty heck yeps!! You should be proud! 💖</p>",
+			"via": "fediverse"
+		}
+	]
+}

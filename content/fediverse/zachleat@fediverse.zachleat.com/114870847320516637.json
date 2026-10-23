@@ -1,0 +1,51 @@
+{
+	"comments": [
+		{
+			"id": "114872894512575439",
+			"parentId": 0,
+			"url": "https://front-end.social/@ariel/114872894491607201",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://front-end.social/@ariel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/295/407/112/476/467/original/feeeb91d3e6c3b75.jpg"
+			},
+			"date": "2025-07-18T06:47:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I had a picture of a floppy disk in my head while reading this and…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114873675027642149",
+			"parentId": "114872894512575439",
+			"url": "https://mastodon.social/@ollicle/114873674853230437",
+			"author": {
+				"name": "Ollie Boermans",
+				"url": "https://mastodon.social/@ollicle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/494/731/887/601/original/cd153c11973efda8.png"
+			},
+			"date": "2025-07-18T10:06:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ariel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ariel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114874532326435217",
+			"parentId": "114873675027642149",
+			"url": "https://fediverse.zachleat.com/@zachleat/114874532326435217",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-18T13:44:17.423Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\">@<span>ollicle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ariel\" class=\"u-url mention\">@<span>ariel</span></a></span> under lock and key!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114876631345034786",
+			"parentId": "114874532326435217",
+			"url": "https://mastodon.social/@ollicle/114876631278152645",
+			"private": true,
+			"date": "2025-07-18T22:38:04.000Z",
+			"via": "fediverse"
+		}
+	]
+}

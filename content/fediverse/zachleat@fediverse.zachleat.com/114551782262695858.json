@@ -1,0 +1,329 @@
+{
+	"comments": [
+		{
+			"id": "114551788331242341",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/114551788265714593",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-05-22T13:46:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ....Aren't you a web performance expert?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114551793657342880",
+			"parentId": "114551788331242341",
+			"url": "https://fediverse.zachleat.com/@zachleat/114551793657342880",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-22T13:47:36.147Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> I don’t have time to write this blog post 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114551850127107703",
+			"parentId": 0,
+			"url": "https://social.lol/@tylersticka/114551850084922838",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2025-05-22T14:01:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@yvg\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yvg</span></a></span> [Glances at <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>grigs</span></a></span> even though he knows he’s super busy this week] 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114551938422785455",
+			"parentId": 0,
+			"url": "https://indieweb.social/@anthony/114551938401317498",
+			"author": {
+				"name": "Anthony",
+				"url": "https://indieweb.social/@anthony",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/693/059/248/931/906/original/2d9b808801cf2aef.png"
+			},
+			"date": "2025-05-22T14:24:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Careful, you might see a performance expert have a breakdown. <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@yvg\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yvg</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114552172689525345",
+			"parentId": 0,
+			"url": "https://front-end.social/@eeeps/114552172668834669",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2025-05-22T15:23:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'll leave the JS to someone else and just take the hero image; sizes=100vw is bad esp. on desktop; the img never gets above 690px wide, but is often serving the largest 3840w image (5.56x). Good news though: that image is actually only 1000 pixels wide. In fact, 5/8 of the urls in the srcset are only 1000 pixels wide. This is sloppy and has bad caching impacts, but arguably two wrongs make a right; that's better than serving a 5.5x image! (con't)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114552195839802463",
+			"parentId": "114552172689525345",
+			"url": "https://front-end.social/@eeeps/114552195822132043",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2025-05-22T15:29:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Similarly, while the URL says \"fm=webp\", I actually get a JPG. Maybe their image backend is smarter than their HTML author, and JPEG is actually a better choice for this image, but I doubt it. It's extremely high quality, especially for a black and white image: almost 3 bits/pixel. Here's a 1 bit-per-pixel AVIF which looks really good to my eye: <a href=\"https://o.img.rodeo/image/fetch/q_auto:best,f_avif/https://cdn.openai.com/sam-and-jony/portrait.jpg?w=3840&amp;q=90&amp;fm=webp\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">o.img.rodeo/image/fetch/q_auto</span><span class=\"invisible\">:best,f_avif/https://cdn.openai.com/sam-and-jony/portrait.jpg?w=3840&amp;q=90&amp;fm=webp</span></a> (con't)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114552215109319638",
+			"parentId": "114552195839802463",
+			"url": "https://front-end.social/@eeeps/114552215095796556",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2025-05-22T15:34:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Lastly, loading=lazy on the LCP-responsible img is a no good, very bad, shot-in-the-foot. But they're also fading the image in late which makes for a more cinematic-reveal-type-feel, which gives it a reason to come in late? idk. At least there's no layout shift.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114552545136234947",
+			"parentId": "114552215109319638",
+			"url": "https://mamot.fr/@nhoizey/114552545114878681",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2025-05-22T16:58:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eeeps</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> at least, this content is usefu… oh wait.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114552665799389641",
+			"parentId": "114552215109319638",
+			"url": "https://fediverse.zachleat.com/@zachleat/114552665799389641",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-22T17:29:23.979Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> the fruit is very low hanging!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114559446065466986",
+			"parentId": 0,
+			"url": "https://toot.cafe/@slightlyoff/114559445754794433",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-05-23T22:13:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not sure I qualify as a \"web performance expert\", but I have two thumbs and a WPT acct and...um...wow:</p><p><a href=\"https://www.webpagetest.org/video/compare.php?tests=250523_BiDc3Y_JJ0-r:1-c:0\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">webpagetest.org/video/compare.</span><span class=\"invisible\">php?tests=250523_BiDc3Y_JJ0-r:1-c:0</span></a></p><p>3MB of JS (11.4 unzipped), almost all of which is critical path. What could go wrong?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114559469640105248",
+			"parentId": "114559446065466986",
+			"url": "https://fediverse.zachleat.com/@zachleat/114559469640105248",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-23T22:19:42.350Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> it’s not good but maybe it was vibe coded</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114559502020877426",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jaredwhite/114559501986704800",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2025-05-23T22:27:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@yvg\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yvg</span></a></span> Jony says no to 1,000 things so he can say yes to 11MB of JavaScript</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114559573804058145",
+			"parentId": "114559446065466986",
+			"url": "https://toot.cafe/@slightlyoff/114559573444576964",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-05-23T22:46:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh. My. God.</p><p>If the JS doesn't load, you can't see the ~2.8KB (1.4KB gzipped) of text *at all*.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114559573437803508",
+			"parentId": "114559573804058145",
+			"url": "https://toot.cafe/@slightlyoff/114559573453112478",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-05-23T22:46:06.000Z",
+			"content": "<p>The animations reliably jank on scroll...which takes doing when your're actually using CSS transitions (which they are!). How do you pull it off? Animate every section independently with what looks like custom intersection observer nonsense. It's intensely lame. You can scroll halfway down the page, hit \"reload\", and have most text fail to display because it doesn't animate in.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114559598111493789",
+			"parentId": "114559469640105248",
+			"url": "https://toot.cafe/@slightlyoff/114559597988375506",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-05-23T22:52:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Dear AI, how can I display 3K of text, one image, and a below-the-fold video in the slowest, least reliable way that maximally pads my resume?\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114559615114114896",
+			"parentId": "114559598111493789",
+			"url": "https://ruby.social/@konnorrogers/114559615063696652",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2025-05-23T22:56:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> *downloading 100,000 modules...*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114560042292584688",
+			"parentId": "114559446065466986",
+			"url": "https://toot.cafe/@aluhrs/114560042160700556",
+			"author": {
+				"name": "Andy Luhrs",
+				"url": "https://toot.cafe/@aluhrs",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/335/803/928/856/970/original/5de5eb17d6022890.jpeg"
+			},
+			"date": "2025-05-24T00:45:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Nerdsniping Alex is almost as easy as fixing the perf on this page.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114561197283997580",
+			"parentId": "114559573437803508",
+			"url": "https://toot.cafe/@slightlyoff/114561197023711513",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-05-24T05:39:00.000Z",
+			"content": "<p>Friends, this is *wild*. Of *course* there's a Markdown engine and LaTeX formatting system in here. How could you build a React + Tailwind-based website without them in 2025?</p><p>But the single largest JS file is a binary encoding of IP ranges to countries, to the tune of 338K on the wire (1.3MB unzipped), *AND IT PULLS IN A TRANSPILED NODE BUFFER IMPLEMENTATION*:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114561229328896634",
+			"parentId": "114561197283997580",
+			"url": "https://toot.cafe/@slightlyoff/114561229110589994",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-05-24T05:47:09.000Z",
+			"content": "<p>Zach, is CSS-in-JS the fast way to load fonts? I want to learn from industry luminaries.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114561666390894453",
+			"parentId": "114561229328896634",
+			"url": "https://social.gozzys.com/@john/114561666379677907",
+			"author": {
+				"name": "John \"Gozzy\" Godsland",
+				"url": "https://social.gozzys.com/@john",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/255/843/688/089/715/original/6ee5117d28c228ab.jpg"
+			},
+			"date": "2025-05-24T07:38:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I look forward to Jony Ive's reign as head of product design at OpenAI.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114561936507784450",
+			"parentId": 0,
+			"url": "https://mastodon.social/@patrick_h_lauke/114561936473914065",
+			"author": {
+				"name": "Patrick H. Lauke",
+				"url": "https://mastodon.social/@patrick_h_lauke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/616/989/749/627/original/35dcc6013f4cadd4.jpg"
+			},
+			"date": "2025-05-24T08:47:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"it's a ... quite remarkable engineering achievement\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114563316151793084",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@thomasapowell/114563316128624081",
+			"author": {
+				"name": "ThomasAPowell",
+				"url": "https://fosstodon.org/@thomasapowell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/805/019/767/545/original/953acf77563f46ee.jpeg"
+			},
+			"date": "2025-05-24T14:37:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@yvg\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yvg</span></a></span> </p><p>What maybe you all don’t know is that it is designed purposefully as artists like Jony do.   You must understand the brilliance in flaws.  It’s post wabi sabi web design. The flaws are now the point. </p><p>The page is a masterful homage to AI.  The slowness and bloat is in browser performance art commenting on the speed and resource waste of LLMs. It’s executional oddities and fragility a brillant callback to AI answer quality.   </p><p>Pure genius.  👨‍🍳💋👏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114604380729696198",
+			"parentId": "114551850127107703",
+			"url": "https://front-end.social/@grigs/114604380702954631",
+			"author": {
+				"name": "Jason Grigsby",
+				"url": "https://front-end.social/@grigs",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/536/184/099/954/original/044b1687b6130c1d.jpg"
+			},
+			"date": "2025-05-31T20:41:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tylersticka</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@yvg\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yvg</span></a></span> TIL that I haven’t been getting notifications from Mastodon. Sorry I missed this. Did someone look at it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114605232189310477",
+			"parentId": "114604380729696198",
+			"url": "https://fediverse.zachleat.com/@zachleat/114605232189310477",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-01T00:17:43.436Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\">@<span>grigs</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\">@<span>tylersticka</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@yvg\" class=\"u-url mention\">@<span>yvg</span></a></span> <a href=\"https://bsky.app/profile/infrequently.org/post/3lpvdgm42jk2n\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/infrequently.</span><span class=\"invisible\">org/post/3lpvdgm42jk2n</span></a> was part of it, yeah!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114605236364126786",
+			"parentId": "114605232189310477",
+			"url": "https://fediverse.zachleat.com/@zachleat/114605236364126786",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-06-01T00:18:47.138Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\">@<span>grigs</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\">@<span>tylersticka</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@yvg\" class=\"u-url mention\">@<span>yvg</span></a></span> some other great replies on this thread if you go up to the original post too</p>",
+			"via": "fediverse"
+		}
+	]
+}

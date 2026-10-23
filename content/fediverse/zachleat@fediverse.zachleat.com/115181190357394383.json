@@ -1,0 +1,186 @@
+{
+	"comments": [
+		{
+			"id": "115181215041086811",
+			"parentId": 0,
+			"url": "https://front-end.social/@famulimas/115181215027069621",
+			"author": {
+				"name": "Alan Stearns",
+				"url": "https://front-end.social/@famulimas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/752/874/038/594/original/634001dc5ea6e88f.jpg"
+			},
+			"date": "2025-09-10T17:37:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It’s allowed but not required per spec. Safari does hyphenate the capitalized word</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181217850196643",
+			"parentId": 0,
+			"url": "https://typo.social/@db/115181217818193604",
+			"author": {
+				"name": "Dan Burzo",
+				"url": "https://typo.social/@db",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/415/438/180/070/569/original/e78ae403cd2e18f4.png"
+			},
+			"date": "2025-09-10T17:38:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, kind of a bummer, as it doesn’t distinguish between words that are capitalized mid-sentence (probably proper nouns) and words that are capitalized because they start a sentence…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181222805833045",
+			"parentId": "115181215041086811",
+			"url": "https://fediverse.zachleat.com/@zachleat/115181222805833045",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T17:39:42.755Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@famulimas\" class=\"u-url mention\">@<span>famulimas</span></a></span> yeah, I noticed that! I think Safari’s behavior is more predictable here, fwiw</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181227314126150",
+			"parentId": "115181217850196643",
+			"url": "https://fediverse.zachleat.com/@zachleat/115181227314126150",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T17:40:51.546Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@db\" class=\"u-url mention\">@<span>db</span></a></span> I see your point, yeah! That they distinguish based on capitalization seems odd to me</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181229554933788",
+			"parentId": 0,
+			"url": "https://social.coop/@harris/115181229422351233",
+			"author": {
+				"name": "Harris Lapiroff",
+				"url": "https://social.coop/@harris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/187/857/290/654/original/460648227e44dcd6.png"
+			},
+			"date": "2025-09-10T17:41:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Finding bugs in the text layout engine always feels like a special nerdy treat.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181235724458055",
+			"parentId": "115181229554933788",
+			"url": "https://fediverse.zachleat.com/@zachleat/115181235724458055",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T17:42:59.877Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@harris\" class=\"u-url mention\">@<span>harris</span></a></span> I don’t think this is a bug (fwiw) but maybe an intentional choice, per <a href=\"https://front-end.social/@famulimas/115181215027069621\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">front-end.social/@famulimas/11</span><span class=\"invisible\">5181215027069621</span></a> </p><p>but it was a fun one to learn!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181250985987400",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/115181250953751236",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2025-09-10T17:46:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes, this is language dependant. Each browser has hyphenation dictionaries for various languages. In German, you’ll notice that there is hyphenation for capitalized words. This would actually be a very good Interop issue. </p><p>I’ve got some demos I made in the past for this…<br>With English: <a href=\"https://knowler.dev/demos/tp0-gpS?codepen\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">knowler.dev/demos/tp0-gpS?code</span><span class=\"invisible\">pen</span></a><br>With a German word: <a href=\"https://knowler.dev/demos/idITprB?codepen\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">knowler.dev/demos/idITprB?code</span><span class=\"invisible\">pen</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181260872507477",
+			"parentId": "115181250985987400",
+			"url": "https://fediverse.zachleat.com/@zachleat/115181260872507477",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T17:49:23.606Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> oh great test cases! I noticed the same behavior in English for dictionary words and gibberish too 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181262835042336",
+			"parentId": "115181250985987400",
+			"url": "https://sunny.garden/@knowler/115181262792792230",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2025-09-10T17:49:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A good place to start could be making some WPTs for this, but I imagine that, like <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@famulimas\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>famulimas</span></a></span> notes, since it’s not required by the spec, it might not be accepted. I personally would expect Safari’s behaviour to be correct. I’ve ventured into some browser codebases to see if I could fix this, but I think it could be dependency related.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181278016141652",
+			"parentId": "115181260872507477",
+			"url": "https://sunny.garden/@knowler/115181277991237712",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2025-09-10T17:53:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It gets interesting when you combine `hyphens: auto` and `word-break` haha: <a href=\"https://sunny.garden/@knowler/113964937944456245\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sunny.garden/@knowler/11396493</span><span class=\"invisible\">7944456245</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115181392503411138",
+			"parentId": "115181278016141652",
+			"url": "https://fediverse.zachleat.com/@zachleat/115181392503411138",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-10T18:22:52.134Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> seeing some breaks with hyphens and some not (on the same word) is BOTHERING ME 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115188117701536379",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@krinkle/115188117661007679",
+			"author": {
+				"name": "Timo Tijhof",
+				"url": "https://fosstodon.org/@krinkle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/532/015/873/530/original/b119a0914bbd5722.jpg"
+			},
+			"date": "2025-09-11T22:53:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>A pet peeve of mine is that <a href=\"https://fosstodon.org/tags/NetNewsWire\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>NetNewsWire</span></a>, my feed reader which I otherwise love, breaks article titles rather aggressively with hyphens.</p><p>This means you get headlines like:</p><p>&gt; They Could Not Believe Al-<br>&gt; pacas Had It All.</p><p>Which is not about Artificial Intelligence-made pacas, but about Alpacas.</p><p><a href=\"https://en.wikipedia.org/wiki/Paca\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">en.wikipedia.org/wiki/Paca</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115192333331884739",
+			"parentId": "115188117701536379",
+			"url": "https://fediverse.zachleat.com/@zachleat/115192333331884739",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-12T16:45:15.928Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@krinkle\" class=\"u-url mention\">@<span>krinkle</span></a></span> Huh… a choice they made or a browser quirk?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115192699922937015",
+			"parentId": "115192333331884739",
+			"url": "https://fosstodon.org/@krinkle/115192699876181548",
+			"author": {
+				"name": "Timo Tijhof",
+				"url": "https://fosstodon.org/@krinkle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/532/015/873/530/original/b119a0914bbd5722.jpg"
+			},
+			"date": "2025-09-12T18:18:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I believe the headline is outside the webview, so it's a choice they made in writing the ObjC/Swift UI (or someone at Apple made the choice, for them).</p>",
+			"via": "fediverse"
+		}
+	]
+}

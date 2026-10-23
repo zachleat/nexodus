@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "113946174115517608",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rauschma/113946174027321770",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2025-02-04T14:50:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was wondering about that! Type stripping could lead to packages such as htm (*) becoming more popular.</p><p>(*) <a href=\"https://www.npmjs.com/package/htm\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">npmjs.com/package/htm</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113946188843752232",
+			"parentId": "113946174115517608",
+			"url": "https://fediverse.zachleat.com/@zachleat/113946188843752232",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-04T14:54:20.042Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> and well deserved!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113946532657957038",
+			"parentId": 0,
+			"url": "https://social.lol/@r0b/113946532619125267",
+			"author": {
+				"name": "Rob Anderson",
+				"url": "https://social.lol/@r0b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/391/039/856/247/400/original/057048f687fc13c8.jpeg"
+			},
+			"date": "2025-02-04T16:21:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lol what would JSX even be with --erasableSyntaxOnly</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113946554001054898",
+			"parentId": "113946532657957038",
+			"url": "https://fediverse.zachleat.com/@zachleat/113946554001054898",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-04T16:27:11.900Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@r0b\" class=\"u-url mention\">@<span>r0b</span></a></span> it would be… uh… <a href=\"https://github.com/developit/htm\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/developit/htm</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113946928825635639",
+			"parentId": "113946174115517608",
+			"url": "https://social.tchncs.de/@teleclimber/113946928791762713",
+			"author": {
+				"name": "Olivier Forget",
+				"url": "https://social.tchncs.de/@teleclimber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/783/579/428/613/original/15601206454e11eb.png"
+			},
+			"date": "2025-02-04T18:02:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What is the relation between type stripping and JSX and htm? (Sorry I don't use JSX so I don't know how it's actually implemented.) Is it just the trend of moving away from things that need special transpilers to things that work natively in JS?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113946981286176540",
+			"parentId": "113946928825635639",
+			"url": "https://fosstodon.org/@rauschma/113946981239702398",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2025-02-04T18:15:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.tchncs.de/@teleclimber\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>teleclimber</span></a></span><br>See <a href=\"https://satanacchio.hashnode.dev/everything-you-need-to-know-about-nodejs-type-stripping#heading-features-that-require-configuration\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">satanacchio.hashnode.dev/every</span><span class=\"invisible\">thing-you-need-to-know-about-nodejs-type-stripping#heading-features-that-require-configuration</span></a></p><p>Rule of thumb: Type stripping only removes type-level syntax. What remains must be valid JS.</p>",
+			"via": "fediverse"
+		}
+	]
+}

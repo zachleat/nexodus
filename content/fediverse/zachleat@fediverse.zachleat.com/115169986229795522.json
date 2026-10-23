@@ -1,0 +1,145 @@
+{
+	"comments": [
+		{
+			"id": "115170046541952010",
+			"parentId": 0,
+			"url": "https://floss.social/@chris/115170046495104131",
+			"private": true,
+			"date": "2025-09-08T18:17:25.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170053836374107",
+			"parentId": "115170046541952010",
+			"url": "https://fediverse.zachleat.com/@zachleat/115170053836374107",
+			"private": true,
+			"date": "2025-09-08T18:19:17.805Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170055982845823",
+			"parentId": "115170053836374107",
+			"url": "https://floss.social/@chris/115170055907197411",
+			"private": true,
+			"date": "2025-09-08T18:19:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170116425461061",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/115170116425461061",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-08T18:35:12.836Z",
+			"content": "<p>whew, it’s been taken down a mere 5 hours after publish.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170128411503705",
+			"parentId": "115170116425461061",
+			"url": "https://mastodon.online/@slab_bulkhead/115170128371270867",
+			"author": {
+				"name": "Slab Bulkhead",
+				"url": "https://mastodon.online/@slab_bulkhead",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/557/760/693/065/original/852bf863215919c5.png"
+			},
+			"date": "2025-09-08T18:38:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the cheap joke: someone at npm finally got VP level permission to turn off Copilot to make the change.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170130890117803",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/115170130364710403",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2025-09-08T18:38:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the is-arrayish half of this broke our build today: purely fortunate that (I think that) the people who compromised the package screwed up the package.json. It was rectified pretty fast, but... bit worrying.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170152799024732",
+			"parentId": "115170128411503705",
+			"url": "https://fediverse.zachleat.com/@zachleat/115170152799024732",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-08T18:44:27.855Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\">@<span>slab_bulkhead</span></a></span> vibe coding our way to a fix</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170168176040461",
+			"parentId": "115170130890117803",
+			"url": "https://fediverse.zachleat.com/@zachleat/115170168176040461",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-08T18:48:22.490Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> yeah, absolutely. `is-arrayish` is a wild package to begin with</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170172746260536",
+			"parentId": "115170168176040461",
+			"url": "https://mastodon.social/@sil/115170172673977697",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2025-09-08T18:49:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ya. I'd never heard of it, and was a bit surprised when I found what it was (it turned out, obviously, to be somewhere about nine layers deep in the dependency tree). That trend for single-line packages is pretty annoying.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115170986453367230",
+			"parentId": "115170116425461061",
+			"url": "https://mastodon.social/@localnerve/115170986292232500",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-09-08T22:16:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Still cached. Still rocking the exploit.</p><p><a href=\"https://mastodon.social/tags/jest\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>jest</span></a> download after 6pm eastern still delivering 64k of injected who-knows-what</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115171036080794792",
+			"parentId": "115170986453367230",
+			"url": "https://fediverse.zachleat.com/@zachleat/115171036080794792",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-08T22:29:05.666Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\">@<span>localnerve</span></a></span> your local cache might still have it, I suppose!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115171100614817772",
+			"parentId": "115171036080794792",
+			"url": "https://mastodon.social/@localnerve/115171100568156811",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-09-08T22:45:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Oh eek. Thanks 👍</p>",
+			"via": "fediverse"
+		}
+	]
+}

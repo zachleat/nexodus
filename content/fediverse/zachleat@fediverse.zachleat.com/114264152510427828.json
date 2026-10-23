@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "114264159978897593",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114264159978897593",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-04-01T18:38:34.522Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\">@<span>Fyrd</span></a></span> a ha — sorry to bug you! this suggests they are bundled together: <a href=\"https://github.com/web-platform-tests/interop/issues/768\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/web-platform-tests/</span><span class=\"invisible\">interop/issues/768</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114264174799324574",
+			"parentId": 0,
+			"url": "https://toot.cafe/@bkardell/114264174558761269",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2025-04-01T18:42:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Fyrd</span></a></span> Maybe <a href=\"https://github.com/mdn/browser-compat-data/blob/378251f8b2a58a771657d331537be308f740932b/html/global_attributes.json#L628\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mdn/browser-compat-</span><span class=\"invisible\">data/blob/378251f8b2a58a771657d331537be308f740932b/html/global_attributes.json#L628</span></a> ?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114264180482709141",
+			"parentId": "114264174799324574",
+			"url": "https://fediverse.zachleat.com/@zachleat/114264180482709141",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-04-01T18:43:47.385Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> I did find <a href=\"https://github.com/web-platform-tests/interop/issues/768\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/web-platform-tests/</span><span class=\"invisible\">interop/issues/768</span></a> which suggested they are being interop’d together but implemented separately</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114264308795846543",
+			"parentId": "114264180482709141",
+			"url": "https://toot.cafe/@bkardell/114264308219125851",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2025-04-01T19:16:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ah yeah, I helped pick it ;)</p><p>I thought you were just looking for where to find what's listed as being in browsers for that generally</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114264333934043673",
+			"parentId": "114264308795846543",
+			"url": "https://fediverse.zachleat.com/@zachleat/114264333934043673",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-04-01T19:22:48.866Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> ah! (thank you!) yeah I was mostly looking to see if the browser support for those two things were bundled — hopefully so! Seeing the WebKit and Bugzilla issues listed it looks like they are being treated separately so we may need to modify browser compat to have separate entries for these at some point. cc <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\">@<span>Fyrd</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

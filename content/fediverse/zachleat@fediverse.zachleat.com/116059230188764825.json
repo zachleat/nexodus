@@ -1,0 +1,272 @@
+{
+	"comments": [
+		{
+			"id": "116059273241663082",
+			"parentId": 0,
+			"url": "https://mastodon.guerilla.studio/@tixie/116059273195333590",
+			"private": true,
+			"date": "2026-02-12T19:19:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059284945876187",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tigt/116059284904058054",
+			"author": {
+				"name": "Taylor “Tigt” Hunt",
+				"url": "https://mastodon.social/@tigt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/334/355/587/214/811/original/047d5f21db3efabe.png"
+			},
+			"date": "2026-02-12T19:22:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> Kroger Lite did this! It was the only way to consistently hit our page budget, and Paint Holding made it feel no less laggy than the SPA version (which was blocked on an analytics net call anyway)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059295953239184",
+			"parentId": "116059284945876187",
+			"url": "https://fediverse.zachleat.com/@zachleat/116059295953239184",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-12T19:25:15.693Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\">@<span>db</span></a></span> and a lite hell yeah to that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059396373636566",
+			"parentId": 0,
+			"url": "https://typo.social/@erikvorhes/116059396347080972",
+			"author": {
+				"name": "Erik Vorhes",
+				"url": "https://typo.social/@erikvorhes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/921/577/042/897/413/original/382280bcf3b6ef83.jpeg"
+			},
+			"date": "2026-02-12T19:50:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> — I love this so much. I’m putting together a legit personal site again, and I think I’ll use this approach. It feels much better than having to wrestle with a small menu on a potentially even smaller screen.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059547004071812",
+			"parentId": "116059396373636566",
+			"url": "https://fediverse.zachleat.com/@zachleat/116059547004071812",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-12T20:29:06.425Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@erikvorhes\" class=\"u-url mention\">@<span>erikvorhes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\">@<span>db</span></a></span> yeah! my personal site just… uh… leaves some things out of the small viewport nav. This is probably a better option for me too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116059604659554811",
+			"parentId": "116059547004071812",
+			"url": "https://mastodon.social/@jimniels/116059604602974233",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2026-02-12T20:43:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@erikvorhes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>erikvorhes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> any menu can become a mega menu when it's just another webpage :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116060143400034969",
+			"parentId": "116059604659554811",
+			"url": "https://typo.social/@erikvorhes/116060143360134845",
+			"author": {
+				"name": "Erik Vorhes",
+				"url": "https://typo.social/@erikvorhes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/921/577/042/897/413/original/382280bcf3b6ef83.jpeg"
+			},
+			"date": "2026-02-12T23:00:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> if a menu is hyperlinks on a page, doesn’t that make any page a menu?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116060176491412114",
+			"parentId": "116060143400034969",
+			"url": "https://fediverse.zachleat.com/@zachleat/116060176491412114",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-12T23:09:11.641Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@erikvorhes\" class=\"u-url mention\">@<span>erikvorhes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\">@<span>db</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116060679603491617",
+			"parentId": "116060176491412114",
+			"url": "https://mastodon.social/@AnthonyBaker/116060679489172400",
+			"author": {
+				"name": "Anthony Baker",
+				"url": "https://mastodon.social/@AnthonyBaker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/416/645/792/645/350/original/b9d65b47ec07f2d8.png"
+			},
+			"date": "2026-02-13T01:17:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@erikvorhes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>erikvorhes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> This is so very cool</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116060851112267806",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@JanMiksovsky/116060851084533289",
+			"author": {
+				"name": "Jan Miksovsky",
+				"url": "https://fosstodon.org/@JanMiksovsky",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-02-13T02:00:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> I was going to suggest that this seems like an ideal case for `&lt;link rel=\"prefetch\"&gt;` — but you've already done that!</p><p>Might be worth calling out in a note on the post</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116064480204276263",
+			"parentId": "116059396373636566",
+			"url": "https://typo.social/@erikvorhes/116064480136294227",
+			"author": {
+				"name": "Erik Vorhes",
+				"url": "https://typo.social/@erikvorhes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/921/577/042/897/413/original/382280bcf3b6ef83.jpeg"
+			},
+			"date": "2026-02-13T17:23:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> — also your approach to the “close” button is super elegant. (I was going to do something more complicated. Glad I inspected that element!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116064917176829298",
+			"parentId": "116064480204276263",
+			"url": "https://fediverse.zachleat.com/@zachleat/116064917176829298",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-13T19:14:48.777Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@erikvorhes\" class=\"u-url mention\">@<span>erikvorhes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\">@<span>db</span></a></span> I had assumed history.back but the referrer check is :chefskiss:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116064960078696467",
+			"parentId": "116064917176829298",
+			"url": "https://typo.social/@erikvorhes/116064960035359411",
+			"author": {
+				"name": "Erik Vorhes",
+				"url": "https://typo.social/@erikvorhes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/921/577/042/897/413/original/382280bcf3b6ef83.jpeg"
+			},
+			"date": "2026-02-13T19:25:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> — agreed. I was thinking maybe enhancing it a bit, but I haven’t actually tested the change: <a href=\"https://gist.github.com/erikvorhes/91f36bb95f9d2855ccf72b14fcdfd626\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/erikvorhes/91f</span><span class=\"invisible\">36bb95f9d2855ccf72b14fcdfd626</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116065039843112029",
+			"parentId": 0,
+			"url": "https://mastodon.design/@armstrong/116065039807495561",
+			"author": {
+				"name": "Chris Armstrong",
+				"url": "https://mastodon.design/@armstrong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/036/390/824/146/original/e8efbec74a83dbc7.jpeg"
+			},
+			"date": "2026-02-13T19:45:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> how does this work when you’re scrolled halfway down long page? Would opening and closing the menu reset your scroll position?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116065052449928488",
+			"parentId": "116065039843112029",
+			"url": "https://mastodon.social/@jimniels/116065052400180746",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2026-02-13T19:49:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@armstrong\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>armstrong</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> it's not sticky so you can't click it unless you're at the top of the page (so it's not a problem i tried to solve)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116065102721327982",
+			"parentId": "116065052449928488",
+			"url": "https://mastodon.design/@armstrong/116065102525595668",
+			"author": {
+				"name": "Chris Armstrong",
+				"url": "https://mastodon.design/@armstrong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/036/390/824/146/original/e8efbec74a83dbc7.jpeg"
+			},
+			"date": "2026-02-13T20:01:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> fair enough, am only asking because I’d love to explore using this technique but that could be an issue for my scenario. Love that this is even possible though!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116065150937663155",
+			"parentId": "116065102721327982",
+			"url": "https://fediverse.zachleat.com/@zachleat/116065150937663155",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-13T20:14:15.665Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@armstrong\" class=\"u-url mention\">@<span>armstrong</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> scroll position for freeeeeee as long as bfcache is in play weeeeee <a href=\"https://web.dev/articles/bfcache\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">web.dev/articles/bfcache</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116065195514833431",
+			"parentId": "116065150937663155",
+			"url": "https://mastodon.social/@jimniels/116065195469242270",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2026-02-13T20:25:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@armstrong\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>armstrong</span></a></span> i keep thinking the bfcache has got to be one of the most underrated, least-taken-advantage of web platform features in a long time</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116065213608027042",
+			"parentId": "116065195514833431",
+			"url": "https://fediverse.zachleat.com/@zachleat/116065213608027042",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-13T20:30:11.939Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@armstrong\" class=\"u-url mention\">@<span>armstrong</span></a></span> bf stands for best friend</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116065330419568005",
+			"parentId": "116065150937663155",
+			"url": "https://mastodon.design/@armstrong/116065330389820274",
+			"author": {
+				"name": "Chris Armstrong",
+				"url": "https://mastodon.design/@armstrong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/036/390/824/146/original/e8efbec74a83dbc7.jpeg"
+			},
+			"date": "2026-02-13T20:59:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> well this is news to me 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116067618092987845",
+			"parentId": 0,
+			"url": "https://www.autodidacts.io/.ghost/activitypub/note/aa00a582-8b0a-4f2e-8626-0b3386ef783e",
+			"author": {
+				"name": "The Autodidacts",
+				"url": "https://www.autodidacts.io/",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/968/034/366/285/412/original/755263425b4fe60b.png"
+			},
+			"date": "2026-02-14T06:41:41.225Z",
+			"content": "<p>Yup. I used this in a client project, and it worked really well.</p>",
+			"via": "fediverse"
+		}
+	]
+}

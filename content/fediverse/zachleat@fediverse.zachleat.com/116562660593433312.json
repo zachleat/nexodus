@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "116562778619388540",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jed/116562778583187350",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2026-05-12T17:27:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Node Prediction Markets as whimsical faux acronym on their website in the olden days.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562800556492355",
+			"parentId": "116562778619388540",
+			"url": "https://fediverse.zachleat.com/@zachleat/116562800556492355",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T17:33:06.225Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> surely this was a maximum of three years ago, right?</p><p>…right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562971970463735",
+			"parentId": "116562800556492355",
+			"url": "https://mastodon.social/@jed/116562971924323105",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2026-05-12T18:16:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No, Probably More</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116563026535667895",
+			"parentId": "116562971970463735",
+			"url": "https://fediverse.zachleat.com/@zachleat/116563026535667895",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T18:30:34.394Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> Not Probable Maximum</p>",
+			"via": "fediverse"
+		}
+	]
+}

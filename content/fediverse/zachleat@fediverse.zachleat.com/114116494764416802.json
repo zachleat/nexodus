@@ -1,0 +1,381 @@
+{
+	"comments": [
+		{
+			"id": "114116512937766081",
+			"parentId": 0,
+			"url": "https://narrativ.es/@janl/114116512895001447",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2025-03-06T16:49:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> labels/tags never click for people, they want ontologies. Technically: no difference</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116517653736905",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114116517653736905",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T16:51:11.423Z",
+			"content": "<p>At first I was excited that this might be a nice replacement for the closed issue needs-votes “Enhancement queue” we use in Eleventy (<a href=\"https://github.com/11ty/eleventy/issues?q=label%3Aneeds-votes+sort%3Areactions-%2B1-desc+label%3Aenhancement\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s?q=label%3Aneeds-votes+sort%3Areactions-%2B1-desc+label%3Aenhancement</span></a>) but alas, it doesn’t seem like it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116521444127133",
+			"parentId": 0,
+			"url": "https://mastodon.social/@aaadaaam/114116521382231085",
+			"author": {
+				"name": "Adam Stoddard",
+				"url": "https://mastodon.social/@aaadaaam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/181/435/692/045/original/3fd463116c0fb80b.png"
+			},
+			"date": "2025-03-06T16:52:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> key line: \"shared and consistent language across all repositories in an organization\"</p><p>Means they can reliably build much more tailored reporting features that cut across repositories.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116522480752915",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jgarber/114116522416666474",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-03-06T16:52:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what if tags but categories</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116526640747184",
+			"parentId": "114116512937766081",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116526640747184",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T16:53:28.555Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> ugh. feels like complexity for complexity’s sake tbh</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116532389924503",
+			"parentId": "114116521444127133",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116532389924503",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T16:54:56.281Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@aaadaaam\" class=\"u-url mention\">@<span>aaadaaam</span></a></span> but there are already controls for org-level labels — or do you mean this is a feature for GitHub at large (given they provided 3 defaults)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116534473241877",
+			"parentId": "114116522480752915",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116534473241877",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T16:55:28.070Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> same problem in 11ty versus wordpress 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116568593749405",
+			"parentId": "114116532389924503",
+			"url": "https://mastodon.social/@aaadaaam/114116568543965407",
+			"author": {
+				"name": "Adam Stoddard",
+				"url": "https://mastodon.social/@aaadaaam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/181/435/692/045/original/3fd463116c0fb80b.png"
+			},
+			"date": "2025-03-06T17:04:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the latter. Basically lets GitHub design and build more job-specific tools and interfaces. Labels are just too unreliable for that kind of stuff.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116578012717062",
+			"parentId": "114116517653736905",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116578012717062",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T17:06:32.428Z",
+			"content": "<p>What I really want are issues to not be Open nor Closed but a third quantum physics style super-positioned state: Limbo</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116584019982632",
+			"parentId": "114116517653736905",
+			"url": "https://m.nintendojo.fr/@meduz/114116581273537928",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2025-03-06T17:07:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I don’t have a strong opinion on this, but it looks like one of GitHub move towards being perceived on the long run as a project management software for non-fev folks.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116583614933056",
+			"parentId": "114116578012717062",
+			"url": "https://mastodon.social/@Meyerweb/114116583449065551",
+			"author": {
+				"name": "Eric A. Meyer",
+				"url": "https://mastodon.social/@Meyerweb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/000/855/309/234/original/8eb6102f7385d076.png"
+			},
+			"date": "2025-03-06T17:07:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Open, Closed, and It’s Complicated</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116586311169871",
+			"parentId": "114116568593749405",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116586311169871",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T17:08:39.054Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@aaadaaam\" class=\"u-url mention\">@<span>aaadaaam</span></a></span> I see, yeah — makes sense.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116587546591286",
+			"parentId": "114116583614933056",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116587546591286",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T17:08:57.905Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\">@<span>Meyerweb</span></a></span> exactly, yes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116600363894412",
+			"parentId": "114116584019982632",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116600363894412",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T17:12:13.482Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\">@<span>meduz</span></a></span> Makes sense. I think how they shipped this feature leaves a lot to be desired for existing orgs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116622770256526",
+			"parentId": "114116578012717062",
+			"url": "https://mas.to/@maxfenton/114116622749737879",
+			"author": {
+				"name": "Max Fenton",
+				"url": "https://mas.to/@maxfenton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/393/205/249/439/115/original/4a4276a22126faf2.jpeg"
+			},
+			"date": "2025-03-06T17:17:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Icebox</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116661178228870",
+			"parentId": "114116578012717062",
+			"url": "https://mastodon.scot/@se_davidobrien/114116661164884869",
+			"author": {
+				"name": "David O'Brien",
+				"url": "https://mastodon.scot/@se_davidobrien",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/399/997/860/379/600/original/ff68982a0720582e.png"
+			},
+			"date": "2025-03-06T17:27:41.000Z",
+			"content": "<p>Open / Closed / It depends ...</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116675160398529",
+			"parentId": "114116622770256526",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116675160398529",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T17:31:14.785Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@maxfenton\" class=\"u-url mention\">@<span>maxfenton</span></a></span> 10 minute penalty, unnecessary roughness</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116861918845942",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/114116861900688114",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2025-03-06T18:18:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There's certainly a benefit of a consistent labelling scheme across repos, so someone looking at a new-to-them issue list doesn't need to first learn a labelling taxonomy.</p><p>Pulling the bug vs feature issue type to the front of the description also helps replace people's custom schemes of using an emoji to start an issue name.</p><p>But I suspect the driving factor for GitHub may have been easier integration into their more complex project management features (milestones, versions, etc).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114116890544958378",
+			"parentId": "114116861918845942",
+			"url": "https://fediverse.zachleat.com/@zachleat/114116890544958378",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T18:26:01.292Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> I think you’re right! It’s hard (for me) to get on board with the feature for only those reasons though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114117076327088943",
+			"parentId": "114116890544958378",
+			"url": "https://masto.ai/@litherum/114117076282167718",
+			"author": {
+				"name": "Litherum",
+				"url": "https://masto.ai/@litherum",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/414/781/998/399/276/original/e6a405c44db1aa3f.jpeg"
+			},
+			"date": "2025-03-06T19:13:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> </p><p>There is value in custom labeling taxonomies, though. The standard names might not fit for a particular project.</p><p>IMO I don’t think mixing two separate labeling systems - one standard and one custom - is necessarily a good thing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114117123912529431",
+			"parentId": "114117076327088943",
+			"url": "https://fediverse.zachleat.com/@zachleat/114117123912529431",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-06T19:25:22.200Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\">@<span>litherum</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> for the record you can delete the default types or rename them to something else so in that regard I might classify both systems as more custom than standard?</p><p>two of the three default types are also represented as default labels for new repos too 🤷‍♂️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114118678235435804",
+			"parentId": "114117123912529431",
+			"url": "https://front-end.social/@AmeliaBR/114118678214121656",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2025-03-07T02:00:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>litherum</span></a></span> Huh. So they really are just super-labels, aren't they? 🤷🏻‍♀️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114118688590211915",
+			"parentId": "114118678235435804",
+			"url": "https://masto.ai/@litherum/114118688532958388",
+			"author": {
+				"name": "Litherum",
+				"url": "https://masto.ai/@litherum",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/414/781/998/399/276/original/e6a405c44db1aa3f.jpeg"
+			},
+			"date": "2025-03-07T02:03:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Having two independent customizable label systems seems worse to me than having one standard one and one custom one</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114121496263270261",
+			"parentId": "114118688590211915",
+			"url": "https://fediverse.zachleat.com/@zachleat/114121496263270261",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-07T13:57:18.979Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\">@<span>litherum</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> opinions are souring!! 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114121973477929486",
+			"parentId": 0,
+			"url": "https://indieweb.social/@anthony/114121973305252561",
+			"author": {
+				"name": "Anthony",
+				"url": "https://indieweb.social/@anthony",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/693/059/248/931/906/original/2d9b808801cf2aef.png"
+			},
+			"date": "2025-03-07T15:58:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My understanding is that they are defined at the organisation level while labels aren’t. So I’m remembering them as “organisation labels” and think that they are only useful for organisation managers.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114121985437125258",
+			"parentId": "114121973477929486",
+			"url": "https://fediverse.zachleat.com/@zachleat/114121985437125258",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-07T16:01:43.178Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@anthony\" class=\"u-url mention\">@<span>anthony</span></a></span> ah yeah — that’s not accurate! I’ve done that with the 11ty org: <a href=\"https://docs.github.com/en/organizations/managing-organization-settings/managing-default-labels-for-repositories-in-your-organization\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.github.com/en/organizatio</span><span class=\"invisible\">ns/managing-organization-settings/managing-default-labels-for-repositories-in-your-organization</span></a></p><p>edit: though the word “new” is doing a lot of work in that doc so I think I see your point!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114122018735680414",
+			"parentId": "114121985437125258",
+			"url": "https://indieweb.social/@anthony/114122018709471820",
+			"author": {
+				"name": "Anthony",
+				"url": "https://indieweb.social/@anthony",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/693/059/248/931/906/original/2d9b808801cf2aef.png"
+			},
+			"date": "2025-03-07T16:10:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> As a repo manager, I’m free to edit the list of labels that can be used. The org can provide a default list for new projects.</p><p>But as a repo manager, I cannot edit the list of issue types.</p><p>I think.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114122043214012508",
+			"parentId": "114122018735680414",
+			"url": "https://fediverse.zachleat.com/@zachleat/114122043214012508",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-07T16:16:24.784Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@anthony\" class=\"u-url mention\">@<span>anthony</span></a></span> yeah, that is a subtle but important difference!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114132263758445986",
+			"parentId": "114116526640747184",
+			"url": "https://mstdn.social/@jkarsrud/114132263734548311",
+			"author": {
+				"name": "Jesper Karsrud",
+				"url": "https://mstdn.social/@jkarsrud",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/638/894/880/710/525/original/9e41c32b18c87ac7.png"
+			},
+			"date": "2025-03-09T11:35:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> I feel like this fits right into their direction lately. Replace things that work with something new that either doesn’t or has no now value 🫢</p>",
+			"via": "fediverse"
+		}
+	]
+}

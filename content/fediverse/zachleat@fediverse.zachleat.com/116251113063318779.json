@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "116251131393125886",
+			"parentId": 0,
+			"url": "https://mastodon.social/@localnerve/116251131315146976",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2026-03-18T16:31:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Endless fumbling around with plugs and sockets is cumbersome, too. We just put the live wires right next to the sink.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251132165774694",
+			"parentId": 0,
+			"url": "https://gts.woodland.cafe/@untitaker/statuses/01KM0WKSKNQMB5812EF1JRYW8D",
+			"author": {
+				"name": "Markus Unterwaditzer",
+				"url": "https://gts.woodland.cafe/@untitaker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/283/332/981/962/640/original/68be680a5d8ef6f5.png"
+			},
+			"date": "2026-03-18T16:31:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> at work it is, ports regularly conflict across services and their respective dependencies. particularly if you want to develop two services at once and each of them should have a dedicated redis or postgres instance for the sake of isolation, you now have to run one of the redises on a non-standard port which adds more config boilerplate. having one host per service would solve this. not convinced this portless thing is a good solution. HTTPS out of the box is a good aspect of it though, and the permission stuff is a non-issue IMO (again, for work... if a third-party OSS project imposed this onto me I would lose it)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251140520539922",
+			"parentId": "116251131393125886",
+			"url": "https://fediverse.zachleat.com/@zachleat/116251140520539922",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-03-18T16:33:51.477Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\">@<span>localnerve</span></a></span> …oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251148416337184",
+			"parentId": 0,
+			"url": "https://narrativ.es/@janl/116251148344490252",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2026-03-18T16:35:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nope. <a href=\"https://github.com/hoodiehq-archive/local-tld\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hoodiehq-archive/lo</span><span class=\"invisible\">cal-tld</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251207660400231",
+			"parentId": "116251148416337184",
+			"url": "https://fediverse.zachleat.com/@zachleat/116251207660400231",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-03-18T16:50:55.950Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> 12 years ago!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251218689734403",
+			"parentId": "116251207660400231",
+			"url": "https://narrativ.es/@janl/116251218648873300",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2026-03-18T16:53:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> mac only, but I’d be surprised if there wasn’t some systemd/dbus magic one could pull on linux.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251224268702359",
+			"parentId": "116251218689734403",
+			"url": "https://toot.cafe/@slightlyoff/116251223963968867",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2026-03-18T16:55:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah yes, Linux DNS; famously sane!</p><p><a href=\"https://tailscale.com/blog/sisyphean-dns-client-linux\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tailscale.com/blog/sisyphean-d</span><span class=\"invisible\">ns-client-linux</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251227372661261",
+			"parentId": 0,
+			"url": "https://mastodon.social/@trygve_lie/116251227322352619",
+			"author": {
+				"name": "Trygve Lie",
+				"url": "https://mastodon.social/@trygve_lie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/483/637/191/758/954/original/638607630fb38813.jpg"
+			},
+			"date": "2026-03-18T16:55:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would say it depends. Ports are annoying when you need a series of apps (ex; API service A, etc) to run to do what you need and all apps want to start at the same port. Because; defaults.</p><p>Would love a local discovery thing which would give apps a random port and then apps find each other based on something else than the port locally.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116251246927576747",
+			"parentId": "116251224268702359",
+			"url": "https://narrativ.es/@janl/116251246883158492",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2026-03-18T17:00:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I said “possible”!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116252372048675434",
+			"parentId": 0,
+			"url": "https://aus.social/@peterwilsoncc/116252371975544108",
+			"author": {
+				"name": "Peter Wilson",
+				"url": "https://aus.social/@peterwilsoncc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/454/460/911/870/255/original/0b4c5fd3f963a4e6.png"
+			},
+			"date": "2026-03-18T21:47:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's been weeks since a successful malware injection attack via NPM. I'm all in.</p>",
+			"via": "fediverse"
+		}
+	]
+}

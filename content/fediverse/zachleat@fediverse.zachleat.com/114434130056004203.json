@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "114434153610832331",
+			"parentId": 0,
+			"url": "https://mastodon.social/@wooorm/114434153448317988",
+			"author": {
+				"name": "Titus 🇵🇸",
+				"url": "https://mastodon.social/@wooorm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/868/583/500/127/976/original/3c6b3377cae6a127.jpg"
+			},
+			"date": "2025-05-01T19:10:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> why not Blob? A long unrelated discussion but see the end of this comment here: <a href=\"https://github.com/mdx-js/mdx/issues/2606#issuecomment-2778869459\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mdx-js/mdx/issues/2</span><span class=\"invisible\">606#issuecomment-2778869459</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434160046449294",
+			"parentId": "114434153610832331",
+			"url": "https://fediverse.zachleat.com/@zachleat/114434160046449294",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-01T19:11:49.694Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@wooorm\" class=\"u-url mention\">@<span>wooorm</span></a></span> it does use Blob (but feature tests for support). It’s not supported in Node right now though <a href=\"https://github.com/nodejs/node/issues/47573\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nodejs/node/issues/</span><span class=\"invisible\">47573</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434166691047124",
+			"parentId": "114434160046449294",
+			"url": "https://mastodon.social/@wooorm/114434166660452451",
+			"author": {
+				"name": "Titus 🇵🇸",
+				"url": "https://mastodon.social/@wooorm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/868/583/500/127/976/original/3c6b3377cae6a127.jpg"
+			},
+			"date": "2025-05-01T19:13:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ah interesting!</p><p>Some of the other stuff in the issue may be of interest then too, e.g. <a href=\"https://github.com/remcohaszing/recma-module-to-function#examples\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/remcohaszing/recma-</span><span class=\"invisible\">module-to-function#examples</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434173950260283",
+			"parentId": 0,
+			"url": "https://ruby.social/@konnorrogers/114434173920963141",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2025-05-01T19:15:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Okay...but hear me out... SQL frontmatter...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434176763047027",
+			"parentId": "114434166691047124",
+			"url": "https://fediverse.zachleat.com/@zachleat/114434176763047027",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-01T19:16:04.768Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@wooorm\" class=\"u-url mention\">@<span>wooorm</span></a></span> yeah! I’ll have a read — thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434177716899203",
+			"parentId": "114434173950260283",
+			"url": "https://fediverse.zachleat.com/@zachleat/114434177716899203",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-01T19:16:19.322Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> *eyes narrow*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434183944783252",
+			"parentId": "114434173950260283",
+			"url": "https://ruby.social/@konnorrogers/114434183869421246",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2025-05-01T19:17:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> and if you're feeling real dangerous, lets make everything GraphQL 🙃</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434192628377660",
+			"parentId": "114434183944783252",
+			"url": "https://fediverse.zachleat.com/@zachleat/114434192628377660",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-01T19:20:06.853Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> *runs away screaming*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434229049563551",
+			"parentId": "114434192628377660",
+			"url": "https://ruby.social/@konnorrogers/114434229022592890",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2025-05-01T19:29:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we've literally never tried it before. It'll be so good. Trust me bro.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114434244489799285",
+			"parentId": "114434229049563551",
+			"url": "https://fediverse.zachleat.com/@zachleat/114434244489799285",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-01T19:33:18.196Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> f. scott fitzgerald is rolling in their grave</p>",
+			"via": "fediverse"
+		}
+	]
+}

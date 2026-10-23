@@ -1,0 +1,51 @@
+{
+	"comments": [
+		{
+			"id": "113385942467740066",
+			"parentId": 0,
+			"url": "https://indieweb.social/@alesroubicek/113385942446161765",
+			"author": {
+				"name": "Aleš Roubíček",
+				"url": "https://indieweb.social/@alesroubicek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/665/449/134/742/777/original/bb4c57c25ebaf52c.webp"
+			},
+			"date": "2024-10-28T16:16:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> I read only the footnotes (and most headings) 🙈</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113386040438440870",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113386040438440870",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T16:41:13.682Z",
+			"content": "<p>why did it take an hour for someone to tell me I forgot the URL 😅🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113386429715624220",
+			"parentId": "113385942467740066",
+			"url": "https://toot.cafe/@slightlyoff/113386429574589495",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-10-28T18:20:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alesroubicek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>alesroubicek</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Tough, but fair.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113389385784777180",
+			"parentId": "113386040438440870",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01JBBGPZMJD64ABSPMYWF6WY8P",
+			"private": true,
+			"date": "2024-10-29T06:51:47.000Z",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "114976435483631673",
+			"parentId": 0,
+			"url": "https://mastodon.social/@countablenewt/114976435404234644",
+			"author": {
+				"name": "Sam Clemente",
+				"url": "https://mastodon.social/@countablenewt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/605/961/140/336/321/original/c20ad287ab778468.png"
+			},
+			"date": "2025-08-05T13:39:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m personally a fan of `//TODO: Fix`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114976441133841106",
+			"parentId": 0,
+			"url": "https://toot.works/@joe/114976441094336394",
+			"author": {
+				"name": "Joe Steinbring :thisisfine:",
+				"url": "https://toot.works/@joe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/700/399/157/655/original/2c18c7725abd4da4.png"
+			},
+			"date": "2025-08-05T13:41:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The only thing that I would add is ...</p><p>** TODO **</p><p>... before \"Start\" because I don't trust that I would see the comment.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114976441623487954",
+			"parentId": "114976435483631673",
+			"url": "https://hachyderm.io/@tymwol/114976441593414692",
+			"author": {
+				"name": "Timothy Wolodzko",
+				"url": "https://hachyderm.io/@tymwol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/857/974/863/924/173/original/6ef3e95d74d064f3.png"
+			},
+			"date": "2025-08-05T13:41:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@countablenewt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>countablenewt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> `// TODO: Fix` at least has some agency, `// this doesn't work` is even more pessimistic,</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114976476928703450",
+			"parentId": 0,
+			"url": "https://mastodon.social/@csilverman/114976476879034356",
+			"author": {
+				"name": "Chris Silverman 🌻",
+				"url": "https://mastodon.social/@csilverman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/925/316/192/008/original/50b0c3dda2140bf0.png"
+			},
+			"date": "2025-08-05T13:50:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I do that! I use \"on return:\" followed by a list of items, either in the code or a different text document.</p><p>That trick makes resurrecting a mental workspace a *lot* easier.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114976510333712380",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@AlesandroOrtiz/114976510311842504",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2025-08-05T13:58:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Along with 2-5 lines of context. \"Thank you past self\" every time.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114976974012583025",
+			"parentId": "114976510333712380",
+			"url": "https://hachyderm.io/@paulrosen/114976973993595804",
+			"author": {
+				"name": "Paul Rosen",
+				"url": "https://hachyderm.io/@paulrosen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/441/152/007/528/951/original/78dbdbe33000410e.png"
+			},
+			"date": "2025-08-05T15:56:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AlesandroOrtiz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have a document titled \"note to future self\" that I revise on Fridays. I want to start thanking my past self.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114977025049935470",
+			"parentId": "114976974012583025",
+			"url": "https://fediverse.zachleat.com/@zachleat/114977025049935470",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-05T16:09:32.272Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@paulrosen\" class=\"u-url mention\">@<span>paulrosen</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\">@<span>AlesandroOrtiz</span></a></span> storing Friday mental state is so important</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114977087970764545",
+			"parentId": 0,
+			"url": "https://mastodon.social/@h0b0/114977087943260105",
+			"author": {
+				"name": "h0b0",
+				"url": "https://mastodon.social/@h0b0",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/979/779/695/434/492/original/cf2df3d7660faf17.jpg"
+			},
+			"date": "2025-08-05T16:25:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The only thing better than this is a nice little compiler error reminding you what you were about to do.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "114500829693982017",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jmvanderpol/114500829664474154",
+			"author": {
+				"name": "Jesse VanDerPol",
+				"url": "https://mastodon.social/@jmvanderpol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/382/887/128/558/555/original/67d5ca97b4fbe24a.png"
+			},
+			"date": "2025-05-13T13:46:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What are you using to get this visualization?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114500832001456844",
+			"parentId": "114500829693982017",
+			"url": "https://fediverse.zachleat.com/@zachleat/114500832001456844",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-13T13:47:22.993Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jmvanderpol\" class=\"u-url mention\">@<span>jmvanderpol</span></a></span> <a href=\"https://github.com/btd/esbuild-visualizer\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/btd/esbuild-visuali</span><span class=\"invisible\">zer</span></a> is the thing!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114500866354796604",
+			"parentId": 0,
+			"url": "https://toots.inbutts.lol/@shnizmuffin/114500866297437492",
+			"author": {
+				"name": "ShnizmuffiN",
+				"url": "https://toots.inbutts.lol/@shnizmuffin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/952/635/091/269/876/original/a27991893443d005.png"
+			},
+			"date": "2025-05-13T13:56:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lol \"dumper\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114500870621630196",
+			"parentId": "114500866354796604",
+			"url": "https://fediverse.zachleat.com/@zachleat/114500870621630196",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-13T13:57:12.289Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toots.inbutts.lol/@shnizmuffin\" class=\"u-url mention\">@<span>shnizmuffin</span></a></span> we love a yaml dumper</p>",
+			"via": "fediverse"
+		}
+	]
+}

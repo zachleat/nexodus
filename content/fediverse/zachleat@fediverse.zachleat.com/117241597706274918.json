@@ -1,0 +1,238 @@
+{
+	"comments": [
+		{
+			"id": "117241617886488971",
+			"parentId": 0,
+			"url": "https://social.lol/@robb/117241617775731625",
+			"author": {
+				"name": "Robb Knightmare",
+				"url": "https://social.lol/@robb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/140/852/436/591/original/6dcfe56e107ff191.jpg"
+			},
+			"date": "2026-09-09T14:45:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is really smart. I just nuked mine recently because I was fed up of making the ~1000 pages it needed. I'll keep this in mind if i want to do them again.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241623144924448",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/117241623010338997",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2026-09-09T14:46:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Jokes on you, I can make whatever OG image I want with any text I want :P</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241625009053127",
+			"parentId": "117241617886488971",
+			"url": "https://fediverse.zachleat.com/@zachleat/117241625009053127",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T14:47:05.358Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@robb\" class=\"u-url mention\">@<span>robb</span></a></span> thanks! I forgot to mention in the post that it also solved some sneaky problems with seeing 404 errors if my local build requested a production URL screenshot before it was pushed! If that happens I just show a default now (better)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241627848485509",
+			"parentId": "117241623144924448",
+			"url": "https://fediverse.zachleat.com/@zachleat/117241627848485509",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T14:47:48.685Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> if it ain’t hosted on my domain it’s a deepfake</p><p>(and you could do that before!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241638585945938",
+			"parentId": "117241625009053127",
+			"url": "https://social.lol/@robb/117241638514726734",
+			"author": {
+				"name": "Robb Knightmare",
+				"url": "https://social.lol/@robb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/140/852/436/591/original/6dcfe56e107ff191.jpg"
+			},
+			"date": "2026-09-09T14:50:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thats also a good point, I hit that a bunch of times and it's really annoying with Mastodon especially because it caches preview images.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241696127363440",
+			"parentId": "117241627848485509",
+			"url": "https://mastodon.social/@khalidabuhakmeh/117241696051919418",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2026-09-09T15:05:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> IT'S REAL TO ME, ZACH! IT'S REAL TO ME.... 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241714736597159",
+			"parentId": "117241638585945938",
+			"url": "https://fediverse.zachleat.com/@zachleat/117241714736597159",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T15:09:54.492Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@robb\" class=\"u-url mention\">@<span>robb</span></a></span> *yes*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241717485309641",
+			"parentId": "117241696127363440",
+			"url": "https://fediverse.zachleat.com/@zachleat/117241717485309641",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T15:10:36.434Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> that’s because I am your dad</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241729784151064",
+			"parentId": "117241717485309641",
+			"url": "https://mastodon.social/@khalidabuhakmeh/117241729630473476",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2026-09-09T15:13:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Did you ever get those cigarettes you went out for? Must have been difficult to find.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241799148227579",
+			"parentId": "117241729784151064",
+			"url": "https://fediverse.zachleat.com/@zachleat/117241799148227579",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T15:31:22.511Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> *backs away slowly*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241836137565101",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriskirknielsen/117241836023710879",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2026-09-09T15:40:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ooh, clever! I should see if this helps get my build times down a little… thank you for sharing!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117241925831220365",
+			"parentId": "117241836137565101",
+			"url": "https://fediverse.zachleat.com/@zachleat/117241925831220365",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T16:03:35.540Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> you’re very welcome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117242034593047197",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/117242034574188743",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-09-09T16:31:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So, to be clear: you are still building 474 open graph *images*, you're just not building 474 separate static HTML pages just to screenshot them to make the images. </p><p>You're using the Chromium-based screenshot service as the build tool instead of using eleventy plus also the screenshot service.</p><p>That seems like a sensible use of resources. But its not quite as impressive as you implied yesterday; your total build time including the screenshots is still proportional to page count.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117242193280525431",
+			"parentId": "117242034593047197",
+			"url": "https://fediverse.zachleat.com/@zachleat/117242193280525431",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T17:11:36.492Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> I suppose! I don’t include the screenshots in my mental model of build times because they aren’t “blocking” build times, they happen independently as needed (but your point is valid!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117242771842957624",
+			"parentId": "117242193280525431",
+			"url": "https://front-end.social/@AmeliaBR/117242771825661368",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-09-09T19:38:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If the screenshot images are only generated on demand by your image caching layer, that also I guess means you're not necessarily re-building images for your entire archive of posts every time you tweak something.</p><p>But be careful about following that logic too far: you could end up re-inventing PHP just to speed up the build times on your \"static\" website!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117242788815722659",
+			"parentId": "117242771842957624",
+			"url": "https://fediverse.zachleat.com/@zachleat/117242788815722659",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T19:43:03.637Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> </p><p>first of all: <a href=\"https://www.zachleat.com/twitter/1257414895110369280/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/twitter/125741489</span><span class=\"invisible\">5110369280/</span></a><br />second of all: <a href=\"https://www.zachleat.com/twitter/1304556448035278848/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/twitter/130455644</span><span class=\"invisible\">8035278848/</span></a></p><p>😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117242925451272138",
+			"parentId": "117242788815722659",
+			"url": "https://mastodon.social/@sil/117242924935000329",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2026-09-09T20:17:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> the thing about funky caching isn’t that it’s funky, it’s that it’s caching</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117242989153546536",
+			"parentId": "117242925451272138",
+			"url": "https://fediverse.zachleat.com/@zachleat/117242989153546536",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T20:34:00.549Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> I love a forever cache that I can bust at will</p><p>in the immortal words of the ghostbusters, cache-bustin makes me feel — no… wait, sorry this is an inside thought</p>",
+			"via": "fediverse"
+		}
+	]
+}

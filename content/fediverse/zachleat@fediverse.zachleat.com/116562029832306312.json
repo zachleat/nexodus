@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "116562081436896858",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/116562081436896858",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T14:30:13.329Z",
+			"content": "<p>Importantly, `pull_request_target` IGNORES this GitHub security setting: <a href=\"https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#controlling-changes-from-forks-to-workflows-in-public-repositories\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.github.com/en/repositorie</span><span class=\"invisible\">s/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#controlling-changes-from-forks-to-workflows-in-public-repositories</span></a></p><p>This was very surprising to me.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562109119893640",
+			"parentId": "116562081436896858",
+			"url": "https://social.lol/@jgarber/116562109098679296",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/806/761/171/789/152/original/092aea9395842a5d.jpg"
+			},
+			"date": "2026-05-12T14:37:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Surprise!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562122059997141",
+			"parentId": "116562109119893640",
+			"url": "https://fediverse.zachleat.com/@zachleat/116562122059997141",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T14:40:33.190Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> luckily I don’t use `pull_request_target` anywhere but WOOOOOOOFFFFF</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562174510240383",
+			"parentId": "116562122059997141",
+			"url": "https://social.lol/@jgarber/116562174487279503",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/806/761/171/789/152/original/092aea9395842a5d.jpg"
+			},
+			"date": "2026-05-12T14:53:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> pull_request_target has •always• been a yard full of rakes waiting to be stepped on. I don’t know enough to draw any conclusions, and (like you) I’ve never used it, but I also never understood why they’d ship something so easily misused.</p>",
+			"via": "fediverse"
+		}
+	]
+}

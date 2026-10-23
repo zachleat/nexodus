@@ -1,0 +1,168 @@
+{
+	"comments": [
+		{
+			"id": "113391068253034110",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/113391067785068049",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2024-10-29T13:59:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> One reason I haven't even bothered looking into Variable Fonts beyond the initial concept is I saw how freaking huge the file size is on them. (Well, the ones I looked at anyway) <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@stoyan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stoyan</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391074572453892",
+			"parentId": 0,
+			"url": "https://social.lol/@r0b/113391074522746226",
+			"author": {
+				"name": "Rob Anderson",
+				"url": "https://social.lol/@r0b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/391/039/856/247/400/original/057048f687fc13c8.jpeg"
+			},
+			"date": "2024-10-29T14:01:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@stoyan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stoyan</span></a></span> </p><p>I was wondering about this the other month, there was a variable version of a font we were using that was like 1.3Mb, surely that defeats the point!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391090720828688",
+			"parentId": "113391074572453892",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391090720828688",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T14:05:34.875Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@r0b\" class=\"u-url mention\">@<span>r0b</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@stoyan\" class=\"u-url mention\">@<span>stoyan</span></a></span> surely the desktop variant!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391119045969855",
+			"parentId": "113391074572453892",
+			"url": "https://typo.social/@pixelambacht/113391118977980088",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2024-10-29T14:12:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@r0b\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>r0b</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@stoyan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stoyan</span></a></span> Variable fonts are hard to compare as you never know which axes it has, and each axis can add a significant amount of data (especially for large charsets)! Like the article says, a variable font with just a weight axis will be smaller than two old-fashioned Regular and Bold fonts — except when it also has an italic axis, optical sizing, a couple of custom axis... that sounds like something that ends up as a 1.3MB font!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391144686199584",
+			"parentId": 0,
+			"url": "https://typo.social/@pixelambacht/113391144646794979",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2024-10-29T14:19:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@stoyan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stoyan</span></a></span> It might be interesting to look at how many masters a font has. Some fonts can interpolate all the way from font weight 1 to 1000 on a single master (the \"default\" lettershapes where other weights are calculated from). But some fonts need to switch to a different set of lettershapes halfway through because the differences between the extremes is too big. In that case you suddenly have two variable fonts inside one, so to speak. This obviously increases a font's size a lot!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391173309391285",
+			"parentId": "113391090720828688",
+			"url": "https://social.lol/@r0b/113391173272723263",
+			"author": {
+				"name": "Rob Anderson",
+				"url": "https://social.lol/@r0b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/391/039/856/247/400/original/057048f687fc13c8.jpeg"
+			},
+			"date": "2024-10-29T14:26:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i had to look it up, it was Playfair Display and it had two variable woff2 format (for web?) files. Each 500KB! </p><p>The TTF were 1.4MB each</p><p><a href=\"https://github.com/clauseggers/Playfair/releases/tag/2.101\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/clauseggers/Playfai</span><span class=\"invisible\">r/releases/tag/2.101</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391187860930311",
+			"parentId": "113391173309391285",
+			"url": "https://fediverse.zachleat.com/@zachleat/113391187860930311",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T14:30:17.117Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@r0b\" class=\"u-url mention\">@<span>r0b</span></a></span> great multi-language support on that one! (read: subsetting needed 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391550767960975",
+			"parentId": 0,
+			"url": "https://typo.social/@simoncozens/113391550728926836",
+			"author": {
+				"name": "Simon Cozens",
+				"url": "https://typo.social/@simoncozens",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/545/314/853/847/818/original/eb13ef531a51f03b.jpeg"
+			},
+			"date": "2024-10-29T16:02:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Something went wrong with the tooling here.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@stoyan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stoyan</span></a></span> has YsabeauInfant[wght]-subset.woff2 at 58688 bytes.</p><p>I have:</p><p>$ glyphhanger --subset=\"*.ttf\" --US_ASCII --formats=woff2<br>...<br>Subsetting YsabeauInfant[wght].ttf to YsabeauInfant[wght]-subset.woff2 (was 373.46 KB, now 40.69 KB)</p><p>And I also have:</p><p>$ hb-subset --unicodes=20-7e YsabeauInfant\\[wght\\].ttf -o YsabeauInfant\\[wght\\]-subset.ttf<br>$ woff2_compress YsabeauInfant\\[wght\\]-subset.ttf<br>Compressed 36642 to 21142.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391571689513596",
+			"parentId": "113391550767960975",
+			"url": "https://typo.social/@simoncozens/113391571631790109",
+			"author": {
+				"name": "Simon Cozens",
+				"url": "https://typo.social/@simoncozens",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/545/314/853/847/818/original/eb13ef531a51f03b.jpeg"
+			},
+			"date": "2024-10-29T16:07:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@stoyan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stoyan</span></a></span> <br>The actual Ysabeau Infant as served by the Google Fonts API is 37808 bytes, but that's a slightly bigger subset than just  ASCII.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391639977038596",
+			"parentId": "113391187860930311",
+			"url": "https://indieweb.social/@stoyan/113391639939387978",
+			"author": {
+				"name": "stoyan",
+				"url": "https://indieweb.social/@stoyan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/714/333/889/719/original/b102d406aa430128.png"
+			},
+			"date": "2024-10-29T16:25:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@r0b\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>r0b</span></a></span> 1.4Mb TTF (source) becomes 278K after subset to latin only and turned to WOFF:<br>glyphhanger --subset=\"PlayfairRomanVF.ttf\" --LATIN --formats=woff2<br>Though the subset didn't remove too many characters. Its LATIN supports 713 characters (down from 1603) which is very exhaustive. 3 times what the average Google font supports when subset to LATIN</p><p>I wonder if it's the \"Optical size\" axis that makes fonts bigger (as another comment suggested)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391666030612907",
+			"parentId": "113391550767960975",
+			"url": "https://indieweb.social/@stoyan/113391666000196737",
+			"author": {
+				"name": "stoyan",
+				"url": "https://indieweb.social/@stoyan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/714/333/889/719/original/b102d406aa430128.png"
+			},
+			"date": "2024-10-29T16:31:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@simoncozens\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>simoncozens</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I used --LATIN subset for the experiment. YsabeauInfant[wght]-subset ended up being 241 characters where US_ASCII should be 95-ish right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391674248023607",
+			"parentId": "113391550767960975",
+			"url": "https://indieweb.social/@stoyan/113391674222067527",
+			"author": {
+				"name": "stoyan",
+				"url": "https://indieweb.social/@stoyan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/714/333/889/719/original/b102d406aa430128.png"
+			},
+			"date": "2024-10-29T16:33:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@simoncozens\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>simoncozens</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> woff2_compress... nice, I haven't seen this. Does it produce even better results than glyphhanger/pyftsubset?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113391713171402794",
+			"parentId": "113391674248023607",
+			"url": "https://typo.social/@simoncozens/113391713126565173",
+			"private": true,
+			"date": "2024-10-29T16:43:52.000Z",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"comments": [
+		{
+			"id": "114065265977517133",
+			"parentId": 0,
+			"url": "https://ruby.social/@konnorrogers/114065265940814371",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2025-02-25T15:37:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>echo \"There was an old man named Michael Finnegan,<br>He grew whiskers on his chinnegan,<br>The wind came up and blew them inagain<br>Poor old Michael Finnegan,<br>Begin again.\" &gt; \"./llms.txt\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114065285989436082",
+			"parentId": "114065265977517133",
+			"url": "https://fediverse.zachleat.com/@zachleat/114065285989436082",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-25T15:42:18.266Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> ship it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076919043781543",
+			"parentId": 0,
+			"url": "https://indieweb.social/@villapirorum/114076918996799325",
+			"author": {
+				"name": "Antoine",
+				"url": "https://indieweb.social/@villapirorum",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/398/547/912/070/227/original/c05a4f9334da818b.gif"
+			},
+			"date": "2025-02-27T17:00:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> shipped my llms.txt  !<br>Kind of a new slash page ! 🤣 <br>Was a bit disapointed to not find yours 😅😉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076942965943628",
+			"parentId": "114076919043781543",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076942965943628",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T17:06:49.614Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@villapirorum\" class=\"u-url mention\">@<span>villapirorum</span></a></span> I actually checked and found a 404 how dare you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076986544132798",
+			"parentId": "114076942965943628",
+			"url": "https://indieweb.social/@villapirorum/114076986472557659",
+			"author": {
+				"name": "Antoine",
+				"url": "https://indieweb.social/@villapirorum",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/398/547/912/070/227/original/c05a4f9334da818b.gif"
+			},
+			"date": "2025-02-27T17:17:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p><a href=\"https://villepreux.net/llms.txt\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">villepreux.net/llms.txt</span><span class=\"invisible\"></span></a> ? 🤔 <br>(or maybe its not the right path ?)</p><p>Maybe you went to my old website at villapirorum.netlify.app ? (I thouht I had updated the link on my profile)<br>(villapirorum.netlify.app is still live but compile times are not comparable to 11ty ones.... still building 😬)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077005111605393",
+			"parentId": "114076986544132798",
+			"url": "https://fediverse.zachleat.com/@zachleat/114077005111605393",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T17:22:37.880Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@villapirorum\" class=\"u-url mention\">@<span>villapirorum</span></a></span> I still see the netlify.app URL on your profile — it might be propagating, I’m not sure how fast that goes on mastodon</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077044178759333",
+			"parentId": "114077005111605393",
+			"url": "https://indieweb.social/@villapirorum/114077044101446575",
+			"private": true,
+			"date": "2025-02-27T17:32:32.000Z",
+			"via": "fediverse"
+		}
+	]
+}

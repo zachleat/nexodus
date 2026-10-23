@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "115106754012909998",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/115106753939710920",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-08-28T14:01:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Could you elaborate on what issue this was causing and hopefully fixes?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115106765013972555",
+			"parentId": "115106754012909998",
+			"url": "https://fediverse.zachleat.com/@zachleat/115106765013972555",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-28T14:04:07.016Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> I am using `import.meta.resolve` in my import-module-string package (tested in Vitest) and needed to write a separate test suite using Node’s test runner to test the import.meta.resolve functionality.</p><p><a href=\"https://github.com/vitest-dev/vitest/issues/6953\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vitest-dev/vitest/i</span><span class=\"invisible\">ssues/6953</span></a></p><p>Mentioned here: <a href=\"https://www.zachleat.com/web/dynamic-import/#even-more-features\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/dynamic-impor</span><span class=\"invisible\">t/#even-more-features</span></a></p><p>Direct ref to the separate Node test suite: <a href=\"https://github.com/zachleat/import-module-string/blob/5e09593347e48ca64f54c523b04de0215242d886/test/manual-node-test.js#L5\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/import-mod</span><span class=\"invisible\">ule-string/blob/5e09593347e48ca64f54c523b04de0215242d886/test/manual-node-test.js#L5</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115106782025869037",
+			"parentId": "115106765013972555",
+			"url": "https://mastodon.social/@khalidabuhakmeh/115106781210341167",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-08-28T14:08:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh, neat, thanks for sharing. I am always keeping an eye on what you JavaScript folks are doing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115106794336602971",
+			"parentId": "115106782025869037",
+			"url": "https://fediverse.zachleat.com/@zachleat/115106794336602971",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-28T14:11:34.444Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> just a small feature support wrinkle in Vitest, happy to see it ironed out!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "117315542373366180",
+			"parentId": 0,
+			"url": "https://social.lol/@db/117315541914633181",
+			"author": {
+				"name": "David Bushell 🪿",
+				"url": "https://social.lol/@db",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/405/525/396/979/963/original/64aa96d405856bfc.png"
+			},
+			"date": "2026-09-22T16:05:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117315552622209781",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@AlesandroOrtiz/117315552479853688",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2026-09-22T16:07:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Besties with \"Internet Disconnected: Check your network connection and then retry.\" when the API returns a business logic error or the server is down.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117315555590860707",
+			"parentId": 0,
+			"url": "https://mastodon.social/@kleinfreund/117315552764652210",
+			"author": {
+				"name": "Philipp Tootloff",
+				"url": "https://mastodon.social/@kleinfreund",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/804/437/227/104/original/cf0e31e8d330ec8c.png"
+			},
+			"date": "2026-09-22T16:07:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Can I interest you in a 500 Internal Server Error?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117315564632708034",
+			"parentId": "117315542373366180",
+			"url": "https://fediverse.zachleat.com/@zachleat/117315564632708034",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-22T16:10:54.479Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\">@<span>db</span></a></span> batman I’ll see you in court</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117315566770454546",
+			"parentId": "117315552622209781",
+			"url": "https://fediverse.zachleat.com/@zachleat/117315566770454546",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-22T16:11:27.098Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\">@<span>AlesandroOrtiz</span></a></span> servers should just stay up all the time, easy</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117315567622248072",
+			"parentId": "117315555590860707",
+			"url": "https://fediverse.zachleat.com/@zachleat/117315567622248072",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-22T16:11:40.095Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kleinfreund\" class=\"u-url mention\">@<span>kleinfreund</span></a></span> please no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117315610983553174",
+			"parentId": "117315567622248072",
+			"url": "https://mastodon.social/@kleinfreund/117315609759771743",
+			"author": {
+				"name": "Philipp Tootloff",
+				"url": "https://mastodon.social/@kleinfreund",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/804/437/227/104/original/cf0e31e8d330ec8c.png"
+			},
+			"date": "2026-09-22T16:22:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Just as well, take this: 200 OK</p><p>{ \"error\": \"internal_server_error\" }</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117315632664398271",
+			"parentId": "117315610983553174",
+			"url": "https://fediverse.zachleat.com/@zachleat/117315632664398271",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-22T16:28:12.558Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kleinfreund\" class=\"u-url mention\">@<span>kleinfreund</span></a></span> haha 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117316126631461601",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pcdevil/117316126126583274",
+			"author": {
+				"name": "👾 Attila Gonda",
+				"url": "https://mastodon.social/@pcdevil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/346/857/288/123/117/original/40a30bc1b01cd710.jpg"
+			},
+			"date": "2026-09-22T18:33:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I still cannot understand how anybody could think this is a good user facing error message.</p><p>I think it's worse than showing an empty page in the sense that someone without technical background can't resolve it for themselves - hell, even from someone who has the knowhow should not be expected to dig in some random (sometimes multi billionaire company's) website to fix the damn bug.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117316394687387524",
+			"parentId": "117316126631461601",
+			"url": "https://fediverse.zachleat.com/@zachleat/117316394687387524",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-22T19:42:00.108Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pcdevil\" class=\"u-url mention\">@<span>pcdevil</span></a></span> it is a very strange user-facing choice 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

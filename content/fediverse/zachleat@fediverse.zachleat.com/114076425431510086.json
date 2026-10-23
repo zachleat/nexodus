@@ -1,0 +1,385 @@
+{
+	"comments": [
+		{
+			"id": "114076450033226061",
+			"parentId": 0,
+			"url": "https://layer8.space/@sebastianlaube/114076449991471418",
+			"private": true,
+			"date": "2025-02-27T15:01:27.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076456128741164",
+			"parentId": "114076450033226061",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076456128741164",
+			"private": true,
+			"date": "2025-02-27T15:03:01.066Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076534523664886",
+			"parentId": 0,
+			"url": "https://w3c.social/@tink/114076534472750660",
+			"author": {
+				"name": "Léonie Watson",
+				"url": "https://w3c.social/@tink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/329/942/949/230/860/original/dd4affb95dc08037.jpg"
+			},
+			"date": "2025-02-27T15:22:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That sounds interesting. Can you say more or point to more info?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076550119586304",
+			"parentId": "114076534523664886",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076550119586304",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T15:26:55.254Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@tink\" class=\"u-url mention\">@<span>tink</span></a></span> <a href=\"https://llmstxt.org/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">llmstxt.org/</span><span class=\"invisible\"></span></a> is docs for the proposal and this thought likely stems from a somewhat heated discussion on Bluesky a few days ago: <a href=\"https://bsky.app/profile/zachleat.com/post/3lix4zcjuwc2j\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/zachleat.com/</span><span class=\"invisible\">post/3lix4zcjuwc2j</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076557241814952",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/114076556790312499",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2025-02-27T15:28:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So tempted to create a /llms.txt that just says “GTFO.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076633639582783",
+			"parentId": "114076550119586304",
+			"url": "https://toot.cafe/@baldur/114076632919983900",
+			"author": {
+				"name": "Baldur Bjarnason",
+				"url": "https://toot.cafe/@baldur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/345/749/203/632/original/6b89199d62c86630.jpg"
+			},
+			"date": "2025-02-27T15:47:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That discussion on Bluesky is all kinds of yikes. 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076654905575103",
+			"parentId": "114076633639582783",
+			"url": "https://mastodon.social/@Jbasoo/114076654843802521",
+			"author": {
+				"name": "James Basoo",
+				"url": "https://mastodon.social/@Jbasoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/081/952/917/472/original/d8185c3d20e45f58.jpg"
+			},
+			"date": "2025-02-27T15:53:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I shouldn't have looked 🤦</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076716521453969",
+			"parentId": "114076633639582783",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076716521453969",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T16:09:14.344Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\">@<span>baldur</span></a></span> I really appreciate you saying so! I probably shouldn’t have @-ed all of them at once 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076720760874796",
+			"parentId": "114076557241814952",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076720760874796",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T16:10:19.033Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> we are on the same wavelength now: <a href=\"https://fediverse.zachleat.com/@zachleat/114065224554692578\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/114065224554692578</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076742602755657",
+			"parentId": "114076633639582783",
+			"url": "https://mastodon.cthos.dev/@cthos/114076742523072321",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-02-27T16:15:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I should not have clicked into this.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076743228255625",
+			"parentId": "114076716521453969",
+			"url": "https://mastodon.cthos.dev/@cthos/114076743195480226",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-02-27T16:16:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span> ZACH</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076747876693742",
+			"parentId": 0,
+			"url": "https://social.dzajew.xyz/@dzajew/statuses/01JN4357J49VYVYGZBKX8DR54D",
+			"private": true,
+			"date": "2025-02-27T16:17:11.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076768405237417",
+			"parentId": "114076747876693742",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076768405237417",
+			"private": true,
+			"date": "2025-02-27T16:22:26.030Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076774822335971",
+			"parentId": "114076743228255625",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076774822335971",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T16:24:03.946Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\">@<span>baldur</span></a></span> yes hello hi I will make sure you to @ you next time as well</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076782542459483",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114076782542459483",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T16:26:01.744Z",
+			"content": "<p>I propose that we use an llm. subdomain for LLMs to consume just like we *needed* an m. subdomain for mobile in 2010</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076788893037533",
+			"parentId": "114076782542459483",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076788893037533",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T16:27:38.645Z",
+			"content": "<p>sim alttextman where we at on this</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076797373425720",
+			"parentId": "114076782542459483",
+			"url": "https://carhenge.club/@nirak/114076797161551687",
+			"private": true,
+			"date": "2025-02-27T16:29:44.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076810765573069",
+			"parentId": "114076797373425720",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076810765573069",
+			"private": true,
+			"date": "2025-02-27T16:33:12.397Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076811698840922",
+			"parentId": "114076557241814952",
+			"url": "https://mastodon.cthos.dev/@cthos/114076811631772225",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-02-27T16:33:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>knowler</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's a great target for the tarpit: <a href=\"https://zadzmo.org/code/nepenthes/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">zadzmo.org/code/nepenthes/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076826319291803",
+			"parentId": "114076810765573069",
+			"url": "https://carhenge.club/@nirak/114076826219630019",
+			"private": true,
+			"date": "2025-02-27T16:37:08.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076860411928645",
+			"parentId": "114076826319291803",
+			"url": "https://front-end.social/@eeeps/114076860338021761",
+			"private": true,
+			"date": "2025-02-27T16:45:48.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076877514037476",
+			"parentId": "114076747876693742",
+			"url": "https://zirk.us/@darby3/114076877497924151",
+			"private": true,
+			"date": "2025-02-27T16:50:10.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076893555547695",
+			"parentId": "114076456128741164",
+			"url": "https://layer8.space/@sebastianlaube/114076893507010825",
+			"private": true,
+			"date": "2025-02-27T16:54:14.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076947144137325",
+			"parentId": "114076782542459483",
+			"url": "https://indieweb.social/@jgarber/114076947058795690",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-02-27T17:07:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> llm: live laugh mobile</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077241845523227",
+			"parentId": "114076768405237417",
+			"url": "https://social.dzajew.xyz/@dzajew/statuses/01JN4AB8WEC3VRYSYSD7ECMBFD",
+			"private": true,
+			"date": "2025-02-27T18:22:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077681454802354",
+			"parentId": 0,
+			"url": "https://mastodon.nz/@mez/114077681372137957",
+			"private": true,
+			"date": "2025-02-27T20:14:36.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077736250993602",
+			"parentId": "114077241845523227",
+			"url": "https://fediverse.zachleat.com/@zachleat/114077736250993602",
+			"private": true,
+			"date": "2025-02-27T20:28:34.181Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077740112135900",
+			"parentId": "114077681454802354",
+			"url": "https://fediverse.zachleat.com/@zachleat/114077740112135900",
+			"private": true,
+			"date": "2025-02-27T20:29:33.097Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077891355256758",
+			"parentId": "114077736250993602",
+			"url": "https://social.dzajew.xyz/@dzajew/statuses/01JN4KSQD74N369GP6ZX4451MC",
+			"private": true,
+			"date": "2025-02-27T21:08:00.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114078131547206250",
+			"parentId": 0,
+			"url": "https://glammr.us/@chronodm/114078131531297933",
+			"author": {
+				"name": "David Moles",
+				"url": "https://glammr.us/@chronodm",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-27T22:09:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would be for this if there was any reason to believe LLM scrapers would stop at the llms.txt file and leave my actual site alone</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114078136768571241",
+			"parentId": "114078131547206250",
+			"url": "https://glammr.us/@chronodm/114078136738675045",
+			"author": {
+				"name": "David Moles",
+				"url": "https://glammr.us/@chronodm",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-27T22:10:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (I mean not like I’d put any content in it, but)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114078376102372526",
+			"parentId": "114078131547206250",
+			"url": "https://fediverse.zachleat.com/@zachleat/114078376102372526",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T23:11:17.538Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://glammr.us/@chronodm\" class=\"u-url mention\">@<span>chronodm</span></a></span> literally laughed out loud at this idea 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114078662369985092",
+			"parentId": "114076782542459483",
+			"url": "https://mastodon.guerilla.studio/@tixie/114078662326058882",
+			"private": true,
+			"date": "2025-02-28T00:24:04.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114080718766454323",
+			"parentId": "114076826319291803",
+			"url": "https://tilde.zone/@nowthis/114080718749480387",
+			"private": true,
+			"date": "2025-02-28T09:07:03.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082224431760960",
+			"parentId": "114078662369985092",
+			"url": "https://fediverse.zachleat.com/@zachleat/114082224431760960",
+			"private": true,
+			"date": "2025-02-28T15:29:58.385Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082231765188150",
+			"parentId": "114078662369985092",
+			"url": "https://yatil.social/@yatil/114082231718051270",
+			"private": true,
+			"date": "2025-02-28T15:31:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082380081740892",
+			"parentId": "114076826319291803",
+			"url": "https://w3c.social/@tink/114082379912404327",
+			"private": true,
+			"date": "2025-02-28T16:09:30.000Z",
+			"via": "fediverse"
+		}
+	]
+}

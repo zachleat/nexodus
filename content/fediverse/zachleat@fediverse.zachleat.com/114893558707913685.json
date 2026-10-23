@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "114894515325000962",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@d3v1an7/114894515310966719",
+			"author": {
+				"name": "d3v1an7",
+				"url": "https://infosec.exchange/@d3v1an7",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/991/051/044/602/132/original/da2a25d00cb13c69.png"
+			},
+			"date": "2025-07-22T02:26:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A bit late to this, am I’m not sure if it would solve for every string, but I’ve been happy with <a href=\"https://tempo.formkit.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tempo.formkit.com/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114897259320680175",
+			"parentId": "114894515325000962",
+			"url": "https://fediverse.zachleat.com/@zachleat/114897259320680175",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-22T14:04:03.834Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@d3v1an7\" class=\"u-url mention\">@<span>d3v1an7</span></a></span> that one looks decent! It’s about 1MB on disk but looks like it doesn’t support week date or day of year formats either</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114898991441047726",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114898991441047726",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-22T21:24:33.891Z",
+			"content": "<p>One more entry in my epic date parsing adventure. I’ve shipped a breaking change to this library to ensure that all valid date strings supported in Eleventy v4 will be RFC 9557-compatible, ensuring friendliness with the standardized Temporal APIs coming to a JavaScript runtime near you. Our full test suite runs against both!</p><p>Read (a little) more: <a href=\"https://github.com/11ty/parse-date-strings/releases/tag/v2.0.0\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/parse-date-str</span><span class=\"invisible\">ings/releases/tag/v2.0.0</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914220548248533",
+			"parentId": "114898991441047726",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914220548248533",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T13:57:31.627Z",
+			"content": "<p>I wrote this saga up in blog post form: <a href=\"https://fediverse.zachleat.com/@zachleat/114913999540366417\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/114913999540366417</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914275306667314",
+			"parentId": "114914220548248533",
+			"url": "https://ottawa.place/@cassey/114914275267191023",
+			"author": {
+				"name": "Cassey Lottman",
+				"url": "https://ottawa.place/@cassey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/809/397/337/159/096/original/c6b61f1816c2241a.jpeg"
+			},
+			"date": "2025-07-25T14:11:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have that deep feeling of dread like I'm watching a horror movie and you can tell the scary part is about to start</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914289711751841",
+			"parentId": "114914275306667314",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914289711751841",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T14:15:06.979Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@cassey\" class=\"u-url mention\">@<span>cassey</span></a></span> I’ve just heard a noise in the basement and I’m just going in to investigate by myself without a flashlight</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914310709979470",
+			"parentId": "114914220548248533",
+			"url": "https://mastodon.social/@ardouglass/114914310681276071",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2025-07-25T14:20:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I saw the temporal polyfills as things to check out. Do you have a quick answer as to why you didn’t use one of those if Temporal compatibility is the end goal?</p><p>For context where my mind is at, my date fields are Temporal ZonedDateTime strings so I’m currently making use of addDateParsing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914368752703171",
+			"parentId": "114914310709979470",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914368752703171",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T14:35:13.049Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> I think if I started the process over again with what I know now I probably would have used one of those! I would probably even recommend other folks use those instead too.</p><p>Even more so when tree shaking lands in that smaller polyfill too: <a href=\"https://www.npmjs.com/package/temporal-polyfill#tree-shakable-api\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">npmjs.com/package/temporal-pol</span><span class=\"invisible\">yfill#tree-shakable-api</span></a></p><p>At the start I wanted more ISO8601 compat (you can see that in parse-date-strings@1) but realized more strict parsing/breaking changes now was preferable to the same breaking changes later (parse-date-strings@2)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914370977709533",
+			"parentId": "114914310709979470",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914370977709533",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T14:35:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> (great question btw)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914379437735809",
+			"parentId": "114914368752703171",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914379437735809",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T14:37:56.090Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> so basically, I had the library and test suite already ready, just needed to make some small changes in the library for RFC 9557 compat (and to save ~55KB over the full Temporal polyfill lib)</p>",
+			"via": "fediverse"
+		}
+	]
+}

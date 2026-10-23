@@ -1,0 +1,306 @@
+{
+	"comments": [
+		{
+			"id": "114073590788985402",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/114073590748517523",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2025-02-27T02:54:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oooh, classy. So what technique did you end up using? Pixel sampling the favicons? Or did you find good enough results from manifest theme colors?</p><p>Also, am I correct that you're desaturating or lightening whatever color you extracted?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114074519168427807",
+			"parentId": "114073590788985402",
+			"url": "https://mastodon.social/@MaxArt2501/114074518933368323",
+			"author": {
+				"name": "Massimo Artizzu 🇺🇦🔱",
+				"url": "https://mastodon.social/@MaxArt2501",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/368/993/640/806/874/original/b7dc669a75f34b36.jpg"
+			},
+			"date": "2025-02-27T06:50:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was going to reply \"What is this sorcery?!\" to Zach but I guess your question will do just fine instead 😆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114074658774577933",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@d3v1an7/114074658755000851",
+			"author": {
+				"name": "d3v1an7",
+				"url": "https://infosec.exchange/@d3v1an7",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/991/051/044/602/132/original/da2a25d00cb13c69.png"
+			},
+			"date": "2025-02-27T07:25:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 👏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076432837235328",
+			"parentId": "114073590788985402",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076432837235328",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T14:57:05.666Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> yeah! `npm:extract-colors` on favicon via <a href=\"https://www.11ty.dev/docs/services/opengraph/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/services/opengra</span><span class=\"invisible\">ph/</span></a> and then sorted oklch by lightness and chroma (descending)</p><p>…I should write a blog post.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076474418646151",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114076474418646151",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T15:07:40.147Z",
+			"content": "<p>If you’re curious, I used the brand new `@11ty/image-color` to fetch the border colors from each site’s favicon/avatar: <a href=\"https://fosstodon.org/@eleventy/114076444351199781\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@eleventy/114076</span><span class=\"invisible\">444351199781</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076547978614527",
+			"parentId": 0,
+			"url": "https://social.lol/@tylersticka/114076547961533782",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2025-02-27T15:26:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ooh, fun! 🎨</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076557243435775",
+			"parentId": "114076432837235328",
+			"url": "https://front-end.social/@eeeps/114076557068925909",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2025-02-27T15:28:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> Yes yes yes please do</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076557522842927",
+			"parentId": "114076474418646151",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076557522842927",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T15:28:48.216Z",
+			"content": "<p>This open source work is part of a larger migration of the Font Awesome blog (Blog Awesome) from WordPress to Eleventy, currently ongoing!</p><p><a href=\"https://github.com/11ty/eleventy-import\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/11ty/eleventy-import</span><span class=\"invisible\"></span></a> was also born from that too!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114076723469195527",
+			"parentId": "114076547978614527",
+			"url": "https://fediverse.zachleat.com/@zachleat/114076723469195527",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T16:11:00.358Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\">@<span>tylersticka</span></a></span> Thanks!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077003016381344",
+			"parentId": "114076474418646151",
+			"url": "https://fosstodon.org/@uncenter/114077002994856088",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2025-02-27T17:22:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is super cool! on the other hand does this need to be under the eleventy organization, it seems to have barely any connection ahah 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077022485216281",
+			"parentId": "114077003016381344",
+			"url": "https://fediverse.zachleat.com/@zachleat/114077022485216281",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T17:27:02.980Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> yeah, I get it — it isn’t an Eleventy plugin per-say but I suppose in my head I was choosing between @11ty/ or <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\">@<span>zachleat</span></a></span>/ and the former made more sense with the fetch and -img use internally.</p><p>It’s a gray area — should is-land be under @11ty/?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077039317766930",
+			"parentId": "114076474418646151",
+			"url": "https://mastodon.social/@stuntbox/114077039155598646",
+			"author": {
+				"name": "David Sleight",
+				"url": "https://mastodon.social/@stuntbox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/436/439/948/170/560/original/55ef65404029efda.jpg"
+			},
+			"date": "2025-02-27T17:31:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> OMG, I was *just* migrating my site to 11ty v3 + the v6 image plugin this morning and starting to eye Sharp to do something like this!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077077483255357",
+			"parentId": "114077022485216281",
+			"url": "https://fosstodon.org/@uncenter/114077077455685109",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2025-02-27T17:41:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i would say no actually, same with something like webc (for is-land in particular you have the luck of `is-land` seemingly still being available as a non-scoped package name! could use that and move it under your personal account)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077133668297255",
+			"parentId": "114077077483255357",
+			"url": "https://fediverse.zachleat.com/@zachleat/114077133668297255",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T17:55:19.500Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> Whether or not something is tightly coupled to Eleventy core isn’t really what I’d consider weighted into whether or not something is namespaced under @11ty/. What do you think about `eleventy-fetch`?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077718048436392",
+			"parentId": "114077039317766930",
+			"url": "https://fediverse.zachleat.com/@zachleat/114077718048436392",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T20:23:56.432Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuntbox\" class=\"u-url mention\">@<span>stuntbox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> yay!! perfect timing!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077730674373371",
+			"parentId": "114076474418646151",
+			"url": "https://fosstodon.org/@chris_hayes/114077730303679612",
+			"private": true,
+			"date": "2025-02-27T20:27:03.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114077790905589328",
+			"parentId": "114076474418646151",
+			"url": "https://front-end.social/@chriskirknielsen/114077790888610828",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2025-02-27T20:42:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Silly question (out of curiosity, not anything I am dead-set on figuring out): for the Google Dev site, the favicon is evenly (ish) spread across 4 colours, but the output is yellow. I didn't look too much at the code (sorry) but is there a magic thing that determines which hue \"wins\"?</p><p>Also, gotta say this is very cool! It fits neatly in the \"Whimsy\" and \"Surprise &amp; Delight\" Venn diagram. (as overused as that second term may be these days 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114078172628184225",
+			"parentId": "114077133668297255",
+			"url": "https://fosstodon.org/@uncenter/114078172613914416",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2025-02-27T22:19:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i also think we could decouple that from eleventy since it bears little relation- i do think that relation to eleventy should matter in terms of namespacing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114078300483119422",
+			"parentId": "114078172628184225",
+			"url": "https://fediverse.zachleat.com/@zachleat/114078300483119422",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-27T22:52:03.681Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> I think there are four different styles at play here, which do you mean?</p><p>1. @11ty/eleventy-plugin-UTIL<br />2. @11ty/eleventy-UTIL<br />3. @11ty/UTIL<br />4. UTIL</p><p>I agree that #2 *could* go away (though renaming packages is annoying enough for folks that I don’t think it’s worth it, unless there is a larger issue)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082231713580442",
+			"parentId": "114077790905589328",
+			"url": "https://fediverse.zachleat.com/@zachleat/114082231713580442",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-28T15:31:49.496Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> it’s not really magic, just a quick sort by oklch Lightness and Chroma — wrote it up here: <a href=\"https://fediverse.zachleat.com/@zachleat/114082206353649121\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/114082206353649121</span></a></p><p>You could make a fancy multicolor gradient border from all of the colors it finds but I didn’t!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082232618449079",
+			"parentId": "114077730674373371",
+			"url": "https://fediverse.zachleat.com/@zachleat/114082232618449079",
+			"private": true,
+			"date": "2025-02-28T15:32:03.303Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082233464574385",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114082233464574385",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-28T15:32:16.213Z",
+			"content": "<p>Wrote this up on the blog: <a href=\"https://fediverse.zachleat.com/@zachleat/114082206353649121\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/114082206353649121</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082465487277693",
+			"parentId": "114082231713580442",
+			"url": "https://front-end.social/@chriskirknielsen/114082465467289236",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2025-02-28T16:31:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah, that's smart and simple, neat! Thank you for the write-up!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082559010007961",
+			"parentId": "114082465487277693",
+			"url": "https://fediverse.zachleat.com/@zachleat/114082559010007961",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-28T16:55:03.644Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> you’re very welcome!</p>",
+			"via": "fediverse"
+		}
+	]
+}

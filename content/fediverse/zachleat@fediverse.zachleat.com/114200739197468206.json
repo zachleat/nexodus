@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "114200829707693017",
+			"parentId": 0,
+			"url": "https://tauri.earth/@AliveDevil/114200829345204897",
+			"author": {
+				"name": "AliveDevil",
+				"url": "https://tauri.earth/@AliveDevil",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-03-21T14:12:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Not just that, also less complex.<br>I don’t have the capacity of deploying a full blown kubernetes just for some micro-service nonsense on my five node 4th Gen Intel Proxmox Cluster.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114200848620882182",
+			"parentId": 0,
+			"url": "https://mastodon.social/@rgadellaa/114200848595436953",
+			"author": {
+				"name": "Roderick Gadellaa",
+				"url": "https://mastodon.social/@rgadellaa",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/132/375/429/953/original/66ae2227339a7c0c.png"
+			},
+			"date": "2025-03-21T14:17:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Also probably that an indie dev cares more about the projects they are involved in (compared to \"yet another day at the office\")?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114200861425709562",
+			"parentId": "114200829707693017",
+			"url": "https://fediverse.zachleat.com/@zachleat/114200861425709562",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-21T14:20:55.250Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tauri.earth/@AliveDevil\" class=\"u-url mention\">@<span>AliveDevil</span></a></span> yeah! a good lesson about constraints in there</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114200863120486709",
+			"parentId": "114200848620882182",
+			"url": "https://fediverse.zachleat.com/@zachleat/114200863120486709",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-21T14:21:21.110Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rgadellaa\" class=\"u-url mention\">@<span>rgadellaa</span></a></span> caring is a superpower</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114202292484975194",
+			"parentId": 0,
+			"url": "https://lea.lgbt/@lea/114202292385025998",
+			"author": {
+				"name": "Lea Rosema",
+				"url": "https://lea.lgbt/@lea",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/966/669/846/784/668/original/f71cb78e4f341a20.jpeg"
+			},
+			"date": "2025-03-21T20:24:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> True. The overengineering in enterprise dev environments is really sick.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114205426091850180",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@caillou/114205426061176883",
+			"author": {
+				"name": "Pierre Spring",
+				"url": "https://fosstodon.org/@caillou",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/051/067/916/619/970/original/d85166b12b08f01c.jpg"
+			},
+			"date": "2025-03-22T09:41:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I personally think the driving factor for bad software in companies is time pressure. At least, whenever I pushed things that I would consider some optimal, it was because a manager was pushing me to finish a feature to start the next one.</p><p>When I work on my own, I tend to almost always rewrite the entire feature once it’s working.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217540772910600",
+			"parentId": "114205426091850180",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217540772910600",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T13:02:41.891Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@caillou\" class=\"u-url mention\">@<span>caillou</span></a></span> whew, yes. explains some of the LLM fervor too</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,148 @@
+{
+	"comments": [
+		{
+			"id": "115589227603322277",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@fvsch/115589227563260497",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://hachyderm.io/@fvsch",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/834/091/035/043/627/original/4367bd08dd68da57.jpg"
+			},
+			"date": "2025-11-21T19:00:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I read this as \"GitHub Contrition Graphs\" and I was like damn, that's good.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115589245054197851",
+			"parentId": "115589227603322277",
+			"url": "https://hachyderm.io/@fvsch/115589244957404249",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://hachyderm.io/@fvsch",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/834/091/035/043/627/original/4367bd08dd68da57.jpg"
+			},
+			"date": "2025-11-21T19:05:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115589253826640029",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dracos/115589253449128650",
+			"private": true,
+			"date": "2025-11-21T19:07:16.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115589325765565557",
+			"parentId": "115589245054197851",
+			"url": "https://fediverse.zachleat.com/@zachleat/115589325765565557",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-21T19:25:39.733Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@fvsch\" class=\"u-url mention\">@<span>fvsch</span></a></span> appropriately contrite!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115589444053261065",
+			"parentId": "115589253826640029",
+			"url": "https://fediverse.zachleat.com/@zachleat/115589444053261065",
+			"private": true,
+			"date": "2025-11-21T19:55:44.660Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115590332893360594",
+			"parentId": 0,
+			"url": "https://mas.to/@psarant/115590332874385116",
+			"author": {
+				"name": "psarant",
+				"url": "https://mas.to/@psarant",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-11-21T23:41:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This seems like a “perfect” opportunity for a copilot agent integration - create new issue, “close issue 43” and have it close the issue for you with automation.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115590530032404266",
+			"parentId": "115590332893360594",
+			"url": "https://fediverse.zachleat.com/@zachleat/115590530032404266",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-22T00:31:55.387Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@psarant\" class=\"u-url mention\">@<span>psarant</span></a></span> I don’t think this is a problem that I want to make my problem</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115590572961476896",
+			"parentId": "115590530032404266",
+			"url": "https://mas.to/@psarant/115590572944603275",
+			"author": {
+				"name": "psarant",
+				"url": "https://mas.to/@psarant",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-11-22T00:42:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That’s reasonable. There’s probably already a dozen startups tackling this important problem. You can just subscribe for $4.99/mo</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115590921377359426",
+			"parentId": "115589444053261065",
+			"url": "https://front-end.social/@castastrophe/115590921354346889",
+			"private": true,
+			"date": "2025-11-22T02:11:26.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115591123735899366",
+			"parentId": "115590921377359426",
+			"url": "https://ruby.social/@konnorrogers/115591123666111742",
+			"private": true,
+			"date": "2025-11-22T03:02:53.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115591585308610294",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/115591585172048787",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2025-11-22T05:00:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the Great GitHub Meritocracy only recognizes changes to version-controlled files and formally documented complaints as productive.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115592968367839772",
+			"parentId": "115591123735899366",
+			"url": "https://hachyderm.io/@mb21/115592968354015733",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-11-22T10:52:01.000Z",
+			"content": "<p>Meanwhile, some projects still have a bot auto-close issues where nobody annoyed everyone subscribed with a “+1” in the last three months.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115605370836655009",
+			"parentId": "115590921377359426",
+			"url": "https://fediverse.zachleat.com/@zachleat/115605370836655009",
+			"private": true,
+			"date": "2025-11-24T15:26:08.090Z",
+			"via": "fediverse"
+		}
+	]
+}

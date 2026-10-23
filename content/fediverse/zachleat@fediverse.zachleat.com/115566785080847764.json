@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "115584327217945908",
+			"parentId": 0,
+			"url": "https://mastodon.social/@localnerve/115584327166297942",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-11-20T22:14:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Afaik, chrome hasn't implemented code coverage for service workers yet.</p><p>Just saying</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115584587369346628",
+			"parentId": "115584327217945908",
+			"url": "https://toot.cafe/@slightlyoff/115584587209109868",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-11-20T23:20:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>localnerve</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is there a crbug for it? I can route</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115585361086830163",
+			"parentId": "115584587369346628",
+			"url": "https://mastodon.social/@localnerve/115585361020641773",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-11-21T02:37:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I searched <a href=\"https://issues.chromium.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">issues.chromium.org/</span><span class=\"invisible\"></span></a> but couldn't find one.</p><p>Back this summer when I was developing my pwa reference, I found a github issue from 2018 (can't relocate rn) that suggests istanbul instrumentation is the only way. That's what I ended up employing in my jam-build pwa reference - works. But gosh its crazy things haven't progressed in ~10 years...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115585905892117858",
+			"parentId": "115585361086830163",
+			"url": "https://toot.cafe/@slightlyoff/115585905761655433",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2025-11-21T04:55:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>localnerve</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It will not have escaped your notice that browsers are complex, but we are extremely grateful for bug reports. It's not \"crazy\" that something was missed, but we appreciate reports.</p>",
+			"via": "fediverse"
+		}
+	]
+}

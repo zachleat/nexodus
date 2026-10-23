@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "115543399874555510",
+			"parentId": 0,
+			"url": "https://mastodon.social/@argonaut/115543399800118712",
+			"author": {
+				"name": "argonaut",
+				"url": "https://mastodon.social/@argonaut",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/852/910/290/536/965/original/f26330025ff9163f.jpeg"
+			},
+			"date": "2025-11-13T16:46:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s not confusing, just a decanted way to see a very layered process, so takes time to unpack—and sadly, time is not what people dedicate to one single social media post 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115544399182461338",
+			"parentId": 0,
+			"url": "https://mastodon.social/@justsnook/115544399020560203",
+			"author": {
+				"name": "Jonathan Snook",
+				"url": "https://mastodon.social/@justsnook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/968/694/976/909/281/original/d48c1023fcd23dc7.gif"
+			},
+			"date": "2025-11-13T21:00:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The importance of being earnest.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115544421577432754",
+			"parentId": "115544399182461338",
+			"url": "https://fediverse.zachleat.com/@zachleat/115544421577432754",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-13T21:05:56.201Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@justsnook\" class=\"u-url mention\">@<span>justsnook</span></a></span> I too grew up on Jim Varney, thank you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115544937923336857",
+			"parentId": "115544421577432754",
+			"url": "https://indieweb.social/@jgarber/115544937886142124",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-11-13T23:17:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@justsnook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justsnook</span></a></span> knowutimean?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115545012440293641",
+			"parentId": "115544937923336857",
+			"url": "https://fediverse.zachleat.com/@zachleat/115545012440293641",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-13T23:36:12.051Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@justsnook\" class=\"u-url mention\">@<span>justsnook</span></a></span> ewwwwwwwwwwwwwwww</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115545023862616945",
+			"parentId": "115545012440293641",
+			"url": "https://indieweb.social/@jgarber/115545023699697919",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-11-13T23:39:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@justsnook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justsnook</span></a></span> Ernest Saves Christmas is a Christmas movie and none of us can change that.</p>",
+			"via": "fediverse"
+		}
+	]
+}

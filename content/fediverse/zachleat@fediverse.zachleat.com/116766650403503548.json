@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "116771389291297517",
+			"parentId": 0,
+			"url": "https://mastodon.social/@stuffbreaker/116771389248753609",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://mastodon.social/@stuffbreaker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/205/514/208/956/530/original/481cc1c3320f9ba8.jpg"
+			},
+			"date": "2026-06-18T13:39:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is only for dependencies?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116771517766413761",
+			"parentId": "116771389291297517",
+			"url": "https://fediverse.zachleat.com/@zachleat/116771517766413761",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-18T14:12:38.106Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\">@<span>stuffbreaker</span></a></span> ah, yeah it’s an allow-list of dependency names? not sure what you mean exactly</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"comments": [
+		{
+			"id": "115254570798922784",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/115254570798922784",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-23T16:33:04.306Z",
+			"content": "<p>why weren’t any of my npm packages taken in the rapture</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254596541213167",
+			"parentId": "115254570798922784",
+			"url": "https://fediverse.zachleat.com/@zachleat/115254596541213167",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-23T16:39:37.102Z",
+			"content": "<p>4 and a half horsetokens of the apocalypse</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254619196177888",
+			"parentId": "115254570798922784",
+			"url": "https://wandering.shop/@silvermoon82/115254619044977106",
+			"private": true,
+			"date": "2025-09-23T16:45:20.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254626643208057",
+			"parentId": "115254619196177888",
+			"url": "https://fediverse.zachleat.com/@zachleat/115254626643208057",
+			"private": true,
+			"date": "2025-09-23T16:47:16.424Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254779990487790",
+			"parentId": "115254570798922784",
+			"url": "https://mastodon.social/@sil/115254779888977445",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2025-09-23T17:26:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the Bible is very clear about this, when it says “Beware ye of the leaven(ty)\" in Luke 12:1</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254796493504701",
+			"parentId": "115254779990487790",
+			"url": "https://fediverse.zachleat.com/@zachleat/115254796493504701",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-23T17:30:28.134Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> on this the bible and I agree</p>",
+			"via": "fediverse"
+		}
+	]
+}

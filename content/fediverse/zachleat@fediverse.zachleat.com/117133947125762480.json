@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "117134026378286440",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@AlesandroOrtiz/117134026344766791",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2026-08-21T14:43:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I haven't noticed any changes recently. Quick testing shows non-trailing-slash paths redirect to trailing-slash path on a couple of my Netlify sites.</p><p>Haven't deployed in a few days, but not sure if that would change behavior.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134057309419314",
+			"parentId": "117134026378286440",
+			"url": "https://fediverse.zachleat.com/@zachleat/117134057309419314",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-21T14:51:12.520Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\">@<span>AlesandroOrtiz</span></a></span> appreciate the sanity check! 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134776092745139",
+			"parentId": "117134057309419314",
+			"url": "https://infosec.exchange/@AlesandroOrtiz/117134776067316694",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2026-08-21T17:53:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Were you able to investigate further?</p><p>This would be a breaking change for us, so want to make sure behavior didn't change (intentionally or due to a bug).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134803750380842",
+			"parentId": "117134776092745139",
+			"url": "https://fediverse.zachleat.com/@zachleat/117134803750380842",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-21T18:01:02.304Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\">@<span>AlesandroOrtiz</span></a></span> I did and it still looks broken to me (I have pretty urls disabled):</p><p><a href=\"https://www.zachleat.com/web/trailing-slash\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/trailing-slash</span><span class=\"invisible\"></span></a><br /><a href=\"https://www.zachleat.com/web/trailing-slash/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/trailing-slas</span><span class=\"invisible\">h/</span></a><br /><a href=\"https://www.zachleat.com/web/trailing-slash/index.html\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/trailing-slas</span><span class=\"invisible\">h/index.html</span></a><br /><a href=\"https://www.zachleat.com/web/trailing-slash.html\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/trailing-slas</span><span class=\"invisible\">h.html</span></a></p><p>all resolve without redirect.</p><p>I am still investigating, I may have an errant _redirect? not sure</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134831557578001",
+			"parentId": "117134803750380842",
+			"url": "https://mastodon.social/@khalidabuhakmeh/117134830304465707",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2026-08-21T18:07:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AlesandroOrtiz</span></a></span> It's a battle I wage in my mind all the time. It's not settled. Good slashes died out there maaaaaan!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134882431339801",
+			"parentId": "117134803750380842",
+			"url": "https://infosec.exchange/@AlesandroOrtiz/117134882401377617",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2026-08-21T18:21:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hm, I am seeing the issue on my personal site: <a href=\"https://alesandroortiz.com/articles\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alesandroortiz.com/articles</span><span class=\"invisible\"></span></a> should redirect to /articles/ but doesn't. I'm pretty sure it did before.</p><p>But on a couple other sites that I tried earlier, it does redirect with a 301. Will check what might be different between them.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134895377250069",
+			"parentId": "117134882431339801",
+			"url": "https://infosec.exchange/@AlesandroOrtiz/117134895340341439",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2026-08-21T18:24:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ok, the difference is pretty URLs is enabled on the ones that _do_ redirect, and disabled on the ones that _don't_ redirect.</p><p>Seems like the same you are seeing.</p><p>They all use 11ty with `/dir/index.html` output (so /articles/ on my personal site is /articles/index.html)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134927422766590",
+			"parentId": "117134895377250069",
+			"url": "https://fediverse.zachleat.com/@zachleat/117134927422766590",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-21T18:32:29.395Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\">@<span>AlesandroOrtiz</span></a></span> might need to cheekily ping the friendly <span class=\"h-card\" translate=\"no\"><a href=\"https://infra.social/@eduardoboucas\" class=\"u-url mention\">@<span>eduardoboucas</span></a></span> on this one?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117134953191542835",
+			"parentId": "117134927422766590",
+			"url": "https://infosec.exchange/@AlesandroOrtiz/117134953019127998",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2026-08-21T18:38:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'll have you reach out to Netlify folks since it's not broken on my prod sites where it would be a breaking change. And I'm on free plan so I can't ping support directly either.</p><p>Would be great to have it fixed on my personal site, but not critical there. I'll just hopefully not run into this in the future until it's fixed. :/</p><p>I wonder how long it's been like this.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117135010091509176",
+			"parentId": "117134953191542835",
+			"url": "https://fediverse.zachleat.com/@zachleat/117135010091509176",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-21T18:53:30.819Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\">@<span>AlesandroOrtiz</span></a></span> hmm, same!</p>",
+			"via": "fediverse"
+		}
+	]
+}

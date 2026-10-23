@@ -1,0 +1,173 @@
+{
+	"comments": [
+		{
+			"id": "113670386815078466",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cferdinandi/113670386751709528",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2024-12-17T21:54:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love custom attributes! I had someone suggest that one-word attributes are more vulnerable to future web platform collisions than two-or-more word ones (like WC naming conventions themselves).</p><p>ie instead of `[text]`, something like `[sf-text]` or `[icon-text]`</p><p>I'm not consistent with this myself, but thought I'd mention it as a point of discussion!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113670391298116466",
+			"parentId": "113670386815078466",
+			"url": "https://fediverse.zachleat.com/@zachleat/113670391298116466",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-17T21:55:23.469Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> ooh, that’s a good idea! I will keep that in mind for next time!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113670490875022751",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mikemai2awesome/113670490842095446",
+			"author": {
+				"name": "Mike-麥-Mai-v1.618 😎",
+				"url": "https://mastodon.social/@mikemai2awesome",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/255/717/578/777/original/c982163ed8b7f82a.png"
+			},
+			"date": "2024-12-17T22:20:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 💩</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113670520354627776",
+			"parentId": "113670490875022751",
+			"url": "https://fediverse.zachleat.com/@zachleat/113670520354627776",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-17T22:28:12.715Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mikemai2awesome\" class=\"u-url mention\">@<span>mikemai2awesome</span></a></span> animate some shit</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113670546309136925",
+			"parentId": 0,
+			"url": "https://mastodon.gal/@misteroom/113670546232241169",
+			"author": {
+				"name": "O Óscar",
+				"url": "https://mastodon.gal/@misteroom",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/877/027/630/242/original/bdd321cf41a61f17.jpg"
+			},
+			"date": "2024-12-17T22:34:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love the snow-fall web component!! Thanks for creating it. ❤️❤️</p><p>We are already using it on <a href=\"https://historia-arte.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">historia-arte.com</span><span class=\"invisible\"></span></a> 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113670582389618810",
+			"parentId": "113670546309136925",
+			"url": "https://fediverse.zachleat.com/@zachleat/113670582389618810",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-17T22:43:59.294Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.gal/@misteroom\" class=\"u-url mention\">@<span>misteroom</span></a></span> wow that site looks great! nice work!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113670690454561087",
+			"parentId": "113670391298116466",
+			"url": "https://mastodon.social/@noleli/113670690348022210",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2024-12-17T23:11:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> a few weeks ago I suggested being consistent about namespacing custom attributes like that. It seemed to be a nonstarter with your colleague (who I won’t drag in here :) ) for the very reasonable reason that it can get very verbose <a href=\"https://mastodon.social/@noleli/113592417873160165\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@noleli/113592</span><span class=\"invisible\">417873160165</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113671359332958508",
+			"parentId": "113670690454561087",
+			"url": "https://mastodon.social/@cferdinandi/113671359281720437",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2024-12-18T02:01:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m not convinced a one or two letter prefix is verbose. It’s at the very least shorter than data attributes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113672843808871494",
+			"parentId": 0,
+			"url": "https://social.lol/@helenchong/113672843780787999",
+			"author": {
+				"name": "Helen Chong :prami_pride:",
+				"url": "https://social.lol/@helenchong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/164/248/724/751/351/original/767e3ab2bd56d48f.webp"
+			},
+			"date": "2024-12-18T08:19:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Very nice! I love that the Tech Arsehole of the Year website inspired you to add this update. 😆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113674263642448152",
+			"parentId": 0,
+			"url": "https://mastodon.social/@eatyourgreens/113674263611543478",
+			"author": {
+				"name": "Evil Jim O’Donnell",
+				"url": "https://mastodon.social/@eatyourgreens",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/436/755/568/426/818/original/b644318a2b28b7a6.jpeg"
+			},
+			"date": "2024-12-18T14:20:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that persuaded me to upgrade <a href=\"https://activity.zooniverse.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">activity.zooniverse.org/</span><span class=\"invisible\"></span></a> to 1.0.3.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113674441371069589",
+			"parentId": "113674263642448152",
+			"url": "https://mastodon.social/@eatyourgreens/113674441324424180",
+			"author": {
+				"name": "Evil Jim O’Donnell",
+				"url": "https://mastodon.social/@eatyourgreens",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/436/755/568/426/818/original/b644318a2b28b7a6.jpeg"
+			},
+			"date": "2024-12-18T15:05:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> and <a href=\"https://listen.zooniverse.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">listen.zooniverse.org/</span><span class=\"invisible\"></span></a> too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113679030971944621",
+			"parentId": "113674263642448152",
+			"url": "https://mastodon.social/@eatyourgreens/113679030703248862",
+			"author": {
+				"name": "Evil Jim O’Donnell",
+				"url": "https://mastodon.social/@eatyourgreens",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/436/755/568/426/818/original/b644318a2b28b7a6.jpeg"
+			},
+			"date": "2024-12-19T10:32:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> increasing the festivity levels with Santa emojis.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113680266224544831",
+			"parentId": "113679030971944621",
+			"url": "https://fediverse.zachleat.com/@zachleat/113680266224544831",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-19T15:46:42.890Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@eatyourgreens\" class=\"u-url mention\">@<span>eatyourgreens</span></a></span> lovely!</p>",
+			"via": "fediverse"
+		}
+	]
+}

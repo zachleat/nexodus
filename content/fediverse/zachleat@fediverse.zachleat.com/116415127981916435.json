@@ -1,0 +1,303 @@
+{
+	"comments": [
+		{
+			"id": "116415154896830965",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/116415154877146111",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-04-16T15:44:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Coming soon to a JS API near you:</p><p>Math.sumPreciserFinalv2UseThisOne()</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415159136918787",
+			"parentId": "116415154896830965",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415159136918787",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T15:45:56.947Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> and I would welcome its arrival!! 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415179450026676",
+			"parentId": "116415159136918787",
+			"url": "https://mastodon.social/@kleinfreund/116415179405745895",
+			"author": {
+				"name": "Philipp Tootloff",
+				"url": "https://mastodon.social/@kleinfreund",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/804/437/227/104/original/cf0e31e8d330ec8c.png"
+			},
+			"date": "2026-04-16T15:51:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> Coming soon:</p><p>Math.sumPreciseUnsafe<br>Math.sumUnsafe<br>Math.sumImpreciseSafe</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415204094080001",
+			"parentId": "116415179450026676",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415204094080001",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T15:57:22.941Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kleinfreund\" class=\"u-url mention\">@<span>kleinfreund</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> please do not drink the HTML Sanitizer API</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415216950142113",
+			"parentId": "116415204094080001",
+			"url": "https://mastodon.social/@kleinfreund/116415216812781457",
+			"author": {
+				"name": "Philipp Tootloff",
+				"url": "https://mastodon.social/@kleinfreund",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/804/437/227/104/original/cf0e31e8d330ec8c.png"
+			},
+			"date": "2026-04-16T16:00:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> But that's what the bartender handed me after ordering an API?</p><p>API? IPA? Ah, dang it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415221827528826",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/116415221592631530",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2026-04-16T16:01:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love that due to backwards compatibility we can’t simply fix the plus sign. Some library out there (probably MooTools) certainly used floating point math errors in a load bearing way that would cause the web to fall apart if changed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415221878550942",
+			"parentId": "116415216950142113",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415221878550942",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T16:01:54.309Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kleinfreund\" class=\"u-url mention\">@<span>kleinfreund</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> HTML Sanitizer IPA would be a good name though 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415226991431010",
+			"parentId": "116415221827528826",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415226991431010",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T16:03:12.325Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> one counterexample is that the `parseInt()` second argument default was changed years and years ago 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415243973087849",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/116415243877253674",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2026-04-16T16:07:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wait…</p><p>“This still cannot avoid the 0.1 + 0.2 precision problem”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415273220574654",
+			"parentId": "116415243973087849",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415273220574654",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T16:14:57.726Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> yeah, but to be fair that problem is somewhat common across programming languages</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415285108841148",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriskirknielsen/116415285088949550",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2026-04-16T16:17:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Dang I thought the last scenario would be solved by this. 😬 Should have been called `sumLossless`, given that it is not actually precise for that typical `.1+.2` example. Ah well, what can you do!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415300274527724",
+			"parentId": "116415285108841148",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415300274527724",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T16:21:50.536Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> still, an improvement! (but same)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415403294120893",
+			"parentId": "116415300274527724",
+			"url": "https://front-end.social/@chriskirknielsen/116415403274337658",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2026-04-16T16:48:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah we'll take it! I also wish there was a `Math.evaluate` for arithmetic in general, but that's a whole 'nother can o' worms…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415479847427156",
+			"parentId": 0,
+			"url": "https://mastodon.social/@loucyx/116415479725984297",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2026-04-16T17:07:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> OMG this is great! I guess is time to retire my library then 😂 </p><p><a href=\"https://coven.to/math\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">coven.to/math</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415511227673619",
+			"parentId": "116415479847427156",
+			"url": "https://mastodon.social/@loucyx/116415511114874788",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2026-04-16T17:15:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> never mind! Am I missing something here?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415754554155688",
+			"parentId": "116415511227673619",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415754554155688",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T18:17:22.293Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\">@<span>loucyx</span></a></span> hm? I included that exact example in my post 😅 the MDN docs go into it more</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415757541871485",
+			"parentId": "116415479847427156",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415757541871485",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T18:18:07.882Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\">@<span>loucyx</span></a></span> We still need Precise Math utilities!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415851157259874",
+			"parentId": "116415754554155688",
+			"url": "https://mastodon.social/@loucyx/116415851126009874",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2026-04-16T18:41:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my bad! I read the top part of your post and go so excited and went straight to try it out, next time I'll read the whole thing. Sorry about that!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415854883784343",
+			"parentId": "116415851157259874",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415854883784343",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T18:42:53.202Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\">@<span>loucyx</span></a></span> look, we’ve all been there!! 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116416984295188957",
+			"parentId": "116415154896830965",
+			"url": "https://mastodon.social/@lamplightdev/116416984246123083",
+			"author": {
+				"name": "Chris",
+				"url": "https://mastodon.social/@lamplightdev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/375/263/384/805/982/original/d29748b7eacca258.png"
+			},
+			"date": "2026-04-16T23:30:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Math.sumPreciserFinalv2.00000000001</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116417835196249780",
+			"parentId": "116416984295188957",
+			"url": "https://front-end.social/@AmeliaBR/116417835174930742",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-04-17T03:06:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lamplightdev\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lamplightdev</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (this broke me. literal laugh-crying here)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116420539835823941",
+			"parentId": 0,
+			"url": "https://social.mottokrosh.com/@mottokrosh/116420539816970019",
+			"author": {
+				"name": "Frank // Mottokrosh",
+				"url": "https://social.mottokrosh.com/@mottokrosh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/009/616/148/484/448/original/ceca883e821725bd.jpeg"
+			},
+			"date": "2026-04-17T14:34:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Math.sumVibe() when?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116420545838414740",
+			"parentId": "116420539835823941",
+			"url": "https://fediverse.zachleat.com/@zachleat/116420545838414740",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-17T14:35:51.490Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mottokrosh.com/@mottokrosh\" class=\"u-url mention\">@<span>mottokrosh</span></a></span> even immaculate vibes can be imprecise</p>",
+			"via": "fediverse"
+		}
+	]
+}

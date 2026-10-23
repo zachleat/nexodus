@@ -1,0 +1,59 @@
+{
+	"comments": [
+		{
+			"id": "115584665555493286",
+			"parentId": 0,
+			"url": "https://mastodon.nz/@mez/115584665422025773",
+			"private": true,
+			"date": "2025-11-20T23:40:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115584697763823768",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ichris/115584697731251484",
+			"author": {
+				"name": "Chris Enns",
+				"url": "https://mastodon.social/@ichris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/635/653/787/859/original/2660a0aa8db13861.jpeg"
+			},
+			"date": "2025-11-20T23:48:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I see you closing my issue from 2020. 👏🏽</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115584748117633914",
+			"parentId": "115584697763823768",
+			"url": "https://fediverse.zachleat.com/@zachleat/115584748117633914",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-21T00:01:30.370Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ichris\" class=\"u-url mention\">@<span>ichris</span></a></span> SORRY FOR THE LATE RESPONSE.<br />APPRECIATE YOUR PATIENCE.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115584941971057145",
+			"parentId": "115584665555493286",
+			"url": "https://fediverse.zachleat.com/@zachleat/115584941971057145",
+			"private": true,
+			"date": "2025-11-21T00:50:48.338Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115584950024760851",
+			"parentId": "115584748117633914",
+			"url": "https://mastodon.social/@ichris/115584949957992212",
+			"author": {
+				"name": "Chris Enns",
+				"url": "https://mastodon.social/@ichris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/635/653/787/859/original/2660a0aa8db13861.jpeg"
+			},
+			"date": "2025-11-21T00:52:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m just honoured that any GitHub thread I’m in gets tagged “educational” — even if it’s because of what not to do. 😂</p>",
+			"via": "fediverse"
+		}
+	]
+}

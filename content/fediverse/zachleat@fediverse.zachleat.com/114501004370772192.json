@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "114501026728203527",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jgarber/114501026701177844",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-05-13T14:36:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> new issue you look nice today</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114501063104837902",
+			"parentId": "114501026728203527",
+			"url": "https://fediverse.zachleat.com/@zachleat/114501063104837902",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-13T14:46:09.348Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> jason I slob released this in my PJs so</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114501152925521956",
+			"parentId": "114501063104837902",
+			"url": "https://indieweb.social/@jgarber/114501152903641666",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-05-13T15:08:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> As our lord and savior Beyoncé once said, “I woke up like this.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114501454671360970",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114501454671360970",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-13T16:25:44.176Z",
+			"content": "<p>the most unstable thing about this release is me, apparently</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114501512844951122",
+			"parentId": "114501454671360970",
+			"url": "https://mastodon.social/@jimniels/114501512764000135",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2025-05-13T16:40:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> how to tag your releases, in descending order of stability:</p><p>1.0.0<br>1.0.0-rc.1<br>1.0.0-alpha<br>1.0.0-beta<br>1.0.0-zach</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114501541582512542",
+			"parentId": "114501512844951122",
+			"url": "https://fediverse.zachleat.com/@zachleat/114501541582512542",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-13T16:47:50.338Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> new release channel for <a href=\"https://www.npmjs.com/package/zachleat\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">npmjs.com/package/zachleat</span><span class=\"invisible\"></span></a> dropped: `latest-unstable`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114506372821860131",
+			"parentId": "114501454671360970",
+			"url": "https://flyovercountry.social/@deafferret/114506372779440339",
+			"author": {
+				"name": "Jay Hannah",
+				"url": "https://flyovercountry.social/@deafferret",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/488/115/785/108/250/original/02143d0e902823c5.png"
+			},
+			"date": "2025-05-14T13:16:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Zach “Entropy” Leatherman, I call him.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114506446939366861",
+			"parentId": "114506372821860131",
+			"url": "https://fediverse.zachleat.com/@zachleat/114506446939366861",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-14T13:35:20.145Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://flyovercountry.social/@deafferret\" class=\"u-url mention\">@<span>deafferret</span></a></span> ahaha *sweating*</p>",
+			"via": "fediverse"
+		}
+	]
+}

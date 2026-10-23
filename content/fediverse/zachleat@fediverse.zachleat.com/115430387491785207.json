@@ -1,0 +1,160 @@
+{
+	"comments": [
+		{
+			"id": "115430438408122956",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jgarber/115430438357098984",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-10-24T17:58:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I don’t want to be presumptive in one direction or the other because look around, but: satire or…?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430449039162168",
+			"parentId": "115430438408122956",
+			"url": "https://fediverse.zachleat.com/@zachleat/115430449039162168",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-24T18:01:13.278Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> I’m not even sure how this could be satirical 😅😅😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430504872453540",
+			"parentId": "115430449039162168",
+			"url": "https://indieweb.social/@jgarber/115430504827855483",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-10-24T18:15:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Fair enough! 😂</p><p>My condolences and also your approach is super smart. Gotta stay safe out there on the information superhighway.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430541148153558",
+			"parentId": "115430504872453540",
+			"url": "https://fediverse.zachleat.com/@zachleat/115430541148153558",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-24T18:24:38.749Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> PRECAUTIONS ARE BEING TAKEN</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430543477823949",
+			"parentId": "115430541148153558",
+			"url": "https://indieweb.social/@jgarber/115430543237158042",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-10-24T18:25:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> SHIELDS UP</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430664429839816",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/115430664429839816",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-24T18:55:59.878Z",
+			"content": "<p>to be clear, the risk of someone phishing my npm credentials is *much* lower than the risk of “can you take a look at this Eleventy project that isn’t working quite right (and also contains malware, intentionally or not)”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430681621181434",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dstaley/115430681517993098",
+			"author": {
+				"name": "Dylan Staley",
+				"url": "https://mastodon.social/@dstaley",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/572/444/381/000/867/original/cbffcc5db923c616.jpeg"
+			},
+			"date": "2025-10-24T19:00:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I found that GitHub Codespaces were a great way to run public reproduction repos for this exact reason. Just open the repo and click the button.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430697919422713",
+			"parentId": "115430681621181434",
+			"url": "https://fediverse.zachleat.com/@zachleat/115430697919422713",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-24T19:04:30.890Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dstaley\" class=\"u-url mention\">@<span>dstaley</span></a></span> to be clear running any code on my computer is a huge mistake (malicious or not)</p><p>(this is a good tip!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430769352575043",
+			"parentId": "115430697919422713",
+			"url": "https://mastodon.social/@closingtags/115430769243370722",
+			"author": {
+				"name": "𝙳𝚢𝚕𝚊𝚗",
+				"url": "https://mastodon.social/@closingtags",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/529/425/052/907/052/original/ca4ab99a3c874cb0.jpg"
+			},
+			"date": "2025-10-24T19:22:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dstaley\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dstaley</span></a></span> I make it a point to not run any code on my computer. Coincidentally, I am unemployed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430777932009203",
+			"parentId": "115430769352575043",
+			"url": "https://fediverse.zachleat.com/@zachleat/115430777932009203",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-24T19:24:51.785Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@closingtags\" class=\"u-url mention\">@<span>closingtags</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dstaley\" class=\"u-url mention\">@<span>dstaley</span></a></span> PIVOT</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430778580658763",
+			"parentId": "115430769352575043",
+			"url": "https://mastodon.social/@closingtags/115430778421494626",
+			"author": {
+				"name": "𝙳𝚢𝚕𝚊𝚗",
+				"url": "https://mastodon.social/@closingtags",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/529/425/052/907/052/original/ca4ab99a3c874cb0.jpg"
+			},
+			"date": "2025-10-24T19:24:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dstaley\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dstaley</span></a></span> FREELANCE! I MEANT TO SAY FREELANCE!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115430786775331747",
+			"parentId": "115430777932009203",
+			"url": "https://mastodon.social/@closingtags/115430786626863270",
+			"author": {
+				"name": "𝙳𝚢𝚕𝚊𝚗",
+				"url": "https://mastodon.social/@closingtags",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/529/425/052/907/052/original/ca4ab99a3c874cb0.jpg"
+			},
+			"date": "2025-10-24T19:27:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dstaley\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dstaley</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

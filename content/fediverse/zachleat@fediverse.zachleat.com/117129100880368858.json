@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "117129179596190058",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cbirdsong/117129178682008015",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2026-08-20T18:10:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> why not duplicate across multiple formats?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117129201484483444",
+			"parentId": "117129179596190058",
+			"url": "https://fediverse.zachleat.com/@zachleat/117129201484483444",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-20T18:16:18.511Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cbirdsong\" class=\"u-url mention\">@<span>cbirdsong</span></a></span> As feed readers have improved over time, it’s just cognitive overhead (a choice!) when someone goes to subscribe. Or me, that has been reviewing my subscriptions lately</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117129293904261250",
+			"parentId": "117129201484483444",
+			"url": "https://mastodon.social/@cbirdsong/117129293758106790",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2026-08-20T18:39:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was thinking ‘eh, why not just put all the &lt;link rel=\"alternate\"&gt;s you can in the &lt;head&gt; so the feed reader can decide?’, but I supposed that just punts the cognitive overload choice into the feed reader interface. This is what Feedbin does, for instance:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117129297021096564",
+			"parentId": "117129293904261250",
+			"url": "https://mastodon.social/@cbirdsong/117129296976673318",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2026-08-20T18:40:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i suppose it could be smart about de-duping feeds with the same title attribute, but I’m not sure if that would be strictly correct</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117133865433019402",
+			"parentId": "117129297021096564",
+			"url": "https://fediverse.zachleat.com/@zachleat/117133865433019402",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-21T14:02:24.718Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cbirdsong\" class=\"u-url mention\">@<span>cbirdsong</span></a></span> could definitely check feed content to guess if the feeds are the same and then just select from a radio of formats!</p>",
+			"via": "fediverse"
+		}
+	]
+}

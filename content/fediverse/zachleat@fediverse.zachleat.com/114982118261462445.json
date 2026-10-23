@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "114982214680554936",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@ryan/114982214646725309",
+			"author": {
+				"name": "Ryan",
+				"url": "https://hachyderm.io/@ryan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/376/968/467/053/526/original/8066e8ff3794865b.jpg"
+			},
+			"date": "2025-08-06T14:09:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> on more than a few occasions I've seen code that made me ask folks \"who hurt you?\"</p><p>I was consulting and working on a Cold Fusion migration and one of the original devs could actually shed light, I felt like I was doing anthropology digging up bones.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114982322949545906",
+			"parentId": "114982214680554936",
+			"url": "https://fediverse.zachleat.com/@zachleat/114982322949545906",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-06T14:36:51.804Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@ryan\" class=\"u-url mention\">@<span>ryan</span></a></span> yeah! I’ve been thinking about how bad management can influence code and the cycle of how that code perpetuates.</p><p>Gotta have a good company environment to have good company code</p>",
+			"via": "fediverse"
+		}
+	]
+}

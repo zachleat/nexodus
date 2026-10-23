@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "115248801535009216",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/115248801514963497",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2025-09-22T16:05:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Fascinating, and a reminder of how our minds can work. I’ve come to believe that algorithmic feeds can be very dangerous, which is why I like it here and on Bluesky. And the algo feeds seem to act as a mechanism to increase engagement and hence, increased ad visibility/$.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115248825438624722",
+			"parentId": "115248801535009216",
+			"url": "https://fediverse.zachleat.com/@zachleat/115248825438624722",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-22T16:11:57.068Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> yeah, it’s only a matter of time before Bluesky flips the switch to monetize — it will be interesting to see if algorithmic customization will be enough to survive the same problems that plague every ad-supported network (my hunch is no)</p>",
+			"via": "fediverse"
+		}
+	]
+}

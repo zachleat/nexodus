@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "115300918842506249",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rauschma/115300918774732414",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2025-10-01T20:59:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Indeed an interesting JavaScript inconsistency: <a href=\"https://gist.github.com/rauschma/505256190982dec4f66dbf0a28872db4\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/rauschma/50525</span><span class=\"invisible\">6190982dec4f66dbf0a28872db4</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115300969399719660",
+			"parentId": "115300918842506249",
+			"url": "https://fediverse.zachleat.com/@zachleat/115300969399719660",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-01T21:12:50.773Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> your gist is very validating, thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115300980296533652",
+			"parentId": "115300969399719660",
+			"url": "https://fosstodon.org/@rauschma/115300980240920789",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2025-10-01T21:15:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If I had to guess the reason is backward compatibility: Truthiness checks are often used to answer the question “Is this value an object?”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115301018985190659",
+			"parentId": "115300980296533652",
+			"url": "https://fediverse.zachleat.com/@zachleat/115301018985190659",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-01T21:25:27.386Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> yeah, I suppose! Seems strange to draw the line there if overriding number and string coercion are fine 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115308994511331456",
+			"parentId": 0,
+			"url": "https://mastodon.social/@vrugtehagel/115308994476955114",
+			"author": {
+				"name": "vrugtehagel",
+				"url": "https://mastodon.social/@vrugtehagel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/836/933/673/824/838/original/ebac2b3dfe126dc0.png"
+			},
+			"date": "2025-10-03T07:13:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there isn't - all objects are truthy, except for `document.all` (for historic reasons). The real answer to your question is in the ECMAScript spec, the ToBoolean algorithm: <a href=\"https://tc39.es/ecma262/#sec-toboolean\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tc39.es/ecma262/#sec-toboolean</span><span class=\"invisible\"></span></a> which, if you want to be double-sure, is what the `!` operator is specced to use (see <a href=\"https://tc39.es/ecma262/#sec-logical-not-operator\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tc39.es/ecma262/#sec-logical-n</span><span class=\"invisible\">ot-operator</span></a>). Effectively only false itself, nullish, zeroish, NaN and empty string values are falsy; everything else is truthy and there's nothing we can do about that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115314569987510674",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@shamsheev/115314569970641012",
+			"author": {
+				"name": "Vladimir Shamsheev",
+				"url": "https://fosstodon.org/@shamsheev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/801/217/511/970/original/c1fcbe9ef271e0e5.png"
+			},
+			"date": "2025-10-04T06:51:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s enough to have document.all 😜</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "115527885772035115",
+			"parentId": 0,
+			"url": "https://front-end.social/@ppk/115527885741602076",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://front-end.social/@ppk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/034/668/175/414/original/c0d4895d91ab41e8.jpg"
+			},
+			"date": "2025-11-10T23:00:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My feeling is that the JavaScript world was always much less centralized than PHP or Ruby, and thus does not need to be saved from a more-or-less central authority gone rogue.</p><p>Centralization in project funding: any article that describes the outlines?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115528329342561736",
+			"parentId": 0,
+			"url": "https://front-end.social/@Wilto/115528329289822933",
+			"author": {
+				"name": "Mat “Wilto” Marquis",
+				"url": "https://front-end.social/@Wilto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/020/306/630/951/original/ab17907968dd2ef0.jpg"
+			},
+			"date": "2025-11-11T00:53:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I hear what you’re saying, and I agree: it’s time for me to step up and become JavaScript’s Big Shithead.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115528347642972312",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@dereko/115528347593484953",
+			"author": {
+				"name": "Derek Odegard",
+				"url": "https://hachyderm.io/@dereko",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/586/726/962/720/378/original/87bf628b6b3eb91a.png"
+			},
+			"date": "2025-11-11T00:58:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Say more about the centralization? What or who is driving it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115531925791719478",
+			"parentId": "115527885772035115",
+			"url": "https://mastodon.social/@danrot/115531925439874198",
+			"author": {
+				"name": "Daniel Rotter",
+				"url": "https://mastodon.social/@danrot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/325/738/488/817/original/7e67807de621c07a.jpg"
+			},
+			"date": "2025-11-11T16:08:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ppk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ppk</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's not my feeling at all. If the NPM registry would be gone that would be a huge problem for almost all JS projects. We've seen that to a certain extent already with just single packages being removed or hijacked multiple times.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115537237183121052",
+			"parentId": "115527885772035115",
+			"url": "https://fediverse.zachleat.com/@zachleat/115537237183121052",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-12T14:38:51.043Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ppk\" class=\"u-url mention\">@<span>ppk</span></a></span> thinking primarily about Vercel’s funding of Next, Svelte, and now Nuxt</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115537269025936534",
+			"parentId": "115528329342561736",
+			"url": "https://fediverse.zachleat.com/@zachleat/115537269025936534",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-11-12T14:46:56.925Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Wilto\" class=\"u-url mention\">@<span>Wilto</span></a></span> look, you have my vote!</p><p>…wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115537362855933384",
+			"parentId": "115537237183121052",
+			"url": "https://mastodon.social/@ricmac/115537362397995837",
+			"author": {
+				"name": "Richard MacManus",
+				"url": "https://mastodon.social/@ricmac",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/199/665/384/546/original/fd6f3871b8a9cfed.png"
+			},
+			"date": "2025-11-12T15:10:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ppk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ppk</span></a></span> I also worry about React and Next being the default in LLMs like GPT-5, which means more and more of that code being spat out into the web. I guess the one saving grace for JavaScript is the ECMAScript standard seems to be managed by quite a diverse crowd (e.g. this post by <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@marypcbuk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>marypcbuk</span></a></span> : <a href=\"https://thenewstack.io/javascript-standards-update-whats-new-in-ecmascript-2025/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thenewstack.io/javascript-stan</span><span class=\"invisible\">dards-update-whats-new-in-ecmascript-2025/</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115538334890266860",
+			"parentId": "115537362855933384",
+			"url": "https://front-end.social/@ppk/115538334856116227",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://front-end.social/@ppk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/034/668/175/414/original/c0d4895d91ab41e8.jpg"
+			},
+			"date": "2025-11-12T19:18:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ricmac</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@marypcbuk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>marypcbuk</span></a></span> The LLM problem is real, but I see it as an extension of the recruiting advantage React-based companies claim to have. LLMs may make the problem more massive, but not fundamentally different.</p><p>I don't know enough about PHP and Ruby to decide whether Vercel's sponsorship is equivalent to the hold DHH and Wordpress have/had.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115572176354781750",
+			"parentId": "115538334890266860",
+			"url": "https://hachyderm.io/@marypcbuk/115572176301401046",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://hachyderm.io/@marypcbuk",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-11-18T18:44:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ppk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ppk</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ricmac</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I looked at the nextjs ecosystem last year before the first time the Vercel CEO gave customers a reason to leave; there have been more moves since to make nextjs work better other places because, to the original question, there is a whole lot more governance in JavaScript itself and (despite Brendan Eich) a lot fewer patience with problematic people. ie I've seen a LOT of people leaving Vercel because of this and I may be missing something but can't offhand think of other examples of what I see people call 'fashtech' that involve JavaScript. the funding is maybe a bit more secure because of the browsers and Bloomberg, so maybe less opportunity for an Anduril to buy its way in to projects with sponsorship</p><p><a href=\"https://thenewstack.io/opennext-gets-closer-to-making-next-js-truly-portable/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thenewstack.io/opennext-gets-c</span><span class=\"invisible\">loser-to-making-next-js-truly-portable/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115572178878015456",
+			"parentId": "115537362855933384",
+			"url": "https://hachyderm.io/@marypcbuk/115572178835096595",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://hachyderm.io/@marypcbuk",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-11-18T18:44:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ricmac</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ppk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ppk</span></a></span> have we been having the same conversation with <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> about these patterns? ;)</p>",
+			"via": "fediverse"
+		}
+	]
+}

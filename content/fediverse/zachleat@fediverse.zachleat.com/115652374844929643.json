@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "115652481240419492",
+			"parentId": 0,
+			"url": "https://mastodon.social/@localnerve/115652481196391927",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-12-02T23:06:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I did this, but I didn't get the OIDC badges. Do I have to delete all the granular tokens, too?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115652522934520396",
+			"parentId": "115652481240419492",
+			"url": "https://fediverse.zachleat.com/@zachleat/115652522934520396",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-02T23:17:32.003Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\">@<span>localnerve</span></a></span> I wouldn’t expect so (but I couldn’t say 100%). Sounds like you made a config error somewhere? I locked down npm publishing access to require 2FA and disallow tokens and deleted my tokens from GitHub Settings too — I’d also check your Actions yml to make sure the token isn’t being used there</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115656746964271952",
+			"parentId": "115652522934520396",
+			"url": "https://mastodon.social/@localnerve/115656746925777596",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-12-03T17:11:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Totally probable misconfig, more probable than not...<br>I saw that option, but my brain can't grok how I can have 2fa with GHA deployment... Looks like I have more reading to do...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115656762899894711",
+			"parentId": "115656746964271952",
+			"url": "https://fediverse.zachleat.com/@zachleat/115656762899894711",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-03T17:15:48.741Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\">@<span>localnerve</span></a></span> it doesn’t do 2FA with GHA, fwiw 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115697733869397186",
+			"parentId": "115656762899894711",
+			"url": "https://mastodon.social/@localnerve/115697733805569200",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2025-12-10T22:55:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Fwiw, my problem was an older version of npm in the GHA runner...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115697741074429813",
+			"parentId": "115697733869397186",
+			"url": "https://fediverse.zachleat.com/@zachleat/115697741074429813",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-10T22:57:06.062Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\">@<span>localnerve</span></a></span> ugh, sorry I should have remembered that I ran into that same issue. The error message on that one was very vague too iirc 😭</p><p>Appreciate you circling back!</p>",
+			"via": "fediverse"
+		}
+	]
+}

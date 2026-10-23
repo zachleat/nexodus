@@ -1,0 +1,222 @@
+{
+	"comments": [
+		{
+			"id": "113387087844502797",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113387087844502797",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T21:07:35.829Z",
+			"content": "<p>you can see this on the CommonMark interactive dingus <a href=\"https://spec.commonmark.org/dingus/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">spec.commonmark.org/dingus/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387095662237424",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dracos/113387095447822026",
+			"private": true,
+			"date": "2024-10-28T21:09:31.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387102978602343",
+			"parentId": "113387095662237424",
+			"url": "https://fediverse.zachleat.com/@zachleat/113387102978602343",
+			"private": true,
+			"date": "2024-10-28T21:11:26.759Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387108380634687",
+			"parentId": "113387102978602343",
+			"url": "https://mastodon.social/@dracos/113387108266273514",
+			"private": true,
+			"date": "2024-10-28T21:12:47.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387121239198158",
+			"parentId": "113387087844502797",
+			"url": "https://front-end.social/@mayank/113387121221722194",
+			"private": true,
+			"date": "2024-10-28T21:16:05.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387125539848882",
+			"parentId": 0,
+			"url": "https://follow.ethanmarcotte.com/@beep/113387125514305522",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-10-28T21:17:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> does this work, perchance?</p><p>![Image](&lt;space in filename.jpg&gt;)</p><p>i know some of the markdown implementations are weird like that (though i agree they should, like, do the right thing by default)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387132989728633",
+			"parentId": "113387125539848882",
+			"url": "https://follow.ethanmarcotte.com/@beep/113387126411860579",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-10-28T21:17:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (also wow it’d be nice to have a markdown standard huh)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387127662680783",
+			"parentId": "113387121239198158",
+			"url": "https://fosstodon.org/@mahryekuh/113387127573655759",
+			"private": true,
+			"date": "2024-10-28T21:17:42.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387140580994718",
+			"parentId": "113387127662680783",
+			"url": "https://fediverse.zachleat.com/@zachleat/113387140580994718",
+			"private": true,
+			"date": "2024-10-28T21:21:00.526Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387142965596580",
+			"parentId": "113387132989728633",
+			"url": "https://fediverse.zachleat.com/@zachleat/113387142965596580",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T21:21:36.912Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> it does work, yes!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387151258144769",
+			"parentId": "113387108380634687",
+			"url": "https://fediverse.zachleat.com/@zachleat/113387151258144769",
+			"private": true,
+			"date": "2024-10-28T21:23:43.446Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387171878955177",
+			"parentId": "113387140580994718",
+			"url": "https://mastodon.social/@jakelazaroff/113387171794597231",
+			"private": true,
+			"date": "2024-10-28T21:28:56.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387177984800165",
+			"parentId": "113387151258144769",
+			"url": "https://mastodon.social/@dracos/113387177913613246",
+			"private": true,
+			"date": "2024-10-28T21:30:30.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387194651914334",
+			"parentId": "113387177984800165",
+			"url": "https://fediverse.zachleat.com/@zachleat/113387194651914334",
+			"private": true,
+			"date": "2024-10-28T21:34:45.583Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387236919362120",
+			"parentId": "113387121239198158",
+			"url": "https://front-end.social/@mrtrimble/113387236896336886",
+			"private": true,
+			"date": "2024-10-28T21:45:30.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113387605082052425",
+			"parentId": "113387132989728633",
+			"url": "https://mastodon.cc/@jgarber/113387604969936280",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-10-28T23:19:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but ethan we already have so many why settle for just one</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113388055535402845",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mikemai2awesome/113388055496683285",
+			"author": {
+				"name": "Mike-麥-Mai-v1.618 😎",
+				"url": "https://mastodon.social/@mikemai2awesome",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/255/717/578/777/original/c982163ed8b7f82a.png"
+			},
+			"date": "2024-10-29T01:13:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i've learned to always dash-case any file name on a computer</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113388066502730557",
+			"parentId": "113387605082052425",
+			"url": "https://follow.ethanmarcotte.com/@beep/113388063112567801",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-10-29T01:15:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgarber</span></a></span> whoa whoa WHOA let’s all just take a minute, dang jason</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113390909107358590",
+			"parentId": "113388055535402845",
+			"url": "https://fediverse.zachleat.com/@zachleat/113390909107358590",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T13:19:23.675Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mikemai2awesome\" class=\"u-url mention\">@<span>mikemai2awesome</span></a></span> better safe than sorry!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113412146008804820",
+			"parentId": 0,
+			"url": "https://mas.to/@barhamon/113412145979510335",
+			"author": {
+				"name": "Serhiy Barhamon",
+				"url": "https://mas.to/@barhamon",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/561/357/529/945/170/original/ba14f71a7bd39d3a.jpeg"
+			},
+			"date": "2024-11-02T07:20:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> common mark spec says that you can have as many spaces as you want <a href=\"https://spec.commonmark.org/0.31.2/#links\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">spec.commonmark.org/0.31.2/#li</span><span class=\"invisible\">nks</span></a> </p><p>What flavor of markdown are you using?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113412152833470655",
+			"parentId": "113412146008804820",
+			"url": "https://mas.to/@barhamon/113412152818866617",
+			"author": {
+				"name": "Serhiy Barhamon",
+				"url": "https://mas.to/@barhamon",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/561/357/529/945/170/original/ba14f71a7bd39d3a.jpeg"
+			},
+			"date": "2024-11-02T07:21:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ** I will never reply before reading other replies<br>** I will never reply before reading other replies <br>** I will never reply before reading other replies<br>** I will never reply before reading other replies<br>** I will never reply before reading other replies<br>** I will never reply before reading other replies<br>** I will never reply before reading other replies</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "115113237008076523",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/115113237008076523",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-29T17:30:01.806Z",
+			"content": "<p>Intuitively, these charts might tempt you to compare these hosts, making assumptions about the investment each of these services put into their server infrastructure — but that wouldn’t be the whole story.</p><p>Knowing that TTFB is both server AND client-dependent (including times for Service Worker init, DNS, TLS), this graph might instead represent how wealthy each service’s audience is.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115113247257384743",
+			"parentId": "115113237008076523",
+			"url": "https://fediverse.zachleat.com/@zachleat/115113247257384743",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-29T17:32:38.198Z",
+			"content": "<p>We need better web performance metrics.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115113266129249429",
+			"parentId": "115113247257384743",
+			"url": "https://mastodon.social/@khalidabuhakmeh/115113266087002269",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-08-29T17:37:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I thought I was looking at the new Joy Division album cover 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115113277707990497",
+			"parentId": "115113247257384743",
+			"url": "https://fediverse.zachleat.com/@zachleat/115113277707990497",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-29T17:40:22.837Z",
+			"content": "<p>For me this also highlights the incredible sleight of hand that can occur when a metric swaps from lab to field data.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115113309890482476",
+			"parentId": "115113247257384743",
+			"url": "https://toot.cafe/@aluhrs/115113309804237580",
+			"author": {
+				"name": "Andy Luhrs",
+				"url": "https://toot.cafe/@aluhrs",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/335/803/928/856/970/original/5de5eb17d6022890.jpeg"
+			},
+			"date": "2025-08-29T17:48:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Like what?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115113346684813495",
+			"parentId": "115113247257384743",
+			"url": "https://mas.to/@iamdtms/115113346667281434",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2025-08-29T17:57:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Okay, but it's hard to reach 100% already.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115113391769423620",
+			"parentId": "115113346684813495",
+			"url": "https://fediverse.zachleat.com/@zachleat/115113391769423620",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-29T18:09:23.278Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@iamdtms\" class=\"u-url mention\">@<span>iamdtms</span></a></span> variability is part of the reason!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115113407090555016",
+			"parentId": "115113309890482476",
+			"url": "https://fediverse.zachleat.com/@zachleat/115113407090555016",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-29T18:13:17.060Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@aluhrs\" class=\"u-url mention\">@<span>aluhrs</span></a></span> maybe a server response time metric that isn’t dependent on the client so we *could* draw at least some conclusions about hosting performance or backend performance</p>",
+			"via": "fediverse"
+		}
+	]
+}

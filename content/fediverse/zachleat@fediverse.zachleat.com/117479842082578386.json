@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "117479850443599929",
+			"parentId": 0,
+			"url": "https://xoxo.zone/@ramiro/117479850365413762",
+			"author": {
+				"name": "Ramiro",
+				"url": "https://xoxo.zone/@ramiro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/893/772/037/572/861/original/2143635552ba5530.jpeg"
+			},
+			"date": "2026-10-21T16:30:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480162897857792",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@TheRealNooshu/117480162851344288",
+			"author": {
+				"name": "Matt Hobbs",
+				"url": "https://hachyderm.io/@TheRealNooshu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/879/594/365/463/042/original/46f025ea41291e2b.jpg"
+			},
+			"date": "2026-10-21T17:50:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've been meaning to ask Zach, is my 11ty 3.1.7 site vulnerable?? 🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480355893066205",
+			"parentId": 0,
+			"url": "https://social.alexhyett.com/@alex/statuses/01M5FW5R45DNSXP6R3AJSZN7TQ",
+			"author": {
+				"name": "Alex Hyett",
+				"url": "https://social.alexhyett.com/@alex",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/257/314/426/533/494/original/b8ce2ab4f53b17fd.jpeg"
+			},
+			"date": "2026-10-21T18:39:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> today I am very glad my site is built with 11ty.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480404473415145",
+			"parentId": "117480162897857792",
+			"url": "https://fediverse.zachleat.com/@zachleat/117480404473415145",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-21T18:51:50.846Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@TheRealNooshu\" class=\"u-url mention\">@<span>TheRealNooshu</span></a></span> vulnerable to being awesome</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480425487724917",
+			"parentId": "117480404473415145",
+			"url": "https://hachyderm.io/@TheRealNooshu/117480425308493664",
+			"author": {
+				"name": "Matt Hobbs",
+				"url": "https://hachyderm.io/@TheRealNooshu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/879/594/365/463/042/original/46f025ea41291e2b.jpg"
+			},
+			"date": "2026-10-21T18:57:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117482267006910508",
+			"parentId": "117480355893066205",
+			"url": "https://fosstodon.org/@midknight/117482266992094127",
+			"author": {
+				"name": "Brian Baldock 🇨🇦",
+				"url": "https://fosstodon.org/@midknight",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/582/190/788/980/549/original/4236f055da13586b.png"
+			},
+			"date": "2026-10-22T02:45:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.alexhyett.com/@alex\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>alex</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> today I sit at work and go damn clients why was my words of reason thrown out for your need to be like your friend {insert generic name} who has a CMS you don’t even log into to make any attempt at new content and just ask me to do it… now I’m itchy to recreate in flat sites el a 11ty</p>",
+			"via": "fediverse"
+		}
+	]
+}

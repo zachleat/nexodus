@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "113884468798921230",
+			"parentId": 0,
+			"url": "https://notes.kvibber.com/@kelson/statuses/01JJCMZX4HVQZSEVWYGMVWKVHR",
+			"author": {
+				"name": "Kelson",
+				"url": "https://notes.kvibber.com/@kelson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/321/981/369/391/290/original/f957ba6a1410244a.png"
+			},
+			"date": "2025-01-24T17:15:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Good reminder! I also need to check whether Discord still relies on twitter:card to determine what size thumbnail to use for link previews. IIRC it'll take everything else from OpenGraph or plain HTML tags, but the last pass I made through my site I ended up putting that one back. For the time being.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113884462877494023",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113884462877494023",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-24T17:16:36.542Z",
+			"content": "<p>TIL I needed to opt-in to an allow-list of domains for `fediverse:creator` on my profile (in addition to the `&lt;meta&gt;` tag on my web site)</p><p>Edit Profile -&gt; Verification (tab) -&gt; Author attribution (section) -&gt; Websites allowed to credit you (textarea)</p><p>Read more about fediverse:creator here: <a href=\"https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.joinmastodon.org/2024/07/</span><span class=\"invisible\">highlighting-journalism-on-mastodon/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113884484624308593",
+			"parentId": "113884468798921230",
+			"url": "https://fediverse.zachleat.com/@zachleat/113884484624308593",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-24T17:22:08.374Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://notes.kvibber.com/@kelson\" class=\"u-url mention\">@<span>kelson</span></a></span> a cheeky (and very so optional) cc to <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@aweary\" class=\"u-url mention\">@<span>aweary</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113884536381095092",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@ttntm/113884536334730372",
+			"author": {
+				"name": "Tom",
+				"url": "https://fosstodon.org/@ttntm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/757/543/218/928/648/original/fc6107a3063f13c6.jpg"
+			},
+			"date": "2025-01-24T17:35:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks, I needed that reminder. So many projects to update now 😶‍🌫️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113889628266044690",
+			"parentId": 0,
+			"url": "https://social.mottokrosh.com/@mottokrosh/113889628256248818",
+			"author": {
+				"name": "Frank // Mottokrosh",
+				"url": "https://social.mottokrosh.com/@mottokrosh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/009/616/148/484/448/original/ceca883e821725bd.jpeg"
+			},
+			"date": "2025-01-25T15:10:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh, good call!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114029106522818722",
+			"parentId": "113884462877494023",
+			"url": "https://mastodon.social/@berkough/114029106497293596",
+			"author": {
+				"name": "Mathew Kane",
+				"url": "https://mastodon.social/@berkough",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/023/944/852/264/037/original/c976deeab08df2b7.jpg"
+			},
+			"date": "2025-02-19T06:21:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://writing.exchange/@matt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matt</span></a></span> Is there a way this might be integrated into Write Freely or Write.as? I tried adding it to my individual posts, but I think the Meta tag gets scrubbed from the editor in Write Freely.... Might be related to the markdown compiler dependency that you use?? FWIW, I don't care how it gets embedded into the content, I would just love if Write.as would allow me to set a meta tag with name and content attributes. What do you think?</p>",
+			"via": "fediverse"
+		}
+	]
+}

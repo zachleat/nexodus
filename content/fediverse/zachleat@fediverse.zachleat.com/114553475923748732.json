@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "114553499524279889",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jimniels/114553499491777565",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2025-05-22T21:01:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you gotta love it when vulnerability disclosures by security researchers are blog posts with BLACK backgrounds and pixelated graphics moving across the page. that's when you know it's legit.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114553509325133028",
+			"parentId": "114553499524279889",
+			"url": "https://fediverse.zachleat.com/@zachleat/114553509325133028",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-22T21:03:55.160Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> before vibe coding we had only vibes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114553670736047277",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jgarber/114553670706108049",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-05-22T21:44:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> love me some catastrophic security flaws in my web browser software</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114553684156122323",
+			"parentId": "114553670736047277",
+			"url": "https://fediverse.zachleat.com/@zachleat/114553684156122323",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-22T21:48:22.869Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> I’m not sure if this issue even communicates the depth of the original problem — how long did they let folks share Boosts with arbitrary JavaScript in them? This truly seems like XSSaaS to me</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114553800437304242",
+			"parentId": "114553684156122323",
+			"url": "https://indieweb.social/@jgarber/114553800414327741",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-05-22T22:17:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> XSStremely yikes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114553972705870578",
+			"parentId": 0,
+			"url": "https://gts.amd.im/@amd/statuses/01JVX3PAV32C2C2C626YRE9T87",
+			"author": {
+				"name": "amd",
+				"url": "https://gts.amd.im/@amd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/502/548/615/563/592/original/5c549a3af6bf75aa.png"
+			},
+			"date": "2025-05-22T23:01:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yikes. That’s a bad one.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "116777366680248838",
+			"parentId": 0,
+			"url": "https://typo.social/@erikvorhes/116777366653631532",
+			"author": {
+				"name": "Erik Vorhes",
+				"url": "https://typo.social/@erikvorhes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/921/577/042/897/413/original/382280bcf3b6ef83.jpeg"
+			},
+			"date": "2026-06-19T15:00:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> — I put my fitness tracker on my dog, but then he took a nap.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116777391496498618",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/116777391473324740",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2026-06-19T15:06:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Did the workout video spawn other workout videos?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116777410721835924",
+			"parentId": "116777366680248838",
+			"url": "https://fediverse.zachleat.com/@zachleat/116777410721835924",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-19T15:11:17.469Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@erikvorhes\" class=\"u-url mention\">@<span>erikvorhes</span></a></span> good tip!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116777415876253480",
+			"parentId": "116777391496498618",
+			"url": "https://fediverse.zachleat.com/@zachleat/116777415876253480",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-19T15:12:36.119Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> parallel workouts will burn so many calories, thank you!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "117071617336931333",
+			"parentId": 0,
+			"url": "https://indieweb.social/@awfulwoman/117071617272403345",
+			"author": {
+				"name": "Charlie O’Hara",
+				"url": "https://indieweb.social/@awfulwoman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/081/218/406/913/074/original/ad40d18a885d77f5.jpeg"
+			},
+			"date": "2026-08-10T14:11:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> never thought the phrase “stalking horse” was literal. <a href=\"https://en.wikipedia.org/wiki/Stalking_horse\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Stalking</span><span class=\"invisible\">_horse</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117071620257369902",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/117071618538536639",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2026-08-10T14:12:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> presumably several “no commits for a week, is this project dead?” issues on GitHub.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117071634776689691",
+			"parentId": "117071617336931333",
+			"url": "https://fediverse.zachleat.com/@zachleat/117071634776689691",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-10T14:16:20.260Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@awfulwoman\" class=\"u-url mention\">@<span>awfulwoman</span></a></span> this is… not what I expected it to be before I clicked 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117071637230629530",
+			"parentId": "117071620257369902",
+			"url": "https://fediverse.zachleat.com/@zachleat/117071637230629530",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-10T14:16:57.704Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> …wait is this play about you 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117071659614103921",
+			"parentId": 0,
+			"url": "https://mastodon.social/@davatron5000/117071659467445847",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://mastodon.social/@davatron5000",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/781/915/117/780/original/c7ed9eb5e3774ce8.jpg"
+			},
+			"date": "2026-08-10T14:22:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Paging horse_js to chat</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117071682265454768",
+			"parentId": "117071659614103921",
+			"url": "https://fediverse.zachleat.com/@zachleat/117071682265454768",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-10T14:28:24.881Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@davatron5000\" class=\"u-url mention\">@<span>davatron5000</span></a></span> over hill and tom dale</p>",
+			"via": "fediverse"
+		}
+	]
+}

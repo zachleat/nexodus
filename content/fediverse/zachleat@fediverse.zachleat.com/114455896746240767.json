@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "114455971048105383",
+			"parentId": 0,
+			"url": "https://pouet.chapril.org/@julienw/114455971035276777",
+			"author": {
+				"name": "Julien W.",
+				"url": "https://pouet.chapril.org/@julienw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/581/755/250/360/original/f07f825982fdf35e.jpg"
+			},
+			"date": "2025-05-05T15:38:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Mmm there's a bug about the multiple import maps, but it doesn't look like it's actively worked on:<br><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1916277\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bugzilla.mozilla.org/show_bug.</span><span class=\"invisible\">cgi?id=1916277</span></a></p><p>I'm not sure for your first comment, it might be worth filing a separate bug...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114456078019704147",
+			"parentId": "114455971048105383",
+			"url": "https://fediverse.zachleat.com/@zachleat/114456078019704147",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-05T16:05:51.425Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://pouet.chapril.org/@julienw\" class=\"u-url mention\">@<span>julienw</span></a></span> subscribed, thank you!</p>",
+			"via": "fediverse"
+		}
+	]
+}

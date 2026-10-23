@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "117174689587648296",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriskirknielsen/117174689564216568",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2026-08-28T19:04:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The lengths some companies will go to game the system…! 🙃</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117174806808963503",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/117174806488396994",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2026-08-28T19:34:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> gotta save that compute for AI</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117174820059248756",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sphars/117174819698333137",
+			"author": {
+				"name": "Spencer",
+				"url": "https://mastodon.social/@sphars",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/698/669/726/197/046/original/9539c0407b4e5cc6.jpg"
+			},
+			"date": "2026-08-28T19:37:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> task failed successfully?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117174850752411592",
+			"parentId": "117174820059248756",
+			"url": "https://fediverse.zachleat.com/@zachleat/117174850752411592",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-28T19:45:31.060Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sphars\" class=\"u-url mention\">@<span>sphars</span></a></span> the error page could be faster, tbh 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117174944188029420",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/117174944162873636",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-08-28T20:09:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Are they at least returning an HTTP error code along with that page? (In which case, your Speedlify stats should probably filter it out.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117174969236762848",
+			"parentId": "117174944188029420",
+			"url": "https://fediverse.zachleat.com/@zachleat/117174969236762848",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-28T20:15:38.989Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> good question! looks like the Axe run (and screenshot) returned a 403 but the Lighthouse request might have succeeded with a 200 (which you can see in the filmstrip).</p><p><a href=\"https://www.speedlify.dev/site/www-oracle-com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">speedlify.dev/site/www-oracle-</span><span class=\"invisible\">com/</span></a></p><p>I might need to handle this specific case better on my end</p>",
+			"via": "fediverse"
+		}
+	]
+}

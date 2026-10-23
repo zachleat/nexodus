@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "113885690481629679",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/113885690441531597",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2025-01-24T22:28:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> They don't like that it requires a full DOM model to render an image.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>litherum</span></a></span> was tasked for a while with coming up with a standardized subset of SVG that could be rendered much more efficiently with fewer potential security leaks. But that project stalled when all SVG standards work did, and he's doing unrelated stuff now, so not sure if any change in SVG support is likely.</p><p>For icons, I still think they could render the image once when the web page is open &amp; cache as a PNG.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113888002274903985",
+			"parentId": "113885690481629679",
+			"url": "https://hachyderm.io/@mb21/113888002244934055",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-01-25T08:16:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>litherum</span></a></span> Interesting. I’m sure they could make it work. Like: even Finder/Preview support rendering SVGs, but yeah, it’s comparatively heavy.</p><p>Going by how images are handled elsewhere in the ecosystem (iOS homescreen icons, app store previews, retina handling of all those), I’m sure Apple would also prefer developers to upload different hand-optimized images for the various resolutions they require.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113888007996670864",
+			"parentId": "113888002274903985",
+			"url": "https://hachyderm.io/@mb21/113888007968980238",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-01-25T08:18:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>litherum</span></a></span> If Apple can make developers work more for even the tiniest improvement in end-user UI, they’ll always make that choice.</p><p>Not saying I always agree with the tradeoff. But if you want to understand Apple, you need to understand that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113900720218282849",
+			"parentId": "113885690481629679",
+			"url": "https://fediverse.zachleat.com/@zachleat/113900720218282849",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-27T14:11:03.877Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\">@<span>litherum</span></a></span> strict mode for SVG would be great! They’re already sandboxed a bit on the browser though, right? &lt;img&gt; versus &lt;svg&gt; directly versus &lt;object&gt; all allow different things</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113901189839364261",
+			"parentId": "113900720218282849",
+			"url": "https://front-end.social/@AmeliaBR/113901189805061181",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2025-01-27T16:10:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes, SVG-as-image is sandboxed (no script or references to external files) but in browsers it still uses the full web rendering engine, just with those features blocked.</p><p>The goal with the \"SVG Native\" subset was to be able to create SVG renderers that didn't need a full web engine &amp; its security/sandboxing model. The graphics would be a more direct equivalent to Android \"drawable\" vector graphics.</p><p>Use cases &amp; overview in the draft spec:<br><a href=\"https://svgwg.org/specs/svg-native/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">svgwg.org/specs/svg-native/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113901213966570738",
+			"parentId": "113901189839364261",
+			"url": "https://fediverse.zachleat.com/@zachleat/113901213966570738",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-27T16:16:37.878Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> oh fascinating — super interested to read the CSS support crossover 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113901241364449948",
+			"parentId": "113901213966570738",
+			"url": "https://front-end.social/@AmeliaBR/113901241339795703",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2025-01-27T16:23:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The idea was that \"SVG Native\" graphics would use CSS-compatible presentation attributes, but very limited CSS features. However, CSS variables would be allowed because of their use for palette theming in SVG-in-OpenType fonts (which were supposed to be an important use case for the standardized restricted SVG rendering environment).</p><p>Given how fast CSS has been adding new features, that section would probably need to be re-written as an allow-list instead of a block-list, though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114083329961273392",
+			"parentId": "113888007996670864",
+			"url": "https://hachyderm.io/@mb21/114083329936958246",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-28T20:11:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@litherum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>litherum</span></a></span> Oh, there is progress on svg favicons in safari! <a href=\"https://bsky.app/profile/jensimmons.bsky.social/post/3ljb77vytl22v\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/jensimmons.bs</span><span class=\"invisible\">ky.social/post/3ljb77vytl22v</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

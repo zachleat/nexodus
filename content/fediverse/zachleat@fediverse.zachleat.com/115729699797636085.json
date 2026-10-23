@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "115729704830947008",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/115729704830947008",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-16T14:25:54.279Z",
+			"content": "<p>👍✅ Runtimes supporting CommonJS and ESM<br />👎❌ Modules dual publishing both CommonJS and ESM</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115729820138211013",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pawelgrzybek/115729820101797802",
+			"author": {
+				"name": "Paweł Grzybek",
+				"url": "https://mastodon.social/@pawelgrzybek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/993/798/153/333/original/37ce2e77cc184610.jpg"
+			},
+			"date": "2025-12-16T14:55:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that’s not shocking for me anymore. I was a huge fan for years. Recently my experience of using Deno (especially a Deno Deploy)  was not too great. Contradicting parts of docs don’t shock me but yeah that’s embarrassing a little.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115729826171872617",
+			"parentId": "115729820138211013",
+			"url": "https://fediverse.zachleat.com/@zachleat/115729826171872617",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-16T14:56:45.796Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pawelgrzybek\" class=\"u-url mention\">@<span>pawelgrzybek</span></a></span> I think they’re landing in a good place (on this issue)! But they probably need to update some of those previous red lined stances to reflect the current state of things</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115730140888702353",
+			"parentId": "115729826171872617",
+			"url": "https://floss.social/@ahoyboyhoy/115730140870517377",
+			"author": {
+				"name": "ahoyboyhoy",
+				"url": "https://floss.social/@ahoyboyhoy",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-12-16T16:16:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pawelgrzybek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>pawelgrzybek</span></a></span> agreed, I default to deno and it's nice.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,98 @@
+{
+	"comments": [
+		{
+			"id": "113776430868357700",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113776430868357700",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-05T15:22:38.902Z",
+			"content": "<p>the primary purpose of breaking changes is to remind developers that they shouldn’t get too comfortable</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113776433750649956",
+			"parentId": "113776430868357700",
+			"url": "https://hachyderm.io/@fasterthanlime/113776433628486278",
+			"author": {
+				"name": "amos",
+				"url": "https://hachyderm.io/@fasterthanlime",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/970/129/686/882/552/original/848671e80b59836f.png"
+			},
+			"date": "2025-01-05T15:23:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"I have altered the deal\" etc. etc.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113776446303241193",
+			"parentId": "113776430868357700",
+			"url": "https://pleroma.envs.net/objects/ece9b6e8-d919-4b37-af04-0f7c5df10f37",
+			"private": true,
+			"date": "2025-01-05T15:26:16.321Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113776468458385997",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/113776468398131247",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2025-01-05T15:32:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is so timely as I am currently looking at this <a href=\"https://mastodon.social/tags/playwright\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>playwright</span></a> API change 🤦‍♂️...</p><p>Deprecated 💔 <a href=\"https://playwright.dev/docs/api/class-accessibility#accessibility-snapshot\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">playwright.dev/docs/api/class-</span><span class=\"invisible\">accessibility#accessibility-snapshot</span></a></p><p>New 🤷‍♂️  <a href=\"https://playwright.dev/docs/aria-snapshots\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">playwright.dev/docs/aria-snaps</span><span class=\"invisible\">hots</span></a></p><p>And, the move to YAML in the output, in JS!?! 😡</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113776480010352067",
+			"parentId": "113776468458385997",
+			"url": "https://sunny.garden/@knowler/113776479984810540",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2025-01-05T15:35:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yet Another… syntax/api change</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113777093552858847",
+			"parentId": "113776446303241193",
+			"url": "https://mastodon.nz/@mez/113777093262106021",
+			"private": true,
+			"date": "2025-01-05T18:11:06.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113777579984528381",
+			"parentId": "113776468458385997",
+			"url": "https://indieweb.social/@mariohamann/113777579965576220",
+			"author": {
+				"name": "Mario",
+				"url": "https://indieweb.social/@mariohamann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/639/115/399/589/709/original/d197f81dc69d59be.png"
+			},
+			"date": "2025-01-05T20:14:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I personally like the new approach. It makes it super readable even for less technical people in a team, e.g. designers who do accessibility QA.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113777761387914672",
+			"parentId": "113777579984528381",
+			"url": "https://mastodon.social/@westbrook/113777760833257471",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2025-01-05T21:00:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mariohamann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mariohamann</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Simple patterns, almost:</p><p>- heading \"Heading text\" [level=1]</p><p>VS</p><p>{<br>  role: 'heading',<br>  name: \"Heading text\"<br>  level: 1<br>}</p><p>More complex patterns, dropping data?</p><p>- combobox \"Combobox\" [expanded]<br>- listbox \"Combobox\":<br>  - children[]</p><p>VS</p><p>{<br>  role: 'combobox',<br>  name: 'Combobox',<br>  expanded: true,<br>  focused: true,<br>  haspopup: 'listbox'<br>},<br>{<br>  role: 'listbox',<br>  name: 'Combobox',<br>  orientation: 'vertical',<br>  children: []<br>}</p><p>Better that the new API is not deprecated, however.</p>",
+			"via": "fediverse"
+		}
+	]
+}

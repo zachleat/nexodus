@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "115147174621373142",
+			"parentId": 0,
+			"url": "https://toot.works/@joe/115147174603755608",
+			"author": {
+				"name": "Joe Steinbring :thisisfine:",
+				"url": "https://toot.works/@joe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/700/399/157/655/original/2c18c7725abd4da4.png"
+			},
+			"date": "2025-09-04T17:20:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> With the British Indian Ocean Territory ceasing to exist, it's probably a good idea to at least have a plan to get off of .io domains. Moving to something that isn't a ccTLD means that you aren't beholden to that country's whims.  I've seen folks with .af get burned after the Taliban returned to power.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115147291244237844",
+			"parentId": "115147174621373142",
+			"url": "https://fediverse.zachleat.com/@zachleat/115147291244237844",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-04T17:50:28.213Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.works/@joe\" class=\"u-url mention\">@<span>joe</span></a></span> yeah, absolutely.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115152028726009821",
+			"parentId": 0,
+			"url": "https://mapstodon.space/@tristanlandry/115152028568009921",
+			"author": {
+				"name": "Tristan Landry",
+				"url": "https://mapstodon.space/@tristanlandry",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-09-05T13:55:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Why?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115152184524137682",
+			"parentId": "115152028726009821",
+			"url": "https://fediverse.zachleat.com/@zachleat/115152184524137682",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-05T14:34:53.739Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mapstodon.space/@tristanlandry\" class=\"u-url mention\">@<span>tristanlandry</span></a></span> some background in the attached link</p>",
+			"via": "fediverse"
+		}
+	]
+}

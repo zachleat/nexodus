@@ -1,0 +1,85 @@
+{
+	"comments": [
+		{
+			"id": "113512543645002912",
+			"parentId": 0,
+			"url": "https://gts.amd.im/@amd/statuses/01JD3GWVS01ZZJ1QYQ643Z6XQS",
+			"private": true,
+			"date": "2024-11-20T00:52:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113516103745513431",
+			"parentId": 0,
+			"url": "https://social.lol/@tylersticka/113516103725799026",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2024-11-20T15:58:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Ooh, neat!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113516511686058279",
+			"parentId": "113516103745513431",
+			"url": "https://fediverse.zachleat.com/@zachleat/113516511686058279",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-11-20T17:41:46.929Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\">@<span>tylersticka</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> thanks Tyler!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113516583306392478",
+			"parentId": "113512543645002912",
+			"url": "https://fediverse.zachleat.com/@zachleat/113516583306392478",
+			"private": true,
+			"date": "2024-11-20T17:59:59.767Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113518808185650349",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@d3v1an7/113518808167226558",
+			"author": {
+				"name": "d3v1an7",
+				"url": "https://infosec.exchange/@d3v1an7",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/991/051/044/602/132/original/da2a25d00cb13c69.png"
+			},
+			"date": "2024-11-21T03:25:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> v cool! the full build on capitalbrief.com is getting a bit chunky, and i'm thinking about how i could break it up a bit. a bare bones text only version to generate a search index could work a treat!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113520149012659456",
+			"parentId": 0,
+			"url": "https://social.lol/@claudia/113520148918966823",
+			"author": {
+				"name": "Claudia :prami:",
+				"url": "https://social.lol/@claudia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/311/835/541/119/356/original/669dd841d7072337.png"
+			},
+			"date": "2024-11-21T09:06:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> this is so cool!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113521293194481747",
+			"parentId": "113520149012659456",
+			"url": "https://fediverse.zachleat.com/@zachleat/113521293194481747",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-11-21T13:57:46.958Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@claudia\" class=\"u-url mention\">@<span>claudia</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> yay!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,241 @@
+{
+	"comments": [
+		{
+			"id": "117123187184040808",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/117123187002200867",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2026-08-19T16:46:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It feels a little weird to have RSS and Atom as separate categories?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123190651512602",
+			"parentId": "117123187184040808",
+			"url": "https://fediverse.zachleat.com/@zachleat/117123190651512602",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-19T16:47:40.479Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> oh… hm, why? they are different feed formats no?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123197672468613",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tigt/117123195083818062",
+			"author": {
+				"name": "Taylor “Tigt” Hunt",
+				"url": "https://mastodon.social/@tigt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/334/355/587/214/811/original/047d5f21db3efabe.png"
+			},
+			"date": "2026-08-19T16:48:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Don’t get me started on how they’re all asking for encoding/escaping headaches compared to microformats</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123262997828383",
+			"parentId": 0,
+			"url": "https://mastodon.green/@koos/117123262979770253",
+			"author": {
+				"name": "Koos",
+				"url": "https://mastodon.green/@koos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/941/743/049/383/626/original/855933c602bf276d.webp"
+			},
+			"date": "2026-08-19T17:06:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I voted 1 but forgot that I added standard.site links for which the feed is technically not on my own site. But it's a (near) duplicate of my RSS feed</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123459520316273",
+			"parentId": "117123190651512602",
+			"url": "https://mastodon.cthos.dev/@cthos/117123459397756723",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2026-08-19T17:56:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Technically, yes, but I don't think I have seen a feed aggregator that doesn't support both Atom and RSS 2.0 (except for Apple Podcast format) since Atom was built atop/after RSS.</p><p>But also most CMSes just spit out both formats as if they were a single \"feature\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123464418093407",
+			"parentId": "117123459520316273",
+			"url": "https://fediverse.zachleat.com/@zachleat/117123464418093407",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-19T17:57:17.825Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> ah, yes. I mostly am curious what folks are publishing as part of their own workflows. I do see a fair number of folks publishing both RSS and Atom, for some reason!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123487413466400",
+			"parentId": 0,
+			"url": "https://indieweb.social/@techlifeweb/117123487356380416",
+			"author": {
+				"name": "Scott Kingery",
+				"url": "https://indieweb.social/@techlifeweb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/141/592/716/057/117/original/772db0dc7ee56152.png"
+			},
+			"date": "2026-08-19T18:03:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also h-feed<br><a href=\"https://indieweb.social/tags/indieweb\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>indieweb</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123622873373247",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rauschma/117123622817447597",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2026-08-19T18:37:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m only still using Atom because I started before JSON Feed existed. Now I’d probably go with JSON Feed only. Seems to be broadly supported and (at first glance) is nice and simple.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123630565757417",
+			"parentId": "117123622873373247",
+			"url": "https://fediverse.zachleat.com/@zachleat/117123630565757417",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-19T18:39:33.039Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> Yes! I’d leaning towards this too. Which option did you pick? Just one Atom feed?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123737142496080",
+			"parentId": "117123197672468613",
+			"url": "https://fediverse.zachleat.com/@zachleat/117123737142496080",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-19T19:06:39.271Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> this feels like you’re incentivizing me to get you started</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123752649598045",
+			"parentId": "117123630565757417",
+			"url": "https://fosstodon.org/@rauschma/117123752586647945",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2026-08-19T19:10:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> One feed with one file per year (helps with incremental updates).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123767467386118",
+			"parentId": "117123737142496080",
+			"url": "https://mastodon.social/@tigt/117123766869214286",
+			"author": {
+				"name": "Taylor “Tigt” Hunt",
+				"url": "https://mastodon.social/@tigt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/334/355/587/214/811/original/047d5f21db3efabe.png"
+			},
+			"date": "2026-08-19T19:14:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> HTML-in-XML (RSS/Atom) is either 40% character entities by volume or malformed, and there’s always some RSS readers that can’t seem to guess right and decide the best method is to try neither</p><p>HTML-in JSON is 50% `\\?\\\"` by volume and we have yet to hit the adoption curve where somebody running a reader has an angry post about doing JSON Feed right, which concerns me</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117123780343562185",
+			"parentId": "117123767467386118",
+			"url": "https://fediverse.zachleat.com/@zachleat/117123780343562185",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-19T19:17:38.465Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> a ha! Have you heard of using Markdown for feed content? Does anyone do or support that?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117124300134621648",
+			"parentId": "117123780343562185",
+			"url": "https://mastodon.social/@tigt/117124300036127439",
+			"author": {
+				"name": "Taylor “Tigt” Hunt",
+				"url": "https://mastodon.social/@tigt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/334/355/587/214/811/original/047d5f21db3efabe.png"
+			},
+			"date": "2026-08-19T21:29:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes, and unfortunately all the consumers are AI… but if you want to try, apparently the state of the art is `link[rel=alternate][type=text/markdown]`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117124319098154112",
+			"parentId": "117124300134621648",
+			"url": "https://fediverse.zachleat.com/@zachleat/117124319098154112",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-19T21:34:39.207Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> oh fascinating, yeah — thanks. I saw that on <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@matuzo\" class=\"u-url mention\">@<span>matuzo</span></a></span>’s latest: <a href=\"https://matuzo.at/blog/2026/html-boilerplate#link-to-markdown-optional\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">matuzo.at/blog/2026/html-boile</span><span class=\"invisible\">rplate#link-to-markdown-optional</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117124368745314725",
+			"parentId": "117124319098154112",
+			"url": "https://mastodon.social/@tigt/117124368454158769",
+			"author": {
+				"name": "Taylor “Tigt” Hunt",
+				"url": "https://mastodon.social/@tigt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/334/355/587/214/811/original/047d5f21db3efabe.png"
+			},
+			"date": "2026-08-19T21:47:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> …I wonder if any of the scrapers bother to check if it’s not slyly-altered from the real content?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117124431071636283",
+			"parentId": "117124368745314725",
+			"url": "https://fediverse.zachleat.com/@zachleat/117124431071636283",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-08-19T22:03:07.786Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> hah! oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117129122645364413",
+			"parentId": "117123464418093407",
+			"url": "https://polymaths.social/@kytta/statuses/01M0G5206XNM5JN75YHFB1N8EF",
+			"private": true,
+			"date": "2026-08-20T17:56:14.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117129197936428034",
+			"parentId": "117129122645364413",
+			"url": "https://fediverse.zachleat.com/@zachleat/117129197936428034",
+			"private": true,
+			"date": "2026-08-20T18:15:24.372Z",
+			"via": "fediverse"
+		}
+	]
+}

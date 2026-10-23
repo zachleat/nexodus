@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "113932075501975690",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@iron/113932075478591185",
+			"author": {
+				"name": "Iron",
+				"url": "https://hachyderm.io/@iron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/531/476/538/911/485/original/b47f1ac0ad60fa0d.jpg"
+			},
+			"date": "2025-02-02T03:05:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> As someone who has never used AWS, am I reading correctly that their free tier is only available for a year, after which the same usage that previously fell under that threshold becomes paid?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113932518758635365",
+			"parentId": "113932075501975690",
+			"url": "https://fediverse.zachleat.com/@zachleat/113932518758635365",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-02T04:57:51.097Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@iron\" class=\"u-url mention\">@<span>iron</span></a></span> correct!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113933644865290561",
+			"parentId": "113932518758635365",
+			"url": "https://mastodon.social/@eQRoeil/113933644739704296",
+			"author": {
+				"name": "Pascal",
+				"url": "https://mastodon.social/@eQRoeil",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-02T09:44:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@iron\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>iron</span></a></span> <a href=\"https://aws.amazon.com/free/?nc2=h_mo-lang&amp;all-free-tier.sort-by=item.additionalFields.SortRank&amp;all-free-tier.sort-order=asc&amp;awsf.Free%20Tier%20Types=tier%23always-free&amp;awsf.Free%20Tier%20Categories=*all\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aws.amazon.com/free/?nc2=h_mo-</span><span class=\"invisible\">lang&amp;all-free-tier.sort-by=item.additionalFields.SortRank&amp;all-free-tier.sort-order=asc&amp;awsf.Free%20Tier%20Types=tier%23always-free&amp;awsf.Free%20Tier%20Categories=*all</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113934632535692047",
+			"parentId": "113933644865290561",
+			"url": "https://fediverse.zachleat.com/@zachleat/113934632535692047",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-02T13:55:24.777Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@eQRoeil\" class=\"u-url mention\">@<span>eQRoeil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@iron\" class=\"u-url mention\">@<span>iron</span></a></span> well wait this seems to suggest that some (none?) of the free tier expires after 12 months? what is going on here 🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113934919703911626",
+			"parentId": "113934632535692047",
+			"url": "https://mastodon.social/@eQRoeil/113934919638276701",
+			"author": {
+				"name": "Pascal",
+				"url": "https://mastodon.social/@eQRoeil",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-02T15:08:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@iron\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>iron</span></a></span> There are different free offers, on the page you can apply filters, the link is for \"always free\" filter applied</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113934923500639118",
+			"parentId": "113934919703911626",
+			"url": "https://mastodon.social/@eQRoeil/113934923381854355",
+			"author": {
+				"name": "Pascal",
+				"url": "https://mastodon.social/@eQRoeil",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-02T15:09:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@iron\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>iron</span></a></span> \"1 million lambda invocations\" is in the always free tier</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113935239244097959",
+			"parentId": "113934923500639118",
+			"url": "https://hachyderm.io/@iron/113935239224299542",
+			"author": {
+				"name": "Iron",
+				"url": "https://hachyderm.io/@iron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/531/476/538/911/485/original/b47f1ac0ad60fa0d.jpg"
+			},
+			"date": "2025-02-02T16:29:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@eQRoeil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eQRoeil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Granular free tier mechanics?! I mean, far be it from me to complain about free stuff, but sheesh. They really don’t make it easy, do they?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113935286735426976",
+			"parentId": "113935239244097959",
+			"url": "https://mastodon.social/@eQRoeil/113935286641357876",
+			"author": {
+				"name": "Pascal",
+				"url": "https://mastodon.social/@eQRoeil",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-02T16:41:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@iron\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>iron</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"make it easy\" &amp; AWS, well...</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,415 @@
+{
+	"comments": [
+		{
+			"id": "117479078716577288",
+			"parentId": 0,
+			"url": "https://mastodon.social/@devolute/117479078631055490",
+			"author": {
+				"name": "devolute",
+				"url": "https://mastodon.social/@devolute",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/142/474/609/017/original/b1af8b9e7c70331a.jpg"
+			},
+			"date": "2026-10-21T13:14:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Your face when.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479098193239418",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@AlesandroOrtiz/117479098154334261",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2026-10-21T13:19:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 💯 A decade or so ago I was running all my sites, even static ones, on my own PHP VPSes. Now everything is 99% static (on 11ty!) and any backend stuff uses lightweight Node servers on a tiny VPS.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479130223698480",
+			"parentId": "117479078716577288",
+			"url": "https://fediverse.zachleat.com/@zachleat/117479130223698480",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-21T13:27:47.331Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@devolute\" class=\"u-url mention\">@<span>devolute</span></a></span> my anxiety could never</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479238466349623",
+			"parentId": 0,
+			"url": "https://social.v.st/@wfk/117479238418567677",
+			"author": {
+				"name": "wfk",
+				"url": "https://social.v.st/@wfk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/011/646/636/111/912/original/76f239b54f8c2741.jpg"
+			},
+			"date": "2026-10-21T13:55:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>My mitigation has been to just remove PHP from my servers.  There shouldn't have been any remaining service depending on it, and if there accidentally was, I prefer learning about that from it not working, rather than it compromising my systems.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479265564911772",
+			"parentId": 0,
+			"url": "https://social.gl-como.it/display/3e3ce0df-216a-d8c5-781c-46e856324663",
+			"author": {
+				"name": "Elena ``of Valhalla''",
+				"url": "https://social.gl-como.it/profile/valhalla",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/566/796/425/718/753/original/3293ccebe8001855.png"
+			},
+			"date": "2026-10-21T14:00:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> please, don't do these things.</p><p>saying this things aloud is how we get a catastrophical apache / nginx zero day :D</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479275297747207",
+			"parentId": "117479265564911772",
+			"url": "https://fediverse.zachleat.com/@zachleat/117479275297747207",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-21T14:04:40.985Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.gl-como.it/profile/valhalla\" class=\"u-url mention\">@<span>valhalla</span></a></span> *runs away screaming*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479318727711891",
+			"parentId": "117479275297747207",
+			"url": "https://social.gl-como.it/display/3e3ce0df-926a-d8c9-0901-998494739377",
+			"author": {
+				"name": "Elena ``of Valhalla''",
+				"url": "https://social.gl-como.it/profile/valhalla",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/566/796/425/718/753/original/3293ccebe8001855.png"
+			},
+			"date": "2026-10-21T14:15:37.000Z",
+			"content": "<span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (to be fair, static website means only having to worry about CVEs in the base system and http server, instead of having to worry about CVEs in the base system, http server, language AND platform, it's not a trivial advantage)",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479372925941845",
+			"parentId": 0,
+			"url": "https://mastodon.social/@blogdiva/117479372288129922",
+			"author": {
+				"name": "your auntifa liza 🇵🇷  🦛 🦦",
+				"url": "https://mastodon.social/@blogdiva",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/649/552/828/625/044/original/97dd263dd469a515.png"
+			},
+			"date": "2026-10-21T14:29:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> they shouldn’t. a status.html page should be static, served in a subdomain and a from a separate server (or vps). that even MDN doesn't practice that is proof how the appification of web development has degraded the practice of developing actual websites.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479395842295525",
+			"parentId": 0,
+			"url": "https://mastodon.gamedev.place/@DoubleBuffered/117479395782969059",
+			"author": {
+				"name": "Ben Zeigler | DoubleBuffered",
+				"url": "https://mastodon.gamedev.place/@DoubleBuffered",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/479/395/804/872/645/original/c5a8482840448328.jpeg"
+			},
+			"date": "2026-10-21T14:35:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've started using Astro which lets you use all of the fancy javascript coding you could ever want, to make completely static sites in production</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479426488272942",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@timapple/117479426451753625",
+			"author": {
+				"name": "Tim Apple",
+				"url": "https://fosstodon.org/@timapple",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/474/503/496/047/317/original/d7c9befc7d48b544.png"
+			},
+			"date": "2026-10-21T14:43:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nothing to patch on a pile of html files is a pretty nice feeling today lol</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479454962153171",
+			"parentId": 0,
+			"url": "https://mamot.fr/@GoOz/117479454937145978",
+			"author": {
+				"name": "GoOz",
+				"url": "https://mamot.fr/@GoOz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/582/853/408/202/original/d4d683e4927c788f.jpg"
+			},
+			"date": "2026-10-21T14:50:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my thoughts exactly :3 but let’s just not fuel the fire… not yet. :D</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479470027499597",
+			"parentId": 0,
+			"url": "https://mastodon.world/@rzeta0/117479469985275923",
+			"author": {
+				"name": "rzeta0",
+				"url": "https://mastodon.world/@rzeta0",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/413/751/695/443/328/original/5c6c00952044a7bb.png"
+			},
+			"date": "2026-10-21T14:54:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>does your definition of static include javascript?</p><p>mine doesn't</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479548658822517",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@Monal/117479548551889503",
+			"private": true,
+			"date": "2026-10-21T15:14:10.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479668209038568",
+			"parentId": 0,
+			"url": "https://oldbytes.space/@eobet/117479668165691242",
+			"author": {
+				"name": "eobet",
+				"url": "https://oldbytes.space/@eobet",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/017/444/391/145/484/original/ad3d7ac028469539.png"
+			},
+			"date": "2026-10-21T15:44:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I recently switched providers and I wasn't even allowed to subscribe with an option without php... 😑</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479763308050538",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dmian/117479763149459781",
+			"author": {
+				"name": "Dmian 🇪🇺",
+				"url": "https://mastodon.social/@dmian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/294/498/341/006/967/original/9b720655701dd3bc.png"
+			},
+			"date": "2026-10-21T16:08:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That’s why I like <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@publii\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>publii</span></a></span> so much! Peace of mind. 😁</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479791527035026",
+			"parentId": "117479098193239418",
+			"url": "https://mastodon.scot/@gunchleoc/117479791464683004",
+			"author": {
+				"name": "GunChleoc",
+				"url": "https://mastodon.scot/@gunchleoc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/388/975/850/380/687/original/13543d4ae598055e.png"
+			},
+			"date": "2026-10-21T16:15:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AlesandroOrtiz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Did you say Node? <a href=\"https://nodejs.org/en/blog/vulnerability/october-2026-security-releases\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nodejs.org/en/blog/vulnerabili</span><span class=\"invisible\">ty/october-2026-security-releases</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479816818259611",
+			"parentId": "117479470027499597",
+			"url": "https://fediverse.zachleat.com/@zachleat/117479816818259611",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-21T16:22:23.932Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@rzeta0\" class=\"u-url mention\">@<span>rzeta0</span></a></span> no but I don’t begrudge you either way!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117479819895156537",
+			"parentId": "117479395842295525",
+			"url": "https://fediverse.zachleat.com/@zachleat/117479819895156537",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-21T16:23:10.883Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.gamedev.place/@DoubleBuffered\" class=\"u-url mention\">@<span>DoubleBuffered</span></a></span> never heard of it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480187437937584",
+			"parentId": "117479426488272942",
+			"url": "https://social.ridetrans.it/@Andres4NY/117480187368759158",
+			"author": {
+				"name": "Andres",
+				"url": "https://social.ridetrans.it/@Andres4NY",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/314/712/204/018/original/de2a055d7fab250a.jpg"
+			},
+			"date": "2026-10-21T17:56:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@timapple\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>timapple</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There is a certain irony that an nginx security release happened around the same time. However, that one was pretty minor in comparison to the php thing.</p><p><a href=\"https://lists.debian.org/debian-security-announce/2026/msg00490.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">lists.debian.org/debian-securi</span><span class=\"invisible\">ty-announce/2026/msg00490.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480376128391373",
+			"parentId": "117480187437937584",
+			"url": "https://fosstodon.org/@timapple/117480376098866058",
+			"author": {
+				"name": "Tim Apple",
+				"url": "https://fosstodon.org/@timapple",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/474/503/496/047/317/original/d7c9befc7d48b544.png"
+			},
+			"date": "2026-10-21T18:44:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.ridetrans.it/@Andres4NY\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Andres4NY</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ha, of course nginx picked this week too. at least a minor one is just an apt upgrade and move on</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480544110641113",
+			"parentId": 0,
+			"url": "https://mastodon.online/@lvk/117480544024736180",
+			"author": {
+				"name": "L Ξ Ο N V Λ N Κ Λ Μ Μ Ξ N",
+				"url": "https://mastodon.online/@lvk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/047/264/993/616/631/original/9c11e8afebc32f98.jpg"
+			},
+			"date": "2026-10-21T19:27:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is why <a href=\"https://xrforge.isvery.ninja\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">xrforge.isvery.ninja</span><span class=\"invisible\"></span></a> is a static website generator..i dont trust my own code in server-mode 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480977879481878",
+			"parentId": 0,
+			"url": "https://masto.hackers.town/@yojimbo/117480977865181235",
+			"author": {
+				"name": "CMDR Yojimbosan 🅅⁂",
+				"url": "https://masto.hackers.town/@yojimbo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/424/961/947/510/417/original/3fcff7080a46dcec.jpg"
+			},
+			"date": "2026-10-21T21:17:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A long long time ago, static sites were all we had. I built a wonderful website for a business directory, hundreds of entries, everyone listed in up to 4 different category/subcategory pairs. It started from an Access database they gave me, took 5 minutes to run on a 486 PC/linux, and produced all the cross-linking pages for the index, each business, all the category, and each of the category/subcategories.<br>When I upgraded to a Pentium it took 1.5 minutes :-)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117480982668598427",
+			"parentId": "117480977879481878",
+			"url": "https://masto.hackers.town/@yojimbo/117480982651408469",
+			"author": {
+				"name": "CMDR Yojimbosan 🅅⁂",
+				"url": "https://masto.hackers.town/@yojimbo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/424/961/947/510/417/original/3fcff7080a46dcec.jpg"
+			},
+			"date": "2026-10-21T21:18:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> After a couple of years, someone else got the customer and made it all LAMP stack. They couldn't figure out how to do all the category/subcategory queries, so the site lost all that functionality. Just, wow.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117481008557463785",
+			"parentId": "117480977879481878",
+			"url": "https://fediverse.zachleat.com/@zachleat/117481008557463785",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-21T21:25:28.431Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.hackers.town/@yojimbo\" class=\"u-url mention\">@<span>yojimbo</span></a></span> Intel Inside! what year was this?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117481021056413141",
+			"parentId": "117481008557463785",
+			"url": "https://masto.hackers.town/@yojimbo/117481021042319615",
+			"author": {
+				"name": "CMDR Yojimbosan 🅅⁂",
+				"url": "https://masto.hackers.town/@yojimbo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/424/961/947/510/417/original/3fcff7080a46dcec.jpg"
+			},
+			"date": "2026-10-21T21:28:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> around 1995 perhaps? it could have been earlier, the pentiums came out in 1993 according to wikipedia, but I'm not sure how long it took for them to become \"reasonably available\" in my location.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117481033042194903",
+			"parentId": "117481021056413141",
+			"url": "https://masto.hackers.town/@yojimbo/117481033023178795",
+			"author": {
+				"name": "CMDR Yojimbosan 🅅⁂",
+				"url": "https://masto.hackers.town/@yojimbo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/424/961/947/510/417/original/3fcff7080a46dcec.jpg"
+			},
+			"date": "2026-10-21T21:31:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Now I'm starting to double-guess if the original was even Access. I know the categories were all arbitrary and self-declared by each company registering, there was some effort to conform to pre-existing ones but it was a manual process.<br>Anyway, static sites can be arbitrarily awesome :-) and a good design process can trade processing for disk space well before the webserver itself gets involved!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117481104716524235",
+			"parentId": "117481033042194903",
+			"url": "https://fediverse.zachleat.com/@zachleat/117481104716524235",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-21T21:49:55.700Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.hackers.town/@yojimbo\" class=\"u-url mention\">@<span>yojimbo</span></a></span> that’s awesome! certainly the earliest static build I’ve heard of!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117481212635368132",
+			"parentId": "117481104716524235",
+			"url": "https://masto.hackers.town/@yojimbo/117481212616470530",
+			"author": {
+				"name": "CMDR Yojimbosan 🅅⁂",
+				"url": "https://masto.hackers.town/@yojimbo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/424/961/947/510/417/original/3fcff7080a46dcec.jpg"
+			},
+			"date": "2026-10-21T22:17:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh boy, you want to know what I was doing back in 1995 then lol. We were operating an SSL website, which pins the date to 1995 as the earliest (therefore my other story needs to move forward a year I guess) and we had a 40-bit cert, one of the first to be deployed outside the US (small cert size because of export restrictions)<br>The website provided an actual catalog of things to buy from several different vendors, and collected ccard data for offline processing. Fun days!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117481221019664688",
+			"parentId": "117481212635368132",
+			"url": "https://masto.hackers.town/@yojimbo/117481221007020388",
+			"author": {
+				"name": "CMDR Yojimbosan 🅅⁂",
+				"url": "https://masto.hackers.town/@yojimbo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/424/961/947/510/417/original/3fcff7080a46dcec.jpg"
+			},
+			"date": "2026-10-21T22:19:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Now, you don't want to know how we got the order and associated ccard from the web server to the customer, do you?<br>That was a little embarrassing, involving multiple emails with \"the first few digits\" on one message and \"the next few digits\" in another. And of course email wasn't encrypted.</p><p>In a spooky voice: \"This was before PCI existed and ... bad things happened ... on ... the Internet!!!!!\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117481225854793165",
+			"parentId": "117481221019664688",
+			"url": "https://masto.hackers.town/@yojimbo/117481225841442033",
+			"author": {
+				"name": "CMDR Yojimbosan 🅅⁂",
+				"url": "https://masto.hackers.town/@yojimbo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/424/961/947/510/417/original/3fcff7080a46dcec.jpg"
+			},
+			"date": "2026-10-21T22:20:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> However, the site was very successful, as lots of people across the world ordered christmas gifts for their friends in the UK - i.e. no international shipping! Saved themselves a heap of money I hope!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117487192993411058",
+			"parentId": "117479372925941845",
+			"url": "https://piaille.fr/@tristantheb/117487192966766873",
+			"author": {
+				"name": "Tristan / RecoilZA",
+				"url": "https://piaille.fr/@tristantheb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/370/388/273/409/467/original/e1b88519c140c295.png"
+			},
+			"date": "2026-10-22T23:38:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@blogdiva\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>blogdiva</span></a></span> But the MDN is static, so why should we add more static pages to a static site that regenerates its HTML pages once every 24 hours?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117487572937928921",
+			"parentId": "117487192993411058",
+			"url": "https://fediverse.zachleat.com/@zachleat/117487572937928921",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-23T01:14:52.926Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tristantheb\" class=\"u-url mention\">@<span>tristantheb</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@blogdiva\" class=\"u-url mention\">@<span>blogdiva</span></a></span> nice yeah! I remember this <a href=\"https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.mozilla.org/en-US/bl</span><span class=\"invisible\">og/mdn-front-end-deep-dive/</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

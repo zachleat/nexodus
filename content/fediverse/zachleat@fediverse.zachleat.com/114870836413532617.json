@@ -1,0 +1,181 @@
+{
+	"comments": [
+		{
+			"id": "114870847320516637",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114870847320516637",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-17T22:07:08.692Z",
+			"content": "<p>I was very surprised to see date-fns weigh in at 40MB on disk (though it is very modular and tree-shakeable)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114870909856296009",
+			"parentId": 0,
+			"url": "https://front-end.social/@zzzzBov/114870909838788057",
+			"author": {
+				"name": "Timothy Leverett",
+				"url": "https://front-end.social/@zzzzBov",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/300/675/994/731/167/original/9bb12047449ddcc4.png"
+			},
+			"date": "2025-07-17T22:23:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> have you heard about Temporal? It's currently available in Firefox, but you can polyfill it in the meantime.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114871343195271006",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/114871343163916524",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2025-07-18T00:13:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I sense a great deal of pain in whoever put this together.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114872873434877182",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@mb21/114872873414104326",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-07-18T06:42:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Why not just force people to use a specific format?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114872894512575439",
+			"parentId": "114870847320516637",
+			"url": "https://front-end.social/@ariel/114872894491607201",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://front-end.social/@ariel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/295/407/112/476/467/original/feeeb91d3e6c3b75.jpg"
+			},
+			"date": "2025-07-18T06:47:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I had a picture of a floppy disk in my head while reading this and…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114873675027642149",
+			"parentId": "114872894512575439",
+			"url": "https://mastodon.social/@ollicle/114873674853230437",
+			"author": {
+				"name": "Ollie Boermans",
+				"url": "https://mastodon.social/@ollicle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/494/731/887/601/original/cd153c11973efda8.png"
+			},
+			"date": "2025-07-18T10:06:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ariel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ariel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114874532326435217",
+			"parentId": "114873675027642149",
+			"url": "https://fediverse.zachleat.com/@zachleat/114874532326435217",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-18T13:44:17.423Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\">@<span>ollicle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ariel\" class=\"u-url mention\">@<span>ariel</span></a></span> under lock and key!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114874536947334101",
+			"parentId": "114872873434877182",
+			"url": "https://fediverse.zachleat.com/@zachleat/114874536947334101",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-18T13:45:27.931Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\">@<span>mb21</span></a></span> do you know a good ISO8601 parsing library that handles all the variants? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114874542932913628",
+			"parentId": "114871343195271006",
+			"url": "https://fediverse.zachleat.com/@zachleat/114874542932913628",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-18T13:46:59.265Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> like millions of date strings suddenly cried out…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114874555914040400",
+			"parentId": "114870909856296009",
+			"url": "https://fediverse.zachleat.com/@zachleat/114874555914040400",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-18T13:50:17.341Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@zzzzBov\" class=\"u-url mention\">@<span>zzzzBov</span></a></span> I did look through those APIs and it looks like they parse RFC 9557 which is less forgiving <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal/Instant#rfc_9557_format\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.mozilla.org/en-US/do</span><span class=\"invisible\">cs/Web/JavaScript/Reference/Global_Objects/Temporal/Instant#rfc_9557_format</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114874709144540333",
+			"parentId": "114874536947334101",
+			"url": "https://hachyderm.io/@mb21/114874709125491846",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-07-18T14:29:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mb21</span></a></span> I was thinking forcing _one_ of the iso variants 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114874711572196546",
+			"parentId": "114874709144540333",
+			"url": "https://fediverse.zachleat.com/@zachleat/114874711572196546",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-18T14:29:52.496Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\">@<span>mb21</span></a></span> okay! which one 😅😅😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114875518909296800",
+			"parentId": "114874711572196546",
+			"url": "https://hachyderm.io/@mb21/114875518886555453",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-07-18T17:55:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mb21</span></a></span> yyyy-mm-ddThh:mm<br>this is the way.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114876631345034786",
+			"parentId": "114874532326435217",
+			"url": "https://mastodon.social/@ollicle/114876631278152645",
+			"private": true,
+			"date": "2025-07-18T22:38:04.000Z",
+			"via": "fediverse"
+		}
+	]
+}

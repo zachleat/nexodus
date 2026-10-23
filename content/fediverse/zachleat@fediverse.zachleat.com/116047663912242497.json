@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "116047706145072723",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/116047706145072723",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-10T18:17:49.252Z",
+			"content": "<p>look, this is a pretty esoteric wrinkle but let’s see what the LLM would have said</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116047757094581446",
+			"parentId": 0,
+			"url": "https://indieweb.social/@anthony/116047757061947999",
+			"author": {
+				"name": "Anthony",
+				"url": "https://indieweb.social/@anthony",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/693/059/248/931/906/original/2d9b808801cf2aef.png"
+			},
+			"date": "2026-02-10T18:30:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not yet! 😉</p><p>Would you be willing to file a bug for it? I'll forward it to relevant people. <a href=\"https://bugs.webkit.org/enter_bug.cgi?product=WebKit&amp;component=New+Bugs\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bugs.webkit.org/enter_bug.cgi?</span><span class=\"invisible\">product=WebKit&amp;component=New+Bugs</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116047804005552854",
+			"parentId": "116047706145072723",
+			"url": "https://fediverse.zachleat.com/@zachleat/116047804005552854",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-10T18:42:42.486Z",
+			"content": "<p>what’s the going rate for babysitting</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116048058961684554",
+			"parentId": "116047757094581446",
+			"url": "https://fediverse.zachleat.com/@zachleat/116048058961684554",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-10T19:47:32.810Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@anthony\" class=\"u-url mention\">@<span>anthony</span></a></span> I’ve done it! <a href=\"https://bugs.webkit.org/show_bug.cgi?id=307455\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bugs.webkit.org/show_bug.cgi?i</span><span class=\"invisible\">d=307455</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116048143956115695",
+			"parentId": "116048058961684554",
+			"url": "https://indieweb.social/@anthony/116048143912472384",
+			"author": {
+				"name": "Anthony",
+				"url": "https://indieweb.social/@anthony",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/693/059/248/931/906/original/2d9b808801cf2aef.png"
+			},
+			"date": "2026-02-10T20:09:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks! I've forwarded it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116048146969140111",
+			"parentId": "116048143956115695",
+			"url": "https://fediverse.zachleat.com/@zachleat/116048146969140111",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-10T20:09:55.697Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@anthony\" class=\"u-url mention\">@<span>anthony</span></a></span> appreciate you Anthony! 🙌</p>",
+			"via": "fediverse"
+		}
+	]
+}

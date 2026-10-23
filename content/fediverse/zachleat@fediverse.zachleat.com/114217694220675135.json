@@ -1,0 +1,251 @@
+{
+	"comments": [
+		{
+			"id": "114217708638166947",
+			"parentId": 0,
+			"url": "https://social.chriswb.dev/@chrisw_b/statuses/01JQ46CYQWHWJX53RV20X9F9V8",
+			"author": {
+				"name": "chris b 💖",
+				"url": "https://social.chriswb.dev/@chrisw_b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/914/718/112/512/229/original/cc73e4eaeed27df9.png"
+			},
+			"date": "2025-03-24T13:45:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> auth0 just sent me a CVE about their NextJS because we use their nextjs-auth0 package 😬 <a href=\"https://sec.okta.com/articles/nextjs-CVE-202529927/\" rel=\"nofollow noopener\" target=\"_blank\">https://sec.okta.com/articles/nextjs-CVE-202529927/</a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217722491320589",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/114217722451274166",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2025-03-24T13:48:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://github.com/vercel/next.js/security/advisories/GHSA-f82v-jwr5-mffw\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vercel/next.js/secu</span><span class=\"invisible\">rity/advisories/GHSA-f82v-jwr5-mffw</span></a></p><p>EDIT: Oh shit no, that's a different major issue. Yikes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217726948619551",
+			"parentId": "114217708638166947",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217726948619551",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T13:50:02.708Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span> ah, yeah — I saw some discussion about that! That’s why I went to socket to look at the reports, but this seems unrelated?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217741369435122",
+			"parentId": "114217726948619551",
+			"url": "https://social.chriswb.dev/@chrisw_b/statuses/01JQ46W89KJ8CYHCPCZB4XSW3S",
+			"author": {
+				"name": "chris b 💖",
+				"url": "https://social.chriswb.dev/@chrisw_b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/914/718/112/512/229/original/cc73e4eaeed27df9.png"
+			},
+			"date": "2025-03-24T13:53:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh yeah, you're right! sorry I didn't actually finish reading everything first- looks like it's just a mistake though; someone squatting a non-scoped version of the same package: <a href=\"https://github.com/jridgewell/gen-mapping/issues/12\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/jridgewell/gen-mapping/issues/12</a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217748335051730",
+			"parentId": "114217741369435122",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217748335051730",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T13:55:29.038Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span> whoa, this is a *wild* mistake by the socket team then? They’re reporting every single version of this package as malware</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217762894149278",
+			"parentId": 0,
+			"url": "https://mastodon.social/@timsev/114217762828141939",
+			"author": {
+				"name": "Tim Severien",
+				"url": "https://mastodon.social/@timsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/338/141/483/533/original/253f6de61dd10af0.jpg"
+			},
+			"date": "2025-03-24T13:59:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Diving into it now. It seems that socket.dev sources its info from osv.dev, which claims the package has embedded malicious code. Not sure where that is coming from.<br>- <a href=\"https://test.osv.dev/vulnerability/MAL-2022-3326\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">test.osv.dev/vulnerability/MAL</span><span class=\"invisible\">-2022-3326</span></a><br>- <a href=\"https://cwe.mitre.org/data/definitions/506.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cwe.mitre.org/data/definitions</span><span class=\"invisible\">/506.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217764754090116",
+			"parentId": "114217748335051730",
+			"url": "https://social.chriswb.dev/@chrisw_b/statuses/01JQ477AT6ZASV59Z4H8QAD1RX",
+			"author": {
+				"name": "chris b 💖",
+				"url": "https://social.chriswb.dev/@chrisw_b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/914/718/112/512/229/original/cc73e4eaeed27df9.png"
+			},
+			"date": "2025-03-24T13:59:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah I'm guessing they use this tool, and I'm baffled that this would go unaddressed so long? <a href=\"https://github.com/anchore/grype/issues/1701\" rel=\"nofollow noopener\" target=\"_blank\">https://github.com/anchore/grype/issues/1701</a></p><p>name squatting has been an issue with npm forever, telling scoped packages and non scoped apart feels essential?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217766494062225",
+			"parentId": "114217762894149278",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217766494062225",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T14:00:06.124Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@timsev\" class=\"u-url mention\">@<span>timsev</span></a></span> someone linked me to <a href=\"https://github.com/jridgewell/gen-mapping/issues/12\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jridgewell/gen-mapp</span><span class=\"invisible\">ing/issues/12</span></a> which seems to suggest a `gen-mapping` report from 2022 is being misattributed to this namespaced package</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217771282489842",
+			"parentId": "114217764754090116",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217771282489842",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T14:01:19.188Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span> WOW.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217773349032397",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/114217773284631831",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2025-03-24T14:01:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Why _didn't_ the do it for the last version? 😉 </p><p>Now, that is the questions...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217798228709704",
+			"parentId": "114217773349032397",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217798228709704",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T14:08:10.355Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217800955296523",
+			"parentId": "114217766494062225",
+			"url": "https://mastodon.social/@timsev/114217800820940283",
+			"author": {
+				"name": "Tim Severien",
+				"url": "https://mastodon.social/@timsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/338/141/483/533/original/253f6de61dd10af0.jpg"
+			},
+			"date": "2025-03-24T14:08:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah, that could explain things!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217821417117848",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114217821417117848",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T14:14:04.183Z",
+			"content": "<p>Update: thanks to <span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span> for hunting this down: looks like a huge flaw in the vulnerability scanner being used by these tools (it ignores namespaces on package names!)</p><p>More info:</p><p><a href=\"https://github.com/jridgewell/gen-mapping/issues/12\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jridgewell/gen-mapp</span><span class=\"invisible\">ing/issues/12</span></a><br /><a href=\"https://github.com/anchore/grype/issues/1701\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anchore/grype/issue</span><span class=\"invisible\">s/1701</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217859604765879",
+			"parentId": "114217821417117848",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217859604765879",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T14:23:46.879Z",
+			"content": "",
+			"via": "fediverse"
+		},
+		{
+			"id": "114218211912776815",
+			"parentId": "114217859604765879",
+			"url": "https://fediverse.zachleat.com/@zachleat/114218211912776815",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T15:53:22.671Z",
+			"content": "<p>it’s hard not to be jaded when facial recognition is being used in criminal investigations while our industry is having trouble accurately testing whether two strings are equal</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114218824553018561",
+			"parentId": "114217821417117848",
+			"url": "https://fediverse.zachleat.com/@zachleat/114218824553018561",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T18:29:10.821Z",
+			"content": "<p>The <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@SocketSecurity\" class=\"u-url mention\">@<span>SocketSecurity</span></a></span> folks have quickly fixed this one:</p><p><a href=\"https://bsky.app/profile/socket.dev/post/3ll5dewnrx22b\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/socket.dev/po</span><span class=\"invisible\">st/3ll5dewnrx22b</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114221773743108861",
+			"parentId": "114217859604765879",
+			"url": "https://techhub.social/@develwithoutacause/114221773621583269",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2025-03-25T06:59:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>ACTUALLY `name` was deprecated after two versions and now links to `<span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@name\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>name</span></a></span>/name` which contains the same code.</p><p>They're completely different.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114223203084271661",
+			"parentId": "114221773743108861",
+			"url": "https://fediverse.zachleat.com/@zachleat/114223203084271661",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-25T13:02:41.906Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@name\" class=\"u-url mention\">@<span>name</span></a></span> oh no.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114500566746406571",
+			"parentId": "114217821417117848",
+			"url": "https://fediverse.zachleat.com/@zachleat/114500566746406571",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-13T12:39:55.521Z",
+			"content": "<p>Another update: the socket.dev folks fixed this on their end almost immediately but this has now also been fixed upstream in `grype` too: <a href=\"https://github.com/anchore/grype/issues/1701\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anchore/grype/issue</span><span class=\"invisible\">s/1701</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "114140100185222906",
+			"parentId": 0,
+			"url": "https://indieweb.social/@McNeely/114140100169942661",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2025-03-10T20:48:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is sort of like one of those a square is a rectangle but rectangular is not a square scenarios right? Progressive enhancement doesn't have to be broadly available, but broadly available features raise the baseline for progressive enhancement.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114140132400509584",
+			"parentId": "114140100185222906",
+			"url": "https://ruby.social/@konnorrogers/114140132356542747",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2025-03-10T20:56:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>McNeely</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>im not sure i follow how the analogy fits.</p><p>To me its, \"if this doesn't work, what are the consequences?\"</p><p>If accent-color isnt supported, not a big deal. Colors are off, so what.</p><p>If CSS nesting isnt supported, your whole site may be borked with no way to fix it.</p><p>\"What is the blast radius, and how much of the blast radius can I prevent via things like polyfills, fallbacks, etc\"</p><p>For something like native CSS nesting, you really cant prevent it other than by not using it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114140203151084747",
+			"parentId": "114140132400509584",
+			"url": "https://fediverse.zachleat.com/@zachleat/114140203151084747",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-10T21:14:43.434Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\">@<span>McNeely</span></a></span> right! What happens to the experience of visitors with browsers outside of the gated community of Baseline browsers?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114140220561936891",
+			"parentId": "114140203151084747",
+			"url": "https://fediverse.zachleat.com/@zachleat/114140220561936891",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-10T21:19:09.102Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\">@<span>McNeely</span></a></span> rounded corners is the classic OG example of this — we used to bend over backwards with heavy JavaScript to get rounded corners and then CSS border-radius showed up. We swapped to use the CSS method even when it was Limited Availability (to frame it in modern Baseline terms) because improving performance is a more impactful equalizer than pixel perfection</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114140258638010003",
+			"parentId": "114140132400509584",
+			"url": "https://mastodon.social/@jakelazaroff/114140258028820218",
+			"author": {
+				"name": "jake lazaroff",
+				"url": "https://mastodon.social/@jakelazaroff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/829/533/556/740/279/original/69a92e79689324bc.png"
+			},
+			"date": "2025-03-10T21:28:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>konnorrogers</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>McNeely</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>or looking at the blast radius from the other end:</p><p>- if a hospital website is broken, someone could die<br>- if a company website is broken, the company makes less money and maybe eventually lays people off<br>- if my personal website is broken, people need to go elsewhere for hot takes on web components</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114140284233037296",
+			"parentId": "114140258638010003",
+			"url": "https://fediverse.zachleat.com/@zachleat/114140284233037296",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-10T21:35:20.646Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\">@<span>McNeely</span></a></span> whew, that last one is truly worst case</p><p>*runs away*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114140292827906268",
+			"parentId": 0,
+			"url": "https://lea.lgbt/@lea/114140292780861426",
+			"author": {
+				"name": "Lea Rosema",
+				"url": "https://lea.lgbt/@lea",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/966/669/846/784/668/original/f71cb78e4f341a20.jpeg"
+			},
+			"date": "2025-03-10T21:37:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> additionally, I would also argue: baseline is still an assumption about which features are available to your users. A good example for that is maybe a book store. Not everybody will update their e-reader. Baseline features might not be available on the e-reader device. The book site might look like a mess there.</p><p>Baseline won't safe you; you still need to investigate how users use a site. But that would require to track users. Better: Progressive enhancement by default. 💜</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114141422064530354",
+			"parentId": "114140284233037296",
+			"url": "https://ruby.social/@konnorrogers/114141422037450724",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2025-03-11T02:24:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>McNeely</span></a></span> </p><p>Those definitely all seem equally dire...</p>",
+			"via": "fediverse"
+		}
+	]
+}

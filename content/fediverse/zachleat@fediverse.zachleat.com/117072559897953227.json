@@ -1,0 +1,246 @@
+{
+	"comments": [
+		{
+			"id": "117072897859595229",
+			"parentId": 0,
+			"url": "https://mastodon.social/@worik/117072897630110636",
+			"author": {
+				"name": "Worik",
+				"url": "https://mastodon.social/@worik",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-10T19:37:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> </p><p>On a related note: please use idempotent controls by default on user interfaces.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117072918305439651",
+			"parentId": "117072897859595229",
+			"url": "https://mastodon.online/@mwichary/117072918242071073",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T19:42:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@worik\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>worik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What do you mean?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073024482680363",
+			"parentId": "117072918305439651",
+			"url": "https://mastodon.social/@worik/117073023748866286",
+			"author": {
+				"name": "Worik",
+				"url": "https://mastodon.social/@worik",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-10T20:09:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>My Spotify player uses the same button for play and pause</p><p>It is not always 100% responsive</p><p>Did I press it properly? Better press it again, carefully, now I am paused. </p><p>If it had idempotent buttons one that does play, one that does pause, I could press the play button twice, safely, despite the platforms unavoidable poor performance </p><p>Basic UX that is mostly ignored by designers</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073043380668029",
+			"parentId": "117073024482680363",
+			"url": "https://mastodon.online/@mwichary/117073043032307044",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T20:14:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@worik\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>worik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sorry, are you suggesting all switches and checkboxes should also have two idempotent click targets for both states? I’m not sure I see the connection.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073057509560825",
+			"parentId": "117073043380668029",
+			"url": "https://mastodon.social/@worik/117073054915943841",
+			"author": {
+				"name": "Worik",
+				"url": "https://mastodon.social/@worik",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-10T20:17:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Not all, I am not an extremist,  on this matter</p><p>But by default a control should do the same thing if used N times in a row as it does if used once</p><p>Computer interfaces are unavoidable unreliable and idempotence really helps</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073086288369014",
+			"parentId": "117073057509560825",
+			"url": "https://mastodon.online/@mwichary/117073086076283141",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T20:25:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@worik\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>worik</span></a></span> I am not sure I agree with this. Separate playback and pause controls, for example, would add complexity both visually and interactively – I think in this case it would be a net negative overall.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073129964766612",
+			"parentId": "117073086288369014",
+			"url": "https://mastodon.social/@worik/117073128994195908",
+			"author": {
+				"name": "Worik",
+				"url": "https://mastodon.social/@worik",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-10T20:36:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> ...so we will all suffer. UX sacrificed for appearance </p><p>Mēh, this is why I avoid GUIs. All eye candy over utility</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073255254511011",
+			"parentId": "117073129964766612",
+			"url": "https://mastodon.online/@mwichary/117073255005352513",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T21:08:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@worik\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>worik</span></a></span> It’s not just appearance.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073361727637390",
+			"parentId": 0,
+			"url": "https://bne.social/@leadegroot/117073361569245636",
+			"author": {
+				"name": "Lea de Groot TZ+10",
+				"url": "https://bne.social/@leadegroot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/358/626/707/396/187/original/13f15a8f67c13349.png"
+			},
+			"date": "2026-08-10T21:35:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> i loath switches with a passion - i always have to guess what the setting is - and always use a simple checkbox unless work forces me not to. There is no cognitive load in a checkbox.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073442895283480",
+			"parentId": 0,
+			"url": "https://society.oftrolls.com/@mansr/117073442847652805",
+			"private": true,
+			"date": "2026-08-10T21:56:09.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073639179015852",
+			"parentId": 0,
+			"url": "https://c.im/@cwilcox808/117073639153776871",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-08-10T22:46:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>&gt; Is the toggle on when the circle is on the left or right?</p><p>When the toggle switch is 'on' and the language is left-to-right, the thumb is on the right. Whatever the language direction and writing mode, 'on' is 'end', 'off' is 'start'. This convention is true beyond Apple OSes.</p><p>What 'on' and 'off' mean depends on what it does and how it's labeled.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073666343854782",
+			"parentId": "117073639179015852",
+			"url": "https://mastodon.online/@mwichary/117073666171889264",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T22:52:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But note how the first paragraph is wholly unnecessary when explaining checkboxes the same way.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073679882983393",
+			"parentId": "117073666343854782",
+			"url": "https://c.im/@cwilcox808/117073679851754362",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-08-10T22:56:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> <br>True, but checkboxes are form controls and imply nothing will happen until there's a separate submit/save action. Toggle switches are meant to make something happen immediately, no second action required.<br><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073690749933232",
+			"parentId": "117073679882983393",
+			"url": "https://mastodon.online/@mwichary/117073688234182203",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T22:58:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I don’t believe this is actually true in practice, alas – plenty of counterexamples on either side.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073813301349619",
+			"parentId": "117073690749933232",
+			"url": "https://c.im/@cwilcox808/117073813278475138",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-08-10T23:30:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> <br>Sure, lots of examples of these conventions not being followed, on and off the web.<br>But those are the expectations set by the interfaces in the minds of users who have, consciously or unconsciously, learned these associations.<br><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073834204360395",
+			"parentId": "117073813301349619",
+			"url": "https://mastodon.online/@mwichary/117073834023120083",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T23:35:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> I don’t think this is true, either. For as long as checkboxes have been around, there have been instant, form-less checkboxes, both on Mac OS and Windows. This isn’t even something that used to work and broke. It never worked this way. </p><p>Apple just wanted a different looking checkbox for the iPhone, and most of disambiguation between checkboxes and switches since has been wishful postrationalization that has little basis in reality.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117073835188733108",
+			"parentId": "117073834204360395",
+			"url": "https://mastodon.online/@mwichary/117073834955965621",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-08-10T23:35:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> I know of many *designers* who can’t explain the difference, let alone users.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117074366851923239",
+			"parentId": "117073255254511011",
+			"url": "https://mastodon.social/@worik/117074366600896825",
+			"author": {
+				"name": "Worik",
+				"url": "https://mastodon.social/@worik",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-11T01:51:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> Then do not do it!</p><p>Controls that are hard t use are, well, hard to use!!</p><p>I think you are arguing for anti-patterns.  I mostly experience GUIs in Web Apps and on my phone, and I find controls that change their function depending on when they are used are very disconcerting</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117075795600352994",
+			"parentId": "117073813301349619",
+			"url": "https://tech.lgbt/@imsop/117075795558859584",
+			"author": {
+				"name": "Rowan Tommins",
+				"url": "https://tech.lgbt/@imsop",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-08-11T07:54:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Honestly, that supposed rule has never even occurred to me. The main place I see switches used is those deliberately hard-to-use \"privacy\" popups, where they're just form elements with a submit button.</p><p>My thought process on immediate vs on-submit is more like \"hmm, I can't see the Save button, so I guess I just close the window and hope it auto-saved\". Half the time, I load the page back up to check.</p><p>So yeah, if you're relying on that distinction being understood, please stop and just add a small flash message saying \"Saved\" when I tick a checkbox.</p>",
+			"via": "fediverse"
+		}
+	]
+}

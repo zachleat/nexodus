@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "113844285466012315",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/113844285416147087",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2025-01-17T14:58:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If only we could have `:after` elements on &lt;img&gt; elements and we could `content: ' 💩 ';` them for full effect!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113844313723684446",
+			"parentId": "113844285466012315",
+			"url": "https://yatil.social/@yatil/113844313705578114",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2025-01-17T15:06:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> :has(img:not([alt]))::after {<br>  content: \"💩\";<br>}</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113844322388755754",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Kilian/113844322105671780",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://mastodon.social/@Kilian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/567/080/777/595/original/3126534d0903d30f.jpg"
+			},
+			"date": "2025-01-17T15:08:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is part of my imaginary \"no chill\"/pedantic/\"zero tolerance\" browser rendering mode.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113844376550486669",
+			"parentId": "113844313723684446",
+			"url": "https://fediverse.zachleat.com/@zachleat/113844376550486669",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-17T15:22:07.738Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\">@<span>yatil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> it’s turtle poop all the way down!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113844379020221163",
+			"parentId": "113844322388755754",
+			"url": "https://fediverse.zachleat.com/@zachleat/113844379020221163",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-17T15:22:45.421Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Kilian\" class=\"u-url mention\">@<span>Kilian</span></a></span> XHTML when??</p><p>*runs away*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113844544008211469",
+			"parentId": "113844379020221163",
+			"url": "https://yatil.social/@yatil/113844543986525930",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2025-01-17T16:04:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Kilian\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Kilian</span></a></span> I think it’s more FuckAroundAndFindOutTML.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113846611611130898",
+			"parentId": "113844313723684446",
+			"url": "https://mastodon.social/@ollicle/113846611576135873",
+			"author": {
+				"name": "Ollie Boermans",
+				"url": "https://mastodon.social/@ollicle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/494/731/887/601/original/cd153c11973efda8.png"
+			},
+			"date": "2025-01-18T00:50:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Does that missing alt need alternative text 😉, e.g.</p><p>:has(img:not([alt]))::after {<br>  content: \"💩\" / \"A neat pile of soft brown feces with a smiling face (eyes contact)\";<br>}</p>",
+			"via": "fediverse"
+		}
+	]
+}

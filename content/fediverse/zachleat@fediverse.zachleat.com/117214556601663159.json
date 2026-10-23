@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "117214563256805321",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriskirknielsen/117214563240938662",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2026-09-04T20:04:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> just one more javascript bro please it'll fix everything</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117214654772769396",
+			"parentId": 0,
+			"url": "https://mastodon.social/@loucyx/117214654686598771",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2026-09-04T20:28:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if a website is running in \"Vercel\", it doesn't work in LibreWolf because they have that idiotic \"Vercel Security Checkpoint\" thing that requires tracking you to work 🤦🏻‍♀️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117214663916574700",
+			"parentId": "117214654772769396",
+			"url": "https://fediverse.zachleat.com/@zachleat/117214663916574700",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-04T20:30:31.734Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\">@<span>loucyx</span></a></span> you can disable that checkpoint in settings! but there be different dragons when you do that, since they charge for bandwidth 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117214686173140546",
+			"parentId": "117214663916574700",
+			"url": "https://mastodon.social/@loucyx/117214685985250694",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2026-09-04T20:36:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah ... I try to see the silver lining: Using Vercel is such a red flag, it's good I avoided a site using it.</p>",
+			"via": "fediverse"
+		}
+	]
+}

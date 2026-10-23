@@ -1,0 +1,327 @@
+{
+	"comments": [
+		{
+			"id": "114189997680915638",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/114189997588859698",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-03-19T16:18:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Some parsers can't even handle that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190013641503495",
+			"parentId": 0,
+			"url": "https://follow.ethanmarcotte.com/@beep/114190013594433503",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2025-03-19T16:22:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i have been using markdown for [redacted] years, and i STILL need to look up the syntax for images like 60% of the time</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190017956268079",
+			"parentId": "114189997680915638",
+			"url": "https://fediverse.zachleat.com/@zachleat/114190017956268079",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-19T16:23:17.037Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> what</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190020002034466",
+			"parentId": "114190013641503495",
+			"url": "https://fediverse.zachleat.com/@zachleat/114190020002034466",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-19T16:23:48.252Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> I think it’s `&lt;img src alt&gt;` now</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190027021081452",
+			"parentId": "114190017956268079",
+			"url": "https://mastodon.cthos.dev/@cthos/114190026905877240",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-03-19T16:25:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That example of markdown. Just doesn't render a link.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190031893717375",
+			"parentId": "114190020002034466",
+			"url": "https://follow.ethanmarcotte.com/@beep/114190029765432071",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2025-03-19T16:26:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the srcset syntax approaches the complexity of a single emacs command</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190031472005102",
+			"parentId": "114190031893717375",
+			"url": "https://follow.ethanmarcotte.com/@beep/114190031467247895",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2025-03-19T16:26:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i suppose this jokes works for markdown AND html whoops dm fai</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190034221497134",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cferdinandi/114190034143471603",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2025-03-19T16:27:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yea, I absolutely type my images as plain old HTML in my markdown because of this shit.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190038364408715",
+			"parentId": "114190013641503495",
+			"url": "https://typo.social/@pixelambacht/114190038321479553",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2025-03-19T16:28:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You forgot to put a link in parenthesis after [redacted] *pushes glasses up*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190044180839440",
+			"parentId": "114190038364408715",
+			"url": "https://typo.social/@pixelambacht/114190044104504603",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2025-03-19T16:29:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>-signed, Cap. Obvious</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190051606102409",
+			"parentId": "114190013641503495",
+			"url": "https://fosstodon.org/@chris_hayes/114190051569141676",
+			"private": true,
+			"date": "2025-03-19T16:31:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190078844631235",
+			"parentId": "114190027021081452",
+			"url": "https://fediverse.zachleat.com/@zachleat/114190078844631235",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-19T16:38:46.120Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> oh, huh — I haven’t encountered that!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190083836570484",
+			"parentId": "114190031472005102",
+			"url": "https://fediverse.zachleat.com/@zachleat/114190083836570484",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-19T16:40:02.290Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> my kids eat emacs all the time, it’s convenient to just throw one in the microwave and have instant access to… wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190086092179109",
+			"parentId": "114190044180839440",
+			"url": "https://fediverse.zachleat.com/@zachleat/114190086092179109",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-19T16:40:36.709Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@pixelambacht\" class=\"u-url mention\">@<span>pixelambacht</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> [oh no]</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190091130839384",
+			"parentId": "114190078844631235",
+			"url": "https://mastodon.cthos.dev/@cthos/114190091075950281",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-03-19T16:41:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I can't remember where I ran into that, markdown-it handles it fine, but yeah, anyhow I just use HTML for safety now. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190109719499641",
+			"parentId": "114190083836570484",
+			"url": "https://follow.ethanmarcotte.com/@beep/114190109694468644",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2025-03-19T16:46:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i’ve always been more of a vimicelli fan mysel…wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190115893718790",
+			"parentId": "114190051606102409",
+			"url": "https://follow.ethanmarcotte.com/@beep/114190110655484896",
+			"private": true,
+			"date": "2025-03-19T16:46:51.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190125869811408",
+			"parentId": "114190013641503495",
+			"url": "https://hackers.town/@randomgeek/114190125815461692",
+			"author": {
+				"name": "Random Geek",
+				"url": "https://hackers.town/@randomgeek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/773/610/553/483/original/b4b0269e9d69fb49.jpeg"
+			},
+			"date": "2025-03-19T16:50:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's why a) I don't like Markdown; and b) I stick to a simplified core syntax.</p><p>Which of course does not overlap 100% with CommonMark.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190163690801469",
+			"parentId": "114190031893717375",
+			"url": "https://mastodon.social/@wtrmt/114190163270241752",
+			"author": {
+				"name": "Gabriel N",
+				"url": "https://mastodon.social/@wtrmt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/982/981/498/480/original/08fe9ecb18fc93b7.png"
+			},
+			"date": "2025-03-19T17:00:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this happens to me with Emmet when autocompleting code. I do have to go back to read the docs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190174421250140",
+			"parentId": 0,
+			"url": "https://zirk.us/@darby3/114190174405556102",
+			"author": {
+				"name": "Darby M. Dixon III",
+				"url": "https://zirk.us/@darby3",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/948/774/525/570/067/original/8efbbc971b510b0a.png"
+			},
+			"date": "2025-03-19T17:03:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> don't need images in markdown when you can just use a thousand words instead</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190191667213716",
+			"parentId": "114190174421250140",
+			"url": "https://mastodon.cthos.dev/@cthos/114190191597755310",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-03-19T17:07:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://zirk.us/@darby3\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>darby3</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"use this one simple trick to increase your word count\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190193694843899",
+			"parentId": "114190109719499641",
+			"url": "https://fediverse.zachleat.com/@zachleat/114190193694843899",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-19T17:07:58.594Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> what MAC address do french farmers deliver metaverse manure to when AI emacron raises the retirement age</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190197354745097",
+			"parentId": "114190174421250140",
+			"url": "https://fediverse.zachleat.com/@zachleat/114190197354745097",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-19T17:08:54.440Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://zirk.us/@darby3\" class=\"u-url mention\">@<span>darby3</span></a></span> I like this mindset</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190216068423787",
+			"parentId": 0,
+			"url": "https://social.pollux.casa/@adele/statuses/01JPQPAZFHJ35M9QNRZZBT348P",
+			"author": {
+				"name": "Adële 🐁!",
+				"url": "https://social.pollux.casa/@adele",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/076/937/961/045/248/original/57bd7823ee2dfcc8.png"
+			},
+			"date": "2025-03-19T17:13:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes, I agree, adding link to an image is possible but not very easy to do. It is the limit of MD. But, for simple text, without image, <a href=\"https://social.pollux.casa/tags/markdown\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Markdown</span></a> stays magic! 🙂​</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114190783965464082",
+			"parentId": 0,
+			"url": "https://mastodon.social/@stegrainer/114190783670507826",
+			"author": {
+				"name": "Ste Grainer",
+				"url": "https://mastodon.social/@stegrainer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/616/132/169/089/783/original/f5974340e6258025.png"
+			},
+			"date": "2025-03-19T19:38:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I just never use images in markdown … something in my brain can never remember the format. Links, fine. Images, have to look it up every time so I just stopped trying.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114192460327725395",
+			"parentId": "114190086092179109",
+			"url": "https://mastodon.social/@ollicle/114192460273822280",
+			"private": true,
+			"date": "2025-03-20T02:44:23.000Z",
+			"via": "fediverse"
+		}
+	]
+}

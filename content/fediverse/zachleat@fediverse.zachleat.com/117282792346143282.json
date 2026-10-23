@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "117282821137625031",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/117282821025199972",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2026-09-16T21:23:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>const date = new Date();<br>const month = date.getMonth();<br>let name = 'icon-confusion';<br>if (month &gt; 2 &amp;&amp; month &lt; 6) {<br>    name = 'icon-spring';<br>} else if (month &gt; 8) {<br>   name = 'icon-fall';<br>}<br>customElements.define(name, definition);</p><p>Problem solved??</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117282892074935688",
+			"parentId": "117282821137625031",
+			"url": "https://fediverse.zachleat.com/@zachleat/117282892074935688",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-16T21:41:50.810Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> I like seasonally appropriate component names!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117284809630617740",
+			"parentId": "117282821137625031",
+			"url": "https://mastodon.social/@stuffbreaker/117284809565593822",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://mastodon.social/@stuffbreaker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/205/514/208/956/530/original/481cc1c3320f9ba8.jpg"
+			},
+			"date": "2026-09-17T05:49:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> does this mean the site breaks every couple of months because the tag name changes? It's like a forced acknowledgement.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117286220184627289",
+			"parentId": "117284809630617740",
+			"url": "https://mastodon.social/@westbrook/117286220103824605",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2026-09-17T11:48:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stuffbreaker</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “Breaks”? The tag either upgrades or it doesn’t. Breaks is for weaker, less capable client side APIs the need far less frequent version management work. </p><p>But, with different names you could put different ones in different places and get seasonally different experiences. Maybe the confusion season includes A LOT more. Maybe fall and spring deserve different icons. Maybe I’m not pushing hard enough?</p><p>The power is yours!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117287191963325520",
+			"parentId": "117286220184627289",
+			"url": "https://fediverse.zachleat.com/@zachleat/117287191963325520",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-17T15:55:21.903Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\">@<span>stuffbreaker</span></a></span> look, I’ve thought about adding a on:time condition to `&lt;is-land&gt;` so maybe on:season makes sense too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117287466389439914",
+			"parentId": "117287191963325520",
+			"url": "https://c.im/@cwilcox808/117287466373556532",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-09-17T17:05:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>It would presumably be based on the author's hemisphere, you don't want to request the user's location just to get their hemisphere.<br><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stuffbreaker</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117287474850120209",
+			"parentId": "117287466389439914",
+			"url": "https://mastodon.social/@westbrook/117287473577311750",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2026-09-17T17:06:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stuffbreaker</span></a></span> </p><p>We'll definitely need to get TC39 onto adding this to Temporal so it can be localized, accessible, and secure!</p>",
+			"via": "fediverse"
+		}
+	]
+}

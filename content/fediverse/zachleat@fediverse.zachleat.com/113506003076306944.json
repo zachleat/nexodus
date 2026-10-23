@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "113510226101824751",
+			"parentId": 0,
+			"url": "https://front-end.social/@kolombiken/113510226075167609",
+			"author": {
+				"name": "Kolombiken",
+				"url": "https://front-end.social/@kolombiken",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/254/954/589/618/051/original/5b05d859a87503fe.jpg"
+			},
+			"date": "2024-11-19T15:03:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> This is so cool! <br>I wish I could do this with my toots from my old server. <br>Maybe I can? 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113510311569586232",
+			"parentId": "113510226101824751",
+			"url": "https://fediverse.zachleat.com/@zachleat/113510311569586232",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-11-19T15:25:00.660Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@kolombiken\" class=\"u-url mention\">@<span>kolombiken</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> if you’re asking about Mastodon support, unfortunately no!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113519468541811875",
+			"parentId": "113510311569586232",
+			"url": "https://front-end.social/@kolombiken/113519468509261768",
+			"author": {
+				"name": "Kolombiken",
+				"url": "https://front-end.social/@kolombiken",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/254/954/589/618/051/original/5b05d859a87503fe.jpg"
+			},
+			"date": "2024-11-21T06:13:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Right! But maybe it could be forked and adapted? Hmm.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113521199649079260",
+			"parentId": "113519468541811875",
+			"url": "https://fediverse.zachleat.com/@zachleat/113521199649079260",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-11-21T13:33:59.569Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@kolombiken\" class=\"u-url mention\">@<span>kolombiken</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> I am currently noodling around with this, which is probably a better path forward: <a href=\"https://nexodus.zachleat.dev/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">nexodus.zachleat.dev/</span><span class=\"invisible\"></span></a></p><p><a href=\"https://github.com/zachleat/nexodus\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zachleat/nexodus</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113521318578407978",
+			"parentId": "113521199649079260",
+			"url": "https://front-end.social/@kolombiken/113521318473620970",
+			"author": {
+				"name": "Kolombiken",
+				"url": "https://front-end.social/@kolombiken",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/254/954/589/618/051/original/5b05d859a87503fe.jpg"
+			},
+			"date": "2024-11-21T14:04:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Cool! Thanks!</p>",
+			"via": "fediverse"
+		}
+	]
+}

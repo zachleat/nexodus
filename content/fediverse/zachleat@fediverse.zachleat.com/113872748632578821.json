@@ -1,0 +1,168 @@
+{
+	"comments": [
+		{
+			"id": "113872817217460837",
+			"parentId": 0,
+			"url": "https://mastodon.social/@kornel/113872817143434053",
+			"author": {
+				"name": "Kornel",
+				"url": "https://mastodon.social/@kornel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/189/022/015/904/original/8e79f5a832580abb.jpg"
+			},
+			"date": "2025-01-22T15:54:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah. You should be getting better quality, sharper color. <br>Number of browsers that support WebP but not AVIF is shrinking, so maybe save some time by dropping the WebP alternative?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872825034211350",
+			"parentId": 0,
+			"url": "https://mastodon.world/@exchgr/113872824957103863",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2025-01-22T15:56:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 2 seconds for a more compatible, higher efficiency codec? yeah i’d say so. that time difference may even be just noise depending on what else the build server is doing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872835945121826",
+			"parentId": 0,
+			"url": "https://mas.to/@snugug/113872835797160981",
+			"author": {
+				"name": "Snugug",
+				"url": "https://mas.to/@snugug",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/362/296/905/498/284/original/4ea29a625c38b349.jpeg"
+			},
+			"date": "2025-01-22T15:59:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> absolutely. AVIF's widespread support is why I need to jump through hoops to support HDR images, and find it generally better than webp</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872897589170283",
+			"parentId": "113872817217460837",
+			"url": "https://fediverse.zachleat.com/@zachleat/113872897589170283",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-22T16:15:24.248Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kornel\" class=\"u-url mention\">@<span>kornel</span></a></span> valuable advice, thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872913274761878",
+			"parentId": "113872825034211350",
+			"url": "https://fediverse.zachleat.com/@zachleat/113872913274761878",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-22T16:19:23.591Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@exchgr\" class=\"u-url mention\">@<span>exchgr</span></a></span> yeah 100% I think the uneasiness there is mostly around the the reliability of the build cache — largely out of my control</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872914001643275",
+			"parentId": "113872835945121826",
+			"url": "https://fediverse.zachleat.com/@zachleat/113872914001643275",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-22T16:19:34.683Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@snugug\" class=\"u-url mention\">@<span>snugug</span></a></span> thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872922139752758",
+			"parentId": "113872913274761878",
+			"url": "https://mastodon.world/@exchgr/113872922090627479",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2025-01-22T16:21:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oo yeah that might be concerning then. not sure if this helps or what the use case is, but i’ve been using cloudflare images, which handles the transcoding for me (although it’s limited in some slightly frustrating ways)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872931333209061",
+			"parentId": "113872817217460837",
+			"url": "https://front-end.social/@michelle/113872931259006753",
+			"author": {
+				"name": "Michelle Barker",
+				"url": "https://front-end.social/@michelle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/370/485/604/200/743/original/23e8d43aa4ba77a6.png"
+			},
+			"date": "2025-01-22T16:23:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kornel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kornel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  In case it affects your opinion, <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@fershad\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fershad</span></a></span> wrote about the relative power consumption of different image formats a while back: <a href=\"https://fershad.com/writing/power-consumption-jpeg-webp-and-avif/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fershad.com/writing/power-cons</span><span class=\"invisible\">umption-jpeg-webp-and-avif/</span></a>. Based on those findings I wouldn’t want to drop WebP. Things might’ve changed since then though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113872942528180605",
+			"parentId": 0,
+			"url": "https://alpaca.gold/@Jeremiah/113872942392471124",
+			"private": true,
+			"date": "2025-01-22T16:26:47.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113873005628582502",
+			"parentId": "113872931333209061",
+			"url": "https://front-end.social/@eeeps/113873005592013867",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2025-01-22T16:42:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@michelle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>michelle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kornel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kornel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@fershad\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fershad</span></a></span> I discussed this article with <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jonsneyers\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jonsneyers</span></a></span> when it was published. He pointed out that the energy used for network transfer from the server to the client should be accounted for; especially on mobile (radio), this costs much more than CPU decoding. He raised two other points:</p><p>- Energy used to light up the display &gt; both network and decode costs<br>- Encode costs, esp. for AVIF, dwarf decode costs. Worth thinking about # of loads.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113873054013100042",
+			"parentId": "113872931333209061",
+			"url": "https://mastodon.social/@kornel/113873053828838898",
+			"author": {
+				"name": "Kornel",
+				"url": "https://mastodon.social/@kornel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/189/022/015/904/original/8e79f5a832580abb.jpg"
+			},
+			"date": "2025-01-22T16:55:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@michelle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>michelle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@fershad\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fershad</span></a></span> I don't think this should affect anyone's decision about use on regular web pages. The energy usage in absolute terms is too tiny to matter, even multiplied by millions it's still small.</p><p>But from overall energy efficiency perspective you should also consider that larger files will use relatively more energy on all the network equipment that sends them. </p><p>Computers and displays also use energy while waiting for a page to load. Faster pages reduce wasted time.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113880045552979068",
+			"parentId": "113873054013100042",
+			"url": "https://fediverse.zachleat.com/@zachleat/113880045552979068",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-23T22:33:13.522Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kornel\" class=\"u-url mention\">@<span>kornel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@michelle\" class=\"u-url mention\">@<span>michelle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@fershad\" class=\"u-url mention\">@<span>fershad</span></a></span> fwiw I went with your advice and I’m using `avif, auto` for now!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113883362835641882",
+			"parentId": "113873054013100042",
+			"url": "https://indieweb.social/@fershad/113883362808499212",
+			"author": {
+				"name": "fershad",
+				"url": "https://indieweb.social/@fershad",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/367/590/565/962/969/original/cd716072029f969b.jpg"
+			},
+			"date": "2025-01-24T12:36:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kornel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kornel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@michelle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>michelle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eeeps</span></a></span>  thanks for this conversation. I understand the comments about the network energy, especially for radio networks, I didn't test that segment because:</p><p>1. There's no reliable means to measure it<br>2. Network energy is (as far as I know) pretty constant <a href=\"https://fershad.com/writing/website-carbon-beyond-data-transfer/#data-transfer-network-energy-usage\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fershad.com/writing/website-ca</span><span class=\"invisible\">rbon-beyond-data-transfer/#data-transfer-network-energy-usage</span></a></p><p>Eric's points on encoding are very valid, as is Kornel's point about efficiency. Both should be measured further in a more end-to-end kinda test scenario.</p>",
+			"via": "fediverse"
+		}
+	]
+}

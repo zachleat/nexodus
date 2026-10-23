@@ -1,0 +1,62 @@
+{
+	"comments": [
+		{
+			"id": "114778940895682008",
+			"parentId": 0,
+			"url": "https://tech.lgbt/@alex/114778939819294314",
+			"private": true,
+			"date": "2025-07-01T16:33:51.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114778949650687606",
+			"parentId": "114778940895682008",
+			"url": "https://fediverse.zachleat.com/@zachleat/114778949650687606",
+			"private": true,
+			"date": "2025-07-01T16:36:21.534Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114778991211026126",
+			"parentId": "114778949650687606",
+			"url": "https://tech.lgbt/@alex/114778991152047714",
+			"private": true,
+			"date": "2025-07-01T16:46:54.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114779604525767713",
+			"parentId": 0,
+			"url": "https://mastodon.social/@naiyer/114779604464715507",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.social/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/106/196/764/056/397/original/8c86ec3138cda99e.jpg"
+			},
+			"date": "2025-07-01T19:22:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm really thinking about re-introducing MPAs back at work. Ironically, I'm trying to do this for an app which is internally called SPA.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114779750945074328",
+			"parentId": "114778991211026126",
+			"url": "https://fediverse.zachleat.com/@zachleat/114779750945074328",
+			"private": true,
+			"date": "2025-07-01T20:00:08.317Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114779754128211996",
+			"parentId": "114779604525767713",
+			"url": "https://fediverse.zachleat.com/@zachleat/114779754128211996",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-01T20:00:56.887Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@naiyer\" class=\"u-url mention\">@<span>naiyer</span></a></span> I wish you all good things in your endeavors!</p>",
+			"via": "fediverse"
+		}
+	]
+}

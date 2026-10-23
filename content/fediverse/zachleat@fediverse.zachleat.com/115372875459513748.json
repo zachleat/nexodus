@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "115372921951724896",
+			"parentId": 0,
+			"url": "https://mastodon.social/@webreflection/115372921906661653",
+			"author": {
+				"name": "Andrea Giammarchi",
+				"url": "https://mastodon.social/@webreflection",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/533/157/139/951/original/c25324f0bff15935.jpg"
+			},
+			"date": "2025-10-14T14:11:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>eqeq there ...</p><p>if (new MyBoolean(false) == false)<br>  console.log('🥳');</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115372926014379504",
+			"parentId": "115372921951724896",
+			"url": "https://fediverse.zachleat.com/@zachleat/115372926014379504",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-14T14:12:21.578Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@webreflection\" class=\"u-url mention\">@<span>webreflection</span></a></span> worth a mention in the post, for sure. I don’t have control over all of the contexts in which the code will be used though 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115373207301629681",
+			"parentId": "115372926014379504",
+			"url": "https://mastodon.social/@webreflection/115373207243946394",
+			"author": {
+				"name": "Andrea Giammarchi",
+				"url": "https://mastodon.social/@webreflection",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/533/157/139/951/original/c25324f0bff15935.jpg"
+			},
+			"date": "2025-10-14T15:23:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you are passing around a `typeof \"object\"` that is not `null` though ... that will already pass through tons of screening before any comparison against `false` or literally any other `falsy` values ... `new Boolean` is problematic like that, reason not many developers use it ... in Python, that would be a solved problem though 🥲</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115373214088141540",
+			"parentId": "115373207301629681",
+			"url": "https://mastodon.social/@webreflection/115373214048438775",
+			"author": {
+				"name": "Andrea Giammarchi",
+				"url": "https://mastodon.social/@webreflection",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/533/157/139/951/original/c25324f0bff15935.jpg"
+			},
+			"date": "2025-10-14T15:25:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> heck, I am now curious around your use case ... you wrote down what you are after, you didn't write down *why* you are after that 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115374177252675510",
+			"parentId": "115373214088141540",
+			"url": "https://fediverse.zachleat.com/@zachleat/115374177252675510",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-14T19:30:33.960Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@webreflection\" class=\"u-url mention\">@<span>webreflection</span></a></span> maybe a little hard to explain on text but given an arbitrary deeply nested object, I want to add metadata to each property that stores an arbitrary string for that property. the approach I’m using is to convert (for boolean types) primitive booleans to object booleans to add that data and retain the same behavior</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115374568578871339",
+			"parentId": 0,
+			"url": "https://mastodon.social/@vrugtehagel/115374568541104031",
+			"author": {
+				"name": "vrugtehagel",
+				"url": "https://mastodon.social/@vrugtehagel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/836/933/673/824/838/original/ebac2b3dfe126dc0.png"
+			},
+			"date": "2025-10-14T21:10:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's not possible - see <a href=\"https://mastodon.social/@vrugtehagel/115308994476955114\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@vrugtehagel/1</span><span class=\"invisible\">15308994476955114</span></a></p><p>If you want to have metadata for properties, you're probably best off wrapping them with a proxy and using a mechanism (like a prefix or named symbols) to look up the metadata without those properties being included in `Object.keys()` and whatnot.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115376978927014197",
+			"parentId": "115374177252675510",
+			"url": "https://mastodon.social/@webreflection/115376978887497915",
+			"author": {
+				"name": "Andrea Giammarchi",
+				"url": "https://mastodon.social/@webreflection",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/533/157/139/951/original/c25324f0bff15935.jpg"
+			},
+			"date": "2025-10-15T07:23:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you’d be better off with a mirror/schema or a descriptor/accessor that returns such metadata instead when you want to</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115378158533742278",
+			"parentId": "115376978927014197",
+			"url": "https://mastodon.social/@jed/115378158314114304",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2025-10-15T12:23:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@webreflection\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>webreflection</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah, like maybe track the contexts with a &lt;context, id&gt; weakmap and use a &lt;`${id}/${prop}`, metadata&gt; map to track the metadata.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115380505902270444",
+			"parentId": "115378158533742278",
+			"url": "https://fediverse.zachleat.com/@zachleat/115380505902270444",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-10-15T22:20:01.488Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@webreflection\" class=\"u-url mention\">@<span>webreflection</span></a></span> oh, these are great ideas — thank you! I’ll experiment with it!</p>",
+			"via": "fediverse"
+		}
+	]
+}

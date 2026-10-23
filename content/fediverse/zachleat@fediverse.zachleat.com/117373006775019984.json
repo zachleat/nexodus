@@ -1,0 +1,251 @@
+{
+	"comments": [
+		{
+			"id": "117373014010882740",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117373014010882740",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T19:41:02.421Z",
+			"content": "<p>did anyone, uh, test it with multi-account containers before they shipped it or no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373024494062076",
+			"parentId": "117373014010882740",
+			"url": "https://toot.cat/@gkatsev/117373024423785697",
+			"author": {
+				"name": "Gary Katsevman",
+				"url": "https://toot.cat/@gkatsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/965/504/743/655/original/a4ac0cda3b1b952f.jpeg"
+			},
+			"date": "2026-10-02T19:43:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it looks bad. At least for now you can turn it off! <a href=\"https://eldritch.cafe/@lykrast/117362859430939369\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eldritch.cafe/@lykrast/1173628</span><span class=\"invisible\">59430939369</span></a> (set <code>browser.nova.enabled</code> to false)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373028471813260",
+			"parentId": "117373024494062076",
+			"url": "https://fediverse.zachleat.com/@zachleat/117373028471813260",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T19:44:43.080Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@gkatsev\" class=\"u-url mention\">@<span>gkatsev</span></a></span> oh, thank you!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373029718483148",
+			"parentId": 0,
+			"url": "https://nahe.social/@yuliyan/117373029667002108",
+			"author": {
+				"name": "Ю ⁂",
+				"url": "https://nahe.social/@yuliyan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/354/261/696/903/593/original/924deb32d60ccc6c.png"
+			},
+			"date": "2026-10-02T19:45:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@timotheegoguely\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>timotheegoguely</span></a></span> In my opinion they should go even further and use relative values. border-radius:50%</p><p>I really want blobs.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373030101673267",
+			"parentId": "117373014010882740",
+			"url": "https://id.geff.re/@geffrey/statuses/01M3Z2C906GAE4FEDQX91ZYDPZ",
+			"author": {
+				"name": "Geffrey van der Bos",
+				"url": "https://id.geff.re/@geffrey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/960/597/471/251/893/original/7d29aa78bac3ff8e.jpeg"
+			},
+			"date": "2026-10-02T19:45:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No need! AI ran automated tests! They were all green! /s</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373032467380733",
+			"parentId": "117373029718483148",
+			"url": "https://fediverse.zachleat.com/@zachleat/117373032467380733",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T19:45:44.047Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://nahe.social/@yuliyan\" class=\"u-url mention\">@<span>yuliyan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@timotheegoguely\" class=\"u-url mention\">@<span>timotheegoguely</span></a></span> if you’re going to do it, go all in!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373033428107497",
+			"parentId": "117373030101673267",
+			"url": "https://fediverse.zachleat.com/@zachleat/117373033428107497",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T19:45:58.707Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://id.geff.re/@geffrey\" class=\"u-url mention\">@<span>geffrey</span></a></span> oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373035527468316",
+			"parentId": "117373024494062076",
+			"url": "https://toot.cat/@gkatsev/117373035449373143",
+			"author": {
+				"name": "Gary Katsevman",
+				"url": "https://toot.cat/@gkatsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/965/504/743/655/original/a4ac0cda3b1b952f.jpeg"
+			},
+			"date": "2026-10-02T19:46:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's even worse with vertical tabs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373098462119856",
+			"parentId": 0,
+			"url": "https://mastodon.social/@devolute/117373097755288297",
+			"author": {
+				"name": "devolute",
+				"url": "https://mastodon.social/@devolute",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/142/474/609/017/original/b1af8b9e7c70331a.jpg"
+			},
+			"date": "2026-10-02T20:02:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"web 2.0\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373165908688526",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cbirdsong/117373165644335647",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2026-10-02T20:19:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> remember when tabs were shaped like tabs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373300065720498",
+			"parentId": 0,
+			"url": "https://mastodon.green/@adamarmfield/117373300002430663",
+			"author": {
+				"name": "adamarmfield",
+				"url": "https://mastodon.green/@adamarmfield",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-10-02T20:53:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i'm trying the vertical tabs, disorientating at first, i kept thinking my tabs had closed but they were there all along</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373310906340927",
+			"parentId": "117373300065720498",
+			"url": "https://fediverse.zachleat.com/@zachleat/117373310906340927",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T20:56:32.688Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.green/@adamarmfield\" class=\"u-url mention\">@<span>adamarmfield</span></a></span> I wish vertical tab option could be per-window!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373320911445386",
+			"parentId": "117373310906340927",
+			"url": "https://mastodon.green/@adamarmfield/117373320892936227",
+			"author": {
+				"name": "adamarmfield",
+				"url": "https://mastodon.green/@adamarmfield",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-10-02T20:59:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i just tried opening a new window and the list of tabs is empty, not sure if thats what you mean, each window having it's own set of tabs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373338077131303",
+			"parentId": "117373320911445386",
+			"url": "https://fediverse.zachleat.com/@zachleat/117373338077131303",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T21:03:27.281Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.green/@adamarmfield\" class=\"u-url mention\">@<span>adamarmfield</span></a></span> oh, I mean I want to use vertical tabs for some windows but as a global preference that applies to all windows</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373342754136605",
+			"parentId": 0,
+			"url": "https://mastodon.design/@keir/117373342664497310",
+			"author": {
+				"name": "Keir",
+				"url": "https://mastodon.design/@keir",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/427/401/714/474/653/original/8986cc8d97893581.png"
+			},
+			"date": "2026-10-02T21:04:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> from what I’ve seen, I think they’ve leaned hard into it on basically everything :/</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373352599114744",
+			"parentId": "117373338077131303",
+			"url": "https://mastodon.green/@adamarmfield/117373352475628061",
+			"author": {
+				"name": "adamarmfield",
+				"url": "https://mastodon.green/@adamarmfield",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-10-02T21:07:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ok, not sure if firefox UI is scriptable, sounds like something an obscure linux window manager could do, one of those tile windows any which way things</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373379025573708",
+			"parentId": "117373338077131303",
+			"url": "https://mastodon.green/@adamarmfield/117373379007522246",
+			"author": {
+				"name": "adamarmfield",
+				"url": "https://mastodon.green/@adamarmfield",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2026-10-02T21:13:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'd like to have a global list of tabs in some ways, I'm forever hunting through tabs in multiple windows until i find the video that's started playing automatically, it was when firefox started keeping all the windows open on exit thats thing went downhill for me, there'd be 20 windows with 20 tabs each open at all times suddenly</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117376068770311359",
+			"parentId": 0,
+			"url": "https://mastodon.social/@naiyer/117376068685153305",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.social/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/106/196/764/056/397/original/8c86ec3138cda99e.jpg"
+			},
+			"date": "2026-10-03T08:37:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's even worse. They forget to lock the minimum size of PIP, so now you can have picture-in-popsicle.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117377099904587947",
+			"parentId": "117376068770311359",
+			"url": "https://fediverse.zachleat.com/@zachleat/117377099904587947",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-03T13:00:08.215Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@naiyer\" class=\"u-url mention\">@<span>naiyer</span></a></span> I… what</p>",
+			"via": "fediverse"
+		}
+	]
+}

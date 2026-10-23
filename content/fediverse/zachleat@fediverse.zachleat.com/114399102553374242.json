@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "114399177770322952",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mastohost/114399177614233441",
+			"author": {
+				"name": "Masto.host",
+				"url": "https://mastodon.social/@mastohost",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/910/743/585/289/original/7c8b46576fb9b782.png"
+			},
+			"date": "2025-04-25T14:55:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's possible to change your subscription to yearly. </p><p>Just notice that if you go above your plan storage limits, you will be prorated charged for the time left until your next renewal on the upgraded plan.</p><p>If you are okay with that, feel free to email info@masto.host from the email address associated with your Masto.host account, and I can do that for you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114399195231652882",
+			"parentId": "114399177770322952",
+			"url": "https://fediverse.zachleat.com/@zachleat/114399195231652882",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-04-25T14:59:48.960Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mastohost\" class=\"u-url mention\">@<span>mastohost</span></a></span> amazing, thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114399283563997122",
+			"parentId": "114399195231652882",
+			"url": "https://yatil.social/@yatil/114399283543988166",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2025-04-25T15:22:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mastohost\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mastohost</span></a></span> Oh, thanks for asking. I’ll do this, too.</p>",
+			"via": "fediverse"
+		}
+	]
+}

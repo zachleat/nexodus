@@ -1,0 +1,46 @@
+{
+	"comments": [
+		{
+			"id": "115695853394105426",
+			"parentId": 0,
+			"url": "https://toot.cafe/@andrew_chou/115695853284779431",
+			"author": {
+				"name": "Andrew Chou",
+				"url": "https://toot.cafe/@andrew_chou",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/691/647/909/270/original/760621d14dd4abc5.png"
+			},
+			"date": "2025-12-10T14:57:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> feeling this with some deps that we manage. hoping someone chimes in with a solution.</p><p>my personal take is that CLI functionality should ideally be its own module that uses the core functionality as a dep. know this comes with some inconvenience, but that's a cost that I'm okay with.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115695871837526980",
+			"parentId": "115695853394105426",
+			"url": "https://fediverse.zachleat.com/@zachleat/115695871837526980",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-12-10T15:01:43.770Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@andrew_chou\" class=\"u-url mention\">@<span>andrew_chou</span></a></span> the best idea I have right now (and it’s not good) might be a script to help manage package.json overrides at the app code level.</p><p>(also I agree with your take. I’d also accept a dep with an extra CLI that uses Node’s arg parser)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115697139236603036",
+			"parentId": 0,
+			"url": "https://polymaths.social/@kytta/statuses/01KC4YYS4P0MG66S5HFRM80FK8",
+			"private": true,
+			"date": "2025-12-10T20:24:02.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115697259395334742",
+			"parentId": "115697139236603036",
+			"url": "https://fediverse.zachleat.com/@zachleat/115697259395334742",
+			"private": true,
+			"date": "2025-12-10T20:54:36.223Z",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "114201318339743246",
+			"parentId": 0,
+			"url": "https://mas.to/@iamdtms/114201318211613755",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2025-03-21T16:17:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114201539264430189",
+			"parentId": "114201318339743246",
+			"url": "https://fediverse.zachleat.com/@zachleat/114201539264430189",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-21T17:13:18.249Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@iamdtms\" class=\"u-url mention\">@<span>iamdtms</span></a></span> progress is being made!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114205531750994501",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/114205531701284675",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2025-03-22T10:08:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m still glad I asked you if you could release tweetback in open source for everyone to \"save\" their tweets. 🙏</p><p>I agree using a database was not the best choice for people wanting to modify some tweets, but I guess almost nobody needed that anyway.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217534932025733",
+			"parentId": "114205531750994501",
+			"url": "https://fediverse.zachleat.com/@zachleat/114217534932025733",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-03-24T13:01:12.766Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> yeah! I think there were some internal earlier-versions-of-eleventy build performance reasons for that decision too, iirc</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114217762659306118",
+			"parentId": "114217534932025733",
+			"url": "https://mamot.fr/@nhoizey/114217762606639205",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2025-03-24T13:59:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh right, I understand. With more than 100k tweets like me, it could be an issue… 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

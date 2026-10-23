@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "117373024494062076",
+			"parentId": 0,
+			"url": "https://toot.cat/@gkatsev/117373024423785697",
+			"author": {
+				"name": "Gary Katsevman",
+				"url": "https://toot.cat/@gkatsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/965/504/743/655/original/a4ac0cda3b1b952f.jpeg"
+			},
+			"date": "2026-10-02T19:43:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it looks bad. At least for now you can turn it off! <a href=\"https://eldritch.cafe/@lykrast/117362859430939369\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eldritch.cafe/@lykrast/1173628</span><span class=\"invisible\">59430939369</span></a> (set <code>browser.nova.enabled</code> to false)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373028471813260",
+			"parentId": "117373024494062076",
+			"url": "https://fediverse.zachleat.com/@zachleat/117373028471813260",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T19:44:43.080Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@gkatsev\" class=\"u-url mention\">@<span>gkatsev</span></a></span> oh, thank you!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373030101673267",
+			"parentId": 0,
+			"url": "https://id.geff.re/@geffrey/statuses/01M3Z2C906GAE4FEDQX91ZYDPZ",
+			"author": {
+				"name": "Geffrey van der Bos",
+				"url": "https://id.geff.re/@geffrey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/960/597/471/251/893/original/7d29aa78bac3ff8e.jpeg"
+			},
+			"date": "2026-10-02T19:45:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No need! AI ran automated tests! They were all green! /s</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373033428107497",
+			"parentId": "117373030101673267",
+			"url": "https://fediverse.zachleat.com/@zachleat/117373033428107497",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-02T19:45:58.707Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://id.geff.re/@geffrey\" class=\"u-url mention\">@<span>geffrey</span></a></span> oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117373035527468316",
+			"parentId": "117373024494062076",
+			"url": "https://toot.cat/@gkatsev/117373035449373143",
+			"author": {
+				"name": "Gary Katsevman",
+				"url": "https://toot.cat/@gkatsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/965/504/743/655/original/a4ac0cda3b1b952f.jpeg"
+			},
+			"date": "2026-10-02T19:46:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's even worse with vertical tabs</p>",
+			"via": "fediverse"
+		}
+	]
+}

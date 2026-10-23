@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "117292688282755511",
+			"parentId": 0,
+			"url": "https://mas.to/@iamdtms/117292688256184863",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2026-09-18T15:13:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> &lt;toc&gt; reminds me to the army days :) <br><a href=\"https://codepen.io/iamdtms/pen/dydmjme\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codepen.io/iamdtms/pen/dydmjme</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117292700404416778",
+			"parentId": "117292688282755511",
+			"url": "https://fediverse.zachleat.com/@zachleat/117292700404416778",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-18T15:16:14.043Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@iamdtms\" class=\"u-url mention\">@<span>iamdtms</span></a></span> well that’s lovely!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117298049068336055",
+			"parentId": "117292688282755511",
+			"url": "https://c.im/@cwilcox808/117298049053939309",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-09-19T13:56:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@iamdtms\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>iamdtms</span></a></span> <br>Nice! In 2022, putting the dots on their own aria-hidden element was a good improvement. These days, it's no longer necessary (depending on your level of support for older browsers), `content` can have alternative text, including `\"\"` for decorative content.</p><p><a href=\"https://codepen.io/ccwilcox/pen/MYpJrYg?editors=1100\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/ccwilcox/pen/MYpJrY</span><span class=\"invisible\">g?editors=1100</span></a><br><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117298150702142077",
+			"parentId": "117298049068336055",
+			"url": "https://mas.to/@iamdtms/117298150671225634",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2026-09-19T14:22:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Content works. This concept is not about accessibility. Thank you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117298597039546243",
+			"parentId": "117298150702142077",
+			"url": "https://c.im/@cwilcox808/117298597020146992",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-09-19T16:15:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@iamdtms\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>iamdtms</span></a></span> <br>I was just pointing out an option available now that avoids adding unnecessary HTML elements and uses less code overall.</p><p>Yours is forked from a version that had the pseudo-elements attached to `&lt;span class=\"title\"&gt;`. Yours had them attached to an added element, `&lt;span class=\"leaders\" aria-hidden=\"true\"&gt;&lt;/span&gt;`. The only reason to make that change is to prevent the dots from being read by screen readers.<br>My fork goes back to attaching them to `.title` and using `/ \"\"` within the `content` to prevent the dots from being read by screen readers.<br><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117298638464844009",
+			"parentId": "117298597039546243",
+			"url": "https://mas.to/@iamdtms/117298638432968541",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2026-09-19T16:26:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> MVC is often interoperable. </p><p>```<br>Page&amp;amp;nbsp;<br>```</p><p>Could have been a </p><p>```<br>padding-inline-end: 1ch;<br>```</p><p>For the record, and <a href=\"https://mas.to/tags/css\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>css</span></a> content \"...\" is fitting markup-saving each and every line. It's special.</p>",
+			"via": "fediverse"
+		}
+	]
+}

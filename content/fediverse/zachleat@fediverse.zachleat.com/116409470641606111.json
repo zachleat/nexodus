@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "116409569423639060",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/116409569423639060",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-15T16:04:24.690Z",
+			"content": "<p>Here are the Web Platform features sorted by upcoming Widely Available status: <a href=\"https://webstatus.dev/?q=baseline_status%3Anewly&amp;columns=name%2Cbaseline_status&amp;column_options=baseline_status_high_date&amp;sort=baseline_status_asc&amp;num=100\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webstatus.dev/?q=baseline_stat</span><span class=\"invisible\">us%3Anewly&amp;columns=name%2Cbaseline_status&amp;column_options=baseline_status_high_date&amp;sort=baseline_status_asc&amp;num=100</span></a></p><p>HT <a href=\"https://bsky.app/profile/alangdm.bsky.social/post/3mjkakj4ofc25\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/alangdm.bsky.</span><span class=\"invisible\">social/post/3mjkakj4ofc25</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116412027953464273",
+			"parentId": 0,
+			"url": "https://c.im/@cwilcox808/116412027928776243",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-04-16T02:29:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>I just found this chronological list grouped by month. There's even an .ics link.</p><p>I'm on my phone so I haven't looked more closely.</p><p><a href=\"https://rviscomi.github.io/timebase/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rviscomi.github.io/timebase/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415394412402401",
+			"parentId": "116412027953464273",
+			"url": "https://c.im/@cwilcox808/116415394389512696",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2026-04-16T16:45:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>The repo's README reveals more features, like a view of only the Widely Available items and a BCD key view.</p><p><a href=\"https://github.com/rviscomi/timebase\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rviscomi/timebase</span><span class=\"invisible\"></span></a></p><p><a href=\"https://rviscomi.github.io/timebase/?status=widely-available\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rviscomi.github.io/timebase/?s</span><span class=\"invisible\">tatus=widely-available</span></a></p><p><a href=\"https://rviscomi.github.io/timebase/bcd/?status=widely-available\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rviscomi.github.io/timebase/bc</span><span class=\"invisible\">d/?status=widely-available</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116415759351119500",
+			"parentId": "116415394412402401",
+			"url": "https://fediverse.zachleat.com/@zachleat/116415759351119500",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-04-16T18:18:35.489Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\">@<span>cwilcox808</span></a></span> that is great! I did find this view too: <a href=\"https://fediverse.zachleat.com/@zachleat/116409569423639060\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/116409569423639060</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

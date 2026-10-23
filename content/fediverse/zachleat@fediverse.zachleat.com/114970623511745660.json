@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "114970714100169178",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/114970714065098928",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2025-08-04T13:24:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've started using Eleventy Image for the first time today, for the photos on my new Eleventy site, for example on <a href=\"https://activites.nicolas-hoizey.com/activites/2025/07/28/dijon-tournus-jour-4/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">activites.nicolas-hoizey.com/a</span><span class=\"invisible\">ctivites/2025/07/28/dijon-tournus-jour-4/</span></a></p><p>And my own weird trick to reduce build times by 99&nbsp;% is to use `urlFormat` (only for production builds) so images are resized and optimized by Cloudinary… 😅</p><p>As this is my first time, I didn't find if there's a way to define settings per template, of even better a HTML container, instead of attribute overrides on each image. 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114970967369822106",
+			"parentId": "114970714100169178",
+			"url": "https://fediverse.zachleat.com/@zachleat/114970967369822106",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-04T14:28:59.408Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> the transform method does use attributes, yeah. If you’re wanting programmatic access to each image transformation, the transform method is likely not for you. (use the shortcode method instead?) I’d subscribe to something like <a href=\"https://github.com/11ty/eleventy-img/issues/248\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-img/i</span><span class=\"invisible\">ssues/248</span></a> for future work there</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114971114404024840",
+			"parentId": "114970967369822106",
+			"url": "https://mamot.fr/@nhoizey/114971114366336689",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2025-08-04T15:06:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I can use the shortcode in Nunjucks templates indeed. I want to keep using standard Markdown in content files, though, so the transform method is great anyway. I'll use attribute overrides when necessary.</p><p>I also commented the issue, with an additional solution to the one suggested by <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@TheRealNooshu\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>TheRealNooshu</span></a></span>, which is also interesting.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114971905137671694",
+			"parentId": 0,
+			"url": "https://front-end.social/@mxbck/114971905109955347",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://front-end.social/@mxbck",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/056/493/159/698/original/45a5e18ac98225c0.jpg"
+			},
+			"date": "2025-08-04T18:27:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> just tried this on a site with lots of images and dropped a cool 4 minutes off the build. thanks! 🚀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114971940018597689",
+			"parentId": "114971905137671694",
+			"url": "https://fediverse.zachleat.com/@zachleat/114971940018597689",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-04T18:36:20.851Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\">@<span>mxbck</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\">@<span>11ty</span></a></span> *awesome*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114976796581255057",
+			"parentId": 0,
+			"url": "https://mastodon.social/@aaadaaam/114976796546503894",
+			"author": {
+				"name": "Adam Stoddard",
+				"url": "https://mastodon.social/@aaadaaam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/181/435/692/045/original/3fd463116c0fb80b.png"
+			},
+			"date": "2025-08-05T15:11:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this uhhh, feels a lot easier than my \"move the entire build from Cloudflare to GitHub Actions\" approach 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114976821696103826",
+			"parentId": "114976796581255057",
+			"url": "https://fediverse.zachleat.com/@zachleat/114976821696103826",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-08-05T15:17:49.339Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@aaadaaam\" class=\"u-url mention\">@<span>aaadaaam</span></a></span> oh no!! 😭</p>",
+			"via": "fediverse"
+		}
+	]
+}

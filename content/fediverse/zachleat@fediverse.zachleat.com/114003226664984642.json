@@ -1,0 +1,257 @@
+{
+	"comments": [
+		{
+			"id": "114003267421018768",
+			"parentId": 0,
+			"url": "https://mastodon.social/@noleli/114003266915843518",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2025-02-14T16:50:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>knowler</span></a></span> did the same in reverse! <a href=\"https://knowler.dev/blog/to-define-custom-elements-or-not-when-distributing-them\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">knowler.dev/blog/to-define-cus</span><span class=\"invisible\">tom-elements-or-not-when-distributing-them</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003269756599374",
+			"parentId": 0,
+			"url": "https://toot.community/@wavebeem/114003269677470077",
+			"author": {
+				"name": "Sage 🌿",
+				"url": "https://toot.community/@wavebeem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-14T16:50:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> seems sensible to me. i had the thought in the past of using ?tag=another-name, but exposing everything directly is more flexible</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003395844290073",
+			"parentId": 0,
+			"url": "https://mastodon.ml/@bano/114003395808288088",
+			"private": true,
+			"date": "2025-02-14T17:22:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003659991389841",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/114003659933876183",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2025-02-14T18:29:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> FYI the static `define` pattern you describe is a proposed community protocol.</p><p><a href=\"https://github.com/webcomponents-cg/community-protocols/blob/main/proposals/on-demand-definitions.md\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/webcomponents-cg/co</span><span class=\"invisible\">mmunity-protocols/blob/main/proposals/on-demand-definitions.md</span></a></p><p>My hope is that tools and frameworks can use this knowledge to auto-generate the `.define()` call when using a custom element such that you don't need to worry about something like `?nodefine`.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003665534860217",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/114003665496177591",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2025-02-14T18:31:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm curious, how does this pattern work with bundlers?</p><p>I guess you can still `import { Nimble } from './nimble.js?nodefine';` and presumably `import.meta` will be set correctly. Will bundlers tree-shake the `customElements.define` call? Will they tree-shake the class definition entirely if the imported symbol is not used?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003821404890727",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@kytta/114003821361850295",
+			"private": true,
+			"date": "2025-02-14T19:11:02.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003851457092837",
+			"parentId": "114003821404890727",
+			"url": "https://fediverse.zachleat.com/@zachleat/114003851457092837",
+			"private": true,
+			"date": "2025-02-14T19:18:41.696Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003883813060811",
+			"parentId": "114003665534860217",
+			"url": "https://fediverse.zachleat.com/@zachleat/114003883813060811",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-14T19:26:55.410Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> some good discussion on the bundler question documented here from <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\">@<span>jakelazaroff</span></a></span> which I somehow missed: <a href=\"https://til.jakelazaroff.com/html/define-a-custom-element/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">til.jakelazaroff.com/html/defi</span><span class=\"invisible\">ne-a-custom-element/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003891432022542",
+			"parentId": "114003395844290073",
+			"url": "https://fediverse.zachleat.com/@zachleat/114003891432022542",
+			"private": true,
+			"date": "2025-02-14T19:28:51.665Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003893631117216",
+			"parentId": "114003269756599374",
+			"url": "https://fediverse.zachleat.com/@zachleat/114003893631117216",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-14T19:29:25.220Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.community/@wavebeem\" class=\"u-url mention\">@<span>wavebeem</span></a></span> yeah I’m seeing that in a few places too!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003898650176964",
+			"parentId": "114003659991389841",
+			"url": "https://fediverse.zachleat.com/@zachleat/114003898650176964",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-14T19:30:41.805Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> ooh this is lovely — thank you! I’ll link it up from my post</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003956916353156",
+			"parentId": "114003659991389841",
+			"url": "https://indieweb.social/@McNeely/114003956894049423",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2025-02-14T19:45:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wow this is an awesome proposal! Here's hoping it really gets traction 🤞</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114003979095102972",
+			"parentId": "114003883813060811",
+			"url": "https://techhub.social/@develwithoutacause/114003979052535710",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2025-02-14T19:51:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> Ooh duplicating the module between `?define` and not seems pretty rough, though it seems like that's an issue even outside a bundler?</p><p>Limiting all consumers to either `?define` or not seems pretty constraining at scale.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004059584248977",
+			"parentId": "114003893631117216",
+			"url": "https://toot.community/@wavebeem/114004059513552270",
+			"author": {
+				"name": "Sage 🌿",
+				"url": "https://toot.community/@wavebeem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-02-14T20:11:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i've been a little unsure how this works out in practice though... like what's the use case for defining it with a new name? i guess if you just don't like the name that could be useful, and as long as it's not part of a larger system of components with dependencies on each other...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004299304101337",
+			"parentId": "114003979095102972",
+			"url": "https://fediverse.zachleat.com/@zachleat/114004299304101337",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-14T21:12:35.300Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\">@<span>jakelazaroff</span></a></span> well if you’re wanting both mechanisms you probably wouldn’t do import &quot;./nimble.js&quot; with import &quot;./nimble.js?define&quot;, you’d do import &quot;./nimble.js&quot; with `Nimble.define()`—right?</p><p>(which to me seems like yet another vote for opt-in rather than opt-out)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004307896121308",
+			"parentId": "114004059584248977",
+			"url": "https://fediverse.zachleat.com/@zachleat/114004307896121308",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-14T21:14:46.404Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.community/@wavebeem\" class=\"u-url mention\">@<span>wavebeem</span></a></span> for sure — it’s just a preference for small projects. I can see the argument that you might not want renames for larger projects</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004332938456842",
+			"parentId": "114004299304101337",
+			"url": "https://techhub.social/@develwithoutacause/114004332895354049",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2025-02-14T21:21:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> Sure, you can not use the feature, but you need to *know* you can't use it in that situation.</p><p>Any given file can import `?define` but it needs to be confident that no *other* file imports without `?define`, which seems hard to enforce.</p><p>I guess you could codify this pattern into your bundler or something and rewrite the import / throw an error, but it's still complexity which needs to be managed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004357434166162",
+			"parentId": "114004332938456842",
+			"url": "https://fediverse.zachleat.com/@zachleat/114004357434166162",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-14T21:27:22.294Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\">@<span>jakelazaroff</span></a></span> you lost me at bundler *runs away*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004370125224385",
+			"parentId": "114004357434166162",
+			"url": "https://techhub.social/@develwithoutacause/114004370082795006",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2025-02-14T21:30:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> That just makes it all the more critical to choose `?define` or not. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114005956893135029",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/114005956703075774",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2025-02-15T04:14:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This came across my feed again and I randomly read it as `node fine?`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114008289955289880",
+			"parentId": "114005956893135029",
+			"url": "https://fediverse.zachleat.com/@zachleat/114008289955289880",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-15T14:07:27.804Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> node is fine tho 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

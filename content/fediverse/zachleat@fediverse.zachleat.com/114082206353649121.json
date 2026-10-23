@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "114082263675474241",
+			"parentId": 0,
+			"url": "https://front-end.social/@eeeps/114082263664024509",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2025-02-28T15:39:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 1) Yellows FTW (C+L champions) 2) What do you use when there is no color that meets your 0.4&lt;x&lt;0.95 filter? 3) Did something go wrong without the concurrency queue that led you to it, or was it a defensive move? I don't have good intuitions about when adding something like that is worth it/not.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082557558388698",
+			"parentId": "114082263675474241",
+			"url": "https://fediverse.zachleat.com/@zachleat/114082557558388698",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-28T16:54:41.494Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> I think the default is just a light gray but it definitely happens!</p><p>Yeah, I usually try to add a concurrency queue (and heavier caching) for things that can/might fetch out to remote sources — definitely a defensive move after I saw some build failure flakiness in some deps</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114082897784381453",
+			"parentId": "114082557558388698",
+			"url": "https://front-end.social/@eeeps/114082897756026666",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2025-02-28T18:21:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Innnnteresting (about the concurrency queue) thank you!</p>",
+			"via": "fediverse"
+		}
+	]
+}

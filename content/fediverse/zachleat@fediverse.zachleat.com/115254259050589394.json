@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "115254287603106948",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jgarber/115254287582152521",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-09-23T15:21:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Expand eligible providers for trusted publishing.\"</p><p>👀</p><p>Microsoft's got a financial incentive to lock everyone in to GitHub, but I would welcome trusted publishing capabilities in alternatives like Forgejo/Codeberg/Gitea/etc.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254616993941393",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@thisismissem/115254616948550610",
+			"author": {
+				"name": "Emelia 👸🏻",
+				"url": "https://hachyderm.io/@thisismissem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-09-23T16:44:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> this sounds like what they were already doing?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254624879172532",
+			"parentId": "115254616993941393",
+			"url": "https://fediverse.zachleat.com/@zachleat/115254624879172532",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-23T16:46:49.508Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@thisismissem\" class=\"u-url mention\">@<span>thisismissem</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> hm? I think they’re removing support for a few things</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254650868266352",
+			"parentId": "115254624879172532",
+			"url": "https://hachyderm.io/@thisismissem/115254650716133193",
+			"author": {
+				"name": "Emelia 👸🏻",
+				"url": "https://hachyderm.io/@thisismissem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-09-23T16:53:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> maybe but if memory serves, they were already making those changes slowly.</p><p>I would've expected a pnpm like approved builds setup, including the ability to review the build script to run. Also the ability to mark a specific package scope as requiring trusted publishing or MFA verified tokens, etc.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254655549869644",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tcurdt/115254655483716342",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://mastodon.social/@tcurdt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/751/028/742/857/original/acf20e9220f52199.jpg"
+			},
+			"date": "2025-09-23T16:54:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> while applaud this - I would applaud even more if they would also cleanup in their own backyard though.</p><p>They still force people to use classic PATs like it's 2010.</p><p><a href=\"https://github.com/orgs/community/discussions/38467\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/community/disc</span><span class=\"invisible\">ussions/38467</span></a><br><a href=\"https://github.com/github/roadmap/issues/558\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/github/roadmap/issu</span><span class=\"invisible\">es/558</span></a></p><p>Given the age of the PAT discussion I fear it is rather npm pushing for this - not Github.</p><p>I guess every improvement is a win - but still.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254668169358861",
+			"parentId": "115254650868266352",
+			"url": "https://fediverse.zachleat.com/@zachleat/115254668169358861",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-23T16:57:50.064Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@thisismissem\" class=\"u-url mention\">@<span>thisismissem</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> ah, I wasn’t aware of already in-motion changes!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254675463731536",
+			"parentId": "115254668169358861",
+			"url": "https://hachyderm.io/@thisismissem/115254674798095639",
+			"author": {
+				"name": "Emelia 👸🏻",
+				"url": "https://hachyderm.io/@thisismissem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-09-23T16:59:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> I mean they rolled out granular access tokens and MFA years ago</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115254686565579592",
+			"parentId": "115254675463731536",
+			"url": "https://fediverse.zachleat.com/@zachleat/115254686565579592",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-09-23T17:02:30.768Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@thisismissem\" class=\"u-url mention\">@<span>thisismissem</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> afaict the biggest change (imo) is to deprecate/remove use of non-granular tokens</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115259319855024948",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@dalias/115259319807494132",
+			"author": {
+				"name": "Cassandrich",
+				"url": "https://hachyderm.io/@dalias",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/328/987/007/000/217/original/95ec94e5d57fe5bc.jpg"
+			},
+			"date": "2025-09-24T12:40:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm really not. Putting \"supply chain\" burdens on ordinary people is exploitative and abusive behavior by capitalists.</p><p>What I want to see is npm's \"lol here's a million random-provenance micro-deps\" model burned to the ground. I'm happy to see it keep being a source of vulns until it's abandoned.</p>",
+			"via": "fediverse"
+		}
+	]
+}

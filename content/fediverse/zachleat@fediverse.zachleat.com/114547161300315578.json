@@ -1,0 +1,64 @@
+{
+	"comments": [
+		{
+			"id": "114547251146450179",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@mahryekuh/114547251115180019",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://hachyderm.io/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/403/669/956/953/218/original/b7eb472cc55fa72e.png"
+			},
+			"date": "2025-05-21T18:32:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> When you look at modern software, what those “yes or maybe later” choices imply is that they do not care about your consent, which in turn implies they do not respect their users' autonomy.</p><p>Don’t get me wrong, this comes to no surprise, but it is technically abusive behavior and they (e.g., Microsoft) get away with it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114547311543598488",
+			"parentId": "114547251146450179",
+			"url": "https://mastodon.cthos.dev/@cthos/114547311484000075",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2025-05-21T18:47:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wrote at length about my frustrations about this! <a href=\"https://alextheward.com/posts/big-tech-and-consent/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alextheward.com/posts/big-tech</span><span class=\"invisible\">-and-consent/</span></a></p><p>Also apparently I broke the blog aggregation page somehow.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114547321549484226",
+			"parentId": "114547311543598488",
+			"url": "https://hachyderm.io/@mahryekuh/114547321518954272",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://hachyderm.io/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/403/669/956/953/218/original/b7eb472cc55fa72e.png"
+			},
+			"date": "2025-05-21T18:50:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cthos</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I skimmed through the article (because my brain doesn’t want to read today) and every bit I saw was spot on.</p><p>I might rant about this as well on my blog, but I could easily save the trouble, link to yours and go “what he said.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114547350733082748",
+			"parentId": "114547251146450179",
+			"url": "https://fediverse.zachleat.com/@zachleat/114547350733082748",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-05-21T18:57:42.503Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mahryekuh\" class=\"u-url mention\">@<span>mahryekuh</span></a></span> it’s a canary in the coal mine for me — immediately lose respect for a product when I see it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114549512000170402",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ollicle/114549511964325838",
+			"private": true,
+			"date": "2025-05-22T04:07:20.000Z",
+			"via": "fediverse"
+		}
+	]
+}

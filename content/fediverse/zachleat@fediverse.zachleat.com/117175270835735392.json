@@ -1,0 +1,62 @@
+{
+	"comments": [
+		{
+			"id": "117175295413299220",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dracos/117175295351329739",
+			"private": true,
+			"date": "2026-08-28T21:38:35.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117175323327388201",
+			"parentId": "117175295413299220",
+			"url": "https://fediverse.zachleat.com/@zachleat/117175323327388201",
+			"private": true,
+			"date": "2026-08-28T21:45:41.982Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117175336921149949",
+			"parentId": 0,
+			"url": "https://mas.to/@iamdtms/117175336896997060",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2026-08-28T21:49:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Actually I've never think of this 'solution'.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117175382625741739",
+			"parentId": "117175323327388201",
+			"url": "https://mastodon.social/@dracos/117175381357398511",
+			"private": true,
+			"date": "2026-08-28T22:00:27.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117175465460700070",
+			"parentId": "117175323327388201",
+			"url": "https://mastodon.social/@ollicle/117175465404541552",
+			"private": true,
+			"date": "2026-08-28T22:21:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117176240491928070",
+			"parentId": 0,
+			"url": "https://mstdn.social/@cjerrington/117176240439963548",
+			"author": {
+				"name": "Clayton Errington 🖥️",
+				"url": "https://mstdn.social/@cjerrington",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/717/906/972/793/423/original/c36bd39ee0792caa.jpg"
+			},
+			"date": "2026-08-29T01:38:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is when using JavaScript is not needed. Seems to be a “dynamic” way to get the “correct” favicon maybe based on page, product, etc?</p>",
+			"via": "fediverse"
+		}
+	]
+}

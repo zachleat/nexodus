@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "116558714943229991",
+			"parentId": 0,
+			"url": "https://masto.ai/@jeromechoo/116558714909126005",
+			"author": {
+				"name": "Jerome (He/Him)",
+				"url": "https://masto.ai/@jeromechoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/757/780/577/393/827/original/1d3d51e5edba521f.png"
+			},
+			"date": "2026-05-12T00:14:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm not sure I would agree. This entire article reads like they dumped all their logs to Claude Code and asked it to generate a post mortem.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116558737997832572",
+			"parentId": "116558714943229991",
+			"url": "https://fediverse.zachleat.com/@zachleat/116558737997832572",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T00:19:56.501Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@jeromechoo\" class=\"u-url mention\">@<span>jeromechoo</span></a></span> I’m not sure I need to be included in this feedback</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116558775225315750",
+			"parentId": 0,
+			"url": "https://aus.social/@jokeyrhyme/116558775158006857",
+			"author": {
+				"name": "jokeyrhyme",
+				"url": "https://aus.social/@jokeyrhyme",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/814/147/832/539/702/original/896f2dba2669c4b7.jpg"
+			},
+			"date": "2026-05-12T00:29:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> npm needs to make prepare/postinstall hooks opt-in and allow-listed instead of on by default for the whole universe </p><p>and a declarative/sandboxed solution for packages that have to download and compile as an escape hatch (something like flathub's manifest where the framework does the downloading for you and rejects anything that doesn't match the expected hashes)</p><p>absurd that even crates.io has the same problem and no solution in sight :S</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116558858273147472",
+			"parentId": "116558737997832572",
+			"url": "https://masto.ai/@jeromechoo/116558858236013452",
+			"author": {
+				"name": "Jerome (He/Him)",
+				"url": "https://masto.ai/@jeromechoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/757/780/577/393/827/original/1d3d51e5edba521f.png"
+			},
+			"date": "2026-05-12T00:50:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m not trying to be rude. I’m genuinely trying to figure out what makes this a masterclass retro. </p><p>It does include a lot of details, but doesn’t mention the dead man’s switch that was posted 3 hours ago <a href=\"https://github.com/TanStack/router/issues/7383#issuecomment-4425225340\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TanStack/router/iss</span><span class=\"invisible\">ues/7383#issuecomment-4425225340</span></a> and has exactly one general line on what owners of compromised machines should do.</p><p>Did I miss something?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116559002076703547",
+			"parentId": 0,
+			"url": "https://social.lol/@jgarber/116559002057080103",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/806/761/171/789/152/original/092aea9395842a5d.jpg"
+			},
+			"date": "2026-05-12T01:27:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> pull_request_target strikes again!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562029832306312",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/116562029832306312",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T14:17:05.905Z",
+			"content": "<p>A follow up here on action items (assuming you’re already using trusted publishers OIDC to scope releases to a single GitHub Action workflow):</p><p>1. Look for any `pull_request_target` GitHub Actions workflows! (this allows external forks/code to run your actions with write access ☠️☠️☠️☠️☠️)<br />2. Look for use of `cache` in your GitHub Actions release workflow (cache was poisoned/compromised by `pull_request_target` trigger)</p><p>Learn more about `pull_request_target`: <a href=\"https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">securitylab.github.com/resourc</span><span class=\"invisible\">es/github-actions-preventing-pwn-requests/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562081436896858",
+			"parentId": "116562029832306312",
+			"url": "https://fediverse.zachleat.com/@zachleat/116562081436896858",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T14:30:13.329Z",
+			"content": "<p>Importantly, `pull_request_target` IGNORES this GitHub security setting: <a href=\"https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#controlling-changes-from-forks-to-workflows-in-public-repositories\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.github.com/en/repositorie</span><span class=\"invisible\">s/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#controlling-changes-from-forks-to-workflows-in-public-repositories</span></a></p><p>This was very surprising to me.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562109119893640",
+			"parentId": "116562081436896858",
+			"url": "https://social.lol/@jgarber/116562109098679296",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/806/761/171/789/152/original/092aea9395842a5d.jpg"
+			},
+			"date": "2026-05-12T14:37:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Surprise!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562122059997141",
+			"parentId": "116562109119893640",
+			"url": "https://fediverse.zachleat.com/@zachleat/116562122059997141",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-12T14:40:33.190Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> luckily I don’t use `pull_request_target` anywhere but WOOOOOOOFFFFF</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116562174510240383",
+			"parentId": "116562122059997141",
+			"url": "https://social.lol/@jgarber/116562174487279503",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/806/761/171/789/152/original/092aea9395842a5d.jpg"
+			},
+			"date": "2026-05-12T14:53:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> pull_request_target has •always• been a yard full of rakes waiting to be stepped on. I don’t know enough to draw any conclusions, and (like you) I’ve never used it, but I also never understood why they’d ship something so easily misused.</p>",
+			"via": "fediverse"
+		}
+	]
+}

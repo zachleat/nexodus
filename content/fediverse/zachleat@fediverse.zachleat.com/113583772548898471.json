@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "113583963604000886",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/113583963569843352",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2024-12-02T15:35:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's all wired up. All I gotta do is put snow: true in my front matter and I'm good to go. Just waiting for snow here in the Bay Area.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584046183036555",
+			"parentId": "113583963604000886",
+			"url": "https://fediverse.zachleat.com/@zachleat/113584046183036555",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-02T15:56:41.573Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> ha! how long will you have to wait for that?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584053804562692",
+			"parentId": "113584046183036555",
+			"url": "https://indieweb.social/@bobmonsour/113584053746906677",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2024-12-02T15:58:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not sure…fire is more likely</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584070060440667",
+			"parentId": "113584053804562692",
+			"url": "https://fediverse.zachleat.com/@zachleat/113584070060440667",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-02T16:02:45.913Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> 😱</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584286847555671",
+			"parentId": "113584070060440667",
+			"url": "https://seocommunity.social/@simoncox/113584286822561434",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2024-12-02T16:57:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <br><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Can the snow fall be automated based on local weather conditions?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584288360201112",
+			"parentId": "113584286847555671",
+			"url": "https://fediverse.zachleat.com/@zachleat/113584288360201112",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-12-02T16:58:16.903Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\">@<span>simoncox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> even better as an &lt;is-land&gt; loading condition 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584296117806503",
+			"parentId": "113584288360201112",
+			"url": "https://seocommunity.social/@simoncox/113584296080700057",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2024-12-02T17:00:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> </p><p>i thought is-land was for ship wrecked sailors?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584296393786634",
+			"parentId": "113584288360201112",
+			"url": "https://indieweb.social/@bobmonsour/113584296334332142",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2024-12-02T17:00:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>simoncox</span></a></span> I’ll see what I can do.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584298373990218",
+			"parentId": "113584296393786634",
+			"url": "https://seocommunity.social/@simoncox/113584298333137479",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2024-12-02T17:00:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I'm just looking up current weather api's!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113584499240107620",
+			"parentId": "113584070060440667",
+			"url": "https://follow.coryd.dev/@cory/113584499209121888",
+			"author": {
+				"name": "Cory Dransfeldt :demi:",
+				"url": "https://follow.coryd.dev/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/234/688/818/531/973/original/442430e2ae3f540f.png"
+			},
+			"date": "2024-12-02T17:51:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> The last time it snowed here we only had black and white photos</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113585885993349130",
+			"parentId": 0,
+			"url": "https://seocommunity.social/@simoncox/113585885968128403",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2024-12-02T23:44:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>It's not snowing here and is unlikely to this December - i have turned on the snow on my site anyway!</p><p><a href=\"https://seocommunity.social/tags/WebComponent\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>WebComponent</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,199 @@
+{
+	"comments": [
+		{
+			"id": "116726766799426055",
+			"parentId": 0,
+			"url": "https://mastodon.social/@grwster/116726766766298098",
+			"author": {
+				"name": "Greg Whitehead",
+				"url": "https://mastodon.social/@grwster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/375/571/371/768/260/original/4a8f6a2d4eadb6da.jpg"
+			},
+			"date": "2026-06-10T16:31:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not knowing the difficulty of porting your tests to the built-in harness, that’s what I’d look at first. External dependencies are more and more problematic, and it seems crazy to drop support for older versions in production to accommodate a test harness. My 2 cents</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116726788969956775",
+			"parentId": 0,
+			"url": "https://pouet.chapril.org/@julienw/116726788950249752",
+			"author": {
+				"name": "Julien W.",
+				"url": "https://pouet.chapril.org/@julienw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/581/755/250/360/original/f07f825982fdf35e.jpg"
+			},
+			"date": "2026-06-10T16:37:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> in v18 node's test runner was experimental :/</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116726807666496258",
+			"parentId": 0,
+			"url": "https://piaille.fr/@tbroyer/116726807630557497",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2026-06-10T16:42:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Either \"upgrade and pray\" or bump a major.</p><p>Node 18 and 20 are EOL, just stop caring about them.</p><p>Or you could migrate to Node's built-in test runner as that's a good choice overall and will save you that question in the future; depends what it costs you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116726821337427383",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/116726821287214690",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2026-06-10T16:45:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> using the platform to minimize dependencies is incredibly cool.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116726827530711571",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/116726827472804463",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2026-06-10T16:47:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 18 and 20 are already EoL so I certainly wouldn't fault a major version bump dropping support for older nodes so that's what I voted for.</p><p>My alternative vote (if you don't want to drop support) is rewriting the test suite.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116726850471943730",
+			"parentId": 0,
+			"url": "https://mastodon.social/@localnerve/116726850439563829",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2026-06-10T16:53:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Node:test and bump</p><p>You'll find out when you get into it that you have to. It's the right thing to do.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116727151225688458",
+			"parentId": 0,
+			"url": "https://aus.social/@nathanbottomley/116727151160321798",
+			"author": {
+				"name": "Nathan Bottomley",
+				"url": "https://aus.social/@nathanbottomley",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/451/444/536/584/188/original/dfca949844287853.png"
+			},
+			"date": "2026-06-10T18:09:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I used AVA for my little podcasting plugin and I really liked it. No advice from me, but I can see why it’s such a difficult decision.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116727336226773161",
+			"parentId": "116726788969956775",
+			"url": "https://fediverse.zachleat.com/@zachleat/116727336226773161",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-10T18:56:41.311Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://pouet.chapril.org/@julienw\" class=\"u-url mention\">@<span>julienw</span></a></span> I don’t mind experimental for a devdep</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116727342139670624",
+			"parentId": "116727151225688458",
+			"url": "https://fediverse.zachleat.com/@zachleat/116727342139670624",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-10T18:58:11.534Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@nathanbottomley\" class=\"u-url mention\">@<span>nathanbottomley</span></a></span> yeah, I am using ava and ava@8 requires Node 22 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116727410250092943",
+			"parentId": 0,
+			"url": "https://mastodon.social/@naiyer/116727410218290441",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.social/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/106/196/764/056/397/original/8c86ec3138cda99e.jpg"
+			},
+			"date": "2026-06-10T19:15:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Been using Node.js builtin test runner for a while and happy with it. If test suite is small, go for it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116729531174321305",
+			"parentId": 0,
+			"url": "https://corteximplant.com/@kaiserkiwi/116729531090127175",
+			"author": {
+				"name": "kaiserkiwi :kiwibird:",
+				"url": "https://corteximplant.com/@kaiserkiwi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/456/449/592/494/865/original/1cf4b0eb55610054.jpeg"
+			},
+			"date": "2026-06-11T04:14:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Well. Node 18 is end of life for a year now. I don't think we need to support these old versions anymore. Everyone should've updated by now.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116730201949341707",
+			"parentId": 0,
+			"url": "https://mastodon.social/@illarion/116730201749531906",
+			"author": {
+				"name": "Illarion Koperski",
+				"url": "https://mastodon.social/@illarion",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/630/286/645/038/862/original/ea06d692bb525e0d.jpg"
+			},
+			"date": "2026-06-11T07:05:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> - Breaking change and bump</p><p>The versions of the built-in test runner would be (slightly) different for each version of Node</p><p>There is a chance you’d have to debug not only your code, but the test runner as well</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116731888848806400",
+			"parentId": "116729531174321305",
+			"url": "https://fediverse.zachleat.com/@zachleat/116731888848806400",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-11T14:14:28.810Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://corteximplant.com/@kaiserkiwi\" class=\"u-url mention\">@<span>kaiserkiwi</span></a></span> sure, but a major version bump when the library code and library dependencies didn’t change? unnecessary churn!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116731902627506279",
+			"parentId": "116730201949341707",
+			"url": "https://fediverse.zachleat.com/@zachleat/116731902627506279",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-11T14:17:59.056Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@illarion\" class=\"u-url mention\">@<span>illarion</span></a></span> hmm, I’d expect the userspace test runner to have more maintenance cost than the built-in (though the one I’m using has been very reliable)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116732417734482071",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/116732417734482071",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-06-11T16:28:58.965Z",
+			"content": "<p>Love to see all the long-term maintenance-minded folks on this platform!</p>",
+			"via": "fediverse"
+		}
+	]
+}

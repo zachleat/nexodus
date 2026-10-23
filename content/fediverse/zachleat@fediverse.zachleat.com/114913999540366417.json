@@ -1,0 +1,537 @@
+{
+	"comments": [
+		{
+			"id": "114914041431220193",
+			"parentId": 0,
+			"url": "https://gamache.org/objects/612b1014-5769-48ff-9518-818e03079ec7",
+			"author": {
+				"name": "Pete Gamache",
+				"url": "https://gamache.org/users/pete",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/181/981/802/749/156/original/e3cde49b18c3a99b.jpeg"
+			},
+			"date": "2025-07-25T13:11:57.912Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> when I first met Bitwalker who wrote the first datetime package in Elixir, my first words were “you sick bastard!”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914085743652957",
+			"parentId": "114914041431220193",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914085743652957",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T13:23:14.675Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://gamache.org/users/pete\" class=\"u-url mention\">@<span>pete</span></a></span> seems about right 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914145503870838",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@fvsch/114914145456493090",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://hachyderm.io/@fvsch",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/834/091/035/043/627/original/4367bd08dd68da57.jpg"
+			},
+			"date": "2025-07-25T13:38:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> &gt; As an aside, this search has made me tempted to ask: do we need to keep Dual publishing packages? I prefer ESM over CJS but maybe just pick one?</p><p>Some in the ecosystem think that we don't need to anymore, and should just ship ESM modules (see for instance <a href=\"https://e18e.dev/blog/migrating-the-ecosystem-to-esm.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">e18e.dev/blog/migrating-the-ec</span><span class=\"invisible\">osystem-to-esm.html</span></a>), but it depends on what older Node.js versions you want to support.</p><p>- Supported and updated versions of Node 20 and 22? You can ship ESM only.<br>- Node 18 or earlier? Early (and at this point not secure) versions of Node 20 and 22? Then you need a dual package.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914171820840463",
+			"parentId": "114914145503870838",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914171820840463",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T13:45:08.108Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@fvsch\" class=\"u-url mention\">@<span>fvsch</span></a></span> for the record I have never dual published a package. When 11ty swapped to ESM we went all-in on ESM with Node 18+ and it has worked fine.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914580636575603",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jimniels/114914580534673664",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2025-07-25T15:29:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i'm pretty sure this is how it works, so good on you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914610793498789",
+			"parentId": "114914580636575603",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914610793498789",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T15:36:46.297Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> Geordi is one of my favorite fictional engineers so I take this as very high praise thank you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914611325679480",
+			"parentId": 0,
+			"url": "https://mastodon.social/@scrwd/114914611191294143",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2025-07-25T15:36:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> now do 11ty/markdown and 11ty/templating too! Do all the things Zach!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114914615343532568",
+			"parentId": "114914611325679480",
+			"url": "https://fediverse.zachleat.com/@zachleat/114914615343532568",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T15:37:55.726Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\">@<span>scrwd</span></a></span> JON this definitely feels more 😈 than 👼</p><p>😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915513916657660",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/114915513916657660",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T19:26:26.861Z",
+			"content": "<p>eww, no thank you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915539777782296",
+			"parentId": "114915513916657660",
+			"url": "https://narrativ.es/@janl/114915539735069124",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2025-07-25T19:33:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🪦</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915548069958659",
+			"parentId": "114915513916657660",
+			"url": "https://front-end.social/@michael/114915548046231115",
+			"author": {
+				"name": "Michael Arestad",
+				"url": "https://front-end.social/@michael",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/501/872/359/714/870/original/71dd835282e33212.jpeg"
+			},
+			"date": "2025-07-25T19:35:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> plus what tho</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915551856472506",
+			"parentId": "114915548069958659",
+			"url": "https://fediverse.zachleat.com/@zachleat/114915551856472506",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T19:36:05.778Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@michael\" class=\"u-url mention\">@<span>michael</span></a></span> depends if you like C, C#,or C++</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915552459311156",
+			"parentId": "114915513916657660",
+			"url": "https://mastodon.social/@khalidabuhakmeh/114915552402826690",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-07-25T19:36:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thought leader</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915556776308705",
+			"parentId": "114915552459311156",
+			"url": "https://fediverse.zachleat.com/@zachleat/114915556776308705",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T19:37:20.849Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> I am under vicious attack by you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915585611657280",
+			"parentId": "114915556776308705",
+			"url": "https://mastodon.online/@slab_bulkhead/114915585571530917",
+			"author": {
+				"name": "Slab Bulkhead",
+				"url": "https://mastodon.online/@slab_bulkhead",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/557/760/693/065/original/852bf863215919c5.png"
+			},
+			"date": "2025-07-25T19:44:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> comes with an honorary turtleneck does this help</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915599584103549",
+			"parentId": "114915585611657280",
+			"url": "https://fediverse.zachleat.com/@zachleat/114915599584103549",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T19:48:14.045Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\">@<span>slab_bulkhead</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> turtleneck versus the hareneck aka neckbeard</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915660091429699",
+			"parentId": "114915513916657660",
+			"url": "https://indieweb.social/@jgarber/114915660068109422",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://indieweb.social/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/643/062/697/057/306/original/280fec80388dc006.jpg"
+			},
+			"date": "2025-07-25T20:03:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915687729333247",
+			"parentId": "114915599584103549",
+			"url": "https://mastodon.social/@khalidabuhakmeh/114915687376661613",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-07-25T20:10:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slab_bulkhead</span></a></span> I'm not sure how to think. Could you please tell me?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915704859007191",
+			"parentId": "114915687729333247",
+			"url": "https://fediverse.zachleat.com/@zachleat/114915704859007191",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T20:15:00.413Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\">@<span>slab_bulkhead</span></a></span> when in doubt just do what Meta does</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915751875941828",
+			"parentId": "114915704859007191",
+			"url": "https://mastodon.social/@khalidabuhakmeh/114915751605991521",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-07-25T20:26:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slab_bulkhead</span></a></span> Cool. I've joined a Brazilian JuJitsu club, grown a fro, and having a midlife crisis as we speak. Next stop, The Joe Rogan Experience!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915872907742121",
+			"parentId": "114915751875941828",
+			"url": "https://fediverse.zachleat.com/@zachleat/114915872907742121",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-25T20:57:44.634Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\">@<span>slab_bulkhead</span></a></span> see you in the metaverse</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114915874691357811",
+			"parentId": "114915872907742121",
+			"url": "https://mastodon.social/@khalidabuhakmeh/114915874632179483",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-07-25T20:58:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slab_bulkhead</span></a></span> at least the top half of me. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114916141995819918",
+			"parentId": 0,
+			"url": "https://mastodon.online/@polx/114916141955673215",
+			"author": {
+				"name": "Paul L",
+				"url": "https://mastodon.online/@polx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/500/432/916/497/890/original/7f330d246008069d.jpeg"
+			},
+			"date": "2025-07-25T22:06:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> a few years ago I had to spend 3 months of development because <a href=\"https://mastodon.online/tags/safari\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>safari</span></a>’s date parsing had changed between versions of <a href=\"https://mastodon.online/tags/ios\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>ios</span></a> making our server emitted dates break… </p><p>This was the perfect illustration why flawed standards such as iso8601 are a problem. And this the reason why date parsing is a nightmare… </p><p>Just be strict. Period.<br>And accept that this is politically incorrect.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114920259529767879",
+			"parentId": "114915513916657660",
+			"url": "https://social.lol/@tylersticka/114920259490879245",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2025-07-26T15:33:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You’re already writing a date parser and now it’s on HN, talk about kicking someone when they’re down</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114920408897421786",
+			"parentId": 0,
+			"url": "https://follow.coryd.dev/@cory/114920408881702683",
+			"author": {
+				"name": "Cory Dransfeldt :demi:",
+				"url": "https://follow.coryd.dev/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/234/688/818/531/973/original/442430e2ae3f540f.png"
+			},
+			"date": "2025-07-26T16:11:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You’ll be taking VC investments and revolutionizing date parsing, calendars and string display in no time.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114930980047118151",
+			"parentId": 0,
+			"url": "https://appdot.net/@mikehoss/114930980032788419",
+			"author": {
+				"name": "Mike Hostetler",
+				"url": "https://appdot.net/@mikehoss",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/474/688/305/133/038/original/ef52823ac4e11953.jpg"
+			},
+			"date": "2025-07-28T12:59:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thoughts and prayers</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931098455518554",
+			"parentId": "114920259529767879",
+			"url": "https://fediverse.zachleat.com/@zachleat/114931098455518554",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-28T13:29:48.055Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\">@<span>tylersticka</span></a></span> woke up this morning with a patagonia fleece vest on, somehow</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931102275824689",
+			"parentId": "114920408897421786",
+			"url": "https://fediverse.zachleat.com/@zachleat/114931102275824689",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-28T13:30:46.348Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> hear me out what if we used AI to parse dates so that it was wrong at an even higher percentage BUT at the cost of a lot more electricity</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931106803566636",
+			"parentId": "114930980047118151",
+			"url": "https://fediverse.zachleat.com/@zachleat/114931106803566636",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-28T13:31:55.435Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://appdot.net/@mikehoss\" class=\"u-url mention\">@<span>mikehoss</span></a></span> it isn’t often you get to subscribe to a future car crash, mike</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931112948384975",
+			"parentId": "114931102275824689",
+			"url": "https://mastodon.social/@khalidabuhakmeh/114931112872418065",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-07-28T13:33:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cory</span></a></span> Welcome to hell. <a href=\"https://www.timeanddate.com/time/time-zones-interesting.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">timeanddate.com/time/time-zone</span><span class=\"invisible\">s-interesting.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931150937341516",
+			"parentId": "114931112948384975",
+			"url": "https://fediverse.zachleat.com/@zachleat/114931150937341516",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-28T13:43:08.865Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> bless those folks in :45 time zones 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931159886976870",
+			"parentId": "114931150937341516",
+			"url": "https://mastodon.social/@khalidabuhakmeh/114931159645186894",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2025-07-28T13:45:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cory</span></a></span> Honestly, it must be bliss. No one can probably figure out how to schedule a meeting with you. You can enjoy your life with 90% less BS.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931161553325977",
+			"parentId": "114931102275824689",
+			"url": "https://follow.coryd.dev/@cory/114931161525765614",
+			"author": {
+				"name": "Cory Dransfeldt :demi:",
+				"url": "https://follow.coryd.dev/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/234/688/818/531/973/original/442430e2ae3f540f.png"
+			},
+			"date": "2025-07-28T13:45:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I mean yes, but then think of the opportunities when we install our date parser on the infrastructure underpinning the AI.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931184865657240",
+			"parentId": "114931159886976870",
+			"url": "https://fediverse.zachleat.com/@zachleat/114931184865657240",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-28T13:51:46.572Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> just gotta make sure it’s on the 45 minutes late side and not 45 minutes early 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931422513776987",
+			"parentId": "114931112948384975",
+			"url": "https://fedi.summershome.org/objects/1962d635-a090-4936-9120-22874334751d",
+			"author": {
+				"name": "Daniel J. Summers ~ East TN, USA",
+				"url": "https://fedi.summershome.org/users/daniel",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-07-28T14:52:12.071Z",
+			"content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://mastodon.social/@khalidabuhakmeh\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://follow.coryd.dev/@cory\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cory</span></a></span> Obilgatory Gaffigan <a href=\"https://youtu.be/ehZePNP_w4I?si=RYYv5TGaOuXRD5Z2&amp;t=326\" rel=\"nofollow noopener\" target=\"_blank\">https://youtu.be/ehZePNP_w4I?si=RYYv5TGaOuXRD5Z2&amp;t=326</a>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931441685571720",
+			"parentId": "114931422513776987",
+			"url": "https://fediverse.zachleat.com/@zachleat/114931441685571720",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-28T14:57:05.330Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fedi.summershome.org/users/daniel\" class=\"u-url mention\">@<span>daniel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.coryd.dev/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> WE’LL DO HALF HOUR</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114931453686458629",
+			"parentId": "114931422513776987",
+			"url": "https://mostr.pub/objects/fb7a963f956829c904f4038e6937f31f08313f761ad03e02e33285735ea37e41",
+			"author": {
+				"name": "Tracking Token Disrespector",
+				"url": "https://mostr.pub/users/c558c7cc69bbda3c271782b736babc64acd2da258b14f356dbca966cb0b7b89e",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2025-07-28T14:57:56.000Z",
+			"content": "🤖 Tracking strings detected and removed!<br><br>🔗 Clean URL(s):<br><a href=\"https://youtu.be/ehZePNP_w4I?t=326\" rel=\"nofollow noopener\" target=\"_blank\">https://youtu.be/ehZePNP_w4I?t=326</a><br><br>❌ Removed parts:<br>si=RYYv5TGaOuXRD5Z2&amp;",
+			"via": "fediverse"
+		},
+		{
+			"id": "114935463174627880",
+			"parentId": 0,
+			"url": "https://mastodon.social/@claasdev/114935463150765214",
+			"author": {
+				"name": "claas",
+				"url": "https://mastodon.social/@claasdev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/029/126/740/987/066/original/c3f2f99c8f846ca3.jpeg"
+			},
+			"date": "2025-07-29T07:59:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> cool article! I wonder if you have also looked at how much a Temporal API polyfill might weigh in. I wonder if it is a solid option to use that and just remove it when the promised day finally comes 😄</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114935466917368992",
+			"parentId": "114935463174627880",
+			"url": "https://mastodon.social/@claasdev/114935466865654097",
+			"author": {
+				"name": "claas",
+				"url": "https://mastodon.social/@claasdev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/029/126/740/987/066/original/c3f2f99c8f846ca3.jpeg"
+			},
+			"date": "2025-07-29T08:00:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nvm you did</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114936780230911262",
+			"parentId": "114935466917368992",
+			"url": "https://fediverse.zachleat.com/@zachleat/114936780230911262",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-07-29T13:34:45.067Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@claasdev\" class=\"u-url mention\">@<span>claasdev</span></a></span> yeah, I am starting to think it might be worth a follow-up article focused on answering that question specifically!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114944570310618419",
+			"parentId": "114916141995819918",
+			"url": "https://icosahedron.website/@bitbear/114944570180237528",
+			"author": {
+				"name": "Asbjørn Ulsberg",
+				"url": "https://icosahedron.website/@bitbear",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/472/362/981/775/508/original/9610efd363c97890.png"
+			},
+			"date": "2025-07-30T22:35:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@polx\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>polx</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Be strict for sure! This is precisely why we chose RFC 3339 over ISO 8601 for Atom (RFC 4287).</p>",
+			"via": "fediverse"
+		}
+	]
+}
