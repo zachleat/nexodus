@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3lpcajoiwnk2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3lpcajoiwnk2p",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-05-16T14:30:21.670Z",
+			"content": "<p>truly the bane of every page on which i've been forced to include it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpcalf24e22m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpcalf24e22m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-16T14:31:18.857Z",
+			"content": "<p>perf improves when javascript fails 👀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3lpcaua27bk2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpcalf24e22m",
+			"url": "https://bsky.app/profile/darn.es/post/3lpcaua27bk2h",
+			"author": {
+				"name": "David Darnes",
+				"url": "https://bsky.app/profile/darn.es",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bb34ozcdu5lm3ogte3gq433/bafkreieludkddmtzyhsba5xddcrjpaegp2zcokrr4sudtzhtg6zh5hmjeq"
+			},
+			"date": "2025-05-16T14:36:15.607Z",
+			"content": "<p>JavaScript will continue to fail until perf improves</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3lpcb7sufzk2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3lpcb7sufzk2f",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2025-05-16T14:42:44.439Z",
+			"content": "<p>Wonder how much it would improve jaguar:</p>\n<p><a href=\"https://pagespeed.web.dev/analysis/https-www-jaguar-co-uk-copy-nothing-index-html/petkuu6lr7?form_factor=mobile\">pagespeed.web.dev/analysis/htt...</a></p>\n<p><a href=\"https://bsky.app/profile/did:plc:wlv2lek2tmwsfpob3r4mix7y/post/3lpbzulj3bs2v\">bsky.app/profile/did:...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpcbdxnfsc2e",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3lpcb7sufzk2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpcbdxnfsc2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-16T14:45:03.670Z",
+			"content": "<p>oh my god</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3lpcc5kjjzk2f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpcbdxnfsc2e",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3lpcc5kjjzk2f",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2025-05-16T14:59:22.327Z",
+			"content": "<p>*slaps roof* this bad boy can serve so much JavaScript</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3lpcfej4tu223",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpcalf24e22m",
+			"url": "https://bsky.app/profile/pierbover.com/post/3lpcfej4tu223",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2025-05-16T15:56:56.968Z",
+			"content": "<p>who would've thought!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2zrjjravkvpfc5rwmmk4abaq/app.bsky.feed.post/3lpchlne4cc23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/webcloud.se/post/3lpchlne4cc23",
+			"author": {
+				"name": "Daniel",
+				"url": "https://bsky.app/profile/webcloud.se",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zrjjravkvpfc5rwmmk4abaq/bafkreiahu23w46icpxldjh6hobwejfavs37w64o6ts4y74lb3c67tab2ai"
+			},
+			"date": "2025-05-16T16:36:43.750Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpciim2uh22j",
+			"parentId": "at://did:plc:2zrjjravkvpfc5rwmmk4abaq/app.bsky.feed.post/3lpchlne4cc23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpciim2uh22j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-16T16:52:55.493Z",
+			"content": "<p>stakeholders or performance vampires</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4h7vvkl5bb3dxdvju3qgyuxu/app.bsky.feed.post/3lpdolgcra22w",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3lpcb7sufzk2f",
+			"url": "https://bsky.app/profile/hono4kami.codeberg.page/post/3lpdolgcra22w",
+			"author": {
+				"name": "honoo",
+				"url": "https://bsky.app/profile/hono4kami.codeberg.page",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4h7vvkl5bb3dxdvju3qgyuxu/bafkreibehcggovydoow62t723pszzdjhptzgej53kxwta266eyrxtyr4le"
+			},
+			"date": "2025-05-17T04:14:32.312Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dwekxqrcsvhaufcud63eaxz2/app.bsky.feed.post/3lpeey46lhc2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alexnozer.bsky.social/post/3lpeey46lhc2j",
+			"author": {
+				"name": "Aleksey Nazarenko",
+				"url": "https://bsky.app/profile/alexnozer.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dwekxqrcsvhaufcud63eaxz2/bafkreieumz4ev2qbjpbrlo3mjag5pfqdiy4heyghicwujy2xegj2zccjlm"
+			},
+			"date": "2025-05-17T10:55:20.213Z",
+			"content": "<p>Oh, third-party hell from Tag Manager always drastically worsens Lighthouse scores, even if they were initially good</p>",
+			"via": "bluesky"
+		}
+	]
+}

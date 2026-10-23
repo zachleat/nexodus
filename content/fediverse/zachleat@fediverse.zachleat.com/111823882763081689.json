@@ -1,0 +1,238 @@
+{
+	"comments": [
+		{
+			"id": "111823886048680142",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111823886048680142",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-26T19:24:49.363Z",
+			"content": "<p>(So many Vercel folks are missing from Mastodon 👀)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111823933234069878",
+			"parentId": "111823886048680142",
+			"url": "https://indieweb.social/@ThePaulMcBride/111823932510943842",
+			"author": {
+				"name": "Paul McBride",
+				"url": "https://indieweb.social/@ThePaulMcBride",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/382/523/681/123/568/original/ee6d17c2d17197d4.jpg"
+			},
+			"date": "2024-01-26T19:36:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> same with the Remix team</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111823937925417617",
+			"parentId": "111823933234069878",
+			"url": "https://fediverse.zachleat.com/@zachleat/111823937925417617",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-26T19:38:00.942Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ThePaulMcBride\" class=\"u-url mention\">@<span>ThePaulMcBride</span></a></span> yeah…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111823953404387918",
+			"parentId": 0,
+			"url": "https://sunny.garden/@Lowrain/111823953193289109",
+			"author": {
+				"name": "Loraine Lawson",
+				"url": "https://sunny.garden/@Lowrain",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/224/788/726/444/original/7847edaf0f09843c.jpeg"
+			},
+			"date": "2024-01-26T19:41:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There was a tweet from JS framework creator Fred Schott with a graph showing that Next.js was going to perform poorly with the new Interaction to Next Paint vital. Maybe a response to that? <a href=\"https://twitter.com/FredKSchott/status/1744843924274102348\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/FredKSchott/status</span><span class=\"invisible\">/1744843924274102348</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111823960460113117",
+			"parentId": "111823886048680142",
+			"url": "https://social.lol/@cory/111823960393579678",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2024-01-26T19:43:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we should rewrite it using Next. Build it and they will come sorta thing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111823995327040246",
+			"parentId": "111823953404387918",
+			"url": "https://fediverse.zachleat.com/@zachleat/111823995327040246",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-26T19:52:36.821Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@Lowrain\" class=\"u-url mention\">@<span>Lowrain</span></a></span> yeah, maybe! Seems like a similar sentiment!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824001392094664",
+			"parentId": "111823960460113117",
+			"url": "https://fediverse.zachleat.com/@zachleat/111824001392094664",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-26T19:54:09.366Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> field of nightmares 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824012085441625",
+			"parentId": "111824001392094664",
+			"url": "https://social.lol/@cory/111824012051692365",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2024-01-26T19:56:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it'll be fine 🫣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824026295142597",
+			"parentId": "111823886048680142",
+			"url": "https://mastodon.social/@evanfreeze/111824025890826646",
+			"author": {
+				"name": "Evan Freeze",
+				"url": "https://mastodon.social/@evanfreeze",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/653/833/270/826/original/9c1321ae4df3c038.jpeg"
+			},
+			"date": "2024-01-26T20:00:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I find it super weird the Vercel and Remix teams are just carrying on over there like everything’s normal and fine.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824058196715920",
+			"parentId": "111824026295142597",
+			"url": "https://fediverse.zachleat.com/@zachleat/111824058196715920",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-26T20:08:36.136Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@evanfreeze\" class=\"u-url mention\">@<span>evanfreeze</span></a></span> it ain’t just them</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824265981743753",
+			"parentId": "111823886048680142",
+			"url": "https://front-end.social/@benschwarz/111824265951884244",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2024-01-26T21:01:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ya it’s because they believe the eyeballs are on Twitter and despite ALL THE BULLSHIT, they can’t leave the eyeballs behind 💰</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824303280826717",
+			"parentId": "111824265981743753",
+			"url": "https://fediverse.zachleat.com/@zachleat/111824303280826717",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-26T21:10:55.824Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> fewer eyeballs *is* a sacrifice—I did expect a bit more backbone about this whole thing though (which was naïve)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824605465462317",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@andydavies/111824604849144515",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2024-01-26T22:27:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not just apps… I have plenty of examples of Next JS sites with reall poor INP times</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824613258479076",
+			"parentId": "111824605465462317",
+			"url": "https://fediverse.zachleat.com/@zachleat/111824613258479076",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-26T22:29:45.708Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> what are apps if not sites with mega-bundles 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111824944755371701",
+			"parentId": "111824265981743753",
+			"url": "https://indieweb.social/@alannorbauer/111824944507516552",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-01-26T23:54:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It must be weird for the React team members on Mastodon reading explanations for why they aren’t on Mastodon.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111825000764367870",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@Sergio/111825000540813929",
+			"author": {
+				"name": "Sergio Scabuzzo (EcoTechie)",
+				"url": "https://fosstodon.org/@Sergio",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/525/981/970/735/332/original/5535b1d61f6dff71.jpg"
+			},
+			"date": "2024-01-27T00:08:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I particularly appreciated the explanation of when data gets sent to Google.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111825028351886391",
+			"parentId": "111824944755371701",
+			"url": "https://front-end.social/@benschwarz/111825028322252874",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2024-01-27T00:15:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>alannorbauer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ll wait for it to actually happen first</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111853914818865973",
+			"parentId": "111823933234069878",
+			"url": "https://mamot.fr/@mokobien/111853914785625403",
+			"author": {
+				"name": "mokobien",
+				"url": "https://mamot.fr/@mokobien",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/065/232/600/845/649/original/6888f754d1a94e29.jpg"
+			},
+			"date": "2024-02-01T02:41:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ThePaulMcBride\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ThePaulMcBride</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Remix team is mostly Salt Lake City people driving Teslas so yeah not a surprise 😬</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"comments": [
+		{
+			"id": "111211886134315999",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sambreed/111211886042419972",
+			"author": {
+				"name": "\"sam breed\"",
+				"url": "https://mastodon.social/@sambreed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/362/907/508/579/266/original/0f443e1eb36e74a6.png"
+			},
+			"date": "2023-10-10T17:25:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@kateholterhoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kateholterhoff</span></a></span> anecdotally non-Next.js sites on Vercel have been having massive problems over the past month, streaming responses randomly terminate or hang open until they timeout.  Not only that, their support is completely broken, you have to use twitter DMs with them to get anywhere. Trust in their platform is basically zero in my neck of the woods.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211917889168665",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@kateholterhoff/111211917859481048",
+			"author": {
+				"name": "Kate Holterhoff",
+				"url": "https://hachyderm.io/@kateholterhoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/819/388/233/908/420/original/d4ea220927bed129.jpg"
+			},
+			"date": "2023-10-10T17:33:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Appreciate the positive feedback, especially as so much of my reading on the subject came back to your experience.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211922654215646",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/111211922631966669",
+			"private": true,
+			"date": "2023-10-10T17:34:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211934321274083",
+			"parentId": "111211886134315999",
+			"url": "https://fosstodon.org/@chris_hayes/111211934308308743",
+			"private": true,
+			"date": "2023-10-10T17:37:26.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212102033865517",
+			"parentId": "111211886134315999",
+			"url": "https://fediverse.zachleat.com/@zachleat/111212102033865517",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T18:20:06.130Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sambreed\" class=\"u-url mention\">@<span>sambreed</span></a></span> oof!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212104729653026",
+			"parentId": "111211934321274083",
+			"url": "https://fediverse.zachleat.com/@zachleat/111212104729653026",
+			"private": true,
+			"date": "2023-10-10T18:20:47.265Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212192901186135",
+			"parentId": "111212104729653026",
+			"url": "https://fosstodon.org/@chris_hayes/111212192880914885",
+			"private": true,
+			"date": "2023-10-10T18:43:12.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212206538787961",
+			"parentId": "111212192901186135",
+			"url": "https://fosstodon.org/@chris_hayes/111212206492804591",
+			"private": true,
+			"date": "2023-10-10T18:46:40.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212248150339348",
+			"parentId": "111212206538787961",
+			"url": "https://fediverse.zachleat.com/@zachleat/111212248150339348",
+			"private": true,
+			"date": "2023-10-10T18:57:15.690Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212264304880286",
+			"parentId": "111212248150339348",
+			"url": "https://fosstodon.org/@chris_hayes/111212264289085851",
+			"private": true,
+			"date": "2023-10-10T19:01:21.000Z",
+			"via": "fediverse"
+		}
+	]
+}

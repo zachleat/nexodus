@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qi3skamii7zymgxvmie5ipxd/app.bsky.feed.post/3md22fvou622p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cydstumpel.nl/post/3md22fvou622p",
+			"author": {
+				"name": "Cyd Stumpel",
+				"url": "https://bsky.app/profile/cydstumpel.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qi3skamii7zymgxvmie5ipxd/bafkreih7ppisbg5obptpjp3coglacu2xvysm2vctqaykkwrtappjygvnty"
+			},
+			"date": "2026-01-22T20:43:27.183Z",
+			"content": "<p>Thanks for sharing! 😄 I followed this video from Yuri: <a href=\"https://www.youtube.com/watch?v=Xg6aYfuvRHk\">www.youtube.com/watch?v=Xg6a...</a> <a href=\"https://bsky.app/profile/did:plc:53q2rvmmzfswevp3a7phdetp\">@akella.bsky.social</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3md22sipjjk23",
+			"parentId": "at://did:plc:qi3skamii7zymgxvmie5ipxd/app.bsky.feed.post/3md22fvou622p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3md22sipjjk23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-22T20:50:29.783Z",
+			"content": "<p>Awesome! I’ve met <a href=\"https://bsky.app/profile/did:plc:53q2rvmmzfswevp3a7phdetp\">@akella.bsky.social</a>! That doesn’t seem like their voice 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qi3skamii7zymgxvmie5ipxd/app.bsky.feed.post/3md22ybr4qc2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3md22sipjjk23",
+			"url": "https://bsky.app/profile/cydstumpel.nl/post/3md22ybr4qc2p",
+			"author": {
+				"name": "Cyd Stumpel",
+				"url": "https://bsky.app/profile/cydstumpel.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qi3skamii7zymgxvmie5ipxd/bafkreih7ppisbg5obptpjp3coglacu2xvysm2vctqaykkwrtappjygvnty"
+			},
+			"date": "2026-01-22T20:53:43.822Z",
+			"content": "<p>😂 autodubbing is so strange, it’s an English video too, weird</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3md235cg3i22q",
+			"parentId": "at://did:plc:qi3skamii7zymgxvmie5ipxd/app.bsky.feed.post/3md22ybr4qc2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3md235cg3i22q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-22T20:56:32.276Z",
+			"content": "<p>OH! Wild! I just noticed the original audio track that it somehow detected as Russian (but is actually English)</p>",
+			"via": "bluesky"
+		}
+	]
+}

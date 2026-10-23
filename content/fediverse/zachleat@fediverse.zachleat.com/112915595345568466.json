@@ -1,0 +1,93 @@
+{
+	"comments": [
+		{
+			"id": "112915612910425301",
+			"parentId": 0,
+			"url": "https://social.ericwbailey.website/@eric/112915612879793327",
+			"private": true,
+			"date": "2024-08-06T14:45:18.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112915616183584578",
+			"parentId": "112915612910425301",
+			"url": "https://fediverse.zachleat.com/@zachleat/112915616183584578",
+			"private": true,
+			"date": "2024-08-06T14:46:09.211Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112915633376044964",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cferdinandi/112915633268681580",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2024-08-06T14:50:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You talked to my wife, I see? (she's an accountant. EVERYTHING is a spreadsheet.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112915685501752691",
+			"parentId": "112915633376044964",
+			"url": "https://fediverse.zachleat.com/@zachleat/112915685501752691",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T15:03:46.922Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> clearly she has good taste</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112915751354573669",
+			"parentId": "112915685501752691",
+			"url": "https://mastodon.social/@cferdinandi/112915751171222806",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2024-08-06T15:20:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> In spreadsheet software? Yes. In the person she married? Not so much.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112915752479068219",
+			"parentId": "112915751354573669",
+			"url": "https://fediverse.zachleat.com/@zachleat/112915752479068219",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T15:20:48.916Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> I said what I said</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112916246033955948",
+			"parentId": 0,
+			"url": "https://mastodon.online/@0x33/112916246009884841",
+			"private": true,
+			"date": "2024-08-06T17:26:19.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112916664761960231",
+			"parentId": 0,
+			"url": "https://bell.bz/@andy/112916664751629782",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bell.bz/@andy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/871/123/336/966/original/e6a047a53e9b945e.jpg"
+			},
+			"date": "2024-08-06T19:12:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> can barely do medium decisions without one 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

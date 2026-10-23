@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "110021878216279673",
+			"parentId": 0,
+			"url": "https://front-end.social/@5t3ph/110021878183862724",
+			"author": {
+				"name": "Stephanie Eckles",
+				"url": "https://front-end.social/@5t3ph",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/732/343/824/585/original/67fb609275980a3e.png"
+			},
+			"date": "2023-03-14T13:30:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Zach. It is too early.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022204720487958",
+			"parentId": 0,
+			"url": "https://social.coop/@eb/110022204367948692",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2023-03-14T14:53:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://gist.github.com/0kku/03818347458b229e013f1f34602cb0c9\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/0kku/038183474</span><span class=\"invisible\">58b229e013f1f34602cb0c9</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022227558950014",
+			"parentId": "110022204720487958",
+			"url": "https://fediverse.zachleat.com/@zachleat/110022227558950014",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-14T14:59:22.506Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@eb\" class=\"u-url mention\">@<span>eb</span></a></span> oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022234106876102",
+			"parentId": "110021878216279673",
+			"url": "https://fediverse.zachleat.com/@zachleat/110022234106876102",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-14T15:01:02.419Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@5t3ph\" class=\"u-url mention\">@<span>5t3ph</span></a></span> we banked a ton of daylight this week stephanie</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022321350321776",
+			"parentId": "110022227558950014",
+			"url": "https://social.coop/@eb/110022321324066511",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2023-03-14T15:23:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love this stuff though. For my OpenAPI client (it's own typescript monstrosity, for the record), I plan to fully type the output URL of .compile to be exactly what it is fetching in the code (ie: /route/page?limit=10 *is* the type). Just for fun.</p><p>It's annoying how typescript really likes to throw fully typed strings into the void whenever you aren't careful (ie `(\"1\" | \"2\") + (\"1\" | \"2\") -&gt; string` instead of `\"12\" | \"11\" | \"21\" | \"22\"`</p><p><a href=\"https://github.com/boehs/ajar\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/boehs/ajar</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110023155019900812",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/110023154980395610",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2023-03-14T18:55:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> free bad implementation: <a href=\"https://tweets.dwac.dev/1308542105002733568/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tweets.dwac.dev/13085421050027</span><span class=\"invisible\">33568/</span></a></p><p>Probably not what you were imagining, but it's what I immediately thought of.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110027425938056782",
+			"parentId": "110023155019900812",
+			"url": "https://fediverse.zachleat.com/@zachleat/110027425938056782",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T13:01:23.476Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> I mean, how dare you make something that looks useful though Doug</p>",
+			"via": "fediverse"
+		}
+	]
+}

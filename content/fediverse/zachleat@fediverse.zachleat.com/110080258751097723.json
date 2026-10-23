@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "110080282023537723",
+			"parentId": 0,
+			"url": "https://mastodon.online/@catraxx/110080281946970876",
+			"author": {
+				"name": "catraxx",
+				"url": "https://mastodon.online/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/608/749/274/424/original/42d350ec8aae85d7.jpg"
+			},
+			"date": "2023-03-24T21:03:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Same for <a href=\"https://raw.githubusercontent.com/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">raw.githubusercontent.com/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110080283601527176",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110080283601527176",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-24T21:03:47.418Z",
+			"content": "<p>oh no it’s quite a few github domains: <a href=\"https://github.com/orgs/community/discussions/50966\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/community/disc</span><span class=\"invisible\">ussions/50966</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110080310105441028",
+			"parentId": 0,
+			"url": "https://social.lol/@cory/110080309945853093",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2023-03-24T21:10:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this whole internet thing is just duct tape and twine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110080447175317358",
+			"parentId": "110080283601527176",
+			"url": "https://mastodon.social/@43081j/110080447143911410",
+			"author": {
+				"name": "James Garbutt",
+				"url": "https://mastodon.social/@43081j",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/627/478/271/597/914/original/1a2ec78896acfe21.jpg"
+			},
+			"date": "2023-03-24T21:45:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is also affecting some npm packages that pull down external binaries/files on similar domains 😞</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110080449586034177",
+			"parentId": "110080447175317358",
+			"url": "https://fediverse.zachleat.com/@zachleat/110080449586034177",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-24T21:46:00.144Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@43081j\" class=\"u-url mention\">@<span>43081j</span></a></span> the avatars are back, hopefully the rest are resolved soon!</p>",
+			"via": "fediverse"
+		}
+	]
+}

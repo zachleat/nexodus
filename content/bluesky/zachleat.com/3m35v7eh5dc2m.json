@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3m364ai6jh22m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3m364ai6jh22m",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-10-14T16:05:18.658Z",
+			"content": "<p>I mean, who doesn't?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m364xx7das2i",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3m364ai6jh22m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m364xx7das2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-14T16:18:26.168Z",
+			"content": "<p>almost everyone that has read this blog post 😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

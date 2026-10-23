@@ -1,0 +1,343 @@
+{
+	"comments": [
+		{
+			"id": "112870110942687609",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/112870110918818563",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2024-07-29T13:53:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hahaahahahaaaaaaa!</p><p>*wipes tear away*</p><p>hahahahaaaaaahaaha</p><p>*doubles over*</p><p>hahahugh ugh aaa aaaaa</p><p>Good one! Good one!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870190646857557",
+			"parentId": "112870110942687609",
+			"url": "https://fediverse.zachleat.com/@zachleat/112870190646857557",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-29T14:13:50.525Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\">@<span>mattwilcox</span></a></span> our analytics indicate that you in fact wiped two tears away</p><p>here are some ads for sanitary wipes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870219824407924",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/112870218492309551",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-29T14:20:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> mostly yes. There is a bit of pushback because it's useful to identify fraud sometimes (I was surprised at this too, which is why I put it in <a href=\"https://web.dev/learn/privacy/fingerprinting\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">web.dev/learn/privacy/fingerpr</span><span class=\"invisible\">inting</span></a>), but I think browser makers certainly, in general, would claim that they're against fingerprinting. Whether they actually are, rather than being against the appearance of it, or against specific features which they then claim to drop for fingerprinting reasons, or against anyone except them doing it, is another question.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870257147614679",
+			"parentId": "112870219824407924",
+			"url": "https://fediverse.zachleat.com/@zachleat/112870257147614679",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-29T14:30:45.246Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> *whew* yeah.</p><p>What kind of fraud do you have in mind there?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870271255826193",
+			"parentId": "112870257147614679",
+			"url": "https://mastodon.social/@sil/112870271163487885",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-29T14:34:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Basically, identifying bots pretending to be a person. There is a lot of double-talk on this front, with companies selling all sorts of fingerprinting products which claim they're there to detect automated account setup and so on, but then also have a big paragraph which says \"oh and also you can tell if the same user has come back even if they delete all their cookies! if you would perchance find this useful for your ad tech!\" (just search for \"web fingerprinting fraud detection\")</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870276117759829",
+			"parentId": "112870271255826193",
+			"url": "https://mastodon.social/@sil/112870275732721446",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-29T14:35:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but I am told that this is not *entirely* disingenuous and the fraud detection stuff is actually useful, sometimes, even if the products being sold do at least some of the time use it as a figleaf to encourage user tracking across sessions in a way that compromises privacy.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870294843485500",
+			"parentId": "112870271255826193",
+			"url": "https://fediverse.zachleat.com/@zachleat/112870294843485500",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-29T14:40:20.438Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> What a mess.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870912182678700",
+			"parentId": 0,
+			"url": "https://toot.cafe/@slightlyoff/112870912050930748",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:17:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The terms of this debate are regrettably stupid.</p><p>The question isn't \"is fingerprinting bad?\", the operative question is \"can fingerprinting be reasonably avoided?\"</p><p>The answer is \"no\" in the short run, and \"absolutely not\" over moderate time periods. Which means we're now in management/risk tradeoff territory.</p><p>But *some* vendors are actively misleading folks about which question we are trying to answer.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870919609458503",
+			"parentId": "112870912182678700",
+			"url": "https://toot.cafe/@slightlyoff/112870919516142060",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:19:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> BTW, this is not a defense of 3P cookies. They should probably disappear. And the work on sign-in substitutes has been exemplary.</p><p>What's extremely frustrating about this is that some parties want to sell us the idea that you can just buy privacy (usually for the price of a new phone) because they'll make fingerprinting impossible.</p><p>But that's not how ANY of this works.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870939953069623",
+			"parentId": "112870919609458503",
+			"url": "https://toot.cafe/@slightlyoff/112870939349763714",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:24:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> In reality, fingerprinting is about subdividing users into small buckets in order to *reidentify without consent. *But users do lots of things on their devices, and there are *many* ways for entropy to leak. And the consent line is pretty fungible too.</p><p>The largest technical barriers to removing reidentifiers are intrinsic device properties (screen size, density, a11y settings, etc.). And the vendors pushing \"privacy\" aren't levelling with anyone about those.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870949634015579",
+			"parentId": "112870939953069623",
+			"url": "https://toot.cafe/@slightlyoff/112870949485661144",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:26:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> In reality, the way you'd attack this stuff is to:</p><p> - always run in a VM to cap/fix clock rate and CPU core count<br> - disallow JIT<br> - cap memory to a low amount via VM <br> - never allow HW-accelerated video encode/decode<br> - only allow a fixed set of window sizes and DPI<br> - always route through a single (or a small number of) VPN egress nodes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870965907395398",
+			"parentId": "112870949634015579",
+			"url": "https://toot.cafe/@slightlyoff/112870965628915253",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:30:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh, and forget keyboard or touch input. Users are pretty unique. But nobody's selling that. Instead, they're selling \"make life inconvenient for certain pervasive collectors in the short run\".</p><p>This is fundamentally ineffective because all it does is elongate the time window for reidentification. Also, because it would push folks into native apps, where the fingerprinting situation is *dire*, despite the OS vendors nominally \"reviewing\" native apps.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870970162379302",
+			"parentId": "112870965907395398",
+			"url": "https://toot.cafe/@slightlyoff/112870969918418090",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:32:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So, if this is kayfabe, we have a few questions on the other side of it:</p><p> - does all of this stuff do *nothing*?<br> - why are \"privacy people\" so excited about it?<br> - what's a real solution?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870976140475453",
+			"parentId": "112870939953069623",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J3ZRVV8AJ4CQ5XZNEKXZKETX",
+			"private": true,
+			"date": "2024-07-29T17:33:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870977409305678",
+			"parentId": "112870970162379302",
+			"url": "https://toot.cafe/@slightlyoff/112870977298895210",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:33:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The last one is the simplest: a real fucking privacy law.</p><p>BTW, you can tell that this *is* kayfabe, or at least hugely dishonest marketing, because the same companies that are trying to sell you a new phone (because privacy!) are *NOT* lobbying hard to get toothsome privacy laws passed.</p><p>If they were, I'd have some respect for the short-run interventions as stop-gaps. But that's not what's happening.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870981109490816",
+			"parentId": "112870976140475453",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J3ZRY6P0VPFPKR2XXPVPC70Z",
+			"private": true,
+			"date": "2024-07-29T17:34:46.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112870993952390631",
+			"parentId": "112870977409305678",
+			"url": "https://toot.cafe/@slightlyoff/112870993813092974",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:38:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Apple is *absolutely* spending more money lobbying to prevent you from having a choice in browsers (including browsers that might offer better privacy) than they are to try to get strong privacy legislation passed.</p><p>Apple is spending WAY more to defeat right-to-repair legislation than they are to build a pro-privacy legislation constituency.</p><p>And they're spending obscenely more on misleading ads and billboards w/ dodgy privacy claims than lobbying to end unauthorized reidentification.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112871004676481966",
+			"parentId": "112870993952390631",
+			"url": "https://toot.cafe/@slightlyoff/112871004521291989",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:40:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So back to the first question: what does this stuff *do*?</p><p>Admitting that reidentification is always going to be possible over a long enough time horizon (because privacy != security; neither are binary, but privacy leans into the time dimension which breaks brains), what interventions about silent tracking/reidentification mechanisms do, in practice, is fire-and-motion towards the largest, most pervasive collectors.</p><p>It's like IDFA/ATT; not a solution to tracking, but an inconvenience</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112871009661639094",
+			"parentId": "112871004676481966",
+			"url": "https://toot.cafe/@slightlyoff/112871009402255820",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:42:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Does annoying the people whose business models depend on tracking help users? Well, it certainly can make some of the creepy middlemen less effective in the short run. But not the long run. And if you're happy to be on a \"buy this new phone because privacy!\" upgrade treadmill...OK? But it's not a solution.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112871016373867235",
+			"parentId": "112871009661639094",
+			"url": "https://toot.cafe/@slightlyoff/112871016254359939",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:43:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So why are \"privacy advocates\" going along with this?</p><p>First, they're (rightly) happy to see some of the worst collectors lives made harder. </p><p>Second, some of them are truly confused about the threat model (do better!)</p><p>And third, some hope that they can pivot from arguments about collection to the important debate over time, so long as privacy is seen to be important.</p><p>But what Apple and others have done is to redefine privacy, not pivot. A devil's bargain.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112871033420680381",
+			"parentId": "112871016373867235",
+			"url": "https://toot.cafe/@slightlyoff/112871033121003794",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T17:48:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Anyway, it's long past time for folks to stop having this debate at the level phone vendors want you to have it at.</p><p>The only way to get privacy in practice is for data recombining to become painful and expensive. To turn data at rest about users into radioactive waste, not an asset to be minded. That requires changes to the law.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112871079202701436",
+			"parentId": "112871033420680381",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J3ZTBV8P75TKMQYQWXM8WMCE",
+			"private": true,
+			"date": "2024-07-29T17:59:42.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112871843114463218",
+			"parentId": "112871033420680381",
+			"url": "https://fediverse.zachleat.com/@zachleat/112871843114463218",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-29T21:14:05.179Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> Alex this would make for a wonderful blog post 😅👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112872132951209432",
+			"parentId": "112871843114463218",
+			"url": "https://toot.cafe/@slightlyoff/112872132799280222",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-29T22:27:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Considering it. Particularly as I forgot to mention that these same companies are allowing FB and others to shove in-app browsers into your experience, enabling levels of tracking that would make any honest browser vendor blanche.</p><p>It's duplicitous in the extreme.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112872609208444005",
+			"parentId": "112870965907395398",
+			"url": "https://village.elrant.team/notes/9wb8v8zen8et0oyl",
+			"private": true,
+			"date": "2024-07-30T00:28:54.458Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112872642558191294",
+			"parentId": "112872609208444005",
+			"url": "https://toot.cafe/@slightlyoff/112872642393603855",
+			"private": true,
+			"date": "2024-07-30T00:37:21.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112878596298404817",
+			"parentId": "112872132951209432",
+			"url": "https://toot.cafe/@slightlyoff/112878596197554322",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-07-31T01:51:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh look:</p><p><a href=\"https://infrequently.org/2024/07/misfire/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infrequently.org/2024/07/misfi</span><span class=\"invisible\">re/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112881557794501016",
+			"parentId": "112878596298404817",
+			"url": "https://fediverse.zachleat.com/@zachleat/112881557794501016",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-31T14:24:39.433Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> excellent—thank you!</p><p>also TIL the word kayfabe and what an incredible word it is 🏆</p>",
+			"via": "fediverse"
+		}
+	]
+}

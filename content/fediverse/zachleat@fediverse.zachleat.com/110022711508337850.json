@@ -1,0 +1,225 @@
+{
+	"comments": [
+		{
+			"id": "110022731420613420",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110022731420613420",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-14T17:07:30.830Z",
+			"content": "<p>It strikes me that it might be useful to have a comprehensive web performance analysis tool with similar flame graph output that reports a holistic view of the performance of a web site (showing how every  asset on the site influences the performance, not just JavaScript execution).</p><p>Does this exist?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022739238698233",
+			"parentId": "110022731420613420",
+			"url": "https://toot.cafe/@zander/110022739138704009",
+			"author": {
+				"name": "Zander",
+				"url": "https://toot.cafe/@zander",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/621/507/880/021/original/d5e0b4723255b940.png"
+			},
+			"date": "2023-03-14T17:09:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> WebPageTest must have a tool like that. Been a while since I used it though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022754335515746",
+			"parentId": "110022739238698233",
+			"url": "https://fediverse.zachleat.com/@zachleat/110022754335515746",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-14T17:13:20.477Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@zander\" class=\"u-url mention\">@<span>zander</span></a></span> WebPageTest is the GOAT for sure!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022759262547441",
+			"parentId": "110022731420613420",
+			"url": "https://mastodon.social/@Spiricom/110022759139294005",
+			"author": {
+				"name": "Spiricom",
+				"url": "https://mastodon.social/@Spiricom",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/433/483/477/921/146/original/fccc60bcd46fe1c7.gif"
+			},
+			"date": "2023-03-14T17:14:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022997780263878",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@marvinh/110022997752161641",
+			"author": {
+				"name": "marvinh",
+				"url": "https://infosec.exchange/@marvinh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/653/406/195/275/811/original/5940180746c3231f.jpg"
+			},
+			"date": "2023-03-14T18:15:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> check out node's built-in --cpu-prof arg. That generates a profile which you can then inspect in speedscope. It has a much nicer UX and has a left heavy view which makes it much easier to spot slow calls</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110023088995176221",
+			"parentId": "110022997780263878",
+			"url": "https://fediverse.zachleat.com/@zachleat/110023088995176221",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-14T18:38:26.981Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@marvinh\" class=\"u-url mention\">@<span>marvinh</span></a></span> super helpful thank you! Sandwich mode seems awesome too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110023176587551672",
+			"parentId": "110022731420613420",
+			"url": "https://mastodon.social/@Yoav/110023176296582610",
+			"author": {
+				"name": "Yoav Weiss",
+				"url": "https://mastodon.social/@Yoav",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/999/800/423/549/original/cc78be1427766c87.jpg"
+			},
+			"date": "2023-03-14T19:00:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ^^ <span class=\"h-card\"><a href=\"https://indieweb.social/@jackf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jackf</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110023849615976240",
+			"parentId": "110022731420613420",
+			"url": "https://hachyderm.io/@andydavies/110023849578399300",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-03-14T21:51:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://profiler.firefox.com\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">profiler.firefox.com</span><span class=\"invisible\"></span></a> had a flamegraph view but I’ve not checked whether it still works with Chrome traces for a while</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110025928600080550",
+			"parentId": "110022731420613420",
+			"url": "https://indieweb.social/@iamschulz/110025928579865496",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2023-03-15T06:40:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there are lots of tools. Webpagetest, gtmetrix, you could run your own metrics in a puppeteer or use Browserstack...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110027418203168883",
+			"parentId": "110025928600080550",
+			"url": "https://fediverse.zachleat.com/@zachleat/110027418203168883",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T12:59:25.451Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@iamschulz\" class=\"u-url mention\">@<span>iamschulz</span></a></span> hmm… it feels wrong that GTMetrix defaults to a desktop report 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110027443395088546",
+			"parentId": "110023849615976240",
+			"url": "https://fediverse.zachleat.com/@zachleat/110027443395088546",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T13:05:49.856Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> Strangely I’ve never tried this—but it looks amazing!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110027753369484242",
+			"parentId": "110027443395088546",
+			"url": "https://hachyderm.io/@andydavies/110027753193010794",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-03-15T14:24:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Looks like it still works - this is trace captured local in Chrome</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110027932846489261",
+			"parentId": "110027753369484242",
+			"url": "https://hachyderm.io/@andydavies/110027932435618663",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-03-15T15:10:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have also mentioned that this would be a really useful view to have in Chrome when asked for my opinion</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110031574825842066",
+			"parentId": "110023176587551672",
+			"url": "https://indieweb.social/@jackf/110031574777530026",
+			"author": {
+				"name": "Jack Franklin",
+				"url": "https://indieweb.social/@jackf",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/320/213/656/278/440/original/7f8b5909c98eccd7.png"
+			},
+			"date": "2023-03-16T06:36:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@Yoav\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Yoav</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> love this idea! We have a few things that we're thinking about for DevTools roughly in this area and I'll add this toot in if you don't mind 🙂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110033166778734300",
+			"parentId": "110031574825842066",
+			"url": "https://fediverse.zachleat.com/@zachleat/110033166778734300",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-16T13:21:21.753Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jackf\" class=\"u-url mention\">@<span>jackf</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Yoav\" class=\"u-url mention\">@<span>Yoav</span></a></span> yay! sounds great!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110033281966701281",
+			"parentId": "110022997780263878",
+			"url": "https://fediverse.zachleat.com/@zachleat/110033281966701281",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-16T13:50:39.387Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@marvinh\" class=\"u-url mention\">@<span>marvinh</span></a></span> This recommendation proved very fruitful thank you! <a href=\"https://github.com/11ty/webc/releases/tag/v0.9.3\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/webc/releases/</span><span class=\"invisible\">tag/v0.9.3</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110033404099514167",
+			"parentId": "110033281966701281",
+			"url": "https://infosec.exchange/@marvinh/110033404068573816",
+			"author": {
+				"name": "marvinh",
+				"url": "https://infosec.exchange/@marvinh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/653/406/195/275/811/original/5940180746c3231f.jpg"
+			},
+			"date": "2023-03-16T14:21:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that's awesome!</p>",
+			"via": "fediverse"
+		}
+	]
+}

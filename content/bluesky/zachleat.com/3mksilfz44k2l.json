@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3mksk2xxok22b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/richholman.com/post/3mksk2xxok22b",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://bsky.app/profile/richholman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fsgldxdhhtceel4mzjwko3ta/bafkreiewi2ur6qxzco7yrgr6h2saxguk4566paaicw23ijgc5oti2iq4du"
+			},
+			"date": "2026-05-01T16:23:55.456Z",
+			"content": "<p>LexisNexis? But that’s sector specific to legal. Science as well, peer review as a non organisational based system.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:eufjmxnsb7e4wkm4wdteqmyl/app.bsky.feed.post/3mktf5whrrs2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tonysdiary.bsky.social/post/3mktf5whrrs2s",
+			"author": {
+				"name": "Tony — dreams",
+				"url": "https://bsky.app/profile/tonysdiary.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eufjmxnsb7e4wkm4wdteqmyl/bafkreihep3l4rnuan5sxi42neke24mbukuuhdshmko3c3y7lsfkfwxhc2i"
+			},
+			"date": "2026-05-02T00:28:45.577Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkvsi4amoh2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/humaiblog.bsky.social/post/3mkvsi4amoh2h",
+			"author": {
+				"name": "Mark",
+				"url": "https://bsky.app/profile/humaiblog.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:67jghsfs6tu4vnmvylq7kxru/bafkreiflyqje5yoqwpdhpaswb5cvi4codar4z3jmsbs6rnkcguy2e47qqi"
+			},
+			"date": "2026-05-02T23:32:25.053Z",
+			"content": "<p>OpenStreetMap and Common Crawl belong on that list. OSM organized the world's spatial data into something openly queryable. Common Crawl quietly built the web archive that powers most LLM training. Both run on shoestring budgets and ship a public good.</p>",
+			"via": "bluesky"
+		}
+	]
+}

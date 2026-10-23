@@ -1,0 +1,59 @@
+{
+	"comments": [
+		{
+			"id": "111166114988917300",
+			"parentId": 0,
+			"url": "https://mastodon.social/@brad_frost/111166114734556658",
+			"author": {
+				"name": "brad_frost",
+				"url": "https://mastodon.social/@brad_frost",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/386/991/666/940/original/1dfa3af63e235b5a.png"
+			},
+			"date": "2023-10-02T15:24:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great one. I still use that phrase to this day.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111166135128859319",
+			"parentId": "111166114988917300",
+			"url": "https://fediverse.zachleat.com/@zachleat/111166135128859319",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T15:30:06.826Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@brad_frost\" class=\"u-url mention\">@<span>brad_frost</span></a></span> still not sure if that’s the origin, it seems older than 2012 to me?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111166185311665126",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/111166185267282052",
+			"private": true,
+			"date": "2023-10-02T15:42:51.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111166218430763180",
+			"parentId": "111166185311665126",
+			"url": "https://fediverse.zachleat.com/@zachleat/111166218430763180",
+			"private": true,
+			"date": "2023-10-02T15:51:17.911Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111166226753074650",
+			"parentId": "111166135128859319",
+			"url": "https://mastodon.social/@brad_frost/111166226626653317",
+			"author": {
+				"name": "brad_frost",
+				"url": "https://mastodon.social/@brad_frost",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/386/991/666/940/original/1dfa3af63e235b5a.png"
+			},
+			"date": "2023-10-02T15:53:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think that 2012 sounds about right.</p>",
+			"via": "fediverse"
+		}
+	]
+}

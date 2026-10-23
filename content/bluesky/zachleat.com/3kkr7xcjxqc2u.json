@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:yhedl7yhmtcjy5sggfspmb6v/app.bsky.feed.post/3kkrafyzpwq2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fedetibaldo.com/post/3kkrafyzpwq2e",
+			"author": {
+				"name": "fedetibaldo | Wishlist KEEP MAKING",
+				"url": "https://bsky.app/profile/fedetibaldo.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhedl7yhmtcjy5sggfspmb6v/bafkreidmbfxy5xv4x55exhyfx2twj3zobgtd37z6tbvjuysyai6omfaipu"
+			},
+			"date": "2024-02-06T17:06:04.277Z",
+			"content": "<p>Ah, nice. I implemented a very similar component (in React) a few days ago. I called it SnapTrack, though</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kkrbr3vex42e",
+			"parentId": "at://did:plc:yhedl7yhmtcjy5sggfspmb6v/app.bsky.feed.post/3kkrafyzpwq2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3kkrbr3vex42e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-02-06T17:30:10.087Z",
+			"content": "<p>Great name!</p>",
+			"via": "bluesky"
+		}
+	]
+}

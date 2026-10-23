@@ -1,0 +1,38 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwxl4nznmz2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwxl4nznmz2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-30T17:09:47.726Z",
+			"content": "<p>looks like the soft-block to force an unfollow doesn’t work on bluesky either, unless it’s an eventual consistency bug</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3jwxlajvcrk2e",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwxl4nznmz2v",
+			"url": "https://bsky.app/profile/knowler.dev/post/3jwxlajvcrk2e",
+			"private": true,
+			"date": "2023-05-30T17:11:57.316Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3jwxphi3occ24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwxl4nznmz2v",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3jwxphi3occ24",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2023-05-30T18:27:25.581Z",
+			"content": "<p>I'm all about that hard block life.</p>",
+			"via": "bluesky"
+		}
+	]
+}

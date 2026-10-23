@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "112888788335991783",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112888788335991783",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-01T21:03:28.738Z",
+			"content": "<p>in order to use that file from your bucket in your lambda as a layer it needs to be in the same aws region, sure.</p><p>the one thing we know for sure is that servers are not allowed to communicate outside of their municipality</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112888801374351873",
+			"parentId": 0,
+			"url": "https://social.lol/@cory/112888801344969273",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2024-08-01T21:06:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 10mb is nowhere near enough for me to upload all my javascript</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112888848727407233",
+			"parentId": "112888801374351873",
+			"url": "https://fediverse.zachleat.com/@zachleat/112888848727407233",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-01T21:18:50.239Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> ISOMORPHIC NODE_MODULES coming soon in jordan peele’s newest film</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112888851094330733",
+			"parentId": "112888848727407233",
+			"url": "https://social.lol/@cory/112888851057845892",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2024-08-01T21:19:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's going to win a grammy</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112889020469700283",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/112889020347522403",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-01T22:02:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>S3<br>C<br>Rules<br>Everything<br>Around<br>Me</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112889022788892964",
+			"parentId": "112888788335991783",
+			"url": "https://mastodon.cc/@jgarber/112889022604216570",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-01T22:03:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s called localhost for a reason zach</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112889037222174696",
+			"parentId": "112888788335991783",
+			"url": "https://mastodon.cthos.dev/@cthos/112889037193718820",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-01T22:06:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You're speedrunning all of the gotchas, and I'm here for it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892662188292578",
+			"parentId": "112889022788892964",
+			"url": "https://fediverse.zachleat.com/@zachleat/112892662188292578",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-02T13:28:39.036Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> I’m considering putting a server in my house at this point 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892925052786228",
+			"parentId": "112892662188292578",
+			"url": "https://mastodon.cc/@jgarber/112892924946538705",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-02T14:35:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> a literal home page!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892926684032437",
+			"parentId": "112892662188292578",
+			"url": "https://mastodon.cc/@jgarber/112892926557212462",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-02T14:35:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also had the same intrusive thought on an increasingly frequent cadence</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892971885712694",
+			"parentId": "112892925052786228",
+			"url": "https://fediverse.zachleat.com/@zachleat/112892971885712694",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-02T14:47:24.643Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> a personal home page, …wait</p>",
+			"via": "fediverse"
+		}
+	]
+}

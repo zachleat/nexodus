@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "111171559983172965",
+			"parentId": 0,
+			"url": "https://front-end.social/@mxbck/111171559956327218",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://front-end.social/@mxbck",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/056/493/159/698/original/45a5e18ac98225c0.jpg"
+			},
+			"date": "2023-10-03T14:29:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> burying the lede here! </p><p>that \"-asaurus\" suffix is the pefect way to handle the \"has to contain a hyphen\" naming requirement for custom elements and I will now regard it as best practice</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111171582913980857",
+			"parentId": "111171559983172965",
+			"url": "https://fediverse.zachleat.com/@zachleat/111171582913980857",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-03T14:35:33.429Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\">@<span>mxbck</span></a></span></p><p>&lt;tooltip-asaurus&gt;<br />&lt;popup-asaurus&gt;<br />&lt;modal-asaurus&gt;</p><p>can confirm 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111171639240154294",
+			"parentId": "111171582913980857",
+			"url": "https://mastodon.cc/@jgarber/111171638968738621",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-10-03T14:49:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Some alternative options:</p><p>&lt;tooltip-rex&gt;<br>&lt;popup-opotamus&gt;<br>&lt;modal-phin&gt;</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111171644251585718",
+			"parentId": "111171639240154294",
+			"url": "https://fediverse.zachleat.com/@zachleat/111171644251585718",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-03T14:51:09.367Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> omg popup-opotamus 🏆🏆🏆🏆🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172605131167828",
+			"parentId": "111171639240154294",
+			"url": "https://mastodon.social/@jvhellemond/111172605098265065",
+			"author": {
+				"name": "Jan van Hellemond :mastodon:",
+				"url": "https://mastodon.social/@jvhellemond",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/376/875/109/623/051/original/990ecb18c0134dfe.jpeg"
+			},
+			"date": "2023-10-03T18:55:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgarber</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span><br>&lt;div-lodocus&gt;</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172890058847089",
+			"parentId": "111171644251585718",
+			"url": "https://mastodon.social/@erikKroes/111172889891746563",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2023-10-03T20:07:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgarber</span></a></span> I think I just broke my tongue</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "113200612426507434",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/113200612331854298",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2024-09-25T22:44:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Only 100 additions, seems smoll... 🙃</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113200798628079982",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jaredwhite/113200798595762520",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2024-09-25T23:31:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ah, a docs PR!</p><p>I'm not sure how you like to tackle that stuff, but I've come to discover it's so-o-o much easier to document new features in its own docs PR than co-located with code (Bridgetown’s a monorepo). I used to think I should try to write docs as if it's part of a checklist along with tests and other code-level concerns, and that really gunked up the works.</p><p>Anyways…just curious!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113203933101502639",
+			"parentId": "113200798628079982",
+			"url": "https://fediverse.zachleat.com/@zachleat/113203933101502639",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-26T12:48:56.242Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\">@<span>jaredwhite</span></a></span> I try really hard to maintain only one live/latest branch of docs—but some of this ESM stuff was too intrusive to live on `www` before `v3` shipped stable—thus the PR. Lots of v3 features are already documented on `www` right now!</p><p>I used to go nuts with versioned docs for every minor release but now I’m planning on just doing major release subdomains moving forward: <a href=\"https://www.11ty.dev/docs/versions/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/versions/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

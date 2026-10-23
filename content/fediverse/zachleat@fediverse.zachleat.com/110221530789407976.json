@@ -1,0 +1,423 @@
+{
+	"comments": [
+		{
+			"id": "110221542545930072",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110221542545930072",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T19:47:47.848Z",
+			"content": "<p>I should write a blog post</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221545855112994",
+			"parentId": "110221542545930072",
+			"url": "https://mastodon.online/@catraxx/110221545806806739",
+			"author": {
+				"name": "catraxx",
+				"url": "https://mastodon.online/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/608/749/274/424/original/42d350ec8aae85d7.jpg"
+			},
+			"date": "2023-04-18T19:48:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do it, i dare you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221553085250814",
+			"parentId": "110221542545930072",
+			"url": "https://fediverse.zachleat.com/@zachleat/110221553085250814",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T19:50:28.666Z",
+			"content": "<p>“React: Too big to fail”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221554758625238",
+			"parentId": 0,
+			"url": "https://floss.social/@janriemer/110221554704370742",
+			"private": true,
+			"date": "2023-04-18T19:50:53.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221556646507463",
+			"parentId": "110221554758625238",
+			"url": "https://fediverse.zachleat.com/@zachleat/110221556646507463",
+			"private": true,
+			"date": "2023-04-18T19:51:23.006Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221588052946433",
+			"parentId": "110221542545930072",
+			"url": "https://mastodon.social/@matthiasott/110221587918711379",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2023-04-18T19:59:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221696263804883",
+			"parentId": 0,
+			"url": "https://mastodon.social/@renestalder/110221694004941406",
+			"author": {
+				"name": "René Stalder",
+				"url": "https://mastodon.social/@renestalder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/363/455/748/660/original/7e3863e21bcc57dd.png"
+			},
+			"date": "2023-04-18T20:26:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We would use jQuery and it would still be less of mess I guess.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221744499192869",
+			"parentId": "110221696263804883",
+			"url": "https://fediverse.zachleat.com/@zachleat/110221744499192869",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T20:39:09.416Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@renestalder\" class=\"u-url mention\">@<span>renestalder</span></a></span> more or less messy is debatable! Almost certainly faster!</p><p>Now I’m imagining if jQuery had a JavaScript SSR evolution 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221748131236034",
+			"parentId": 0,
+			"url": "https://mone.dev/@matt/110221748043722149",
+			"author": {
+				"name": "Matthew Mone",
+				"url": "https://mone.dev/@matt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/474/476/684/145/798/original/0f165886c3a40594.jpg"
+			},
+			"date": "2023-04-18T20:40:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> can confirm. I live in this next era and its quite nice.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221755201029443",
+			"parentId": "110221748131236034",
+			"url": "https://fediverse.zachleat.com/@zachleat/110221755201029443",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T20:41:52.709Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mone.dev/@matt\" class=\"u-url mention\">@<span>matt</span></a></span> Say more!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221775084797238",
+			"parentId": "110221744499192869",
+			"url": "https://mastodon.social/@renestalder/110221774660361071",
+			"author": {
+				"name": "René Stalder",
+				"url": "https://mastodon.social/@renestalder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/363/455/748/660/original/7e3863e21bcc57dd.png"
+			},
+			"date": "2023-04-18T20:46:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Well maybe progressive enhancement would't have gone lost altogether, but we will never know. Somewhere in another meta universe there is probably a whole conference around a jQuerySelectorAll CSS-in-JS framework.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221792757505682",
+			"parentId": 0,
+			"url": "https://mastodon.social/@43081j/110221792074711752",
+			"author": {
+				"name": "James Garbutt",
+				"url": "https://mastodon.social/@43081j",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/627/478/271/597/914/original/1a2ec78896acfe21.jpg"
+			},
+			"date": "2023-04-18T20:51:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> do you think any change will happen now that vercel pretty much funds both react and svelte? i guess the react craze/paid-advocacy may not change even then, though..</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221799140151598",
+			"parentId": "110221775084797238",
+			"url": "https://fediverse.zachleat.com/@zachleat/110221799140151598",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T20:53:03.176Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@renestalder\" class=\"u-url mention\">@<span>renestalder</span></a></span> I just felt a chill</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221808375051678",
+			"parentId": "110221792757505682",
+			"url": "https://fediverse.zachleat.com/@zachleat/110221808375051678",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T20:55:24.080Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@43081j\" class=\"u-url mention\">@<span>43081j</span></a></span> whew, I have some thoughts but I think it’s probably better if I keep those to myself for now 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221825493856624",
+			"parentId": "110221808375051678",
+			"url": "https://mastodon.social/@43081j/110221825464615652",
+			"author": {
+				"name": "James Garbutt",
+				"url": "https://mastodon.social/@43081j",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/627/478/271/597/914/original/1a2ec78896acfe21.jpg"
+			},
+			"date": "2023-04-18T20:59:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ha, sure we all have a lot of thoughts/opinions about that movement right now :D</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221871517722186",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@mikestreety/110221871478300352",
+			"author": {
+				"name": "Mike",
+				"url": "https://hachyderm.io/@mikestreety",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/355/910/228/393/937/original/b6807fffc8104322.jpg"
+			},
+			"date": "2023-04-18T21:11:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Who says we're not using jQuery for everything 🤩</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110221880336054153",
+			"parentId": "110221871517722186",
+			"url": "https://fediverse.zachleat.com/@zachleat/110221880336054153",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T21:13:42.117Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mikestreety\" class=\"u-url mention\">@<span>mikestreety</span></a></span> hell yeah Mike</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110222013912080569",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/110222013845324242",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-04-18T21:47:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we ARE still using jQuery for everything. It’s on 75% of websites. JQuery is just like WordPress: everybody uses it, except people with loud voices who think they define what the web is.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110222063805584643",
+			"parentId": "110222013912080569",
+			"url": "https://fediverse.zachleat.com/@zachleat/110222063805584643",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T22:00:21.647Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> who you callin’ loud 😎</p><p>(well said!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110222081916444261",
+			"parentId": "110222063805584643",
+			"url": "https://mastodon.social/@sil/110222081872758672",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-04-18T22:04:57.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> obviously I myself love all the things that you build :) but most of the world and most of the web aren’t that enlightened. Jquery is really popular, except among people who don’t want it to be :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110222168751765523",
+			"parentId": "110222081916444261",
+			"url": "https://fediverse.zachleat.com/@zachleat/110222168751765523",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-18T22:27:02.998Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> of course this thread was not an indictment of jQuery, of which I was and am still a fan 🥰</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110222232653559038",
+			"parentId": "110222168751765523",
+			"url": "https://mastodon.social/@sil/110222232595637371",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-04-18T22:43:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> of course, and you’re fully doing the right thing, and no accusation. I don’t use jq these days because browsers do it all natively, which was the point of jq from the beginning. You know this, of course, and I know you know it! But those following: you should know this too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110222553942374692",
+			"parentId": "110221755201029443",
+			"url": "https://mone.dev/@matt/110222553878229323",
+			"author": {
+				"name": "Matthew Mone",
+				"url": "https://mone.dev/@matt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/474/476/684/145/798/original/0f165886c3a40594.jpg"
+			},
+			"date": "2023-04-19T00:04:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I no good with words, but I've been using Lit for years and I have felt no lack. I'm probably not best for making comparisons though, because I've never used React or Vue or anything, but I cannot imagine what people are saying when they say frameworks \"make it easy\" because I have felt like I've been missing anything I needed over the years, and its much easier to upgrade an adopted library than figure how to move up a framework major version tho the last I used of those was angularjs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110222965706427590",
+			"parentId": "110221542545930072",
+			"url": "https://sfba.social/@davids/110222965644328582",
+			"author": {
+				"name": "David Schlaepfer",
+				"url": "https://sfba.social/@davids",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-04-19T01:49:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://fediverse.zachleat.com/@zachleat/110220234925107067\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/110220234925107067</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110223229965483790",
+			"parentId": "110221553085250814",
+			"url": "https://indieweb.social/@Akmittal/110223229949544988",
+			"author": {
+				"name": "Amit Mittal",
+				"url": "https://indieweb.social/@Akmittal",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/449/642/388/785/652/original/0f88ef0c1cf55f22.jpg"
+			},
+			"date": "2023-04-19T02:56:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No one got fired for choosing React.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110223605164306953",
+			"parentId": "110221542545930072",
+			"url": "https://ruby.social/@Kowfm/110223605130159577",
+			"author": {
+				"name": "Karl Oscar Weber",
+				"url": "https://ruby.social/@Kowfm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/179/437/243/965/original/3149424c6c3b6da4.png"
+			},
+			"date": "2023-04-19T04:32:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> write it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110224056017130708",
+			"parentId": "110221542545930072",
+			"url": "https://mastodon.social/@erikKroes/110224055969386931",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2023-04-19T06:26:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Should you though?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110224061355157315",
+			"parentId": 0,
+			"url": "https://masto.ai/@teacherbuknoy/110224061270973058",
+			"author": {
+				"name": "Francis",
+				"url": "https://masto.ai/@teacherbuknoy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/826/053/615/887/original/21d8a482fc9e363c.png"
+			},
+			"date": "2023-04-19T06:28:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> to be fair, jQuery lives on in the browser because we now have built-in JS objects that were originally from jQuery.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110225594398988147",
+			"parentId": "110224061355157315",
+			"url": "https://fediverse.zachleat.com/@zachleat/110225594398988147",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-19T12:58:14.221Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@teacherbuknoy\" class=\"u-url mention\">@<span>teacherbuknoy</span></a></span> acquiescence to the platform was desirable by standards folks and the jQuery team—for whatever reason that does not appear to have happened with React</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110225595217926529",
+			"parentId": "110224056017130708",
+			"url": "https://fediverse.zachleat.com/@zachleat/110225595217926529",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-19T12:58:26.717Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@erikKroes\" class=\"u-url mention\">@<span>erikKroes</span></a></span> yes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110225605121371018",
+			"parentId": "110223229965483790",
+			"url": "https://fediverse.zachleat.com/@zachleat/110225605121371018",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-19T13:00:57.832Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@Akmittal\" class=\"u-url mention\">@<span>Akmittal</span></a></span> EXACTLY</p><p>*stares in IBM*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110225610871611393",
+			"parentId": "110222553942374692",
+			"url": "https://fediverse.zachleat.com/@zachleat/110225610871611393",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-19T13:02:25.587Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mone.dev/@matt\" class=\"u-url mention\">@<span>matt</span></a></span> appreciate the elaboration! Don’t undervalue your experience!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110252722736037050",
+			"parentId": "110225595217926529",
+			"url": "https://mastodon.social/@erikKroes/110252722700276350",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2023-04-24T07:57:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> where is it?</p>",
+			"via": "fediverse"
+		}
+	]
+}

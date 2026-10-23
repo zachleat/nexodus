@@ -1,0 +1,51 @@
+{
+	"comments": [
+		{
+			"id": "111267795551618542",
+			"parentId": 0,
+			"url": "https://tech.lgbt/@catraxx/111267790473821327",
+			"private": true,
+			"date": "2023-10-20T14:22:24.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111267877172667166",
+			"parentId": 0,
+			"url": "https://mastodon.social/@lekoarts/111267877109554649",
+			"author": {
+				"name": "Lennart",
+				"url": "https://mastodon.social/@lekoarts",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
+			},
+			"date": "2023-10-20T14:44:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Tip: You'll need to handle <a href=\"https://github.com/nodejs/node/issues/31710\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nodejs/node/issues/</span><span class=\"invisible\">31710</span></a><br>You can just always add the file protocol afaik</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268024126735297",
+			"parentId": "111267877172667166",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268024126735297",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:21:49.553Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\">@<span>lekoarts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> I somehow lucked into that approach before Windows😅  but it’s good to understand a bit more evidence for it! Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268181904841567",
+			"parentId": "111268024126735297",
+			"url": "https://mastodon.social/@lekoarts/111268181801021768",
+			"author": {
+				"name": "Lennart",
+				"url": "https://mastodon.social/@lekoarts",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
+			},
+			"date": "2023-10-20T16:01:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> heh, good for you 🎉😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

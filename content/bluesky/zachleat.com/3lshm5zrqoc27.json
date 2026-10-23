@@ -1,0 +1,478 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rzf7l6olyl67yfy2jwufdq7f/app.bsky.feed.post/3lshnrgulxk2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/humanwhocodes.com/post/3lshnrgulxk2k",
+			"author": {
+				"name": "Nicholas C. Zakas",
+				"url": "https://bsky.app/profile/humanwhocodes.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rzf7l6olyl67yfy2jwufdq7f/bafkreibbsrcnu4eml6civfhrgbmfanj3xy7gztrjsp2klrhdgfe3obp4he"
+			},
+			"date": "2025-06-25T22:26:14.318Z",
+			"content": "<p>Fake it til you something something…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3lshocqhez22v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mayank.co/post/3lshocqhez22v",
+			"private": true,
+			"date": "2025-06-25T22:35:54.797Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3lshpmozvs22j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/knowler.dev/post/3lshpmozvs22j",
+			"private": true,
+			"date": "2025-06-25T22:59:22.592Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lshrfji7n225",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3lshpmozvs22j",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lshrfji7n225",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-06-25T23:31:09.373Z",
+			"content": "<p>Oh man, you gotta try Eleventy! Check out my overbuilt starter! Join the discord! One of us! One of us!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3lshsxbkc2c2j",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lshrfji7n225",
+			"url": "https://bsky.app/profile/knowler.dev/post/3lshsxbkc2c2j",
+			"private": true,
+			"date": "2025-06-25T23:58:58.774Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lshtwi2ze22w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3lshtwi2ze22w",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-06-26T00:16:25.799Z",
+			"content": "<p>Maybe you are? Why are you side eyeing??</p>\n<p>I think Deno/Ryan see Node.js as the past and Deno as the future, hence backwards compatible</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3xuyghenhq3ch5x6et6zgkxq/app.bsky.feed.post/3lshwwhuroc2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kamranicus.com/post/3lshwwhuroc2h",
+			"author": {
+				"name": "Kamran Ayub",
+				"url": "https://bsky.app/profile/kamranicus.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3xuyghenhq3ch5x6et6zgkxq/bafkreiawr2li33flttjbmbq7wgpzdwajdux4v5ywmcvtwjtr3owhcyllku"
+			},
+			"date": "2025-06-26T01:10:06.822Z",
+			"content": "<p>Mostly*.</p>\n<p>*Ok, like 75%**.</p>\n<p>**Ok, like 50% fully and 25% partially.***</p>\n<p>***And like 6 that definitely aren't yet.</p>\n<p><a href=\"https://docs.deno.com/runtime/reference/node_apis/\">docs.deno.com/runtime/refe...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3xuyghenhq3ch5x6et6zgkxq/app.bsky.feed.post/3lshwxznmes2h",
+			"parentId": "at://did:plc:3xuyghenhq3ch5x6et6zgkxq/app.bsky.feed.post/3lshwwhuroc2h",
+			"url": "https://bsky.app/profile/kamranicus.com/post/3lshwxznmes2h",
+			"author": {
+				"name": "Kamran Ayub",
+				"url": "https://bsky.app/profile/kamranicus.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3xuyghenhq3ch5x6et6zgkxq/bafkreiawr2li33flttjbmbq7wgpzdwajdux4v5ywmcvtwjtr3owhcyllku"
+			},
+			"date": "2025-06-26T01:10:59.016Z",
+			"content": "<p>Marketing would not approve of my copy 😜</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lsinyjk5uc2h",
+			"parentId": "at://did:plc:3xuyghenhq3ch5x6et6zgkxq/app.bsky.feed.post/3lshwwhuroc2h",
+			"url": "https://bsky.app/profile/nicr.dev/post/3lsinyjk5uc2h",
+			"author": {
+				"name": "Nicolò Ribaudo",
+				"url": "https://bsky.app/profile/nicr.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:diblntoainoud2g6qk5bawks/bafkreid6uky7ac46qwmxlk7bllgnolzlgs7qyfkt24tdyscqpf6u7ehu5a"
+			},
+			"date": "2025-06-26T08:02:51.742Z",
+			"content": "<p>To be fair it would be great to see those percentages weighted by how frequently those various APIs are used.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bsax2z6bbugsvljtmzwq4vrv/app.bsky.feed.post/3lsisbgp2nc27",
+			"parentId": "at://did:plc:rzf7l6olyl67yfy2jwufdq7f/app.bsky.feed.post/3lshnrgulxk2k",
+			"url": "https://bsky.app/profile/lcas.dev/post/3lsisbgp2nc27",
+			"author": {
+				"name": "Luca Casonato 🏳️‍🌈",
+				"url": "https://bsky.app/profile/lcas.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bsax2z6bbugsvljtmzwq4vrv/bafkreigem7asyqnu3sqr34eemimwnejbsmdxpcbw2jvzyrmaaalbzhdbc4"
+			},
+			"date": "2025-06-26T09:19:25.714Z",
+			"content": "<p>Hey, that's not nice - what are we faking?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsiytljbic2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsiytljbic2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T11:16:57.198Z",
+			"content": "<p>This hadn't occurred to me as bring derogatory TBH. Is that the issue?</p>\n<p>I guess if you invent Node, and then invent Deno to be \"Node done the way I wish I had done it to start with\" (not 100% a quote from <a href=\"https://bsky.app/profile/did:plc:bh4myx375mqjiaxjphg74uay\">@tinyclouds.org</a>, but sorta) then this language would feel about right.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsiytlxaqs2w",
+			"parentId": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsiytljbic2w",
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsiytlxaqs2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T11:16:57.199Z",
+			"content": "<p>FWIW, much of the Deno community were keen for a clean break and distinct separation from Node, but then many more asked for greater compatibility to ease adoption and migration.</p>\n<p>I think this wording is intended to represent that. Not throw stones.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsiyyruk7k2w",
+			"parentId": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3lshocqhez22v",
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsiyyruk7k2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T11:19:51.630Z",
+			"content": "<p>I confess this hadn't occurred to me. I read that as meaning you can move to Deno from Node with good compatibility. Feels like standard language inn this context.</p>\n<p>But it's interesting to hear that this ruffles feathers. I don't think shade was intended. Perhaps greater sensitivity is needed here.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsj3epvkqs2w",
+			"parentId": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsiyyruk7k2w",
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsj3epvkqs2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T12:02:19.703Z",
+			"content": "<p>Needed this rather sooner than I had hoped (but not that much sooner than expected)</p>\n<p><a href=\"https://bsky.app/profile/philhawksworth.dev/post/3lruqmyukcs2e\">bsky.app/profile/phil...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lsj453ula227",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lshrfji7n225",
+			"url": "https://bsky.app/profile/vale.rocks/post/3lsj453ula227",
+			"author": {
+				"name": "Vale",
+				"url": "https://bsky.app/profile/vale.rocks",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7qg6mz2xtzozxkgbcvf4pdnu/bafkreiav5vj6xi33c7pcr2wtl3bqxsynlgd7rwdpvetnik75nte4ms5xzy"
+			},
+			"date": "2025-06-26T12:15:57.560Z",
+			"content": "<p>You guys got some sorta cult happening over there?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3lsj5wzuyyk22",
+			"parentId": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lsinyjk5uc2h",
+			"url": "https://bsky.app/profile/collinsworth.dev/post/3lsj5wzuyyk22",
+			"author": {
+				"name": "Josh Collinsworth",
+				"url": "https://bsky.app/profile/collinsworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr7ktxokjqc2suwnook4k73h/bafkreigotpy47tpnxj2sptza4bsjtdebl4dqyfk6ovvrb26prjpytiinjq"
+			},
+			"date": "2025-06-26T12:48:21.634Z",
+			"content": "<p>My understanding is that, while the percentage of overall Node support appears to be a relatively low number, it does indeed represent the vast majority of use cases.</p>\n<p>Similar to how just adding React support to something would be like 0.001% of npm, but would cover like 70% of current use cases.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lsj66n7qrk2b",
+			"parentId": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3lsj5wzuyyk22",
+			"url": "https://bsky.app/profile/nicr.dev/post/3lsj66n7qrk2b",
+			"author": {
+				"name": "Nicolò Ribaudo",
+				"url": "https://bsky.app/profile/nicr.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:diblntoainoud2g6qk5bawks/bafkreid6uky7ac46qwmxlk7bllgnolzlgs7qyfkt24tdyscqpf6u7ehu5a"
+			},
+			"date": "2025-06-26T12:52:36.791Z",
+			"content": "<p>This matches my experience</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lsj6r6jbv22d",
+			"parentId": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lsj453ula227",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lsj6r6jbv22d",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-06-26T13:02:58.908Z",
+			"content": "<p>😏</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rzf7l6olyl67yfy2jwufdq7f/app.bsky.feed.post/3lsj74praac2u",
+			"parentId": "at://did:plc:bsax2z6bbugsvljtmzwq4vrv/app.bsky.feed.post/3lsisbgp2nc27",
+			"url": "https://bsky.app/profile/humanwhocodes.com/post/3lsj74praac2u",
+			"author": {
+				"name": "Nicholas C. Zakas",
+				"url": "https://bsky.app/profile/humanwhocodes.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rzf7l6olyl67yfy2jwufdq7f/bafkreibbsrcnu4eml6civfhrgbmfanj3xy7gztrjsp2klrhdgfe3obp4he"
+			},
+			"date": "2025-06-26T13:09:26.092Z",
+			"content": "<p>The premise of “backwards compatibility” is that the other thing is old and your thing is new. You can’t be backwards compatible with a competitor. You can be compatible, though.</p>\n<p>FWIW I’m glad Node.js compat is finally here. Just maybe the marketing folks don’t grok the relationship.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3lsj7ecdslc27",
+			"parentId": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsiyyruk7k2w",
+			"url": "https://bsky.app/profile/mayank.co/post/3lsj7ecdslc27",
+			"private": true,
+			"date": "2025-06-26T13:13:40.456Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsj7ggh2vs2w",
+			"parentId": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3lsj7ecdslc27",
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsj7ggh2vs2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T13:14:51.867Z",
+			"content": "<p>This is helpful feedback. I'll make sure we talk about this here.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lsj7x2mbi22r",
+			"parentId": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3lsj7ecdslc27",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3lsj7x2mbi22r",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-06-26T13:24:09.881Z",
+			"content": "<p>Excellent opportunity to cram \"orthogonal\" in there instead and sound real clever.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lsj7zocljs2a",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lshtwi2ze22w",
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3lsj7zocljs2a",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-06-26T13:25:37.644Z",
+			"content": "<p>Having read the takes on this thread I feel like people should lighten up, sheesh.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:e2lcgwxhymx3q6u7blziecdr/app.bsky.feed.post/3lsja6h6hl22f",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lsj7x2mbi22r",
+			"url": "https://bsky.app/profile/anthonycregan.dev/post/3lsja6h6hl22f",
+			"author": {
+				"name": "Anthony Cregan",
+				"url": "https://bsky.app/profile/anthonycregan.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2lcgwxhymx3q6u7blziecdr/bafkreifjdpztgp5stmnkrxajjeodrpaaub7c3zbiof36n2ce6t36szfmlm"
+			},
+			"date": "2025-06-26T13:28:17.941Z",
+			"content": "<p>I just used this word in a document I am preparing and I am very proud of myself.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsjavaeuqk2w",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lsj7x2mbi22r",
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsjavaeuqk2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T13:41:02.563Z",
+			"content": "<p>For greater synergies, we can probably facilitate actioning that</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lsjazrttq22x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lsjazrttq22x",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-06-26T13:43:35.096Z",
+			"content": "<p>Co-compatible seems like the right word</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbamtxik22",
+			"parentId": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsiytlxaqs2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lsjbamtxik22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-26T13:47:24.739Z",
+			"content": "<p>I *really* need to stop posting things to socials at the end of the day 😭</p>\n<p>Yeah, I can see it both ways — I don’t think it was intentional shade!</p>\n<p>I think the folks that see the accidental shade in “Backwards” are more likely to think of Deno and Node as peers, fwiw.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbd4hd4k22",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3lshsxbkc2c2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lsjbd4hd4k22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-26T13:48:48.211Z",
+			"content": "<p>we need a Deno champion! I’ve been testing a little bit and it works with eleventy-base-blog</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbdxs5b222",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbd4hd4k22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lsjbdxs5b222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-26T13:49:16.876Z",
+			"content": "<p><a href=\"https://www.11ty.dev/docs/javascript-runtime/#deno\">www.11ty.dev/docs/javascr...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbfft4ys22",
+			"parentId": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lsj453ula227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lsjbfft4ys22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-26T13:50:05.143Z",
+			"content": "<p>I hope not</p>\n<p>no gods no masters</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbqnhilc22",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lsj7zocljs2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lsjbqnhilc22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-26T13:56:22.250Z",
+			"content": "<p>you’re right — this is pretty harmless (but it’s also okay to have opinions 🥹)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3xuyghenhq3ch5x6et6zgkxq/app.bsky.feed.post/3lsjbsuf3js2e",
+			"parentId": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lsinyjk5uc2h",
+			"url": "https://bsky.app/profile/kamranicus.com/post/3lsjbsuf3js2e",
+			"author": {
+				"name": "Kamran Ayub",
+				"url": "https://bsky.app/profile/kamranicus.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3xuyghenhq3ch5x6et6zgkxq/bafkreiawr2li33flttjbmbq7wgpzdwajdux4v5ywmcvtwjtr3owhcyllku"
+			},
+			"date": "2025-06-26T13:57:36.620Z",
+			"content": "<p>For sure. I haven't had any issues so far but I don't necessarily do production development in Deno yet. I'm sure they prioritize the major use cases first. In fact I recently ran a Qwik City app in Deno without any issues. 🤘</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lsjbubuvhs27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbfft4ys22",
+			"url": "https://bsky.app/profile/vale.rocks/post/3lsjbubuvhs27",
+			"author": {
+				"name": "Vale",
+				"url": "https://bsky.app/profile/vale.rocks",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7qg6mz2xtzozxkgbcvf4pdnu/bafkreiav5vj6xi33c7pcr2wtl3bqxsynlgd7rwdpvetnik75nte4ms5xzy"
+			},
+			"date": "2025-06-26T13:58:24.323Z",
+			"content": "<p>It would appear that God is dead. 11ty killed him.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbya5la22u",
+			"parentId": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lsjbubuvhs27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lsjbya5la22u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-26T14:00:36.728Z",
+			"content": "<p>we all need to learn to get along in this great big foxhole called life</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsjc54xmes2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbamtxik22",
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsjc54xmes2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T14:03:21.159Z",
+			"content": "<p>I'm glad you mentioned it. It doesn't seem like you were the only one who felt these feels.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lsjc6nn3ak2x",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbya5la22u",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lsjc6nn3ak2x",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-06-26T14:04:12.194Z",
+			"content": "<p>*bong rip noise increases*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3lsjcz7cvhk2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjbd4hd4k22",
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3lsjcz7cvhk2w",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2025-06-26T14:19:03.151Z",
+			"content": "<p>🫡</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjdl3dz5222",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lsjc6nn3ak2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lsjdl3dz5222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-26T14:29:02.973Z",
+			"content": "<p>(this was the perfect response thank you)</p>",
+			"via": "bluesky"
+		}
+	]
+}

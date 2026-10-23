@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lsyjexy72s25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3lsyjexy72s25",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2025-07-02T15:22:56.639Z",
+			"content": "<p>Such a great great link.</p>\n<p>I hadn't considered the merits of it being query strong before! That's so interesting, this sub navigation to an a distinct object within the page. And not as hash, but via query, so it links better.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lsyjijaxas25",
+			"parentId": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lsyjexy72s25",
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3lsyjijaxas25",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2025-07-02T15:24:55.414Z",
+			"content": "<p>Very apropro some of my recent ramblings reflecting on lands we haven't been exploring much in front end webdev! (Typo in post: *wander)<br>\n<a href=\"https://bsky.app/profile/jauntywk.bsky.social/post/3lsubp5vejk2x\">bsky.app/profile/jaun...</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

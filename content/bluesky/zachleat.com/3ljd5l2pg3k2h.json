@@ -1,0 +1,103 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljd5lqb7dc2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljd5lqb7dc2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-01T14:39:19.368Z",
+			"content": "<p>anyway node.js just bails out silently when this happens so it’s decidedly not a fun issue to track down 😭</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljd5ox3x222t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljd5lqb7dc2h",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3ljd5ox3x222t",
+			"private": true,
+			"date": "2025-03-01T14:41:07.199Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljd62vtwlk2h",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljd5ox3x222t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljd62vtwlk2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-01T14:47:48.541Z",
+			"content": "<p>well wait just one minute I love Node.js</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jhvkpmqkhh2xcxcxvqtwkfn3/app.bsky.feed.post/3ljd6xmri4s2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/crespo.at/post/3ljd6xmri4s2p",
+			"author": {
+				"name": "Luis Crespo",
+				"url": "https://bsky.app/profile/crespo.at",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jhvkpmqkhh2xcxcxvqtwkfn3/bafkreibfx55s2of6p3qmo6zcxvhuk2iy56ks2nbsxixuc44ncpzw6acxie"
+			},
+			"date": "2025-03-01T15:03:52.103Z",
+			"content": "<p>You can do that with some node.js JavaScript code? Can you please share an example?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljdbazyugk2h",
+			"parentId": "at://did:plc:jhvkpmqkhh2xcxcxvqtwkfn3/app.bsky.feed.post/3ljd6xmri4s2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljdbazyugk2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-01T15:44:55.451Z",
+			"content": "<p>Not at the computer right now but it was two p-queue instances fighting with each other</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljdbej6h7c2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljdbazyugk2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljdbej6h7c2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-01T15:46:52.026Z",
+			"content": "<p>(With async callbacks)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qdu4g4n4eniupf5jf5yfsxo3/app.bsky.feed.post/3lje6d6zgec22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/erika.florist/post/3lje6d6zgec22",
+			"author": {
+				"name": "Erika",
+				"url": "https://bsky.app/profile/erika.florist",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qdu4g4n4eniupf5jf5yfsxo3/bafkreifgxhu75f3i6rlyrmyfzvh5s5comn5sxarztvsnzf7wtiijbbe3tq"
+			},
+			"date": "2025-03-02T00:25:06.334Z",
+			"content": "<p>oh would love to know more about how this can happen! I happens to be juggling queues like that these days at work and I now worry I could run into this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lje7ivjyxs25",
+			"parentId": "at://did:plc:qdu4g4n4eniupf5jf5yfsxo3/app.bsky.feed.post/3lje6d6zgec22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lje7ivjyxs25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-02T00:46:11.453Z",
+			"content": "<p>I think the biggest takeaway for me is to make sure the queues don’t have circular references! Promise A waiting for Promise B waiting for Promise A is bad news 🫣🫣🫣</p>",
+			"via": "bluesky"
+		}
+	]
+}

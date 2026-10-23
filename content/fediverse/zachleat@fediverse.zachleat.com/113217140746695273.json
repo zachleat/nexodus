@@ -1,0 +1,332 @@
+{
+	"comments": [
+		{
+			"id": "113217151457465188",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/113217151430480503",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-09-28T20:50:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> please no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217163519142729",
+			"parentId": 0,
+			"url": "https://follow.ethanmarcotte.com/@beep/113217163488098753",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-09-28T20:53:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> webc sounds too close to WP, checkmate zach here come the lawyers</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217163671812078",
+			"parentId": "113217151457465188",
+			"url": "https://fediverse.zachleat.com/@zachleat/113217163671812078",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T20:53:38.722Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> look, we need to merge these two drama storms for nothing more than my personal convenience</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217173568996612",
+			"parentId": "113217163519142729",
+			"url": "https://fediverse.zachleat.com/@zachleat/113217173568996612",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T20:56:09.741Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> I will run for president to minimize my legal exposure</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217174533861826",
+			"parentId": "113217163671812078",
+			"url": "https://mastodon.cthos.dev/@cthos/113217174457745724",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-09-28T20:56:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Zach you are far too powerful for that. Who knows what the consequences will be?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217176927100653",
+			"parentId": "113217174533861826",
+			"url": "https://fediverse.zachleat.com/@zachleat/113217176927100653",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T20:57:00.982Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> gutenberg rewrite in angular</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217192843599410",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/113217192802850758",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-09-28T21:01:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We’ve decided to turn off web components access for WordPress since they’re 99.8% the reason why we need Shadow DOM style encapsulation but they’re not paying their fair share in Web Standards participation…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217196283156519",
+			"parentId": "113217192843599410",
+			"url": "https://sunny.garden/@knowler/113217196232164796",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-09-28T21:01:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Bunch of freeloaders</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217202922926297",
+			"parentId": "113217192843599410",
+			"url": "https://fediverse.zachleat.com/@zachleat/113217202922926297",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T21:03:37.647Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> no one web standard should have all that power</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217243114421245",
+			"parentId": 0,
+			"url": "https://notacult.social/@fimion/113217243097434885",
+			"author": {
+				"name": "Alex Riviere",
+				"url": "https://notacult.social/@fimion",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/790/722/650/886/original/6fb0d70ec027352a.jpg"
+			},
+			"date": "2024-09-28T21:13:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Web Components are infringing on Custom Elements trademark. All web component users will be cut off from using them until web components gives back to the custom elements community appropriately.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217280987235188",
+			"parentId": "113217243114421245",
+			"url": "https://fediverse.zachleat.com/@zachleat/113217280987235188",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T21:23:28.814Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://notacult.social/@fimion\" class=\"u-url mention\">@<span>fimion</span></a></span> I hope you and <span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> are friends 🤝🤝🤝</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217347780960842",
+			"parentId": "113217280987235188",
+			"url": "https://notacult.social/@fimion/113217347758834674",
+			"private": true,
+			"date": "2024-09-28T21:40:27.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217349660246349",
+			"parentId": "113217176927100653",
+			"url": "https://mastodon.cthos.dev/@cthos/113217349441069249",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-09-28T21:40:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217352095943828",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@andydavies/113217352011188091",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2024-09-28T21:41:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh behave Leatherman…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217424345397952",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113217424345397952",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T21:59:56.283Z",
+			"content": "<p>🚾 Engine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217427247710148",
+			"parentId": "113217349660246349",
+			"url": "https://fediverse.zachleat.com/@zachleat/113217427247710148",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T22:00:40.571Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> what’s one more tech stack rewrite, among friends??</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217518943618144",
+			"parentId": "113217424345397952",
+			"url": "https://mastodon.social/@ollicle/113217518884513357",
+			"private": true,
+			"date": "2024-09-28T22:23:58.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217568994505523",
+			"parentId": "113217424345397952",
+			"url": "https://mastodon.social/@joshuaiz/113217568954771164",
+			"author": {
+				"name": "Joshua Iz",
+				"url": "https://mastodon.social/@joshuaiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/374/643/110/229/009/original/0d645c9ae1597348.jpg"
+			},
+			"date": "2024-09-28T22:36:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>WoW Engine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217598043671739",
+			"parentId": "113217173568996612",
+			"url": "https://seocommunity.social/@simoncox/113217598005547954",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2024-09-28T22:44:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>beep</span></a></span> </p><p>I'd vote for you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217703492971993",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/113217703452755225",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-09-28T23:10:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I went back to Twitter to understand this reference and wow, dudes be trying so hard to sound clever</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113218012399773268",
+			"parentId": "113217703492971993",
+			"url": "https://fediverse.zachleat.com/@zachleat/113218012399773268",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-29T00:29:29.283Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> you’ve summarized twitter on any given day quite accurately 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113218016247356885",
+			"parentId": "113217598043671739",
+			"url": "https://fediverse.zachleat.com/@zachleat/113218016247356885",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-29T00:30:27.994Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\">@<span>simoncox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> the campaign has begun!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113218107898142012",
+			"parentId": "113217424345397952",
+			"url": "https://mastodon.cc/@jgarber/113218107803610486",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-09-29T00:53:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>WaterCloset</p><p>Bloggin’ from the Bathroom</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113218195856612177",
+			"parentId": "113217424345397952",
+			"url": "https://mastodon.social/@djwebdroid/113218195828184455",
+			"author": {
+				"name": "Djwebdroid",
+				"url": "https://mastodon.social/@djwebdroid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/927/822/142/106/366/original/700f873bb605e8ea.jpg"
+			},
+			"date": "2024-09-29T01:16:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> blurb-engine.webc</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113218197712446211",
+			"parentId": 0,
+			"url": "https://front-end.social/@mrtrimble/113218197485134833",
+			"author": {
+				"name": "Ryan Trimble",
+				"url": "https://front-end.social/@mrtrimble",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/956/299/485/277/original/4615d2872ec5b4ec.jpg"
+			},
+			"date": "2024-09-29T01:16:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this guy again</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113219369975488815",
+			"parentId": 0,
+			"url": "https://narrativ.es/@janl/113219369935325449",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2024-09-29T06:14:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no, but he started a new project MattComponents to make them easier to use.</p>",
+			"via": "fediverse"
+		}
+	]
+}

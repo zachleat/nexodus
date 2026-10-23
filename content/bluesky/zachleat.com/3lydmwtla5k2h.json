@@ -1,0 +1,303 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydnccna7s2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydnccna7s2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T16:38:17.379Z",
+			"content": "<p>whoa, I just tested this an <a href=\"https://bsky.app/profile/did:plc:6kf6jxl44h34mprhykvqljcx\">@astro.build</a> installs are still actively compromised. someone needs to unpublish simple-swizzle@0.2.3 IMMEDIATELY</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydnedte3c2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydnccna7s2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydnedte3c2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T16:39:25.738Z",
+			"content": "<p>cc <a href=\"https://bsky.app/profile/did:plc:uwbl4k3tza7eyjv3morkrld2\">@mk.gg</a>!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydohzimjs2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydnedte3c2s",
+			"url": "https://bsky.app/profile/mk.gg/post/3lydohzimjs2w",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-09-08T16:59:22.860Z",
+			"content": "<p>Thanks!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydssozzhc2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydssozzhc2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T18:16:55.956Z",
+			"content": "<p>radio silence from all of these accounts is kinda wild to see too:</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lydtv3vze22h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydssozzhc2p",
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lydtv3vze22h",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-09-08T18:36:10.312Z",
+			"content": "<p>Seems to be a crypto stealing campaign</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lydtw3ilak2h",
+			"parentId": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lydtv3vze22h",
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lydtw3ilak2h",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-09-08T18:36:43.427Z",
+			"content": "<p>And there is more chatter in Slack and Discord right now when everyone is figuring things out</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydu6lv5vs24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydnccna7s2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydu6lv5vs24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T18:41:29.050Z",
+			"content": "<p>The affected package has been removed from npm, over 5 hours after it was published. Whew, what a ride.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lydumai75k25",
+			"parentId": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lydtw3ilak2h",
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lydumai75k25",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-09-08T18:49:06.854Z",
+			"content": "<p>I posted a little reminder in one channel about engaging some of the social media accounts behind some of the larger projects there</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3lydumpief22m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydssozzhc2p",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3lydumpief22m",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-09-08T18:49:22.589Z",
+			"content": "<p>Well I for one have been working internally on mitigations and missed lunch dealing with this. The last thing on my mind was an announcement via socials. This is a good reminder to post, and I will go do that now, but also lets not judge OSS maintainers while we are at it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3lyduyrfbgc2m",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3lydumpief22m",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3lyduyrfbgc2m",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-09-08T18:56:07.238Z",
+			"content": "<p><a href=\"https://bsky.app/profile/expressjs.bsky.social/post/3lyduxoqvnk2m\">bsky.app/profile/expr...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydvp72oy22d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3lyduyrfbgc2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydvp72oy22d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T19:08:39.769Z",
+			"content": "<p>nice to see an update from astro too <a href=\"https://bsky.app/profile/mk.gg/post/3lyduzmqah22k\">bsky.app/profile/mk.g...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydwlp5gks2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydssozzhc2p",
+			"url": "https://bsky.app/profile/mk.gg/post/3lydwlp5gks2h",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-09-08T19:24:36.160Z",
+			"content": "<p>We were busy putting out a release</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3lydwq2a2ic2q",
+			"parentId": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydwlp5gks2h",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3lydwq2a2ic2q",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-09-08T19:27:01.997Z",
+			"content": "<p><a href=\"https://bsky.app/profile/notwes.bsky.social/post/3lydumpief22m\">bsky.app/profile/notw...</a></p>\n<p>As much as I am pro responsibility for OSS maintainers, I want to point out that there are more important things you can do than make a social post. Let's level up our empathy and start with giving that grace to fellow maintainers.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydxpxsuwk2d",
+			"parentId": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydwlp5gks2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydxpxsuwk2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T19:44:53.210Z",
+			"content": "<p>oh, huh — are you the only one doing release management over there? sorry for roping you in after-hours</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:evph6ayag33r37opfma7ctz3/app.bsky.feed.post/3lydylhf6l22u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydssozzhc2p",
+			"url": "https://bsky.app/profile/dummdidumm.bsky.social/post/3lydylhf6l22u",
+			"author": {
+				"name": "Simon H",
+				"url": "https://bsky.app/profile/dummdidumm.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:evph6ayag33r37opfma7ctz3/bafkreihbrvlmx6x4oje7rc7v3u4ekdcr72va3732tl6swkkwqpipatseq4"
+			},
+			"date": "2025-09-08T20:00:15.509Z",
+			"content": "<p>What a weird thing to say while people are actively analyzing the impact of the situation, some after-hours</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydyrd6kes2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydxpxsuwk2d",
+			"url": "https://bsky.app/profile/mk.gg/post/3lydyrd6kes2h",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-09-08T20:03:32.423Z",
+			"content": "<p>I was genuinely grateful for the heads-up, and that's why I took the lead in doing the mitigation. Luckily others were around to handle the release while I took my daughter to gymnastics. We did the socials after the release. Not everything needs to be an opportunity to dunk on other maintainers</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydyydtfds2k",
+			"parentId": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydyrd6kes2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydyydtfds2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T20:07:27.987Z",
+			"content": "<p>Huh… sorry. I don’t want the post to come across as a dunk — I was only reacting to the situation in real time and was surprised the ecosystem at large wasn’t escalating faster</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydz2ss3tk2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydyydtfds2k",
+			"url": "https://bsky.app/profile/mk.gg/post/3lydz2ss3tk2k",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-09-08T20:08:50.783Z",
+			"content": "<p>OK, cool. Most of the relevant core maintainers are in Europe, so it was out of hours for us all. We don't have pagerduty: we just have Discord!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydz3o624c2k",
+			"parentId": "at://did:plc:evph6ayag33r37opfma7ctz3/app.bsky.feed.post/3lydylhf6l22u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydz3o624c2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T20:09:19.486Z",
+			"content": "<p>Really happy to see more accounts posting about it now! This situation felt like it needed urgent escalation to more people!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydz6tw3hs2k",
+			"parentId": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydz2ss3tk2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydz6tw3hs2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T20:11:06.180Z",
+			"content": "<p>For sure — the only reason I was early to the thread was time-zone luck!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:evph6ayag33r37opfma7ctz3/app.bsky.feed.post/3lydzgcfli22b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydz3o624c2k",
+			"url": "https://bsky.app/profile/dummdidumm.bsky.social/post/3lydzgcfli22b",
+			"author": {
+				"name": "Simon H",
+				"url": "https://bsky.app/profile/dummdidumm.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:evph6ayag33r37opfma7ctz3/bafkreihbrvlmx6x4oje7rc7v3u4ekdcr72va3732tl6swkkwqpipatseq4"
+			},
+			"date": "2025-09-08T20:15:16.249Z",
+			"content": "<p>In our case it would have been needless panic: <a href=\"https://bsky.app/profile/svelte.dev/post/3lydyj4zdcc2j\">bsky.app/profile/svel...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydzo3dve22k",
+			"parentId": "at://did:plc:evph6ayag33r37opfma7ctz3/app.bsky.feed.post/3lydzgcfli22b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydzo3dve22k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T20:19:37.289Z",
+			"content": "<p>Good thread!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:engz2gvtpvernlh72z5hmqxh/app.bsky.feed.post/3lyekqatxbc2x",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydssozzhc2p",
+			"url": "https://bsky.app/profile/tent10.bsky.social/post/3lyekqatxbc2x",
+			"author": {
+				"name": "tent10.bsky.social",
+				"url": "https://bsky.app/profile/tent10.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:engz2gvtpvernlh72z5hmqxh/bafkreib5tguwqaikfgxxquzx24qobypqwyff3bifye5uyjo25aa3v3ofs4"
+			},
+			"date": "2025-09-09T01:25:03.778Z",
+			"content": "<p>Dang what a way to be lol why did you do this in the most toxic way</p>",
+			"via": "bluesky"
+		}
+	]
+}

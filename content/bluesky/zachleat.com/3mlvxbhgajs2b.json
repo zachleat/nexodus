@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:2x5gxwfnhpmcuqhry5hsc43i/app.bsky.feed.post/3mlvxfuldfs2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jonathan.caprell.com/post/3mlvxfuldfs2g",
+			"author": {
+				"name": "Jonathan Caprell",
+				"url": "https://bsky.app/profile/jonathan.caprell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2x5gxwfnhpmcuqhry5hsc43i/bafkreidqmm2v437oq44bzjpynvuynn4lrrfiwvstddmthfyyrdofttrhlm"
+			},
+			"date": "2026-05-15T18:25:50.492Z",
+			"content": "<p>wow strong anti XHR stance here</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvxlkrwj224",
+			"parentId": "at://did:plc:2x5gxwfnhpmcuqhry5hsc43i/app.bsky.feed.post/3mlvxfuldfs2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlvxlkrwj224",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-15T18:29:01.549Z",
+			"content": "<p>you’ll never convince me that XHR isn’t JS</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlw7wbb4bc2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mlw7wbb4bc2f",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-15T20:58:10.594Z",
+			"content": "<p>Images = Media</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlwa6gihc22s",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlw7wbb4bc2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlwa6gihc22s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-15T21:02:44.513Z",
+			"content": "<p>it’s all hypermedia in the end</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlwbfdvqxc2f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlwa6gihc22s",
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mlwbfdvqxc2f",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-15T21:24:30.426Z",
+			"content": "<p>„I want to see you &lt;sweat&gt;“ <a href=\"https://m.youtube.com/watch?v=7Twnmhe948A\">m.youtube.com/watch?v=7Twn...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlwbrhstpc2b",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlwbfdvqxc2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlwbrhstpc2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-15T21:31:17.177Z",
+			"content": "<p>some good WordArt™ in that one</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlwby4tpe22f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlwbrhstpc2b",
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mlwby4tpe22f",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-15T21:35:00.553Z",
+			"content": "<p>It’s sort of iconic that in 1994 — the very year the World Wide Web was exploding into a hypermedia revolution, with Netscape launching and the W3C being founded — Scooter dropped “Hyper Hyper,”. The name almost feels like it was riffing on the zeitgeist.​​​​​​​​​​​​​​​​</p>",
+			"via": "bluesky"
+		}
+	]
+}

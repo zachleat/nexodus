@@ -1,0 +1,389 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvkrgogmk2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlvkrgogmk2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-15T14:39:39.923Z",
+			"content": "<p>You should learn HTML and code your own website.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mlvmr6pwgk2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvkrgogmk2h",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3mlvmr6pwgk2k",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-05-15T15:15:19.067Z",
+			"content": "<p>Hey man, AI's already coming for my job, I don't need normies doing it too! 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvmxsxw6k2q",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mlvmr6pwgk2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlvmxsxw6k2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-15T15:19:01.627Z",
+			"content": "<p>everybody wants to build and I’ll be happy to do maintenance (for a fee)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4ro56gbge42enizovzvvw5sn/app.bsky.feed.post/3mlvu7igusk2d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvkrgogmk2h",
+			"url": "https://bsky.app/profile/programmerman.net/post/3mlvu7igusk2d",
+			"private": true,
+			"date": "2026-05-15T17:28:35.211Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zg2cldonpbgfa6d4wczbvjpm/app.bsky.feed.post/3mlw2d3inbc2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/joshuaward.roomy.chat/post/3mlw2d3inbc2b",
+			"author": {
+				"name": "Joshua Ward | ✝️ | NO AI | Rust! | Simple is better",
+				"url": "https://bsky.app/profile/joshuaward.roomy.chat",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zg2cldonpbgfa6d4wczbvjpm/bafkreich5kh5hhzsgkp35t6rxoptfkw27qqkb3qthfqgexytkpadyuanfy"
+			},
+			"date": "2026-05-15T19:17:58.305Z",
+			"content": "<p>Websites are just downloading an app every time you want to use it;</p>\n<p>SaaS but worse</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mlzxs6g6ws2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/anatudor.bsky.social/post/3mlzxs6g6ws2b",
+			"author": {
+				"name": "Ana Tudor",
+				"url": "https://bsky.app/profile/anatudor.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4hm2yozxzsakerfalloor5s6/bafkreicqw7fxgwhrsestevru7zj4yazlcdfhibmuc2kvnllcf4mwbykeca"
+			},
+			"date": "2026-05-17T08:43:22.415Z",
+			"content": "<p>The thing that rich people in tech cannot get: owning a website is more expensive than coding... an app. Or anything for that matter.</p>\n<p>Sincerele, someone who could never afford to own a website and likely never will.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm2lxbzbvs2o",
+			"parentId": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mlzxs6g6ws2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mm2lxbzbvs2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-17T14:44:08.795Z",
+			"content": "<p>How are you defining ownership? I think a domain name should be the only requirement for ownership (though some would classify it as renting)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:prgzygmztzve2tfwtxy4ne7l/app.bsky.feed.post/3mm2m4tmi7k2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm2lxbzbvs2o",
+			"url": "https://bsky.app/profile/henrihelvetica.bsky.social/post/3mm2m4tmi7k2s",
+			"author": {
+				"name": "Henri Helvetica 🧑🏾‍🚀🇭🇹",
+				"url": "https://bsky.app/profile/henrihelvetica.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prgzygmztzve2tfwtxy4ne7l/bafkreihojvharmahe5ixzwk7zvzmqx75a7d3ebgnixrgmilgogpne5uvrq"
+			},
+			"date": "2026-05-17T14:47:15.023Z",
+			"content": "<p>This whole topic is fascinating. Following.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mm2m7moobc2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm2lxbzbvs2o",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mm2m7moobc2p",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-05-17T14:48:48.417Z",
+			"content": "<p>Is it renting? Or is it more like a condo?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mm2myg3bss24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm2lxbzbvs2o",
+			"url": "https://bsky.app/profile/anatudor.bsky.social/post/3mm2myg3bss24",
+			"author": {
+				"name": "Ana Tudor",
+				"url": "https://bsky.app/profile/anatudor.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4hm2yozxzsakerfalloor5s6/bafkreicqw7fxgwhrsestevru7zj4yazlcdfhibmuc2kvnllcf4mwbykeca"
+			},
+			"date": "2026-05-17T15:02:40.349Z",
+			"content": "<p>That's completely irrelevant. The only thing it matters is that it costs money. Regularly. And recurrent expenses are to be avoided at all costs when you don't have much of a recurrent income.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kn5hbzh6ig6qla64l5puqapb/app.bsky.feed.post/3mm2myxl2vk2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/passle.dev/post/3mm2myxl2vk2d",
+			"author": {
+				"name": "Passle ☭",
+				"url": "https://bsky.app/profile/passle.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kn5hbzh6ig6qla64l5puqapb/bafkreifipcqpwxxju76ctbctkawtj6rcuevxfbv5cjyehdw7jg6royxivi"
+			},
+			"date": "2026-05-17T15:02:58.694Z",
+			"content": "<p>Comrade zach 🫡</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm2ohtbl6s2d",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mm2m7moobc2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mm2ohtbl6s2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-17T15:29:11.248Z",
+			"content": "<p>I have a timeshare you might be interested in</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm2ooxz2t22d",
+			"parentId": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mm2myg3bss24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mm2ooxz2t22d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-17T15:33:11.092Z",
+			"content": "<p>That’s fair. I think there is a spectrum of “ownership” — your <a href=\"https://github.io\">github.io</a> web site is *yours* (and hopefully doesn’t have a recurring cost to you). But certainly you have *more* ownership if you pay $10 a year for your domain name and build some domain name equity on it. $10/yr definitely adds up</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pxrfizqx45aknvaeshcsevzx/app.bsky.feed.post/3mm2p42d2f22n",
+			"parentId": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mm2myg3bss24",
+			"url": "https://bsky.app/profile/jackhpeterson.com/post/3mm2p42d2f22n",
+			"author": {
+				"name": "Jack",
+				"url": "https://bsky.app/profile/jackhpeterson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxrfizqx45aknvaeshcsevzx/bafkreifcq35cj4mknrecbe3d7czz2niuilxnfwf6aftowaospye4pdokcu"
+			},
+			"date": "2026-05-17T15:40:29.723Z",
+			"content": "<p>Last I knew it costs money to be a developer who can release to the app stores.</p>\n<p>- Apple charges $99 a year<br>\n- Google charges a one time $25 fee<br>\n(Might've changed)</p>\n<p>Netlify allows static site deployment to a Netlify subdomain for free.</p>\n<p>Some domains can be cheap. ~$3 per year.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3mm2pegd7v22d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvkrgogmk2h",
+			"url": "https://bsky.app/profile/g12n.de/post/3mm2pegd7v22d",
+			"author": {
+				"name": "Michael G",
+				"url": "https://bsky.app/profile/g12n.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gilu7o4lu2uhhh2sztjeo47i/bafkreiduwoybgec263zc4ti4226xdjt25gw5ooorl34kh36rqg6lzhrytm"
+			},
+			"date": "2026-05-17T15:45:10.748Z",
+			"content": "<p>😅 coding isn’t much of a problem. But if owning contains hosting it, this is astoundingly complex. <br>\nI should acctually simply be a feature of your internet router defaulting to your landlines or mobile phone number. A simple box like fax machine. Sadly the web went quite a different route.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mm2repqa2s2n",
+			"parentId": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mlzxs6g6ws2b",
+			"url": "https://bsky.app/profile/cthos.dev/post/3mm2repqa2s2n",
+			"author": {
+				"name": "Cthos",
+				"url": "https://bsky.app/profile/cthos.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4o6o6re5hrzy4v5acedmufj4/bafkreicm4q4nnexbtsyym466ur5g2merz74is6z7emgtf7yiyld7r3cg34"
+			},
+			"date": "2026-05-17T16:21:08.095Z",
+			"content": "<p>But the thing Adam is responding to (that Zach is quote boosting) is the GenAI companies claiming everyone will just use an LLM to make an app. An LLM which requires a subscription to a GenAI company. Which is currently being subsidized by a factor of at least 10.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mm2ris27jc2n",
+			"parentId": "at://did:plc:pxrfizqx45aknvaeshcsevzx/app.bsky.feed.post/3mm2p42d2f22n",
+			"url": "https://bsky.app/profile/cthos.dev/post/3mm2ris27jc2n",
+			"author": {
+				"name": "Cthos",
+				"url": "https://bsky.app/profile/cthos.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4o6o6re5hrzy4v5acedmufj4/bafkreicm4q4nnexbtsyym466ur5g2merz74is6z7emgtf7yiyld7r3cg34"
+			},
+			"date": "2026-05-17T16:23:24.737Z",
+			"content": "<p>You can (for now) distribute Android apps for free, but Google is trying its darndest to stop that practice (by requiring every developer to register and create restrictions on side loading)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3mm2rqkx2jc2f",
+			"parentId": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mlzxs6g6ws2b",
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3mm2rqkx2jc2f",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2026-05-17T16:27:45.726Z",
+			"content": "<p>Get yourself / your site AtHosted for free with <a href=\"https://bsky.app/profile/did:plc:7puq73yz2hkvbcpdhnsze2qw\">@wisp.place</a>.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mm2ruxh7hs2q",
+			"parentId": "at://did:plc:pxrfizqx45aknvaeshcsevzx/app.bsky.feed.post/3mm2p42d2f22n",
+			"url": "https://bsky.app/profile/anatudor.bsky.social/post/3mm2ruxh7hs2q",
+			"author": {
+				"name": "Ana Tudor",
+				"url": "https://bsky.app/profile/anatudor.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4hm2yozxzsakerfalloor5s6/bafkreicqw7fxgwhrsestevru7zj4yazlcdfhibmuc2kvnllcf4mwbykeca"
+			},
+			"date": "2026-05-17T16:30:13.058Z",
+			"content": "<p>As a Linux user who has never owned a smartphone, I think of something different when I see the word app...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2skrbbxs2m",
+			"parentId": "at://did:plc:pxrfizqx45aknvaeshcsevzx/app.bsky.feed.post/3mm2p42d2f22n",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mm2skrbbxs2m",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2026-05-17T16:42:24.772Z",
+			"content": "<p>The reason why I stopped publishing apps on iOS. You need to monetize or you are losing money. For an indie developer, it's not worth it. I only added ads to my apps to try to overcome that, and it only made things worse, so I ended up removing the apps from Apple Store.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mm2sphl3zs2n",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2skrbbxs2m",
+			"url": "https://bsky.app/profile/cthos.dev/post/3mm2sphl3zs2n",
+			"author": {
+				"name": "Cthos",
+				"url": "https://bsky.app/profile/cthos.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4o6o6re5hrzy4v5acedmufj4/bafkreicm4q4nnexbtsyym466ur5g2merz74is6z7emgtf7yiyld7r3cg34"
+			},
+			"date": "2026-05-17T16:45:02.380Z",
+			"content": "<p>The reason I don't distribute through the Play store is because they immediately took the app down the first time I tried and then threatened to ban my google account with no review or appeal. So. *shrug*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2subbmmc2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm2lxbzbvs2o",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mm2subbmmc2m",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2026-05-17T16:47:43.550Z",
+			"content": "<p>+hosting.</p>\n<p>I've gone around it by publishing \"static sites\" using GitHub pages, but I wouldn't be able to put my PHP/SQL databases projects there. And hosting prices have skyrocketed (e.g. 8 years ago, I got a 10 year hosting for less than $200 total, nowadays with that money you get 12-18 months.)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2svvshps2m",
+			"parentId": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mm2sphl3zs2n",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mm2svvshps2m",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2026-05-17T16:48:38.627Z",
+			"content": "<p>😱</p>\n<p>I told you publishing *that* type of app was a bad idea! 😂</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2t4wieuk2m",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2svvshps2m",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mm2t4wieuk2m",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2026-05-17T16:52:34.226Z",
+			"content": "<p>Jokes aside, what was the app about? They've never given me a hard time, but my apps are small games that barely do anything... and still, Apple deny them a couple of times for petty reasons (one was mentioned android in the About section, they are afraid fo the 🤖)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pxrfizqx45aknvaeshcsevzx/app.bsky.feed.post/3mm2tdnnsu22n",
+			"parentId": "at://did:plc:4hm2yozxzsakerfalloor5s6/app.bsky.feed.post/3mm2ruxh7hs2q",
+			"url": "https://bsky.app/profile/jackhpeterson.com/post/3mm2tdnnsu22n",
+			"author": {
+				"name": "Jack",
+				"url": "https://bsky.app/profile/jackhpeterson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxrfizqx45aknvaeshcsevzx/bafkreifcq35cj4mknrecbe3d7czz2niuilxnfwf6aftowaospye4pdokcu"
+			},
+			"date": "2026-05-17T16:56:19.848Z",
+			"content": "<p>Oh... good point. Didn't know you didn't have a smart phone and only used Linux. What distro?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mm2txmzevs2n",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2t4wieuk2m",
+			"url": "https://bsky.app/profile/cthos.dev/post/3mm2txmzevs2n",
+			"author": {
+				"name": "Cthos",
+				"url": "https://bsky.app/profile/cthos.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4o6o6re5hrzy4v5acedmufj4/bafkreicm4q4nnexbtsyym466ur5g2merz74is6z7emgtf7yiyld7r3cg34"
+			},
+			"date": "2026-05-17T17:07:30.267Z",
+			"content": "<p><a href=\"https://gw2.cthonic.app\">gw2.cthonic.app</a></p>\n<p>This thing. The long story short is I used the stylized 2 in the logo, which they said was impersonation (the community terms of use allows it, though) so I fixed that and tried again but they weren't having it, which is when the threat of banning occurred.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mm2tz5tqys2n",
+			"parentId": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mm2txmzevs2n",
+			"url": "https://bsky.app/profile/cthos.dev/post/3mm2tz5tqys2n",
+			"author": {
+				"name": "Cthos",
+				"url": "https://bsky.app/profile/cthos.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4o6o6re5hrzy4v5acedmufj4/bafkreicm4q4nnexbtsyym466ur5g2merz74is6z7emgtf7yiyld7r3cg34"
+			},
+			"date": "2026-05-17T17:08:21.464Z",
+			"content": "<p>Apple happily let me distribute it for years, but I haven't done anything with it in a long time so I turned off distribution a while ago (and got sick of answering \"are you exporting encryption\")</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm53jgvlyc2l",
+			"parentId": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3mm2pegd7v22d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mm53jgvlyc2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-18T14:28:03.501Z",
+			"content": "<p>love this perspective. Super curious if we can get there some day</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm53mhbwa22l",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mm2subbmmc2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mm53mhbwa22l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-18T14:29:44.567Z",
+			"content": "<p>$200 a year definitely feels pricey for a small project!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3mm53u2gom224",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm53jgvlyc2l",
+			"url": "https://bsky.app/profile/g12n.de/post/3mm53u2gom224",
+			"author": {
+				"name": "Michael G",
+				"url": "https://bsky.app/profile/g12n.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gilu7o4lu2uhhh2sztjeo47i/bafkreiduwoybgec263zc4ti4226xdjt25gw5ooorl34kh36rqg6lzhrytm"
+			},
+			"date": "2026-05-18T14:33:59.529Z",
+			"content": "<p>Well, up and downstream would have to at least be comparable for private lines as well. And if not a fixed IP adress is possible (still wondering why we keep this historic restriction up) dyn DNS and a server at home needs to become as simple as connecting a fax or answering machine used t be.</p>",
+			"via": "bluesky"
+		}
+	]
+}

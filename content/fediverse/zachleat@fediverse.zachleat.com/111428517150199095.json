@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "111428551492830723",
+			"parentId": 0,
+			"url": "https://indieweb.social/@johnallsopp/111428551406889530",
+			"author": {
+				"name": "John Allsopp",
+				"url": "https://indieweb.social/@johnallsopp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/690/360/767/949/original/4e63fcbed24e126b.png"
+			},
+			"date": "2023-11-17T23:46:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> always has been true. Always will be true</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111428892015148374",
+			"parentId": "111428551492830723",
+			"url": "https://fediverse.zachleat.com/@zachleat/111428892015148374",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-18T01:12:38.728Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@johnallsopp\" class=\"u-url mention\">@<span>johnallsopp</span></a></span> I only wish I could extract clarity from a few hundred words 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111431242797591763",
+			"parentId": 0,
+			"url": "https://mastodon.social/@simevidas/111431242746877809",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2023-11-18T11:10:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sleep is also a good idea.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111432302214800113",
+			"parentId": "111431242797591763",
+			"url": "https://fediverse.zachleat.com/@zachleat/111432302214800113",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-18T15:39:54.248Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@simevidas\" class=\"u-url mention\">@<span>simevidas</span></a></span> tragically underrated, especially when 11:30pm hits and I forget this</p>",
+			"via": "fediverse"
+		}
+	]
+}

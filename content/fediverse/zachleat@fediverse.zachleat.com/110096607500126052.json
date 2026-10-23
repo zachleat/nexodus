@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "110097044462935315",
+			"parentId": 0,
+			"url": "https://mas.to/@j9t/110097044435790068",
+			"author": {
+				"name": "Jens Oliver Meiert",
+				"url": "https://mas.to/@j9t",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/674/420/438/987/original/1b6a7ffef62b149e.png"
+			},
+			"date": "2023-03-27T20:06:17.000Z",
+			"content": "<p>“You can’t <a href=\"https://mas.to/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>JavaScript</span></a> your way out of an excess-JavaScript problem.”&nbsp;❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110097238997596281",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dennisl/110097238946411405",
+			"author": {
+				"name": "DennisL",
+				"url": "https://mastodon.social/@dennisl",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-03-27T20:55:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Another good alternative is old-school AJAX/XMLHttpRequest – which, unfortunately isn’t popular anymore. <span class=\"h-card\"><a href=\"https://front-end.social/@matuzo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matuzo</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110097245413245286",
+			"parentId": "110097238997596281",
+			"url": "https://fediverse.zachleat.com/@zachleat/110097245413245286",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-27T20:57:24.122Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dennisl\" class=\"u-url mention\">@<span>dennisl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@matuzo\" class=\"u-url mention\">@<span>matuzo</span></a></span> still popular! But also kinda rebranded <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.mozilla.org/en-US/do</span><span class=\"invisible\">cs/Web/API/Fetch_API</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110103148201573662",
+			"parentId": 0,
+			"url": "https://mastodon.social/@munawwar/110103148011285805",
+			"author": {
+				"name": "Munawwar Firoz",
+				"url": "https://mastodon.social/@munawwar",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-03-28T21:58:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The base size of SPAs didn't have to be 200 kb if framework devs really cared about it!</p><p>If one need an SPA (maybe for an app like squoosh.app or photopea) preact + client router + boilerplate = 14 kb 🤷‍♂️. lit + lit element etc is also similar size. So I think even the popular SPA frameworks which people reach out for, are bad too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110106932794783983",
+			"parentId": "110103148201573662",
+			"url": "https://fediverse.zachleat.com/@zachleat/110106932794783983",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-29T14:01:01.831Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@munawwar\" class=\"u-url mention\">@<span>munawwar</span></a></span> that is true! The react frameworks seem uniquely bad in this regard</p>",
+			"via": "fediverse"
+		}
+	]
+}

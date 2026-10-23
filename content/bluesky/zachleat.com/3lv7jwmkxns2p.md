@@ -1,0 +1,19 @@
+---
+title: July 30, 2025 at 9:11:50 PM UTC
+authors:
+  - name: Zach Leatherman
+    url: https://bsky.app/profile/zachleat.com
+date: 2025-07-30T21:11:50.075Z
+metadata:
+  slug: 3lv7jwmkxns2p
+  uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lv7jwmkxns2p
+  type: bluesky
+  url: https://bsky.app/profile/zachleat.com/post/3lv7jwmkxns2p
+  importHash: 98812edad27c67d1
+---
+Shipped some of the very first [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2) v4.0.0 canaries today — for only the bravest early adopters (for now) but we’re iterating!
+
+v4.0.0-alpha.3 is only 16.2 MB on disk (down from 21.MB for v3.1.2!)
+
+Milestone: [github.com/11ty/elevent...](https://github.com/11ty/eleventy/milestone/46?closed=1)  
+Releases: [github.com/11ty/elevent...](https://github.com/11ty/eleventy/releases)

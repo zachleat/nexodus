@@ -1,0 +1,46 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:phpf3nisybgnkmc4ur4me4gf/app.bsky.feed.post/3ma2urz3pc223",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/john.kreitlow.rocks/post/3ma2urz3pc223",
+			"private": true,
+			"date": "2025-12-16T00:19:55.806Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ma2w54rty223",
+			"parentId": "at://did:plc:phpf3nisybgnkmc4ur4me4gf/app.bsky.feed.post/3ma2urz3pc223",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ma2w54rty223",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-16T00:44:02.498Z",
+			"content": "<p>this is your other option</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:phpf3nisybgnkmc4ur4me4gf/app.bsky.feed.post/3ma2wfjzbdk23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ma2w54rty223",
+			"url": "https://bsky.app/profile/john.kreitlow.rocks/post/3ma2wfjzbdk23",
+			"private": true,
+			"date": "2025-12-16T00:48:44.831Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ma4d3mtkak2v",
+			"parentId": "at://did:plc:phpf3nisybgnkmc4ur4me4gf/app.bsky.feed.post/3ma2wfjzbdk23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ma4d3mtkak2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-16T14:08:30.626Z",
+			"content": "<p>why shuck when you can husk</p>",
+			"via": "bluesky"
+		}
+	]
+}

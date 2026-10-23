@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3xgpgfywk24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3xgpgfywk24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-24T17:49:11.003Z",
+			"content": "<p>I regret to inform you that discretion is now optional</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3xkin3okk2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3xkin3okk2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-24T18:56:58.091Z",
+			"content": "<p>to be clear, the risk of someone phishing my npm credentials is *much* lower than the risk of “can you take a look at this Eleventy project that isn’t working quite right (and also contains malware, intentionally or not)”</p>",
+			"via": "bluesky"
+		}
+	]
+}

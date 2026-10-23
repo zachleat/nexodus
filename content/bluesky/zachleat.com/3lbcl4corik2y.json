@@ -1,0 +1,129 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lbclgfyotc22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bell.bz/post/3lbclgfyotc22",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2024-11-19T13:52:40.457Z",
+			"content": "<p>zach.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbclipv3xk2v",
+			"parentId": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lbclgfyotc22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbclipv3xk2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-19T13:53:57.935Z",
+			"content": "<p>sounds like you prefer regressive disclosure andy</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbcluoy3322h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbcluoy3322h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-19T14:00:39.637Z",
+			"content": "<p>we can at least agree that `&lt;details inert&gt;` is progressive non-disclosure</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tud2quxx73tqwcgupajwihpf/app.bsky.feed.post/3lbcxyeety22g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbclipv3xk2v",
+			"url": "https://bsky.app/profile/lubes.bsky.social/post/3lbcxyeety22g",
+			"private": true,
+			"date": "2024-11-19T17:37:27.640Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:evfxxtfez7uxscrzrgcobplq/app.bsky.feed.post/3lbf3tjyeak2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbcluoy3322h",
+			"url": "https://bsky.app/profile/scottohara.me/post/3lbf3tjyeak2a",
+			"author": {
+				"name": "Scott O'Hara",
+				"url": "https://bsky.app/profile/scottohara.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:evfxxtfez7uxscrzrgcobplq/bafkreihkgpa4fwynywlxfecduowbb5a5dtz654yijtcjw22ca24nfbyxpu"
+			},
+			"date": "2024-11-20T13:51:40.194Z",
+			"content": "<p>a progressive non-disclosure disclosure widget</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbf4kux6uk2p",
+			"parentId": "at://did:plc:evfxxtfez7uxscrzrgcobplq/app.bsky.feed.post/3lbf3tjyeak2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbf4kux6uk2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-20T14:04:43.442Z",
+			"content": "<p>see, you get it 😅 some jokes are just for us, scott</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:evfxxtfez7uxscrzrgcobplq/app.bsky.feed.post/3lbfqil3ydc2c",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbf4kux6uk2p",
+			"url": "https://bsky.app/profile/scottohara.me/post/3lbfqil3ydc2c",
+			"author": {
+				"name": "Scott O'Hara",
+				"url": "https://bsky.app/profile/scottohara.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:evfxxtfez7uxscrzrgcobplq/bafkreihkgpa4fwynywlxfecduowbb5a5dtz654yijtcjw22ca24nfbyxpu"
+			},
+			"date": "2024-11-20T20:01:20.841Z",
+			"content": "<p>are you a broken human too?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbfttcpwxk2u",
+			"parentId": "at://did:plc:evfxxtfez7uxscrzrgcobplq/app.bsky.feed.post/3lbfqil3ydc2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbfttcpwxk2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-20T21:01:02.383Z",
+			"content": "<p>is this a captcha</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:evfxxtfez7uxscrzrgcobplq/app.bsky.feed.post/3lbicqx2ub226",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbfttcpwxk2u",
+			"url": "https://bsky.app/profile/scottohara.me/post/3lbicqx2ub226",
+			"author": {
+				"name": "Scott O'Hara",
+				"url": "https://bsky.app/profile/scottohara.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:evfxxtfez7uxscrzrgcobplq/bafkreihkgpa4fwynywlxfecduowbb5a5dtz654yijtcjw22ca24nfbyxpu"
+			},
+			"date": "2024-11-21T20:33:28.653Z",
+			"content": "<p>are you a palm tree?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbidrboxak2t",
+			"parentId": "at://did:plc:evfxxtfez7uxscrzrgcobplq/app.bsky.feed.post/3lbicqx2ub226",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbidrboxak2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-21T20:51:33.538Z",
+			"content": "<p>which of these squares contains a broken human</p>",
+			"via": "bluesky"
+		}
+	]
+}

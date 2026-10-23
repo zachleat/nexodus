@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlnzvcimas24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlnzvcimas24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-12T14:48:57.976Z",
+			"content": "<p>(but really GitHub should retire `pull_request_target` or surface some kind of big ol’ warning on it)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mlo2kebnes2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3mlo2kebnes2m",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-05-12T15:00:44.487Z",
+			"content": "<p><a href=\"https://www.youtube.com/watch?v=wfcQreCtvO4\">www.youtube.com/watch?v=wfcQ...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlo3f27oxs2w",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mlo2kebnes2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlo3f27oxs2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-12T15:15:39.908Z",
+			"content": "<p>uh oh.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uashgn65n5z7aqwk5cbuba5c/app.bsky.feed.post/3mlolit5hsc26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bnb.im/post/3mlolit5hsc26",
+			"author": {
+				"name": "tierney cyren",
+				"url": "https://bsky.app/profile/bnb.im",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uashgn65n5z7aqwk5cbuba5c/bafkreiewrybtca2tu47coq2tkp3fnuiqxqfk52im7wvlbq6cuw7k7jtvta"
+			},
+			"date": "2026-05-12T20:04:06.582Z",
+			"content": "<p>I’m curious if there’s other similar criteria you’d want to be warned about?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlolvngmmc2i",
+			"parentId": "at://did:plc:uashgn65n5z7aqwk5cbuba5c/app.bsky.feed.post/3mlolit5hsc26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlolvngmmc2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-12T20:11:16.798Z",
+			"content": "<p>I wrote up my checklist here: <a href=\"https://www.zachleat.com/web/npm-security/\">www.zachleat.com/web/npm-secu...</a> (though I’m sure some of these wouldn’t be publicly accessible information)</p>",
+			"via": "bluesky"
+		}
+	]
+}

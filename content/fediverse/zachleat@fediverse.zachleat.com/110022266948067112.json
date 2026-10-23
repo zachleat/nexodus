@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "110022331747175746",
+			"parentId": 0,
+			"url": "https://toot.cafe/@bkardell/110022331674093703",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2023-03-14T15:25:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what do you mean hiding slow servers here?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022344067839825",
+			"parentId": "110022331747175746",
+			"url": "https://fediverse.zachleat.com/@zachleat/110022344067839825",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-14T15:29:00.290Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> the data services/backend/etc</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022378453921852",
+			"parentId": "110022344067839825",
+			"url": "https://toot.cafe/@bkardell/110022378381613935",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2023-03-14T15:37:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I _think_ you're saying that the fact that _something_ is rendered takes a lot of pressure off those things performing? As opposed to those being server rendered and the page just being hung while the data/services backend stuff is happening?  Is that right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022684097647389",
+			"parentId": "110022378453921852",
+			"url": "https://fediverse.zachleat.com/@zachleat/110022684097647389",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-14T16:55:28.737Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> yeah! absolutely—you said it better than I 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110022811020254069",
+			"parentId": "110022684097647389",
+			"url": "https://toot.cafe/@bkardell/110022810942641380",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2023-03-14T17:27:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that's interesting, because it simultaneously seems to highlight where the bottleneck is and you'd think get it lots of investment.  Maybe those pages would otherwise render not a lot until all those spinners were done minus some round trip latency? Or more likely if that was the option, they just wouldn't be on the web maybe?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029653732562198",
+			"parentId": 0,
+			"url": "https://social.coop/@eb/110029653709561497",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2023-03-15T22:27:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hot take for the DMs of static site generator man... But I disagree.</p><p>I mean, my server can process requests in as little as 1ms, but the network overhead of what... 80ms minimum? Means a performant client side router will win. Not to mention, whenever you click a link without that routing the browser needs to redo it's CSS JavaScript ect shenanigans.</p><p>Look, my point is that for *applications*, CSR can be good, so long as it's respectful of bundle size, is optimised, and has SSR</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110033237279485654",
+			"parentId": "110029653732562198",
+			"url": "https://fediverse.zachleat.com/@zachleat/110033237279485654",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-16T13:39:17.515Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@eb\" class=\"u-url mention\">@<span>eb</span></a></span> reminded of this classic conversation <a href=\"https://twitter.com/jaffathecake/status/1433317536754458628\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jaffathecake/statu</span><span class=\"invisible\">s/1433317536754458628</span></a></p><p>for sure there is more nuance to be had here</p>",
+			"via": "fediverse"
+		}
+	]
+}

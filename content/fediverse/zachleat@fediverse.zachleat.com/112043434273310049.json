@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "112043478577914770",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@KevinGimbel/112043478505746992",
+			"author": {
+				"name": "kevin ⁂ (he/him)",
+				"url": "https://fosstodon.org/@KevinGimbel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/896/688/989/175/729/original/157bd3a8f7ae3359.jpeg"
+			},
+			"date": "2024-03-05T14:10:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes and I'm surprised I still do.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112043490257003626",
+			"parentId": "112043478577914770",
+			"url": "https://fediverse.zachleat.com/@zachleat/112043490257003626",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-05T14:13:03.659Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@KevinGimbel\" class=\"u-url mention\">@<span>KevinGimbel</span></a></span> you’re not alone! I was surprised to see it in some docs today</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112043554514307722",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@thisismissem/112043554464435356",
+			"author": {
+				"name": "Emelia 👸🏻",
+				"url": "https://hachyderm.io/@thisismissem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-05T14:29:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Meyerweb</span></a></span> I know it exists, and I've seen it, but I don't know why I'd use it or not.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112043573601930209",
+			"parentId": "112043490257003626",
+			"url": "https://fosstodon.org/@KevinGimbel/112043573590450304",
+			"author": {
+				"name": "kevin ⁂ (he/him)",
+				"url": "https://fosstodon.org/@KevinGimbel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/896/688/989/175/729/original/157bd3a8f7ae3359.jpeg"
+			},
+			"date": "2024-03-05T14:34:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> in the source code or as something that should be used? I honestly can't even remember why we used to set this, I just carried it from one project to the next</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112043597077048811",
+			"parentId": "112043554514307722",
+			"url": "https://fediverse.zachleat.com/@zachleat/112043597077048811",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-05T14:40:13.604Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@thisismissem\" class=\"u-url mention\">@<span>thisismissem</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\">@<span>Meyerweb</span></a></span> it’s an old thing from Internet Explorer. If you don’t support Internet Explorer, you probably don’t need it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112043599825048120",
+			"parentId": "112043573601930209",
+			"url": "https://fediverse.zachleat.com/@zachleat/112043599825048120",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-05T14:40:55.534Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@KevinGimbel\" class=\"u-url mention\">@<span>KevinGimbel</span></a></span> <a href=\"https://workers.cloudflare.com/playground\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">workers.cloudflare.com/playgro</span><span class=\"invisible\">und</span></a> in welcome.html</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112043624774168146",
+			"parentId": 0,
+			"url": "https://mas.to/@iamdtms/112043624737358315",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2024-03-05T14:47:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Considering that there is no IE11 support, and its life cycle is over. There is no point of meta x-ua-compatible filtering either. The joke got through. Interesting poll results by knowing this! 🦈</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112043688312772474",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/112043688226115901",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-05T15:03:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> IE was already dead (almost) when I started writing html 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112044137849428489",
+			"parentId": 0,
+			"url": "https://mastodon.social/@KeithPurtell/112044137146934705",
+			"author": {
+				"name": "Keith Purtell",
+				"url": "https://mastodon.social/@KeithPurtell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/605/132/826/966/789/original/c3e0200ccb1a7f1e.jpg"
+			},
+			"date": "2024-03-05T16:57:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>55% No ???</p>",
+			"via": "fediverse"
+		}
+	]
+}

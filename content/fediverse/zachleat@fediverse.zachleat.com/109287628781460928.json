@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "109288336689096298",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cobyalmond/109288036795892855",
+			"author": {
+				"name": "Coby",
+				"url": "https://mastodon.social/@cobyalmond",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/522/373/109/776/original/0a30c4e1ba732e9c.jpeg"
+			},
+			"date": "2022-11-04T23:05:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is there a guide on how to do this?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109289247271795262",
+			"parentId": "109288336689096298",
+			"url": "https://mastodon.social/@SaraSoueidan/109289246083205906",
+			"author": {
+				"name": "Sara Soueidan",
+				"url": "https://mastodon.social/@SaraSoueidan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/289/244/660/811/293/original/e16a54bdaee07b4f.png"
+			},
+			"date": "2022-11-05T04:12:32.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@cobyalmond\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cobyalmond</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> was coming in here to say the same</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109291332354468417",
+			"parentId": "109289247271795262",
+			"url": "https://fediverse.zachleat.com/@zachleat/109291332354468417",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-05T13:03:06.754Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@SaraSoueidan\" class=\"u-url mention\">@<span>SaraSoueidan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cobyalmond\" class=\"u-url mention\">@<span>cobyalmond</span></a></span> yeah! I used <a href=\"https://social.jacobian.org/@jacob/109247399870935153\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social.jacobian.org/@jacob/109</span><span class=\"invisible\">247399870935153</span></a> and the Netlify redirects are the same as the cloudflare ones</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109291903144257477",
+			"parentId": "109291332354468417",
+			"url": "https://mastodon.social/@TheGreenGreek/109291462779806143",
+			"author": {
+				"name": "Sia Karamalegos",
+				"url": "https://mastodon.social/@TheGreenGreek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/663/615/756/051/original/1fdf529d28ed791b.jpeg"
+			},
+			"date": "2022-11-05T13:36:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@SaraSoueidan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>SaraSoueidan</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@cobyalmond\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cobyalmond</span></a></span> cool to know that netlify works the same too. I'm still debating because I might like that local feed if I move to a server based on an interest like the indieweb one</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109292064773303589",
+			"parentId": "109291332354468417",
+			"url": "https://mastodon.social/@cobyalmond/109291563036848095",
+			"author": {
+				"name": "Coby",
+				"url": "https://mastodon.social/@cobyalmond",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/522/373/109/776/original/0a30c4e1ba732e9c.jpeg"
+			},
+			"date": "2022-11-05T14:01:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@SaraSoueidan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>SaraSoueidan</span></a></span> thanks!</p>",
+			"via": "fediverse"
+		}
+	]
+}

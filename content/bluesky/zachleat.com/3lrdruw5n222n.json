@@ -1,0 +1,584 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:jxdtj6vk437owprkvc5hkfnv/app.bsky.feed.post/3lrdsdta5ec2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/frostyweather.bsky.social/post/3lrdsdta5ec2q",
+			"author": {
+				"name": "Ian Frost",
+				"url": "https://bsky.app/profile/frostyweather.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxdtj6vk437owprkvc5hkfnv/bafkreidqornrqi6u62aymaubb4rmv44eq6ndiz7w6h6srb7vafpzklc7nu"
+			},
+			"date": "2025-06-11T16:12:15.645Z",
+			"content": "<p>500 variants of cards, please</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrdsmk6kuk2p",
+			"parentId": "at://did:plc:jxdtj6vk437owprkvc5hkfnv/app.bsky.feed.post/3lrdsdta5ec2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrdsmk6kuk2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T16:17:08.147Z",
+			"content": "<p>one for each button!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:phpf3nisybgnkmc4ur4me4gf/app.bsky.feed.post/3lrdss4qnhc2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/john.kreitlow.rocks/post/3lrdss4qnhc2p",
+			"private": true,
+			"date": "2025-06-11T16:20:15.386Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vf7tv7uq23avbpzkjswlv273/app.bsky.feed.post/3lrdtelyiys25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rikschennink.com/post/3lrdtelyiys25",
+			"author": {
+				"name": "Rik Schennink",
+				"url": "https://bsky.app/profile/rikschennink.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vf7tv7uq23avbpzkjswlv273/bafkreibge5qwgjyraqbzudhxnjchx2ie3uxysxmubn5urzhykv3hhlvtyq"
+			},
+			"date": "2025-06-11T16:30:35.351Z",
+			"content": "<p>how about another abstraction ✨🤗✨</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lrdtjbazn22k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3lrdtjbazn22k",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-06-11T16:33:11.869Z",
+			"content": "<p>Layers. Like an ogre.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrdu7yf5pk23",
+			"parentId": "at://did:plc:vf7tv7uq23avbpzkjswlv273/app.bsky.feed.post/3lrdtelyiys25",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrdu7yf5pk23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T16:45:54.318Z",
+			"content": "<p>just one more</p>\n<p>one more will fix everything</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrduevr53c23",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lrdtjbazn22k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrduevr53c23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T16:48:39.337Z",
+			"content": "<p><a href=\"https://bsky.app/profile/zachleat.com/post/3lcl3gg36ys25\">bsky.app/profile/zach...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3lrduwymzq22j",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lrdtjbazn22k",
+			"url": "https://bsky.app/profile/sturobson.com/post/3lrduwymzq22j",
+			"author": {
+				"name": "Stuart Robson",
+				"url": "https://bsky.app/profile/sturobson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnut7bswvnl54dhflb4qofss/bafkreiedtdfrl3m5r2ghf2uayx3h35ktub2udzshrtfa5atvb35ntmp5ee"
+			},
+			"date": "2025-06-11T16:58:46.328Z",
+			"content": "<p>Netscape were onto something.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xmxakwsqy2qyuiige7syzuik/app.bsky.feed.post/3lrdv4gcbr224",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/haystephen.bsky.social/post/3lrdv4gcbr224",
+			"author": {
+				"name": "Stephen Hay",
+				"url": "https://bsky.app/profile/haystephen.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xmxakwsqy2qyuiige7syzuik/bafkreifpjes5jurgsijc7kq2tpcddebkjvmwimebbp7opmtd6gsvzv4cz4"
+			},
+			"date": "2025-06-11T17:01:48.428Z",
+			"content": "<p>Multi-select with built-in search and filters please Zach</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrdvddtztc2s",
+			"parentId": "at://did:plc:xmxakwsqy2qyuiige7syzuik/app.bsky.feed.post/3lrdv4gcbr224",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrdvddtztc2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T17:05:40.746Z",
+			"content": "<p>first of all, hi</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xmxakwsqy2qyuiige7syzuik/app.bsky.feed.post/3lre26wrppc24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrdvddtztc2s",
+			"url": "https://bsky.app/profile/haystephen.bsky.social/post/3lre26wrppc24",
+			"author": {
+				"name": "Stephen Hay",
+				"url": "https://bsky.app/profile/haystephen.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xmxakwsqy2qyuiige7syzuik/bafkreifpjes5jurgsijc7kq2tpcddebkjvmwimebbp7opmtd6gsvzv4cz4"
+			},
+			"date": "2025-06-11T18:32:41.530Z",
+			"content": "<p>Hi there.</p>\n<p>When will the multi-select be done don't change the subject</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre2i2zz5c2h",
+			"parentId": "at://did:plc:xmxakwsqy2qyuiige7syzuik/app.bsky.feed.post/3lre26wrppc24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lre2i2zz5c2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T18:37:47.986Z",
+			"content": "<p>if we have wiggle room on feature scope I can have an MVP done by COB using &lt;select multiple&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wkipl7uz2enmj6ijlqwwxwfa/app.bsky.feed.post/3lre3clqkf22n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jamesmackinnon.ca/post/3lre3clqkf22n",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/jamesmackinnon.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkipl7uz2enmj6ijlqwwxwfa/bafkreie2ncuwkfdhdlitvk6cl7s7w6kyeglu437e6iz2zprorpenywby4i"
+			},
+			"date": "2025-06-11T18:52:37.917Z",
+			"content": "<p>it's ok, we're also spinning up 3 new systems in a trench coat to manage the complexity</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xmxakwsqy2qyuiige7syzuik/app.bsky.feed.post/3lre4aeedtc24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre2i2zz5c2h",
+			"url": "https://bsky.app/profile/haystephen.bsky.social/post/3lre4aeedtc24",
+			"author": {
+				"name": "Stephen Hay",
+				"url": "https://bsky.app/profile/haystephen.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xmxakwsqy2qyuiige7syzuik/bafkreifpjes5jurgsijc7kq2tpcddebkjvmwimebbp7opmtd6gsvzv4cz4"
+			},
+			"date": "2025-06-11T19:09:16.810Z",
+			"content": "<p>there are dependencies I'm afraid</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre4fzbwgk2r",
+			"parentId": "at://did:plc:wkipl7uz2enmj6ijlqwwxwfa/app.bsky.feed.post/3lre3clqkf22n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lre4fzbwgk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T19:12:26.522Z",
+			"content": "<p>can we hire a few middle (complexity) managers</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre4iliyrc2r",
+			"parentId": "at://did:plc:xmxakwsqy2qyuiige7syzuik/app.bsky.feed.post/3lre4aeedtc24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lre4iliyrc2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T19:13:52.738Z",
+			"content": "<p>ok then it will take 18 months</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wkipl7uz2enmj6ijlqwwxwfa/app.bsky.feed.post/3lre4oppxjk2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre4fzbwgk2r",
+			"url": "https://bsky.app/profile/jamesmackinnon.ca/post/3lre4oppxjk2n",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/jamesmackinnon.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkipl7uz2enmj6ijlqwwxwfa/bafkreie2ncuwkfdhdlitvk6cl7s7w6kyeglu437e6iz2zprorpenywby4i"
+			},
+			"date": "2025-06-11T19:17:18.487Z",
+			"content": "<p>as team lead, i play a pivotal role in protecting my devs from superman's xray vision</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre4seiops2a",
+			"parentId": "at://did:plc:wkipl7uz2enmj6ijlqwwxwfa/app.bsky.feed.post/3lre4oppxjk2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lre4seiops2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T19:19:20.932Z",
+			"content": "<p>truly the team Pb</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lre4vjostk2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lre4vjostk2w",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2025-06-11T19:21:07.039Z",
+			"content": "<p>KICS!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xmxakwsqy2qyuiige7syzuik/app.bsky.feed.post/3lre4zug7f224",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre4iliyrc2r",
+			"url": "https://bsky.app/profile/haystephen.bsky.social/post/3lre4zug7f224",
+			"author": {
+				"name": "Stephen Hay",
+				"url": "https://bsky.app/profile/haystephen.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xmxakwsqy2qyuiige7syzuik/bafkreifpjes5jurgsijc7kq2tpcddebkjvmwimebbp7opmtd6gsvzv4cz4"
+			},
+			"date": "2025-06-11T19:23:32.509Z",
+			"content": "<p>oh that's pretty quick</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre7ehvfsc2t",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lre4vjostk2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lre7ehvfsc2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T20:05:15.958Z",
+			"content": "<p>complexity is next to godliness</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrefcxagmc2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lre7ehvfsc2t",
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lrefcxagmc2z",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2025-06-11T21:51:47.390Z",
+			"content": "<p>“Good design is as complex as possible.”<br>\n— Dieter Rams</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrefuuyk2c2a",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrefcxagmc2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrefuuyk2c2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T22:01:49.014Z",
+			"content": "<p>“Perfection is achieved, not when there is nothing more to remove, but when there is nothing left to add.”<br>\n— Antoine de Saint-Exupéry</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrfcfdjc5222",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrefuuyk2c2a",
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lrfcfdjc5222",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2025-06-12T06:32:05.885Z",
+			"content": "<p>“The complexities are not the complexities. They make the design.”<br>\n— Charles Eames</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:w3r7tlexcgadspjy2jvoew7j/app.bsky.feed.post/3lrfchmsyn22e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bsmth.de/post/3lrfchmsyn22e",
+			"author": {
+				"name": "Bsmth, the bsmth guy",
+				"url": "https://bsky.app/profile/bsmth.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:w3r7tlexcgadspjy2jvoew7j/bafkreie6npmgeqf4yijgaawbt3m7abayce5ru57wz66yafsiop3cof5c74"
+			},
+			"date": "2025-06-12T06:33:22.748Z",
+			"content": "<p>Have we considered rolling our own crypto for this?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:77nhxdei7vwjw5qdipxazguw/app.bsky.feed.post/3lrfcll4ql22z",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrfcfdjc5222",
+			"url": "https://bsky.app/profile/matuzo.at/post/3lrfcll4ql22z",
+			"author": {
+				"name": "Manuel Matuzović ",
+				"url": "https://bsky.app/profile/matuzo.at",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:77nhxdei7vwjw5qdipxazguw/bafkreid2ax6jks64wx74job62ndwoa6paorfaz2j4hriyiy65qqlljaghq"
+			},
+			"date": "2025-06-12T06:35:35.188Z",
+			"content": "<p>“In terms of priority, complexity comes first. You come next. The audience comes last.”<br>\n— Rick Rubin</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lrfcqivbck2n",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrfcfdjc5222",
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3lrfcqivbck2n",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2025-06-12T06:38:20.618Z",
+			"content": "<p>“Complexity is about subtracting the obvious and adding the meaningful.”<br>\n― John Maeda</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrfd3ppjwc24",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lrfcqivbck2n",
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lrfd3ppjwc24",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2025-06-12T06:44:36.869Z",
+			"content": "<p>“The complexity is the message.”<br>\n— Marshall McLuhan</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lrfdbs6ios2y",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrfd3ppjwc24",
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3lrfdbs6ios2y",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2025-06-12T06:48:00.783Z",
+			"content": "<p>“The ability to complexify means to incorporate the unnecessary so that the necessary may speak.”<br>\n— Hans Hofmann</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3lrfegpygjc2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/whitep4nth3r.com/post/3lrfegpygjc2k",
+			"author": {
+				"name": "⭑ salma",
+				"url": "https://bsky.app/profile/whitep4nth3r.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qcxqtc2yzznbaazu7egncqqx/bafkreicsdkgurugcpgvgeityusm25cdkm45pobfzqinryah2uztjhqjikm"
+			},
+			"date": "2025-06-12T07:08:40.001Z",
+			"content": "<p>complex code is best code</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrfenlu63224",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lrfcqivbck2n",
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lrfenlu63224",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2025-06-12T07:12:30.549Z",
+			"content": "<p>I really loved John’s book “The Laws of Complexity”, by the way. 👏</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgdfo4mds2q",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrfenlu63224",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrgdfo4mds2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-12T16:22:50.483Z",
+			"content": "<p>“I didn’t have time to write you a long letter, so I wrote you a short one.” — Mark Twain</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgdgc6kdk2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrgdgc6kdk2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-12T16:23:11.518Z",
+			"content": "<p>Some really insightful quotes in this thread: <a href=\"https://bsky.app/profile/matthiasott.com/post/3lrefcxagmc2z\">bsky.app/profile/matt...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgduvqiks2k",
+			"parentId": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3lrfegpygjc2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrgduvqiks2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-12T16:31:21.792Z",
+			"content": "<p>more is more, as I always say</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lrgekxvg4s27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lrgekxvg4s27",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-06-12T16:43:42.247Z",
+			"content": "<p>I was going to keep it simple, but I’m not stupid! So…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgeraeo7k2v",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lrgekxvg4s27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrgeraeo7k2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-12T16:47:12.462Z",
+			"content": "<p>*exactly*</p>\n<p>this is why I use LLMs because I am not nuts!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3lrgevixv4k2d",
+			"parentId": "at://did:plc:77nhxdei7vwjw5qdipxazguw/app.bsky.feed.post/3lrfcll4ql22z",
+			"url": "https://bsky.app/profile/ericportis.com/post/3lrgevixv4k2d",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://bsky.app/profile/ericportis.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:554zgjahdelvrbspjpeofd2o/bafkreih65ewisfijncanen7pvwi4bf3x2qzqfrekssqw7uko5g6yw7rlhm"
+			},
+			"date": "2025-06-12T16:49:35.698Z",
+			"content": "<p>\"Everything should be made as complex as possible, and then a little complexerer.\" — Albert Einstein</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lrgexkeupc27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgeraeo7k2v",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lrgexkeupc27",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-06-12T16:50:44.281Z",
+			"content": "<p>Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away.</p>\n<p>And perfection is the enemy of good.</p>\n<p>So if soy want to make good software: ADD NORE FEATURES!</p>\n<p>It’s logic!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lrgez3qvas27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgeraeo7k2v",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lrgez3qvas27",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-06-12T16:51:36.055Z",
+			"content": "<p>Smart!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgf3dpgvc2r",
+			"parentId": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3lrgevixv4k2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrgf3dpgvc2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-12T16:52:51.506Z",
+			"content": "<p>genuine lol at complexerer 🏅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrggmghj3k2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrgf3dpgvc2r",
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lrggmghj3k2t",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2025-06-12T17:20:18.559Z",
+			"content": "<p>Wasn’t Einstein also the guy who(se wife) invented the general theory of complexity?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrggqiafo22n",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrggmghj3k2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrggqiafo22n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-12T17:22:34.641Z",
+			"content": "<p>well I do know that it’s not called a God Simplex</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vih52wbw6xldmkcpjlizjcsw/app.bsky.feed.post/3lrgguyuwx226",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lrefcxagmc2z",
+			"url": "https://bsky.app/profile/joshuaiz.com/post/3lrgguyuwx226",
+			"author": {
+				"name": "Joshua Iz",
+				"url": "https://bsky.app/profile/joshuaiz.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vih52wbw6xldmkcpjlizjcsw/bafkreid35htabr53a2orzaex4olc2k442vmkk5gm7fhpqhnrd3twrniyha"
+			},
+			"date": "2025-06-12T17:25:06.309Z",
+			"content": "<p>KICS: KEEP IT COMPLEX, STUPID!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2uscpydjyvaj6jngsmsfwvww/app.bsky.feed.post/3lrggwhzhfs2m",
+			"parentId": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3lrgevixv4k2d",
+			"url": "https://bsky.app/profile/erikvorhes.bsky.social/post/3lrggwhzhfs2m",
+			"author": {
+				"name": "Erik Vorhes",
+				"url": "https://bsky.app/profile/erikvorhes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2uscpydjyvaj6jngsmsfwvww/bafkreihi6mjx3qmgoqcrlsq2eyrougpcnpfkgbnth35vci7i5bxa7ubsmi"
+			},
+			"date": "2025-06-12T17:25:55.740Z",
+			"content": "<p>“We need much more than we think we need.” — Maya Angelou</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y3zkcheff6qz7jnyftttet2f/app.bsky.feed.post/3lrgmirf7ck2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kinoauge.bsky.social/post/3lrgmirf7ck2k",
+			"author": {
+				"name": "Florian Geierstanger",
+				"url": "https://bsky.app/profile/kinoauge.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y3zkcheff6qz7jnyftttet2f/bafkreig77wetfoamcuay4wxsnlf3eezxihum4vs5pgarno6627h3alhalq"
+			},
+			"date": "2025-06-12T19:05:38.249Z",
+			"content": "<p>Running various versions of the thing at once seems like a easy win</p>",
+			"via": "bluesky"
+		}
+	]
+}

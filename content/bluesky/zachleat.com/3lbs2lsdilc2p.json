@@ -1,0 +1,194 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbsty3gdgk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rich.lafferty.ca/post/3lbsty3gdgk2q",
+			"author": {
+				"name": "Rich Lafferty",
+				"url": "https://bsky.app/profile/rich.lafferty.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jldsdoe5mqnqgqcgqdrs44av/bafkreid7nyjsph7amilpd5t535onyz7qoj3nhumjzkdslergwjn37ju5be"
+			},
+			"date": "2024-11-26T01:08:19.098Z",
+			"content": "<p>AND, <a href=\"https://user.bluesky.social\">user.bluesky.social</a> in the browser redirects to user's profile page! they're clever</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ovndwhqsvqgni6uobio3omw3/app.bsky.feed.post/3lbt2pm5ngk2r",
+			"parentId": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbsty3gdgk2q",
+			"url": "https://bsky.app/profile/nortrup.dev/post/3lbt2pm5ngk2r",
+			"author": {
+				"name": "Andy Nortrup",
+				"url": "https://bsky.app/profile/nortrup.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ovndwhqsvqgni6uobio3omw3/bafkreia6cuxfq2dbnkz7uy6f6qvvgvgppuke774v2i4l3nck34ha7vuvnq"
+			},
+			"date": "2024-11-26T03:08:50.842Z",
+			"content": "<p>I wonder if @ bsky.domain.tld would be a good convention even for people with domains?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbt2s4cuds2m",
+			"parentId": "at://did:plc:ovndwhqsvqgni6uobio3omw3/app.bsky.feed.post/3lbt2pm5ngk2r",
+			"url": "https://bsky.app/profile/rich.lafferty.ca/post/3lbt2s4cuds2m",
+			"author": {
+				"name": "Rich Lafferty",
+				"url": "https://bsky.app/profile/rich.lafferty.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jldsdoe5mqnqgqcgqdrs44av/bafkreid7nyjsph7amilpd5t535onyz7qoj3nhumjzkdslergwjn37ju5be"
+			},
+			"date": "2024-11-26T03:10:14.900Z",
+			"content": "<p>\"find me on bluesky at xn--bt9h.example.com\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbt3amp4o22m",
+			"parentId": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbsty3gdgk2q",
+			"url": "https://bsky.app/profile/rich.lafferty.ca/post/3lbt3amp4o22m",
+			"author": {
+				"name": "Rich Lafferty",
+				"url": "https://bsky.app/profile/rich.lafferty.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jldsdoe5mqnqgqcgqdrs44av/bafkreid7nyjsph7amilpd5t535onyz7qoj3nhumjzkdslergwjn37ju5be"
+			},
+			"date": "2024-11-26T03:18:21.840Z",
+			"content": "<p>(oops I mean <a href=\"https://user.bsky.social\">user.bsky.social</a> here just in case someone gets confused)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ovndwhqsvqgni6uobio3omw3/app.bsky.feed.post/3lbt44kilqc2r",
+			"parentId": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbt2s4cuds2m",
+			"url": "https://bsky.app/profile/nortrup.dev/post/3lbt44kilqc2r",
+			"author": {
+				"name": "Andy Nortrup",
+				"url": "https://bsky.app/profile/nortrup.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ovndwhqsvqgni6uobio3omw3/bafkreia6cuxfq2dbnkz7uy6f6qvvgvgppuke774v2i4l3nck34ha7vuvnq"
+			},
+			"date": "2024-11-26T03:33:59.053Z",
+			"content": "<p>Now I want to go mess with c names.  It's never a good idea to want to mess with DNS.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3nicadjy5fam4ny4viezslgv/app.bsky.feed.post/3lbt5t5vsd22w",
+			"parentId": "at://did:plc:ovndwhqsvqgni6uobio3omw3/app.bsky.feed.post/3lbt44kilqc2r",
+			"url": "https://bsky.app/profile/bsky.tavisto.net/post/3lbt5t5vsd22w",
+			"private": true,
+			"date": "2024-11-26T04:04:31.349Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qki43xwllgfjndtyfhgc7o4s/app.bsky.feed.post/3lbu4wwgoos2v",
+			"parentId": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbsty3gdgk2q",
+			"url": "https://bsky.app/profile/duncanhall.net/post/3lbu4wwgoos2v",
+			"author": {
+				"name": "_duncanhall",
+				"url": "https://bsky.app/profile/duncanhall.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qki43xwllgfjndtyfhgc7o4s/bafkreif4u3gjdl4bt5a3a2wh4n2hvholnm32z25cofnsmcpxw5ehg5vvfu"
+			},
+			"date": "2024-11-26T13:21:23.727Z",
+			"content": "<p>Ok I finally got sniped into doing this.</p>\n<p>- Added a bsky. subdomain in route53<br>\n - Updated and re-verified my handle<br>\n - Faffed with ALB redirects for way too long</p>\n<p>But <a href=\"http://bsky.duncanhall.net/\">bsky.duncanhall.net</a> will now take you my profile.</p>\n<p>(No https yet - that overkill can wait until tomorrow)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbuafbmje22v",
+			"parentId": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbsty3gdgk2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbuafbmje22v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-26T14:23:06.441Z",
+			"content": "<p>I like that a lot, yeah!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbubc7mmvc2m",
+			"parentId": "at://did:plc:qki43xwllgfjndtyfhgc7o4s/app.bsky.feed.post/3lbu4wwgoos2v",
+			"url": "https://bsky.app/profile/rich.lafferty.ca/post/3lbubc7mmvc2m",
+			"author": {
+				"name": "Rich Lafferty",
+				"url": "https://bsky.app/profile/rich.lafferty.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jldsdoe5mqnqgqcgqdrs44av/bafkreid7nyjsph7amilpd5t535onyz7qoj3nhumjzkdslergwjn37ju5be"
+			},
+			"date": "2024-11-26T14:39:17.424Z",
+			"content": "<p>oddly, I find it easier to do \"redirect-only\" sites with Cloudfront→S3 routing rules than in an ALB.  Not intuitive, but all per-request costs instead of hourly.</p>\n<p>(But if you already have the ALB, that works too)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qki43xwllgfjndtyfhgc7o4s/app.bsky.feed.post/3lbubmoxljc2u",
+			"parentId": "at://did:plc:jldsdoe5mqnqgqcgqdrs44av/app.bsky.feed.post/3lbubc7mmvc2m",
+			"url": "https://bsky.app/profile/duncanhall.net/post/3lbubmoxljc2u",
+			"author": {
+				"name": "_duncanhall",
+				"url": "https://bsky.app/profile/duncanhall.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qki43xwllgfjndtyfhgc7o4s/bafkreif4u3gjdl4bt5a3a2wh4n2hvholnm32z25cofnsmcpxw5ehg5vvfu"
+			},
+			"date": "2024-11-26T14:45:09.058Z",
+			"content": "<p>Ooh that sounds way better. Tomorrows procrastination</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbwzvwa3kk2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbwzvwa3kk2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-27T17:05:07.947Z",
+			"content": "<p>whew, this post shows that bad actors are taking advantage of the perceived credibility of custom domain usernames to impersonate very popular accounts using .bsky.social usernames 😭 <a href=\"https://bsky.app/profile/triketora.com/post/3lbwzhdofkk2c\">bsky.app/profile/trik...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2bweiy22o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbwzvwa3kk2x",
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lbx2bweiy22o",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-27T17:11:50.744Z",
+			"content": "<p>The linked newsletter cites 1 fake account with a custom domain.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx2olfc3s2g",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2bweiy22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbx2olfc3s2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-27T17:18:55.442Z",
+			"content": "<p>we’re seeing the tension between centralized and decentralized identity though, right</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2w4obf22o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx2olfc3s2g",
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lbx2w4obf22o",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-27T17:23:08.444Z",
+			"content": "<p>Yes. *cough* <a href=\"https://indieauth.net/\">indieauth.net</a> *cough*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx2yvqzyk2g",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2w4obf22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbx2yvqzyk2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-27T17:24:41.859Z",
+			"content": "<p>oh, for the record I don’t think any decentralized solution will solve this specific problem</p>",
+			"via": "bluesky"
+		}
+	]
+}

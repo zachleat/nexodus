@@ -1,0 +1,266 @@
+{
+	"comments": [
+		{
+			"id": "109427717975228206",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/109427717931812928",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-29T15:07:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hi! 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109430963844688155",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@ru/109430963810625478",
+			"private": true,
+			"date": "2022-11-30T04:53:13.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109431704059641025",
+			"parentId": 0,
+			"url": "https://tech.lgbt/@Marco/109431703998356697",
+			"private": true,
+			"date": "2022-11-30T08:01:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109431802738085176",
+			"parentId": "109431704059641025",
+			"url": "https://mamot.fr/@nhoizey/109431802698787297",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-30T08:26:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://tech.lgbt/@Marco\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Marco</span></a></span> you should not need `database/tweets.js` anymore once tweets have been imported in the database.</p><p>Can you open an issue to track this?</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109431966214428560",
+			"parentId": "109431802738085176",
+			"url": "https://tech.lgbt/@Marco/109431966128029474",
+			"author": {
+				"name": "Marco Zehe",
+				"url": "https://tech.lgbt/@Marco",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-30T09:08:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Will do once I test if this also happens on MacOS. I was trying this on Windows yesterday, but have had Eleventy build failures on Windows prior as well. And no, was not using WSL because the Store didn't let me download a WSL operating system. I'll report back once I know the Mac results.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109432251864361313",
+			"parentId": "109431966214428560",
+			"url": "https://tech.lgbt/@Marco/109432251787525861",
+			"private": true,
+			"date": "2022-11-30T10:20:46.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109432366360374361",
+			"parentId": "109432251864361313",
+			"url": "https://mamot.fr/@nhoizey/109432366311966677",
+			"private": true,
+			"date": "2022-11-30T10:49:54.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109433376179388777",
+			"parentId": "109432251864361313",
+			"url": "https://fediverse.zachleat.com/@zachleat/109433376179388777",
+			"private": true,
+			"date": "2022-11-30T15:06:43.517Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109433378868848350",
+			"parentId": "109430963844688155",
+			"url": "https://fediverse.zachleat.com/@zachleat/109433378868848350",
+			"private": true,
+			"date": "2022-11-30T15:07:24.555Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109433385380338400",
+			"parentId": "109433378868848350",
+			"url": "https://mamot.fr/@nhoizey/109433385333863911",
+			"private": true,
+			"date": "2022-11-30T15:09:03.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109434141054972453",
+			"parentId": "109433376179388777",
+			"url": "https://tech.lgbt/@Marco/109434140894800205",
+			"private": true,
+			"date": "2022-11-30T18:21:12.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109434195771028481",
+			"parentId": "109434141054972453",
+			"url": "https://fediverse.zachleat.com/@zachleat/109434195771028481",
+			"private": true,
+			"date": "2022-11-30T18:35:09.497Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109434226117646954",
+			"parentId": "109434141054972453",
+			"url": "https://mamot.fr/@nhoizey/109434226062683119",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-30T18:42:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://tech.lgbt/@Marco\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Marco</span></a></span> great! 🎉</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109434374295164876",
+			"parentId": "109434195771028481",
+			"url": "https://tech.lgbt/@Marco/109434374214531388",
+			"private": true,
+			"date": "2022-11-30T19:20:32.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109442345808873045",
+			"parentId": 0,
+			"url": "https://social.dino.icu/@reesericci/109442345778410899",
+			"author": {
+				"name": "Reese Armstrong :verified_su:",
+				"url": "https://social.dino.icu/@reesericci",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/423/057/626/610/837/original/8b6a2d4551a54c91.png"
+			},
+			"date": "2022-12-02T05:07:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i will eventually get around to setting this up :P. This looks super cool though!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109444531968768612",
+			"parentId": "109442345808873045",
+			"url": "https://fediverse.zachleat.com/@zachleat/109444531968768612",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-02T14:23:47.355Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.dino.icu/@reesericci\" class=\"u-url mention\">@<span>reesericci</span></a></span> let us know how it goes!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109452796491722270",
+			"parentId": 0,
+			"url": "https://front-end.social/@elly/109452796274743550",
+			"author": {
+				"name": "Elly Loel",
+				"url": "https://front-end.social/@elly",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/446/932/953/258/362/original/1f113f0d3227c3fb.png"
+			},
+			"date": "2022-12-04T01:25:30.000Z",
+			"content": "<p>Thanks to <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>, <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> and <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> my (tiny) tweet archive is live! :elmo_fire: </p><p>🔗 <a href=\"https://twitter.ellyloel.com/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.ellyloel.com/</span><span class=\"invisible\"></span></a></p><p>Woop woop! :honk:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109454024281905840",
+			"parentId": "109452796491722270",
+			"url": "https://mamot.fr/@nhoizey/109454024234579251",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-12-04T06:37:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@elly\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elly</span></a></span> great! 👍</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109464647856952292",
+			"parentId": 0,
+			"url": "https://social.dryan.com/@d/109464647802300356",
+			"author": {
+				"name": "Dan Ryan :dryan:",
+				"url": "https://social.dryan.com/@d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/804/817/015/572/original/b93ef5db0503b13f.jpeg"
+			},
+			"date": "2022-12-06T03:39:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> <br>Thanks so much for this! Set mine up at <a href=\"https://dryan.com/tweets/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dryan.com/tweets/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524404913780000",
+			"parentId": 0,
+			"url": "https://typo.social/@a/109524404801698099",
+			"author": {
+				"name": "Aetherpoint",
+				"url": "https://typo.social/@a",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/502/748/004/413/106/original/d22400b074a5e8ce.jpg"
+			},
+			"date": "2022-12-16T16:56:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Still loving Eleventy btw :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524499795177225",
+			"parentId": "109524404913780000",
+			"url": "https://fediverse.zachleat.com/@zachleat/109524499795177225",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T17:20:39.549Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@a\" class=\"u-url mention\">@<span>a</span></a></span> Yay! Thank you Andrew!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524768638667355",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tcurdt/109524768592124950",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://mastodon.social/@tcurdt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/751/028/742/857/original/acf20e9220f52199.jpg"
+			},
+			"date": "2022-12-16T18:29:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would love to be able to pull in replies as well.</p><p>That's probably not so easy as they are not in the archive, right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524851087583098",
+			"parentId": "109524768638667355",
+			"url": "https://fediverse.zachleat.com/@zachleat/109524851087583098",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T18:49:59.846Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tcurdt\" class=\"u-url mention\">@<span>tcurdt</span></a></span> the best place to ask is the tweetback issue tracker! <a href=\"https://github.com/tweetback/tweetback\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tweetback/tweetback</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109525359624647666",
+			"parentId": "109524851087583098",
+			"url": "https://mastodon.social/@tcurdt/109525359547718531",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://mastodon.social/@tcurdt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/751/028/742/857/original/acf20e9220f52199.jpg"
+			},
+			"date": "2022-12-16T20:59:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> added!</p><p><a href=\"https://github.com/tweetback/tweetback/issues/49\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/issues/49</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "111545473537876502",
+			"parentId": 0,
+			"url": "https://mastodon.social/@siggiarni/111545473487195566",
+			"author": {
+				"name": "siggiarni",
+				"url": "https://mastodon.social/@siggiarni",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/140/410/847/885/original/d8b1518a2b1f2eab.jpg"
+			},
+			"date": "2023-12-08T15:20:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ís-land? 🇮🇸</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111545482381463595",
+			"parentId": "111545473537876502",
+			"url": "https://fediverse.zachleat.com/@zachleat/111545482381463595",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-08T15:23:06.534Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@siggiarni\" class=\"u-url mention\">@<span>siggiarni</span></a></span> 💯💯💯💯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111545973314689590",
+			"parentId": 0,
+			"url": "https://front-end.social/@rem/111545973283613467",
+			"author": {
+				"name": "rem",
+				"url": "https://front-end.social/@rem",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/337/799/327/859/909/original/4c7ca13f121949ca.jpg"
+			},
+			"date": "2023-12-08T17:27:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> question, that I don't think quit think warrants a github issue/qusetion: why use the `on:x` attribute pattern over something like `data-on-condition`? Just curious.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111546104713950351",
+			"parentId": "111545973314689590",
+			"url": "https://fediverse.zachleat.com/@zachleat/111546104713950351",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-08T18:01:22.572Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@rem\" class=\"u-url mention\">@<span>rem</span></a></span> I don’t believe `data-` is required for custom elements so just a style preference</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111546989177722327",
+			"parentId": "111546104713950351",
+			"url": "https://social.dryan.com/@d/111546989163160293",
+			"author": {
+				"name": "Dan Ryan :dryan:",
+				"url": "https://social.dryan.com/@d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/804/817/015/572/original/b93ef5db0503b13f.jpeg"
+			},
+			"date": "2023-12-08T21:46:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@rem\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rem</span></a></span> that’s also my understanding. HTML spec will never ship a tag name with a hyphen, so there will never be a clash with an attribute _unless_ you use one that HTMLElement has like “name” or “role”.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111547030344909128",
+			"parentId": "111546989177722327",
+			"url": "https://fediverse.zachleat.com/@zachleat/111547030344909128",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-08T21:56:46.582Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.dryan.com/@d\" class=\"u-url mention\">@<span>d</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@rem\" class=\"u-url mention\">@<span>rem</span></a></span> although certain conflicts *could* arise if new attributes are added—hmm. Thinking I might need to test how conflicts work</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111547034227890995",
+			"parentId": "111547030344909128",
+			"url": "https://social.dryan.com/@d/111547034174281285",
+			"author": {
+				"name": "Dan Ryan :dryan:",
+				"url": "https://social.dryan.com/@d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/804/817/015/572/original/b93ef5db0503b13f.jpeg"
+			},
+			"date": "2023-12-08T21:57:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@rem\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rem</span></a></span> agreed. I think custom namespaces may still be best. And data- is certainly fine to use.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111547294641219025",
+			"parentId": 0,
+			"url": "https://mastodon.online/@mkhoury/111547294548393241",
+			"author": {
+				"name": "Marc Khoury",
+				"url": "https://mastodon.online/@mkhoury",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-12-08T23:03:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Can I untap it during my untap phase?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111552753422742361",
+			"parentId": "111547294641219025",
+			"url": "https://fediverse.zachleat.com/@zachleat/111552753422742361",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-09T22:12:13.819Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mkhoury\" class=\"u-url mention\">@<span>mkhoury</span></a></span> web components: the gathering!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111552992923533320",
+			"parentId": "111552753422742361",
+			"url": "https://mastodon.online/@mkhoury/111552992890974709",
+			"author": {
+				"name": "Marc Khoury",
+				"url": "https://mastodon.online/@mkhoury",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-12-09T23:13:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that actually might be a good organizing model. Each web component library is like a color; a component plays well with all other libraries, but it does it particularly well within the library.</p>",
+			"via": "fediverse"
+		}
+	]
+}

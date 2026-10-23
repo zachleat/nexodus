@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "112157068185876721",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/112157067375499194",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-25T15:37:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what I'm surprised to see is Nodejs is still leading with 100% coverage on WinterCG recommended APIs. </p><p>Also, isn't Netlify edge just repackaged deno?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112157186369380510",
+			"parentId": "112157068185876721",
+			"url": "https://fediverse.zachleat.com/@zachleat/112157186369380510",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T16:07:28.654Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> that’s my understanding but the two columns are not identical</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112157287038329270",
+			"parentId": 0,
+			"url": "https://mastodon.design/@naiyer/112157287028296820",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2024-03-25T16:33:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Java has Technology Compatibility Kit which each distribution has to pass to make it a drop-in replacement of another distribution. Maybe JavaScript should have something like that now that we have so many runtimes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112157425466980606",
+			"parentId": "112157287038329270",
+			"url": "https://fediverse.zachleat.com/@zachleat/112157425466980606",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T17:08:16.993Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@naiyer\" class=\"u-url mention\">@<span>naiyer</span></a></span> write once, run everything everywhere all at once?</p><p>I do think WinterCG was a lower-fidelity attempt at something like this</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112157501231766383",
+			"parentId": "112157425466980606",
+			"url": "https://mastodon.design/@naiyer/112157501216511024",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2024-03-25T17:27:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> WinterCG is a lot less formal though but still quite good attempt to visualise the runtime interop. Thanks for sharing this data though. I've been evaluating some of these runtimes for serverless workloads at work.</p>",
+			"via": "fediverse"
+		}
+	]
+}

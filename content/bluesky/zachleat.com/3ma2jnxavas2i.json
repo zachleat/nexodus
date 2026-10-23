@@ -1,0 +1,51 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:h4qem3f3cz6yvs3r3xvs634g/app.bsky.feed.post/3ma2kptbldk2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kyleshevl.in/post/3ma2kptbldk2x",
+			"author": {
+				"name": "Kyle Shevlin (he/him)",
+				"url": "https://bsky.app/profile/kyleshevl.in",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h4qem3f3cz6yvs3r3xvs634g/bafkreibtqcvpmu7362jx2vux6orvuv46qzqc52r2tagun4twi2kzvfxfau"
+			},
+			"date": "2025-12-15T21:19:45.176Z",
+			"content": "<p>Reading this made me think of companies that have done the opposite: branded with a typeface made with a problematic designer.</p>\n<p>About 15 years ago I did some work for a company using Gill Sans, and boy was I not ready to learn about the designer.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ma2ktshho22i",
+			"parentId": "at://did:plc:h4qem3f3cz6yvs3r3xvs634g/app.bsky.feed.post/3ma2kptbldk2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ma2ktshho22i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-15T21:21:58.545Z",
+			"content": "<p>Wikipedia casually dropping “Germany during the late 1920s” without additional context is *wild*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fvzc7xmxfpfsvcu5tnjsstdr/app.bsky.feed.post/3ma2vjnp6uk2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/social.arcarr.com/post/3ma2vjnp6uk2p",
+			"private": true,
+			"date": "2025-12-16T00:33:09.171Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ma4d5dkhk22v",
+			"parentId": "at://did:plc:fvzc7xmxfpfsvcu5tnjsstdr/app.bsky.feed.post/3ma2vjnp6uk2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ma4d5dkhk22v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-16T14:09:28.001Z",
+			"content": "<p><a href=\"https://fonts.google.com/specimen/Instrument+Serif\">fonts.google.com/specimen/Ins...</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

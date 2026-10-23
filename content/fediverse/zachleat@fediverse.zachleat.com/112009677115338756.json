@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "112015182163653866",
+			"parentId": 0,
+			"url": "https://appdot.net/@brandonscript/112015182148121312",
+			"author": {
+				"name": "Brandon",
+				"url": "https://appdot.net/@brandonscript",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/385/263/128/337/879/original/97543a1fe8c83b01.jpeg"
+			},
+			"date": "2024-02-29T14:13:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> gee it's like we should have just written blog posts <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hexagoncircle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hexagoncircle</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112015200803086476",
+			"parentId": "112015182163653866",
+			"url": "https://fediverse.zachleat.com/@zachleat/112015200803086476",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-29T14:18:40.848Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://appdot.net/@brandonscript\" class=\"u-url mention\">@<span>brandonscript</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hexagoncircle\" class=\"u-url mention\">@<span>hexagoncircle</span></a></span> whew, I agree.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112015204140940161",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@haliphax/112015204026363986",
+			"author": {
+				"name": "haliphax 👾",
+				"url": "https://hachyderm.io/@haliphax",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/141/298/839/313/original/20871e623058c1d4.jpg"
+			},
+			"date": "2024-02-29T14:19:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Holy crap, that is seriously cool 🤘</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112015575477744662",
+			"parentId": "112015204140940161",
+			"url": "https://fediverse.zachleat.com/@zachleat/112015575477744662",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-29T15:53:57.929Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@haliphax\" class=\"u-url mention\">@<span>haliphax</span></a></span> thanks!! 🙌</p>",
+			"via": "fediverse"
+		}
+	]
+}

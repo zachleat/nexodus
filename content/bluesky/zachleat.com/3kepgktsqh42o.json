@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kepij7j6422h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3kepij7j6422h",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2023-11-21T15:54:32.469Z",
+			"content": "<p>I’m still using Jamstack technology every week at work. I think it’s become _stable_ which is different from dead.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3keppugmjyj22",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kepij7j6422h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3keppugmjyj22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-11-21T18:06:05.084Z",
+			"content": "<p>yeah, agree! I do think “Jamstack technology” would be better served by a better and more specific definition though</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kept2u4kby2f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3keppugmjyj22",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3kept2u4kby2f",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2023-11-21T19:03:21.916Z",
+			"content": "<p>In an effort to not scare people with shifting language we’ve taken to calling it “static”, since that’s the outcome regardless of the individual software involved.</p>\n<p>I like outcome-oriented language. People get hung up on the technology part. It all makes websites.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3keq6p6ucgt27",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kept2u4kby2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3keq6p6ucgt27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-11-21T22:31:35.305Z",
+			"content": "<p>make web site go brrrrrr!</p>\n<p>and then also sometimes make web site not go brrrr if user preference set to reduce brrrr</p>",
+			"via": "bluesky"
+		}
+	]
+}

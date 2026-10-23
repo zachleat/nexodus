@@ -1,0 +1,225 @@
+{
+	"comments": [
+		{
+			"id": "110028031978663347",
+			"parentId": 0,
+			"url": "https://mastodon.social/@noleli/110028031914189858",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2023-03-15T15:35:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lighthouse scores are unsigned ints. Once they try to go below 0 it’s back to blazing fast!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028045559424791",
+			"parentId": 0,
+			"url": "https://mastodon.online/@catraxx/110028045468584101",
+			"author": {
+				"name": "catraxx",
+				"url": "https://mastodon.online/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/608/749/274/424/original/42d350ec8aae85d7.jpg"
+			},
+			"date": "2023-03-15T15:38:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes, sir. Adding more.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028068666579046",
+			"parentId": 0,
+			"url": "https://bibly.com/@thefinley/110028068323772333",
+			"author": {
+				"name": "James Finley",
+				"url": "https://bibly.com/@thefinley",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/700/825/386/069/036/original/b321c453035c5fdc.png"
+			},
+			"date": "2023-03-15T15:44:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The DOM is the problem, Zachary, my man! If we just render the whole page with Canvas we can avoid that. We’ll have to ship before we figure out the a11y problem, but we can always figure that out latter. Blind people only make up like 1% of the population, anyway.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028124355567890",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/110028124316355089",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-03-15T15:58:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> same energy <a href=\"https://youtu.be/lmmp7fGAgRg\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/lmmp7fGAgRg</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028133725170761",
+			"parentId": "110028068666579046",
+			"url": "https://fediverse.zachleat.com/@zachleat/110028133725170761",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T16:01:23.458Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bibly.com/@thefinley\" class=\"u-url mention\">@<span>thefinley</span></a></span> this satire is grounded in entirely too many real things that have been said by folks</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028143176216511",
+			"parentId": "110028124355567890",
+			"url": "https://fediverse.zachleat.com/@zachleat/110028143176216511",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T16:03:47.663Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> we should cancel mr bean</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028149702506498",
+			"parentId": "110028133725170761",
+			"url": "https://bibly.com/@thefinley/110028149498975527",
+			"author": {
+				"name": "James Finley",
+				"url": "https://bibly.com/@thefinley",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/700/825/386/069/036/original/b321c453035c5fdc.png"
+			},
+			"date": "2023-03-15T16:05:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You and me both, my friend. You and me both.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028166139329296",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@AlesandroOrtiz/110028166111605295",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2023-03-15T16:09:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I want to frame this post.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028181482781097",
+			"parentId": "110028143176216511",
+			"url": "https://mastodon.design/@DavidDarnes/110028181457572705",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-03-15T16:13:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think the actor already has bee(a)n</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028864295004740",
+			"parentId": 0,
+			"url": "https://mastodon.social/@clarkgunn/110028864224265896",
+			"author": {
+				"name": "Avalynn Gunn 🇵🇸",
+				"url": "https://mastodon.social/@clarkgunn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/141/753/189/084/original/4cbe1e4a70428f97.jpg"
+			},
+			"date": "2023-03-15T19:07:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm actually experiencing this with hydration re-rendering LCP, with enough throttling LCP timing is good again 🙃🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028890053486798",
+			"parentId": "110028864295004740",
+			"url": "https://fediverse.zachleat.com/@zachleat/110028890053486798",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T19:13:44.110Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@clarkgunn\" class=\"u-url mention\">@<span>clarkgunn</span></a></span> ha! pre-JS LCP must be fine as long as hydration takes long enough? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028918582336859",
+			"parentId": "110028890053486798",
+			"url": "https://mastodon.social/@clarkgunn/110028918549792094",
+			"author": {
+				"name": "Avalynn Gunn 🇵🇸",
+				"url": "https://mastodon.social/@clarkgunn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/141/753/189/084/original/4cbe1e4a70428f97.jpg"
+			},
+			"date": "2023-03-15T19:20:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yup, so happy with the \"throw everything away and re-render\" programming model.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110028946392063131",
+			"parentId": "110028918582336859",
+			"url": "https://fediverse.zachleat.com/@zachleat/110028946392063131",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T19:28:03.768Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@clarkgunn\" class=\"u-url mention\">@<span>clarkgunn</span></a></span> *runs away*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029029883514582",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@thomasapowell/110029029861414782",
+			"author": {
+				"name": "ThomasAPowell",
+				"url": "https://fosstodon.org/@thomasapowell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/805/019/767/545/original/953acf77563f46ee.jpeg"
+			},
+			"date": "2023-03-15T19:49:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this feels like it needs a Kylo Ren Moar meme or a Leo Inception Go Deeper meme.  Make this an Epic Modern Web Shit Post Zach … you can do it ! 😝</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029045172819637",
+			"parentId": "110029029883514582",
+			"url": "https://fediverse.zachleat.com/@zachleat/110029045172819637",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T19:53:11.043Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@thomasapowell\" class=\"u-url mention\">@<span>thomasapowell</span></a></span> NOTHING IN MODERATION</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029543464097760",
+			"parentId": 0,
+			"url": "https://m.nintendojo.fr/@meduz/110029543436585304",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2023-03-15T21:59:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We should store the JavaScript in the favicon. This way when the website icon is displayed in Google’s results list, it magically preloads the JavaScript!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029560808918345",
+			"parentId": "110029543464097760",
+			"url": "https://fediverse.zachleat.com/@zachleat/110029560808918345",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T22:04:19.021Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\">@<span>meduz</span></a></span> this is a super villain origin story</p>",
+			"via": "fediverse"
+		}
+	]
+}

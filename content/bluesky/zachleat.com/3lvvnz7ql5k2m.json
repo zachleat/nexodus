@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:gs6cjxjo2rypalnyqta6cp4c/app.bsky.feed.post/3lvvvin7rqc2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sergeyche.dev/post/3lvvvin7rqc2y",
+			"author": {
+				"name": "Sergey Chernyshev",
+				"url": "https://bsky.app/profile/sergeyche.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gs6cjxjo2rypalnyqta6cp4c/bafkreifcvhpzlmu4al5eytgg2ppgooupv5n45fad4x25mulxil3pyfvrn4"
+			},
+			"date": "2025-08-08T18:37:20.142Z",
+			"content": "<p>I learned that word in college and understood (to a degree) after 10-15 years later.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvvxgobyoc2q",
+			"parentId": "at://did:plc:gs6cjxjo2rypalnyqta6cp4c/app.bsky.feed.post/3lvvvin7rqc2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvvxgobyoc2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-08T19:12:01.638Z",
+			"content": "<p>it’s a good word!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:p6urqe5txu57nx4tm324cnbo/app.bsky.feed.post/3lvw6fmrtdc2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/toothy.dev/post/3lvw6fmrtdc2y",
+			"author": {
+				"name": "Toothy Fernsan",
+				"url": "https://bsky.app/profile/toothy.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6urqe5txu57nx4tm324cnbo/bafkreicaavmpk5pd7e5c2uzwnzsrwg7mecx4igxd63yqhd6yqfu7g6qze4"
+			},
+			"date": "2025-08-08T21:16:42.698Z",
+			"content": "<p>LLMs are deterministic. If you use one from the API or selfhost, turning the temperature to 0 yields the exact same response to the same prompt, forever</p>",
+			"via": "bluesky"
+		}
+	]
+}

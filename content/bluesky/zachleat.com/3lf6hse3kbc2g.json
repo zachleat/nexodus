@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qrhqtyfds6zwnseuybds6ac5/app.bsky.feed.post/3lf6hyuvhkk27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/itscrisdiaz.com/post/3lf6hyuvhkk27",
+			"author": {
+				"name": "Cristian Díaz",
+				"url": "https://bsky.app/profile/itscrisdiaz.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qrhqtyfds6zwnseuybds6ac5/bafkreie2t2shcrv2v7u75352po5s63l5hrzkhpigetwmppvrq4cvo2mdrq"
+			},
+			"date": "2025-01-07T20:21:32.651Z",
+			"content": "<p>Are you taking inquires though?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lf6ihpv3as22",
+			"parentId": "at://did:plc:qrhqtyfds6zwnseuybds6ac5/app.bsky.feed.post/3lf6hyuvhkk27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lf6ihpv3as22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-07T20:29:50.712Z",
+			"content": "<p>outqueries only</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lf6ijnhlvc2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benmyers.dev/post/3lf6ijnhlvc2f",
+			"author": {
+				"name": "Ben Myers",
+				"url": "https://bsky.app/profile/benmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml5axo24i4xibb4rdfwgzrle/bafkreignrv6se54v3yuuyhp57emnrg4z3jws3k3oro5ur44yjt2qkdaiiy"
+			},
+			"date": "2025-01-07T20:30:55.281Z",
+			"content": "<p>hey zach what</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lf6inkjejs22",
+			"parentId": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lf6ijnhlvc2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lf6inkjejs22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-07T20:33:06.411Z",
+			"content": "<p>…wait</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bigekmftzgjkdp5auitu2yhs/app.bsky.feed.post/3lf6ktwuewc27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/danielfos.co/post/3lf6ktwuewc27",
+			"author": {
+				"name": "daniel fosco",
+				"url": "https://bsky.app/profile/danielfos.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bigekmftzgjkdp5auitu2yhs/bafkreie2ox3eaujgrki3nx2rfip34cplh7deg4pzcpicvruzqzxh2rokku"
+			},
+			"date": "2025-01-07T21:12:28.164Z",
+			"content": "<p>oh god should I configure <a href=\"https://he.him.danielfos.co\">he.him.danielfos.co</a> 🥲</p>",
+			"via": "bluesky"
+		}
+	]
+}

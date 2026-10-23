@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "109961991101111315",
+			"parentId": 0,
+			"url": "https://bne.social/@leadegroot/109961990993778579",
+			"author": {
+				"name": "Lea de Groot TZ+10",
+				"url": "https://bne.social/@leadegroot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/358/626/707/396/187/original/13f15a8f67c13349.png"
+			},
+			"date": "2023-03-03T23:40:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah, I have a batch job running over the weekend and I had made some changes to it, but it was late friday, and its a BIG api repo, doing many many things... did I push to prod on a friday afternoon? no, I did not! I ran the prior version<br>oh well</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109961996596212658",
+			"parentId": 0,
+			"url": "https://mastodon.nz/@Elliotclyde/109961996324888655",
+			"author": {
+				"name": "Elliotclyde@mastodon.nz",
+				"url": "https://mastodon.nz/@Elliotclyde",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-03-03T23:41:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> rollback all commits on all codebases I say. They should all just be a single empty .gitignore file</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109962008760277598",
+			"parentId": 0,
+			"url": "https://status.fberriman.com/@phae/109962008626733233",
+			"author": {
+				"name": "phae",
+				"url": "https://status.fberriman.com/@phae",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+			},
+			"date": "2023-03-03T23:44:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you're the dream!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109962009581174061",
+			"parentId": 0,
+			"url": "https://brignell.co/@ben/109962009539822752",
+			"author": {
+				"name": "Ben Brignell",
+				"url": "https://brignell.co/@ben",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/529/216/998/252/original/498ed8a2a4fb6570.jpeg"
+			},
+			"date": "2023-03-03T23:45:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my DMs are open if you want to learn from somebody who never makes mistaeks</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109962010706118713",
+			"parentId": 0,
+			"url": "https://indieweb.social/@deebloo/109962010665185662",
+			"author": {
+				"name": "Danny Blue",
+				"url": "https://indieweb.social/@deebloo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/311/543/538/710/081/original/16eaa48f74ac1854.jpg"
+			},
+			"date": "2023-03-03T23:45:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is the way</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109962011719486047",
+			"parentId": 0,
+			"url": "https://mastodon.social/@bendelarre/109962011579545138",
+			"author": {
+				"name": "Ben Delarre",
+				"url": "https://mastodon.social/@bendelarre",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/665/580/194/913/original/baa3298fd3828257.png"
+			},
+			"date": "2023-03-03T23:45:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is the way.</p><p>Meanwhile I'm watching a team rush merge PRs to push a build to prod at 4pm on a Friday...</p><p>Why do people do this to themselves?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109962030617060143",
+			"parentId": "109962009581174061",
+			"url": "https://fediverse.zachleat.com/@zachleat/109962030617060143",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-03T23:50:30.072Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://brignell.co/@ben\" class=\"u-url mention\">@<span>ben</span></a></span> sliding into the weekend and your DMs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109962040847670272",
+			"parentId": "109962011719486047",
+			"url": "https://mastodon.social/@bendelarre/109962040759001821",
+			"author": {
+				"name": "Ben Delarre",
+				"url": "https://mastodon.social/@bendelarre",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/665/580/194/913/original/baa3298fd3828257.png"
+			},
+			"date": "2023-03-03T23:53:04.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>\"if we delay the release into next week we'll just be asked to add more features and we'll never release it, so we should just push hard and release anyway\"</p><p>This is management not doing their job properly folks.</p>",
+			"via": "fediverse"
+		}
+	]
+}

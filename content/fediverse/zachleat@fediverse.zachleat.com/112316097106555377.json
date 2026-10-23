@@ -1,0 +1,277 @@
+{
+	"comments": [
+		{
+			"id": "112316164752874553",
+			"parentId": 0,
+			"url": "https://ruby.social/@konnorrogers/112316164720507979",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-04-22T17:57:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> are you gasping, or is that sound of pieces of you dying inside?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112316216491760583",
+			"parentId": "112316164752874553",
+			"url": "https://fediverse.zachleat.com/@zachleat/112316216491760583",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-22T18:10:55.745Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> yes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112316276299742554",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/112316276279151441",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-04-22T18:26:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there should be an additional category on <a href=\"https://images.tooling.report/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">images.tooling.report/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112316290552173149",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@philw_/112316290527130709",
+			"author": {
+				"name": "Phil Wolstenholme",
+				"url": "https://hachyderm.io/@philw_",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/384/354/412/096/647/original/10bd6c62324b3d6c.jpeg"
+			},
+			"date": "2024-04-22T18:29:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Would you mind sharing any examples? No problem if you don't want to support Vercel/Next free of charge, or don't have time, but I use Next at work and would be open to making a PR with improvements for my team/product's sake (and my own satisfaction with our performance)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112316653839559656",
+			"parentId": "112316290552173149",
+			"url": "https://fediverse.zachleat.com/@zachleat/112316653839559656",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-22T20:02:09.143Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@philw_\" class=\"u-url mention\">@<span>philw_</span></a></span> just working on some Eleventy Image comparisons, will probably highlight some of these at 11ty Conf. The biggest ones are: 1. the DX of requiring a static import for the image or you’ll need to specify a width/height. 2. The valid image widths are hardcoded as global configuration and not specific to the width you specify for the image (if I want my image to render 129px, it returns a 256px image on 1.0 DPR screen) 3. The classic complaint about unnecessary content-negotiation.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112316923130642595",
+			"parentId": 0,
+			"url": "https://front-end.social/@eeeps/112316923113484512",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-04-22T21:10:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it is very bad! I dislike it! Very much!!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112316948276971484",
+			"parentId": "112316653839559656",
+			"url": "https://m.webtoo.ls/@erika/112316948228494393",
+			"author": {
+				"name": "Erika",
+				"url": "https://m.webtoo.ls/@erika",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/414/129/250/264/845/original/c7777d300ebee70b.jpeg"
+			},
+			"date": "2024-04-22T21:17:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@philw_\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>philw_</span></a></span> I never understood the global configuration for widths, some people asked for it in Astro (I made Astro's Image component) and when I asked them typically they couldn't quite answer why 🤷‍♀️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112317077818444097",
+			"parentId": "112316653839559656",
+			"url": "https://mamot.fr/@nhoizey/112317077789396690",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-04-22T21:49:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I want to hear more about “The classic complaint about unnecessary content-negotiation”… but I can wait for 11ty Conf! 😅</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@philw_\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>philw_</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112317134018232619",
+			"parentId": "112316948276971484",
+			"url": "https://fediverse.zachleat.com/@zachleat/112317134018232619",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-22T22:04:16.088Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@erika\" class=\"u-url mention\">@<span>erika</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@philw_\" class=\"u-url mention\">@<span>philw_</span></a></span> because Next does it that way! 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112317135288940335",
+			"parentId": "112316923130642595",
+			"url": "https://fediverse.zachleat.com/@zachleat/112317135288940335",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-22T22:04:35.478Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> …say more 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112317693611951107",
+			"parentId": "112317135288940335",
+			"url": "https://front-end.social/@eeeps/112317693591744379",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-04-23T00:26:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Here's an (official?) demo I was looking at a few weeks ago: <a href=\"https://nextjsconf-pics.vercel.app\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nextjsconf-pics.vercel.app</span><span class=\"invisible\"></span></a></p><p>The hardcoded list of srcset breakpoints kills me. You're taking an image, asking Cloudinary to resize it to w_720, and then downsizing it to 256w, 384w, and 640w (fine) but then serving it, as-is (at least they don't upscale!), under different URLs, as the 750w, 828w, 1080w, 1200w, 1920w, 2048w, and 3840w versions. Lots of useless load events, cache entries/misses, &amp; WILD .naturalWidths result.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112317718722036279",
+			"parentId": "112317693611951107",
+			"url": "https://front-end.social/@eeeps/112317718705699546",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-04-23T00:32:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://nextjs.org/docs/pages/api-reference/components/image#devicesizes\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nextjs.org/docs/pages/api-refe</span><span class=\"invisible\">rence/components/image#devicesizes</span></a> lets you override that list, but wow, bad name! Misleading documentation! Bad framing!</p><p>I'm glad they give you a per-component way to specify `sizes` (via `imageSizes`), and they try to explain it in the docs, but I wish they did more to help here (especially in lazy contexts), because this is the hardest problem in respimg.</p><p>I'm not sure why they are always setting decoding=async but whatever can't hurt lol.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112320590673209490",
+			"parentId": "112317718722036279",
+			"url": "https://fediverse.zachleat.com/@zachleat/112320590673209490",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T12:43:20.458Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> that demo mixing cloudinary and next image middleware is… something! Looks like the images only render ~485 max width too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112320605016192897",
+			"parentId": "112320590673209490",
+			"url": "https://front-end.social/@eeeps/112320604873448526",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-04-23T12:46:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Right. And! Speak of the devil! This just came across my desk.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112320607760610739",
+			"parentId": "112320605016192897",
+			"url": "https://front-end.social/@eeeps/112320607722610598",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-04-23T12:47:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Some of this is obviously user error, and yet.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112320608985117507",
+			"parentId": "112320605016192897",
+			"url": "https://fediverse.zachleat.com/@zachleat/112320608985117507",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T12:47:59.875Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> I… please tell me that isn’t just serving the same file for all of those 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112320615241246017",
+			"parentId": "112320608985117507",
+			"url": "https://front-end.social/@eeeps/112320615214157678",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-04-23T12:49:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112320616430913556",
+			"parentId": "112320615241246017",
+			"url": "https://fediverse.zachleat.com/@zachleat/112320616430913556",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T12:49:53.489Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> 😅😅😅😅😅😅😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112320644710555069",
+			"parentId": "112320608985117507",
+			"url": "https://mamot.fr/@nhoizey/112320644685495245",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-04-23T12:57:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eeeps</span></a></span> 🤢</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112334362356205128",
+			"parentId": "112320644710555069",
+			"url": "https://front-end.social/@eeeps/112334362327781628",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-04-25T23:05:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> FULL DISCLOSURE FOLLOW UP: this ended up being my fault, not Next.JS's</p><p>(rouge regex replace during analysis)</p><p>(I still don't like it, but this particular level of awful: all me 😬)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112336165090949619",
+			"parentId": "112334362356205128",
+			"url": "https://mamot.fr/@nhoizey/112336165065071822",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-04-26T06:44:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eeeps</span></a></span> ok, that’s a bit reassuring at least! 👍</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

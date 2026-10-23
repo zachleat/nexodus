@@ -1,0 +1,151 @@
+{
+	"comments": [
+		{
+			"id": "113227345255144262",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/113227345146805451",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-09-30T16:02:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@scottjehl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scottjehl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@davatron5000\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>davatron5000</span></a></span> Both <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mrdisagree\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mrdisagree</span></a></span> and <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@jrjurman\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jrjurman</span></a></span> do a lot in the community group. Masto-search is failing me for others, but the community group is also a great place to participate in the convo.</p><p><a href=\"https://github.com/w3c/webcomponents-cg\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/w3c/webcomponents-c</span><span class=\"invisible\">g</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227351922781423",
+			"parentId": 0,
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J91TT0N4X4MN3H38V32YBXKJ",
+			"private": true,
+			"date": "2024-09-30T16:04:24.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227351289776896",
+			"parentId": "113227345255144262",
+			"url": "https://fediverse.zachleat.com/@zachleat/113227351289776896",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-30T16:04:29.436Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> might edit with the link for better boosting? <a href=\"https://github.com/w3c/webcomponents-cg\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/w3c/webcomponents-cg</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227355078086006",
+			"parentId": "113227351922781423",
+			"url": "https://fediverse.zachleat.com/@zachleat/113227355078086006",
+			"private": true,
+			"date": "2024-09-30T16:05:27.242Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227421499639287",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/113227421445832707",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2024-09-30T16:22:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Some others:</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@trusktr\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>trusktr</span></a></span> <br><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stuffbreaker</span></a></span> <br><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <br><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@graynorton\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>graynorton</span></a></span> <br><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@nikkimk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nikkimk</span></a></span> </p><p>And of course the whole hash tags of:</p><p><a href=\"https://mastodon.social/tags/webComponents\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>webComponents</span></a> <a href=\"https://mastodon.social/tags/webComponentsCG\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>webComponentsCG</span></a> <a href=\"https://mastodon.social/tags/shadowDOM\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>shadowDOM</span></a> <a href=\"https://mastodon.social/tags/customElements\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>customElements</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227432555181005",
+			"parentId": "113227355078086006",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J91VZK5ZDBGB9TW2GPX50CE5",
+			"private": true,
+			"date": "2024-09-30T16:24:56.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227447660784362",
+			"parentId": "113227351922781423",
+			"url": "https://infosec.exchange/@lennybacon/113227447554139502",
+			"private": true,
+			"date": "2024-09-30T16:28:58.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227507501600155",
+			"parentId": 0,
+			"url": "https://ruby.social/@konnorrogers/113227507462148600",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-09-30T16:44:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I'd like to throw <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stuffbreaker</span></a></span> and <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@passle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>passle</span></a></span> into this equation. Their work on custom elements manifest analyzer has been invaluable.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.wales/@Lukew\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Lukew</span></a></span> for spec work. Does a lot of great work with Igalia along with <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bkardell</span></a></span> .</p><p>There's probably a lot more im forgetting...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227515841965879",
+			"parentId": "113227447660784362",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J91X6FBY5BBBJKKMR1S0YXHQ",
+			"private": true,
+			"date": "2024-09-30T16:46:10.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227541019258649",
+			"parentId": "113227515841965879",
+			"url": "https://infosec.exchange/@lennybacon/113227541001037958",
+			"private": true,
+			"date": "2024-09-30T16:52:44.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227598326462322",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/113227598265088687",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2024-09-30T17:07:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@davatron5000\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>davatron5000</span></a></span> idk man, this toot isn’t inspiring confidence. </p><p><a href=\"https://mastodon.social/@davatron5000/113226958077083066\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@davatron5000/</span><span class=\"invisible\">113226958077083066</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227608365129769",
+			"parentId": "113227598326462322",
+			"url": "https://fediverse.zachleat.com/@zachleat/113227608365129769",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-30T17:09:52.096Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@davatron5000\" class=\"u-url mention\">@<span>davatron5000</span></a></span> in the business we call this ELEVATING THE DISCOURSE</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113227641319650931",
+			"parentId": "113227541019258649",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J91Z0TBN2Y6J852NE85XKJR5",
+			"private": true,
+			"date": "2024-09-30T17:18:02.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "115256294233463104",
+			"parentId": 0,
+			"url": "https://toot.cafe/@aluhrs/115256294145366975",
+			"author": {
+				"name": "Andy Luhrs",
+				"url": "https://toot.cafe/@aluhrs",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/335/803/928/856/970/original/5de5eb17d6022890.jpeg"
+			},
+			"date": "2025-09-23T23:51:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@patrickbrosset\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patrickbrosset</span></a></span> posts about much of the standards work we’re doing at Microsoft which has a notable chunk of WC stuff</p>",
+			"via": "fediverse"
+		}
+	]
+}

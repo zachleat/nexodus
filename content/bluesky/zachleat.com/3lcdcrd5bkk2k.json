@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:s4ph2vdjsltjuqbvtxndcygi/app.bsky.feed.post/3lcddzqvm422z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/trysmudford.com/post/3lcddzqvm422z",
+			"author": {
+				"name": "trys",
+				"url": "https://bsky.app/profile/trysmudford.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:s4ph2vdjsltjuqbvtxndcygi/bafkreihxayfxiyz6ocbrrodfwqgy7wgd3ztfi3nphkhtwsjjywcnrzwbem"
+			},
+			"date": "2024-12-02T14:38:10.856Z",
+			"content": "<p>well that's jolly depressing</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcde5r7dvc2w",
+			"parentId": "at://did:plc:s4ph2vdjsltjuqbvtxndcygi/app.bsky.feed.post/3lcddzqvm422z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcde5r7dvc2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-02T14:40:25.394Z",
+			"content": "<p>the ghost of christmas future, just not evenly distributed yet</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:473bmh3s5vuoc665zl3o6quo/app.bsky.feed.post/3lcdfq5gwkk2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/b.1mind.dev/post/3lcdfq5gwkk2m",
+			"author": {
+				"name": "Brent Morton",
+				"url": "https://bsky.app/profile/b.1mind.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:473bmh3s5vuoc665zl3o6quo/bafkreifqrnx2ov3eyxjzvrtxpvsfhfg7lhnvwdjeuj3bolnhcspx4ow4wq"
+			},
+			"date": "2024-12-02T15:08:35.946Z",
+			"content": "<p>I mean it's React, it's a popular method they pushed for what a decade? Not shocked I have to explain SSR so much of the time for beginners that are flooded with \"learn react if you want a job..\" they learn CSR most exclusively never knowing what rendering is.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcdftbfab227",
+			"parentId": "at://did:plc:473bmh3s5vuoc665zl3o6quo/app.bsky.feed.post/3lcdfq5gwkk2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcdftbfab227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-02T15:10:20.749Z",
+			"content": "<p>for sure—not a surprising result! Tied to a larger web performance story too.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:x6swaml5mzk5moq7fzqd23cv/app.bsky.feed.post/3lcdixy5nn222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nomster.bsky.social/post/3lcdixy5nn222",
+			"author": {
+				"name": "Noam Rosenthal",
+				"url": "https://bsky.app/profile/nomster.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6swaml5mzk5moq7fzqd23cv/bafkreig4fdi6pg2mvfdajcxvnvatmgek6626jpmacmex2747p4sibjhzia"
+			},
+			"date": "2024-12-02T16:06:40.061Z",
+			"content": "<p>Many many people are working on long-session web-apps, as opposed to public websites. In those web-apps SSR is not that important, as loading time is often less important.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcdj6r2yok2s",
+			"parentId": "at://did:plc:x6swaml5mzk5moq7fzqd23cv/app.bsky.feed.post/3lcdixy5nn222",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcdj6r2yok2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-02T16:10:27.514Z",
+			"content": "<p>for sure! That priority-mapping is very developer-centric though (not user-centric)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:x6swaml5mzk5moq7fzqd23cv/app.bsky.feed.post/3lcdjsd4mu222",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcdj6r2yok2s",
+			"url": "https://bsky.app/profile/nomster.bsky.social/post/3lcdjsd4mu222",
+			"author": {
+				"name": "Noam Rosenthal",
+				"url": "https://bsky.app/profile/nomster.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6swaml5mzk5moq7fzqd23cv/bafkreig4fdi6pg2mvfdajcxvnvatmgek6626jpmacmex2747p4sibjhzia"
+			},
+			"date": "2024-12-02T16:21:23.977Z",
+			"content": "<p>But your poll is also developer-centric, no? Or is that what you mean by \"priority-mapping\"?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcdk67uwcs2z",
+			"parentId": "at://did:plc:x6swaml5mzk5moq7fzqd23cv/app.bsky.feed.post/3lcdjsd4mu222",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcdk67uwcs2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-02T16:28:03.232Z",
+			"content": "<p>ah, my statement was mostly in reaction to “loading time is often less important”</p>",
+			"via": "bluesky"
+		}
+	]
+}

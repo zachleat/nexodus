@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "112814111923208405",
+			"parentId": 0,
+			"url": "https://noauthority.social/@jazzilla/112814111896976101",
+			"author": {
+				"name": "Jazzilla",
+				"url": "https://noauthority.social/@jazzilla",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/713/053/777/468/706/original/c2fd22ea564a16ce.jpg"
+			},
+			"date": "2024-07-19T16:32:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Fwiw, I fixed by going back to 22.4.1</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112814112694588390",
+			"parentId": 0,
+			"url": "https://mastodon.design/@naiyer/112814112645104374",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2024-07-19T16:32:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Started happening with CodeBuild last night. Had to revert back to Node.js 20.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112814119920348367",
+			"parentId": "112814112694588390",
+			"url": "https://fediverse.zachleat.com/@zachleat/112814119920348367",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-19T16:34:19.136Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@naiyer\" class=\"u-url mention\">@<span>naiyer</span></a></span> lost a few hours on this 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112814198828038375",
+			"parentId": 0,
+			"url": "https://phpc.social/@stefanzweifel/112814198672656465",
+			"author": {
+				"name": "Stefan Zweifel",
+				"url": "https://phpc.social/@stefanzweifel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/867/034/920/487/482/original/8576802a2c0565f8.jpg"
+			},
+			"date": "2024-07-19T16:54:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It took me way to longer to figure out that the issue is actually in the CLI. 😩</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112814201913588968",
+			"parentId": "112814198828038375",
+			"url": "https://fediverse.zachleat.com/@zachleat/112814201913588968",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-19T16:55:10.253Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://phpc.social/@stefanzweifel\" class=\"u-url mention\">@<span>stefanzweifel</span></a></span> I too have been crying at my desk this morning about this 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112814343775303501",
+			"parentId": "112814201913588968",
+			"url": "https://swiss.social/@martin_schillig/112814343756626379",
+			"author": {
+				"name": "Martin Schilliger",
+				"url": "https://swiss.social/@martin_schillig",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-19T17:31:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://phpc.social/@stefanzweifel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefanzweifel</span></a></span> Me the whole afternoon. Now I know much more about npm. 🤨</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112814390092220211",
+			"parentId": "112814343775303501",
+			"url": "https://fediverse.zachleat.com/@zachleat/112814390092220211",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-19T17:43:01.632Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://swiss.social/@martin_schillig\" class=\"u-url mention\">@<span>martin_schillig</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://phpc.social/@stefanzweifel\" class=\"u-url mention\">@<span>stefanzweifel</span></a></span> dang, sorry :(</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112814411956999335",
+			"parentId": "112814390092220211",
+			"url": "https://swiss.social/@martin_schillig/112814411927613108",
+			"author": {
+				"name": "Martin Schilliger",
+				"url": "https://swiss.social/@martin_schillig",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-19T17:48:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://phpc.social/@stefanzweifel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefanzweifel</span></a></span> I started looking, because the storage of the VM which hosts our Gitea runner was full. Cleaned it up, and it still didn’t work. 🤯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112872108704909195",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112872108704909195",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-29T22:21:37.766Z",
+			"content": "<p>Just an update here: I can verify that it’s safe to restore Node 22.x to your test suites on GitHub Actions</p>",
+			"via": "fediverse"
+		}
+	]
+}

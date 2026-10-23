@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lbkbyyxbik2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ichris.bsky.social/post/3lbkbyyxbik2h",
+			"author": {
+				"name": "Chris from 🇨🇦",
+				"url": "https://bsky.app/profile/ichris.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:duarqnv277snl27e4yv5b564/bafkreie7omnub3jgyp7s73rhdbal5eb4r2ptrn3wc67vdvnscwchwyji6i"
+			},
+			"date": "2024-11-22T15:25:24.803Z",
+			"content": "<p>Oh wait I could've gamified my stupid treadmill walks instead of just getting claps??? lol</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbkcd6pshc2k",
+			"parentId": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lbkbyyxbik2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbkcd6pshc2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-22T15:31:06.394Z",
+			"content": "<p>mine is more of a left-unreadmill</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lbkdevswkc2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbkcd6pshc2k",
+			"url": "https://bsky.app/profile/ichris.bsky.social/post/3lbkdevswkc2h",
+			"author": {
+				"name": "Chris from 🇨🇦",
+				"url": "https://bsky.app/profile/ichris.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:duarqnv277snl27e4yv5b564/bafkreie7omnub3jgyp7s73rhdbal5eb4r2ptrn3wc67vdvnscwchwyji6i"
+			},
+			"date": "2024-11-22T15:49:57.910Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbkdpm2rjs2n",
+			"parentId": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lbkdevswkc2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbkdpm2rjs2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-22T15:55:56.780Z",
+			"content": "<p>you can’t hate it and favorite it 😈</p>",
+			"via": "bluesky"
+		}
+	]
+}

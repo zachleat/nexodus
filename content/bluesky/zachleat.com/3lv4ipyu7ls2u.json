@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3lv4lcmr32s2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericportis.com/post/3lv4lcmr32s2v",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://bsky.app/profile/ericportis.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:554zgjahdelvrbspjpeofd2o/bafkreih65ewisfijncanen7pvwi4bf3x2qzqfrekssqw7uko5g6yw7rlhm"
+			},
+			"date": "2025-07-29T16:58:27.455Z",
+			"content": "<p>what if it's 11ty</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lv4lh5zca22n",
+			"parentId": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3lv4lcmr32s2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lv4lh5zca22n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-29T17:00:59.769Z",
+			"content": "<p>*runs away screaming*</p>",
+			"via": "bluesky"
+		}
+	]
+}

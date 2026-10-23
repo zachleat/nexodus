@@ -1,0 +1,77 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lpmctj6fxk26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3lpmctj6fxk26",
+			"private": true,
+			"date": "2025-05-20T14:38:16.495Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpmdnkurxs2c",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lpmctj6fxk26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpmdnkurxs2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-20T14:52:50.691Z",
+			"content": "<p>never trust a hinge it will only turn on you</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xwvh4fiuvhjewc26fqsn3whz/app.bsky.feed.post/3lpmmtfa7nc2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tigerpournelle.bsky.social/post/3lpmmtfa7nc2e",
+			"author": {
+				"name": "Tiger Pournelle, Furious Irish🏳️‍🌈",
+				"url": "https://bsky.app/profile/tigerpournelle.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwvh4fiuvhjewc26fqsn3whz/bafkreigivcrevgbaicqlfmy67vts6hp45ch3jfydarrxwu3bgxo6fv25gm"
+			},
+			"date": "2025-05-20T17:37:09.777Z",
+			"content": "<p>We have hinged at home.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:udddkyrq5t3ofae4nv4ku77p/app.bsky.feed.post/3lpnv6i6z4s2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/thehumanmechanic.bsky.social/post/3lpnv6i6z4s2i",
+			"author": {
+				"name": "The Human Mechanic",
+				"url": "https://bsky.app/profile/thehumanmechanic.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:udddkyrq5t3ofae4nv4ku77p/bafkreieku2dquv5ntfjrzm5nvw5wpfylhgmhpmqxyh3biq6kcfibfiutoa"
+			},
+			"date": "2025-05-21T05:39:11.655Z",
+			"content": "<p>I am! I solved subjectivity. :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c4xs2z6bpqqr2kno67paqfws/app.bsky.feed.post/3lpopesxaqc2a",
+			"parentId": "at://did:plc:udddkyrq5t3ofae4nv4ku77p/app.bsky.feed.post/3lpnv6i6z4s2i",
+			"url": "https://bsky.app/profile/arithmetc.bsky.social/post/3lpopesxaqc2a",
+			"author": {
+				"name": "Ari",
+				"url": "https://bsky.app/profile/arithmetc.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c4xs2z6bpqqr2kno67paqfws/bafkreiggjpoanqrlzclq2wlq5pioxubcygcnrkfjjxhxo4ji36k26lxftm"
+			},
+			"date": "2025-05-21T13:28:01.550Z",
+			"content": "<p>Yeah me and my bro figured out we definitely see the same color orange last night, things are looking up</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:udddkyrq5t3ofae4nv4ku77p/app.bsky.feed.post/3lpopig5zcc2p",
+			"parentId": "at://did:plc:c4xs2z6bpqqr2kno67paqfws/app.bsky.feed.post/3lpopesxaqc2a",
+			"url": "https://bsky.app/profile/thehumanmechanic.bsky.social/post/3lpopig5zcc2p",
+			"author": {
+				"name": "The Human Mechanic",
+				"url": "https://bsky.app/profile/thehumanmechanic.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:udddkyrq5t3ofae4nv4ku77p/bafkreieku2dquv5ntfjrzm5nvw5wpfylhgmhpmqxyh3biq6kcfibfiutoa"
+			},
+			"date": "2025-05-21T13:30:02.357Z",
+			"content": "<p>It’s a heuristic “solving” just the fundamental mechanics, you still have unique perspective and values.</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"comments": [
+		{
+			"id": "111335688893838652",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111335688893838652",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-01T14:09:51.957Z",
+			"content": "<p>the <a href=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ajax.googleapis.com/ajax/libs/</span><span class=\"invisible\">jquery/1.12.4/jquery.min.js</span></a> is not coming from inside the house!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111335717191974538",
+			"parentId": "111335688893838652",
+			"url": "https://layer8.space/@RyunoKi/111335717147429575",
+			"private": true,
+			"date": "2023-11-01T14:17:03.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111335810777776307",
+			"parentId": "111335717191974538",
+			"url": "https://fediverse.zachleat.com/@zachleat/111335810777776307",
+			"private": true,
+			"date": "2023-11-01T14:40:51.760Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111335898631107229",
+			"parentId": "111335810777776307",
+			"url": "https://layer8.space/@RyunoKi/111335898572407285",
+			"private": true,
+			"date": "2023-11-01T15:03:11.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111337029433825504",
+			"parentId": 0,
+			"url": "https://mastodon.online/@dale_price/111337029406732522",
+			"author": {
+				"name": "Dale Price",
+				"url": "https://mastodon.online/@dale_price",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/452/492/893/182/original/be4172ac2d854a7b.png"
+			},
+			"date": "2023-11-01T19:50:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “retry using another source” (of information than stackoverflow)</p>",
+			"via": "fediverse"
+		}
+	]
+}

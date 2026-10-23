@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "109745988416247240",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Chris/109745988388176755",
+			"author": {
+				"name": "Chris Coleman",
+				"url": "https://mastodon.social/@Chris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/357/120/282/113/original/e6b14bf4e06f7c03.jpg"
+			},
+			"date": "2023-01-24T20:08:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Honestly, I would take that challenge… if it weren't for stupid browsers choosing to load the biggest image in my srcset and dinging me a single percent.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109746043432188686",
+			"parentId": "109745988416247240",
+			"url": "https://fediverse.zachleat.com/@zachleat/109746043432188686",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-24T20:22:07.178Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Chris\" class=\"u-url mention\">@<span>Chris</span></a></span> HMMMMMMM… are you using the Eleventy Image markup generator? I don’t think it should do this, with the right widths</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109746336624399519",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/109746336568553624",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-01-24T21:36:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m using the plugin, but I almost never get the full points, so I don’t make it fail the build… 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109746376457737979",
+			"parentId": 0,
+			"url": "https://social.design.systems/@donnie/109746376423471662",
+			"author": {
+				"name": "Donnie D'Amato",
+				"url": "https://social.design.systems/@donnie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/428/948/596/666/677/original/de8a261bf860aa85.jpeg"
+			},
+			"date": "2023-01-24T21:46:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> savage</p>",
+			"via": "fediverse"
+		}
+	]
+}

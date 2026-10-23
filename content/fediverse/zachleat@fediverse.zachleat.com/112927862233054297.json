@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "112927898725811488",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/112927898623485493",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-08T18:49:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> money printer go brrr</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112928074903717732",
+			"parentId": 0,
+			"url": "https://webperf.social/@ryantownsend/112928074869044809",
+			"author": {
+				"name": "Ryan Townsend (old account)",
+				"url": "https://webperf.social/@ryantownsend",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/033/339/461/107/original/84fbde010f05b3b8.jpg"
+			},
+			"date": "2024-08-08T19:34:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> all CDNs are not created equal when it comes to cache eviction.</p><p>Yet another thing often selected because of some flashy feature or promise that has knock-on significant impact on origin load and financial implications 🙄</p><p>Remember folks: the difference between 95% and 90% cache hit ratio is a doubling of origin traffic!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112928257815433867",
+			"parentId": "112928074903717732",
+			"url": "https://fediverse.zachleat.com/@zachleat/112928257815433867",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-08T20:21:05.201Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@ryantownsend\" class=\"u-url mention\">@<span>ryantownsend</span></a></span> what‘s the difference between 90% and 28% 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112928345894325643",
+			"parentId": "112928257815433867",
+			"url": "https://webperf.social/@ryantownsend/112928345877911833",
+			"author": {
+				"name": "Ryan Townsend (old account)",
+				"url": "https://webperf.social/@ryantownsend",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/033/339/461/107/original/84fbde010f05b3b8.jpg"
+			},
+			"date": "2024-08-08T20:43:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> bankruptcy.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3led54p4b2s2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3led54p4b2s2h",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2024-12-27T23:24:56.703Z",
+			"content": "<p>Is this legally binding?</p>\n<p>Asking for a friend about to create a bot that reposts this every 9 minutes and 59 seconds.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3led6carb5s2z",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3led54p4b2s2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3led6carb5s2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-27T23:45:56.731Z",
+			"content": "<p>since this has zero boosts I can say—no 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3led6pwkg4s2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3led6carb5s2z",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3led6pwkg4s2a",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2024-12-27T23:53:35.783Z",
+			"content": "<p>Booooooo!</p>\n<p>But look at the bright side. People like your content so much that they don't want to repost.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3led6rrrhq22z",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3led6pwkg4s2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3led6rrrhq22z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-27T23:54:37.880Z",
+			"content": "<p>it’s a little lie we can tell ourselves</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nnn7hle65gspngcmwf4jar7w/app.bsky.feed.post/3led7fmnrsc2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bobmonsour.com/post/3led7fmnrsc2a",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://bsky.app/profile/bobmonsour.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nnn7hle65gspngcmwf4jar7w/bafkreifo2mfr56qzeojg52yc7mjs54ba7pun5ywe4l63ya7mgt6ek2lc4a"
+			},
+			"date": "2024-12-28T00:05:43.605Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bsomlficzxqrljqudsukgpcf/app.bsky.feed.post/3lemh6jff3s2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kitmich.bsky.social/post/3lemh6jff3s2b",
+			"author": {
+				"name": "kit",
+				"url": "https://bsky.app/profile/kitmich.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bsomlficzxqrljqudsukgpcf/bafkreidkjeenmitfklnof4ypl4j5yqx7f2qkkcb65tsa2frg2chfibdxrm"
+			},
+			"date": "2024-12-31T16:18:52.884Z",
+			"content": "<p>i love that this has zero boosts, keep up the good work internet</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luisdlmffc2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3luisdlmffc2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-21T20:11:01.233Z",
+			"content": "<p>the ISO week date syntax is cursed <a href=\"https://en.wikipedia.org/wiki/ISO_week_date\">en.wikipedia.org/wiki/ISO_wee...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luishlwhwc23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luisdlmffc2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3luishlwhwc23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-21T20:13:15.782Z",
+			"content": "<p>featuring such gems as “An ISO week-numbering year has 52 or 53 full weeks. That is 364 or 371 days instead of the usual 365 or 366 days.”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mat6mxjku5uyzcciltfs2fgk/app.bsky.feed.post/3luiu5vyq422u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/wicky.nillia.ms/post/3luiu5vyq422u",
+			"author": {
+				"name": "Nick Williams",
+				"url": "https://bsky.app/profile/wicky.nillia.ms",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mat6mxjku5uyzcciltfs2fgk/bafkreibphidqiqgvs6l7spqv3oivhzchrsrm3d42zr4h46rc6fdkbyspzq"
+			},
+			"date": "2025-07-21T20:43:38.281Z",
+			"content": "<p>It seems cursed, but not sure there's another way. 365 isn't divisible by 7 so either you have weird week numbering, or you have a week that lasts 1-2 days depending if leap year or not. Pick your poison 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3luiuawjqqc2x",
+			"parentId": "at://did:plc:mat6mxjku5uyzcciltfs2fgk/app.bsky.feed.post/3luiu5vyq422u",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3luiuawjqqc2x",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2025-07-21T20:45:19.502Z",
+			"content": "<p>My choice would be to Kodak calendar 🤓</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mat6mxjku5uyzcciltfs2fgk/app.bsky.feed.post/3luiuh6fgts2u",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3luiuawjqqc2x",
+			"url": "https://bsky.app/profile/wicky.nillia.ms/post/3luiuh6fgts2u",
+			"author": {
+				"name": "Nick Williams",
+				"url": "https://bsky.app/profile/wicky.nillia.ms",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mat6mxjku5uyzcciltfs2fgk/bafkreibphidqiqgvs6l7spqv3oivhzchrsrm3d42zr4h46rc6fdkbyspzq"
+			},
+			"date": "2025-07-21T20:48:49.074Z",
+			"content": "<p>Haha yeah that would certainly simplify things. While we're at it, get rid of timezones too.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3luiwrpsvqk2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luishlwhwc23",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3luiwrpsvqk2a",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2025-07-21T21:30:30.371Z",
+			"content": "<p>if you had a time machine, you could go back in time to fix ISO time to save me time</p>\n<p>also time for a cat</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gcpac6eyr3sc3n62mwt4emzz/app.bsky.feed.post/3luj2gisli226",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luishlwhwc23",
+			"url": "https://bsky.app/profile/bardnet.de/post/3luj2gisli226",
+			"author": {
+				"name": "bardnet.de",
+				"url": "https://bsky.app/profile/bardnet.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gcpac6eyr3sc3n62mwt4emzz/bafkreie53gp2j5drbjce4k5ge6ueicylb7y7vjqk2uif2dyh4snf4qqktm"
+			},
+			"date": "2025-07-21T22:35:48.888Z",
+			"content": "<p>I guess the first week of a year has the first Thursday of that year 🤓</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5qa544tzvkfohwvc34r37z2c/app.bsky.feed.post/3luj4nna72c2y",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luishlwhwc23",
+			"url": "https://bsky.app/profile/davetron5000.com/post/3luj4nna72c2y",
+			"author": {
+				"name": "Dave Copeland",
+				"url": "https://bsky.app/profile/davetron5000.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5qa544tzvkfohwvc34r37z2c/bafkreifv6w5rlb6x3teltyieabqmjntutyq2qerpxh23buub6eqq7h7y4q"
+			},
+			"date": "2025-07-21T23:15:35.893Z",
+			"content": "<p>I will raise you the NSRF Merchandising and Retail Sales calendar: <a href=\"https://nrf.com/resources/4-5-4-calendar\">nrf.com/resources/4-...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lul4bcihic2b",
+			"parentId": "at://did:plc:5qa544tzvkfohwvc34r37z2c/app.bsky.feed.post/3luj4nna72c2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lul4bcihic2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-22T18:14:01.454Z",
+			"content": "<p>I AM UNDER INTELLECTUAL ATTACK</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lul4cn456k2b",
+			"parentId": "at://did:plc:gcpac6eyr3sc3n62mwt4emzz/app.bsky.feed.post/3luj2gisli226",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lul4cn456k2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-22T18:14:46.139Z",
+			"content": "<p>Thursdays are special</p>",
+			"via": "bluesky"
+		}
+	]
+}

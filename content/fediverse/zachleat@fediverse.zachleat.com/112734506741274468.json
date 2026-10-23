@@ -1,0 +1,173 @@
+{
+	"comments": [
+		{
+			"id": "112734514256637540",
+			"parentId": 0,
+			"url": "https://mastodon.social/@kraftner/112734514113438452",
+			"author": {
+				"name": "Thomas Kräftner",
+				"url": "https://mastodon.social/@kraftner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/593/070/953/775/original/16c72954e710b38e.jpg"
+			},
+			"date": "2024-07-05T15:09:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wait, how can this ever work? Doesn't that resolve to different fonts depending on browser, OS etc?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734530854550036",
+			"parentId": "112734514256637540",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734530854550036",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:13:46.372Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kraftner\" class=\"u-url mention\">@<span>kraftner</span></a></span> ha—the browser would need to ship a different metric-compatible version sans-serif for *every* possible fallback 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734579293253283",
+			"parentId": 0,
+			"url": "https://mastodon.social/@blogdiva/112734579183119847",
+			"author": {
+				"name": "your auntifa liza 🇵🇷  🦛 🦦",
+				"url": "https://mastodon.social/@blogdiva",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/649/552/828/625/044/original/97dd263dd469a515.png"
+			},
+			"date": "2024-07-05T15:26:03.000Z",
+			"content": "<p>why is this necessary? </p><p>been developing with web techs since the 1990s (yes, literally since i got hold of Mosaic sometime in 1994-1995) because am dyslexic and have spent an inordinate amount of decades finding the right combination of fonts and css to attend to my dyslexia needs. </p><p>i wouldn't care from that perspective given i change all my browsers and create very intentional CSS themes for my web projects, but it would irritate me with the random browser i couldn't control</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734630629898941",
+			"parentId": "112734530854550036",
+			"url": "https://mastodon.social/@kraftner/112734630489779159",
+			"author": {
+				"name": "Thomas Kräftner",
+				"url": "https://mastodon.social/@kraftner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/593/070/953/775/original/16c72954e710b38e.jpg"
+			},
+			"date": "2024-07-05T15:39:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That would already be a lot. Also in most browsers this seems to potentially be a user choice... 😬 <br>I'd now like to revise my answer from 0% to 100%. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734642975783934",
+			"parentId": "112734579293253283",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734642975783934",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:42:17.203Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@blogdiva\" class=\"u-url mention\">@<span>blogdiva</span></a></span> are you asking why metric-compatibility is a necessity? I’d bet there are a lot of web sites that rely on fixed sizing of default fonts</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734690465221410",
+			"parentId": 0,
+			"url": "https://floss.social/@webbureaucrat/112734690422731467",
+			"author": {
+				"name": "webbureaucrat",
+				"url": "https://floss.social/@webbureaucrat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/470/005/055/358/994/original/9d33992f38e0fb47.png"
+			},
+			"date": "2024-07-05T15:54:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I clicked your code pen and got four of the same font—all sans serif. </p><p>I'm on Firefox Nightly for Android.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734700477555703",
+			"parentId": 0,
+			"url": "https://mastodon.online/@colepeters/112734700424692407",
+			"author": {
+				"name": "Cole Peters",
+				"url": "https://mastodon.online/@colepeters",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-05T15:56:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm curious about the ‘breaking the web’ part. `serif` and `sans-serif` are fallbacks for otherwise unstyled text, so… what would there be to break? 🤓</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734707551104012",
+			"parentId": "112734690465221410",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734707551104012",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:58:42.544Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://floss.social/@webbureaucrat\" class=\"u-url mention\">@<span>webbureaucrat</span></a></span> that means your fallback is already sans-serif! I pushed a change to make the test more explicit for you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734717044161081",
+			"parentId": "112734700477555703",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734717044161081",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T16:01:07.397Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@colepeters\" class=\"u-url mention\">@<span>colepeters</span></a></span> if a web site relied on the fallback as serif, it could potentially break if the default changed to sans-serif (especially since sans-serif seems to be wider)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734724998334102",
+			"parentId": "112734642975783934",
+			"url": "https://mastodon.social/@blogdiva/112734723978606356",
+			"author": {
+				"name": "your auntifa liza 🇵🇷  🦛 🦦",
+				"url": "https://mastodon.social/@blogdiva",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/649/552/828/625/044/original/97dd263dd469a515.png"
+			},
+			"date": "2024-07-05T16:02:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> had to re-read your ¿? and, yup, read it backwards. sorry about that. my dyslexia swaps whole words. misunderstood it as sans-serif the default and changing it to serif.  </p><p>been changing fonts for so long, didn't remember serif is the default. back in the day, screen dottiness made it hard for me to read most serif body. </p><p>there's another reason for my hating serifs for body: 16px is too small. ligatures blend at that size. i prefer serifs for headings, sidebars, even emphasis.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734783229884428",
+			"parentId": "112734717044161081",
+			"url": "https://mastodon.online/@colepeters/112734783182869026",
+			"author": {
+				"name": "Cole Peters",
+				"url": "https://mastodon.online/@colepeters",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-05T16:17:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I suppose if a layout was strictly dependent on the specific fallback's metrics? But even then, that layout would only be 'not broken' on platforms that made that specific fallback available 😅 (I realize this is all hypothetical and I don't have a strong opinion on it changing, just wanted to understand your point better)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734817769168793",
+			"parentId": "112734783229884428",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734817769168793",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T16:26:44.340Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@colepeters\" class=\"u-url mention\">@<span>colepeters</span></a></span> I’m not sure we’re quite connecting on the point</p><p>If a serif label on a navigation menu suddenly changed to sans-serif, the assumptions about the dimensions at which it was coded (especially for responsive design breakpoints or text overflow) would change. Of course this would only impact sites that did not have font-family application styles but that’s certainly more than zero and would still count as breaking the web</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735205133568575",
+			"parentId": 0,
+			"url": "https://mastodon.nu/@rkaj/112735205089841526",
+			"author": {
+				"name": "Rasmus Kaj 🎼🦀",
+				"url": "https://mastodon.nu/@rkaj",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/433/903/214/259/640/original/25bb96d27530e7c0.jpg"
+			},
+			"date": "2024-07-05T18:05:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Big nope.  Sites that relies on font metrics keeping the same has allways been broken on every computer except possibly on the specific client / version / desktop / settings  the developer / tester has used.</p>",
+			"via": "fediverse"
+		}
+	]
+}

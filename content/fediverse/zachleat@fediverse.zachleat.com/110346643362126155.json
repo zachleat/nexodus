@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "110346719051991607",
+			"parentId": 0,
+			"url": "https://dym.sh/@dym/statuses/01H03W358B63XYGTQTGTJ5VWTN",
+			"author": {
+				"name": "Dym Sohin",
+				"url": "https://dym.sh/@dym",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-05-10T22:21:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> might as well manually set (directly in the DB) initial counters to the same ones as on twitter-post.<br>also prob backlink to it, to keep continuity?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110346762913641902",
+			"parentId": 0,
+			"url": "https://toot.cat/@theadmiral/110346762856048745",
+			"author": {
+				"name": "Ian B",
+				"url": "https://toot.cat/@theadmiral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/783/986/673/486/original/8cb08d27498ffa87.png"
+			},
+			"date": "2023-05-10T22:32:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> as a treat</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110346767887461020",
+			"parentId": "110346719051991607",
+			"url": "https://fediverse.zachleat.com/@zachleat/110346767887461020",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-10T22:34:14.921Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://dym.sh/@dym\" class=\"u-url mention\">@<span>dym</span></a></span> I edited with a backlink! thanks!</p><p>for the first part, are you telling me that I can just edit my own popularity counts 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110347177091569830",
+			"parentId": "110346767887461020",
+			"url": "https://dym.sh/@dym/statuses/01H042RFP9NC4A7KYDW3PFTR3E",
+			"author": {
+				"name": "Dym Sohin",
+				"url": "https://dym.sh/@dym",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-05-11T00:18:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i've seen custom profiles hardcoded with funny numbers, including negative followers' amount</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4tjgjj227",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i4tjgjj227",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T19:58:09.771Z",
+			"content": "<p>There is no way today.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4ueyoys27",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4tjgjj227",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i4ueyoys27",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T19:58:38.680Z",
+			"content": "<p>One of the many gaps I’ve been asking them to fill.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4vfxd2c27",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4ueyoys27",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i4vfxd2c27",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T19:59:13.237Z",
+			"content": "<p>Despite me saying that providence is completely pointless, if they are going to push this then they should at least do it right.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i566wqn227",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4vfxd2c27",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i566wqn227",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T20:04:07.868Z",
+			"content": "<p>Joking aside, the reason they can’t enforce this is because there’s a whole bunch of gaps in the way that the system works. It’s why most of the folks who tried publishing with providence had to disable it in some cases.</p>\n<p>Even the new pnpm feature is not easily turned on for many repos.</p>",
+			"via": "bluesky"
+		}
+	]
+}

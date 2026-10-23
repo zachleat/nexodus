@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:sg2e2kqdsdp2q2zl44txadbp/app.bsky.feed.post/3kgtaowitsc27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/anildash.com/post/3kgtaowitsc27",
+			"author": {
+				"name": "Anil Dash",
+				"url": "https://bsky.app/profile/anildash.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:sg2e2kqdsdp2q2zl44txadbp/bafkreicnvqv3tg434bghscobifd6fqltjrvq6li4qo4zmujjvtbefqfgxy"
+			},
+			"date": "2023-12-18T14:35:36.415Z",
+			"content": "<p>helll yeah</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgtbxt6wgw2e",
+			"parentId": "at://did:plc:sg2e2kqdsdp2q2zl44txadbp/app.bsky.feed.post/3kgtaowitsc27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3kgtbxt6wgw2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-12-18T14:58:28.763Z",
+			"content": "<p>hell yeah!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kgtkzcotcd2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3kgtkzcotcd2y",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2023-12-18T17:40:22.338Z",
+			"content": "<p>Alright so we're moving away from just-in-time building with Netlify Serverless and back towards static solutions like Pagefind. I can roll with that.</p>\n<p>... and update all my sites...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgtlfqxqne2u",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kgtkzcotcd2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3kgtlfqxqne2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-12-18T17:47:19.922Z",
+			"content": "<p>(sorry!) it *is* the best way to keep your site portable (which is work that you will thank yourself for later)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kgtlifq4622p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgtlfqxqne2u",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3kgtlifq4622p",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2023-12-18T17:48:48.843Z",
+			"content": "<p>I agree. Netlify as a dependency is a challenge.</p>",
+			"via": "bluesky"
+		}
+	]
+}

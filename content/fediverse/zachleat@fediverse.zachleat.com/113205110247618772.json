@@ -1,0 +1,160 @@
+{
+	"comments": [
+		{
+			"id": "113205119071205696",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/113205118748144041",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-09-26T17:50:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Isn't that just `npm init esm -y`?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205124954939579",
+			"parentId": "113205119071205696",
+			"url": "https://fediverse.zachleat.com/@zachleat/113205124954939579",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-26T17:52:02.482Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> no, doesn’t look like it.</p><p>```<br />{<br />  &quot;name&quot;: &quot;initmod&quot;,<br />  &quot;version&quot;: &quot;1.0.0&quot;,<br />  &quot;main&quot;: &quot;index.js&quot;,<br />  &quot;module&quot;: &quot;main.js&quot;,<br />  &quot;scripts&quot;: {<br />    &quot;test&quot;: &quot;echo \\&quot;Error: no test specified\\&quot; &amp;&amp; exit 1&quot;<br />  },<br />  &quot;keywords&quot;: [],<br />  &quot;author&quot;: &quot;&quot;,<br />  &quot;license&quot;: &quot;ISC&quot;,<br />  &quot;description&quot;: &quot;&quot;,<br />  &quot;dependencies&quot;: {<br />    &quot;esm&quot;: &quot;^3.2.25&quot;<br />  }<br />}<br />```</p><p>(and it creates more files too)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205127229079811",
+			"parentId": "113205119071205696",
+			"url": "https://mastodon.social/@raymondcamden/113205127051596555",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2024-09-26T17:52:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cthos</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i just tried that and it doesn't use type:module - did i misunderstand?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205130554998221",
+			"parentId": 0,
+			"url": "https://social.chriswb.dev/@chrisw_b/statuses/01J8QQEH8DT5EWSYY3ZMJPGZ0G",
+			"author": {
+				"name": "chris b 💖",
+				"url": "https://social.chriswb.dev/@chrisw_b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/914/718/112/512/229/original/cc73e4eaeed27df9.png"
+			},
+			"date": "2024-09-26T17:53:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <code>npm init -y es6</code> seems to do it. Alternately you could tell people to do <code>npm init -y; npm pkg set type=\"module\";</code> I guess</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205140255805225",
+			"parentId": "113205130554998221",
+			"url": "https://fediverse.zachleat.com/@zachleat/113205140255805225",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-26T17:55:55.954Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span> TIL `npm pkg set`—appreciate it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205152336503256",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113205152336503256",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-26T17:59:00.290Z",
+			"content": "<p>`npm init -y; npm pkg set type=&quot;module&quot;;` works well enough—thank you <span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span>!</p><p>via <a href=\"https://social.chriswb.dev/@chrisw_b/statuses/01J8QQEH8DT5EWSYY3ZMJPGZ0G\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social.chriswb.dev/@chrisw_b/s</span><span class=\"invisible\">tatuses/01J8QQEH8DT5EWSYY3ZMJPGZ0G</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205161069192872",
+			"parentId": "113205152336503256",
+			"url": "https://mastodon.cthos.dev/@cthos/113205160975131316",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-09-26T18:01:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oops, hugged the server a bit too hard.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205172830843499",
+			"parentId": "113205161069192872",
+			"url": "https://fediverse.zachleat.com/@zachleat/113205172830843499",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-26T18:04:13.010Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> who what where when</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205179885321883",
+			"parentId": "113205161069192872",
+			"url": "https://social.chriswb.dev/@chrisw_b/statuses/01J8QR5GDDPYECBNWW3YZMFQBT",
+			"author": {
+				"name": "chris b 💖",
+				"url": "https://social.chriswb.dev/@chrisw_b",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/914/718/112/512/229/original/cc73e4eaeed27df9.png"
+			},
+			"date": "2024-09-26T18:05:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cthos</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no I just configured my gts instance badly haha. I think it's back now</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205182632038790",
+			"parentId": "113205179885321883",
+			"url": "https://mastodon.cthos.dev/@cthos/113205182587235420",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-09-26T18:06:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chrisw_b</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It is! Now I may give your post the star it deserves.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205285746394842",
+			"parentId": "113205152336503256",
+			"url": "https://mastodon.social/@developit/113205285689741826",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2024-09-26T18:32:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chrisw_b</span></a></span> woaaaaah</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113205465836052134",
+			"parentId": "113205285746394842",
+			"url": "https://fediverse.zachleat.com/@zachleat/113205465836052134",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-26T19:18:43.915Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.chriswb.dev/@chrisw_b\" class=\"u-url mention\">@<span>chrisw_b</span></a></span> get exciteddddd</p>",
+			"via": "fediverse"
+		}
+	]
+}

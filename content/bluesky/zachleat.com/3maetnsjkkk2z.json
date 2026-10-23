@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maetrsaaxs2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3maetrsaaxs2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-19T23:28:32.260Z",
+			"content": "<p>with a *huge* assist from <a href=\"https://bsky.app/profile/did:plc:b6gbde64ngpelprsvnphc2l2\">@svelte.dev</a>’s <a href=\"https://www.npmjs.com/package/@sveltejs/acorn-typescript\">www.npmjs.com/package/@sve...</a> here</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i7upeuengs3jsnuut3qblnil/app.bsky.feed.post/3maew5b72ts2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/gribbly.org/post/3maew5b72ts2g",
+			"author": {
+				"name": "Cam",
+				"url": "https://bsky.app/profile/gribbly.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7upeuengs3jsnuut3qblnil/bafkreifun6q5gnz3fmvaae56ogpeurty37mxllzacnsvc5jfcirkqh7gbe"
+			},
+			"date": "2025-12-20T00:10:44.532Z",
+			"content": "<p>I love 11ty (use it for my site)!</p>\n<p>What does this mean? What is \"zero configuration typescript\"? Is it the kind of thing my that I - an 11ty casual - should care about?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maexaynt5c2j",
+			"parentId": "at://did:plc:i7upeuengs3jsnuut3qblnil/app.bsky.feed.post/3maew5b72ts2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3maexaynt5c2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-20T00:30:43.536Z",
+			"content": "<p>If you don’t use typescript it will not affect you at all 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i7upeuengs3jsnuut3qblnil/app.bsky.feed.post/3maez6c76bs2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maexaynt5c2j",
+			"url": "https://bsky.app/profile/gribbly.org/post/3maez6c76bs2q",
+			"author": {
+				"name": "Cam",
+				"url": "https://bsky.app/profile/gribbly.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7upeuengs3jsnuut3qblnil/bafkreifun6q5gnz3fmvaae56ogpeurty37mxllzacnsvc5jfcirkqh7gbe"
+			},
+			"date": "2025-12-20T01:05:00.364Z",
+			"content": "<p>I don't know if I use typescript =]<br>\nSo I guess that means I don't need to know about this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:h47rqsppfpqczovmbglqry7o/app.bsky.feed.post/3maffvqnx2c2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maetrsaaxs2z",
+			"url": "https://bsky.app/profile/ashley-c.bsky.social/post/3maffvqnx2c2k",
+			"author": {
+				"name": "Ashley Claymore",
+				"url": "https://bsky.app/profile/ashley-c.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h47rqsppfpqczovmbglqry7o/bafkreigmwrp5hjipcv7ba37l5kwuysozjicj7wu3t7pz3q7mruedhekrci"
+			},
+			"date": "2025-12-20T04:52:52.180Z",
+			"content": "<p>Just curious: Is the parsing required to know which files to watch for changes?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:izqlgrzejlvzwawv6yptcaft/app.bsky.feed.post/3magcwentmw2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rgo.pt/post/3magcwentmw2f",
+			"author": {
+				"name": "Rodrigo Dias",
+				"url": "https://bsky.app/profile/rgo.pt",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:izqlgrzejlvzwawv6yptcaft/bafkreifffriijyubupia6dgtujnnbmcza7uj7r5edacux6w3dlobmtja3m"
+			},
+			"date": "2025-12-20T13:32:10.782Z",
+			"content": "<p>Zero-config TS is the dream. Eleventy keeps surprising me with these updates.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gr4r52nc3ga5vwjabftmi7qd/app.bsky.feed.post/3maqrppifk22w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/case.bike/post/3maqrppifk22w",
+			"author": {
+				"name": "Eric Case",
+				"url": "https://bsky.app/profile/case.bike",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gr4r52nc3ga5vwjabftmi7qd/bafkreihuwui34brmqhmslspn6qqwj6fau4sneozjj7h4qslbiqezsbvk2u"
+			},
+			"date": "2025-12-24T17:23:31.649Z",
+			"content": "<p>🔥🔥🔥</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gr4r52nc3ga5vwjabftmi7qd/app.bsky.feed.post/3maqrt5tjn22w",
+			"parentId": "at://did:plc:i7upeuengs3jsnuut3qblnil/app.bsky.feed.post/3maez6c76bs2q",
+			"url": "https://bsky.app/profile/case.bike/post/3maqrt5tjn22w",
+			"author": {
+				"name": "Eric Case",
+				"url": "https://bsky.app/profile/case.bike",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gr4r52nc3ga5vwjabftmi7qd/bafkreihuwui34brmqhmslspn6qqwj6fau4sneozjj7h4qslbiqezsbvk2u"
+			},
+			"date": "2025-12-24T17:25:27.357Z",
+			"content": "<p>Correct. TS support historically means there’s some ancillary toolchain and config stuff lying around, which is a minor annoyance.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mbysfophhs2s",
+			"parentId": "at://did:plc:gr4r52nc3ga5vwjabftmi7qd/app.bsky.feed.post/3maqrt5tjn22w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mbysfophhs2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-09T15:22:18.564Z",
+			"content": "<p>Looks like Node.js will be doing most of the heavy lifting for me!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mbyslne27s2s",
+			"parentId": "at://did:plc:h47rqsppfpqczovmbglqry7o/app.bsky.feed.post/3maffvqnx2c2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mbyslne27s2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-09T15:25:38.468Z",
+			"content": "<p>yeah, dependency mapping. Though after <a href=\"https://bsky.app/profile/did:plc:n35epuqprua3zffhk4dzkiff\">@jordan.har.band</a> pointed me to <a href=\"https://nodejs.org/api/module.html#modulestriptypescripttypescode-options\">nodejs.org/api/module.h...</a> I may not need the svelte lib after all</p>\n<p>Thanks for helping me reduce my deps Jordan!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:n35epuqprua3zffhk4dzkiff/app.bsky.feed.post/3mbywdaz7mc2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mbyslne27s2s",
+			"url": "https://bsky.app/profile/jordan.har.band/post/3mbywdaz7mc2g",
+			"author": {
+				"name": "Jordan Harband",
+				"url": "https://bsky.app/profile/jordan.har.band",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:n35epuqprua3zffhk4dzkiff/bafkreidizeajemp3rlrs2d7qkfnwd5iz2l4o6quhnzsjcazzo3cn3pluay"
+			},
+			"date": "2026-01-09T16:32:32.061Z",
+			"content": "<p>:cries in Big Dependency Income:</p>\n<p>happy to help :-p</p>",
+			"via": "bluesky"
+		}
+	]
+}

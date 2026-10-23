@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:auv6l5k2f2sc5e5zsr2wd4u4/app.bsky.feed.post/3mk3rdwq4q22h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zearin.bsky.social/post/3mk3rdwq4q22h",
+			"author": {
+				"name": "zearin.bsky.social",
+				"url": "https://bsky.app/profile/zearin.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:auv6l5k2f2sc5e5zsr2wd4u4/bafkreifusixp7utbp4svfedpj27oksif7c63n27jemaofe464rkkp23xwi"
+			},
+			"date": "2026-04-22T15:02:58.361Z",
+			"content": "<p>Developers who want to show benchmarks, for one…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mk3rk5sjbc2c",
+			"parentId": "at://did:plc:auv6l5k2f2sc5e5zsr2wd4u4/app.bsky.feed.post/3mk3rdwq4q22h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mk3rk5sjbc2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-22T15:06:27.106Z",
+			"content": "<p>…wait, that’s me</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:auv6l5k2f2sc5e5zsr2wd4u4/app.bsky.feed.post/3mk3rpujwhc2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mk3rk5sjbc2c",
+			"url": "https://bsky.app/profile/zearin.bsky.social/post/3mk3rpujwhc2h",
+			"author": {
+				"name": "zearin.bsky.social",
+				"url": "https://bsky.app/profile/zearin.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:auv6l5k2f2sc5e5zsr2wd4u4/bafkreifusixp7utbp4svfedpj27oksif7c63n27jemaofe464rkkp23xwi"
+			},
+			"date": "2026-04-22T15:09:38.713Z",
+			"content": "<p>Who’d have thunk it?!  🤔 <br>\nCertainly not the devs who drafted the spec!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mk3rqkgcks2z",
+			"parentId": "at://did:plc:auv6l5k2f2sc5e5zsr2wd4u4/app.bsky.feed.post/3mk3rpujwhc2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mk3rqkgcks2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-22T15:10:01.664Z",
+			"content": "<p>maybe they will add it now</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:34sjk7dxtn46u35y2cckhusa/app.bsky.feed.post/3mk46vydxgk2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cordt.zermin.de/post/3mk46vydxgk2l",
+			"author": {
+				"name": "Cordt",
+				"url": "https://bsky.app/profile/cordt.zermin.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:34sjk7dxtn46u35y2cckhusa/bafkreiggpudh2uuem6tuuyf4v7tffv6u42bh6giqapv4jm5lcuyfggghwy"
+			},
+			"date": "2026-04-22T19:05:42.682Z",
+			"content": "<p>I mean, in milliseconds it runs so much faster</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mk47toyfjs2c",
+			"parentId": "at://did:plc:34sjk7dxtn46u35y2cckhusa/app.bsky.feed.post/3mk46vydxgk2l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mk47toyfjs2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-22T19:22:19.500Z",
+			"content": "<p>exactly</p>",
+			"via": "bluesky"
+		}
+	]
+}

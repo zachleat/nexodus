@@ -1,0 +1,19 @@
+<article class="post post--{{ post.data.metadata.type }}{% if group.posts.length > 1 %} post--crosspost{% endif %}">
+	<div class="post-meta">
+		{%- for p in group.posts %}
+		<a href="{{ p.url }}" class="post-source post-source--{{ p.data.metadata.type }}">{{ p.data.sectionTitle }}</a>
+		{%- endfor %}
+		<a href="{{ post.url }}"><time datetime="{{ post.date.toISOString() }}">{{ post.date | readableDate }}</time></a>
+	</div>
+	<div class="post-content"{% if indexBody %} data-pagefind-body{% endif %}>
+		{{ (postContent or post.content) | safe }}
+	</div>
+	<div class="post-footer">
+		<span>{{ post.data.authors | renderAuthors | safe }}</span>
+		<span class="post-links">
+			{%- for p in group.posts %}
+			<a href="{{ p.data.metadata.url }}">View on {{ p.data.sectionTitle }}</a>
+			{%- endfor %}
+		</span>
+	</div>
+</article>

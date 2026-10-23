@@ -1,0 +1,432 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gdvxibqs2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4gdvxibqs2d",
+			"private": true,
+			"date": "2025-10-30T16:09:05.079Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4geivdbk22i",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gdvxibqs2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4geivdbk22i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-30T16:19:40.352Z",
+			"content": "<p>TIL! (awesome, thank you!)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3m4gelqwlcc2x",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gdvxibqs2d",
+			"url": "https://bsky.app/profile/scottjehl.com/post/3m4gelqwlcc2x",
+			"author": {
+				"name": "Scott Jehl",
+				"url": "https://bsky.app/profile/scottjehl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f64vb5rx6mqokvtn3gbgtnkv/bafkreicwirkhki6y6iujb4eszhob5bfr3plqwlksspvfunewlv7p6djwwi"
+			},
+			"date": "2025-10-30T16:21:16.405Z",
+			"content": "<p>why do I know <a href=\"https://bsky.app/profile/did:plc:xpchjovbk6sxl3bv74z7cs54\">@zachleat.com</a> has dropped everything to start building &lt;regrettably-ul&gt; already</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gepfdqes27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4geivdbk22i",
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4gepfdqes27",
+			"private": true,
+			"date": "2025-10-30T16:23:18.472Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4gero37uk25",
+			"parentId": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3m4gelqwlcc2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4gero37uk25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-30T16:24:34.739Z",
+			"content": "<p>what is life but an &lt;ul&gt; of priorities 😈</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4ges7cnes27",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gepfdqes27",
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4ges7cnes27",
+			"private": true,
+			"date": "2025-10-30T16:24:52.807Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3m4gevp7s2k2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3m4gevp7s2k2v",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-10-30T16:26:50.154Z",
+			"content": "<p>&lt;untruthf-ul&gt;<br>\nmaybe &lt;deceitf-ul&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4gf5agcak2r",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3m4gevp7s2k2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4gf5agcak2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-30T16:31:03.075Z",
+			"content": "<p>*incredible work here*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gg3zqqu227",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gepfdqes27",
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4gg3zqqu227",
+			"private": true,
+			"date": "2025-10-30T16:48:16.265Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3m4ggz2mqt22q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3m4ggz2mqt22q",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-10-30T17:04:30.235Z",
+			"content": "<p>definitely DOES NOT WORK but</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4ggzyjovc27",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gg3zqqu227",
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4ggzyjovc27",
+			"private": true,
+			"date": "2025-10-30T17:05:01.618Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3m4gi7u5wsk2i",
+			"parentId": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3m4ggz2mqt22q",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3m4gi7u5wsk2i",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2025-10-30T17:26:12.106Z",
+			"content": "<p>Works on my machine :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3m4givnyvms2q",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3m4gi7u5wsk2i",
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3m4givnyvms2q",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-10-30T17:38:23.847Z",
+			"content": "<p>hey, whaddaya know!</p>\n<p>also TIL about `order`</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3m4giyx23ak2z",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3m4gi7u5wsk2i",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3m4giyx23ak2z",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2025-10-30T17:40:13.987Z",
+			"content": "<p>Now, let's ship a Mac with Safari Technology Preview as default browser to every Internet user in the planet... What could it cost, $10?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3m4gj3luqf22l",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3m4gi7u5wsk2i",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3m4gj3luqf22l",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2025-10-30T17:41:42.941Z",
+			"content": "<p>Great, now you just made me want sample-without-replacement in CSS...</p>\n<p><a href=\"https://bsky.app/profile/did:plc:gyalyilwlk6nwv7lcg3ss6ez\">@tabatkins.com</a> help!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gyalyilwlk6nwv7lcg3ss6ez/app.bsky.feed.post/3m4gscrvqpk24",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3m4gj3luqf22l",
+			"url": "https://bsky.app/profile/tabatkins.com/post/3m4gscrvqpk24",
+			"author": {
+				"name": "Tab Atkins-Bittner",
+				"url": "https://bsky.app/profile/tabatkins.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gyalyilwlk6nwv7lcg3ss6ez/bafkreid72uxbyouv6xj7ave7rbihsm3cyo3agzqtuxeh56uddvlzafp5om"
+			},
+			"date": "2025-10-30T20:26:47.822Z",
+			"content": "<p>Just use a large enough range, you'll be unlikely to get collisions. Basically the same thing.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3m4gxcybzpc2r",
+			"parentId": "at://did:plc:gyalyilwlk6nwv7lcg3ss6ez/app.bsky.feed.post/3m4gscrvqpk24",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3m4gxcybzpc2r",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2025-10-30T21:56:23.226Z",
+			"content": "<p>order: random(1, max(Infinity));</p>\n<p>...except Infinity doesn't work in this case :(</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gyalyilwlk6nwv7lcg3ss6ez/app.bsky.feed.post/3m4gxzqk37224",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3m4gxcybzpc2r",
+			"url": "https://bsky.app/profile/tabatkins.com/post/3m4gxzqk37224",
+			"author": {
+				"name": "Tab Atkins-Bittner",
+				"url": "https://bsky.app/profile/tabatkins.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gyalyilwlk6nwv7lcg3ss6ez/bafkreid72uxbyouv6xj7ave7rbihsm3cyo3agzqtuxeh56uddvlzafp5om"
+			},
+			"date": "2025-10-30T22:09:06.852Z",
+			"content": "<p>Just put in a big number!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4gzdkk5hc2q",
+			"parentId": "at://did:plc:gyalyilwlk6nwv7lcg3ss6ez/app.bsky.feed.post/3m4gxzqk37224",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4gzdkk5hc2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-30T22:32:29.849Z",
+			"content": "<p>I will put in a number that represents how high I can count, which is at least two digits</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gyalyilwlk6nwv7lcg3ss6ez/app.bsky.feed.post/3m4hcx7imvk24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4gzdkk5hc2q",
+			"url": "https://bsky.app/profile/tabatkins.com/post/3m4hcx7imvk24",
+			"author": {
+				"name": "Tab Atkins-Bittner",
+				"url": "https://bsky.app/profile/tabatkins.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gyalyilwlk6nwv7lcg3ss6ez/bafkreid72uxbyouv6xj7ave7rbihsm3cyo3agzqtuxeh56uddvlzafp5om"
+			},
+			"date": "2025-10-31T01:24:33.031Z",
+			"content": "<p>Look at Mr. Big Brain showoff, can count to two digits!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3m4htediyjc2e",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4gzdkk5hc2q",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3m4htediyjc2e",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-10-31T06:18:13.314Z",
+			"content": "<p>It’s the same digit twice, isn’t it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6b66hpbvpgcqg2vjaqd5z3nl/app.bsky.feed.post/3m4i2h4bdek2r",
+			"parentId": "at://did:plc:gyalyilwlk6nwv7lcg3ss6ez/app.bsky.feed.post/3m4hcx7imvk24",
+			"url": "https://bsky.app/profile/crissov.de/post/3m4i2h4bdek2r",
+			"author": {
+				"name": "Christoph Päper",
+				"url": "https://bsky.app/profile/crissov.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6b66hpbvpgcqg2vjaqd5z3nl/bafkreibj4j6dg3oblhkyffcvwxubelqexvwz6jdrwhcqct4flyl5wvbfgi"
+			},
+			"date": "2025-10-31T08:25:02.576Z",
+			"content": "<p>Rookie level – my kids taught me how to count to 7 digits in less than a minute:<br>\none, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, …, eight-hundred thousand, nine-hundred thousand, one million</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3m4ifag4l7s2t",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gdvxibqs2d",
+			"url": "https://bsky.app/profile/engelman.nl/post/3m4ifag4l7s2t",
+			"author": {
+				"name": "Danny Engelman 🌷🏍️🛥️",
+				"url": "https://bsky.app/profile/engelman.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
+			},
+			"date": "2025-10-31T11:38:09.185Z",
+			"content": "<p>.childNodes creates way too many &lt;slot&gt; elements.</p>\n<p>Multiple &lt;slot&gt; can be used<br>\nBut ONE unnamed &lt;slot&gt; can be enough, <br>\n.assign (can process a NodeList) sets the order.</p>\n<p>But sorting is maybe not the best example for manual slot-assignment; <br>\nI keep lightDOM sort in lightDOM (2nd screenshot)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4ihtz4jhk24",
+			"parentId": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3m4ifag4l7s2t",
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4ihtz4jhk24",
+			"private": true,
+			"date": "2025-10-31T12:24:54.126Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4ii4gbav224",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4ihtz4jhk24",
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4ii4gbav224",
+			"private": true,
+			"date": "2025-10-31T12:29:36.349Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hehia4csii5iipebsgolxxal/app.bsky.feed.post/3m4iiazx6es23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/al9000.com/post/3m4iiazx6es23",
+			"author": {
+				"name": "alan",
+				"url": "https://bsky.app/profile/al9000.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hehia4csii5iipebsgolxxal/bafkreibuagb55i3bp36un4ljcarzdeus4id3hgmyrrwj2d7lrpdd6t4hiq"
+			},
+			"date": "2025-10-31T12:32:11.208Z",
+			"content": "<p>Chaos List is the name of my new band</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4ij3lreak2z",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3m4htediyjc2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4ij3lreak2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-31T12:47:02.306Z",
+			"content": "<p>…maybe</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3m4ijhj7hx22v",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3m4gevp7s2k2v",
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3m4ijhj7hx22v",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2025-10-31T12:53:42.275Z",
+			"content": "<p>Or.. &lt;actu-ul&gt;? Because now it’s actually unordered?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3m4ijkajqws2n",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3m4ijhj7hx22v",
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3m4ijkajqws2n",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-10-31T12:55:13.839Z",
+			"content": "<p>Ha! A &lt;tr-ul-y&gt; unordered list. I like it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4ijmohiqk2z",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3m4ijhj7hx22v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4ijmohiqk2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-31T12:56:35.548Z",
+			"content": "<p>the double u-u has a lovely ghostbusters quality to it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3m4im5lhz3k2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4ijmohiqk2z",
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3m4im5lhz3k2z",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2025-10-31T13:41:50.334Z",
+			"content": "<p>There is no &lt;data&gt; only &lt;zu-ul&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3m4iujiwkuc2t",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4ii4gbav224",
+			"url": "https://bsky.app/profile/engelman.nl/post/3m4iujiwkuc2t",
+			"author": {
+				"name": "Danny Engelman 🌷🏍️🛥️",
+				"url": "https://bsky.app/profile/engelman.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
+			},
+			"date": "2025-10-31T16:11:40.253Z",
+			"content": "<p>Its a choice to put every fork in its own drawer/slot WITHOUT a label</p>\n<p>Maybe a tile based border-less boardgame? <br>\nNot chess, because you want &lt;slot&gt; NAMED A1-H8<br>\nCould Carcassonne be a good example? Dominos?</p>\n<p>Performance wise its (just) DOM;<br>\n1000 (list)items need 1000 &lt;slots&gt; 999 not really required</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3m4ivjrrloc2t",
+			"parentId": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3m4iujiwkuc2t",
+			"url": "https://bsky.app/profile/engelman.nl/post/3m4ivjrrloc2t",
+			"author": {
+				"name": "Danny Engelman 🌷🏍️🛥️",
+				"url": "https://bsky.app/profile/engelman.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
+			},
+			"date": "2025-10-31T16:29:43.266Z",
+			"content": "<p>Carcassonne is easier with a rotating fixed size square layout in a CSS grid, where rows and columns are added Top-Bottom-Left-Right</p>\n<p>Dominos probably requires masonry (not supported in a browser yet)</p>\n<p>Maybe next weeks team Web Component challenge; we did Ludo once; all NAMED slots and CSS grid-area</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mvzxcopxl7477vdjw6fqutgh/app.bsky.feed.post/3m4julpknqk2z",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4gepfdqes27",
+			"url": "https://bsky.app/profile/elfsternberg.bsky.social/post/3m4julpknqk2z",
+			"author": {
+				"name": "Elf M. Sternberg",
+				"url": "https://bsky.app/profile/elfsternberg.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mvzxcopxl7477vdjw6fqutgh/bafkreigkz26xe3uwbfdnlirqioqjsyreehat5cj23o2ivzgkzfkbf2nbrq"
+			},
+			"date": "2025-11-01T01:45:34.050Z",
+			"content": "<p>We have a number of components in our library that \"autoslot.\" They look at the \"shape\" of the light DOM and, where it conforms, will generate a template AND assign slot names. That works well for things like input wrappers (label, help, etc), lists, and description lists.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mvzxcopxl7477vdjw6fqutgh/app.bsky.feed.post/3m4k6vtll6c2z",
+			"parentId": "at://did:plc:mvzxcopxl7477vdjw6fqutgh/app.bsky.feed.post/3m4julpknqk2z",
+			"url": "https://bsky.app/profile/elfsternberg.bsky.social/post/3m4k6vtll6c2z",
+			"author": {
+				"name": "Elf M. Sternberg",
+				"url": "https://bsky.app/profile/elfsternberg.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mvzxcopxl7477vdjw6fqutgh/bafkreigkz26xe3uwbfdnlirqioqjsyreehat5cj23o2ivzgkzfkbf2nbrq"
+			},
+			"date": "2025-11-01T04:50:11.238Z",
+			"content": "<p>The idea is that, like other composite components like select/option, or details/summary, you shouldn't have to provide slot attributes when the meaning of the lightDOM content is conformant and contextually clear.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3m4k7w65jsc2g",
+			"parentId": "at://did:plc:mvzxcopxl7477vdjw6fqutgh/app.bsky.feed.post/3m4k6vtll6c2z",
+			"url": "https://bsky.app/profile/knowler.dev/post/3m4k7w65jsc2g",
+			"private": true,
+			"date": "2025-11-01T05:08:16.054Z",
+			"via": "bluesky"
+		}
+	]
+}

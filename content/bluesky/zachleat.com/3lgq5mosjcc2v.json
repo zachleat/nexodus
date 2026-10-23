@@ -1,0 +1,329 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3lgq5sl672222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/whitep4nth3r.com/post/3lgq5sl672222",
+			"author": {
+				"name": "⭑ salma",
+				"url": "https://bsky.app/profile/whitep4nth3r.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qcxqtc2yzznbaazu7egncqqx/bafkreicsdkgurugcpgvgeityusm25cdkm45pobfzqinryah2uztjhqjikm"
+			},
+			"date": "2025-01-27T14:32:10.620Z",
+			"content": "<p>blocked</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgq5v2cm5k2m",
+			"parentId": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3lgq5sl672222",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgq5v2cm5k2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T14:33:33.607Z",
+			"content": "<p>if you can’t handle me at my JavaScript then you don’t deserve me at my HTML</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgq5yqpkak2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgq5yqpkak2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T14:35:37.763Z",
+			"content": "<p>how dare my personal web site not undergo a vigorous and lengthy code review process</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgq7fun4ek22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jhey.dev/post/3lgq7fun4ek22",
+			"author": {
+				"name": "Jhey ʕ·ᴥ·　ʔ",
+				"url": "https://bsky.app/profile/jhey.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqptcphqrjhr5nziy33f3kco/bafkreigfgoglzu3fcumvkcctwj2yvnfyw5hdhws5bzel4ss5aett23yw3m"
+			},
+			"date": "2025-01-27T15:00:51.826Z",
+			"content": "<p>it's fine</p>\n<p>[display=none] { display: none; }</p>\n<p>or if you wanna get \"snazzy\" with it 😮</p>\n<p>[display] {<br>\n  display: attr(display type(&lt;custom-ident&gt;), block);<br>\n}</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgq7ijf4kc2z",
+			"parentId": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgq7fun4ek22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgq7ijf4kc2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T15:02:20.694Z",
+			"content": "<p>THIS IS A CURSED SOLUTION and I’ve shipped it to all of my web sites thank you</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgq7lfnf7c22",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgq7ijf4kc2z",
+			"url": "https://bsky.app/profile/jhey.dev/post/3lgq7lfnf7c22",
+			"author": {
+				"name": "Jhey ʕ·ᴥ·　ʔ",
+				"url": "https://bsky.app/profile/jhey.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqptcphqrjhr5nziy33f3kco/bafkreigfgoglzu3fcumvkcctwj2yvnfyw5hdhws5bzel4ss5aett23yw3m"
+			},
+			"date": "2025-01-27T15:03:57.434Z",
+			"content": "<p>gonna go create a Tailwind-like solution powered by HTML attributes instead now 💀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgq7mtcg522y",
+			"parentId": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgq7lfnf7c22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgq7mtcg522y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T15:04:45.309Z",
+			"content": "<p>…wait</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgq7uwnz2c22",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgq7mtcg522y",
+			"url": "https://bsky.app/profile/jhey.dev/post/3lgq7uwnz2c22",
+			"author": {
+				"name": "Jhey ʕ·ᴥ·　ʔ",
+				"url": "https://bsky.app/profile/jhey.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqptcphqrjhr5nziy33f3kco/bafkreigfgoglzu3fcumvkcctwj2yvnfyw5hdhws5bzel4ss5aett23yw3m"
+			},
+			"date": "2025-01-27T15:09:17.270Z",
+			"content": "<p>headgust™</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lgqaoutnn22q",
+			"parentId": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgq7lfnf7c22",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lgqaoutnn22q",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2025-01-27T15:23:47.772Z",
+			"content": "<p>this actually kind of exists with <a href=\"https://unocss.dev/presets/attributify#attributify-mode\">unocss.dev/presets/attr...</a>, but it gets compiled away lol</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgqavl5jrs22",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lgqaoutnn22q",
+			"url": "https://bsky.app/profile/jhey.dev/post/3lgqavl5jrs22",
+			"author": {
+				"name": "Jhey ʕ·ᴥ·　ʔ",
+				"url": "https://bsky.app/profile/jhey.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqptcphqrjhr5nziy33f3kco/bafkreigfgoglzu3fcumvkcctwj2yvnfyw5hdhws5bzel4ss5aett23yw3m"
+			},
+			"date": "2025-01-27T15:27:32.492Z",
+			"content": "<p>yeah – but the power part here would be it's a runtime thing</p>\n<p>you could allow a defined set and then let people jus' throw updates in the HTML with it all covered by that one line 😅</p>\n<p>mayhem</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5vj7hql7jstm5vfppjir3rww/app.bsky.feed.post/3lgqbylbkl22m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/adirs.co/post/3lgqbylbkl22m",
+			"author": {
+				"name": "Adirs Code",
+				"url": "https://bsky.app/profile/adirs.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5vj7hql7jstm5vfppjir3rww/bafkreieuuo2qml54iktfmlsfpptumbjftjo27dbra3qll65bzfww7fxecm"
+			},
+			"date": "2025-01-27T15:47:07.029Z",
+			"content": "<p>Maybe I’m reading too much into this, but wouldn’t you prefer to do it like this?</p>\n<p>&lt;SVG class=“youKnowWhat”…&gt;</p>\n<p>.youKnowWhat {<br>\n    display: hidden;<br>\n}</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgqcu3bti22r",
+			"parentId": "at://did:plc:5vj7hql7jstm5vfppjir3rww/app.bsky.feed.post/3lgqbylbkl22m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgqcu3bti22r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T16:02:29.784Z",
+			"content": "<p>plenty of fine ways to do this (though you’d want `display: none` not hidden there). `&lt;svg hidden&gt;` might be the best one!</p>\n<p>in this specific case it’s for an SVG spritesheet.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rt7t4atjmmphoxiwrnwwflaf/app.bsky.feed.post/3lgqd4ogmfs2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgq5v2cm5k2m",
+			"url": "https://bsky.app/profile/jeffcouturier.com/post/3lgqd4ogmfs2o",
+			"author": {
+				"name": "Jeff Couturier",
+				"url": "https://bsky.app/profile/jeffcouturier.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rt7t4atjmmphoxiwrnwwflaf/bafkreiatlwnavfvnoxq4abasp77435asy6pojibfe7mx6zb52cxclmnvuy"
+			},
+			"date": "2025-01-27T16:07:18.300Z",
+			"content": "<p>I feel both offended and seen.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgqdgvbg2c2q",
+			"parentId": "at://did:plc:rt7t4atjmmphoxiwrnwwflaf/app.bsky.feed.post/3lgqd4ogmfs2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgqdgvbg2c2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T16:13:01.014Z",
+			"content": "<p>you’re in the right place 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lgqdqh43us2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/shaw.city/post/3lgqdqh43us2s",
+			"author": {
+				"name": "Shaw",
+				"url": "https://bsky.app/profile/shaw.city",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfzewyyzcr75z4t3vhew6o7g/bafkreicvtneuyuqc6j64n67w423d2zsu2iu44rytxwyjnnkqbnhvql7s4a"
+			},
+			"date": "2025-01-27T16:18:21.703Z",
+			"content": "<p>&lt;svg display=\"don't\"&gt;</p>\n<p>...but really: don't forget about the `hidden` attribute.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i4ichiot767r3h5gvezwt2hr/app.bsky.feed.post/3lgqe3zqac22c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jakob-e.bsky.social/post/3lgqe3zqac22c",
+			"author": {
+				"name": "Jakob E",
+				"url": "https://bsky.app/profile/jakob-e.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i4ichiot767r3h5gvezwt2hr/bafkreigl3a2qplenywwoxeglw4lxb3blwpngj4rofm36izcsp5ffaldtlm"
+			},
+			"date": "2025-01-27T16:24:50.336Z",
+			"content": "<p>Not sure if it’s still an issue when using &lt;use&gt; with a svg sprite/asset  - but back in the old days display:none broke &lt;defs&gt; <br>\nstyle=”width:0;height:0;position:absolute;” focusable=“false” is what I’m using (maybe I ought to do a do-we-still-need-this l)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:e56hg65xyab5tjdhh473k3pn/app.bsky.feed.post/3lgqfeu22ik2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nitek.bsky.social/post/3lgqfeu22ik2n",
+			"author": {
+				"name": "Nitek",
+				"url": "https://bsky.app/profile/nitek.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:e56hg65xyab5tjdhh473k3pn/bafkreigfpywyirerukn3mydx42wt5hgz4tzrhgdmjvghqcqecv7tlv7g7y"
+			},
+			"date": "2025-01-27T16:47:40.098Z",
+			"content": "<p>If you didn't not look at your old code and consider it bad, it would mean you hadn't learned anything 😀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgqfytmszc2r",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lgqdqh43us2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgqfytmszc2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T16:58:50.754Z",
+			"content": "<p>if I could pin a reply…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgqjfemevs2l",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lgqdqh43us2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgqjfemevs2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T17:59:32.444Z",
+			"content": "<p>so… this might be a stupid question but why doesn’t &lt;svg hidden&gt;&lt;/svg&gt; hide the svg 😅 <a href=\"https://codepen.io/zachleat/pen/VYZqXaP/ed6c50d0fea2568ca9995d9c10c2fccf?editors=1100\">codepen.io/zachleat/pen...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lgqm2qo3xc2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgqjfemevs2l",
+			"url": "https://bsky.app/profile/shaw.city/post/3lgqm2qo3xc2p",
+			"author": {
+				"name": "Shaw",
+				"url": "https://bsky.app/profile/shaw.city",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfzewyyzcr75z4t3vhew6o7g/bafkreicvtneuyuqc6j64n67w423d2zsu2iu44rytxwyjnnkqbnhvql7s4a"
+			},
+			"date": "2025-01-27T18:47:17.207Z",
+			"content": "<p>Odd! Looks like default browser styles aren't including `display: none` for svg[hidden]. Might only apply to HTML elements by default, as SVG2 spec doesn't list it under the attributes. <br>\n<a href=\"https://www.w3.org/TR/SVG2/struct.html#NewDocument\">www.w3.org/TR/SVG2/stru...</a></p>\n<p>Adding `[hidden] { display:none }` to CSS will do it, but maybe that's wrong for this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lgqmclznj22p",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lgqm2qo3xc2p",
+			"url": "https://bsky.app/profile/shaw.city/post/3lgqmclznj22p",
+			"author": {
+				"name": "Shaw",
+				"url": "https://bsky.app/profile/shaw.city",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfzewyyzcr75z4t3vhew6o7g/bafkreicvtneuyuqc6j64n67w423d2zsu2iu44rytxwyjnnkqbnhvql7s4a"
+			},
+			"date": "2025-01-27T18:51:40.781Z",
+			"content": "<p>Hidden spec for reference: <a href=\"https://html.spec.whatwg.org/#the-hidden-attribute\">html.spec.whatwg.org#the-hidden-a...</a></p>\n<p>Doesn't directly address &lt;svg&gt; that I can tell. Hard to say what the broswer's choice is there.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgqmflpkxc2e",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lgqm2qo3xc2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgqmflpkxc2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-27T18:53:21.114Z",
+			"content": "<p>maybe `svg[hidden] { display: none; }` is a good candidate for the css reset stylesheet</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lgr2yjvkr227",
+			"parentId": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgq7lfnf7c22",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lgr2yjvkr227",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2025-01-27T23:14:29.133Z",
+			"content": "<p>had some fun messing around with this today :) <a href=\"https://github.com/uncenter/attrbreeze\">github.com/uncenter/att...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mqptcphqrjhr5nziy33f3kco/app.bsky.feed.post/3lgr363q6ek2w",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lgr2yjvkr227",
+			"url": "https://bsky.app/profile/jhey.dev/post/3lgr363q6ek2w",
+			"author": {
+				"name": "Jhey ʕ·ᴥ·　ʔ",
+				"url": "https://bsky.app/profile/jhey.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqptcphqrjhr5nziy33f3kco/bafkreigfgoglzu3fcumvkcctwj2yvnfyw5hdhws5bzel4ss5aett23yw3m"
+			},
+			"date": "2025-01-27T23:17:35.600Z",
+			"content": "<p>love it - the name is brilliant 😅 sounds like a cleaning product haha</p>\n<p>read the README, could technically purge this as well which would make for a real small stylesheet 🤔</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z4n4sv6kreemazi5jiplpujt/app.bsky.feed.post/3lgu7bncgu22n",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lgqaoutnn22q",
+			"url": "https://bsky.app/profile/paulmelero.com/post/3lgu7bncgu22n",
+			"author": {
+				"name": "Paul Melero",
+				"url": "https://bsky.app/profile/paulmelero.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4n4sv6kreemazi5jiplpujt/bafkreihipnfhk3sxk47eferflplfx76nf5nxizvafgx6yylae3p35k6iye"
+			},
+			"date": "2025-01-29T05:09:08.867Z",
+			"content": "<p>Cc/ <a href=\"https://bsky.app/profile/did:plc:yvvkhbyhl2d6fk6iyzwpsufp\">@unocss.dev</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

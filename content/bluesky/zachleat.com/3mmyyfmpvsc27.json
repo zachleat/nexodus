@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mmz3py7mm22g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3mmz3py7mm22g",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-05-29T17:46:15.653Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmza7twshs2a",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mmz3py7mm22g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mmza7twshs2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-29T19:06:43.012Z",
+			"content": "<p>such primitive technology</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mmzaxr3txc2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmza7twshs2a",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3mmzaxr3txc2g",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-05-29T19:20:05.338Z",
+			"content": "<p>A keyboard?! How quaint!</p>",
+			"via": "bluesky"
+		}
+	]
+}

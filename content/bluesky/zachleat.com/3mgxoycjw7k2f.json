@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:l4m7ynxc47wzkgvlyyunx5n2/app.bsky.feed.post/3mgxqvdojqk26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jakearchibald.com/post/3mgxqvdojqk26",
+			"author": {
+				"name": "Jake Archibald",
+				"url": "https://bsky.app/profile/jakearchibald.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4m7ynxc47wzkgvlyyunx5n2/bafkreifbsxz4stfnpq6i5smnbhzoc65vpp6jdnj6qtcwqfxtvjcaog5s6y"
+			},
+			"date": "2026-03-13T20:28:34.786Z",
+			"content": "<p>how rude</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgxrnyb3m22l",
+			"parentId": "at://did:plc:l4m7ynxc47wzkgvlyyunx5n2/app.bsky.feed.post/3mgxqvdojqk26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mgxrnyb3m22l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-13T20:42:21.673Z",
+			"content": "<p>just because you’re a devDependency doesn’t mean you’re any less important to me, jake</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ckzcgqnkmh2dtjkxzr6g7dpo/app.bsky.feed.post/3mgxyzgkqm22b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgxrnyb3m22l",
+			"url": "https://bsky.app/profile/chillijay.bsky.social/post/3mgxyzgkqm22b",
+			"author": {
+				"name": "ChilliJay",
+				"url": "https://bsky.app/profile/chillijay.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ckzcgqnkmh2dtjkxzr6g7dpo/bafkreicz5m7p4mw5j6mskh56iblt2rpor3n3stdwfequut3xdohkf3tm2q"
+			},
+			"date": "2026-03-13T22:54:01.961Z",
+			"content": "<p><a href=\"https://bsky.app/hashtag/istandwithjake\">#istandwithjake</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ldjdzadn522z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/minamarkh.am/post/3ldjdzadn522z",
+			"private": true,
+			"date": "2024-12-17T17:19:03.549Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldjeaijb6k2r",
+			"parentId": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ldjdzadn522z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldjeaijb6k2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-17T17:23:07.003Z",
+			"content": "<p>yeah—I did follow that process—it seems to allow me to register my supposedly reserved name though so…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ldjecp57k22z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldjeaijb6k2r",
+			"url": "https://bsky.app/profile/minamarkh.am/post/3ldjecp57k22z",
+			"private": true,
+			"date": "2024-12-17T17:24:21.057Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldjecrdre22r",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldjeaijb6k2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldjecrdre22r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-17T17:24:23.368Z",
+			"content": "<p>oop, disregard that—it was a secondary step that denied signup (not one that happened on the handle picking page)</p>\n<p>everything is fine now</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ldjedkezy22z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldjecrdre22r",
+			"url": "https://bsky.app/profile/minamarkh.am/post/3ldjedkezy22z",
+			"private": true,
+			"date": "2024-12-17T17:24:49.625Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldjeedp3u22r",
+			"parentId": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ldjedkezy22z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldjeedp3u22r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-17T17:25:16.169Z",
+			"content": "<p>you should have never given it back 😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3m3bvklbhgs2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3m3bvklbhgs2d",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2025-10-16T04:16:20.207Z",
+			"content": "<p>I you don’t need to support older Safari versions, you could just use native CSS nesting without any preprocessor/minifier.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dkf6u7hhzicecvumdlfza2ux/app.bsky.feed.post/3m3cnx5vhqk2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jeremias.codes/post/3m3cnx5vhqk2u",
+			"author": {
+				"name": "jeremAIas",
+				"url": "https://bsky.app/profile/jeremias.codes",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dkf6u7hhzicecvumdlfza2ux/bafkreihloo56nu2go2uaqhk25iydang5kcmgimlybtu7mv2wlto3pazvqi"
+			},
+			"date": "2025-10-16T11:32:52.194Z",
+			"content": "<p>Long life to <a href=\"https://lightningcss.dev\">lightningcss.dev</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3d4f5xdps2g",
+			"parentId": "at://did:plc:dkf6u7hhzicecvumdlfza2ux/app.bsky.feed.post/3m3cnx5vhqk2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3d4f5xdps2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-16T15:51:14.404Z",
+			"content": "<p>oh, nice! looks like they trimmed the package size down quite a bit since I last looked</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3d4gvxv2c2g",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3m3bvklbhgs2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3d4gvxv2c2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-16T15:52:13.141Z",
+			"content": "<p>fwiw I’m not preprocessing (only post)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lwoexpty5wlu4vstpora7yr3/app.bsky.feed.post/3m3d62gsu3k2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/damianwalsh.bsky.social/post/3m3d62gsu3k2k",
+			"author": {
+				"name": "Damian Walsh",
+				"url": "https://bsky.app/profile/damianwalsh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lwoexpty5wlu4vstpora7yr3/bafkreiat4vyt6ccfjnwhdn5nloicn7o2pgjndcevag2rsokfkdy3mdp7hi"
+			},
+			"date": "2025-10-16T16:21:02.078Z",
+			"content": "<p>I wouldn't say I'm glad this happened to you, but I am glad this sort of thing doesn't only happen to me. I went through this and the whole \"why is it not working\" thing a little bit ago and ended up with PostCSS/cssnano.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3m3dcncy7rc2b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3d4gvxv2c2g",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3m3dcncy7rc2b",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2025-10-16T17:43:10.561Z",
+			"content": "<p>pre- post- …all depends on the perspective! ;-)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3dlugavwc2g",
+			"parentId": "at://did:plc:lwoexpty5wlu4vstpora7yr3/app.bsky.feed.post/3m3d62gsu3k2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3dlugavwc2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-16T20:28:12.549Z",
+			"content": "<p>🏆 the confusing part happens when the tool fails silently 🫣</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,350 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:dy7gplkjbvr5l7hhd2iahqxv/app.bsky.feed.post/3lix5aotnic2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/janvhs.com/post/3lix5aotnic2m",
+			"author": {
+				"name": "Jan <3",
+				"url": "https://bsky.app/profile/janvhs.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dy7gplkjbvr5l7hhd2iahqxv/bafkreicfdfwr76rtqixz5565t2jlvli36idny3ub3ndsqpj32iv5zga7bq"
+			},
+			"date": "2025-02-24T20:01:11.915Z",
+			"content": "<p>Oh wow that’s cringe</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjmckaxprnusdgfbfxf3bzoh/app.bsky.feed.post/3lix5auxe6k2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lethalspatula.bsky.social/post/3lix5auxe6k2n",
+			"private": true,
+			"date": "2025-02-24T20:01:18.315Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lix5dptet22b",
+			"parentId": "at://did:plc:zjmckaxprnusdgfbfxf3bzoh/app.bsky.feed.post/3lix5auxe6k2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lix5dptet22b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-24T20:02:53.621Z",
+			"content": "<p>it’s .too-obscure</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3liypy3wojs2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mk.gg/post/3liypy3wojs2n",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-02-25T11:09:04.492Z",
+			"content": "<p>I'm not sure the existence of a Starlight plugin for it really counts as \"full steam ahead\". It makes it easier for people who want it to add it to their own docs sites. If it *does* get wider adoption and would be helpful to users then maybe we'll add it to the Astro docs site but not right now.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3liysm7ulkc2f",
+			"parentId": "at://did:plc:zjmckaxprnusdgfbfxf3bzoh/app.bsky.feed.post/3lix5auxe6k2n",
+			"url": "https://bsky.app/profile/lukewarlow.dev/post/3liysm7ulkc2f",
+			"author": {
+				"name": "Luke",
+				"url": "https://bsky.app/profile/lukewarlow.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uthwv2jcpcccf4ec2bzsavg7/bafkreia3pmnk72btquz6ufuupstzrg7tb23smpinwmfntnk7lfl2gj7xae"
+			},
+			"date": "2025-02-25T11:56:07.190Z",
+			"content": "<p>Why isn't it a .md file too...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liyzzmcgmk2e",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3liysm7ulkc2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liyzzmcgmk2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-25T14:08:52.627Z",
+			"content": "<p>hear me out: what if we call it sitemap.txt and then we put xml in it</p>\n<p>hear me out again: what if we put markdown in robots.txt</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz2dlbgnc2e",
+			"parentId": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3liypy3wojs2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liz2dlbgnc2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-25T14:14:27.089Z",
+			"content": "<p>a starlight plugin from a core maintainer of astro, that shows up as result #2 on a search for \"llms.txt\" on npm? if y’all are hesitant to have it framed this way, I’d be curious to learn more about why!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3liz34zstg22m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz2dlbgnc2e",
+			"url": "https://bsky.app/profile/mk.gg/post/3liz34zstg22m",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-02-25T14:28:41.200Z",
+			"content": "<p>I've nothing against llms.txt. The only reason I don't want it framed that way is because it's not true! Most Astro core maintainers have lots of our own projects. You could just as well say that Astro has gone all-in on Airtable because I made a loader for it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lgmfg3uvicfeuq56ohxqvfal/app.bsky.feed.post/3liz3afh47k2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/thealexlichter.com/post/3liz3afh47k2h",
+			"author": {
+				"name": "Alexander Lichter",
+				"url": "https://bsky.app/profile/thealexlichter.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lgmfg3uvicfeuq56ohxqvfal/bafkreicijojfno74yatjtulcleu6mmn6g35pge2pxldxtspu2n6ralxiqy"
+			},
+			"date": "2025-02-25T14:30:34.063Z",
+			"content": "<p>IMO it is good to have an easy integration for people building pages (and our own <a href=\"https://bsky.app/profile/did:plc:6gbm7hkapyhjt2jghosdzwv2\">@nuxt.com</a> docs for example). It is an extra module on purpose right now, especially because the llms.txt \"proposal\" is still pending.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4qy26t5ss4zosz2mi3hdzuq3/app.bsky.feed.post/3liz3bf2rb223",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz2dlbgnc2e",
+			"url": "https://bsky.app/profile/wes.dev/post/3liz3bf2rb223",
+			"author": {
+				"name": "Wes Souza",
+				"url": "https://bsky.app/profile/wes.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qy26t5ss4zosz2mi3hdzuq3/bafkreiebnoc2or7gnhhobwws44jrkrdb3htdtaqyf3ihkket5eyqnc3kz4"
+			},
+			"date": "2025-02-25T14:31:07.213Z",
+			"content": "<p>When I read “full steam” I expected <a href=\"https://astro.build/llms.txt\">astro.build/llms.txt</a> to exist.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz3ixarb22e",
+			"parentId": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3liz34zstg22m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liz3ixarb22e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-25T14:35:21.165Z",
+			"content": "<p>I’ve now had three different Astro employees talk to me about this post on two different social networks so something isn’t quite matching up</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3liz3tcwivs2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liyzzmcgmk2e",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3liz3tcwivs2m",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-02-25T14:41:08.956Z",
+			"content": "<p>Decades of research and development into software that can spider and map the World Wide Web, and the new hotness needs a special file to understand your blog.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3liz3thsmys2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz3ixarb22e",
+			"url": "https://bsky.app/profile/mk.gg/post/3liz3thsmys2m",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-02-25T14:41:14.072Z",
+			"content": "<p>Are we saying different things?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gotnvwkr56ibs33l4hwgfoet/app.bsky.feed.post/3liz3usag7s2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zeu.dev/post/3liz3usag7s2o",
+			"author": {
+				"name": "zeu",
+				"url": "https://bsky.app/profile/zeu.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gotnvwkr56ibs33l4hwgfoet/bafkreicoiamkuhof6bcon6ac2riq6vcpfj4wr7hvanfylbevnlqeuilkae"
+			},
+			"date": "2025-02-25T14:41:58.553Z",
+			"content": "<p>software developers are by far the biggest users for AI chatbots and one of the biggest criticisms against using LLMs is hallucinations</p>\n<p>if ppl are gonna use LLMs to learn about web dev, i’d rather the data be accurate, and /llms.txt gives library authors control on what is being said by the bots</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3liz4a37upc2i",
+			"parentId": "at://did:plc:4qy26t5ss4zosz2mi3hdzuq3/app.bsky.feed.post/3liz3bf2rb223",
+			"url": "https://bsky.app/profile/mk.gg/post/3liz4a37upc2i",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-02-25T14:48:17.081Z",
+			"content": "<p>Yes, that's what I would consider to be the main criterion. Even then it's a bit of a small thing to really qualify as \"full steam ahead\". We're also full steam ahead on webfinger, sitemap.xml and robots.txt</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:etets3mgjcnqvap6tnyjgkss/app.bsky.feed.post/3liz4oeiksc22",
+			"parentId": "at://did:plc:gotnvwkr56ibs33l4hwgfoet/app.bsky.feed.post/3liz3usag7s2o",
+			"url": "https://bsky.app/profile/griff.dev/post/3liz4oeiksc22",
+			"author": {
+				"name": "Griffin Wiebel",
+				"url": "https://bsky.app/profile/griff.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:etets3mgjcnqvap6tnyjgkss/bafkreidcnpt2hlr2f357gre5a3toqhb2nljwz2cyowetsoxdyou3owjdxq"
+			},
+			"date": "2025-02-25T14:56:16.537Z",
+			"content": "<p>Maybe it's unclear to me, but haven't these popular LLMs already been trained on public data? And what's to stop them from continuing to scrape and index public data rather than using these generated txt files? Sounds like just another thing to train on.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz4utirfs2e",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3liz3tcwivs2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liz4utirfs2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-25T14:59:53.628Z",
+			"content": "<p>“Converting complex HTML pages with navigation, ads, and JavaScript into LLM-friendly plain text is both difficult and imprecise.” on <a href=\"https://llmstxt.org/\">llmstxt.org</a> 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3liz4ymrg322g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz4utirfs2e",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3liz4ymrg322g",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-02-25T15:02:00.785Z",
+			"content": "<p>Weird how my phone can do it instantly when I click the Safari Reader button.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz52qjvoc2e",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3liz4ymrg322g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liz52qjvoc2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-25T15:03:11.845Z",
+			"content": "<p>haha 😅</p>\n<p>I personally believe it’s a SPA thing — spidering with JavaScript support is far more expensive</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3liz57oigs22g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz52qjvoc2e",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3liz57oigs22g",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-02-25T15:05:57.471Z",
+			"content": "<p>BRB spinning up a saas business to use LLMs to generate llms.txt.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:27w5ndv6wj36zsjbfhz5huxl/app.bsky.feed.post/3liz5cukbms2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/angelikatyborska.bsky.social/post/3liz5cukbms2i",
+			"author": {
+				"name": "Angelika Cathor",
+				"url": "https://bsky.app/profile/angelikatyborska.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:27w5ndv6wj36zsjbfhz5huxl/bafkreic6ldjxpsluyauqmvi7vitceyq5xsevyxr53fyxfylbq5ol2y2aw4"
+			},
+			"date": "2025-02-25T15:07:44.487Z",
+			"content": "<p>Your post gave me the impression that all three domains are hosting an llms.txt file but I only found it on the <a href=\"https://svelte.dev\">svelte.dev</a> domain</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz5ii2quk2e",
+			"parentId": "at://did:plc:27w5ndv6wj36zsjbfhz5huxl/app.bsky.feed.post/3liz5cukbms2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liz5ii2quk2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-25T15:10:52.723Z",
+			"content": "<p><a href=\"https://github.com/nuxtlabs/nuxt-llms\">github.com/nuxtlabs/nux...</a> and <a href=\"https://delucis.github.io/starlight-llms-txt/\">delucis.github.io/starlight-ll...</a> from a core astro maintainer are the sources for the above</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:27w5ndv6wj36zsjbfhz5huxl/app.bsky.feed.post/3liz5r4yrtc25",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liz5ii2quk2e",
+			"url": "https://bsky.app/profile/angelikatyborska.bsky.social/post/3liz5r4yrtc25",
+			"author": {
+				"name": "Angelika Cathor",
+				"url": "https://bsky.app/profile/angelikatyborska.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:27w5ndv6wj36zsjbfhz5huxl/bafkreic6ldjxpsluyauqmvi7vitceyq5xsevyxr53fyxfylbq5ol2y2aw4"
+			},
+			"date": "2025-02-25T15:15:43.114Z",
+			"content": "<p>Thank you</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nlvnr63jmz3v6eozqq2hx2hz/app.bsky.feed.post/3liz5xjyhyc2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/soufianee.com/post/3liz5xjyhyc2o",
+			"author": {
+				"name": "Soufiane",
+				"url": "https://bsky.app/profile/soufianee.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nlvnr63jmz3v6eozqq2hx2hz/bafkreielxi2psc3rjheaego47nqiritvecu6aafs466c4hhrbcjxcn6dyq"
+			},
+			"date": "2025-02-25T15:19:18.060Z",
+			"content": "<p>First Astro doesn't have a /llms.txt page. Also, making docs more accessible to llm will prevent more hallucination for those who use it. Finally hopefully some legislation will pass to stop companies from scrapping websites that don't opt-in this llms.txt stuff.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5ygsfb6kjwnxpsjszc4p5fp2/app.bsky.feed.post/3lizexsp66k2e",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3liz57oigs22g",
+			"url": "https://bsky.app/profile/anthonywhitford.com/post/3lizexsp66k2e",
+			"author": {
+				"name": "Anthony Whitford",
+				"url": "https://bsky.app/profile/anthonywhitford.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ygsfb6kjwnxpsjszc4p5fp2/bafkreib7njcddmuymzlwsek4e5d3oov4s7g2eh6io2ekxdnlgwjmqunviy"
+			},
+			"date": "2025-02-25T17:24:43.387Z",
+			"content": "<p>Isn’t that what FireCrawl does?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:oiirlxxuicemf7dlvwfxo3qv/app.bsky.feed.post/3lizrwmsevc2o",
+			"parentId": "at://did:plc:etets3mgjcnqvap6tnyjgkss/app.bsky.feed.post/3liz4oeiksc22",
+			"url": "https://bsky.app/profile/definitelymayb3.bsky.social/post/3lizrwmsevc2o",
+			"author": {
+				"name": "definitelymayb3.bsky.social",
+				"url": "https://bsky.app/profile/definitelymayb3.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:oiirlxxuicemf7dlvwfxo3qv/bafkreifgiepmdh6e6w6ev7x2zsxff7i7hhgkuosg6lmgx6uy6iw652kvmq"
+			},
+			"date": "2025-02-25T21:16:42.289Z",
+			"content": "<p>At a guess, even the scraped public data was further processed to remove noise. The process likely imperfect.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nrb24bcbbgouxs5drmjykzay/app.bsky.feed.post/3lizvi76pak2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/javasquip.bsky.social/post/3lizvi76pak2x",
+			"author": {
+				"name": "Sean Roberts",
+				"url": "https://bsky.app/profile/javasquip.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nrb24bcbbgouxs5drmjykzay/bafkreia43aegbpwwyg2vifgem2t2327yg22qtarmg4mt7uplsh3j7vmjge"
+			},
+			"date": "2025-02-25T22:20:13.219Z",
+			"content": "<p>I'm not sold on /llms.txt for a lot of reasons - not least of which is the cost for digital services. That said, the same input for humans is not the same as what's needed for LLMs and the format for providing it is also diff - therefore I'm not certain that this is a matter of using the same HTML</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,225 @@
+{
+	"comments": [
+		{
+			"id": "109348372265473236",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/109348372224706437",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2022-11-15T14:49:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 4.0.2 I hope... somewhat bad security issues on 4.0.0 and 4.0.1, apparently. <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">portswigger.net/research/steal</span><span class=\"invisible\">ing-passwords-from-infosec-mastodon-without-bypassing-csp</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348377078720711",
+			"parentId": "109348372265473236",
+			"url": "https://fediverse.zachleat.com/@zachleat/109348377078720711",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-15T14:50:20.169Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\">@<span>mattwilcox</span></a></span> yeah, it is 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348389805380728",
+			"parentId": "109348377078720711",
+			"url": "https://mstdn.social/@mattwilcox/109348389346748021",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2022-11-15T14:53:27.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🎊 👍</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348506318619946",
+			"parentId": 0,
+			"url": "https://front-end.social/@lonekorean/109348506136825769",
+			"author": {
+				"name": "Will Boyd",
+				"url": "https://front-end.social/@lonekorean",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/336/055/750/724/original/e577b97891570e9e.png"
+			},
+			"date": "2022-11-15T15:23:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ooh I like how you can still see past versions, in case anyone tries to pull some edit shenanigans</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348521618438719",
+			"parentId": "109348506318619946",
+			"url": "https://fediverse.zachleat.com/@zachleat/109348521618438719",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-15T15:27:05.676Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@lonekorean\" class=\"u-url mention\">@<span>lonekorean</span></a></span> yeah I see a little asterisk too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348641428524229",
+			"parentId": 0,
+			"url": "https://social.unextro.net/@ondra/109348641388080866",
+			"author": {
+				"name": "Ondřej Pokorný",
+				"url": "https://social.unextro.net/@ondra",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-15T15:57:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Are you still allowed to call them toots once you're on 4.0, though?</p><p><a href=\"https://github.com/mastodon/mastodon/commit/628c177ebe50defab67f2e210cfd28719cf54c82\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/c</span><span class=\"invisible\">ommit/628c177ebe50defab67f2e210cfd28719cf54c82</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348643364042056",
+			"parentId": "109348641428524229",
+			"url": "https://fediverse.zachleat.com/@zachleat/109348643364042056",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-15T15:58:03.367Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.unextro.net/@ondra\" class=\"u-url mention\">@<span>ondra</span></a></span> toots 4 life 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348705944145915",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mortendk/109348705913767645",
+			"author": {
+				"name": "mortendk 🤘",
+				"url": "https://mastodon.social/@mortendk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/928/403/663/151/original/6450f1e46c459ae0.jpg"
+			},
+			"date": "2022-11-15T16:13:57.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> in trying to tell myself I don’t need my own instance …</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348757904830522",
+			"parentId": "109348705944145915",
+			"url": "https://fediverse.zachleat.com/@zachleat/109348757904830522",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-15T16:27:11.119Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mortendk\" class=\"u-url mention\">@<span>mortendk</span></a></span> to be fair I did not upgrade it—masto.host did 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348841238718857",
+			"parentId": "109348757904830522",
+			"url": "https://mastodon.social/@mortendk/109348841196008635",
+			"author": {
+				"name": "mortendk 🤘",
+				"url": "https://mastodon.social/@mortendk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/928/403/663/151/original/6450f1e46c459ae0.jpg"
+			},
+			"date": "2022-11-15T16:48:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fair  - i did look at it a bit, and was thinking hmmm it looks tempting but i for once is trying not to let the geek adhd take over and jump on it </p><p>Is there anything really cool besides of \"my own domain name\" and yes its you who takes it down in the end at the price cheaper than ElonVerification(tm)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348853793668319",
+			"parentId": "109348841238718857",
+			"url": "https://fediverse.zachleat.com/@zachleat/109348853793668319",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-15T16:51:34.266Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mortendk\" class=\"u-url mention\">@<span>mortendk</span></a></span> yeah control over the entire moderation and admin panel is quite nice (and allows me to add my own emoji hi).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109348863353509684",
+			"parentId": "109348853793668319",
+			"url": "https://mastodon.social/@mortendk/109348861433920062",
+			"author": {
+				"name": "mortendk 🤘",
+				"url": "https://mastodon.social/@mortendk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/928/403/663/151/original/6450f1e46c459ae0.jpg"
+			},
+			"date": "2022-11-15T16:53:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ill have a long talk with my boss (read bulldog) and he agrees my freelance shop needs this </p><p>Its probably gonna end with a ton of football (aka soccer for you americans) nerds yelling at instance ... but lets see where it goes next week when they open up again</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109350224575072880",
+			"parentId": "109348521618438719",
+			"url": "https://stereophonic.space/objects/34ec2997-8e5f-45b4-b868-a03665d1f1f2",
+			"author": {
+				"name": "0x1C3B00DA",
+				"url": "https://stereophonic.space/users/0x1C3B00DA",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-15T22:40:09.653Z",
+			"content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://front-end.social/@lonekorean\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lonekorean</span></a></span> It seems like none of the edit indicators are available on other software, though. So not everybody is going to be aware of edits",
+			"via": "fediverse"
+		},
+		{
+			"id": "109350230108477980",
+			"parentId": "109350224575072880",
+			"url": "https://fediverse.zachleat.com/@zachleat/109350230108477980",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-15T22:41:35.159Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stereophonic.space/users/0x1C3B00DA\" class=\"u-url mention\">@<span>0x1C3B00DA</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@lonekorean\" class=\"u-url mention\">@<span>lonekorean</span></a></span> this is likely just a byproduct of having unofficial clients—good clients will add support! 4.0 only just came out!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109350234617800393",
+			"parentId": "109350230108477980",
+			"url": "https://stereophonic.space/objects/74febdc7-a0d4-45a8-94b6-917230d8baab",
+			"author": {
+				"name": "0x1C3B00DA",
+				"url": "https://stereophonic.space/users/0x1C3B00DA",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-15T22:42:42.333Z",
+			"content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://front-end.social/@lonekorean\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lonekorean</span></a></span> Sorry I could have been more clear. I didn't mean clients, I meant servers running other fediverse software",
+			"via": "fediverse"
+		},
+		{
+			"id": "109350252194242884",
+			"parentId": "109350234617800393",
+			"url": "https://fediverse.zachleat.com/@zachleat/109350252194242884",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-15T22:47:12.162Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stereophonic.space/users/0x1C3B00DA\" class=\"u-url mention\">@<span>0x1C3B00DA</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@lonekorean\" class=\"u-url mention\">@<span>lonekorean</span></a></span> oh, hmm!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109350270246566000",
+			"parentId": "109350230108477980",
+			"url": "https://front-end.social/@lonekorean/109350270221197922",
+			"author": {
+				"name": "Will Boyd",
+				"url": "https://front-end.social/@lonekorean",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/336/055/750/724/original/e577b97891570e9e.png"
+			},
+			"date": "2022-11-15T22:51:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> @0x1C3B00DA@stereophonic.space ok this is weird, I'm seeing this (what I'm replying to right now) but have no idea what the context is, I don't see a thread or parent post. haha what is this?</p>",
+			"via": "fediverse"
+		}
+	]
+}

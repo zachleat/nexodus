@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:oeyce4lcxdc5nhksubyuxooi/app.bsky.feed.post/3k66r4vm3ef2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/luhr.co/post/3k66r4vm3ef2z",
+			"author": {
+				"name": "David Luhr",
+				"url": "https://bsky.app/profile/luhr.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:oeyce4lcxdc5nhksubyuxooi/bafkreighnagitxmiaz27w52jtxxyyf4iicwtkkuoyms7ywmrs2hv4eqzlm"
+			},
+			"date": "2023-08-30T15:42:15.338Z",
+			"content": "<p>Great collection! Interesting to reflect onthe major ideas across time.</p>\n<p>Thank you for providing an RSS feed for future additions.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3k673bwysks23",
+			"parentId": "at://did:plc:oeyce4lcxdc5nhksubyuxooi/app.bsky.feed.post/3k66r4vm3ef2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3k673bwysks23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-08-30T18:44:04.313Z",
+			"content": "<p>Thanks David!</p>",
+			"via": "bluesky"
+		}
+	]
+}

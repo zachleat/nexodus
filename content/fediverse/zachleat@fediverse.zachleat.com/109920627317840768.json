@@ -1,0 +1,199 @@
+{
+	"comments": [
+		{
+			"id": "109920633269006512",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109920633269006512",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:22:36.667Z",
+			"content": "<p>Client JavaScript Baselines</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920639548899474",
+			"parentId": "109920633269006512",
+			"url": "https://fediverse.zachleat.com/@zachleat/109920639548899474",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:24:12.490Z",
+			"content": "<p>node_modules Weight (in MB)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920649840237752",
+			"parentId": "109920639548899474",
+			"url": "https://infosec.exchange/@mdh/109920649796855298",
+			"author": {
+				"name": "Mark",
+				"url": "https://infosec.exchange/@mdh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/257/477/810/650/original/430182a3e4d2ebe8.png"
+			},
+			"date": "2023-02-24T16:26:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what’s going on over in Gatsby land. I’ve used entire operating systems with a smaller footprint.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920653160588451",
+			"parentId": "109920639548899474",
+			"url": "https://fediverse.zachleat.com/@zachleat/109920653160588451",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:27:40.187Z",
+			"content": "<p>`npm install` time (in seconds)</p><p>(forcing a clean cache, average of 5 runs)</p><p>Notably, next.js seems to bypass `npm` by vendoring its dependencies (speedier install, without those pesky npm audits)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920654726022826",
+			"parentId": "109920639548899474",
+			"url": "https://mastodon.cc/@jgarber/109920654539940324",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-02-24T16:28:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> gatsby is big-boned zach be kind</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920662161585822",
+			"parentId": "109920653160588451",
+			"url": "https://fediverse.zachleat.com/@zachleat/109920662161585822",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:29:57.531Z",
+			"content": "<p>Hides `npm audit` reports during installation:</p><p>Astro<br />Gatsby<br />Next (via vendoring)</p><p>Shows `npm audit` reports during installation:</p><p>Eleventy<br />Nuxt<br />Remix<br />SvelteKit</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920667845926390",
+			"parentId": "109920662161585822",
+			"url": "https://fediverse.zachleat.com/@zachleat/109920667845926390",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:31:24.273Z",
+			"content": "<p>Telemetry (anonymous data collection on usage) enabled by default (requires opt-out):</p><p>Astro<br />Next.js<br />Gatsby<br />Nuxt</p><p>No known Telemetry or data collection:</p><p>Eleventy<br />Remix<br />SvelteKit</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920675842242212",
+			"parentId": "109920649840237752",
+			"url": "https://fediverse.zachleat.com/@zachleat/109920675842242212",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:33:26.282Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@mdh\" class=\"u-url mention\">@<span>mdh</span></a></span> I kinda knew about Gatsby—Remix was surprising though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920681694400905",
+			"parentId": "109920667845926390",
+			"url": "https://fediverse.zachleat.com/@zachleat/109920681694400905",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:34:55.580Z",
+			"content": "<p>This concludes the Site Generator Review—happy to receive feedback or recommendations on aspects of these tools you’d like to see reviewed for next time!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920742390867397",
+			"parentId": "109920662161585822",
+			"url": "https://piaille.fr/@tbroyer/109920742148813714",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-02-24T16:50:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> How does one hide `npm audit` reports‽ That's a bit scary.</p><p>(fwiw, I don't consider what Next is doing as \"vendoring\", they're apparently rather \"bundling\" everything into a single big JS file through <a href=\"https://github.com/vercel/ncc\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vercel/ncc</span><span class=\"invisible\"></span></a> –not the same as bundledDependencies though–; result is the same though: remove dependencies from the package.json; do Astro and Gatsby do similar things?)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920754079200817",
+			"parentId": "109920742390867397",
+			"url": "https://fediverse.zachleat.com/@zachleat/109920754079200817",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T16:53:20.083Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\">@<span>tbroyer</span></a></span> <a href=\"https://fediverse.zachleat.com/@zachleat/109916510211225665\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/109916510211225665</span></a> has some more context.</p><p>Ah fair point about the definition of vendoring!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920846375074161",
+			"parentId": "109920681694400905",
+			"url": "https://mastodon.social/@chander/109920846332935221",
+			"author": {
+				"name": "chander",
+				"url": "https://mastodon.social/@chander",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/782/906/432/original/a271685ae102da39.png"
+			},
+			"date": "2023-02-24T17:16:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do number of possums in node_modules</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109921765172987194",
+			"parentId": "109920681694400905",
+			"url": "https://fediverse.zachleat.com/@zachleat/109921765172987194",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T21:10:28.151Z",
+			"content": "<p>I should probably cross-post to the blog post that resulted from the above thread!</p><p><a href=\"https://fediverse.zachleat.com/@zachleat/109921346256931088\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/109921346256931088</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109921792578309555",
+			"parentId": "109921765172987194",
+			"url": "https://toot.cafe/@slightlyoff/109921792460310847",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-02-24T21:17:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> would love to see wire sizes for the JS bundles (gzip, not brotli, as not everyone has that yet)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109923461448653097",
+			"parentId": "109921765172987194",
+			"url": "https://mastodon.design/@naiyer/109923461422285739",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2023-02-25T04:21:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Automatic telemetry opt-in is one reason why I have a backlog issue to migrate away from Astro when 11ty launches the ESM support.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:abxkyacjszhjlgba7rsyvfoj/app.bsky.feed.post/3lgyq2n5dd22b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davlin.io/post/3lgyq2n5dd22b",
+			"author": {
+				"name": "patrick",
+				"url": "https://bsky.app/profile/davlin.io",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:abxkyacjszhjlgba7rsyvfoj/bafkreiaevali4v4q2exyauklw5dxksykr7koe4tndozivhdmtuu357jy2y"
+			},
+			"date": "2025-01-31T00:20:06.385Z",
+			"content": "<p>it’s one of those “found this CVE? apply for a job with the CIA!” dev tools advertisements</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgysyskugs22",
+			"parentId": "at://did:plc:abxkyacjszhjlgba7rsyvfoj/app.bsky.feed.post/3lgyq2n5dd22b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgysyskugs22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-31T01:12:46.192Z",
+			"content": "<p>I…&nbsp;don’t believe it 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ejwqz3dn4ggqgg3iahlbeczp/app.bsky.feed.post/3lgyvohhqz22u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/madidier.fr/post/3lgyvohhqz22u",
+			"private": true,
+			"date": "2025-01-31T02:00:40.237Z",
+			"via": "bluesky"
+		}
+	]
+}

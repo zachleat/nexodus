@@ -1,0 +1,160 @@
+{
+	"comments": [
+		{
+			"id": "111324250553346073",
+			"parentId": 0,
+			"url": "https://social.lol/@robb/111324250517976084",
+			"author": {
+				"name": "Robb Knightmare",
+				"url": "https://social.lol/@robb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/140/852/436/591/original/6dcfe56e107ff191.jpg"
+			},
+			"date": "2023-10-30T13:40:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve been using this for a while and it looks fantastic <a href=\"https://echo.rknight.me\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">echo.rknight.me</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324261312026000",
+			"parentId": "111324250553346073",
+			"url": "https://fediverse.zachleat.com/@zachleat/111324261312026000",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-30T13:43:40.899Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@robb\" class=\"u-url mention\">@<span>robb</span></a></span> Awesome! I’ll link that from the blog post!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324435111372542",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@fantinel/111324435071410736",
+			"author": {
+				"name": "Matt Fantinel",
+				"url": "https://hachyderm.io/@fantinel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/616/574/646/179/864/original/29bd09c8b97b4f80.png"
+			},
+			"date": "2023-10-30T14:27:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you mentioned it works with JavaScript, but not in web component form, right? With JS disabled it doesn't load anything, unfortunately. That's the main thing stopping me from going all-in on web components right now, and I'm not sure if it's “fixable”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324485501355758",
+			"parentId": "111324435111372542",
+			"url": "https://fediverse.zachleat.com/@zachleat/111324485501355758",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-30T14:40:41.757Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@fantinel\" class=\"u-url mention\">@<span>fantinel</span></a></span> a couple of muddled terms there, but this is what it looks like on the demo without JS (it just shows the content).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324533095261409",
+			"parentId": 0,
+			"url": "https://front-end.social/@eeeps/111324533040849425",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-10-30T14:52:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> First I read this as \"Squirm–I Am Not A Lawyer\" but now I see my mistake, it's actually a portmanteau of \"Squirm Criminal\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324537612951400",
+			"parentId": "111324485501355758",
+			"url": "https://hachyderm.io/@fantinel/111324537557910325",
+			"author": {
+				"name": "Matt Fantinel",
+				"url": "https://hachyderm.io/@fantinel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/616/574/646/179/864/original/29bd09c8b97b4f80.png"
+			},
+			"date": "2023-10-30T14:53:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh sweet! I think I had opened the \"Queued Code\" page instead 🤦‍♂️</p><p>This is nice! Am I right in assuming that the web component isn't loading at all and is just behaving like a container div?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324543340512286",
+			"parentId": "111324537612951400",
+			"url": "https://fediverse.zachleat.com/@zachleat/111324543340512286",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-30T14:55:24.313Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@fantinel\" class=\"u-url mention\">@<span>fantinel</span></a></span> correct!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324551940840604",
+			"parentId": "111324537612951400",
+			"url": "https://fediverse.zachleat.com/@zachleat/111324551940840604",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-30T14:57:35.543Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@fantinel\" class=\"u-url mention\">@<span>fantinel</span></a></span> you’re right that the queuecode demo doesn’t work without JS 😭—although I think that’s a bug and not a technical limitation</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324555883370194",
+			"parentId": "111324533095261409",
+			"url": "https://fediverse.zachleat.com/@zachleat/111324555883370194",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-30T14:58:35.700Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> 1337 h4x0rs commit smooth criminal terminal crimes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324592985223763",
+			"parentId": "111324555883370194",
+			"url": "https://front-end.social/@eeeps/111324592932195804",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-10-30T15:08:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>You've been `banner`ed<br>You've been `cowsay`ed <br>By a squirmy terminal</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324610770704195",
+			"parentId": "111324592985223763",
+			"url": "https://fediverse.zachleat.com/@zachleat/111324610770704195",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-30T15:12:33.216Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> this will be in my head all day now thank you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111325107572179599",
+			"parentId": "111324551940840604",
+			"url": "https://hachyderm.io/@fantinel/111325107536438825",
+			"author": {
+				"name": "Matt Fantinel",
+				"url": "https://hachyderm.io/@fantinel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/616/574/646/179/864/original/29bd09c8b97b4f80.png"
+			},
+			"date": "2023-10-30T17:18:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> whatever it was, seems you fixed it! 🎉</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "109382957276446846",
+			"parentId": 0,
+			"url": "https://indieweb.social/@zero_gravitas/109382956892499074",
+			"author": {
+				"name": "Bryan Schuetz",
+				"url": "https://indieweb.social/@zero_gravitas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/320/397/601/380/952/original/fc2e1b42181d00fd.png"
+			},
+			"date": "2022-11-21T17:24:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is awesome. Now can you build something that will preserve all the t.co shortened links that will disappear when the whole thing goes whale-up?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109382960399263978",
+			"parentId": "109382957276446846",
+			"url": "https://fediverse.zachleat.com/@zachleat/109382960399263978",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T17:25:19.762Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@zero_gravitas\" class=\"u-url mention\">@<span>zero_gravitas</span></a></span> tweetback archives will get rid of t.co links in your content when they build! 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109382964504303518",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@skinnylatte/109382960584991424",
+			"author": {
+				"name": "Adrianna Tan",
+				"url": "https://hachyderm.io/@skinnylatte",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/362/552/194/913/575/original/e996db4d19e23491.png"
+			},
+			"date": "2022-11-21T17:25:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks for doing this. Zach. I was planning to learn 11ty (mostly Hugo at the moment) to put together my archives so this is most helpful</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109382970915369052",
+			"parentId": "109382964504303518",
+			"url": "https://fediverse.zachleat.com/@zachleat/109382970915369052",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T17:28:00.225Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@skinnylatte\" class=\"u-url mention\">@<span>skinnylatte</span></a></span> yeah! Stay tuned! We will have a starter project here for this in a bit!</p><p><a href=\"https://fosstodon.org/@eleventy/109379173289876463\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@eleventy/109379</span><span class=\"invisible\">173289876463</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109382978271136541",
+			"parentId": "109382960399263978",
+			"url": "https://indieweb.social/@zero_gravitas/109382978167426296",
+			"author": {
+				"name": "Bryan Schuetz",
+				"url": "https://indieweb.social/@zero_gravitas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/320/397/601/380/952/original/fc2e1b42181d00fd.png"
+			},
+			"date": "2022-11-21T17:29:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🤩</p>",
+			"via": "fediverse"
+		}
+	]
+}

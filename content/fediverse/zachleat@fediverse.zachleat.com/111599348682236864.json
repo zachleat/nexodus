@@ -1,0 +1,116 @@
+{
+	"comments": [
+		{
+			"id": "111601811596483259",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111601811596483259",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T14:08:22.141Z",
+			"content": "<p>Am I done with this thread? Apparently not. 😅</p><p>Here’s what an intellectually honest version of the Netlify State of the Web chart looks like (and this one doesn’t obscure Gatsby)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601919596758966",
+			"parentId": "111601811596483259",
+			"url": "https://mastodon.social/@scrwd/111601919559887244",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-12-18T14:35:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's hard to see what argument is the best to convince enterprise away from Next.js :/</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601928711988482",
+			"parentId": "111601919596758966",
+			"url": "https://fediverse.zachleat.com/@zachleat/111601928711988482",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T14:38:09.184Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\">@<span>scrwd</span></a></span> enterprises are often the slowest movers in the space, the ever given still obstructing the suez canal 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602335104360785",
+			"parentId": "111601919596758966",
+			"url": "https://fediverse.zachleat.com/@zachleat/111602335104360785",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T16:21:30.240Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\">@<span>scrwd</span></a></span> one more thought here: the best evidence is *Gatsby* and the very risky, tenuous relationship that frameworks have with VC investment. Enterprises hate risk—and not even Next’s success can survive the end of the runway</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602414293759885",
+			"parentId": "111601811596483259",
+			"url": "https://social.ericwbailey.website/@eric/111602414274608275",
+			"private": true,
+			"date": "2023-12-18T16:41:38.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602421400671765",
+			"parentId": "111601811596483259",
+			"url": "https://mas.to/@nmoo/111602421322194691",
+			"author": {
+				"name": "nate",
+				"url": "https://mas.to/@nmoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/195/614/148/293/original/d5e5c7732ffbde1c.jpg"
+			},
+			"date": "2023-12-18T16:43:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The fact that the original report didn't even include a chart like this is wild. Year-to-year growth is a very different metric than overall usage/satisfaction. Younger projects will inherently see more initial growth. A more objective framing would have contextualized the original chart against the absolute numbers.</p><p>I'm sorry folks are drawing the wrong conclusions about Eleventy from the report. This isn't a competition—framework monoculture is *always* bad for the web.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602453273019402",
+			"parentId": "111602421400671765",
+			"url": "https://fediverse.zachleat.com/@zachleat/111602453273019402",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T16:51:33.351Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@nmoo\" class=\"u-url mention\">@<span>nmoo</span></a></span> Page 10 (of 13) of the primary report had the original chart (alone). The second chart showing absolute numbers for sentiment was buried in the appendices on Page 32 (of 39).</p><p>(And I *really* appreciate you for saying this)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602621529293792",
+			"parentId": "111602453273019402",
+			"url": "https://mas.to/@nmoo/111602621483114923",
+			"author": {
+				"name": "nate",
+				"url": "https://mas.to/@nmoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/195/614/148/293/original/d5e5c7732ffbde1c.jpg"
+			},
+			"date": "2023-12-18T17:34:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah yes, internet users famously love to check page 32 of the appendices before drawing conclusions!</p><p>Of course man. Not a fight I'm interested in fighting and not a narrative I feel the need to participate in ✊</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111604775707116988",
+			"parentId": "111601811596483259",
+			"url": "https://front-end.social/@AmeliaBR/111604775670440566",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2023-12-19T02:42:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh yeah, that's a very different story. Showing only annual % change in a popularity contest is very unusual choice indeed.</p><p>If they wanted to show change while also respecting actual values, each of those bubbles in your chart could have a tail extending from last year's position.</p>",
+			"via": "fediverse"
+		}
+	]
+}

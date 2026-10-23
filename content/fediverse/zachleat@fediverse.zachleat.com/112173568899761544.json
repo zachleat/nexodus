@@ -1,0 +1,241 @@
+{
+	"comments": [
+		{
+			"id": "112173579299545826",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112173579299545826",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-28T13:36:24.918Z",
+			"content": "<p>(HT <span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.ericwbailey.website/@eric\" class=\"u-url mention\">@<span>eric</span></a></span>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173659930586201",
+			"parentId": 0,
+			"url": "https://mastodon.social/@oguching/112173659902234988",
+			"author": {
+				"name": "oguching",
+				"url": "https://mastodon.social/@oguching",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/408/768/954/003/413/original/27bd733aa6b93a07.png"
+			},
+			"date": "2024-03-28T13:56:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is my exact phone model.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173677890578465",
+			"parentId": "112173579299545826",
+			"url": "https://social.ericwbailey.website/@eric/112173677870629768",
+			"private": true,
+			"date": "2024-03-28T14:01:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173695314096085",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/112173695127242362",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-28T14:05:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> developers and software publishers need to realize that everyone don't have high end, multicore, 5nm cpu with 32gb RAM.</p><p>This thing -&gt; <a href=\"https://upstash.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">upstash.com/</span><span class=\"invisible\"></span></a> for example consumes 50mb heap on startup, for displaying a \"static\" landing page 😭😭😭 (I believe a vast amount of this insane memory consumption is caused by telemetry, session replay and other sneaky stuffs that companies shouldn't do)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173716126123999",
+			"parentId": "112173695314096085",
+			"url": "https://mastodon.social/@nrk9819/112173716094843937",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-28T14:11:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not entirely related to the article, but I believe, developer tools should also focus on reducing size and compute overhead. </p><p>Going by <a href=\"https://www.11ty.dev/docs/performance/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/performance/</span><span class=\"invisible\"></span></a> , 11ty have like 34mb of node_module while gatsby (biggest piece of horseshit I've ever used 🤮🤮) have half a gb for the same.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173726607363659",
+			"parentId": "112173677890578465",
+			"url": "https://fediverse.zachleat.com/@zachleat/112173726607363659",
+			"private": true,
+			"date": "2024-03-28T14:13:52.657Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173739257658818",
+			"parentId": 0,
+			"url": "https://social.coop/@eb/112173738824854803",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2024-03-28T14:16:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ok Tom</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173750511200941",
+			"parentId": "112173739257658818",
+			"url": "https://social.coop/@eb/112173747857283066",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2024-03-28T14:19:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And they wonder why I use an adblocker</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173792149902609",
+			"parentId": "112173739257658818",
+			"url": "https://fediverse.zachleat.com/@zachleat/112173792149902609",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-28T14:30:32.756Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@eb\" class=\"u-url mention\">@<span>eb</span></a></span> oh my god</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173796392761427",
+			"parentId": "112173792149902609",
+			"url": "https://social.coop/@eb/112173796330986363",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2024-03-28T14:31:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> me obsessing over 1kb and then Tom’s Guide is out here like:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112173853366498656",
+			"parentId": 0,
+			"url": "https://chaos.social/@lexLohr/112173853332026875",
+			"author": {
+				"name": "Alex Lohr (RIP Natenom)",
+				"url": "https://chaos.social/@lexLohr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/330/724/126/125/304/original/714e1989a9748224.jpg"
+			},
+			"date": "2024-03-28T14:46:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The web itself is fast. Ads and their tracking, unnecessary feature cruft, frameworks needlessly throwing objects around and trying to take more control of the DOM than necessary and a lack of deferred loading strategy make it slow.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112174005523897326",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@JackEvans/112174005338584166",
+			"author": {
+				"name": "Jack Evans",
+				"url": "https://fosstodon.org/@JackEvans",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/174/005/393/921/985/original/3578cbde277aab20.jpg"
+			},
+			"date": "2024-03-28T15:24:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We've collectively completely failed as an industry</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112174055262514339",
+			"parentId": "112174005523897326",
+			"url": "https://fediverse.zachleat.com/@zachleat/112174055262514339",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-28T15:37:27.536Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@JackEvans\" class=\"u-url mention\">@<span>JackEvans</span></a></span> Failure is temporary as we move away from tools that have proven to be less than ideal—I remain optimistic!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112174227913048430",
+			"parentId": "112173716126123999",
+			"url": "https://indieweb.social/@alannorbauer/112174227897024455",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-28T16:21:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nrk9819</span></a></span> Looking at node_modules size is a silly measure of bloat. Adding a great build tool like esbuild as a dependency, for example, downloads native binaries for every platform and so is huge. Does that mean using esbuild is bad and your project is bloated?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112174308524321674",
+			"parentId": "112174227913048430",
+			"url": "https://fediverse.zachleat.com/@zachleat/112174308524321674",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-28T16:41:52.005Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\">@<span>alannorbauer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> I would acknowledge that the original post (on front-end performance) does not strictly relate to node_modules size, installation, or build performance.</p><p>I would argue that node_modules size is worth measuring!</p><p>As to whether “software bloat” extends to your dependencies, I would also argue that it does! More dependencies, more maintenance.</p><p>I’m assuming there is a relationship between dependency count and file size, here. Maybe not with esbuild, but generally.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112174333292205978",
+			"parentId": "112174308524321674",
+			"url": "https://indieweb.social/@alannorbauer/112174333212324121",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-28T16:48:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nrk9819</span></a></span> Agreed, so let me reword what I said:</p><p>*Only* looking at node_module size is a silly measure of bloat. (Because the entirety of it might be something like native binaries for multiple platforms).</p><p>34MB could be 1000 terrible dependencies. 500MB could be one great dependency. The size, entirely on its own, is only a hint and it’s super silly to dunk on a package for that alone.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112174367711457282",
+			"parentId": "112174333292205978",
+			"url": "https://fediverse.zachleat.com/@zachleat/112174367711457282",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-28T16:56:55.131Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\">@<span>alannorbauer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> that might be true!</p><p>My hunch is that those are outliers and not typical—but maybe!</p><p>Someone should do a <a href=\"https://github.com/wooorm/npm-esm-vs-cjs\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wooorm/npm-esm-vs-c</span><span class=\"invisible\">js</span></a> -style analysis but for dependency count versus file size! 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112175053041841881",
+			"parentId": "112174367711457282",
+			"url": "https://indieweb.social/@alannorbauer/112175053027351045",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-28T19:51:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nrk9819</span></a></span> Surely. But the existence of outliers tells us node_modules size is (at most) correlational with good build speeds and small output bundles. It is not causal.</p><p>Meanwhile, web page payload size has a *causal* relationship with performance.</p><p>The distinction is important if this isn’t to be some silly aesthetic preference, which I suspect for some people it is.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112175144509952147",
+			"parentId": "112175053041841881",
+			"url": "https://fediverse.zachleat.com/@zachleat/112175144509952147",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-28T20:14:28.133Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\">@<span>alannorbauer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> ah hmm—well, this doesn’t fit my experience. It doesn’t seem to fit the example cited in <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span>’s original post either?</p><p>Either way I’m fine with disagreeing on a thing (and I’ve hit my text reply limit here)—appreciate the discussion!</p><p>(Though I suspect we agree more than this discussion might suggest!)</p>",
+			"via": "fediverse"
+		}
+	]
+}

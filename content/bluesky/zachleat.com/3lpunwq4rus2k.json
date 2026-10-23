@@ -1,0 +1,238 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lpuqdsbtlc2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lpuqdsbtlc2r",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-23T23:01:19.464Z",
+			"content": "<p>I don't think anyone has come up with a good abstraction on top of CSS. It is quite lean.</p>\n<p>But after having used <a href=\"https://bsky.app/profile/did:plc:7ejrm5tqite4kcm5vqr7t5ci\">@nordcraft.com</a> for the last couple of years, the thought of building UI in a text editor feels very backwards.</p>\n<p>Best analogy I can come up with would be turning off hot reload.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lpuvog5uo22l",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lpuqdsbtlc2r",
+			"url": "https://bsky.app/profile/serafini.dev/post/3lpuvog5uo22l",
+			"author": {
+				"name": "Mariano",
+				"url": "https://bsky.app/profile/serafini.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fs7olgbupkidoz6coqvstjpu/bafkreigqfexbvk4ahtlc4c5uss5hzaaihefmhhw5vowkfnxuonacujgwdq"
+			},
+			"date": "2025-05-24T00:36:44.560Z",
+			"content": "<p>I like nordcraft, but live reload of css has been there before 2016 right? on a local machine it's the same feedback loop. the argument is about learning an arbitrary text convention vs an rabitrary visual convention right? they can both be great for different people at different times</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpux3vw7v226",
+			"parentId": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lpuvog5uo22l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpux3vw7v226",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-24T01:02:11.037Z",
+			"content": "<p>I’d be fine leaving this at preference (I haven’t used nordcraft, fwiw!) and I think there is an overlap with a devtools-esque DX as long as the tool iterates quickly enough to adopt new standards, especially with how fast CSS has been moving! I’d be curious if it has @layer support, for example</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lpuxr5o7ec2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpux3vw7v226",
+			"url": "https://bsky.app/profile/serafini.dev/post/3lpuxr5o7ec2w",
+			"author": {
+				"name": "Mariano",
+				"url": "https://bsky.app/profile/serafini.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fs7olgbupkidoz6coqvstjpu/bafkreigqfexbvk4ahtlc4c5uss5hzaaihefmhhw5vowkfnxuonacujgwdq"
+			},
+			"date": "2025-05-24T01:14:03.805Z",
+			"content": "<p>definetly uses @layer in the generated website</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lpvjad7xec2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpux3vw7v226",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lpvjad7xec2m",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-24T06:26:46.558Z",
+			"content": "<p>In Nordcraft you define the styles for each element so there isn’t much use for @ layer since you are not dealing with the cascade</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lpvjg63xpk2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpux3vw7v226",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lpvjg63xpk2m",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-24T06:30:02.511Z",
+			"content": "<p>If we don’t support a property in the style panel yet, you can still add it in the css view so we are not stopping you from using any of the new properties</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jv3exhcufdijxkx7l5evdrd6/app.bsky.feed.post/3lpvw3yk7tc2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/aurelienrichard.com/post/3lpvw3yk7tc2c",
+			"author": {
+				"name": "Aurélien",
+				"url": "https://bsky.app/profile/aurelienrichard.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jv3exhcufdijxkx7l5evdrd6/bafkreihfhm7opxmiismywcn6dtkjolvilgcig63iyjqnoztardgllojyii"
+			},
+			"date": "2025-05-24T10:16:59.785Z",
+			"content": "<p>I guess that's debatable, but I don't think Tailwind is an abstraction of CSS since knowledge of CSS is necessary for proper use. If anything, it's a low-level abstraction.<br>\nRegardless, it's kind of wild seeing it mentioned alongside website builders as if they're comparable.</p>\n<p>That aside, I agree.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq2p56tom22v",
+			"parentId": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lpuvog5uo22l",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lq2p56tom22v",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-26T07:55:42.439Z",
+			"content": "<p>For me the biggest benefit of <a href=\"https://bsky.app/profile/did:plc:7ejrm5tqite4kcm5vqr7t5ci\">@nordcraft.com</a> has nothing to do with wether you have to learning code.</p>\n<p>It is about creating a more powerful editing experience with a tighter feedback loop.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq2p57nmok2v",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq2p56tom22v",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lq2p57nmok2v",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-26T07:55:42.440Z",
+			"content": "<p>Before live reload you had to manually refresh the browser to see your changes.</p>\n<p>Live reload made you more productive by shortening that cycle.</p>\n<p><a href=\"https://bsky.app/profile/did:plc:7ejrm5tqite4kcm5vqr7t5ci\">@nordcraft.com</a> does the same again by having your site right in front of you and letting you update it in real time.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lq37lfptcc2z",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq2p57nmok2v",
+			"url": "https://bsky.app/profile/serafini.dev/post/3lq37lfptcc2z",
+			"author": {
+				"name": "Mariano",
+				"url": "https://bsky.app/profile/serafini.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fs7olgbupkidoz6coqvstjpu/bafkreigqfexbvk4ahtlc4c5uss5hzaaihefmhhw5vowkfnxuonacujgwdq"
+			},
+			"date": "2025-05-26T12:49:59.286Z",
+			"content": "<p>that's what I am saying: since live reload of css you can have your website in your local environment and see the changes in realtime by having the editor side by side with the browser.<br>\nI think nordcraft value is more about having the visual interface that enables people who prefer that over text</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq3hcnzgmc2v",
+			"parentId": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lq37lfptcc2z",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lq3hcnzgmc2v",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-26T15:08:15.933Z",
+			"content": "<p>I think different people will have different features that they respond more to.</p>\n<p>For me the problem was never writing code, the main thing I like like is the instant feedback.</p>\n<p>Live reload is pretty fast (for smaller projects) but when you get to 60 fps it is a completely different experience.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq3hjmeags2v",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq3hcnzgmc2v",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lq3hjmeags2v",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-26T15:12:09.071Z",
+			"content": "<p>Especially when you are doing fine work like getting a gradient just right</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lq3iexwkes2f",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lq3hcnzgmc2v",
+			"url": "https://bsky.app/profile/serafini.dev/post/3lq3iexwkes2f",
+			"author": {
+				"name": "Mariano",
+				"url": "https://bsky.app/profile/serafini.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fs7olgbupkidoz6coqvstjpu/bafkreigqfexbvk4ahtlc4c5uss5hzaaihefmhhw5vowkfnxuonacujgwdq"
+			},
+			"date": "2025-05-26T15:27:27.174Z",
+			"content": "<p>I get now what you mean. I was thinking to the feedback speed alone, while you have fast feedbak plus a reactive interface to edit. of course you don't have that when coding directly (unless there are editor extension and autosave on keystroke and it would be messy)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqadbru77k2n",
+			"parentId": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lpuxr5o7ec2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqadbru77k2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T13:39:30.127Z",
+			"content": "<p>hmm, is that runtime CSS-in-JS 👀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lqawc6lwgc2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqadbru77k2n",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lqawc6lwgc2h",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-28T19:19:44.581Z",
+			"content": "<p>Its server side</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqawkomgek2w",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lqawc6lwgc2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqawkomgek2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T19:24:29.811Z",
+			"content": "<p>great! 🏆</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lqaxzws62c2h",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lqawc6lwgc2h",
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3lqaxzws62c2h",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2025-05-28T19:50:55.446Z",
+			"content": "<p>Though I think that screen shot is from the editor</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fs7olgbupkidoz6coqvstjpu/app.bsky.feed.post/3lqb5dechzk23",
+			"parentId": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3lqaxzws62c2h",
+			"url": "https://bsky.app/profile/serafini.dev/post/3lqb5dechzk23",
+			"author": {
+				"name": "Mariano",
+				"url": "https://bsky.app/profile/serafini.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fs7olgbupkidoz6coqvstjpu/bafkreigqfexbvk4ahtlc4c5uss5hzaaihefmhhw5vowkfnxuonacujgwdq"
+			},
+			"date": "2025-05-28T21:25:40.310Z",
+			"content": "<p>chrome dev tools on a preview page. I just searched for \"layer\" in the source panel 🙃<br>\nbut of course the css is there straight from the server already.<br>\nI like the stuff nordcraft does on the server, some of it is still underrated 😀</p>",
+			"via": "bluesky"
+		}
+	]
+}

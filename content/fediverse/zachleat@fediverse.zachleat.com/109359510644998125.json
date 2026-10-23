@@ -1,0 +1,709 @@
+{
+	"comments": [
+		{
+			"id": "109359526497629393",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@VincentTunru/109359525286129033",
+			"private": true,
+			"date": "2022-11-17T14:05:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359562697714538",
+			"parentId": 0,
+			"url": "https://mastodon.online/@samhenrigold/109359560291628659",
+			"author": {
+				"name": "Sam Henri Gold",
+				"url": "https://mastodon.online/@samhenrigold",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/260/037/973/original/ac65e135ed6637dc.gif"
+			},
+			"date": "2022-11-17T14:14:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m still unreasonably proud of getting samhenri.gold. hands down my proudest achievement</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359568260573079",
+			"parentId": "109359526497629393",
+			"url": "https://mastodon.social/@autiomaa/109359567879499971",
+			"private": true,
+			"date": "2022-11-17T14:16:18.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359577884941584",
+			"parentId": "109359526497629393",
+			"url": "https://mastodon.social/@Edent/109359577596925784",
+			"private": true,
+			"date": "2022-11-17T14:18:46.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359590194078178",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jed/109359590161976812",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2022-11-17T14:21:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> am i dreaming or did you make a twitter archive to eleventy thing recently?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359633821839585",
+			"parentId": "109359590194078178",
+			"url": "https://fediverse.zachleat.com/@zachleat/109359633821839585",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-17T14:33:04.443Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> I have made this!</p><p><a href=\"https://www.zachleat.com/twitter/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/twitter/</span><span class=\"invisible\"></span></a></p><p>Deep link to instructions for a bare bones version of it here: <a href=\"https://www.youtube.com/watch?v=X3SrZuH00GQ&amp;t=1092s\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=X3SrZuH00G</span><span class=\"invisible\">Q&amp;t=1092s</span></a> </p><p>And a blog post 😅 <a href=\"https://www.zachleat.com/web/own-my-tweets/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/own-my-tweets/</span><span class=\"invisible\"></span></a></p><p>I also pledged to open source it with the help of <span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> (and co) to  <a href=\"https://github.com/tweetback\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tweetback</span><span class=\"invisible\"></span></a> (still pending, sorry Nicolas!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359642772943214",
+			"parentId": "109359568260573079",
+			"url": "https://fediverse.zachleat.com/@zachleat/109359642772943214",
+			"private": true,
+			"date": "2022-11-17T14:35:21.020Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359644172818540",
+			"parentId": "109359562697714538",
+			"url": "https://fediverse.zachleat.com/@zachleat/109359644172818540",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-17T14:35:42.381Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@samhenrigold\" class=\"u-url mention\">@<span>samhenrigold</span></a></span> it is an accomplishment! Well done!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359650759456102",
+			"parentId": "109359633821839585",
+			"url": "https://mamot.fr/@nhoizey/109359650667554518",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-17T14:37:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no problem!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359703137688318",
+			"parentId": "109359633821839585",
+			"url": "https://mas.to/@j9t/109359682251588454",
+			"author": {
+				"name": "Jens Oliver Meiert",
+				"url": "https://mas.to/@j9t",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/674/420/438/987/original/1b6a7ffef62b149e.png"
+			},
+			"date": "2022-11-17T14:45:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jed</span></a></span>, <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span>, I ❤️ and share the sentiment to “fully expect my personal website to outlive Twitter” 🤝</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359706116142791",
+			"parentId": "109359642772943214",
+			"url": "https://mastodon.social/@autiomaa/109359705945251094",
+			"private": true,
+			"date": "2022-11-17T14:51:24.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359718223042624",
+			"parentId": 0,
+			"url": "https://snabelen.no/@jonstodle/109359717993533513",
+			"author": {
+				"name": "Jon G Stødle",
+				"url": "https://snabelen.no/@jonstodle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/774/395/330/223/original/e52e6ccb682c14e4.jpeg"
+			},
+			"date": "2022-11-17T14:54:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://mystaticpage.com/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mystaticpage.com/</span><span class=\"invisible\"></span></a> gives you a kickstart</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359907135318851",
+			"parentId": 0,
+			"url": "https://noagendasocial.com/@vandys/109359734235523747",
+			"author": {
+				"name": "Andy Valencia",
+				"url": "https://noagendasocial.com/@vandys",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-17T14:58:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great advice, but what's the Reader-level disruption on the horizon?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359754220520283",
+			"parentId": 0,
+			"url": "https://med-mastodon.com/@WayneLiangMD/109359736162863269",
+			"author": {
+				"name": "Wayne Liang, MD MS FAMIA",
+				"url": "https://med-mastodon.com/@WayneLiangMD",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-17T14:59:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh <a href=\"https://med-mastodon.com/tags/GoogleReader\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>GoogleReader</span></a> how I miss thee</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359843034478432",
+			"parentId": 0,
+			"url": "https://mas.to/@gvelez17/109359740233116776",
+			"author": {
+				"name": "Golda",
+				"url": "https://mas.to/@gvelez17",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-17T15:00:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> back in 2005 i couldn't understand why people were giving away so much valuable content to ad-run platforms.  The key was the social interaction, I think, as well as the ease of it</p><p>I guess now is a good time to work on /look for good ActivityPub plugins to everything 🙂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359806501488491",
+			"parentId": 0,
+			"url": "https://dobbs.town/@RevXenoFact/109359806338578611",
+			"author": {
+				"name": "Xenofact (he/him):jrbd:",
+				"url": "https://dobbs.town/@RevXenoFact",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-17T15:16:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> As I've told people you can:<br>1) Get a domain name.  Be sure to auto-renew.<br>2) Point it at existing social media to start.<br>3) Get a Linktree.  Direct to that.<br>4) Then set up a blog or cheap web page.<br>5) Customize that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359842304457391",
+			"parentId": 0,
+			"url": "https://mastodon.social/@saltajose/109359842154035281",
+			"author": {
+				"name": "saltajose",
+				"url": "https://mastodon.social/@saltajose",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-17T15:26:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's so time consuming for the average dude, unfortunately...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359850254920473",
+			"parentId": 0,
+			"url": "https://indieweb.social/@zein/109359849524147332",
+			"author": {
+				"name": "Zein",
+				"url": "https://indieweb.social/@zein",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-17T15:27:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm in the process of doing all of this right now.  It's almost like the early years before Big Social homogenized everything... for the worse.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359851807062706",
+			"parentId": "109359842304457391",
+			"url": "https://fediverse.zachleat.com/@zachleat/109359851807062706",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-17T15:28:30.633Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@saltajose\" class=\"u-url mention\">@<span>saltajose</span></a></span> I cannot resist plugging this lovely workflow from my employer 😅 <a href=\"https://app.netlify.com/drop\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">app.netlify.com/drop</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109359854408105774",
+			"parentId": "109359843034478432",
+			"url": "https://fediverse.zachleat.com/@zachleat/109359854408105774",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-17T15:29:10.316Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@gvelez17\" class=\"u-url mention\">@<span>gvelez17</span></a></span> yesssssss</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109360216425033956",
+			"parentId": "109359907135318851",
+			"url": "https://fediverse.zachleat.com/@zachleat/109360216425033956",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-17T17:01:14.261Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://noagendasocial.com/@vandys\" class=\"u-url mention\">@<span>vandys</span></a></span> the twitter migration 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109360267587572063",
+			"parentId": 0,
+			"url": "https://fediverse.catgirlin.space/objects/bcdb29b6-d240-41e2-92ca-399a05ae80a4",
+			"author": {
+				"name": "nicole",
+				"url": "https://fediverse.catgirlin.space/users/catgirl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/131/901/095/806/original/74e4e31b8d7c700c.jpg"
+			},
+			"date": "2022-11-17T17:14:09.999Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i really love my domain name. it sounds so cute.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109360271700892526",
+			"parentId": "109360267587572063",
+			"url": "https://fediverse.zachleat.com/@zachleat/109360271700892526",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-17T17:15:17.699Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.catgirlin.space/users/catgirl\" class=\"u-url mention\">@<span>catgirl</span></a></span> makes me wonder if tabversus.space is available 😇</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109360449269371605",
+			"parentId": "109360271700892526",
+			"url": "https://fediverse.catgirlin.space/objects/d2a27321-8fc7-4044-8621-83ffb26757a4",
+			"author": {
+				"name": "nicole",
+				"url": "https://fediverse.catgirlin.space/users/catgirl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/131/901/095/806/original/74e4e31b8d7c700c.jpg"
+			},
+			"date": "2022-11-17T18:00:08.613Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it is!! u should get it maybe</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109360500459481779",
+			"parentId": "109359577884941584",
+			"url": "https://scicomm.xyz/@JonasHeidelberg/109360500251810031",
+			"private": true,
+			"date": "2022-11-17T18:13:25.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109360544956808188",
+			"parentId": 0,
+			"url": "https://mastodon.online/@Birgitta/109360544835894467",
+			"author": {
+				"name": "Birgitta Jonsdottir 🎇",
+				"url": "https://mastodon.online/@Birgitta",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/360/536/847/687/320/original/d168fa11992a1ca6.png"
+			},
+			"date": "2022-11-17T18:24:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> old school surfing back on :) I remember those first connections I had with fellow web creators back in the day. We didn’t have Facebook but guestbooks. Still have friends from those days.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109360706874340387",
+			"parentId": "109360544956808188",
+			"url": "https://fediverse.zachleat.com/@zachleat/109360706874340387",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-17T19:05:57.925Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@Birgitta\" class=\"u-url mention\">@<span>Birgitta</span></a></span> Awesome! Yeah, same! The web community is special</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109361195441393917",
+			"parentId": "109359577884941584",
+			"url": "https://mastodon.social/@PavelASamsonov/109361195351959255",
+			"private": true,
+			"date": "2022-11-17T21:10:11.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109361199713038098",
+			"parentId": "109361195441393917",
+			"url": "https://mementomori.social/@rolle/109361199635555870",
+			"private": true,
+			"date": "2022-11-17T21:11:16.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109361593400090065",
+			"parentId": "109360706874340387",
+			"url": "https://mastodon.online/@Birgitta/109361593332192266",
+			"author": {
+				"name": "Birgitta Jonsdottir 🎇",
+				"url": "https://mastodon.online/@Birgitta",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/360/536/847/687/320/original/d168fa11992a1ca6.png"
+			},
+			"date": "2022-11-17T22:51:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> maybe I should invest some energy in my website:) i used to make those for a living a long time ago. I did feel more in control over it when it was coding via notepad and the aim was clean code :) maybe back to simpler has its value?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109362177877592073",
+			"parentId": "109361593400090065",
+			"url": "https://fediverse.zachleat.com/@zachleat/109362177877592073",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-18T01:20:03.648Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@Birgitta\" class=\"u-url mention\">@<span>Birgitta</span></a></span> yeah!! Start simple!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109364751592161704",
+			"parentId": "109361195441393917",
+			"url": "https://framapiaf.org/@e_jambon/109364751186101205",
+			"private": true,
+			"date": "2022-11-18T12:14:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109523905833612136",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@grumpasaurus/109523905793322062",
+			"author": {
+				"name": "Allan Chow",
+				"url": "https://fosstodon.org/@grumpasaurus",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T14:49:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wait is this web1 or is this web2.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109523913540197808",
+			"parentId": "109523905833612136",
+			"url": "https://fediverse.zachleat.com/@zachleat/109523913540197808",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T14:51:34.007Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@grumpasaurus\" class=\"u-url mention\">@<span>grumpasaurus</span></a></span> yes</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109523939716209659",
+			"parentId": 0,
+			"url": "https://mk.absturztau.be/notes/98u78tgt2d",
+			"author": {
+				"name": "aoikurayami@mk.absturztau.be",
+				"url": "https://mk.absturztau.be/@aoikurayami",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T14:58:09.581Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@zachleat@fediverse.zachleat.com</a></span><span> <br><br></span><i><span>sob</span></i><span><br><br>GR rip</span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524054571037940",
+			"parentId": 0,
+			"url": "https://furry.engineer/@huxley/109524054536589691",
+			"author": {
+				"name": "huxley(fur)",
+				"url": "https://furry.engineer/@huxley",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T15:27:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And a linktree is not enough! 100% agree that everyone should own a domain. 10$/year is within reach for the people who care about these things.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524075226846605",
+			"parentId": "109524054571037940",
+			"url": "https://fediverse.zachleat.com/@zachleat/109524075226846605",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T15:32:41.154Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://furry.engineer/@huxley\" class=\"u-url mention\">@<span>huxley</span></a></span> I wouldn’t want to make any assumptions about what is within reach for everyone but $10 does feel worth it to me!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524082801819921",
+			"parentId": "109524075226846605",
+			"url": "https://furry.engineer/@huxley/109524082144586345",
+			"author": {
+				"name": "huxley(fur)",
+				"url": "https://furry.engineer/@huxley",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T15:34:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah I tried to add the caveat at the end but it's probably not comprehensive enough :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524362308089250",
+			"parentId": 0,
+			"url": "https://mastodon.social/@LFLegal/109524362254583179",
+			"author": {
+				"name": "Lainey Feingold",
+				"url": "https://mastodon.social/@LFLegal",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T16:45:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> make it better, make it yours, AND make it accessible so you don’t exclude visitors who are disabled. <a href=\"https://mastodon.social/tags/a11y\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>a11y</span></a>.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524394980497383",
+			"parentId": 0,
+			"url": "https://mastodon.social/@LFLegal/109524394892141033",
+			"author": {
+				"name": "Lainey Feingold",
+				"url": "https://mastodon.social/@LFLegal",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T16:53:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love my domain name too — LFLegal because in 2008 a blind friend rejected my idea of LaineyFeingold dot com.  No one would know how to spell my first or last name he wisely said, plus your email address won’t fit on your business card (remember those?) in one line of Braille. The url became my Twitter handle and now my Mastodon name.  My brand. Motto? Accessibility matters and listen to disabled people!  <a href=\"https://mastodon.social/tags/a11y\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>a11y</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524399873320746",
+			"parentId": "109524394980497383",
+			"url": "https://fediverse.zachleat.com/@zachleat/109524399873320746",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T16:55:14.866Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@LFLegal\" class=\"u-url mention\">@<span>LFLegal</span></a></span> oh wow, how many letters fit on one line of Braille?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524408005783210",
+			"parentId": "109524362308089250",
+			"url": "https://mastodon.social/@LFLegal/109524407810608227",
+			"author": {
+				"name": "Lainey Feingold",
+				"url": "https://mastodon.social/@LFLegal",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T16:57:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> and I should have added— accessibility makes your site better for everyone.  Story of why I have short summaries on the top of my articles is here. Accessibility is essential for some, useful for all <a href=\"https://www.lflegal.com/2020/09/refresh-2020/#Summaries-at-the-top-of-every-article\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">lflegal.com/2020/09/refresh-20</span><span class=\"invisible\">20/#Summaries-at-the-top-of-every-article</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524452170434007",
+			"parentId": 0,
+			"url": "https://mastodon.social/@praest76/109524452090245670",
+			"author": {
+				"name": "Peter Adams",
+				"url": "https://mastodon.social/@praest76",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T17:08:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Having your own website is a good backup. A place you can call your own. I use mine to consolidate my presences elsewhere. If any of them go tits up, I can replace the feeds.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524601391232814",
+			"parentId": 0,
+			"url": "https://social.lol/@sophie/109524601333493542",
+			"author": {
+				"name": "Sophie",
+				"url": "https://social.lol/@sophie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/513/744/579/116/104/original/940a8528f5f9b588.jpeg"
+			},
+			"date": "2022-12-16T17:46:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there are ways to have ownership of your site without paying for a domain name - not everyone can afford one! Sites like Neocities.org offer free static hosting, and as long as you have the code stored somewhere, you can reupload it anywhere else.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524613127328360",
+			"parentId": "109524601391232814",
+			"url": "https://fediverse.zachleat.com/@zachleat/109524613127328360",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T17:49:28.864Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@sophie\" class=\"u-url mention\">@<span>sophie</span></a></span> yeah that’s a good call out (and with a plug to my employer too netlify.com 😅)</p><p>I do think it’s important to try to encourage folks to own their URLs though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524621828524194",
+			"parentId": "109359642772943214",
+			"url": "https://mastodonapp.uk/@jamiedixon/109524621806130946",
+			"author": {
+				"name": "jamiedixon",
+				"url": "https://mastodonapp.uk/@jamiedixon",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/616/709/396/499/original/f8cdc27f24573b59.png"
+			},
+			"date": "2022-12-16T17:51:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks for the heads-up on the io domain. As a startup co-founder with a primarily io domain, this is really useful to know and a serious topic for discussion.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524666238732875",
+			"parentId": "109524621828524194",
+			"url": "https://fediverse.zachleat.com/@zachleat/109524666238732875",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T18:02:59.275Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodonapp.uk/@jamiedixon\" class=\"u-url mention\">@<span>jamiedixon</span></a></span> yeah, I’m glad to have migrated a few years back!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524667515699036",
+			"parentId": "109524399873320746",
+			"url": "https://mastodon.social/@LFLegal/109524667382337249",
+			"author": {
+				"name": "Lainey Feingold",
+				"url": "https://mastodon.social/@LFLegal",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T18:03:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm going to find out!  I just trusted my friend!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524860813793473",
+			"parentId": 0,
+			"url": "https://floss.social/@alcinnz/109524860574712471",
+			"author": {
+				"name": "alcinnz",
+				"url": "https://floss.social/@alcinnz",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T18:52:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love this approach! I can put whatever I want on my own server rarely worrying about what service I'll use!</p><p>I only worry about which service I'd use if I want non-trivial interactivity, otherwise nginx maybe with webforms who's submissions get forwarded to me for curation.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524894103852581",
+			"parentId": "109524860813793473",
+			"url": "https://layer8.space/@RyunoKi/109524893933475620",
+			"private": true,
+			"date": "2022-12-16T19:00:53.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524903879803233",
+			"parentId": "109524894103852581",
+			"url": "https://layer8.space/@RyunoKi/109524903787352296",
+			"private": true,
+			"date": "2022-12-16T19:03:23.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524906376341604",
+			"parentId": "109524903879803233",
+			"url": "https://layer8.space/@RyunoKi/109524906291645294",
+			"private": true,
+			"date": "2022-12-16T19:04:02.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524913130877784",
+			"parentId": "109524906376341604",
+			"url": "https://floss.social/@alcinnz/109524912817120415",
+			"private": true,
+			"date": "2022-12-16T19:05:41.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109524930253980691",
+			"parentId": "109524913130877784",
+			"url": "https://layer8.space/@RyunoKi/109524930164499841",
+			"private": true,
+			"date": "2022-12-16T19:10:06.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109525178539667565",
+			"parentId": 0,
+			"url": "https://mckellar.social/@ian/109525178492073353",
+			"author": {
+				"name": "Ian McKellar",
+				"url": "https://mckellar.social/@ian",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-16T20:13:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Reader enabled a decentralized ecosystem and it's demise pushed us into more centralised publishing and identity (Twitter, FB, IG, etc). I feel like this is almost an opposite moment. It's showing many people who were resistant before why the convenience of centralization brings costs that may be too great.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109525532911510681",
+			"parentId": 0,
+			"url": "https://front-end.social/@elly/109525532885547461",
+			"author": {
+				"name": "Elly Loel",
+				"url": "https://front-end.social/@elly",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/446/932/953/258/362/original/1f113f0d3227c3fb.png"
+			},
+			"date": "2022-12-16T21:43:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes 👏🏻 yes 👏🏻 yes<br>So important but oof don't remind me of how much my recent domain renewals cost 🥲 I'd be completely fine if I just had <a href=\"https://ellyloel.com\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ellyloel.com</span><span class=\"invisible\"></span></a><br>But of course I had to go and buy:<br>🔗 <a href=\"https://elly.to\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elly.to</span><span class=\"invisible\"></span></a> for my own personal URL shortener and<br>🔗 <a href=\"https://elly.lol\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elly.lol</span><span class=\"invisible\"></span></a> painfully close to my actual name but not quite close enough 🤏🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109526008795619535",
+			"parentId": "109525532911510681",
+			"url": "https://fediverse.zachleat.com/@zachleat/109526008795619535",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-16T23:44:25.073Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@elly\" class=\"u-url mention\">@<span>elly</span></a></span> oh dang you got a whole spread of domains</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109526324538645038",
+			"parentId": "109526008795619535",
+			"url": "https://front-end.social/@elly/109526324516988214",
+			"author": {
+				"name": "Elly Loel",
+				"url": "https://front-end.social/@elly",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/446/932/953/258/362/original/1f113f0d3227c3fb.png"
+			},
+			"date": "2022-12-17T01:04:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's so stupid, I really don't need them all 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109527966639281516",
+			"parentId": "109359568260573079",
+			"url": "https://mastodon.social/@weems/109527966551569560",
+			"private": true,
+			"date": "2022-12-17T08:02:18.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109531289416362092",
+			"parentId": "109524601391232814",
+			"url": "https://plush.city/@fluffy/109531289365912479",
+			"author": {
+				"name": "fluffy 💜",
+				"url": "https://plush.city/@fluffy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/366/357/717/543/915/original/025fbf0750302fa6.jpg"
+			},
+			"date": "2022-12-17T22:07:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://social.lol/@sophie\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sophie</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There are also free domain providers, such as <a href=\"https://freenom.com\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">freenom.com</span><span class=\"invisible\"></span></a> (if you're fine with domains like .tk or .ga)</p>",
+			"via": "fediverse"
+		}
+	]
+}

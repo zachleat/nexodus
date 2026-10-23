@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:h47rqsppfpqczovmbglqry7o/app.bsky.feed.post/3maffvqnx2c2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ashley-c.bsky.social/post/3maffvqnx2c2k",
+			"author": {
+				"name": "Ashley Claymore",
+				"url": "https://bsky.app/profile/ashley-c.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h47rqsppfpqczovmbglqry7o/bafkreigmwrp5hjipcv7ba37l5kwuysozjicj7wu3t7pz3q7mruedhekrci"
+			},
+			"date": "2025-12-20T04:52:52.180Z",
+			"content": "<p>Just curious: Is the parsing required to know which files to watch for changes?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mbyslne27s2s",
+			"parentId": "at://did:plc:h47rqsppfpqczovmbglqry7o/app.bsky.feed.post/3maffvqnx2c2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mbyslne27s2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-09T15:25:38.468Z",
+			"content": "<p>yeah, dependency mapping. Though after <a href=\"https://bsky.app/profile/did:plc:n35epuqprua3zffhk4dzkiff\">@jordan.har.band</a> pointed me to <a href=\"https://nodejs.org/api/module.html#modulestriptypescripttypescode-options\">nodejs.org/api/module.h...</a> I may not need the svelte lib after all</p>\n<p>Thanks for helping me reduce my deps Jordan!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:n35epuqprua3zffhk4dzkiff/app.bsky.feed.post/3mbywdaz7mc2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mbyslne27s2s",
+			"url": "https://bsky.app/profile/jordan.har.band/post/3mbywdaz7mc2g",
+			"author": {
+				"name": "Jordan Harband",
+				"url": "https://bsky.app/profile/jordan.har.band",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:n35epuqprua3zffhk4dzkiff/bafkreidizeajemp3rlrs2d7qkfnwd5iz2l4o6quhnzsjcazzo3cn3pluay"
+			},
+			"date": "2026-01-09T16:32:32.061Z",
+			"content": "<p>:cries in Big Dependency Income:</p>\n<p>happy to help :-p</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"comments": [
+		{
+			"id": "111892100084993947",
+			"parentId": 0,
+			"url": "https://a11y.info/@ben/111892097852081701",
+			"author": {
+				"name": "Ben Myers 🦖",
+				"url": "https://a11y.info/@ben",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/850/606/919/513/original/60b6c78eb03590ac.jpg"
+			},
+			"date": "2024-02-07T20:31:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> My accessibility statement is at <a href=\"https://benmyers.dev/accessibility-statement/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">benmyers.dev/accessibility-sta</span><span class=\"invisible\">tement/</span></a>, if you'd like to borrow from it.</p><p>I also recommend checking out W3C's accessibility statement generator: <a href=\"https://www.w3.org/WAI/planning/statements/generator/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">w3.org/WAI/planning/statements</span><span class=\"invisible\">/generator/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111892106351709776",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@hi_mayank/111892105850971845",
+			"private": true,
+			"date": "2024-02-07T20:34:00.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111892178590358864",
+			"parentId": "111892106351709776",
+			"url": "https://fediverse.zachleat.com/@zachleat/111892178590358864",
+			"private": true,
+			"date": "2024-02-07T20:52:30.857Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111892179478795055",
+			"parentId": "111892100084993947",
+			"url": "https://fediverse.zachleat.com/@zachleat/111892179478795055",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-07T20:52:44.412Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\">@<span>ben</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> Amazing, thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111892200437823327",
+			"parentId": "111892100084993947",
+			"url": "https://social.lol/@anniegreens/111892200044439386",
+			"private": true,
+			"date": "2024-02-07T20:57:58.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111892432709151514",
+			"parentId": 0,
+			"url": "https://indieweb.social/@keithamus/111892432680838174",
+			"author": {
+				"name": "keithamus",
+				"url": "https://indieweb.social/@keithamus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/401/030/086/782/001/original/4bf1af4e032731df.png"
+			},
+			"date": "2024-02-07T21:57:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Biased but; GitHub’s one can be found here: <a href=\"https://accessibility.github.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">accessibility.github.com/</span><span class=\"invisible\"></span></a> and we also publish VPATs (<a href=\"https://accessibility.github.com/conformance\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">accessibility.github.com/confo</span><span class=\"invisible\">rmance</span></a>)</p>",
+			"via": "fediverse"
+		}
+	]
+}

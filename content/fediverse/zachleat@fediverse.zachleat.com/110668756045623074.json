@@ -1,0 +1,338 @@
+{
+	"comments": [
+		{
+			"id": "110668765020845199",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/110668764982469518",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-07-06T19:22:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wow they finally automated ‘the douchebag’</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668768441331068",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/110668768393920326",
+			"private": true,
+			"date": "2023-07-06T19:23:12.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668770147442186",
+			"parentId": "110668768441331068",
+			"url": "https://fediverse.zachleat.com/@zachleat/110668770147442186",
+			"private": true,
+			"date": "2023-07-06T19:23:39.485Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668778402576196",
+			"parentId": 0,
+			"url": "https://indieweb.social/@nachtfunke/110668778301919505",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-07-06T19:25:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> why is it doing that? The hell?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668779471345873",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jaredwhite/110668779388898707",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2023-07-06T19:26:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Which cursed GH action is this?!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668780516208245",
+			"parentId": "110668778402576196",
+			"url": "https://fediverse.zachleat.com/@zachleat/110668780516208245",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-06T19:26:17.699Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nachtfunke\" class=\"u-url mention\">@<span>nachtfunke</span></a></span> I think it is a repo specific add-on</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668787960010140",
+			"parentId": "110668770147442186",
+			"url": "https://fosstodon.org/@chris_hayes/110668787909644725",
+			"private": true,
+			"date": "2023-07-06T19:28:10.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668790061781820",
+			"parentId": 0,
+			"url": "https://mstdn.social/@brawaru/110668789966297801",
+			"author": {
+				"name": "Braw ☕🏳️‍🌈",
+				"url": "https://mstdn.social/@brawaru",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/380/201/982/554/664/original/4cd79a5fec5ff5fb.jpg"
+			},
+			"date": "2023-07-06T19:28:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this would be reasonable in codebase that is already mostly TypeScript, but is it the case on the screenshot?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668790869102051",
+			"parentId": "110668780516208245",
+			"url": "https://indieweb.social/@nachtfunke/110668790822439627",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-07-06T19:28:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I see! I thought GitHub is out there shaming people into using typescript.</p><p>I was already sharpening my pitchforks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668791665878945",
+			"parentId": "110668779471345873",
+			"url": "https://fediverse.zachleat.com/@zachleat/110668791665878945",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-06T19:29:07.836Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\">@<span>jaredwhite</span></a></span> I think it’s a custom thing built on top of <a href=\"https://github.com/tj-actions/changed-files\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tj-actions/changed-</span><span class=\"invisible\">files</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668795559762610",
+			"parentId": "110668790061781820",
+			"url": "https://fediverse.zachleat.com/@zachleat/110668795559762610",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-06T19:30:07.245Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@brawaru\" class=\"u-url mention\">@<span>brawaru</span></a></span> yeah—you’re right. The repo is almost certainly TypeScript.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668797489667592",
+			"parentId": "110668790869102051",
+			"url": "https://fediverse.zachleat.com/@zachleat/110668797489667592",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-06T19:30:36.694Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nachtfunke\" class=\"u-url mention\">@<span>nachtfunke</span></a></span> haha no no put those pitchforks away</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668812486982383",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@fantinel/110668812446023409",
+			"author": {
+				"name": "Matt Fantinel",
+				"url": "https://hachyderm.io/@fantinel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/616/574/646/179/864/original/29bd09c8b97b4f80.png"
+			},
+			"date": "2023-07-06T19:34:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the more I use TypeScript the less I wanna use TypeScript (I fully understand Svelte's decision to use JSDoc instead)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668825843632213",
+			"parentId": "110668812486982383",
+			"url": "https://fediverse.zachleat.com/@zachleat/110668825843632213",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-06T19:37:49.341Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@fantinel\" class=\"u-url mention\">@<span>fantinel</span></a></span> a very good compromise 👍🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668829183777180",
+			"parentId": "110668797489667592",
+			"url": "https://indieweb.social/@nachtfunke/110668829155676666",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-07-06T19:38:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> … for now</p><p>😈</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668980179055245",
+			"parentId": "110668770147442186",
+			"url": "https://mastodon.social/@ardouglass/110668980127087797",
+			"private": true,
+			"date": "2023-07-06T20:17:03.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110668986331102624",
+			"parentId": "110668980179055245",
+			"url": "https://fediverse.zachleat.com/@zachleat/110668986331102624",
+			"private": true,
+			"date": "2023-07-06T20:18:38.185Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110669317441845458",
+			"parentId": "110668986331102624",
+			"url": "https://mastodon.social/@ardouglass/110669317400184170",
+			"private": true,
+			"date": "2023-07-06T21:42:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110671472167654184",
+			"parentId": "110668765020845199",
+			"url": "https://mas.to/@elwinvaneede/110671472146168940",
+			"author": {
+				"name": "Elwin van Eede",
+				"url": "https://mas.to/@elwinvaneede",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/307/015/297/023/340/original/1351badbf65365f9.jpg"
+			},
+			"date": "2023-07-07T06:50:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If it’s a public repo with mostly TypeScript then I don’t see nothing wrong with it, aside from wording maybe. At least it’s not blocking.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110671535721664883",
+			"parentId": "110671472167654184",
+			"url": "https://mastodon.design/@DavidDarnes/110671535693270008",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-07-07T07:06:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mas.to/@elwinvaneede\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elwinvaneede</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I believe this is on Eleventy which has no TypeScript 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110672859126017943",
+			"parentId": "110671535721664883",
+			"url": "https://fediverse.zachleat.com/@zachleat/110672859126017943",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-07T12:43:32.351Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@elwinvaneede\" class=\"u-url mention\">@<span>elwinvaneede</span></a></span> no no, it’s another repo I don’t even commit to. Just saw a PR with this comment and enjoyed the passive wording. I think the bot is fine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110687088219597653",
+			"parentId": 0,
+			"url": "https://fediverse.nicknisi.com/@nicknisi/110687088195364242",
+			"author": {
+				"name": "Nick Nisi :nicknisi:",
+				"url": "https://fediverse.nicknisi.com/@nicknisi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/739/915/490/803/201/original/0d5879db891883ab.jpeg"
+			},
+			"date": "2023-07-10T01:02:10.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> good advice! 😉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110690106604981091",
+			"parentId": "110687088219597653",
+			"url": "https://fediverse.zachleat.com/@zachleat/110690106604981091",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-10T13:49:47.990Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.nicknisi.com/@nicknisi\" class=\"u-url mention\">@<span>nicknisi</span></a></span> this one was Nick Nisi bait 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110690122430349112",
+			"parentId": 0,
+			"url": "https://indieweb.social/@brianleroux/110690122307819451",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-07-10T13:53:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> consider increasing your maintenance burden</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110690134106583158",
+			"parentId": "110690122430349112",
+			"url": "https://fediverse.zachleat.com/@zachleat/110690134106583158",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-10T13:56:47.630Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> “we will pay you $1 now if you pay us $1000 later” DEAL—wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110690189890244504",
+			"parentId": "110690134106583158",
+			"url": "https://indieweb.social/@brianleroux/110690189842749356",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-07-10T14:10:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nice stable package you have there have you considered introducing a build step and dependency known for shipping breaking changes on semver minor/patch?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110690231635806452",
+			"parentId": "110690189890244504",
+			"url": "https://fediverse.zachleat.com/@zachleat/110690231635806452",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-07-10T14:21:35.808Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> how dare you bring next.js into this</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110690310881578400",
+			"parentId": "110690231635806452",
+			"url": "https://indieweb.social/@brianleroux/110690310830111269",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-07-10T14:41:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the next version always fixes the last version but you need to suffer an apple style keynote with nft badge to find out how</p>",
+			"via": "fediverse"
+		}
+	]
+}

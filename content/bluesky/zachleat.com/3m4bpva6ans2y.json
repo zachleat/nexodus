@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:4nl4fp56lllq4cjgkf73rfai/app.bsky.feed.post/3m4bqeffxes2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/joelstransky.bsky.social/post/3m4bqeffxes2k",
+			"author": {
+				"name": "Joel ✨",
+				"url": "https://bsky.app/profile/joelstransky.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4nl4fp56lllq4cjgkf73rfai/bafkreibpj537mdang3s3rcntpqzzgno3ff5ztnaeag4idihrwfallqmcay"
+			},
+			"date": "2025-10-28T20:08:35.655Z",
+			"content": "<p>Web Components!?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4bqg5yro22r",
+			"parentId": "at://did:plc:4nl4fp56lllq4cjgkf73rfai/app.bsky.feed.post/3m4bqeffxes2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4bqg5yro22r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-28T20:09:34.993Z",
+			"content": "<p>best kept secret in the business</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4nl4fp56lllq4cjgkf73rfai/app.bsky.feed.post/3m4bqjk5ukc2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4bqg5yro22r",
+			"url": "https://bsky.app/profile/joelstransky.bsky.social/post/3m4bqjk5ukc2k",
+			"author": {
+				"name": "Joel ✨",
+				"url": "https://bsky.app/profile/joelstransky.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4nl4fp56lllq4cjgkf73rfai/bafkreibpj537mdang3s3rcntpqzzgno3ff5ztnaeag4idihrwfallqmcay"
+			},
+			"date": "2025-10-28T20:11:28.406Z",
+			"content": "<p>So wait, do all the people complaining about them just have skill issues?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4bqx2stmc25",
+			"parentId": "at://did:plc:4nl4fp56lllq4cjgkf73rfai/app.bsky.feed.post/3m4bqjk5ukc2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4bqx2stmc25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-28T20:19:02.077Z",
+			"content": "<p>I have literally heard zero complaints about web components so I couldn’t say</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4nl4fp56lllq4cjgkf73rfai/app.bsky.feed.post/3m4brkngwm22g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4bqx2stmc25",
+			"url": "https://bsky.app/profile/joelstransky.bsky.social/post/3m4brkngwm22g",
+			"author": {
+				"name": "Joel ✨",
+				"url": "https://bsky.app/profile/joelstransky.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4nl4fp56lllq4cjgkf73rfai/bafkreibpj537mdang3s3rcntpqzzgno3ff5ztnaeag4idihrwfallqmcay"
+			},
+			"date": "2025-10-28T20:29:59.144Z",
+			"content": "<p>Good to hear.</p>",
+			"via": "bluesky"
+		}
+	]
+}

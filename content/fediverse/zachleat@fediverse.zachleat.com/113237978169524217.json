@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "113238622500851675",
+			"parentId": 0,
+			"url": "https://mastodon.social/@huphtur/113238622412970701",
+			"author": {
+				"name": "Marcel Appelman",
+				"url": "https://mastodon.social/@huphtur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/324/009/575/209/original/b5d6e02d0a53bd0c.png"
+			},
+			"date": "2024-10-02T15:50:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh nice! Didn’t realize Cloudflare Pages had this enabled on default either. No wonder my builds were so ridonk fast.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113238628537240980",
+			"parentId": "113238622500851675",
+			"url": "https://fediverse.zachleat.com/@zachleat/113238628537240980",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-02T15:52:26.577Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@huphtur\" class=\"u-url mention\">@<span>huphtur</span></a></span> yeah! I asked some devs in their Discord and they implemented it! 🏆</p>",
+			"via": "fediverse"
+		}
+	]
+}

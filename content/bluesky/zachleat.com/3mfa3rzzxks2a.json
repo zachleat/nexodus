@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:wncmaj3pjpzralwi2szdwwbl/app.bsky.feed.post/3mfa43qbuwc2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/crswll.dev/post/3mfa43qbuwc2s",
+			"author": {
+				"name": "Bill Criswell",
+				"url": "https://bsky.app/profile/crswll.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wncmaj3pjpzralwi2szdwwbl/bafkreid6kx6vjquxose5s3i32qpcp4y7z65ijkhshakttescgxbscjuhjy"
+			},
+			"date": "2026-02-19T17:19:55.142Z",
+			"content": "<p>That is as HTML as it gets honestly.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mfa4pahysc2t",
+			"parentId": "at://did:plc:wncmaj3pjpzralwi2szdwwbl/app.bsky.feed.post/3mfa43qbuwc2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mfa4pahysc2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-19T17:30:49.654Z",
+			"content": "<p>peak HTML</p>",
+			"via": "bluesky"
+		}
+	]
+}

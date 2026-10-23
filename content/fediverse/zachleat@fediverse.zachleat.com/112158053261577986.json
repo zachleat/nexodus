@@ -1,0 +1,595 @@
+{
+	"comments": [
+		{
+			"id": "112158086190889074",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/112158086169667067",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2024-03-25T19:56:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> Wrote about this here: <a href=\"https://infrequently.org/2024/01/performance-inequality-gap-2024/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infrequently.org/2024/01/perfo</span><span class=\"invisible\">rmance-inequality-gap-2024/</span></a> and did a talk on it, video here: <a href=\"https://cfe.dev/sessions/jamdev2024-market-for-lemons/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cfe.dev/sessions/jamdev2024-ma</span><span class=\"invisible\">rket-for-lemons/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158105936232020",
+			"parentId": 0,
+			"url": "https://front-end.social/@a11yMel/112158105908994153",
+			"author": {
+				"name": "Melanie",
+				"url": "https://front-end.social/@a11yMel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/349/997/004/476/619/original/0a852b5a247738c3.jpeg"
+			},
+			"date": "2024-03-25T20:01:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> surely it depends. An app used internally at a large corporation should not have to worry about worse-case fast. Heavy duty apps can do heavy duty lifting on networks created for that purpose. </p><p>Any public website absolutely should be worst-case fast though. </p><p>I don’t know where webdevs work or why we seem so incapable of this nuance. It can be both. It depends.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158117490683045",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@bglw/112158117475682608",
+			"author": {
+				"name": "Liam Bigelow",
+				"url": "https://fosstodon.org/@bglw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/937/842/242/416/original/8905219901a4a606.jpeg"
+			},
+			"date": "2024-03-25T20:04:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> performance ceiling vs performance floor can be another good phrasing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158154476432337",
+			"parentId": "112158105936232020",
+			"url": "https://toot.cafe/@slightlyoff/112158154259974299",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-03-25T20:13:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@a11yMel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>a11yMel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> IDK, I'm suffering through a lot of \"apps used internally at large corporations\" right now, and they're not OK. Not even on beefy machines, and I know for a fact that many folks in the org have worse/more-taxed machines</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158183374139645",
+			"parentId": "112158105936232020",
+			"url": "https://sfba.social/@soaproot/112158183263480136",
+			"author": {
+				"name": "soaproot",
+				"url": "https://sfba.social/@soaproot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/894/906/499/087/196/original/bfcb1d5eb8858360.jpeg"
+			},
+			"date": "2024-03-25T20:21:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@a11yMel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>a11yMel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Perhaps that statement about internal corporate apps is true if there is no remote work, no satellite offices in areas with less-good Internet, and corporate users are always on recently upgraded machines which prioritize speed over battery life or portability. But none of these assumptions is especially true of most corporations, especially these days.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158191788897602",
+			"parentId": "112158117490683045",
+			"url": "https://fediverse.zachleat.com/@zachleat/112158191788897602",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T20:23:10.139Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\">@<span>bglw</span></a></span> I love that 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158199828942907",
+			"parentId": 0,
+			"url": "https://qoto.org/@szescstopni/112158199788608852",
+			"private": true,
+			"date": "2024-03-25T20:25:12.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158207597106847",
+			"parentId": "112158199828942907",
+			"url": "https://fediverse.zachleat.com/@zachleat/112158207597106847",
+			"private": true,
+			"date": "2024-03-25T20:27:11.353Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158210299642417",
+			"parentId": "112158086190889074",
+			"url": "https://fosstodon.org/@mahryekuh/112158210254232020",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2024-03-25T20:27:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> \"Since at least 2015, building JavaScript-first websites has been a predictably terrible idea\"</p><p>I might need this printed on a T-shirt.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158216982653986",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@mahryekuh/112158216907092536",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2024-03-25T20:29:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If only developers would share some of their love for bulky framework and divs with subjects like performant websites and accessibility 😒</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158236798525596",
+			"parentId": "112158207597106847",
+			"url": "https://qoto.org/@szescstopni/112158236584809451",
+			"private": true,
+			"date": "2024-03-25T20:34:33.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158247703168826",
+			"parentId": "112158210299642417",
+			"url": "https://toot.cafe/@slightlyoff/112158247298528791",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-03-25T20:37:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> made shirts as a fundraiser for <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span>:</p><p><a href=\"https://www.bonfire.com/anti-javascript-javascript-club/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bonfire.com/anti-javascript-ja</span><span class=\"invisible\">vascript-club/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158320073047350",
+			"parentId": 0,
+			"url": "https://front-end.social/@benschwarz/112158320044538593",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2024-03-25T20:55:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> testing the full spectrum of slow device / slow network to ‘fastest possible’ has been a mainstay in messaging from me <span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@calibre\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>calibre</span></a></span></p><p>However, there are still a lot of teams out there who intentionally hide worst case scenarios because it’s so bad and represents too much work to improve. </p><p>They’re so busy with the best case, that poor experiences don’t get a look  in, which is totally counterintuitive because if you make a page fast for a slow phone, it’ll FLY everywhere else.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158343370268963",
+			"parentId": 0,
+			"url": "https://mastodon.social/@clusterfcku/112158343347689640",
+			"author": {
+				"name": "Cluster Fcku",
+				"url": "https://mastodon.social/@clusterfcku",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/078/199/285/308/688/original/6c41e24c3ff25b39.png"
+			},
+			"date": "2024-03-25T21:01:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> same for \"best case safe\": as long as you follow the law, the procedures &amp; regulations, the schedules, the training, common sense, reasonableness, all patches, all updates, all guidelines, and take personal responsibility for any of the holes, live in a bubble where you can afford all that money and time, it will all be safe!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158355055528530",
+			"parentId": "112158154476432337",
+			"url": "https://front-end.social/@a11yMel/112158355039803274",
+			"author": {
+				"name": "Melanie",
+				"url": "https://front-end.social/@a11yMel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/349/997/004/476/619/original/0a852b5a247738c3.jpeg"
+			},
+			"date": "2024-03-25T21:04:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fair enough 🤷‍♀️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158361120198789",
+			"parentId": "112158355055528530",
+			"url": "https://social.lol/@cory/112158361036136067",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2024-03-25T21:06:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@a11yMel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>a11yMel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> one of the ecommerce shops I worked at the past had a *glacially* slow public-facing set of web properties and fought the dev team trying to improve them, but internal apps were significantly faster. Sigh.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158385453145465",
+			"parentId": "112158247703168826",
+			"url": "https://hsnl.social/@eloy/112158385297211228",
+			"author": {
+				"name": "Eloy. @ pmOS and Alpine Linux conference",
+				"url": "https://hsnl.social/@eloy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/396/252/813/314/461/original/e74396b6639da3d4.png"
+			},
+			"date": "2024-03-25T21:12:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> Meh, JS is fine, just keep it to reasonable size and prefer CSS alternatives</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158397799214406",
+			"parentId": "112158385453145465",
+			"url": "https://fosstodon.org/@mahryekuh/112158397765323693",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2024-03-25T21:15:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hsnl.social/@eloy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eloy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> I'm with Eloy. The right tool for the job, instead of JS for everything. 🔨</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158473478465960",
+			"parentId": "112158320073047350",
+			"url": "https://fediverse.zachleat.com/@zachleat/112158473478465960",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T21:34:48.380Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@calibre\" class=\"u-url mention\">@<span>calibre</span></a></span> well said!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158503481603930",
+			"parentId": 0,
+			"url": "https://front-end.social/@eeeps/112158503465571744",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-03-25T21:42:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> another fun thing to measure would be performance consistency/variability: the ratio of best-case to worst-case.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158507790997007",
+			"parentId": "112158503481603930",
+			"url": "https://front-end.social/@eeeps/112158507733595006",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-03-25T21:43:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> although I expect that would be highly correlated with worst case…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158530518449146",
+			"parentId": "112158191788897602",
+			"url": "https://fosstodon.org/@bglw/112158530413294296",
+			"author": {
+				"name": "Liam Bigelow",
+				"url": "https://fosstodon.org/@bglw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/937/842/242/416/original/8905219901a4a606.jpeg"
+			},
+			"date": "2024-03-25T21:49:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ✨ yes hello my site is fast ✨</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158623057314973",
+			"parentId": "112158397799214406",
+			"url": "https://toot.cafe/@slightlyoff/112158622926336908",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-03-25T22:12:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hsnl.social/@eloy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eloy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> That's literally what the anti-js-js-club stands for</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158633169560212",
+			"parentId": "112158623057314973",
+			"url": "https://fediverse.zachleat.com/@zachleat/112158633169560212",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T22:15:25.076Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hsnl.social/@eloy\" class=\"u-url mention\">@<span>eloy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\">@<span>owa</span></a></span> two javascripts is a double negative and now I’m confused</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158657119504741",
+			"parentId": "112158623057314973",
+			"url": "https://hsnl.social/@eloy/112158654898909734",
+			"author": {
+				"name": "Eloy. @ pmOS and Alpine Linux conference",
+				"url": "https://hsnl.social/@eloy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/396/252/813/314/461/original/e74396b6639da3d4.png"
+			},
+			"date": "2024-03-25T22:20:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> Oh, right. Thanks for cleaning that up :P</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158671431608566",
+			"parentId": "112158633169560212",
+			"url": "https://indieweb.social/@brianleroux/112158671282347273",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2024-03-25T22:25:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hsnl.social/@eloy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eloy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> JS is like violence. If it isn't working you need more of it. Wait.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158671586861607",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@groxx/112158671539145980",
+			"author": {
+				"name": "groxx",
+				"url": "https://hachyderm.io/@groxx",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-25T22:25:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> worst-case fast also gets you an *unbelievably amazing* experience on the best-case stuff.</p><p>I love using low end hardware to build things. You find out what hurts your end result FAR earlier, when you're more easily able to fix it.  And then the final result absolutely screams on decent machines, and that's an amazing feeling.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158711347490495",
+			"parentId": 0,
+			"url": "https://mastodon.social/@boulder/112158711123236979",
+			"author": {
+				"name": "4everpushingaboulder",
+				"url": "https://mastodon.social/@boulder",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-25T22:35:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> app dev has blamed performance on network, database, IO, cpu for years, while writing heavy code optimized for their test lab instead of production. </p><p> Cloud based, microcoded, API,  shared service enterprise buss were supposed to be the fix to keep us dumb infrastructure folks from being in the way. </p><p>Always told people it’s just 4th grade math. 8 bits per byte. Do the math.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158721807743952",
+			"parentId": 0,
+			"url": "https://mastodon.social/@danherbert/112158721779711371",
+			"author": {
+				"name": "Dan Herbert",
+				"url": "https://mastodon.social/@danherbert",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-25T22:37:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's the classic \"works on my machine\" mentality. Lots of devs have good devices &amp; fast internet and often never consider (for a variety of reasons) the diversity of clients they're going to serve.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158734291690865",
+			"parentId": 0,
+			"url": "https://mastodon.mit.edu/@tchauhan/112158734237526733",
+			"author": {
+				"name": "Tushar Chauhan",
+				"url": "https://mastodon.mit.edu/@tchauhan",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-25T22:41:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What about static sites that are built as apps? Stuff like gatsby or astro?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158734789718493",
+			"parentId": "112158671431608566",
+			"url": "https://fosstodon.org/@mahryekuh/112158734737322045",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2024-03-25T22:41:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hsnl.social/@eloy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eloy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> Instructions unclear, added onclick to a div.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158749896006773",
+			"parentId": 0,
+			"url": "https://mastodon.social/@JeffGrigg/112158749849404377",
+			"author": {
+				"name": "Jeff Grigg",
+				"url": "https://mastodon.social/@JeffGrigg",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/426/648/562/796/087/original/82d4ec377078c166.jpg"
+			},
+			"date": "2024-03-25T22:45:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>As I was explaining to our local water and sewer utility, …</p><p>I'm paying my monthly bill from a small city in Argentina. I don't want or need a full-screen video of local water features to play before you allow me to access and pay my (typically less than $100) monthly bill! And some of your local customers, like my parents, are *still on dial-up*. With *OLD* computers. Like \"should be recycled\" computers that Barely Work!!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158760493648474",
+			"parentId": "112158749896006773",
+			"url": "https://mastodon.social/@JeffGrigg/112158760465111247",
+			"author": {
+				"name": "Jeff Grigg",
+				"url": "https://mastodon.social/@JeffGrigg",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/426/648/562/796/087/original/82d4ec377078c166.jpg"
+			},
+			"date": "2024-03-25T22:47:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Now as to why I would be paying local mid-Texas utilities from South America, or Ireland, or across the date line in New Zealand, …</p><p>Well, I have my reasons.<br>(And they're none of the water company's business.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158933752339929",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jaredwhite/112158933712442104",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2024-03-25T23:31:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Funny about that year mentioned in <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span>'s article, 2015.</p><p>I was told in 2015 by a “CTO” that I should ditch my Ruby on Rails skills, learn how to write JSON APIs in Node, and build all my UIs in AngularJS going forward. This was the future!</p><p>He may have been broadly right about the popularity of Node, but the rest of that mindset turned out to be a minefield of antipatterns. While today I'm no particular fan of Rails, it's wild how SSR (plus SSG) is all the rage once again.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112158954540938655",
+			"parentId": "112158210299642417",
+			"url": "https://mastodon.social/@enoch_exe_inc/112158954428915455",
+			"author": {
+				"name": "enoch_exe_inc",
+				"url": "https://mastodon.social/@enoch_exe_inc",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-25T23:37:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> Not least of which it has been terrible for privacy.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112159124870461406",
+			"parentId": "112158933752339929",
+			"url": "https://indieweb.social/@McNeely/112159124840213504",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2024-03-26T00:20:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> AngularJS certainly was a web technology 🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112159344590929377",
+			"parentId": "112159124870461406",
+			"url": "https://indieweb.social/@jaredwhite/112159344555312435",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2024-03-26T01:16:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>McNeely</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> It certainly was…written in JavaScript. Yup. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112159647811762062",
+			"parentId": "112158086190889074",
+			"url": "https://hackers.town/@drwho/112159647734879063",
+			"private": true,
+			"date": "2024-03-26T02:33:26.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112159666875974129",
+			"parentId": 0,
+			"url": "https://dotnet.social/@SmartmanApps/112159666836639173",
+			"author": {
+				"name": "💡𝚂𝗆𝖺𝗋𝗍𝗆𝖺𝗇 𝙰𝗉𝗉𝗌📱",
+				"url": "https://dotnet.social/@SmartmanApps",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-26T02:38:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>This post boosted by someone with a fast dev machine but still running Android Marshmallow on their phone ;-)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112161117102628797",
+			"parentId": 0,
+			"url": "https://mastodon.social/@rgarner/112161117048132469",
+			"author": {
+				"name": "Russell Garner",
+				"url": "https://mastodon.social/@rgarner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/385/189/302/884/original/19399ff775f646f4.jpg"
+			},
+			"date": "2024-03-26T08:47:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we lack the vocabulary (and metrics) to make meaningful statements about our software's efficiency.</p><p>By rights, Elixir should be running away with things based on Phoenix's performance alone, but we're not hiring for efficiency. We're hiring for popularity and/or groupthink.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112161561411698905",
+			"parentId": 0,
+			"url": "https://urbanists.social/@markstos/112161561390553783",
+			"author": {
+				"name": "Mark Stosberg",
+				"url": "https://urbanists.social/@markstos",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-26T10:40:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Twitter and WhatsApp both grew quickly early on because they worked on lowend phones. Twitter’s original text-only 140 character limit was strategically intentionally aligned with what SMS could do.</p><p>WhatsApp ran as a Java app on non-Android, non-iOS phones.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112161566492409125",
+			"parentId": 0,
+			"url": "https://mastodon.online/@paladin/112161566449751900",
+			"author": {
+				"name": "Sascha  Presnac 🙄🤦‍♂️",
+				"url": "https://mastodon.online/@paladin",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-26T10:41:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I am so with this 🙏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112163372234714155",
+			"parentId": "112158671586861607",
+			"url": "https://fediverse.zachleat.com/@zachleat/112163372234714155",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-26T18:20:37.468Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@groxx\" class=\"u-url mention\">@<span>groxx</span></a></span> well said!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112163383502009932",
+			"parentId": "112158734291690865",
+			"url": "https://fediverse.zachleat.com/@zachleat/112163383502009932",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-26T18:23:29.394Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.mit.edu/@tchauhan\" class=\"u-url mention\">@<span>tchauhan</span></a></span> React has shown itself to be pretty slow! That said, there is a spectrum of React tooling. I’d rate Astro &gt; Gatsby &gt; Next.js for fast outputs of React stuff</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112163532017056809",
+			"parentId": "112158385453145465",
+			"url": "https://tilde.zone/@ubergeek/112163532000324529",
+			"author": {
+				"name": "Ubergeek",
+				"url": "https://tilde.zone/@ubergeek",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-26T19:01:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hsnl.social/@eloy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eloy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mahryekuh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> Exactly.  Use JS only for when CSS isn't able to do what you are trying to do.</p><p>Corollary: If CSS isn't doing something you're trying to do, you should think long and hard about why you're doing it, and if it's really a good idea...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112163556363643215",
+			"parentId": "112163532017056809",
+			"url": "https://fosstodon.org/@mahryekuh/112163556335055655",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2024-03-26T19:07:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tilde.zone/@ubergeek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ubergeek</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hsnl.social/@eloy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eloy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@owa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>owa</span></a></span> Progressive enhancement FTW.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112175095533426678",
+			"parentId": "112161561411698905",
+			"url": "https://mastodon.ie/@dec23k/112175095507176882",
+			"author": {
+				"name": "Dec [{(:no_ai:)}]",
+				"url": "https://mastodon.ie/@dec23k",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/631/831/415/313/190/original/1dadb079bab24e7c.png"
+			},
+			"date": "2024-03-28T20:02:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://urbanists.social/@markstos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>markstos</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Twitter's initial character limit was 140 so that you could use it over SMS if you didn't have a smart phone.<br>They even had a vanity SMS shortcode in some countries.</p>",
+			"via": "fediverse"
+		}
+	]
+}

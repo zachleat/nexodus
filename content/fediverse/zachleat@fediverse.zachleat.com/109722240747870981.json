@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "109722304748968760",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/109722304690515839",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2023-01-20T15:45:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> For those of us that very rarely use npm, and have been poking about on the canary, how does one `npm update` and get the beta, instead of the latest Canary?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109722314837930321",
+			"parentId": "109722304748968760",
+			"url": "https://fediverse.zachleat.com/@zachleat/109722314837930321",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-20T15:47:37.565Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\">@<span>mattwilcox</span></a></span> `npm install @11ty/eleventy@beta` in your project directory will do the trick! You can check in your package.json after or by running `npx @11ty/eleventy --version`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109722347963084370",
+			"parentId": "109722314837930321",
+			"url": "https://mstdn.social/@mattwilcox/109722347922654182",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2023-01-20T15:56:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109722387816078632",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@drsensor/109722387170042028",
+			"author": {
+				"name": "૮༼⚆︿⚆༽つ / Wildan",
+				"url": "https://fosstodon.org/@drsensor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/309/258/761/047/158/original/702a04c0baca27e5.png"
+			},
+			"date": "2023-01-20T16:06:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Congrats 🎉<br>Is there a blog post about how 11ty start then grow gaining wide adoption?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109722398615402932",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@drsensor/109722398491746345",
+			"author": {
+				"name": "૮༼⚆︿⚆༽つ / Wildan",
+				"url": "https://fosstodon.org/@drsensor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/309/258/761/047/158/original/702a04c0baca27e5.png"
+			},
+			"date": "2023-01-20T16:08:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I just notice the funky burger menu 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109722417419718198",
+			"parentId": "109722398615402932",
+			"url": "https://fediverse.zachleat.com/@zachleat/109722417419718198",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-20T16:13:42.834Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@drsensor\" class=\"u-url mention\">@<span>drsensor</span></a></span> *marks another line on my hamburger menu victim counter*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109722419829517589",
+			"parentId": "109722387816078632",
+			"url": "https://fediverse.zachleat.com/@zachleat/109722419829517589",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-20T16:14:19.603Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@drsensor\" class=\"u-url mention\">@<span>drsensor</span></a></span> probably just bits and pieces scattered on various posts <a href=\"https://www.zachleat.com/web/?category=eleventy\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/?category=ele</span><span class=\"invisible\">venty</span></a> but that would be a good post to write!</p>",
+			"via": "fediverse"
+		}
+	]
+}

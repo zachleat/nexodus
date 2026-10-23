@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7aogofje22i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3m7aogofje22i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-05T14:16:59.848Z",
+			"content": "<p>if you look in the footer of <a href=\"https://blog.fontawesome.com/\">blog.fontawesome.com</a> and tap on the Font Awesome flag you’ll see a variant of this component made to work with Font Awesome icons 🥰</p>\n<p>(and reusing the colors from the header image of the blog post too: <a href=\"https://blog.fontawesome.com/blog-awesome-to-11ty/#colors\">blog.fontawesome.com/blog-awesome...</a>)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:45lja5p42xvc7vutgxlsbsbi/app.bsky.feed.post/3m7b4pilmp22x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benfictional.bsky.social/post/3m7b4pilmp22x",
+			"author": {
+				"name": "Benjamin Andrew",
+				"url": "https://bsky.app/profile/benfictional.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:45lja5p42xvc7vutgxlsbsbi/bafkreiekigq6xl2m435n6twy3yoeerot64d46vep3rfk3zxtpr7xcsziki"
+			},
+			"date": "2025-12-05T18:32:28.132Z",
+			"content": "<p>Ha, this just reminded me to turn on my toolbar lights. <a href=\"https://festivitas.app/\">festivitas.app</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7b4tjp5ok2j",
+			"parentId": "at://did:plc:45lja5p42xvc7vutgxlsbsbi/app.bsky.feed.post/3m7b4pilmp22x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m7b4tjp5ok2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-05T18:34:43.514Z",
+			"content": "<p>Lovely!</p>",
+			"via": "bluesky"
+		}
+	]
+}

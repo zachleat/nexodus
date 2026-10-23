@@ -1,0 +1,80 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m5lyjdzjcc2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3m5lyjdzjcc2f",
+			"private": true,
+			"date": "2025-11-14T15:26:20.917Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5lzojfuws22",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m5lyjdzjcc2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5lzojfuws22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-14T15:47:08.080Z",
+			"content": "<p>I said this aloud 10 times trying to get it and it is too advanced for me 🫠 it is a homo sapiens or oculus reference, is it a subtle call out to browser engine homogeneity</p>\n<p>*runs away screaming*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:du2fkuuod4mv6t2d4qpqn55z/app.bsky.feed.post/3m5m2frcf3c2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ryanmulligan.dev/post/3m5m2frcf3c2y",
+			"author": {
+				"name": "Ryan Mulligan",
+				"url": "https://bsky.app/profile/ryanmulligan.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:du2fkuuod4mv6t2d4qpqn55z/bafkreievxzq74zbowbzqmnnftjizgyyhusgabkjudrxpxjf4jglsq6g7s4"
+			},
+			"date": "2025-11-14T16:00:08.105Z",
+			"content": "<p>It's an acquired taste, Zach. Like pineapple on pizza. Wait a minute... http:zza? I need to workshop this a bit more, I'll be back.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5m3p4i7kk2p",
+			"parentId": "at://did:plc:du2fkuuod4mv6t2d4qpqn55z/app.bsky.feed.post/3m5m2frcf3c2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5m3p4i7kk2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-14T16:23:15.563Z",
+			"content": "<p>pineapple on pizza is now a wordpress reference, sorry I don’t make the rules 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m5m3pg6r2k2f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5lzojfuws22",
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3m5m3pg6r2k2f",
+			"private": true,
+			"date": "2025-11-14T16:23:25.739Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m5m3pzpbgk2f",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m5m3pg6r2k2f",
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3m5m3pzpbgk2f",
+			"private": true,
+			"date": "2025-11-14T16:23:46.202Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5m3wpsaus2x",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m5m3pzpbgk2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5m3wpsaus2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-14T16:27:30.696Z",
+			"content": "<p>thank you for closing the loop in my brain (</p>",
+			"via": "bluesky"
+		}
+	]
+}

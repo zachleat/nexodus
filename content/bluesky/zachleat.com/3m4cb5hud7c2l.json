@@ -1,0 +1,145 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3m4cf3hyjkc2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/stefanmatei.com/post/3m4cf3hyjkc2j",
+			"author": {
+				"name": "Stefan Matei",
+				"url": "https://bsky.app/profile/stefanmatei.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:komsc4cibngambanqjhpwweu/bafkreig2zczdfchzhxfkofhunix7nxui6ls4zfjma2un3tqjslcfgzpf7e"
+			},
+			"date": "2025-10-29T02:19:24.948Z",
+			"content": "<p>off-by-one error?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5hbzyrgklik7q6ldgix67mvw/app.bsky.feed.post/3m4cfdk22tz2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/coachingrugby.bsky.social/post/3m4cfdk22tz2o",
+			"author": {
+				"name": "Hypatia is still mad about the library.",
+				"url": "https://bsky.app/profile/coachingrugby.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5hbzyrgklik7q6ldgix67mvw/bafkreifotxgrw42ufel3jzkhlkomoezjwi4hyzmhbmi2a7wmdxxufhwaja"
+			},
+			"date": "2025-10-29T02:23:55.529Z",
+			"content": "<p>Tell me about it …</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4dhwirlmk2r",
+			"parentId": "at://did:plc:5hbzyrgklik7q6ldgix67mvw/app.bsky.feed.post/3m4cfdk22tz2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4dhwirlmk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-29T12:42:58.963Z",
+			"content": "<p>congratulations on your three cats, they look lovely</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4dhwxojdk2r",
+			"parentId": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3m4cf3hyjkc2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4dhwxojdk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-29T12:43:14.591Z",
+			"content": "<p>off-by-at-least-one error</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tnlhrgmbce34nvpyti46miej/app.bsky.feed.post/3m4dinhd6dc2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cingraham.bsky.social/post/3m4dinhd6dc2x",
+			"author": {
+				"name": "Chris Ingraham",
+				"url": "https://bsky.app/profile/cingraham.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tnlhrgmbce34nvpyti46miej/bafkreie6c5c7nwzkkqajc4fjrvbecytzfuwbqcgglfe4sytuvt3ppxp5t4"
+			},
+			"date": "2025-10-29T12:55:49.193Z",
+			"content": "<p>when you put out enough food to get two cats through one day, but for some reason it only lasts for 2/3rds of a day</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wccyfb2evnl5q2zz5b2izmrn/app.bsky.feed.post/3m4djdedq4s27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/claudiasnell.bsky.social/post/3m4djdedq4s27",
+			"private": true,
+			"date": "2025-10-29T13:08:04.259Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3m4dkksuv2226",
+			"parentId": "at://did:plc:wccyfb2evnl5q2zz5b2izmrn/app.bsky.feed.post/3m4djdedq4s27",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3m4dkksuv2226",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-10-29T13:30:08.128Z",
+			"content": "<p>\"look at the sleeping bag ... it has too many eyes\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4dllhmogc2a",
+			"parentId": "at://did:plc:wccyfb2evnl5q2zz5b2izmrn/app.bsky.feed.post/3m4djdedq4s27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4dllhmogc2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-29T13:48:23.621Z",
+			"content": "<p>ahah at our house we have to do a cat-chair-check before we unrecline the big comfy chair</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wccyfb2evnl5q2zz5b2izmrn/app.bsky.feed.post/3m4do344dqk2p",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3m4dkksuv2226",
+			"url": "https://bsky.app/profile/claudiasnell.bsky.social/post/3m4do344dqk2p",
+			"private": true,
+			"date": "2025-10-29T14:32:55.907Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wccyfb2evnl5q2zz5b2izmrn/app.bsky.feed.post/3m4dokolhc22p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4dllhmogc2a",
+			"url": "https://bsky.app/profile/claudiasnell.bsky.social/post/3m4dokolhc22p",
+			"private": true,
+			"date": "2025-10-29T14:41:38.592Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u763s22bpwrklezcdpvywsvy/app.bsky.feed.post/3m4dtem4djk24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/simonbarsinister.bsky.social/post/3m4dtem4djk24",
+			"author": {
+				"name": "Simon Bar Sinister",
+				"url": "https://bsky.app/profile/simonbarsinister.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u763s22bpwrklezcdpvywsvy/bafkreiaplhw6gko3skezfwazq3rcyl43se2sd5zagxuyv3rgnoktauzn6a"
+			},
+			"date": "2025-10-29T16:07:43.383Z",
+			"content": "<p>Or only one cat named schrodinger</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4du3a3zqc2q",
+			"parentId": "at://did:plc:u763s22bpwrklezcdpvywsvy/app.bsky.feed.post/3m4dtem4djk24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4du3a3zqc2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-29T16:20:22.542Z",
+			"content": "<p>I love the cats too much to find out</p>",
+			"via": "bluesky"
+		}
+	]
+}

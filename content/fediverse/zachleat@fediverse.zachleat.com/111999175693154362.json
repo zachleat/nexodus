@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "111999483847001113",
+			"parentId": 0,
+			"url": "https://c.im/@cwilcox808/111999483679488382",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2024-02-26T19:41:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mikeneu\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mikeneu</span></a></span> <br>Neat! I think it could benefit from a toggle to make it a static transcript, without the interactivity, so people can read it without the timecodes or button semantics while using a screen reader or any text-to-speech tech.</p><p>The toggle control could do something like add/remove a 'static' class on the custom element and make the click handler inactive.</p><p>```CSS<br>youtube-deep-link.static [data-offset] button {<br>    display: none;<br>}<br>```</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111999485606343538",
+			"parentId": "111999483847001113",
+			"url": "https://c.im/@cwilcox808/111999485155714408",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2024-02-26T19:41:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mikeneu\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mikeneu</span></a></span> <br>Also, the spans have `role=\"button\"` but shouldn't.<br>`&lt;span data-offset=\"0\" role=\"button\"&gt;&lt;button type=\"button\"&gt;00:00&lt;/button&gt;All right, what's up everybody?&lt;/span&gt;`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111999514583363769",
+			"parentId": "111999485606343538",
+			"url": "https://fediverse.zachleat.com/@zachleat/111999514583363769",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-26T19:49:28.131Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mikeneu\" class=\"u-url mention\">@<span>mikeneu</span></a></span> ah dang—good catch, I changed my approach right before posting and forgot to remove that piece—deploying a fix now!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112010042283228853",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112010042283228853",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-28T16:26:48.080Z",
+			"content": "<p>I wrote up a bit more about this here: <a href=\"https://fediverse.zachleat.com/@zachleat/112009677115338756\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/112009677115338756</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

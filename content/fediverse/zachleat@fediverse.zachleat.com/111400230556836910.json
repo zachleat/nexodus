@@ -1,0 +1,286 @@
+{
+	"comments": [
+		{
+			"id": "111400253684791503",
+			"parentId": 0,
+			"url": "https://social.ericwbailey.website/@eric/111400253658412648",
+			"private": true,
+			"date": "2023-11-12T23:49:32.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400257360560009",
+			"parentId": 0,
+			"url": "https://front-end.social/@benschwarz/111400257319767281",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2023-11-12T23:50:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I’ve not enacted any changes to tabs (always opted for spaces coming from Ruby), but turns out tabs are better for accessibility. For that reason alone it’s a reasonable and justified choice</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400266411629785",
+			"parentId": "111400253684791503",
+			"url": "https://fediverse.zachleat.com/@zachleat/111400266411629785",
+			"private": true,
+			"date": "2023-11-12T23:52:46.682Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400274096537540",
+			"parentId": "111400257360560009",
+			"url": "https://fediverse.zachleat.com/@zachleat/111400274096537540",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-12T23:54:43.944Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> if only being reasonable and justified reduced the amount of opinions received 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400625578086219",
+			"parentId": "111400274096537540",
+			"url": "https://front-end.social/@benschwarz/111400625524421015",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2023-11-13T01:24:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> let me guess—25 year old dudes who don’t have any contributions to the project</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400690074726162",
+			"parentId": "111400266411629785",
+			"url": "https://social.ericwbailey.website/@eric/111400690050307394",
+			"private": true,
+			"date": "2023-11-13T01:40:30.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400882587856993",
+			"parentId": "111400690074726162",
+			"url": "https://fediverse.zachleat.com/@zachleat/111400882587856993",
+			"private": true,
+			"date": "2023-11-13T02:29:28.785Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400885762181642",
+			"parentId": "111400625578086219",
+			"url": "https://fediverse.zachleat.com/@zachleat/111400885762181642",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-13T02:30:17.221Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> definitely not contributing, I suspect they likely aren’t even using the project 🫣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111400998220952277",
+			"parentId": 0,
+			"url": "https://mastodonapp.uk/@katerberg/111400998202398268",
+			"author": {
+				"name": "katerberg",
+				"url": "https://mastodonapp.uk/@katerberg",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/723/611/967/857/original/83d452fb41848574.png"
+			},
+			"date": "2023-11-13T02:58:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I just don’t get it. Every editor autofixes this for everyone. Who is even hurt by this change!?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111401405329852918",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@haliphax/111401405294461402",
+			"author": {
+				"name": "haliphax 👾",
+				"url": "https://hachyderm.io/@haliphax",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/141/298/839/313/original/20871e623058c1d4.jpg"
+			},
+			"date": "2023-11-13T04:42:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> For folks who don't directly benefit, editors and source tools treat it all the same and abstract the difference away from you, anyway. People just need to be mad about something, I guess.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111401451257797428",
+			"parentId": "111400885762181642",
+			"url": "https://front-end.social/@benschwarz/111401451225218675",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2023-11-13T04:54:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> yep this is unsurprising. Glad you locked the thread and moved on 🫡</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111401515405478610",
+			"parentId": "111401451257797428",
+			"url": "https://toot.cafe/@slightlyoff/111401515196671478",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-11-13T05:10:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> As someone that ran a JS \"tabs over spaces\" project (with a fated 4:1 ratio, don't at me) for most of a decade, allow me to celebrate your sparkling good taste and thoughtful \"there is no way but the local standard\" approach.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111401585866562256",
+			"parentId": "111401515405478610",
+			"url": "https://front-end.social/@benschwarz/111401585632123230",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2023-11-13T05:28:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> imo every project should have defined editorconfig, code formatters, linting, etc etc, and PR checks to enforce it. No one should ever have to think about it beyond the initial setup</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111401654816460208",
+			"parentId": "111401585866562256",
+			"url": "https://toot.cafe/@slightlyoff/111401654667579930",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-11-13T05:45:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> 💯</p><p>All preference should melt into code contribution intention. Anything in the way of that (modulo IP needs) is a bug.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111402685464868696",
+			"parentId": 0,
+			"url": "https://social.linux.pizza/@wemic/111402685432043022",
+			"author": {
+				"name": "Conor C. Peterson :kirby_fly:",
+				"url": "https://social.linux.pizza/@wemic",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/951/225/658/828/743/original/639c40e5ba1bf9fd.png"
+			},
+			"date": "2023-11-13T10:07:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> </p><p>Ooh! I didn't know tabs were more accessible than spaces!</p><p>Furthermore, I realize I've been learning about website accessibility, but source code accessibility never even crossed my mind.. 😅</p><p>Could someone explain to me, or point me to a write-up about, why tabs are more accessible and about source code accessibility in general? ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111402978452011830",
+			"parentId": "111400882587856993",
+			"url": "https://mastodon.social/@ollicle/111402978362509166",
+			"private": true,
+			"date": "2023-11-13T11:22:27.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111404044868918332",
+			"parentId": "111402685464868696",
+			"url": "https://fosstodon.org/@eleventy/111404044821292439",
+			"author": {
+				"name": "Eleventy 🎈 v3.1.0-beta.1",
+				"url": "https://fosstodon.org/@eleventy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/325/867/586/024/180/original/bd29326a4a4c57c3.png"
+			},
+			"date": "2023-11-13T15:53:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.linux.pizza/@wemic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>wemic</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the original issue had some more context! <a href=\"https://github.com/11ty/eleventy/issues/3098\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/3098</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111404135357213441",
+			"parentId": "111401515405478610",
+			"url": "https://fediverse.zachleat.com/@zachleat/111404135357213441",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-13T16:16:42.106Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> 4:1 ratio, alex you can’t be out here admitting things like that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111404440504730486",
+			"parentId": "111400882587856993",
+			"url": "https://social.ericwbailey.website/@eric/111404440473694474",
+			"private": true,
+			"date": "2023-11-13T17:34:17.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111404488898732896",
+			"parentId": "111404044868918332",
+			"url": "https://social.linux.pizza/@wemic/111404488696475659",
+			"author": {
+				"name": "Conor C. Peterson :kirby_fly:",
+				"url": "https://social.linux.pizza/@wemic",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/951/225/658/828/743/original/639c40e5ba1bf9fd.png"
+			},
+			"date": "2023-11-13T17:46:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Excellent, thank you! :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111404789562043830",
+			"parentId": "111404135357213441",
+			"url": "https://toot.cafe/@slightlyoff/111404789300978354",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-11-13T19:03:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Did I mention that I once wrote a JS library that used inline XML (DocBook) and custom XSLT-FO templates to generate documentation?</p><p>Or that I once wrote custom OpenLDAP schemas to build a web Auth system?</p><p>Or that I once used XSLT in Oracle 8i Java Stored Proceedures to do templating?</p><p>If you don't have regrets, you aren't trying hard enough.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111404931947889695",
+			"parentId": "111404789562043830",
+			"url": "https://fediverse.zachleat.com/@zachleat/111404931947889695",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-13T19:39:17.116Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> Don’t threaten me with a good time! I loved clientside XSLT in the IE heyday—it was so much speedier than DOM APIs.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111404932547921750",
+			"parentId": "111404789562043830",
+			"url": "https://aus.social/@subtl/111404932253094764",
+			"author": {
+				"name": "Stephen",
+				"url": "https://aus.social/@subtl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/555/382/772/753/022/original/1e6de56727995d45.jpg"
+			},
+			"date": "2023-11-13T19:39:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> XSL-FO! Hashtag that's a name I've not heard in a long time dot gif! </p><p>I used Apache Cocoon to generate PDFs out of a database for publication back in the naughts. </p><p>And modxslt on top of an SVN repo for templating...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111412131827955596",
+			"parentId": "111404931947889695",
+			"url": "https://fosstodon.org/@pauleveritt/111412131806337514",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-11-15T02:10:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> It's not often I get to admit in public my infatuation with XSLT.</p>",
+			"via": "fediverse"
+		}
+	]
+}

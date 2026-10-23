@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "113034572439522292",
+			"parentId": 0,
+			"url": "https://mas.to/@williamoconnell/113034572424879384",
+			"author": {
+				"name": "William O'Connell",
+				"url": "https://mas.to/@williamoconnell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/897/760/366/326/original/5eb264bbdee235cb.jpg"
+			},
+			"date": "2024-08-27T14:58:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, even if all ~30,000 mastodon instances hit the server within 60 seconds (unlikely), that's still only 500 requests per second. That seems pretty manageable? At least for public content that's identical for every user. A real DDoS by an attacker can be *millions* of requests per second.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034646645690297",
+			"parentId": "113034572439522292",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034646645690297",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:17:09.921Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@williamoconnell\" class=\"u-url mention\">@<span>williamoconnell</span></a></span> yeah, that third blog post notes a hypothetical of 6.7k simultaneous requests—which seems like a lot!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034724270411864",
+			"parentId": "113034646645690297",
+			"url": "https://mas.to/@williamoconnell/113034724246666201",
+			"author": {
+				"name": "William O'Connell",
+				"url": "https://mas.to/@williamoconnell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/897/760/366/326/original/5eb264bbdee235cb.jpg"
+			},
+			"date": "2024-08-27T15:36:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It says they're supposed to be spread over 60 seconds though. In practice probably more, since it should take some time for all the instances to pick up the post in the first place. The author says \"I'm yet to see that work for me\" but I'm unclear of that means they have evidence that it isn't happening or their site is just still crashing regardless. The lack of specific data makes it hard to draw conclusions.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034740631783379",
+			"parentId": "113034724270411864",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034740631783379",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:41:04.044Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@williamoconnell\" class=\"u-url mention\">@<span>williamoconnell</span></a></span> I’d assume that is just a timing issue between writing of the blog post and the rollout of the 60s “jitter” addition—a temporary mitigation for sure.</p><p>Mastodon *could* upload the preview as an asset sidecar’d with the post, similar to any image upload.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113035992850225764",
+			"parentId": 0,
+			"url": "https://noc.social/@jmhobbs/113035979388918621",
+			"author": {
+				"name": "John Hobbs",
+				"url": "https://noc.social/@jmhobbs",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/643/112/093/823/original/c06a0b7573edfdb2.jpg"
+			},
+			"date": "2024-08-27T20:56:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would think with session reuse you wouldn't pay that TLS connection cost constantly. Also I imagine OpenSSL/BoringSSL has improved in the last seven years, and more cryptographic operations are done in CPU now then back then.</p><p>That said I don't think I'd run anything without a caching server in front anymore, unless it was very server interactive and would miss constantly. Varnish did amazing things at Flywheel.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113046317427360432",
+			"parentId": "113035992850225764",
+			"url": "https://fediverse.zachleat.com/@zachleat/113046317427360432",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-29T16:45:11.916Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://noc.social/@jmhobbs\" class=\"u-url mention\">@<span>jmhobbs</span></a></span> great insight, thank you!</p><p>As a side note I think I’ve seen some of these caching defaults play out at the serverless platform level recently: <a href=\"https://www.zachleat.com/web/serverless-cost/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/serverless-co</span><span class=\"invisible\">st/</span></a> Some platforms are born from use cases that are intensely personalized, not heavily cached.</p>",
+			"via": "fediverse"
+		}
+	]
+}

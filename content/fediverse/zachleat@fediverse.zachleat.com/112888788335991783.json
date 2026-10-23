@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "112889022788892964",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/112889022604216570",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-01T22:03:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s called localhost for a reason zach</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112889037222174696",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112889037193718820",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-01T22:06:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You're speedrunning all of the gotchas, and I'm here for it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892662188292578",
+			"parentId": "112889022788892964",
+			"url": "https://fediverse.zachleat.com/@zachleat/112892662188292578",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-02T13:28:39.036Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> I’m considering putting a server in my house at this point 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892925052786228",
+			"parentId": "112892662188292578",
+			"url": "https://mastodon.cc/@jgarber/112892924946538705",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-02T14:35:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> a literal home page!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892926684032437",
+			"parentId": "112892662188292578",
+			"url": "https://mastodon.cc/@jgarber/112892926557212462",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-02T14:35:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also had the same intrusive thought on an increasingly frequent cadence</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112892971885712694",
+			"parentId": "112892925052786228",
+			"url": "https://fediverse.zachleat.com/@zachleat/112892971885712694",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-02T14:47:24.643Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> a personal home page, …wait</p>",
+			"via": "fediverse"
+		}
+	]
+}

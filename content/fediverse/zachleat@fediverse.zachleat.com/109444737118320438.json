@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "109444991481168197",
+			"parentId": 0,
+			"url": "https://toot.cafe/@accessiblestef/109444991420313424",
+			"author": {
+				"name": "Stéphane Deschamps",
+				"url": "https://toot.cafe/@accessiblestef",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/770/108/129/802/original/98f5333c1cd98a89.jpg"
+			},
+			"date": "2022-12-02T16:20:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I guess you're probably 50% tongue in cheek here, but I'd venture to ask nonetheless:<br>I'd make a difference between web sites (content) and web apps; the former is for consumption on display of the page and is then usually (hopefully) cached by the browser and/or retrieved by tools like pocket, wallabag etc., the latter needs to handle actions as an offline feature to be updated when it has the chance to do so.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109445241597881549",
+			"parentId": "109444991481168197",
+			"url": "https://fediverse.zachleat.com/@zachleat/109445241597881549",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-02T17:24:15.441Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@accessiblestef\" class=\"u-url mention\">@<span>accessiblestef</span></a></span> I think this one was probably 80 or 90% tongue-in-cheek. I do think offline sites are valuable but to me it’s a “code smell”-esque issue when we have to bifurcate entire properties into sites versus apps for technical reasons. I think that bifurcation should be done at the smaller component/module/design block level</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109445258400261768",
+			"parentId": "109445241597881549",
+			"url": "https://toot.cafe/@accessiblestef/109445258134968569",
+			"author": {
+				"name": "Stéphane Deschamps",
+				"url": "https://toot.cafe/@accessiblestef",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/770/108/129/802/original/98f5333c1cd98a89.jpg"
+			},
+			"date": "2022-12-02T17:28:27.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> … and I do agree :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109445259630589626",
+			"parentId": "109445258400261768",
+			"url": "https://fediverse.zachleat.com/@zachleat/109445259630589626",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-02T17:28:50.591Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@accessiblestef\" class=\"u-url mention\">@<span>accessiblestef</span></a></span> agreement high five! 🙏🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109445283077362727",
+			"parentId": "109445259630589626",
+			"url": "https://toot.cafe/@accessiblestef/109445282969271301",
+			"author": {
+				"name": "Stéphane Deschamps",
+				"url": "https://toot.cafe/@accessiblestef",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/770/108/129/802/original/98f5333c1cd98a89.jpg"
+			},
+			"date": "2022-12-02T17:34:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hehe 😁</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109450051094205565",
+			"parentId": 0,
+			"url": "https://techhub.social/@ethanc/109450051037348043",
+			"author": {
+				"name": "EthanC",
+				"url": "https://techhub.social/@ethanc",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-03T13:47:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is a laptop sticker! I’ll buy one when they’re ready.</p>",
+			"via": "fediverse"
+		}
+	]
+}

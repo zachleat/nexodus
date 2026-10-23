@@ -1,0 +1,504 @@
+{
+	"comments": [
+		{
+			"id": "111268058327935247",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mknepprath/111268058111173812",
+			"author": {
+				"name": "Michael Knepprath",
+				"url": "https://mastodon.social/@mknepprath",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/813/515/584/153/original/cf6df8121a066d8f.jpeg"
+			},
+			"date": "2023-10-20T15:30:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> how do I take part? Any primers on modern and or near future CSS??</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268059665232992",
+			"parentId": 0,
+			"url": "https://social.lol/@anniegreens/111268059620431994",
+			"private": true,
+			"date": "2023-10-20T15:30:51.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268061312160907",
+			"parentId": "111268058327935247",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268061312160907",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:31:16.958Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\">@<span>mknepprath</span></a></span> my best recommendation is to be friends with <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268066583399158",
+			"parentId": "111268059665232992",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268066583399158",
+			"private": true,
+			"date": "2023-10-20T15:32:37.389Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268069868223758",
+			"parentId": 0,
+			"url": "https://front-end.social/@sturobson/111268069827316645",
+			"author": {
+				"name": "Stu Robson",
+				"url": "https://front-end.social/@sturobson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/080/951/366/767/original/890b671ce87c51ca.jpeg"
+			},
+			"date": "2023-10-20T15:33:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> meet my new framework PrimaveraCSS [dot] dev</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268070092076634",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jed/111268069971364472",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2023-10-20T15:33:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> *Renaicssance</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268072182448638",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jimniels/111268071917054058",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2023-10-20T15:33:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's right there in the word…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268073334715281",
+			"parentId": "111268070092076634",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268073334715281",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:34:20.407Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> *stares at the now prominent AI hiding in plain sight*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268077163781039",
+			"parentId": "111268072182448638",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268077163781039",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:35:18.834Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> I…</p><p>Jim did you use flex-direction on this word</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268089135327043",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jimray/111268088992910965",
+			"author": {
+				"name": "jimray",
+				"url": "https://mastodon.social/@jimray",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/338/923/969/757/183/original/e6f25b3943e72d40.png"
+			},
+			"date": "2023-10-20T15:38:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> new features are dropping faster than I can be amazed by how awesome they are!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268091351726954",
+			"parentId": "111268058327935247",
+			"url": "https://indieweb.social/@jaredwhite/111268091307066944",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2023-10-20T15:38:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mknepprath</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Shameless plug that I'm furiously readying a new CSS Architecture course for this very reason 😁<br>cc <span class=\"h-card\" translate=\"no\"><a href=\"https://social.spicyweb.dev/@vanilla\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>vanilla</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268091792735055",
+			"parentId": "111268089135327043",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268091792735055",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:39:02.054Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimray\" class=\"u-url mention\">@<span>jimray</span></a></span> haha yes this is exactly it 🎯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268094968656139",
+			"parentId": "111268091351726954",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268094968656139",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:39:50.515Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\">@<span>jaredwhite</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\">@<span>mknepprath</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.spicyweb.dev/@vanilla\" class=\"u-url mention\">@<span>vanilla</span></a></span> (hell yeah)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268107317713700",
+			"parentId": 0,
+			"url": "https://front-end.social/@argyleink/111268107075789939",
+			"author": {
+				"name": "Adam Argyle",
+				"url": "https://front-end.social/@argyleink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/665/618/277/901/810/original/af74c41e86821d63.png"
+			},
+			"date": "2023-10-20T15:42:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> t'is known</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268109445951707",
+			"parentId": 0,
+			"url": "https://front-end.social/@eeeps/111268109419982845",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-10-20T15:43:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span><br>So if, like, Bert &amp; Håkon were the ancient Greeks, and Elika, Tab, &amp;c were sixteenth-century Italians, that makes Mia &amp;co.... The Ninja Turtles? 🍕</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268113869914767",
+			"parentId": "111268077163781039",
+			"url": "https://mastodon.social/@jimniels/111268113791174020",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2023-10-20T15:44:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you know how you could play a record backwards and find hidden (diabolical) messages?</p><p>i saw what you were doing there…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268120611396344",
+			"parentId": "111268107317713700",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268120611396344",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:46:21.793Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@argyleink\" class=\"u-url mention\">@<span>argyleink</span></a></span> I didn’t know you could play the lute!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268122541213462",
+			"parentId": "111268109445951707",
+			"url": "https://fediverse.zachleat.com/@zachleat/111268122541213462",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T15:46:51.238Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> cowabunga!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268191970917496",
+			"parentId": 0,
+			"url": "https://mastodon.gamedev.place/@britown/111268191939390231",
+			"private": true,
+			"date": "2023-10-20T16:04:30.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268272255687584",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@ematipico/111268272236886295",
+			"author": {
+				"name": "Emanuele Stoppa",
+				"url": "https://fosstodon.org/@ematipico",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/529/543/013/765/525/original/531b26a595823c68.png"
+			},
+			"date": "2023-10-20T16:24:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> CSS Nesting really gave a great boost</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268276404386659",
+			"parentId": 0,
+			"url": "https://techhub.social/@mrtnvh/111268276129945003",
+			"author": {
+				"name": "mrtnvh",
+				"url": "https://techhub.social/@mrtnvh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/380/508/119/524/637/original/4f88fb1c9533aebc.jpg"
+			},
+			"date": "2023-10-20T16:25:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And Zen Garden is its Sistine Chapel?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268286776855783",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@luism/111268286764197646",
+			"author": {
+				"name": "Luis",
+				"url": "https://fosstodon.org/@luism",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-20T16:28:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Would you care to give more details? If I was about to start learning front end what would you recommend me to learn at the moment? (Know a little html, bootstrap and know what CSS is)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268297044462314",
+			"parentId": 0,
+			"url": "https://c.im/@matthewp/111268296988540302",
+			"author": {
+				"name": "Matthew Phillips",
+				"url": "https://c.im/@matthewp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
+			},
+			"date": "2023-10-20T16:31:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's really close to being a general purpose declarative programming language, and when that happens it's *really* going to explode.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268390779161884",
+			"parentId": 0,
+			"url": "https://mastodon.social/@devolute/111268390622322253",
+			"author": {
+				"name": "devolute",
+				"url": "https://mastodon.social/@devolute",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/142/474/609/017/original/b1af8b9e7c70331a.jpg"
+			},
+			"date": "2023-10-20T16:55:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268627208872598",
+			"parentId": "111268061312160907",
+			"url": "https://front-end.social/@mia/111268627175125361",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2023-10-20T17:55:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mknepprath</span></a></span> whoa, hello new fedi-friends 👋🏼</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268688075274571",
+			"parentId": "111268297044462314",
+			"url": "https://mastodon.social/@scrwd/111268686261705328",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-10-20T18:10:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@matthewp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matthewp</span></a></span> I misread this as \"zachleat IS really close to being a general purpose declarative programming language...\" and I got a little excited about all my future .zach files</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268819996297310",
+			"parentId": "111268627208872598",
+			"url": "https://mastodon.social/@autiomaa/111268819938874304",
+			"author": {
+				"name": "Daniel Schildt",
+				"url": "https://mastodon.social/@autiomaa",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/289/921/713/842/917/original/fc5b84e5c240cbfb.jpg"
+			},
+			"date": "2023-10-20T18:44:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mia</span></a></span> Miriam, thank you for all the great work you have done to make web development more understandable. ☺️</p><p>And for <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> about reminding us about good things.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111268827816464548",
+			"parentId": "111268058327935247",
+			"url": "https://front-end.social/@sarajw/111268827789962313",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-10-20T18:46:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mknepprath</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also <a href=\"https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">matuzo.at/blog/2022/100-days-o</span><span class=\"invisible\">f-more-or-less-modern-css/</span></a> from <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@matuzo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matuzo</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111269012499281101",
+			"parentId": "111268286776855783",
+			"url": "https://fediverse.zachleat.com/@zachleat/111269012499281101",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-20T19:33:10.919Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@luism\" class=\"u-url mention\">@<span>luism</span></a></span> this reply from <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> was great: <a href=\"https://fediverse.zachleat.com/@sarajw@front-end.social/111268827816464548\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@sarajw</span><span class=\"invisible\">@front-end.social/111268827816464548</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111269054532409541",
+			"parentId": 0,
+			"url": "https://social.vivaldi.net/@w0whitaker/111269054377262891",
+			"author": {
+				"name": "w0whitaker",
+				"url": "https://social.vivaldi.net/@w0whitaker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/031/461/624/260/335/original/eecd7b7d39199b5f.png"
+			},
+			"date": "2023-10-20T19:43:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> let’s keep things in perspective</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111269081068503834",
+			"parentId": "111268286776855783",
+			"url": "https://front-end.social/@sarajw/111269081025519938",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-10-20T19:50:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@luism\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luism</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also have you seen the courses at freecodecamp? They're pretty well structured: <a href=\"https://www.freecodecamp.org/learn/2022/responsive-web-design/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">freecodecamp.org/learn/2022/re</span><span class=\"invisible\">sponsive-web-design/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111269515158711906",
+			"parentId": "111269012499281101",
+			"url": "https://fosstodon.org/@luism/111269515122395236",
+			"author": {
+				"name": "Luis",
+				"url": "https://fosstodon.org/@luism",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-20T21:41:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> It is. Thank you both for the guidance. What I wanted to know about 'CSS Renaissance'. Did you mean a new (I don't know if version is the appropriate word) version of CSS is on the way?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111269866557081946",
+			"parentId": 0,
+			"url": "https://ruby.social/@Kowfm/111269866533414618",
+			"author": {
+				"name": "Karl Oscar Weber",
+				"url": "https://ruby.social/@Kowfm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/179/437/243/965/original/3149424c6c3b6da4.png"
+			},
+			"date": "2023-10-20T23:10:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I UNDERSRAND IT!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111270042646875965",
+			"parentId": "111268058327935247",
+			"url": "https://front-end.social/@keithjgrant/111270041648603260",
+			"private": true,
+			"date": "2023-10-20T23:54:54.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111270104854348658",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ollicle/111270104812210265",
+			"author": {
+				"name": "Ollie Boermans",
+				"url": "https://mastodon.social/@ollicle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/494/731/887/601/original/cd153c11973efda8.png"
+			},
+			"date": "2023-10-21T00:10:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It really is quite the ride ain’t it! 🎢</p><p>I could have never guessed when I started learning CSS… (checks notes, a little over two decades ago) that I would still be loving and learning it.</p><p>The last few years have been monumental.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111271361227707458",
+			"parentId": "111269515158711906",
+			"url": "https://front-end.social/@sarajw/111271361196745281",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-10-21T05:30:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@luism\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luism</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No rather that CSS has been really active for the last couple of years and continues to be, packing in powerful feature after feature</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111271566882545592",
+			"parentId": "111268058327935247",
+			"url": "https://front-end.social/@matuzo/111271566758422697",
+			"author": {
+				"name": "Manuel Matuzović",
+				"url": "https://front-end.social/@matuzo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/417/730/820/306/840/original/022a549117f8cfc1.jpg"
+			},
+			"date": "2023-10-21T06:22:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mknepprath</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My advanced CSS workshop could be interesting, as well. </p><p><a href=\"https://smashingconf.com/online-workshops/workshops/modern-css-manuel-matuzovic/#main-content\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">smashingconf.com/online-worksh</span><span class=\"invisible\">ops/workshops/modern-css-manuel-matuzovic/#main-content</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111271820408655138",
+			"parentId": 0,
+			"url": "https://indieweb.social/@iamschulz/111271820395698660",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2023-10-21T07:27:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Renaissance as in Return to ancient themes? Gimme that &lt;marquee&gt;!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111274014818519248",
+			"parentId": "111271361227707458",
+			"url": "https://fosstodon.org/@luism/111274014800051614",
+			"author": {
+				"name": "Luis",
+				"url": "https://fosstodon.org/@luism",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-21T16:45:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ohhhh that is good to know.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111274794274948919",
+			"parentId": "111268058327935247",
+			"url": "https://front-end.social/@bramus/111274794232490375",
+			"author": {
+				"name": "Bramus",
+				"url": "https://front-end.social/@bramus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/102/299/028/125/original/42d2a3aaec1affc3.jpg"
+			},
+			"date": "2023-10-21T20:03:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mknepprath</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> here's an overview of some of the recent things that have landed.</p><p><a href=\"https://www.bram.us/2023/10/13/whats-new-in-css-2022-10-12-frontmania/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bram.us/2023/10/13/whats-new-i</span><span class=\"invisible\">n-css-2022-10-12-frontmania/</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

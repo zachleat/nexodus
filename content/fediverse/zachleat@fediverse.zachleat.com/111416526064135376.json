@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "111416638499017186",
+			"parentId": 0,
+			"url": "https://front-end.social/@ashur/111416638324189888",
+			"author": {
+				"name": "Slasher Calavera 🔪💀",
+				"url": "https://front-end.social/@ashur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/176/902/307/654/original/d571646a134e03af.jpeg"
+			},
+			"date": "2023-11-15T21:16:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> say no more fam</p><p>```<br>&lt;svg&gt;<br>    &lt;image href=\"beefy.png” /&gt;<br>&lt;/svg&gt;<br>```</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111416653589467390",
+			"parentId": "111416638499017186",
+			"url": "https://fediverse.zachleat.com/@zachleat/111416653589467390",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-15T21:20:15.171Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ashur\" class=\"u-url mention\">@<span>ashur</span></a></span> well wait a second</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004079378058331",
+			"parentId": 0,
+			"url": "https://xoxo.zone/@forresto/114004079336757141",
+			"author": {
+				"name": "forresto",
+				"url": "https://xoxo.zone/@forresto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/576/598/149/127/original/a5f72e255789e49f.jpg"
+			},
+			"date": "2025-02-14T20:16:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I like it... could we make it an option for all images? I've had certain png and gif files grow when converted to avif and webp.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114004341937353047",
+			"parentId": "114004079378058331",
+			"url": "https://fediverse.zachleat.com/@zachleat/114004341937353047",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-02-14T21:23:25.832Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://xoxo.zone/@forresto\" class=\"u-url mention\">@<span>forresto</span></a></span> I did some previous work with that assumption for raster versus raster formats: <a href=\"https://www.zachleat.com/web/featherweight-facepile/#enter-avatar-local-cache\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/featherweight</span><span class=\"invisible\">-facepile/#enter-avatar-local-cache</span></a></p><p>might be worth filing upstream! <a href=\"https://github.com/11ty/eleventy-img/issues\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-img/i</span><span class=\"invisible\">ssues</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

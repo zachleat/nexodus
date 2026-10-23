@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3mh7at43x5k2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/richholman.com/post/3mh7at43x5k2i",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://bsky.app/profile/richholman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fsgldxdhhtceel4mzjwko3ta/bafkreiewi2ur6qxzco7yrgr6h2saxguk4566paaicw23ijgc5oti2iq4du"
+			},
+			"date": "2026-03-16T20:02:17.766Z",
+			"content": "<p>If I click on this is it 48MB? 😂</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mh7bixygnk2w",
+			"parentId": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3mh7at43x5k2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mh7bixygnk2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-16T20:14:31.655Z",
+			"content": "<p>265.06 kB transferred in my devtools, fwiw</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3mh7bmnilts2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mh7bixygnk2w",
+			"url": "https://bsky.app/profile/richholman.com/post/3mh7bmnilts2i",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://bsky.app/profile/richholman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fsgldxdhhtceel4mzjwko3ta/bafkreiewi2ur6qxzco7yrgr6h2saxguk4566paaicw23ijgc5oti2iq4du"
+			},
+			"date": "2026-03-16T20:16:34.867Z",
+			"content": "<p>Nice.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z4n4sv6kreemazi5jiplpujt/app.bsky.feed.post/3mh7pc2ukfc2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/paulmelero.com/post/3mh7pc2ukfc2t",
+			"author": {
+				"name": "Paul Melero",
+				"url": "https://bsky.app/profile/paulmelero.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4n4sv6kreemazi5jiplpujt/bafkreihipnfhk3sxk47eferflplfx76nf5nxizvafgx6yylae3p35k6iye"
+			},
+			"date": "2026-03-17T00:21:12.178Z",
+			"content": "<p>Great article. Depicts our struggles perfectly.</p>\n<p>I created <a href=\"https://safe-reader.graficos.net\">safe-reader.graficos.net</a> to help cope with these dark patterns fatigue but then, I'm forced to avoid processing large pages like The Guardian to keep the server side volume low, since it's a pet project.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:libhp5xjgedqwzktwazv4dik/app.bsky.feed.post/3mha5efsqzs2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/meiert.com/post/3mha5efsqzs2l",
+			"author": {
+				"name": "Jens Oliver Meiert",
+				"url": "https://bsky.app/profile/meiert.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:libhp5xjgedqwzktwazv4dik/bafkreig5pq2yqbuuzxgqdm3almpltz3wcp2gtqe6onywlu3imipwvvogum"
+			},
+			"date": "2026-03-17T04:33:03.147Z",
+			"content": "<p>“The Economics of Hostile Architecture” 🫠</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4vkgnyrzk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4vkgnyrzk2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-05T17:15:44.087Z",
+			"content": "<p>just between us, it’s a web component</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4vkug4cus2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4vkgnyrzk2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4vkug4cus2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-05T17:23:25.575Z",
+			"content": "<p>this web component is now five years old and it has outlived many epochs of JavaScript frameworks incredible journey-ing their “best practices” into even bester practices</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cdc4tnsvxh374hn7dgfhjjjd/app.bsky.feed.post/3m4vobdgwek2f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4vkgnyrzk2t",
+			"url": "https://bsky.app/profile/andyjessop.bsky.social/post/3m4vobdgwek2f",
+			"author": {
+				"name": "AndyJessop",
+				"url": "https://bsky.app/profile/andyjessop.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cdc4tnsvxh374hn7dgfhjjjd/bafkreiceyp67nxz35x2zkqpj4rn7ogq5gbsa45zel4kyuyedrktywjx5au"
+			},
+			"date": "2025-11-05T18:24:20.211Z",
+			"content": "<p>Is that allowed?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4vpvsphpc2v",
+			"parentId": "at://did:plc:cdc4tnsvxh374hn7dgfhjjjd/app.bsky.feed.post/3m4vobdgwek2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4vpvsphpc2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-05T18:53:41.049Z",
+			"content": "<p>as long as folks on X don’t find out</p>",
+			"via": "bluesky"
+		}
+	]
+}

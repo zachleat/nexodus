@@ -1,0 +1,613 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:pqc6ujwy6pln2sdsfe6xyvxa/app.bsky.feed.post/3myfbtfdzk227",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ajr.sh/post/3myfbtfdzk227",
+			"author": {
+				"name": "Andrew Roberts",
+				"url": "https://bsky.app/profile/ajr.sh",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pqc6ujwy6pln2sdsfe6xyvxa/bafkreid2qcqctq6xcluolo7jr4hhbyh2goavumsrf6u7c3vew6xv7rjnaq"
+			},
+			"date": "2026-10-21T13:44:37.312Z",
+			"content": "<p>going to the SPA 🧖‍♂️🧖</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xdgfveo5ftvk2ml6f7qslejd/app.bsky.feed.post/3myfc7zxyis2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mrt.im/post/3myfc7zxyis2d",
+			"author": {
+				"name": "Tim Moore",
+				"url": "https://bsky.app/profile/mrt.im",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xdgfveo5ftvk2ml6f7qslejd/bafkreiddibt26x24425oqihzyhuwfo6cjou56ln7cticluok6z4d5ho5ie"
+			},
+			"date": "2026-10-21T13:51:41.590Z",
+			"content": "<p>There're reasons I stopped using WordPress and other CMS's and this is one of them, a big one.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfctchpmc2k",
+			"parentId": "at://did:plc:pqc6ujwy6pln2sdsfe6xyvxa/app.bsky.feed.post/3myfbtfdzk227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfctchpmc2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T14:02:28.030Z",
+			"content": "<p>…wait</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3myfddnja7225",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3myfddnja7225",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-10-21T14:11:36.485Z",
+			"content": "<p>I hope no one is still using those PHP sites I built 20 years ago! 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myfem4kr422l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3myfem4kr422l",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-10-21T14:34:14.437Z",
+			"content": "<p>Ironic thing to post on a social media website</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3myfh3dd6r22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3myfh3dd6r22f",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-10-21T15:18:32.333Z",
+			"content": "<p>every time I get mad I have to edit frontmatter or whatever I remember that at any point in time four trillion bots are bouncing off of my site like water off a very poorly coded duck's back</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fcz6ww6bnhtmplfznrubhwy7/app.bsky.feed.post/3myfi2dew222k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dhanushkumarsivaji.bsky.social/post/3myfi2dew222k",
+			"author": {
+				"name": "Dhanush Kumar Sivaji",
+				"url": "https://bsky.app/profile/dhanushkumarsivaji.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fcz6ww6bnhtmplfznrubhwy7/bafkreidqv5ytbtu7fm5h72n76d3mwuoprq3gagnaz6am422cf323byxbgu"
+			},
+			"date": "2026-10-21T15:35:52.576Z",
+			"content": "<p>Same thought today. Every server runtime you don't run is one less emergency patch. Even for apps that need a backend, keeping the marketing and docs pages static shrinks what you have to patch tonight.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rfp2zkaswyhiqiz6dknuguhz/app.bsky.feed.post/3myfi4qqxgs2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cjaythecreator.bsky.social/post/3myfi4qqxgs2f",
+			"author": {
+				"name": "Cj",
+				"url": "https://bsky.app/profile/cjaythecreator.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rfp2zkaswyhiqiz6dknuguhz/bafkreickgsb2grxaalloc5gchx65fuytlnmwbv3jtiyuuen75nxte25xma"
+			},
+			"date": "2026-10-21T15:37:13.712Z",
+			"content": "<p>Somewhere there's a developer protecting a personal blog with OAuth, Kubernetes, and military-grade encryption. It gets 11 visitors a month, eight of whom are bots.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3myfkdrnbz22u",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3myfddnja7225",
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3myfkdrnbz22u",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2026-10-21T16:16:57.005Z",
+			"content": "<p>The irony is they wouldn’t be affected.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfkgc2skc2p",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myfem4kr422l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfkgc2skc2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T16:18:21.334Z",
+			"content": "<p>only if you think a social media website can’t be static 🥹</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfkjrggok2p",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3myfh3dd6r22f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfkjrggok2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T16:20:18.105Z",
+			"content": "<p>when someone says agentic I always think of</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:w2gihpq7tne5i564jgdkf7o4/app.bsky.feed.post/3myfm6f3rus2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fridaygoodybag.bsky.social/post/3myfm6f3rus2i",
+			"author": {
+				"name": "Naomi \"Strings\"",
+				"url": "https://bsky.app/profile/fridaygoodybag.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:w2gihpq7tne5i564jgdkf7o4/bafkreicv4evu5omwegpqzcqv42jnappjuqkrppk2vqy75vyydsiqjlrc64"
+			},
+			"date": "2026-10-21T16:49:43.559Z",
+			"content": "<p>I just saw something about vulnerabilities in PHP. Wild. I'm static by night and vulnerable by day (my side hustle projects are all static, my day job is wordpress...)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:w2gihpq7tne5i564jgdkf7o4/app.bsky.feed.post/3myfm7fw66k2i",
+			"parentId": "at://did:plc:xdgfveo5ftvk2ml6f7qslejd/app.bsky.feed.post/3myfc7zxyis2d",
+			"url": "https://bsky.app/profile/fridaygoodybag.bsky.social/post/3myfm7fw66k2i",
+			"author": {
+				"name": "Naomi \"Strings\"",
+				"url": "https://bsky.app/profile/fridaygoodybag.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:w2gihpq7tne5i564jgdkf7o4/bafkreicv4evu5omwegpqzcqv42jnappjuqkrppk2vqy75vyydsiqjlrc64"
+			},
+			"date": "2026-10-21T16:50:17.979Z",
+			"content": "<p>For me it's because as much as I try I can't learn PHP  :/</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfm7zv5h22h",
+			"parentId": "at://did:plc:w2gihpq7tne5i564jgdkf7o4/app.bsky.feed.post/3myfm6f3rus2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfm7zv5h22h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T16:50:38.917Z",
+			"content": "<p>yes you likely need to update immediately!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:w2gihpq7tne5i564jgdkf7o4/app.bsky.feed.post/3myfmdjowpc2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfm7zv5h22h",
+			"url": "https://bsky.app/profile/fridaygoodybag.bsky.social/post/3myfmdjowpc2i",
+			"author": {
+				"name": "Naomi \"Strings\"",
+				"url": "https://bsky.app/profile/fridaygoodybag.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:w2gihpq7tne5i564jgdkf7o4/bafkreicv4evu5omwegpqzcqv42jnappjuqkrppk2vqy75vyydsiqjlrc64"
+			},
+			"date": "2026-10-21T16:52:36.154Z",
+			"content": "<p>yep!! on it  :🫢</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfmjhp26k2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3myfmjhp26k2q",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-21T16:55:55.387Z",
+			"content": "<p>*but who serves the static site*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3myfmupcod22p",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfmjhp26k2q",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3myfmupcod22p",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2026-10-21T17:02:12.469Z",
+			"content": "<p>In my case, Node</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4ro56gbge42enizovzvvw5sn/app.bsky.feed.post/3myfmxvwu322u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/programmerman.net/post/3myfmxvwu322u",
+			"private": true,
+			"date": "2026-10-21T17:04:00.066Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfn2s6ecs2y",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfmjhp26k2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfn2s6ecs2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T17:05:36.800Z",
+			"content": "<p>hand delivered by carrier pigeon or station wagon (full of hard drives)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfn3j25ck2y",
+			"parentId": "at://did:plc:4ro56gbge42enizovzvvw5sn/app.bsky.feed.post/3myfmxvwu322u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfn3j25ck2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T17:06:00.779Z",
+			"content": "<p>the lazy pit of success</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3myfn5azcos2r",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfn2s6ecs2y",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3myfn5azcos2r",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-10-21T17:06:59.467Z",
+			"content": "<p>are they 5G pigeons or fiber? Where can I sign up?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfn5uwhec2y",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3myfmupcod22p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfn5uwhec2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T17:07:20.350Z",
+			"content": "<p>computers are a mistake</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfna37nxs2y",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3myfn5azcos2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfna37nxs2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T17:08:34.052Z",
+			"content": "<p><a href=\"https://localhost:8080/\">localhost:8080</a> has all the details</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fxmgj7lnas3ewnc3hmpx2vg6/app.bsky.feed.post/3myfnvcam5c2v",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfmjhp26k2q",
+			"url": "https://bsky.app/profile/daviddalbusco.com/post/3myfnvcam5c2v",
+			"author": {
+				"name": "David Dal Busco",
+				"url": "https://bsky.app/profile/daviddalbusco.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fxmgj7lnas3ewnc3hmpx2vg6/bafkreiept4lscxjjl2cbajleis7yuifxikijrmovxgeo5ulnombklvicdq"
+			},
+			"date": "2026-10-21T17:20:26.066Z",
+			"content": "<p>I build my own engine to serve mine. No Node, no PHP.</p>\n<p><a href=\"https://kyushu.dev/\">kyushu.dev</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3myfo3ymiqk2l",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3myfh3dd6r22f",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3myfo3ymiqk2l",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-10-21T17:24:10.847Z",
+			"content": "<p>And with <a href=\"https://bsky.app/profile/did:plc:koqqgbhi3dvmcp2jyzfo7x3c\">@sveltiacms.app</a> you don’t even need to edit frontmatter!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nui45haxm5luyv6e7icmiocv/app.bsky.feed.post/3myfoj3gwoc2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/inittowinit.bsky.social/post/3myfoj3gwoc2s",
+			"private": true,
+			"date": "2026-10-21T17:31:30.021Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3myfqn2t3k222",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfmjhp26k2q",
+			"url": "https://bsky.app/profile/lukewarlow.dev/post/3myfqn2t3k222",
+			"author": {
+				"name": "Luke",
+				"url": "https://bsky.app/profile/lukewarlow.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uthwv2jcpcccf4ec2bzsavg7/bafkreia3pmnk72btquz6ufuupstzrg7tb23smpinwmfntnk7lfl2gj7xae"
+			},
+			"date": "2026-10-21T18:09:31.068Z",
+			"content": "<p>A memory safe web server / reverse proxy. Because obviously something as critical as that would be memory safe. We're not all running c code in the critical path still right... Right?!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:by37yibrnecwxwjpfrmyrfhx/app.bsky.feed.post/3myfrkmq3ws2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dan.mu.social/post/3myfrkmq3ws2l",
+			"author": {
+				"name": "Dan from the MUniverse",
+				"url": "https://bsky.app/profile/dan.mu.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:by37yibrnecwxwjpfrmyrfhx/bafkreihdlme56tlawy5dpvzo4mvnzass4nbjviqx4tzth7hneudxfjho7a"
+			},
+			"date": "2026-10-21T18:26:02.927Z",
+			"content": "<p>D̶o̶n̶'̶t̶ give me static</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfth7kei22t",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3myfqn2t3k222",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3myfth7kei22t",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-21T18:59:55.928Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3myftlu37cc22",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfth7kei22t",
+			"url": "https://bsky.app/profile/lukewarlow.dev/post/3myftlu37cc22",
+			"author": {
+				"name": "Luke",
+				"url": "https://bsky.app/profile/lukewarlow.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uthwv2jcpcccf4ec2bzsavg7/bafkreia3pmnk72btquz6ufuupstzrg7tb23smpinwmfntnk7lfl2gj7xae"
+			},
+			"date": "2026-10-21T19:02:31.669Z",
+			"content": "<p><a href=\"https://caddyserver.com/\">caddyserver.com</a> caddy is your friend. 😛</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:aqnxbzvim7qxflrdq2hinpd5/app.bsky.feed.post/3myfu3dvnuc2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peterbowyer.bsky.social/post/3myfu3dvnuc2h",
+			"author": {
+				"name": "Peter Bowyer",
+				"url": "https://bsky.app/profile/peterbowyer.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:aqnxbzvim7qxflrdq2hinpd5/bafkreig34yq6mhqrtbke3w5wk3jqjbhwxmhj7snbjan7vgg2hye4ujbefu"
+			},
+			"date": "2026-10-21T19:11:11.581Z",
+			"content": "<p>I was feeling smug, then remembered I'd dropped a PHP file into my static site to screen and email me form submissions...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4p7hc6uwbumw2tqamaatnt2y/app.bsky.feed.post/3myfutnkods2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/robertstowe.com/post/3myfutnkods2u",
+			"author": {
+				"name": "Robert Stowe",
+				"url": "https://bsky.app/profile/robertstowe.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4p7hc6uwbumw2tqamaatnt2y/bafkreifrrxq7sgb55viuzdn36esbnpakct3wpixqjxy3b55kxmeb7cqz2u"
+			},
+			"date": "2026-10-21T19:24:46.969Z",
+			"content": "<p>I think the underrated part is where the risk moves. With static output, a vulnerable dependency lives in the build rather than on a running server, so patching becomes a rebuild and a deploy instead of a scramble to find out what was exposed.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myfvceyl722u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfkgc2skc2p",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3myfvceyl722u",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-10-21T19:33:01.310Z",
+			"content": "<p>How would you do a social media website without a server?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myfvkidphk2m",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3myftlu37cc22",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3myfvkidphk2m",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-21T19:37:33.294Z",
+			"content": "<p>Caddy is ❤️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3myfvlm3nvs27",
+			"parentId": "at://did:plc:4p7hc6uwbumw2tqamaatnt2y/app.bsky.feed.post/3myfutnkods2u",
+			"url": "https://bsky.app/profile/papa.yaga.gay/post/3myfvlm3nvs27",
+			"private": true,
+			"date": "2026-10-21T19:38:10.779Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfwabwgmc23",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myfvceyl722u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myfwabwgmc23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-21T19:49:44.766Z",
+			"content": "<p>I think you’re probably getting at how to accept input/writes without an app server but the simple/fair answer is that you wouldn’t — lots of wiggle room to explore there though.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ahcw75tcvif2lf5q6fryz25n/app.bsky.feed.post/3myfxt7oit22c",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3myftlu37cc22",
+			"url": "https://bsky.app/profile/rschristian.dev/post/3myfxt7oit22c",
+			"author": {
+				"name": "Ryan",
+				"url": "https://bsky.app/profile/rschristian.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ahcw75tcvif2lf5q6fryz25n/bafkreifz2fce4tiqagkas5i5strrgztdnyentyaazyvtyr5bvnwegg37a4"
+			},
+			"date": "2026-10-21T20:18:13.683Z",
+			"content": "<p>Did you ever get a free tshirt for how much you shill it? You deserve one</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myg2i6wglk27",
+			"parentId": "at://did:plc:ahcw75tcvif2lf5q6fryz25n/app.bsky.feed.post/3myfxt7oit22c",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3myg2i6wglk27",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-21T21:05:45.023Z",
+			"content": "<p>This is the one time Luke is right to be fair, so hes running with it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cmla2he5nqvubofxm4pzgtyi/app.bsky.feed.post/3myg6znqhv22p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/psychedeli.ca/post/3myg6znqhv22p",
+			"author": {
+				"name": "Tom Phoolery",
+				"url": "https://bsky.app/profile/psychedeli.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cmla2he5nqvubofxm4pzgtyi/bafkreiekx2af4pczqrlz2xf5mrbvuffrgx3ivdvjq25bcm2oer3ot7wh5m"
+			},
+			"date": "2026-10-21T22:27:05.949Z",
+			"content": "<p>hah jokes on you every CLI is written in node.js</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myghxr5mj22u",
+			"parentId": "at://did:plc:cmla2he5nqvubofxm4pzgtyi/app.bsky.feed.post/3myg6znqhv22p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myghxr5mj22u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-22T01:07:06.091Z",
+			"content": "<p>i never joke about runtime versus build time vulnerabilities tom</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3myh2cyfazk22",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3myg2i6wglk27",
+			"url": "https://bsky.app/profile/lukewarlow.dev/post/3myh2cyfazk22",
+			"author": {
+				"name": "Luke",
+				"url": "https://bsky.app/profile/lukewarlow.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uthwv2jcpcccf4ec2bzsavg7/bafkreia3pmnk72btquz6ufuupstzrg7tb23smpinwmfntnk7lfl2gj7xae"
+			},
+			"date": "2026-10-22T06:35:30.135Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ahcw75tcvif2lf5q6fryz25n/app.bsky.feed.post/3myh2u3klu223",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3myh2cyfazk22",
+			"url": "https://bsky.app/profile/rschristian.dev/post/3myh2u3klu223",
+			"author": {
+				"name": "Ryan",
+				"url": "https://bsky.app/profile/rschristian.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ahcw75tcvif2lf5q6fryz25n/bafkreifz2fce4tiqagkas5i5strrgztdnyentyaazyvtyr5bvnwegg37a4"
+			},
+			"date": "2026-10-22T06:45:03.881Z",
+			"content": "<p>Now you're getting too big for your britches, reel it in Luke</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rg3hnlnyamyvpoq5unav6dcf/app.bsky.feed.post/3myhkest3sk22",
+			"parentId": "at://did:plc:xdgfveo5ftvk2ml6f7qslejd/app.bsky.feed.post/3myfc7zxyis2d",
+			"url": "https://bsky.app/profile/mariosant.bsky.social/post/3myhkest3sk22",
+			"author": {
+				"name": "Marios Antonoudiou",
+				"url": "https://bsky.app/profile/mariosant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rg3hnlnyamyvpoq5unav6dcf/bafkreib2kjl5l3nmq7qavfdujax7ydyty3whielfzebrwtiofr2tiopaaa"
+			},
+			"date": "2026-10-22T11:22:51.272Z",
+			"content": "<p>I've never seen a typical LAMP WordPress website not being hacked in some way. Something always happens and gets breached.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myhu4g7kwk2j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myfwabwgmc23",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3myhu4g7kwk2j",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-10-22T14:17:07.032Z",
+			"content": "<p>If you have an app server that processes writes, then you're exposed to whatever vulnerabilities the language has. It's a PHP bug, not a JavaScript bug.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myhv4bbua222",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myhu4g7kwk2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myhv4bbua222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-22T14:34:55.609Z",
+			"content": "<p>hmm… in your mind how does a static site relate to JavaScript?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myi3zfhzpk2j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myhv4bbua222",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3myi3zfhzpk2j",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-10-22T16:38:35.534Z",
+			"content": "<p>I believe a static site would just serve static HTML and CSS with no server. JS makes it dynamic</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myi4353us22m",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myi3zfhzpk2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myi4353us22m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-22T16:39:33.857Z",
+			"content": "<p>oh interesting. that’s not the classification I’d make but it makes our conversation make more sense now!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3myi47vqs6c2d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myi4353us22m",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3myi47vqs6c2d",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-10-22T16:42:13.925Z",
+			"content": "<p>If the static site has a server and JS then it's just as vulnerable to these things as any site that has a server and JS and isn't calling it static. I don't understand how a static site that has a server and JS would avoid these vulnerabilities</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,129 @@
+{
+	"comments": [
+		{
+			"id": "112082930009159979",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/112082929858061381",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-03-12T13:23:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A life lesson is continuously evaluating your belief system and why you believe it. It strengthens your belief or allows you to evolve. The same applies to the adoption of technologies *ahem* React.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112082945882098131",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/112082945747396142",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-12T13:27:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> interaction between pages do \"feel\" faster in client side routing. But near similar result can be achieved with preloading the html as well.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112082951369524758",
+			"parentId": "112082945882098131",
+			"url": "https://fediverse.zachleat.com/@zachleat/112082951369524758",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-12T13:28:32.452Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> yeah that’s kinda what I mean—page navigations might be a bit faster, but at the expense of all other interactions</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112082965486700559",
+			"parentId": "112082945882098131",
+			"url": "https://mastodon.social/@nrk9819/112082965450846446",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-12T13:32:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> react and tailwind have some of the most toxic community I've seen in tech that almost feel like cults. The way react sold the notion that SPAs are faster than traditional client-server apps, tailwind also sold that utility-first css ship less styles than semantic css. <br>Both the lies have been debunked, but the fanboys are too stubborn to accept the fact.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112082980435228783",
+			"parentId": "112082930009159979",
+			"url": "https://mastodon.social/@nrk9819/112082980361649114",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-12T13:35:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> idk why people are attached to technologies at emotional level and decline to accept flaws in them😴😴😴</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112082981725522689",
+			"parentId": "112082965486700559",
+			"url": "https://fediverse.zachleat.com/@zachleat/112082981725522689",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-12T13:36:15.646Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> lotta sunk cost here</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112083015186700224",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ericheiken/112083015084229838",
+			"author": {
+				"name": "Eric Heiken",
+				"url": "https://mastodon.social/@ericheiken",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/718/082/738/388/744/original/cf330c949995a82d.jpg"
+			},
+			"date": "2024-03-12T13:44:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>This is why. <a href=\"https://web.dev/articles/vitals-spa-faq\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">web.dev/articles/vitals-spa-fa</span><span class=\"invisible\">q</span></a></p><p>There is an implementation in Beta that you can try that would send CWV data on soft navigation. Worth a shot. I'm close to implementing it on a property and evaluating the results.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112083057098586792",
+			"parentId": "112083015186700224",
+			"url": "https://fediverse.zachleat.com/@zachleat/112083057098586792",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-12T13:55:25.748Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ericheiken\" class=\"u-url mention\">@<span>ericheiken</span></a></span> that article is a little bit outdated (2021) but INP is mentioned there:</p><p>“We have already delivered a new metric named Interaction to Next Paint (INP) that measures interaction latency throughout the entire page lifecycle”</p><p>(but your point about initial load CWV metrics in SPA is well received)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112083227178079039",
+			"parentId": "112083057098586792",
+			"url": "https://mastodon.social/@ericheiken/112083227155567833",
+			"author": {
+				"name": "Eric Heiken",
+				"url": "https://mastodon.social/@ericheiken",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/718/082/738/388/744/original/cf330c949995a82d.jpg"
+			},
+			"date": "2024-03-12T14:38:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Yeah, I was in a little rush because I wanted to respond to this before I forgot and I had to leave my desk.</p><p>The idea is that SPAs could be a faster experience but they aren't reflected well in the core web vitals. Here is the soft navigation beta.</p><p><a href=\"https://developer.chrome.com/docs/web-platform/soft-navigations-experiment\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.chrome.com/docs/web-</span><span class=\"invisible\">platform/soft-navigations-experiment</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112085649066499173",
+			"parentId": 0,
+			"url": "https://mamot.fr/@mokobien/112085649041893385",
+			"private": true,
+			"date": "2024-03-13T00:54:35.000Z",
+			"via": "fediverse"
+		}
+	]
+}

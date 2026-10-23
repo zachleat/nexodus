@@ -1,0 +1,16 @@
+---
+title: August 19, 2026 at 9:16:29 PM UTC
+authors:
+  - name: Zach Leatherman
+    url: https://bsky.app/profile/zachleat.com
+date: 2026-08-19T21:16:29.134Z
+metadata:
+  slug: 3mthnpfbcmx2p
+  uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mthnpfbcmx2p
+  type: bluesky
+  url: https://bsky.app/profile/zachleat.com/post/3mthnpfbcmx2p
+  importHash: db2d3db993dce593
+---
+“I don’t buy every single new technology being sold as democratizing, and then what we mean by democratizing is that a different set of people have power now.”—@miriam.codes
+
+Some great conversation with [@bradfrost.com](https://bsky.app/profile/did:plc:rmbi5fz2tigqxidqyuncs5xe): [https://www.youtube.com/watch?v=Do380FZrJTc](https://www.youtube.com/watch?v=Do380FZrJTc)

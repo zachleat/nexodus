@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "111024986238264083",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111024986238264083",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-07T17:14:05.673Z",
+			"content": "<p>Have you ever struggled with a focusable element (custom drop down menu) that disappears when you swap focus to your Developer Tools?</p><p>This “Emulate a focused page” checkbox is for you!</p><p>More: <a href=\"https://developer.chrome.com/docs/devtools/rendering/apply-effects/#emulate-a-focused-page\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.chrome.com/docs/devt</span><span class=\"invisible\">ools/rendering/apply-effects/#emulate-a-focused-page</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025008253003267",
+			"parentId": "111024986238264083",
+			"url": "https://toot.wales/@Lukew/111025008224195248",
+			"author": {
+				"name": "Luke",
+				"url": "https://toot.wales/@Lukew",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/107/164/987/417/242/original/cb553420c43fa577.jpeg"
+			},
+			"date": "2023-09-07T17:19:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> omg how have I never seen this before...</p><p>SO much time spent debugging focus stuff and this would have helped a lot 😅.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025028810783990",
+			"parentId": "111025008253003267",
+			"url": "https://fediverse.zachleat.com/@zachleat/111025028810783990",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-07T17:24:55.278Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.wales/@Lukew\" class=\"u-url mention\">@<span>Lukew</span></a></span> I also just learned this! I think it might be brand new!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111027088108357312",
+			"parentId": "111024986238264083",
+			"url": "https://indieweb.social/@alannorbauer/111027088087086701",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-09-08T02:08:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you can also do this this trick for the same effect: <a href=\"https://alan.norbauer.com/articles/browser-debugging-tricks#inspect-an-elusive-element\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alan.norbauer.com/articles/bro</span><span class=\"invisible\">wser-debugging-tricks#inspect-an-elusive-element</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111028263957109567",
+			"parentId": "111024986238264083",
+			"url": "https://fosstodon.org/@chris_hayes/111028263937238025",
+			"author": {
+				"name": "Chris​‌​‬ Hayes‌​​​",
+				"url": "https://fosstodon.org/@chris_hayes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/374/599/696/822/526/original/deac0f03d1fa29b4.png"
+			},
+			"date": "2023-09-08T07:07:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nice, so I can stop doing `setTimeout ({} =&gt; { debugger; }, 3000)`</p>",
+			"via": "fediverse"
+		}
+	]
+}

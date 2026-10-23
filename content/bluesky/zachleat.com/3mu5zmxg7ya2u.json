@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:2cpnrefqsfucl4lvo3h2yzfh/app.bsky.feed.post/3mu62cut25s2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/michaelwarren.dev/post/3mu62cut25s2q",
+			"author": {
+				"name": "Michael Warren",
+				"url": "https://bsky.app/profile/michaelwarren.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2cpnrefqsfucl4lvo3h2yzfh/bafkreihjas7hxnl55jz5wyra5qsv5ynmy2ewk7i3d66jolpljzf3pnu5ce"
+			},
+			"date": "2026-08-28T19:00:42.235Z",
+			"content": "<p>i wonder if core web vitals cares if you’re seeing the not found page? haha</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu63xbunxk2b",
+			"parentId": "at://did:plc:2cpnrefqsfucl4lvo3h2yzfh/app.bsky.feed.post/3mu62cut25s2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mu63xbunxk2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-28T19:30:00.751Z",
+			"content": "<p>😅😅😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3mu74b53d2227",
+			"parentId": "at://did:plc:2cpnrefqsfucl4lvo3h2yzfh/app.bsky.feed.post/3mu62cut25s2q",
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3mu74b53d2227",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2026-08-29T05:08:11.006Z",
+			"content": "<p>If you’re meaning CWV, collected by Chrome user experience report (CrUX) — nope, if the status is successful and the page is indexable, it’ll measure the error page too.</p>",
+			"via": "bluesky"
+		}
+	]
+}

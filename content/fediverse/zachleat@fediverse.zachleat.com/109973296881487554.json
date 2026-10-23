@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "109973375848309557",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@haliphax/109973375814770827",
+			"author": {
+				"name": "haliphax 👾",
+				"url": "https://hachyderm.io/@haliphax",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/141/298/839/313/original/20871e623058c1d4.jpg"
+			},
+			"date": "2023-03-05T23:55:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> federation delay, I think? I remember some talk about it months ago. You're not actually waiting on approval, but that's how it is surfaced. I may be remembering incorrectly, so don't quote me on that. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109973634489253163",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/109973634347767285",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-03-06T01:01:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Lord. This. </p><p>There are some accounts and/or servers that I just cannot follow and I _think_ it’s Sidekiq job failures on the other server’s end. The “follow” activity never gets resolved by the other server sending an “accept” activity back to my server.</p><p>The code. There are dragons.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109974838342368885",
+			"parentId": "109973375848309557",
+			"url": "https://hachyderm.io/@Paxxi/109974838290123908",
+			"author": {
+				"name": "Pär Björklund",
+				"url": "https://hachyderm.io/@Paxxi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/527/744/416/567/841/original/8c2cb075a46c098b.jpeg"
+			},
+			"date": "2023-03-06T06:07:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@haliphax\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>haliphax</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah afaik that's what happens if you try to follow someone and their server is slow to respond or if something breaks and your request is lost.</p>",
+			"via": "fediverse"
+		}
+	]
+}

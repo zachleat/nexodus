@@ -1,0 +1,774 @@
+{
+	"comments": [
+		{
+			"id": "109676790810572769",
+			"parentId": 0,
+			"url": "https://kibitz.cloud/@selfagency/109676790588153382",
+			"author": {
+				"name": "daniel s.",
+				"url": "https://kibitz.cloud/@selfagency",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/336/857/942/431/655/original/8768ded4841b4a69.jpg"
+			},
+			"date": "2023-01-12T14:50:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I feel like once upon a time we were focused on making web coding accessible to all and then we got increasingly complex JS frameworks that forced us into specializations and the emphasis on accessible coding switched to nocode drag-and-drop tools that abstracted away everything. <span class=\"h-card\"><a href=\"https://front-end.social/@leaverou\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>leaverou</span></a></span>'s Mavo is the only thing I can think of that tried to counteract this trend.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676813535626355",
+			"parentId": "109676790810572769",
+			"url": "https://fediverse.zachleat.com/@zachleat/109676813535626355",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T14:56:02.786Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kibitz.cloud/@selfagency\" class=\"u-url mention\">@<span>selfagency</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@leaverou\" class=\"u-url mention\">@<span>leaverou</span></a></span> Lea always does amazing work!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676855233697554",
+			"parentId": "109676813535626355",
+			"url": "https://kibitz.cloud/@selfagency/109676855185120672",
+			"author": {
+				"name": "daniel s.",
+				"url": "https://kibitz.cloud/@selfagency",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/336/857/942/431/655/original/8768ded4841b4a69.jpg"
+			},
+			"date": "2023-01-12T15:06:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@leaverou\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>leaverou</span></a></span> she does but my question is, why didn't what she created inspire similar efforts? i see energy in webassembly bringing compiled languages to the browser but no energy in advancing what we can do with html itself.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676863954738341",
+			"parentId": "109676855233697554",
+			"url": "https://fediverse.zachleat.com/@zachleat/109676863954738341",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T15:08:52.119Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kibitz.cloud/@selfagency\" class=\"u-url mention\">@<span>selfagency</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@leaverou\" class=\"u-url mention\">@<span>leaverou</span></a></span> surely declarative shadow dom occupies the beginning of something there!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676898832011742",
+			"parentId": 0,
+			"url": "https://indieweb.social/@McNeely/109676898793727703",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2023-01-12T15:17:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I feel like whenever you work on a project that is either a library or a part of the toolchain you cannot help but straddle that great divide. Its a different experience than working on a product team focused on \"LARGE-SITE.com\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676900386352709",
+			"parentId": "109676863954738341",
+			"url": "https://kibitz.cloud/@selfagency/109676900293388141",
+			"author": {
+				"name": "daniel s.",
+				"url": "https://kibitz.cloud/@selfagency",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/336/857/942/431/655/original/8768ded4841b4a69.jpg"
+			},
+			"date": "2023-01-12T15:18:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@leaverou\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>leaverou</span></a></span> still very js heavy in implementation</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676914371468043",
+			"parentId": "109676900386352709",
+			"url": "https://fediverse.zachleat.com/@zachleat/109676914371468043",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T15:21:41.427Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kibitz.cloud/@selfagency\" class=\"u-url mention\">@<span>selfagency</span></a></span> ah, hmm—I don’t see that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676919233939863",
+			"parentId": 0,
+			"url": "https://mastodon.social/@bastianallgeier/109676919130544752",
+			"author": {
+				"name": "Bastian Allgeier",
+				"url": "https://mastodon.social/@bastianallgeier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/225/968/517/429/original/30c7078b2f8c4d75.jpg"
+			},
+			"date": "2023-01-12T15:22:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> amazing post 💚 I definitely live in that different world together with you. I fell in love with the web over 20 years ago and I'm still in love with it every day. It is so much more than that tiny bubble from the survey.<br>Your post is another great indicator why it always felt like our philosophies for <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> and <span class=\"h-card\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>getkirby</span></a></span> are very close.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676921023892179",
+			"parentId": 0,
+			"url": "https://front-end.social/@sarajw/109676920749578296",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-01-12T15:23:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> omg. I'd not seen that <span class=\"h-card\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> Great Divide article until now.</p><p>Both your post, Zach, and that article, yes. Resonating hard.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109676936686428771",
+			"parentId": 0,
+			"url": "https://social.coop/@eb/109676936542278875",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2023-01-12T15:27:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have not been impressed with the survey, but it's a perfect metaphor for the larger community. Rough and rushed.</p><p>I was among the first people to fill the survey out, and it was released with many egregious spelling errors (I tooted one)</p><p>And as you noted, they mis(represented|understood) many technologies (ie: What Remix actually helps with). Bad look.</p><p>Personally, I do full stack, and f/e is so much more messy. That's the culture.</p><p>Let's be friends.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677006199849637",
+			"parentId": "109676855233697554",
+			"url": "https://front-end.social/@leaverou/109677006153214533",
+			"author": {
+				"name": "Lea Verou, PhD",
+				"url": "https://front-end.social/@leaverou",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/949/173/613/152/original/4544b9a1d901ce42.png"
+			},
+			"date": "2023-01-12T15:45:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://kibitz.cloud/@selfagency\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>selfagency</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve thought about it a lot in the past few years, and here's what I concluded:<br>- The people working on JS frameworks tend to be hardcore devs, so they want to create stuff for people like them, not beginners<br>- Something for beginners doesn't attract contributions, because its users cannot contribute back<br>- Beginners don't search for tools as much. Nobody will google \"HTML-based programming language\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677011232041660",
+			"parentId": "109677006199849637",
+			"url": "https://front-end.social/@leaverou/109677011184906943",
+			"author": {
+				"name": "Lea Verou, PhD",
+				"url": "https://front-end.social/@leaverou",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/949/173/613/152/original/4544b9a1d901ce42.png"
+			},
+			"date": "2023-01-12T15:46:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://kibitz.cloud/@selfagency\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>selfagency</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Also, implementing high level declarative, reactive syntax that can work with whatever HTML &amp; CSS you throw at it is HARD. A lot of Mavo's code is incredibly complex to handle all the edge cases, and still buggy (part of that has to do with the lack of resources in research).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677021368704726",
+			"parentId": "109676919233939863",
+			"url": "https://indieweb.social/@charlesroper/109677021279051269",
+			"author": {
+				"name": "Charles Roper",
+				"url": "https://indieweb.social/@charlesroper",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/292/879/484/524/original/0e3287f51d9644ee.webp"
+			},
+			"date": "2023-01-12T15:48:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>getkirby</span></a></span> Absolutely agreed. I see Eleventy and Kirby as kindred spirits. I've just started using Kirby, but the similarities are striking. They are elegant tools for building websites. </p><p>The React et al ecosystem is, to my mind, not about web developmenent. It's more about app development which just happens to use the web as it's VM rather than, e.g., the JVM or a native platform. App developers and web developers. That to me is where the divide is.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677093136498185",
+			"parentId": 0,
+			"url": "https://front-end.social/@mxbck/109677093095674543",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://front-end.social/@mxbck",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/056/493/159/698/original/45a5e18ac98225c0.jpg"
+			},
+			"date": "2023-01-12T16:07:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I share the feelings in this post. I work with React a lot, and I'm somewhat experienced with Javascript - yet I would never identify as a \"JS Developer\". Not because of the language, but because of the general sentiment of \"DX over user needs\" I associate with the term. </p><p>I think the divide is real, but it doesn't have to be that black or white. JS is awesome, and there are ways to use it without bloat and over-engineering. We just had a decade of skewed perceptions. 🙃</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677094078761521",
+			"parentId": "109677011232041660",
+			"url": "https://kibitz.cloud/@selfagency/109677094013177769",
+			"author": {
+				"name": "daniel s.",
+				"url": "https://kibitz.cloud/@selfagency",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/336/857/942/431/655/original/8768ded4841b4a69.jpg"
+			},
+			"date": "2023-01-12T16:07:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@leaverou\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>leaverou</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that all makes sense. i guess i just figured there'd be more of an interest from educators, standards enthusiasts, and browser makers in making something like mavo part of a future HTML spec.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677124262669298",
+			"parentId": "109677094078761521",
+			"url": "https://front-end.social/@leaverou/109677124195064167",
+			"author": {
+				"name": "Lea Verou, PhD",
+				"url": "https://front-end.social/@leaverou",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/949/173/613/152/original/4544b9a1d901ce42.png"
+			},
+			"date": "2023-01-12T16:15:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://kibitz.cloud/@selfagency\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>selfagency</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That was the vision behind that line of research. Having seen things from the standards side however, something like Mavo is too far out of course. If we ever get to something as high level as that, it will be through decades of lower level APIs building towards it gradually. Which is not a bad thing. Layered design can happen in both directions (high level first, then lower level, or the opposite).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677448553400090",
+			"parentId": "109677093136498185",
+			"url": "https://fosstodon.org/@jakecarpenter/109677448533079332",
+			"author": {
+				"name": "Jake Carpenter",
+				"url": "https://fosstodon.org/@jakecarpenter",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-01-12T17:37:32.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I like to take it even further and stick to \"Engineer\" or \"Developer.\" Yes, the languages and frameworks are tools, but even the platform we currently specialize in is nothing more than a choice.</p><p>I'm confident that if there were a sudden paradigm shift, we would *all* feel comfortable evaluating when and how to make the change to a different language and target an entirely new platform and away from web, mobile, embedded, or whatever.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677537515893988",
+			"parentId": "109676919233939863",
+			"url": "https://fediverse.zachleat.com/@zachleat/109677537515893988",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T18:00:09.764Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\">@<span>bastianallgeier</span></a></span> This is really lovely to hear. I’m so glad we got to meet at <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@btconf\" class=\"u-url mention\">@<span>btconf</span></a></span> so many years ago! And I hope to repeat sometime soon! <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\">@<span>getkirby</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677546095585303",
+			"parentId": "109676936686428771",
+			"url": "https://fediverse.zachleat.com/@zachleat/109677546095585303",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T18:02:20.765Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@eb\" class=\"u-url mention\">@<span>eb</span></a></span> let’s be friends!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677570612047513",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109677570612047513",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T18:08:34.855Z",
+			"content": "<p>Looks like <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\">@<span>chriscoyier</span></a></span> responded in blog post form (blog post response to a blog post—I am so happy 🏆)</p><p><a href=\"https://chriscoyier.net/2023/01/12/the-great-divide-was-indeed-divisive/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chriscoyier.net/2023/01/12/the</span><span class=\"invisible\">-great-divide-was-indeed-divisive/</span></a></p><p>(via <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@hi_mayank\" class=\"u-url mention\">@<span>hi_mayank</span></a></span>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677591973045808",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ksylor/109677591936566652",
+			"author": {
+				"name": "Katie Sylor-Miller",
+				"url": "https://mastodon.social/@ksylor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/320/385/149/397/521/original/cdab8a820add7f07.jpg"
+			},
+			"date": "2023-01-12T18:14:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> literally everything you said, I say too. Also yay to 17 years as web developer! 🙌 2006 was a good year</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677621076984459",
+			"parentId": 0,
+			"url": "https://webperf.social/@boostmarks/109677621042643161",
+			"author": {
+				"name": "Boris Schapira",
+				"url": "https://webperf.social/@boostmarks",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/382/082/877/744/719/original/c80704209c9a469d.png"
+			},
+			"date": "2023-01-12T18:21:24.000Z",
+			"content": "<p>I totally agree. Fun fact: in France, we live in a semantic bubble. The first Front-End web developers historically originated from the printing industry and were called \"integrators\", because they integrated designs into HTML constraints. The first JS developers who waved SPAs and frameworks around called themselves Web Developers, so much so that if you want to work with someone who knows the web today, it's better to avoid a Web Developer. I present myself as a \"web professional\".</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677621239922151",
+			"parentId": 0,
+			"url": "https://fediverse.jefflembeck.com/@jefflembeck/109677621114367711",
+			"author": {
+				"name": "Jeffrey Lembeck",
+				"url": "https://fediverse.jefflembeck.com/@jefflembeck",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/665/196/398/192/897/original/19f0afddd06ab73f.jpeg"
+			},
+			"date": "2023-01-12T18:21:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> as somebody who has done work on both sides of this in about the most extreme ways — I strongly agree, man.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677622396837739",
+			"parentId": 0,
+			"url": "https://social.ericwbailey.website/@eric/109677622374082025",
+			"author": {
+				"name": "Eric",
+				"url": "https://social.ericwbailey.website/@eric",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/659/991/596/876/246/original/564408907c9b4dbf.jpg"
+			},
+			"date": "2023-01-12T18:21:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Imagine how good things would be if we put the mantle of dev celebrity on folks who performance, accessibility, and usability over tooling navelgazing and FOMO.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677696770253887",
+			"parentId": "109677570612047513",
+			"url": "https://mas.to/@nmoo/109677696722030208",
+			"author": {
+				"name": "nate",
+				"url": "https://mas.to/@nmoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/195/614/148/293/original/d5e5c7732ffbde1c.jpg"
+			},
+			"date": "2023-01-12T18:40:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> Really enjoyed both articles! The Great Divide is often top-of-mind for me. I don't think it \"pitted the sides against one another\" as much as put words to a phenomenon that was already happening but hard for many to articulate.</p><p>Side note: Any time I'm feeling some type of way about this industry, looking up the latest jQuery stats always make me chuckle and puts things back in perspective 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677717152145994",
+			"parentId": "109677537515893988",
+			"url": "https://mastodon.social/@MathiasGmeiner/109677717113996596",
+			"author": {
+				"name": "Mathias Gmeiner",
+				"url": "https://mastodon.social/@MathiasGmeiner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/229/137/125/538/original/1be12df6a6121ae7.jpeg"
+			},
+			"date": "2023-01-12T18:45:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bastianallgeier</span></a></span>  <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>getkirby</span></a></span> I hope we can still be friends, even though we use (at the moment) Next.js as the frontend framework for our Headless Kirby 😢</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677870363999278",
+			"parentId": "109677621076984459",
+			"url": "https://mastodon.social/@maelig/109677870332450596",
+			"author": {
+				"name": "Maëlig",
+				"url": "https://mastodon.social/@maelig",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/290/171/334/099/689/original/d60388fe0c4b8f3b.jpeg"
+			},
+			"date": "2023-01-12T19:24:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://webperf.social/@boostmarks\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>boostmarks</span></a></span> it's difficult to accurately summarise that skillset with a specific title in English though, so maybe it's not such a bad thing that we have that semantic distinction in French ?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677945757202780",
+			"parentId": "109677570612047513",
+			"url": "https://indieweb.social/@McNeely/109677945731816178",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2023-01-12T19:43:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@hi_mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hi_mayank</span></a></span> the \"don't make me pick\" attitude is one of the reasons that I really like the Front of the FrontEnd / Back of the FrontEnd split that <span class=\"h-card\"><a href=\"https://mastodon.social/@brad_frost\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brad_frost</span></a></span> coined. Both are front-end/web focused but it gives us a useful way of speaking about the specialization that has developed in engineering.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109677955332237501",
+			"parentId": "109677537515893988",
+			"url": "https://mastodon.social/@bastianallgeier/109677955237890535",
+			"author": {
+				"name": "Bastian Allgeier",
+				"url": "https://mastodon.social/@bastianallgeier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/225/968/517/429/original/30c7078b2f8c4d75.jpg"
+			},
+			"date": "2023-01-12T19:46:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@btconf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>btconf</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>getkirby</span></a></span> I really hope so as well. I think this is a pretty clear call to action for Marc 😆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678009699481383",
+			"parentId": "109677591973045808",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678009699481383",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T20:00:14.810Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ksylor\" class=\"u-url mention\">@<span>ksylor</span></a></span> Haha yes, a good vintage 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678011890088078",
+			"parentId": "109677621239922151",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678011890088078",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T20:00:48.224Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.jefflembeck.com/@jefflembeck\" class=\"u-url mention\">@<span>jefflembeck</span></a></span> whew, yes! shout out to those Filament Group days 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678017950555052",
+			"parentId": "109677622396837739",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678017950555052",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T20:02:20.699Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.ericwbailey.website/@eric\" class=\"u-url mention\">@<span>eric</span></a></span> this might be a little divisive for me 😅 But it would be nice to see more famously friendly folks in those categories!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678028466409023",
+			"parentId": "109677696770253887",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678028466409023",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T20:05:01.157Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@nmoo\" class=\"u-url mention\">@<span>nmoo</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\">@<span>chriscoyier</span></a></span> yeah—absolutely. It didn’t read as divisive to me either. It isn’t divisive to merely acknowledge that things were/are divided—and that acknowledgement was important and helped me understand larger patterns too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678032271966965",
+			"parentId": "109677955332237501",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678032271966965",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T20:05:59.226Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\">@<span>bastianallgeier</span></a></span> haha yes 🥸</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@btconf\" class=\"u-url mention\">@<span>btconf</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\">@<span>getkirby</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678094209417701",
+			"parentId": "109677870363999278",
+			"url": "https://webperf.social/@boostmarks/109678094129160780",
+			"author": {
+				"name": "Boris Schapira",
+				"url": "https://webperf.social/@boostmarks",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/382/082/877/744/719/original/c80704209c9a469d.png"
+			},
+			"date": "2023-01-12T20:21:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@maelig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>maelig</span></a></span> I strongly think so. And I have one key talking point about this: logs. The more we frontendify our web experiences, the less we log what actually happens. </p><p>\"But I want to create immersive experiences\". Dude, if you have no logs, you don't know sh** about how immersive or frustating your experience is.</p><p>I've written about this (w/o the swearing) here: <a href=\"https://boris.schapira.dev/notes/2022-06-executions/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">boris.schapira.dev/notes/2022-</span><span class=\"invisible\">06-executions/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678106251477954",
+			"parentId": 0,
+			"url": "https://front-end.social/@Aaron/109678106208982861",
+			"author": {
+				"name": "Aaron Gustafson",
+				"url": "https://front-end.social/@Aaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/796/791/117/808/original/53fbc0e189286ec0.png"
+			},
+			"date": "2023-01-12T20:24:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> agreed.</p><p>Related oldie but goody: <a href=\"https://www.aaron-gustafson.com/notebook/a-fundamental-disconnect/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">aaron-gustafson.com/notebook/a</span><span class=\"invisible\">-fundamental-disconnect/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678146826564717",
+			"parentId": 0,
+			"url": "https://front-end.social/@matuzo/109678146798886477",
+			"author": {
+				"name": "Manuel Matuzović",
+				"url": "https://front-end.social/@matuzo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/417/730/820/306/840/original/022a549117f8cfc1.jpg"
+			},
+			"date": "2023-01-12T20:35:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I write JS every day and I think a lot about the way I can use it effectively to create great UXs. Definitely a lot more than I used to a couple of years ago, but I don't see myself as part of the JS community. At the same time, I don't feel as a part of the accessibility community either. I see myself as part of the web development community that cares foremost about UX and quality regardless of the languages used to achieve that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678165626983440",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/109678165432889809",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-01-12T20:39:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The comments left on the post give me hope.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678238804499477",
+			"parentId": 0,
+			"url": "https://mastodon.social/@peruvianidol/109678238764704703",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-01-12T20:58:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sometimes I miss being a “webmaster”.  😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678254811408208",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jaredwhite/109678254762672450",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2023-01-12T21:02:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"I want to be a web developer, not a JavaScript developer.\"</p><p>That line honestly gives me chills. I agree with everything you said! I've seen a lot too over the years, and it's a strange place to be in now where I'm simultaneously cheering on just how great JavaScript has become…and yet how much cognitive dissonance there is trying to work on projects where JS is \"additive\" to a vanilla-ish web stack vs. being the entire universe everything else seems to flow out of.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678297563693634",
+			"parentId": "109678017950555052",
+			"url": "https://social.ericwbailey.website/@eric/109678297539814028",
+			"private": true,
+			"date": "2023-01-12T21:13:26.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678301689701931",
+			"parentId": "109678297563693634",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678301689701931",
+			"private": true,
+			"date": "2023-01-12T21:14:30.214Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678310153922279",
+			"parentId": "109678254811408208",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678310153922279",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T21:16:39.368Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\">@<span>jaredwhite</span></a></span> just to add another perspective: it can be refreshingly calm to opt-out of the frameworks firehose, too!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678314497344518",
+			"parentId": "109678238804499477",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678314497344518",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T21:17:45.644Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@peruvianidol\" class=\"u-url mention\">@<span>peruvianidol</span></a></span> haha I can uncomment apache modules in an httpd.conf with the best of ’em</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678318301154128",
+			"parentId": "109678165626983440",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678318301154128",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T21:18:43.685Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> yay! There are a few of us!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678326692759583",
+			"parentId": "109678146826564717",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678326692759583",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T21:20:51.731Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@matuzo\" class=\"u-url mention\">@<span>matuzo</span></a></span> yes! President of the generalists’ club!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678327568278470",
+			"parentId": "109678106251477954",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678327568278470",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T21:21:05.091Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Aaron\" class=\"u-url mention\">@<span>Aaron</span></a></span> Yes! Great post 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678342196351358",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@alex/109678342079555584",
+			"author": {
+				"name": "alex",
+				"url": "https://hachyderm.io/@alex",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/402/848/961/561/910/original/53420b982a25ea44.jpeg"
+			},
+			"date": "2023-01-12T21:24:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> so I don’t have as much history as other folks in this thread, but I’m really surprised html hasn’t evolved to have some kind of data binding. Imo you can only do so much with html/css alone, which is why I’d rather write JS(which can generate the other 2). I’d love for reactive components to be built into html one day(web components feels like it’s bolted on as an afterthought).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678515975888979",
+			"parentId": "109678327568278470",
+			"url": "https://front-end.social/@Aaron/109678515931007212",
+			"author": {
+				"name": "Aaron Gustafson",
+				"url": "https://front-end.social/@Aaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/796/791/117/808/original/53fbc0e189286ec0.png"
+			},
+			"date": "2023-01-12T22:08:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678573882900315",
+			"parentId": 0,
+			"url": "https://merveilles.town/@thomasorus/109678573769366177",
+			"author": {
+				"name": "Thomasorus",
+				"url": "https://merveilles.town/@thomasorus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/042/981/965/946/original/6562a59a4405f1de.jpeg"
+			},
+			"date": "2023-01-12T22:23:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You may have added «&nbsp;and marketing&nbsp;» to this one. We should stop ignoring that the JS side of this divide is mostly a fabricated forced positivity tech culture posing as the norm, sold by tech companies, entrepreneurs and influencers, either to save or make money.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678612575732968",
+			"parentId": "109678310153922279",
+			"url": "https://indieweb.social/@jaredwhite/109678612515836267",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2023-01-12T22:33:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Good point! I've felt a bit out of that loop since leaving Twitter, and…that's not necessarily a bad thing. 😄</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109678752241245417",
+			"parentId": "109678573882900315",
+			"url": "https://fediverse.zachleat.com/@zachleat/109678752241245417",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-12T23:09:05.086Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://merveilles.town/@thomasorus\" class=\"u-url mention\">@<span>thomasorus</span></a></span> whew, I’ve seen some things there too. I’ve always been curious what closed-door deal went on to anoint Next.js as the chosen React framework—if you hear anything I’d love to know!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109679008326814881",
+			"parentId": "109678752241245417",
+			"url": "https://merveilles.town/@thomasorus/109679008225225299",
+			"author": {
+				"name": "Thomasorus",
+				"url": "https://merveilles.town/@thomasorus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/042/981/965/946/original/6562a59a4405f1de.jpeg"
+			},
+			"date": "2023-01-13T00:14:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Haha I wouldn’t know anything! Even worse I recently decided to stop monitoring the field as it felt more and more obnoxious and toxic to me. Only kept you and 11ty (and my goat CMS Kirby) plus a few grumpy Brit devs you may know too. :moar:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109679163106309728",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dogwonder/109679163069152708",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://mastodon.social/@dogwonder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/152/600/207/219/original/e686dc812114bb2e.jpeg"
+			},
+			"date": "2023-01-13T00:53:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> great article, as someone that’s been building websites since 99 I’ve rolled with the various gravitational pulls - dhtml / flash / server side / client side / MooTools (hah) / static / dynamic / UX / UI / a11y / responsive / design systems and on and on &amp; as many job titles to match (fav was ‘Web Development and Sales assistant’) I’ve always been keen to learn new things that emerge but with HTML/CSS at the core. These days feel most comfortable also calling myself a web developer</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109680198199785528",
+			"parentId": "109678326692759583",
+			"url": "https://front-end.social/@matuzo/109680198164100510",
+			"author": {
+				"name": "Manuel Matuzović",
+				"url": "https://front-end.social/@matuzo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/417/730/820/306/840/original/022a549117f8cfc1.jpg"
+			},
+			"date": "2023-01-13T05:16:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🫡</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109681765829214284",
+			"parentId": 0,
+			"url": "https://techhub.social/@nikkimk/109681765781031912",
+			"author": {
+				"name": "Nikki Massaro",
+				"url": "https://techhub.social/@nikkimk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/176/842/812/445/original/56098cbaeb74164d.jpeg"
+			},
+			"date": "2023-01-13T11:55:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sigh. I wish this weren’t so accurate. That divide between developing for users versus developing for developers describes nearly every toxic environment I’ve ever experienced.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109682232428777715",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/109682232251891598",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-01-13T13:54:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Reading that title again today in a Vin Diesel voice: \"We're not JavaScript, We're community.\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109682247288681128",
+			"parentId": "109682232428777715",
+			"url": "https://fediverse.zachleat.com/@zachleat/109682247288681128",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-13T13:57:55.276Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> welcome to my olive digital garden: when you’re here, you’re family</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109682255021132560",
+			"parentId": "109682247288681128",
+			"url": "https://mastodon.social/@khalidabuhakmeh/109682254867724700",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-01-13T13:59:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"We're going to drop how much JavaScript from this app?! Aaaaaaaaah!\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109684396087173935",
+			"parentId": "109679008326814881",
+			"url": "https://fediverse.zachleat.com/@zachleat/109684396087173935",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-13T23:04:23.340Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://merveilles.town/@thomasorus\" class=\"u-url mention\">@<span>thomasorus</span></a></span> haha I think I know who you mean 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

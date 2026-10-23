@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "112502242188381381",
+			"parentId": 0,
+			"url": "https://mastodon.social/@vsaw/112502242110973051",
+			"author": {
+				"name": "Valentin Sawadski",
+				"url": "https://mastodon.social/@vsaw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/708/945/259/467/830/original/6f4148b7e3dabcf2.jpg"
+			},
+			"date": "2024-05-25T14:39:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Maybe he can fix Neural Link ridiculous challenge of compressing brain signals 200 fold, in real time, in an embedded low power device <a href=\"https://content.neuralink.com/compression-challenge/README.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">content.neuralink.com/compress</span><span class=\"invisible\">ion-challenge/README.html</span></a></p><p>To put this request into context: The current leader board states ZIP as the best algorithm they know. And its compression ratio is at only 2.2 🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112502644776471582",
+			"parentId": 0,
+			"url": "https://mastodon.social/@kisaragi_hiu/112502644735529073",
+			"author": {
+				"name": "如月飛羽🌈",
+				"url": "https://mastodon.social/@kisaragi_hiu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/921/095/705/077/863/original/b1c326d172bccc89.png"
+			},
+			"date": "2024-05-25T16:22:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sl would actually be a pretty cool new spelling (consonant cluster?) in English, I think.</p><p>Seems like it replaces \"-stle\": hustle → husl, castle → casl</p><p>…although on second thought it still looks kind of cursed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112502656977146121",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pcdevil/112502656904961954",
+			"author": {
+				"name": "👾 Attila Gonda",
+				"url": "https://mastodon.social/@pcdevil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/346/857/288/123/117/original/40a30bc1b01cd710.jpg"
+			},
+			"date": "2024-05-25T16:25:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> as much as I know about shorthands, this is exactly how they work: only write spoken form of the syllables* (and many even omit vowels).</p><p>for example, in Gregg, \"wrestle\" looks the same as \"rest\" (which is written as `r` + `s`) + `l` !</p><p>*: that's why every language has their own shorthand. usually a popular shorthand is adapted to conform the given language's pronounciation </p><p>sources:<br>- <a href=\"https://greggdict.rliu.dev/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">greggdict.rliu.dev/</span><span class=\"invisible\"></span></a> for word lookup<br>- <a href=\"https://www.reddit.com/r/greggshorthand/comments/yyynjk/gregg_simplified_alphabet_card_courtesy_of_the/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reddit.com/r/greggshorthand/co</span><span class=\"invisible\">mments/yyynjk/gregg_simplified_alphabet_card_courtesy_of_the/</span></a> for alphabet reference</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112503240147721999",
+			"parentId": "112502242188381381",
+			"url": "https://icosahedron.website/@halcy/112503240096442942",
+			"author": {
+				"name": "halcy​ :icosahedron:",
+				"url": "https://icosahedron.website/@halcy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/317/349/380/703/166/original/b9e774fbdd15afa5.jpg"
+			},
+			"date": "2024-05-25T18:53:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@vsaw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>vsaw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> man I hadn’t read the page, just heard about it, and I wonder why they believe they need that resolution in time and bits (especially in time, 20k seems silly). I’m hardly a domain expert but the sEEG and ECog data colleagues I worked with used was sampled at like, 1 to 2k roundabout, and that was good enough for speech processes</p><p>(I was also going to say “and why not lossy compress optimized for downstream tasks” but I guess optimizing such compression would be pretty complicated)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112513249799573737",
+			"parentId": "112502644776471582",
+			"url": "https://fediverse.zachleat.com/@zachleat/112513249799573737",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-27T13:19:05.428Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kisaragi_hiu\" class=\"u-url mention\">@<span>kisaragi_hiu</span></a></span> fits right in with the husl and busl of life</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112513253852999349",
+			"parentId": "112502656977146121",
+			"url": "https://fediverse.zachleat.com/@zachleat/112513253852999349",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-27T13:20:07.278Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pcdevil\" class=\"u-url mention\">@<span>pcdevil</span></a></span> fascinating!</p>",
+			"via": "fediverse"
+		}
+	]
+}

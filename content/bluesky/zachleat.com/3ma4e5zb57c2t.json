@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ma4e7kciwk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ma4e7kciwk2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-16T14:28:35.930Z",
+			"content": "<p>👍✅ Runtimes supporting CommonJS and ESM<br>\n👎❌ Modules dual publishing CommonJS and ESM</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dtjxsrxbt3mlregneakgxewz/app.bsky.feed.post/3ma5rionl5s2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bano.dev/post/3ma5rionl5s2w",
+			"author": {
+				"name": "bano.dev",
+				"url": "https://bsky.app/profile/bano.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dtjxsrxbt3mlregneakgxewz/bafkreif7hsehbtnzmjw2mtlzj75r57fvyfm7hi2ibczbc5mln2jccikaui"
+			},
+			"date": "2025-12-17T03:59:00.859Z",
+			"content": "<p>Why would you publish something with legacy module system?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ma725nr5x222",
+			"parentId": "at://did:plc:dtjxsrxbt3mlregneakgxewz/app.bsky.feed.post/3ma5rionl5s2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ma725nr5x222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-17T16:06:34.245Z",
+			"content": "<p>I wouldn’t recommend it but certainly the best reason is compat</p>",
+			"via": "bluesky"
+		}
+	]
+}

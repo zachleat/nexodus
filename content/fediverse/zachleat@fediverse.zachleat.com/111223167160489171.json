@@ -1,0 +1,238 @@
+{
+	"comments": [
+		{
+			"id": "111223189765946562",
+			"parentId": 0,
+			"url": "https://social.gerwitz.com/objects/df3fee15-017b-4c7b-b063-be32f8a59f91",
+			"author": {
+				"name": "Hans Gerwitz",
+				"url": "https://fedi.gerwitz.com/@hans/",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/416/536/212/833/756/original/e61193cab5cb11c1.webp"
+			},
+			"date": "2023-10-12T17:19:49.243Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> same, but I think we underestimate the scale of “social feeds” in contrast to dorks like us who use RSS readers.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223196316385813",
+			"parentId": 0,
+			"url": "https://hackers.town/@randomgeek/111223196265211968",
+			"author": {
+				"name": "Random Geek",
+				"url": "https://hackers.town/@randomgeek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/773/610/553/483/original/b4b0269e9d69fb49.jpeg"
+			},
+			"date": "2023-10-12T17:21:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The interesting bit for me is the reply functionality. For a while I used <a href=\"https://brid.gy\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">brid.gy</span><span class=\"invisible\"></span></a> as part of an IndieWeb-style commenting system, but stopped when I thought about the consent aspect. Folks assume a Fediverse context, not someone's blog.</p><p>How does WP handle that, I wonder without wondering enough to actually try it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223222760903676",
+			"parentId": 0,
+			"url": "https://mstdn.social/@josephholsten/111223222482661409",
+			"author": {
+				"name": ": j@fabrica:~/src;  :t_blink:",
+				"url": "https://mstdn.social/@josephholsten",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-12T17:28:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But if you’re following via activitypub, you can experience the Joy &amp; Wonder of all the comments from everyone everywhere!<br>Btw, these are nothing like pingbacks. They’re totally different and will never be used exclusively for spam.<br>Yep, it’s going to be great…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223227523031525",
+			"parentId": "111223196316385813",
+			"url": "https://fediverse.zachleat.com/@zachleat/111223227523031525",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-12T17:29:27.625Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url mention\">@<span>randomgeek</span></a></span> yes, that makes a lot of sense. But would it feel as if my blog is a separate identity from me when those conversations happen? Is it better to spread my identity across two accounts like that?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223253924907141",
+			"parentId": 0,
+			"url": "https://definitely.social/@mattlehrer/111223253881069847",
+			"author": {
+				"name": "Matt Lehrer",
+				"url": "https://definitely.social/@mattlehrer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/761/382/572/276/052/original/21fc353630fe9913.jpg"
+			},
+			"date": "2023-10-12T17:36:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wonder if more people use RSS readers or ActivityPub clients. But also, RSS is an inbox and following a blog here could be more casual and serendipitous and allow easy boosting.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223337285710524",
+			"parentId": 0,
+			"url": "https://c.im/@cwilcox808/111223337273107243",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2023-10-12T17:57:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>I'll probably stick with RSS but for people who like to boost interesting posts, this makes it easier and the feature to display fedi replies as blog comments sounds appealing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223376644366356",
+			"parentId": 0,
+			"url": "https://front-end.social/@ashur/111223376621666789",
+			"author": {
+				"name": "Slasher Calavera 🔪💀",
+				"url": "https://front-end.social/@ashur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/176/902/307/654/original/d571646a134e03af.jpeg"
+			},
+			"date": "2023-10-12T18:07:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think a Twitter-like delivery system for following independent content makes a lot more sense to a lot more people than RSS</p><p>(I love RSS as much as the next person, but/and I’ve tried and failed so many times to get non-nerds interested enough to pursue it even when they’re desperate to leave places like Twitter)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223397444851886",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@bcomnes/111223397430052656",
+			"author": {
+				"name": "Bret Comnes",
+				"url": "https://fosstodon.org/@bcomnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/580/281/498/979/original/46ae8f32d1b2da5d.png"
+			},
+			"date": "2023-10-12T18:12:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> most of mastodon is just an rss reader with a different form factor</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223416489267856",
+			"parentId": "111223397444851886",
+			"url": "https://fediverse.zachleat.com/@zachleat/111223416489267856",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-12T18:17:31.021Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bcomnes\" class=\"u-url mention\">@<span>bcomnes</span></a></span> ha! point well made</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223422754963167",
+			"parentId": "111223376644366356",
+			"url": "https://fediverse.zachleat.com/@zachleat/111223422754963167",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-12T18:19:06.628Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ashur\" class=\"u-url mention\">@<span>ashur</span></a></span> yeah! I think having replies as first-party content is useful too. I think the awkward part is spreading my identity between a personal account and a blog account. Can they be the same?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223462219323426",
+			"parentId": "111223227523031525",
+			"url": "https://hackers.town/@randomgeek/111223462172951070",
+			"author": {
+				"name": "Random Geek",
+				"url": "https://hackers.town/@randomgeek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/773/610/553/483/original/b4b0269e9d69fb49.jpeg"
+			},
+			"date": "2023-10-12T18:29:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Depends on how good you are at compartmentalization.</p><p>I'm terrible at it — I can't even manage an alt account — so it wouldn't work for my style.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223474797617962",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dogwonder/111223474770813826",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://mastodon.social/@dogwonder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/152/600/207/219/original/e686dc812114bb2e.jpeg"
+			},
+			"date": "2023-10-12T18:32:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I guess it’s a build and they will come kinda thing. Nice to have the end point built in out of the box. I’ve enabled it on my blog to see what happens.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223482851849948",
+			"parentId": "111223474797617962",
+			"url": "https://fediverse.zachleat.com/@zachleat/111223482851849948",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-12T18:34:23.632Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\">@<span>dogwonder</span></a></span> it’s good for the Fediverse, for sure! Do you have an example post?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223500917629037",
+			"parentId": "111223482851849948",
+			"url": "https://mastodon.social/@dogwonder/111223500752412220",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://mastodon.social/@dogwonder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/152/600/207/219/original/e686dc812114bb2e.jpeg"
+			},
+			"date": "2023-10-12T18:38:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hah. So this is where I undermine myself as if I copy the link to the post it goes to my blog. Not the fediverse post. Um.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223551990674524",
+			"parentId": "111223500917629037",
+			"url": "https://fediverse.zachleat.com/@zachleat/111223551990674524",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-12T18:51:58.607Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\">@<span>dogwonder</span></a></span> oh fascinating it redirects your original profile URL right to your blog—I like that</p><p><a href=\"https://dogwonder.co.uk/@dogwonder\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dogwonder.co.uk/@dogwonder</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223598731981401",
+			"parentId": "111223416489267856",
+			"url": "https://fosstodon.org/@bcomnes/111223598721119449",
+			"author": {
+				"name": "Bret Comnes",
+				"url": "https://fosstodon.org/@bcomnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/580/281/498/979/original/46ae8f32d1b2da5d.png"
+			},
+			"date": "2023-10-12T19:03:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Twitter was just irc with a single chat room everyone had to share</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111223642957523072",
+			"parentId": "111223598731981401",
+			"url": "https://fediverse.zachleat.com/@zachleat/111223642957523072",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-12T19:15:06.652Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bcomnes\" class=\"u-url mention\">@<span>bcomnes</span></a></span> it was great for that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111224911360249916",
+			"parentId": "111223500917629037",
+			"url": "https://mastodon.social/@cbirdsong/111224911322632765",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2023-10-13T00:37:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dogwonder</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it is a bit weird that there is not a profile page you can send someone to. </p><p>(also weird: you can’t edit or delete the posts it makes)</p>",
+			"via": "fediverse"
+		}
+	]
+}

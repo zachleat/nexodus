@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lltuwc7vb22p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ichris.bsky.social/post/3lltuwc7vb22p",
+			"author": {
+				"name": "Chris from 🇨🇦",
+				"url": "https://bsky.app/profile/ichris.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:duarqnv277snl27e4yv5b564/bafkreie7omnub3jgyp7s73rhdbal5eb4r2ptrn3wc67vdvnscwchwyji6i"
+			},
+			"date": "2025-04-02T17:09:48.876Z",
+			"content": "<p>why does the hot dog man like eating hot dogs so much zach?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lltuycv7z22o",
+			"parentId": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lltuwc7vb22p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lltuycv7z22o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-02T17:10:56.684Z",
+			"content": "<p>I think you know, Chris</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lltw7hyeuc2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lltuycv7z22o",
+			"url": "https://bsky.app/profile/ichris.bsky.social/post/3lltw7hyeuc2p",
+			"author": {
+				"name": "Chris from 🇨🇦",
+				"url": "https://bsky.app/profile/ichris.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:duarqnv277snl27e4yv5b564/bafkreie7omnub3jgyp7s73rhdbal5eb4r2ptrn3wc67vdvnscwchwyji6i"
+			},
+			"date": "2025-04-02T17:32:50.654Z",
+			"content": "<p>I'm going to quietly whisper \"hot dog man\" over every Podcast Awesome episode until I get answers.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lltwe25ewc27",
+			"parentId": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lltw7hyeuc2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lltwe25ewc27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-02T17:35:23.909Z",
+			"content": "<p>This is all to hide that you’ve already been doing this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lltwj7uadc2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lltwj7uadc2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-02T17:38:17.674Z",
+			"content": "<p>Something exciting happened and it’s this <a href=\"https://bsky.app/profile/fontawesome.com/post/3lltvysmycc2k\">bsky.app/profile/font...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3lltwp33jz22p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lltwe25ewc27",
+			"url": "https://bsky.app/profile/ichris.bsky.social/post/3lltwp33jz22p",
+			"author": {
+				"name": "Chris from 🇨🇦",
+				"url": "https://bsky.app/profile/ichris.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:duarqnv277snl27e4yv5b564/bafkreie7omnub3jgyp7s73rhdbal5eb4r2ptrn3wc67vdvnscwchwyji6i"
+			},
+			"date": "2025-04-02T17:41:33.997Z",
+			"content": "<p>it's hot dog asmr and i'll thank you for giving it the respect it deserves!</p>",
+			"via": "bluesky"
+		}
+	]
+}

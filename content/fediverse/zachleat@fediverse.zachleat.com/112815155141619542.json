@@ -1,0 +1,212 @@
+{
+	"comments": [
+		{
+			"id": "112815222280413854",
+			"parentId": 0,
+			"url": "https://typo.social/@tphinney/112815222236701861",
+			"author": {
+				"name": "Thomas Phinney",
+				"url": "https://typo.social/@tphinney",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/437/995/570/969/009/original/75db9baa508d2efc.jpg"
+			},
+			"date": "2024-07-19T21:14:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Any tips for how to scan a specific website for goo.gl links?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112815267244633735",
+			"parentId": 0,
+			"url": "https://bsd.network/@rnelson/112815267139261771",
+			"author": {
+				"name": "Ross Nelson",
+				"url": "https://bsd.network/@rnelson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/482/203/117/369/original/b94b05b6d3e98fdc.jpg"
+			},
+			"date": "2024-07-19T21:26:04.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is why I hate when services automatically run stuff through URL shorteners. If *I* run the link through a shortener and the services goes down, yeah, I'm unhappy. But if all of my links break because something else decided to start running every URL through them, I'm extra unhappy.</p><p>Also: obligatory killedbygoogle.com mention :flan_rage:​</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112815285061949907",
+			"parentId": "112815222280413854",
+			"url": "https://fediverse.zachleat.com/@zachleat/112815285061949907",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-19T21:30:37.788Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@tphinney\" class=\"u-url mention\">@<span>tphinney</span></a></span> my own spider-pig can do this but there are many other link checking utilities too!</p><p><a href=\"https://github.com/zachleat/spider-pig\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zachleat/spider-pig</span><span class=\"invisible\"></span></a></p><p>another one: <a href=\"https://github.com/lycheeverse/lychee\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/lycheeverse/lychee</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112815296854004199",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112815296854004199",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-19T21:33:37.715Z",
+			"content": "<p>Wow, just learned that Google Photos is actively generating `goo.gl` share URLs.</p><p>Edit: it’s possible this URL will be unaffected, as the original blog post notes the retirement of `https​://goo.gl` links. However, I do have Google Photos shared albums currently using `https​://goo.gl` links, so 😬🤷</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112815417574728817",
+			"parentId": "112815296854004199",
+			"url": "https://carhenge.club/@skiles/112815417517361416",
+			"author": {
+				"name": "John Skiles Skinner",
+				"url": "https://carhenge.club/@skiles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/413/217/468/042/original/426f24a3b523466e.jpg"
+			},
+			"date": "2024-07-19T22:04:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>I created and shared one of these links with google photos as recently as this week. Would be nice if they stopped directing people to create things they plan to turn off!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112815831441151001",
+			"parentId": 0,
+			"url": "https://mastodon.social/@djwebdroid/112815831268212412",
+			"author": {
+				"name": "Djwebdroid",
+				"url": "https://mastodon.social/@djwebdroid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/927/822/142/106/366/original/700f873bb605e8ea.jpg"
+			},
+			"date": "2024-07-19T23:49:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Google this, google that. Google in your hat.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112815853612536551",
+			"parentId": "112815296854004199",
+			"url": "https://fosstodon.org/@rijk/112815853596707941",
+			"author": {
+				"name": "Rijk 🐰 ✨",
+				"url": "https://fosstodon.org/@rijk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/376/501/605/423/989/original/2517aabeba0d7b43.jpg"
+			},
+			"date": "2024-07-19T23:55:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> surely they're keeping it around for their own use? ..right??</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112815856346066034",
+			"parentId": "112815296854004199",
+			"url": "https://mastodon.me.uk/@geoffl/112815856290332246",
+			"author": {
+				"name": "groff 🇺🇦",
+				"url": "https://mastodon.me.uk/@geoffl",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-19T23:55:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Don't worry they're transitioning to Firebase dynamic links.</p><p>Wait. What?...</p><p><a href=\"https://lou.lt/@s427/112811722003171428\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">lou.lt/@s427/11281172200317142</span><span class=\"invisible\">8</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112816294050774780",
+			"parentId": 0,
+			"url": "https://tech.lgbt/@ty_406/112816293946552656",
+			"author": {
+				"name": "Tyler McGee",
+				"url": "https://tech.lgbt/@ty_406",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-20T01:47:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Lazarou\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Lazarou</span></a></span> </p><p>Doesn’t make any sense why you would shut this down. It’s got to cost next to nothing to keep running and it’s only negative press about adding another headstone to the Google Graveyard. </p><p>🪦🪦🪦</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112816310292204068",
+			"parentId": "112816294050774780",
+			"url": "https://mastodon.social/@Lazarou/112816310218513452",
+			"author": {
+				"name": "Lazarou Monkey Terror 🚀💙🌈",
+				"url": "https://mastodon.social/@Lazarou",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/405/762/679/558/472/original/aa38ef48284d0e6b.jpg"
+			},
+			"date": "2024-07-20T01:51:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tech.lgbt/@ty_406\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ty_406</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was trying to think of something witty to say about 'the Burning of the Great Library' and then I remember Google uploaded a load of books, didn't they?<br>Now I'm just concerned. Bastards....</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112816358626853071",
+			"parentId": 0,
+			"url": "https://xoxo.zone/@suldrew/112816358465036895",
+			"author": {
+				"name": "suldrew 🚲🏳️‍🌈",
+				"url": "https://xoxo.zone/@suldrew",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/300/191/741/138/437/original/167287303b4b2b6a.jpg"
+			},
+			"date": "2024-07-20T02:03:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The sale of Domains was the sign to me that they didn't care anymore.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112817297232074697",
+			"parentId": 0,
+			"url": "https://mastodon.de/@ErikUden/112817297201313817",
+			"author": {
+				"name": "Erik Uden 🚩",
+				"url": "https://mastodon.de/@ErikUden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/720/420/288/301/260/original/476f94fabff2647f.jpg"
+			},
+			"date": "2024-07-20T06:02:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wait, you can BUY “.google” domains??</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112817372845731448",
+			"parentId": "112817297232074697",
+			"url": "https://dlvn.cc/objects/725c6413-36e8-4630-8cd9-a891d4b5fb35",
+			"author": {
+				"name": "Jakob",
+				"url": "https://dlvn.cc/users/morethanplanets",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-20T06:21:29.654Z",
+			"content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://mastodon.de/@ErikUden\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ErikUden</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> pretty sure he is talking about the sale of the Google Domains service to Squarespace, not .google domains being sold",
+			"via": "fediverse"
+		},
+		{
+			"id": "112817604923478495",
+			"parentId": 0,
+			"url": "https://twentyzen.social/@dirk/112817604911533764",
+			"author": {
+				"name": "Dirk Spannaus 🌿",
+				"url": "https://twentyzen.social/@dirk",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-20T07:20:35.000Z",
+			"content": "<p>Never trust a third party service for such easy to run tool, but with a high consequential damage, if third party shuts down. Use OpenSource, e.g. yourls on an own branded domain. Minimum cost at 💯% control + own branding (domain).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112817989734982989",
+			"parentId": 0,
+			"url": "https://corteximplant.com/@kaiserkiwi/112817989690250471",
+			"author": {
+				"name": "kaiserkiwi :kiwibird:",
+				"url": "https://corteximplant.com/@kaiserkiwi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/456/449/592/494/865/original/1cf4b0eb55610054.jpeg"
+			},
+			"date": "2024-07-20T08:58:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There's pretty much one thing I learned about Google: Never use anything of them. It will eventually disappear and break half of the internet. </p><p>It's so annoying. I can't imagine they will save more than a few hundred bucks because of this.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112818358810072676",
+			"parentId": "112815285061949907",
+			"url": "https://typo.social/@tphinney/112818358778189559",
+			"author": {
+				"name": "Thomas Phinney",
+				"url": "https://typo.social/@tphinney",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/437/995/570/969/009/original/75db9baa508d2efc.jpg"
+			},
+			"date": "2024-07-20T10:32:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> awesome! Thank you</p>",
+			"via": "fediverse"
+		}
+	]
+}

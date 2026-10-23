@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:bgiuklsedj6jytu5w5stv7cn/app.bsky.feed.post/3m767nzzxfc2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/remysharp.com/post/3m767nzzxfc2u",
+			"author": {
+				"name": "rem / Remy Sharp ",
+				"url": "https://bsky.app/profile/remysharp.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgiuklsedj6jytu5w5stv7cn/bafkreifdnzfv67uzr7tq3t4eokccv6444yqz7mkbkps54vwmfd3ldxby5m"
+			},
+			"date": "2025-12-04T14:47:21.330Z",
+			"content": "<p>I know I need to read this, but I'm going to let npm completely removing token support and my nodemon deploys to start failing to actually get me off my arse to get around to it.</p>\n<p>Future Rem is not impressed with Present Rem.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3m767xixtik23",
+			"parentId": "at://did:plc:bgiuklsedj6jytu5w5stv7cn/app.bsky.feed.post/3m767nzzxfc2u",
+			"url": "https://bsky.app/profile/bram.us/post/3m767xixtik23",
+			"author": {
+				"name": "Bramus",
+				"url": "https://bsky.app/profile/bram.us",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:343p6xcgmvkpz5abgezlgyep/bafkreigkuhuvdn6qvnizxa3agd26bvtkc7xmw5uqjnyh3g4zun4bxhzrsq"
+			},
+			"date": "2025-12-04T14:52:38.978Z",
+			"content": "<p>👆 THIS</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76c5d4pxc2c",
+			"parentId": "at://did:plc:bgiuklsedj6jytu5w5stv7cn/app.bsky.feed.post/3m767nzzxfc2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m76c5d4pxc2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-04T15:31:41.657Z",
+			"content": "<p>oh no! 😱 Classic tokens are the only ones going away! I don’t think they’ll ever remove token support fully so elevated exposure will still be there 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m76cr2urzc2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3m76cr2urzc2g",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2025-12-04T15:42:44.098Z",
+			"content": "<p>have you figured out how to do a first release in ci? seems like you need to have published the package first before you can then set up trusted publishing right</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76cwgbir22p",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m76cr2urzc2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m76cwgbir22p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-04T15:45:43.821Z",
+			"content": "<p>yeah, afaik local publish with 2FA is still a super secure option and works fine. Locking down npm publishing access doesn’t prevent that (as long as 2FA is used and not tokens)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76cyngc6k2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76cwgbir22p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m76cyngc6k2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-04T15:46:58.427Z",
+			"content": "<p>(but to be clear that first publish won’t be locked down at all because the package won’t exist and have settings that you can change 😅)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76du5vbs22d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76c5d4pxc2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m76du5vbs22d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-04T16:02:21.665Z",
+			"content": "<p>I should note if you don’t publish packages from your CI server the checklist would be shorter (basically require 2FA, restrict GitHub and npm to require 2FA): steps 1, 2, 4, and 6</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m76dvpplek2c",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76cwgbir22p",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3m76dvpplek2c",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2025-12-04T16:03:13.907Z",
+			"content": "<p>darn i really liked having every single publish automated and with provenance 🫠</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76dvrfsps2d",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m76cr2urzc2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m76dvrfsps2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-04T16:03:15.683Z",
+			"content": "<p>uh…&nbsp;a proper re-read of your question and the answer would be no 😅 I would just do a local publish and then set up my CI to be secure</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76dzgbuec2d",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m76dvpplek2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m76dzgbuec2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-04T16:05:18.238Z",
+			"content": "<p>yeah, fair point — I don’t think they care too much to secure packages that aren’t being used by anyone yet 😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

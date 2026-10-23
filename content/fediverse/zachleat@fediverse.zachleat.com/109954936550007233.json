@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "109954956240585983",
+			"parentId": 0,
+			"url": "https://fediverse.nicknisi.com/@nicknisi/109954956218762422",
+			"author": {
+				"name": "Nick Nisi :nicknisi:",
+				"url": "https://fediverse.nicknisi.com/@nicknisi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/739/915/490/803/201/original/0d5879db891883ab.jpeg"
+			},
+			"date": "2023-03-02T17:51:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://changelog.social/@jsparty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jsparty</span></a></span> There goes my entire show notes document! Is there anything else we can talk about?! 😛</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109954958932898711",
+			"parentId": "109954956240585983",
+			"url": "https://fediverse.zachleat.com/@zachleat/109954958932898711",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-02T17:52:04.730Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.nicknisi.com/@nicknisi\" class=\"u-url mention\">@<span>nicknisi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://changelog.social/@jsparty\" class=\"u-url mention\">@<span>jsparty</span></a></span> I want to hear how NebraskaTS is going</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109954997568586462",
+			"parentId": "109954956240585983",
+			"url": "https://indieweb.social/@brianleroux/109954997514700952",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-03-02T18:01:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.nicknisi.com/@nicknisi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nicknisi</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://changelog.social/@jsparty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jsparty</span></a></span> is html really an appropriate technology to use for generating html?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109955311742143263",
+			"parentId": "109954997568586462",
+			"url": "https://fediverse.zachleat.com/@zachleat/109955311742143263",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-02T19:21:48.173Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.nicknisi.com/@nicknisi\" class=\"u-url mention\">@<span>nicknisi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://changelog.social/@jsparty\" class=\"u-url mention\">@<span>jsparty</span></a></span> time 2 pivot to WebCJSX</p>",
+			"via": "fediverse"
+		}
+	]
+}

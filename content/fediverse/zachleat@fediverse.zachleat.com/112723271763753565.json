@@ -1,0 +1,293 @@
+{
+	"comments": [
+		{
+			"id": "112723285614713393",
+			"parentId": 0,
+			"url": "https://indieweb.social/@theadhocracy/112723285598875852",
+			"author": {
+				"name": "theAdhocracy",
+				"url": "https://indieweb.social/@theadhocracy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/320/417/139/928/827/original/8bba2ea04e65b4db.jpg"
+			},
+			"date": "2024-07-03T15:33:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The other one I've seen in a few places is people who reply to their own posts with the link that would otherwise be in the main post, to try and prevent the main post being rejected by recommendations.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723294083832217",
+			"parentId": "112723285614713393",
+			"url": "https://fediverse.zachleat.com/@zachleat/112723294083832217",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T15:36:06.856Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@theadhocracy\" class=\"u-url mention\">@<span>theadhocracy</span></a></span> ugh, yes—improves engagement because folks have to click through to find the link!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723303304663779",
+			"parentId": 0,
+			"url": "https://follow.ethanmarcotte.com/@beep/112723303282841889",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-07-03T15:38:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This might be covered by the last two, but what about: routing all links through the platform’s own URL redirection service?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723304272176635",
+			"parentId": 0,
+			"url": "https://social.lol/@pcalves/112723304222165817",
+			"author": {
+				"name": "Paulo Coelho Alves",
+				"url": "https://social.lol/@pcalves",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/582/239/585/614/183/original/47bc1d61bde20763.jpeg"
+			},
+			"date": "2024-07-03T15:38:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not limited to social networks but having poor offboarding flows (i.e. data export, account deletion). Wrote a small piece about it a little while back: <a href=\"https://pcalv.es/offboarding/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pcalv.es/offboarding/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723325709751224",
+			"parentId": "112723285614713393",
+			"url": "https://social.coop/@luis_in_brief/112723313487474484",
+			"author": {
+				"name": "Luis Villa",
+				"url": "https://social.coop/@luis_in_brief",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/463/306/329/053/914/original/a6727cc5b53bfaef.jpeg"
+			},
+			"date": "2024-07-03T15:41:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@theadhocracy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>theadhocracy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not as bad as being a nazi bar, but this is clearly the second-worst thing about xitter.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723323433286244",
+			"parentId": "112723303304663779",
+			"url": "https://fediverse.zachleat.com/@zachleat/112723323433286244",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T15:43:34.693Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> bombastic side-eye at t.co</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723351793334371",
+			"parentId": "112723323433286244",
+			"url": "https://follow.ethanmarcotte.com/@beep/112723344606654400",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-07-03T15:48:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> every day, in every way</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723347682082606",
+			"parentId": 0,
+			"url": "https://indieweb.social/@iamschulz/112723347654791967",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2024-07-03T15:49:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> replace link with an outbound site that redirects to said link 🚩</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723367512213290",
+			"parentId": 0,
+			"url": "https://social.nowicki.io/@hey/112723367479212942",
+			"author": {
+				"name": "Szymon Nowicki",
+				"url": "https://social.nowicki.io/@hey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/324/152/309/788/797/original/02758e69e217ce34.png"
+			},
+			"date": "2024-07-03T15:54:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> when opening their own links there’s a modal of shame that screams you should not use the browser but an app because browser experience sucks as designed by themselves.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723410759166030",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sphars/112723410718872209",
+			"author": {
+				"name": "Spencer",
+				"url": "https://mastodon.social/@sphars",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/698/669/726/197/046/original/9539c0407b4e5cc6.jpg"
+			},
+			"date": "2024-07-03T16:05:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Links are re-written to hide behind redirection, including but not limited to affiliate links, tracking links and adding tracking parameters</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723518522567166",
+			"parentId": "112723367512213290",
+			"url": "https://fediverse.zachleat.com/@zachleat/112723518522567166",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T16:33:11.518Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.nowicki.io/@hey\" class=\"u-url mention\">@<span>hey</span></a></span> THE MODAL OF SHAME</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723527381438772",
+			"parentId": "112723410759166030",
+			"url": "https://fediverse.zachleat.com/@zachleat/112723527381438772",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T16:35:26.695Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sphars\" class=\"u-url mention\">@<span>sphars</span></a></span> was a big player called out for this directly?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723551835773187",
+			"parentId": "112723367512213290",
+			"url": "https://mastodon.online/@slab_bulkhead/112723551631075676",
+			"author": {
+				"name": "Slab Bulkhead",
+				"url": "https://mastodon.online/@slab_bulkhead",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/557/760/693/065/original/852bf863215919c5.png"
+			},
+			"date": "2024-07-03T16:41:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.nowicki.io/@hey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br><a href=\"https://mastodon.online/@slab_bulkhead/111308079044587950\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.online/@slab_bulkhead</span><span class=\"invisible\">/111308079044587950</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723605371802934",
+			"parentId": "112723527381438772",
+			"url": "https://mastodon.social/@sphars/112723604949539109",
+			"author": {
+				"name": "Spencer",
+				"url": "https://mastodon.social/@sphars",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/698/669/726/197/046/original/9539c0407b4e5cc6.jpg"
+			},
+			"date": "2024-07-03T16:55:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm not sure if any were called out directly. But a few big sites do this or similar. Slickdeals will add a few tracking/affiliate redirects to nearly all URLs submitted. Sites that provide a easy to use \"Share\" button on the page (reddit/YouTube/Amazon, etc) will give you a tracking URL or parameter or link shortener.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723766401118081",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@kytta/112723766346483451",
+			"private": true,
+			"date": "2024-07-03T17:36:13.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723791414354181",
+			"parentId": 0,
+			"url": "https://floss.social/@webbureaucrat/112723791383640102",
+			"author": {
+				"name": "webbureaucrat",
+				"url": "https://floss.social/@webbureaucrat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/470/005/055/358/994/original/9d33992f38e0fb47.png"
+			},
+			"date": "2024-07-03T17:42:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not sure if this is exactly what you're looking for, but the Bluesky API requires you to generate your own link preview image and description, which is a heck of an attack vector if you're trying to get people to click on malicious links.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723913995404266",
+			"parentId": 0,
+			"url": "https://mastodon.design/@naiyer/112723913981672423",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2024-07-03T18:13:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Clicking the link in a post in a feed opens the post in a separate page instead of link (happens with bad card link implementations)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112724071915385002",
+			"parentId": "112723551835773187",
+			"url": "https://social.nowicki.io/@hey/112724071885188984",
+			"author": {
+				"name": "Szymon Nowicki",
+				"url": "https://social.nowicki.io/@hey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/324/152/309/788/797/original/02758e69e217ce34.png"
+			},
+			"date": "2024-07-03T18:53:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@slab_bulkhead\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slab_bulkhead</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> LinkedIn is at least somewhat usable on web unlike what formerly was known as Reddit</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112724140896704359",
+			"parentId": "112724071915385002",
+			"url": "https://mastodon.online/@slab_bulkhead/112724140864112210",
+			"author": {
+				"name": "Slab Bulkhead",
+				"url": "https://mastodon.online/@slab_bulkhead",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/557/760/693/065/original/852bf863215919c5.png"
+			},
+			"date": "2024-07-03T19:11:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.nowicki.io/@hey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span><br>It used to be a PWA, so everything after that is a regression to me.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112729343659191792",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/112729343631510876",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2024-07-04T17:14:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span><br>🚩 Black-box spam detectors that prevent users from posting a link, instead of adding a warning or whatever, but do nothing about on-site spam &amp; misinfo.<br>🚩 Special for Facebook in Canada: Blocking any links to websites deemed news content (which yes, was a response to poorly-thought-out government regulations with dubious copyright basis, but still).</p><p>On the other side, although it's much rarer in the big networks now:<br>🚩 not being able to reliably link *to* content on the site.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112729376135115646",
+			"parentId": "112729343659191792",
+			"url": "https://front-end.social/@AmeliaBR/112729376111346488",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2024-07-04T17:22:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And then, on the other, other side, we have Mastodon, which loves links so much &amp; lets them be so free that when someone shares a link to another fediverse post, it opens it in a new browser tab exactly as specified, on whichever website that other user was using, so that I need to right-click to copy the URL, and paste it into the search field in my logged-in web app, in order to fetch an interactive version of that post. 🙃</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112729540610103725",
+			"parentId": 0,
+			"url": "https://mastodon.social/@erikKroes/112729540420664548",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2024-07-04T18:04:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Getting penalized for puttings links in your post by ThE AlGoriThm</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734443525722129",
+			"parentId": "112723766401118081",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734443525722129",
+			"private": true,
+			"date": "2024-07-05T14:51:33.838Z",
+			"via": "fediverse"
+		}
+	]
+}

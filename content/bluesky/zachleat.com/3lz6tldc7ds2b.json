@@ -1,0 +1,272 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xelkj5g5tyniwkaxkxzi5hhj/app.bsky.feed.post/3lz6udnp3dc2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lynn.zone/post/3lz6udnp3dc2n",
+			"author": {
+				"name": "Lynn",
+				"url": "https://bsky.app/profile/lynn.zone",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xelkj5g5tyniwkaxkxzi5hhj/bafkreiemxndhhqdq33kfkcntxm55rtxyyrhs4ubynlmh22zlglrfaixs7e"
+			},
+			"date": "2025-09-19T12:26:11.658Z",
+			"content": "<p>`scrollbar-gutter` is great, but I don't know if I'd go so far as to argue that everyone should be putting it in their resets. As far as I'm aware, there's currently no way to put *anything* in the space it reserves, which unfortunately makes it awkward to use with some pretty common layouts</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3lz6vqcbsgc2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mayank.co/post/3lz6vqcbsgc2c",
+			"private": true,
+			"date": "2025-09-19T12:51:09.581Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3lz6zkbc42s2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bram.us/post/3lz6zkbc42s2m",
+			"author": {
+				"name": "Bramus",
+				"url": "https://bsky.app/profile/bram.us",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:343p6xcgmvkpz5abgezlgyep/bafkreigkuhuvdn6qvnizxa3agd26bvtkc7xmw5uqjnyh3g4zun4bxhzrsq"
+			},
+			"date": "2025-09-19T13:59:22.240Z",
+			"content": "<p>As long as you don’t go for `scrollbar-gutter: stable both-edges`, you should be fine.</p>\n<p>Reason: Chrome has a bug in which the gutter is doubled up on “retina” devices: <a href=\"https://issues.chromium.org/issues/40064879\">issues.chromium.org/issues/40064...</a></p>\n<p>(The bug is assigned, and I heard engineering will look at it next quarter)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3lz6znkz6u22m",
+			"parentId": "at://did:plc:xelkj5g5tyniwkaxkxzi5hhj/app.bsky.feed.post/3lz6udnp3dc2n",
+			"url": "https://bsky.app/profile/bram.us/post/3lz6znkz6u22m",
+			"author": {
+				"name": "Bramus",
+				"url": "https://bsky.app/profile/bram.us",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:343p6xcgmvkpz5abgezlgyep/bafkreigkuhuvdn6qvnizxa3agd26bvtkc7xmw5uqjnyh3g4zun4bxhzrsq"
+			},
+			"date": "2025-09-19T14:01:13.097Z",
+			"content": "<p>There’s still some discussion on how viewports should behave in this case.</p>\n<p>What the WG did resolve on – but this hasn’t been implemented anywhere (😔) – is that top layer content (such as a modal dialog and its backdrop, or a fullscreen video) can draw on top of the reserved space.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzgkfi4tnk2g",
+			"parentId": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3lz6vqcbsgc2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lzgkfi4tnk2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-22T13:49:33.415Z",
+			"content": "<p>oh that :where cut-the-mustard is interesting</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzgkhtqzws2g",
+			"parentId": "at://did:plc:xelkj5g5tyniwkaxkxzi5hhj/app.bsky.feed.post/3lz6udnp3dc2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lzgkhtqzws2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-22T13:50:52.720Z",
+			"content": "<p>I’m now noticing this on my open graph images 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7le3gpdvacl6bx2zfg62k2vc/app.bsky.feed.post/3m23jigv6vk24",
+			"parentId": "at://did:plc:xelkj5g5tyniwkaxkxzi5hhj/app.bsky.feed.post/3lz6udnp3dc2n",
+			"url": "https://bsky.app/profile/cybercharli.bsky.social/post/3m23jigv6vk24",
+			"author": {
+				"name": "Charity Gamble",
+				"url": "https://bsky.app/profile/cybercharli.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7le3gpdvacl6bx2zfg62k2vc/bafkreihrntoyrfsruy7u7b5ro6zmv5tk7mfyofjl4hys4ad3g4ozpxopbe"
+			},
+			"date": "2025-09-30T21:59:13.542Z",
+			"content": "<p>Curiosity - what layouts do you mean? The site layouts I see daily would not be hindered/made awkward by having space reserved for the vertical scrollbar. The only way I can see that being an issue is if the layout is a side-scrolling layout, but I haven't seen one of those in years.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xelkj5g5tyniwkaxkxzi5hhj/app.bsky.feed.post/3m23k4tgwps2d",
+			"parentId": "at://did:plc:7le3gpdvacl6bx2zfg62k2vc/app.bsky.feed.post/3m23jigv6vk24",
+			"url": "https://bsky.app/profile/lynn.zone/post/3m23k4tgwps2d",
+			"author": {
+				"name": "Lynn",
+				"url": "https://bsky.app/profile/lynn.zone",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xelkj5g5tyniwkaxkxzi5hhj/bafkreiemxndhhqdq33kfkcntxm55rtxyyrhs4ubynlmh22zlglrfaixs7e"
+			},
+			"date": "2025-09-30T22:10:37.795Z",
+			"content": "<p>Any layout with elements that are meant to span the whole width of the (scrollable) container will run into this problem. Navbars, list dividers, etc.</p>\n<p>Things like backdrops for dialogs are also affected, but I guess you could argue those are less of a big deal.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xhhcrzsilpamjmz4dvrpt7df/app.bsky.feed.post/3m77ha7fawc2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chriscoyier.net/post/3m77ha7fawc2s",
+			"author": {
+				"name": "Chris Coyier",
+				"url": "https://bsky.app/profile/chriscoyier.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xhhcrzsilpamjmz4dvrpt7df/bafkreifmffrovmp3xovpblbgdh2wvz4tkk253kadfeinaxxe4jupsjcehe"
+			},
+			"date": "2025-12-05T02:35:26.853Z",
+			"content": "<p>I just... can't... do it.</p>\n<p><a href=\"https://frontendmasters.com/blog/the-downsides-of-scrollbar-gutter-stable-and-one-weird-trick/\">frontendmasters.com/blog/the-dow...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7az2j7uos2n",
+			"parentId": "at://did:plc:xhhcrzsilpamjmz4dvrpt7df/app.bsky.feed.post/3m77ha7fawc2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m7az2j7uos2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-05T17:27:02.928Z",
+			"content": "<p>Fair! Love the is-scrollable query!!</p>\n<p>Are you sure about that 25px scrollbar width 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3m7azhiza6c2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7az2j7uos2n",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3m7azhiza6c2i",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-12-05T17:34:18.917Z",
+			"content": "<p>I've been using inches is that wrong?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7azkqayus2u",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3m7azhiza6c2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m7azkqayus2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-05T17:36:07.176Z",
+			"content": "<p>as long as it isn’t CSS-in-JS I think you’re good</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xhhcrzsilpamjmz4dvrpt7df/app.bsky.feed.post/3m7bdut4aas2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7az2j7uos2n",
+			"url": "https://bsky.app/profile/chriscoyier.net/post/3m7bdut4aas2g",
+			"author": {
+				"name": "Chris Coyier",
+				"url": "https://bsky.app/profile/chriscoyier.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xhhcrzsilpamjmz4dvrpt7df/bafkreifmffrovmp3xovpblbgdh2wvz4tkk253kadfeinaxxe4jupsjcehe"
+			},
+			"date": "2025-12-05T20:40:43.127Z",
+			"content": "<p>I am not haha</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7be2jkans2c",
+			"parentId": "at://did:plc:xhhcrzsilpamjmz4dvrpt7df/app.bsky.feed.post/3m7bdut4aas2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m7be2jkans2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-05T20:43:54.427Z",
+			"content": "<p>Folks can feel free to steal this (unfortunately JS) solution to calculate obtrusive scrollbar widths! <a href=\"https://github.com/zachleat/line-numbers/blob/dfdd9acf7499514b4845708d43b13aab98781bc8/line-numbers.js#L4-L16\">github.com/zachleat/lin...</a></p>\n<p>(originally from <a href=\"https://www.filamentgroup.com/lab/scrollbars/\">www.filamentgroup.com/lab/scrollba...</a> !)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrzyao2holfkgrsfbq2tue27/app.bsky.feed.post/3m7beg3jj4222",
+			"parentId": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3lz6znkz6u22m",
+			"url": "https://bsky.app/profile/sjoy.lol/post/3m7beg3jj4222",
+			"author": {
+				"name": "Sara Joy ☠️",
+				"url": "https://bsky.app/profile/sjoy.lol",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrzyao2holfkgrsfbq2tue27/bafkreiagfp7h4bhwll4eapje73qndnihlfvena227cpggzlph2e54w5yhi"
+			},
+			"date": "2025-12-05T20:50:22.376Z",
+			"content": "<p>Yeah adding the stable scrollbar gutter then not allowing the dialog backdrop to flow over it feels criminal 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrzyao2holfkgrsfbq2tue27/app.bsky.feed.post/3m7bes62ips2g",
+			"parentId": "at://did:plc:xhhcrzsilpamjmz4dvrpt7df/app.bsky.feed.post/3m77ha7fawc2s",
+			"url": "https://bsky.app/profile/sjoy.lol/post/3m7bes62ips2g",
+			"author": {
+				"name": "Sara Joy ☠️",
+				"url": "https://bsky.app/profile/sjoy.lol",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrzyao2holfkgrsfbq2tue27/bafkreiagfp7h4bhwll4eapje73qndnihlfvena227cpggzlph2e54w5yhi"
+			},
+			"date": "2025-12-05T20:57:07.683Z",
+			"content": "<p>\"there is no way I’ve found to make it not a white, or dark-in-dark-mode, bar\"</p>\n<p>I think it is dark if you've used color-scheme for your dark mode.</p>\n<p>But yeah even when the scrollbar was already there and just lost the moving bit, it sticks out so much when it's plain and empty and useless.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrzyao2holfkgrsfbq2tue27/app.bsky.feed.post/3m7bes7ecmc2g",
+			"parentId": "at://did:plc:jrzyao2holfkgrsfbq2tue27/app.bsky.feed.post/3m7bes62ips2g",
+			"url": "https://bsky.app/profile/sjoy.lol/post/3m7bes7ecmc2g",
+			"author": {
+				"name": "Sara Joy ☠️",
+				"url": "https://bsky.app/profile/sjoy.lol",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrzyao2holfkgrsfbq2tue27/bafkreiagfp7h4bhwll4eapje73qndnihlfvena227cpggzlph2e54w5yhi"
+			},
+			"date": "2025-12-05T20:57:07.684Z",
+			"content": "<p>Would be good if it would just take on whatever background or backdrop colour is already there, or if you could style it with the track part of scrollbar-color. But I guess it's technically not a scrollbar or a track at that point.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3m7bg6rskcc25",
+			"parentId": "at://did:plc:jrzyao2holfkgrsfbq2tue27/app.bsky.feed.post/3m7bes7ecmc2g",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3m7bg6rskcc25",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-12-05T21:22:04.789Z",
+			"content": "<p>Using it here for when the sidenav expands beyond the height of the viewport, including some custom styles to make the scrollbar look more Mac-like. <a href=\"https://pitviper.turquoise.health/\">pitviper.turquoise.health</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3m7bgjqfads25",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3m7bg6rskcc25",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3m7bgjqfads25",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-12-05T21:28:12.403Z",
+			"content": "<p>Oh, actually it requires some additional scrollbar styles that aren't evident in dev tools. 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrzyao2holfkgrsfbq2tue27/app.bsky.feed.post/3m7bgnblihc2t",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3m7bgjqfads25",
+			"url": "https://bsky.app/profile/sjoy.lol/post/3m7bgnblihc2t",
+			"author": {
+				"name": "Sara Joy ☠️",
+				"url": "https://bsky.app/profile/sjoy.lol",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrzyao2holfkgrsfbq2tue27/bafkreiagfp7h4bhwll4eapje73qndnihlfvena227cpggzlph2e54w5yhi"
+			},
+			"date": "2025-12-05T21:30:11.096Z",
+			"content": "<p>Was going to say, it seemed a bit simple!</p>\n<p>But this is within the page rather than at the very-right edge of a website, so I guess maybe doesn't have the same issues with the gutter just staying white or black?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3m7bgsommwk25",
+			"parentId": "at://did:plc:jrzyao2holfkgrsfbq2tue27/app.bsky.feed.post/3m7bgnblihc2t",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3m7bgsommwk25",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-12-05T21:33:12.539Z",
+			"content": "<p>Here' it's white with 25% opacity. You could probably set the color as a custom prop and flip it for light/dark mode? I didn't bother to implement it on the main panel. 😂</p>",
+			"via": "bluesky"
+		}
+	]
+}

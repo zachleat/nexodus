@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvlchflzpc2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvlchflzpc2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-04T13:30:00.121Z",
+			"content": "<p>(now with fixed OG image, thank you <a href=\"https://bsky.app/profile/did:plc:bhdap3w2bseikypfnjmaskzf\">@cassidoo.co</a> 😅)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fadprentoncf3znz2ea7nyy2/app.bsky.feed.post/3lvluwrcr3fth",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sebduggan.uk/post/3lvluwrcr3fth",
+			"author": {
+				"name": "Seb Duggan",
+				"url": "https://bsky.app/profile/sebduggan.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fadprentoncf3znz2ea7nyy2/bafkreifzp2g7rkhhnc7xygq7m52dh2dvw6y3haai4lsnhv72m27lhewswe"
+			},
+			"date": "2025-08-04T19:00:43.069Z",
+			"content": "<p>Ah, I thought it cached to .cache automatically, and couldn’t work out why Cloudflare Pages never used the cache on the next build…</p>\n<p>Thanks for the tip - I’ll give it a go!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvluyeatp22d",
+			"parentId": "at://did:plc:fadprentoncf3znz2ea7nyy2/app.bsky.feed.post/3lvluwrcr3fth",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvluyeatp22d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-04T19:01:36.485Z",
+			"content": "<p>we should do that but don’t currently! we’ll probably tackle that soon!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fadprentoncf3znz2ea7nyy2/app.bsky.feed.post/3lvneaxgjvzry",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvluyeatp22d",
+			"url": "https://bsky.app/profile/sebduggan.uk/post/3lvneaxgjvzry",
+			"author": {
+				"name": "Seb Duggan",
+				"url": "https://bsky.app/profile/sebduggan.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fadprentoncf3znz2ea7nyy2/bafkreifzp2g7rkhhnc7xygq7m52dh2dvw6y3haai4lsnhv72m27lhewswe"
+			},
+			"date": "2025-08-05T09:07:30.895Z",
+			"content": "<p>Your code example is missing “import path …”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvnsewtog22k",
+			"parentId": "at://did:plc:fadprentoncf3znz2ea7nyy2/app.bsky.feed.post/3lvneaxgjvzry",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvnsewtog22k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-05T13:20:16.880Z",
+			"content": "<p>ah, thank you! fix is building</p>",
+			"via": "bluesky"
+		}
+	]
+}

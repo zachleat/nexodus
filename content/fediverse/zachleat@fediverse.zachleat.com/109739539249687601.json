@@ -1,0 +1,181 @@
+{
+	"comments": [
+		{
+			"id": "109739576115025739",
+			"parentId": 0,
+			"url": "https://m.webtoo.ls/@patak/109739576075350695",
+			"author": {
+				"name": "patak",
+				"url": "https://m.webtoo.ls/@patak",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/467/347/427/647/201/original/3506ee2939de8823.jpeg"
+			},
+			"date": "2023-01-23T16:57:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> The current logic shows a large preview if the account has a header and the followers count is bigger than 250 or if it wasn't going to be grouped and it has more than 25 followers. I did a heuristic that looked ok but we haven't had time to think much about it. Maybe we should use a percentage of your own followers for example to show big cards to folks that are just starting using Mastodon. You can see the current condition here:<br><a href=\"https://github.com/elk-zone/elk/blob/1a7ae6f0efd6f9cdf5d961328a89574119efae7c/components/notification/NotificationPaginator.vue#L62\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/blob/1</span><span class=\"invisible\">a7ae6f0efd6f9cdf5d961328a89574119efae7c/components/notification/NotificationPaginator.vue#L62</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739614663736141",
+			"parentId": "109739576115025739",
+			"url": "https://m.nintendojo.fr/@meduz/109739613897034118",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2023-01-23T17:07:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patak</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> Interesting. I would love to have neutrality here: I don’t care about anyone “popularity” that decides to follow me, and the UI as it is now is a bit disturbing for a notification feed. If there’s a setting to have neutrality, I would appreciate it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739621602316390",
+			"parentId": "109739614663736141",
+			"url": "https://m.webtoo.ls/@patak/109739621555705975",
+			"author": {
+				"name": "patak",
+				"url": "https://m.webtoo.ls/@patak",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/467/347/427/647/201/original/3506ee2939de8823.jpeg"
+			},
+			"date": "2023-01-23T17:08:57.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>meduz</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> Neutrality means showing every new follow as a small avatar only? Would you create an issue to discuss if that is the case? I'm a little bit worried about adding too many options though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739624236043345",
+			"parentId": "109739621602316390",
+			"url": "https://m.nintendojo.fr/@meduz/109739624097385463",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2023-01-23T17:09:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patak</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> Sure! Will do this evening. :teptep:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739658845293328",
+			"parentId": "109739624236043345",
+			"url": "https://fediverse.zachleat.com/@zachleat/109739658845293328",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-23T17:18:26.117Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\">@<span>meduz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\">@<span>elk</span></a></span> a nice middle ground might be anyone with an avatar photo and a header image! I like the opt-in based on how much work the user has put into their profile 🏆 (but would also agree that a min-follower count feels a tiny bit awkward)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739662471277531",
+			"parentId": "109739576115025739",
+			"url": "https://fediverse.zachleat.com/@zachleat/109739662471277531",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-23T17:19:21.438Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\">@<span>elk</span></a></span> appreciate the explanation, thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739675546088236",
+			"parentId": 0,
+			"url": "https://mstdn.social/@jenned/109739675487900075",
+			"author": {
+				"name": "JennEd501",
+				"url": "https://mstdn.social/@jenned",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-01-23T17:22:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> My account is set so that followers must be approved, and I get the small previews for follower requests in notifications. Once I approve a follower, I get the large preview in notifications. (I have to use tusky to approve followers for now, I don't see that feature on elk, yet.)<br>There has been no correlation to follower count in my case.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739762258682133",
+			"parentId": "109739675546088236",
+			"url": "https://fediverse.zachleat.com/@zachleat/109739762258682133",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-23T17:44:44.073Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@jenned\" class=\"u-url mention\">@<span>jenned</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\">@<span>elk</span></a></span> this reply has the full details: <a href=\"https://fediverse.zachleat.com/@patak@webtoo.ls/109739576115025739\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@patak@</span><span class=\"invisible\">webtoo.ls/109739576115025739</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739807907622181",
+			"parentId": "109739658845293328",
+			"url": "https://m.webtoo.ls/@patak/109739807863527859",
+			"author": {
+				"name": "patak",
+				"url": "https://m.webtoo.ls/@patak",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/467/347/427/647/201/original/3506ee2939de8823.jpeg"
+			},
+			"date": "2023-01-23T17:56:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>meduz</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> Good points. I think if we show the big card expansion for everyone with an avatar and a header it may break your notifications when you do a good post. But I also think it is better if we find an heuristic that doesn't depend on follower count. Maybe we could show it if on top of avatar and header, it has a proper description, and includes at least a profile meta link?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109739836062889277",
+			"parentId": "109739807907622181",
+			"url": "https://fediverse.zachleat.com/@zachleat/109739836062889277",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-23T18:03:30.240Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\">@<span>meduz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\">@<span>elk</span></a></span> forgive my armchair design idea but I think it’s pretty close to great as-is. I’d just remove the follower count minimums.</p><p>Then for groups keep the only small avatars for everyone and sort the avatars in the group first by if they have avatar/cover image (and then maybe by follower count too?).</p><p>For singles/non-groups, only show large previews if a user has avatar/cover image.</p><p>(feel free to ignore me, too 😅—still loving it either way)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109740517049498525",
+			"parentId": "109739836062889277",
+			"url": "https://m.webtoo.ls/@patak/109740516994043081",
+			"author": {
+				"name": "patak",
+				"url": "https://m.webtoo.ls/@patak",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/467/347/427/647/201/original/3506ee2939de8823.jpeg"
+			},
+			"date": "2023-01-23T20:56:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>meduz</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> I think we should still show some big cards for grouped notifications. There are a lot of times when people follow you in groups because of a post was shared a lot. Let's try a new algorithm for grouping that stills uses the followers count but removes the minimum limit and see how it works.</p><p>Elk will now order each group according to who has a header first (giving priority to folks that did setup their account), and who has more followers second. Then it shows the first one of the group (if it has a header) as a big card, no matter how many followers it has. If only one remains and it has a header, it is also expanded as a big card. If not, the remaining are shown as a group of avatars in a single line.</p><p><a href=\"https://github.com/elk-zone/elk/pull/1408\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">408</span></a></p><p>You can switch to Elks' canary release and see how it works for you before it hits the alpha channel at <a href=\"https://main.elk.zone\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">main.elk.zone</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109740696617989345",
+			"parentId": "109740517049498525",
+			"url": "https://fediverse.zachleat.com/@zachleat/109740696617989345",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-23T21:42:21.264Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\">@<span>meduz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\">@<span>elk</span></a></span> (amazing as always, thank you!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109740933548287185",
+			"parentId": "109740696617989345",
+			"url": "https://m.nintendojo.fr/@meduz/109740933100260139",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2023-01-23T22:42:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patak</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> Posted a new issue (not for the grouping, but for the notification design in itself): <a href=\"https://github.com/elk-zone/elk/issues/1409\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/issues</span><span class=\"invisible\">/1409</span></a></p><p>Made some proposals, my favorite being this one by only changing the `&lt;div&gt;` wrapping the image:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109740997866206108",
+			"parentId": "109740517049498525",
+			"url": "https://mastodon.social/@ollicle/109740997823529837",
+			"private": true,
+			"date": "2023-01-23T22:58:57.000Z",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"comments": [
+		{
+			"id": "112853732995635662",
+			"parentId": 0,
+			"url": "https://toot.cafe/@dotproto/112853732917218074",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2024-07-26T16:28:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Slower?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853753427687773",
+			"parentId": "112853732995635662",
+			"url": "https://fediverse.zachleat.com/@zachleat/112853753427687773",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T16:33:38.464Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@dotproto\" class=\"u-url mention\">@<span>dotproto</span></a></span> overhead is overhead 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853756794158393",
+			"parentId": "112853753427687773",
+			"url": "https://toot.cafe/@dotproto/112853756654211009",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2024-07-26T16:34:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sorry, do you mean runtime overhead or dev time? Either one is not ideal, just not quite following</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853800197332879",
+			"parentId": "112853756794158393",
+			"url": "https://fediverse.zachleat.com/@zachleat/112853800197332879",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T16:45:32.112Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@dotproto\" class=\"u-url mention\">@<span>dotproto</span></a></span> A weak case can be made for the former—I’ve added some more JS to make TS happy. A strong case can be made for the latter 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854565891344064",
+			"parentId": 0,
+			"url": "https://mastodon.cloud/@spaceninja/112854565830135878",
+			"author": {
+				"name": "Old Man Vandehey (HAS MOVED)",
+				"url": "https://mastodon.cloud/@spaceninja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/475/043/518/956/924/original/fbdc8f2c54e3a3f8.png"
+			},
+			"date": "2024-07-26T20:00:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's my favorite Daft Punk song</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112858249513387813",
+			"parentId": "112854565891344064",
+			"url": "https://hachyderm.io/@EndlessMason/112858249478552900",
+			"private": true,
+			"date": "2024-07-27T11:37:02.000Z",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rgrzo7xept2yb2auooex4rlg/app.bsky.feed.post/3mv3rzbjb2k2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dbushell.com/post/3mv3rzbjb2k2r",
+			"author": {
+				"name": "David Bushell 🪿",
+				"url": "https://bsky.app/profile/dbushell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rgrzo7xept2yb2auooex4rlg/bafkreihnboi4k2gliws646ejgaukwbmoh4qtjrir3km5f2qiltstwnfta4"
+			},
+			"date": "2026-09-09T14:52:02.219Z",
+			"content": "<p>i'm confused, are you generating the same 474 images every build (or worse, every request!)?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mv3sdiehfc2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mv3sdiehfc2p",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-09-09T14:57:44.945Z",
+			"content": "<p>Cool! If the background image is always the same, you can also speed up image generations a loooot by not spinning up a whole browser, but justing using canvaskit-wasm in Node/Deno/Bun, e.g. via <a href=\"https://github.com/mastrojs/og-image/\">github.com/mastrojs/og-...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mv3sh6mty22z",
+			"parentId": "at://did:plc:rgrzo7xept2yb2auooex4rlg/app.bsky.feed.post/3mv3rzbjb2k2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mv3sh6mty22z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-09T14:59:48.953Z",
+			"content": "<p>- now it’s 1 page for 474 unique images (cached in the screenshot service, not generated every time or every build)<br>\n- previously it was 474 pages for 474 unique images (also cached in the screenshot service, not generated every time or every build)</p>\n<p>(I removed 473 pages from my build)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mv3smkt34s2z",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mv3sdiehfc2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mv3smkt34s2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-09T15:02:49.512Z",
+			"content": "<p>yeah! I wanted a 1:1 with a regular website as much as possible in my workflow so I didn’t have to worry about browser support as much in the library</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mv3ssiyx6c2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mv3smkt34s2z",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mv3ssiyx6c2p",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-09-09T15:06:08.934Z",
+			"content": "<p>yeah, as the website changes you'd have to periodically update the background png somehow. Although that could be automated as well ;)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rgrzo7xept2yb2auooex4rlg/app.bsky.feed.post/3mv3t3udfw227",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mv3sh6mty22z",
+			"url": "https://bsky.app/profile/dbushell.com/post/3mv3t3udfw227",
+			"author": {
+				"name": "David Bushell 🪿",
+				"url": "https://bsky.app/profile/dbushell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rgrzo7xept2yb2auooex4rlg/bafkreihnboi4k2gliws646ejgaukwbmoh4qtjrir3km5f2qiltstwnfta4"
+			},
+			"date": "2026-09-09T15:11:22.800Z",
+			"content": "<p>ah gotcha, nice</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3mv47vo5cwk2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/hejchristian.com/post/3mv47vo5cwk2m",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2026-09-09T19:00:33.627Z",
+			"content": "<p>Ohhh that's clever! Took me a trip to your repo to understand,  but it's all clicked for me now 🥳 Adding the json to the page is the same way I do a \"go to random page\" feature - great idea! And nice way to keep it secure so folks can't just generate any OG image with URL param shenanigans.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3mv47vojtd22m",
+			"parentId": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3mv47vo5cwk2m",
+			"url": "https://bsky.app/profile/hejchristian.com/post/3mv47vojtd22m",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2026-09-09T19:00:33.628Z",
+			"content": "<p>Thanks for the write up Zach!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mv4ad5c22c26",
+			"parentId": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3mv47vojtd22m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mv4ad5c22c26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-09T19:08:05.718Z",
+			"content": "<p>you’re very welcome (and thank you for the kind words!)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yexcapfkucnqipkpedpx2lyi/app.bsky.feed.post/3mvyb4kz6ok25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jsutherland.dev/post/3mvyb4kz6ok25",
+			"author": {
+				"name": "Jesse Sutherland",
+				"url": "https://bsky.app/profile/jsutherland.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yexcapfkucnqipkpedpx2lyi/bafkreiea7bqw5lasszeewa45tq6swutgfpymnfb7hgm7kkzi65jkvdnndu"
+			},
+			"date": "2026-09-20T22:36:51.641Z",
+			"content": "<p>The screenshot service is custom 11ty service older post references on netlify or something else?</p>\n<p>Was just thinking of having a utility like this in my design system docs.</p>\n<p>Ie render screenshot of a component dynamically and give it a URL. Useful for marketing/comms team etc</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvzzhuulkk2k",
+			"parentId": "at://did:plc:yexcapfkucnqipkpedpx2lyi/app.bsky.feed.post/3mvyb4kz6ok25",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvzzhuulkk2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T15:25:20.619Z",
+			"content": "<p><a href=\"https://github.com/11ty/api-screenshot/\">github.com/11ty/api-scr...</a> is the one! currently on vercel though</p>",
+			"via": "bluesky"
+		}
+	]
+}

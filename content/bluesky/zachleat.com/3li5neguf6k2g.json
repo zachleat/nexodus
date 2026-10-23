@@ -1,0 +1,689 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3li5nrqkt5k2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3li5nrqkt5k2b",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-02-14T16:47:50.821Z",
+			"content": "<p>i arrived at a very similar place (and <a href=\"https://bsky.app/profile/did:plc:hewhabm3uw73cbz27uwuydcg\">@knowler.dev</a> before me, linked in the post)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5nuv56hc2q",
+			"parentId": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3li5nrqkt5k2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3li5nuv56hc2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-14T16:49:36.282Z",
+			"content": "<p>Amazing! How strongly do you feel about opt-in versus opt-out?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5nwvlhmk2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5nuv56hc2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3li5nwvlhmk2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-14T16:50:43.859Z",
+			"content": "<p>oh, dang you allow the tag name to be passed in the query param — interesting</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ej4vbhrcmi6em257zszwnxd7/app.bsky.feed.post/3li5nxjonnk2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tonyward.dev/post/3li5nxjonnk2m",
+			"private": true,
+			"date": "2025-02-14T16:51:04.927Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3li5nznpmqc2b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5nuv56hc2q",
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3li5nznpmqc2b",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-02-14T16:52:16.270Z",
+			"content": "<p>i like opt-in! and i think i actually prefer ?nodefine to ?define=false</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li5o3ftflc2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5nuv56hc2q",
+			"url": "https://bsky.app/profile/knowler.dev/post/3li5o3ftflc2w",
+			"private": true,
+			"date": "2025-02-14T16:53:15.113Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li5o52van22w",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li5o3ftflc2w",
+			"url": "https://bsky.app/profile/knowler.dev/post/3li5o52van22w",
+			"private": true,
+			"date": "2025-02-14T16:54:10.749Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5o73v4cc2q",
+			"parentId": "at://did:plc:ej4vbhrcmi6em257zszwnxd7/app.bsky.feed.post/3li5nxjonnk2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3li5o73v4cc2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-14T16:55:18.902Z",
+			"content": "<p>thanks Tony!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li5o754h3k2w",
+			"parentId": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3li5nrqkt5k2b",
+			"url": "https://bsky.app/profile/knowler.dev/post/3li5o754h3k2w",
+			"private": true,
+			"date": "2025-02-14T16:55:20.190Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5oaixjjk2q",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li5o3ftflc2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3li5oaixjjk2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-14T16:56:06.167Z",
+			"content": "<p>That’s a good argument!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3li5ob36pn22b",
+			"parentId": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3li5nznpmqc2b",
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3li5ob36pn22b",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-02-14T16:56:25.277Z",
+			"content": "<p>wait i meant opt-out lol</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5ocvdaqk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3li5ocvdaqk2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-14T16:57:26.241Z",
+			"content": "<p><a href=\"https://bsky.app/profile/did:plc:vrrdgcidwpvn4omvn7uuufoo\">@jakelazaroff.com</a> has some lovely ideas documented here that overlap: <a href=\"https://til.jakelazaroff.com/html/define-a-custom-element/\">til.jakelazaroff.com/html/define-...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3li5oe2g66s2b",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li5o3ftflc2w",
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3li5oe2g66s2b",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-02-14T16:58:05.136Z",
+			"content": "<p>yeah i think i feel more strongly about the principle of least surprise than about whether to define by default or not</p>\n<p>like, i personally prefer define by default, but if there were a community expectation of opt-in definition via a query string param i’d choose that pattern over my own preference</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jgwanpgdadflp2skdss2a7hk/app.bsky.feed.post/3li5ou545as2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/joeldrake.bsky.social/post/3li5ou545as2l",
+			"author": {
+				"name": "Joel Drake",
+				"url": "https://bsky.app/profile/joeldrake.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jgwanpgdadflp2skdss2a7hk/bafkreico4twtk3eezpgut2w2oz3d6ugvndn55rtle7lbhy4up7jhq3mdde"
+			},
+			"date": "2025-02-14T17:07:04.821Z",
+			"content": "<p>I read it as Node Fine. 🙃</p>\n<p>How about camel casing it?</p>\n<p>?noDefine</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5t77hwyc22",
+			"parentId": "at://did:plc:jgwanpgdadflp2skdss2a7hk/app.bsky.feed.post/3li5ou545as2l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3li5t77hwyc22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-14T18:24:51.374Z",
+			"content": "<p>I personally don’t like relying on case sensitivity in query param keys (acknowledging that they are case sensitive) 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:x6gox2spfccened4qbaj4b5b/app.bsky.feed.post/3li63rg7ca22s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li5nuv56hc2q",
+			"url": "https://bsky.app/profile/robmeyer.net/post/3li63rg7ca22s",
+			"author": {
+				"name": "Rob Meyer",
+				"url": "https://bsky.app/profile/robmeyer.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6gox2spfccened4qbaj4b5b/bafkreih3chn4ludv3lf2hodduusqt7psewtxvssoggn5glkbjdtzlp46su"
+			},
+			"date": "2025-02-14T20:58:12.340Z",
+			"content": "<p>I *feel* like it should be opt-in to avoid unwanted surprises, but assuming the query string arguments work well with all major bundlers, it's easy enough to opt-out that defaulting to define isn't a major hang-up for me.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:x6gox2spfccened4qbaj4b5b/app.bsky.feed.post/3li63rgckps2s",
+			"parentId": "at://did:plc:x6gox2spfccened4qbaj4b5b/app.bsky.feed.post/3li63rg7ca22s",
+			"url": "https://bsky.app/profile/robmeyer.net/post/3li63rgckps2s",
+			"author": {
+				"name": "Rob Meyer",
+				"url": "https://bsky.app/profile/robmeyer.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6gox2spfccened4qbaj4b5b/bafkreih3chn4ludv3lf2hodduusqt7psewtxvssoggn5glkbjdtzlp46su"
+			},
+			"date": "2025-02-14T20:58:12.341Z",
+			"content": "<p>I've been craving standardization one layer up (when should the script be fetched) -- I see several useful settings: (1) deferring script loading until the (not yet defined) custom element nears the viewport, (2) defer until used in DOM, (3) defer until idle, (4)...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:x6gox2spfccened4qbaj4b5b/app.bsky.feed.post/3li63rgcmoc2s",
+			"parentId": "at://did:plc:x6gox2spfccened4qbaj4b5b/app.bsky.feed.post/3li63rgckps2s",
+			"url": "https://bsky.app/profile/robmeyer.net/post/3li63rgcmoc2s",
+			"author": {
+				"name": "Rob Meyer",
+				"url": "https://bsky.app/profile/robmeyer.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6gox2spfccened4qbaj4b5b/bafkreih3chn4ludv3lf2hodduusqt7psewtxvssoggn5glkbjdtzlp46su"
+			},
+			"date": "2025-02-14T20:58:12.342Z",
+			"content": "<p>(4) \"immediate\" in the sense that the script tag would be added, but timing may be influenced by any of the &lt;script&gt; policies -- async, defer, blocking=render, fetchpriority, etc.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3li6nbcybgk2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3li6nbcybgk2v",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2025-02-15T02:11:19.448Z",
+			"content": "<p>\"And all of the bundlers cried out in agony\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li6nikewnk2n",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3li6nbcybgk2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3li6nikewnk2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-15T02:15:22.083Z",
+			"content": "<p>I don’t know her!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nturfjwjp6d76cbnblvhjovo/app.bsky.feed.post/3li6q7qfwtk2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jschof.dev/post/3li6q7qfwtk2l",
+			"author": {
+				"name": "☔ Jim Schofield 🌼",
+				"url": "https://bsky.app/profile/jschof.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nturfjwjp6d76cbnblvhjovo/bafkreig3vyufhhc77i7opieyf5ewyc2hotqzpkq4bdbmmatqfspshddizq"
+			},
+			"date": "2025-02-15T03:04:07.645Z",
+			"content": "<p>Super nifty.  Is there a reason you assigned to the window?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li6qfcupxc24",
+			"parentId": "at://did:plc:nturfjwjp6d76cbnblvhjovo/app.bsky.feed.post/3li6q7qfwtk2l",
+			"url": "https://bsky.app/profile/knowler.dev/post/3li6qfcupxc24",
+			"private": true,
+			"date": "2025-02-15T03:07:14.777Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li6qsbqg7s24",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li6qfcupxc24",
+			"url": "https://bsky.app/profile/knowler.dev/post/3li6qsbqg7s24",
+			"private": true,
+			"date": "2025-02-15T03:14:29.796Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3li7kahk3xs2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/engelman.nl/post/3li7kahk3xs2e",
+			"author": {
+				"name": "Danny Engelman 🌷🏍️🛥️",
+				"url": "https://bsky.app/profile/engelman.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
+			},
+			"date": "2025-02-15T10:49:49.188Z",
+			"content": "<p>&gt; opt-out of define<br>\n&gt; want different tag name<br>\n&gt; run script before definition</p>\n<p>Why create a behemoth of a Web Component <br>\nthat caters for IFs that will never happen?</p>\n<p>it is OOP</p>\n<p>𝙘𝙪𝙨𝙩𝙤𝙢𝙀𝙡𝙚𝙢𝙚𝙣𝙩𝙨.𝙙𝙚𝙛𝙞𝙣𝙚(\"𝙢𝙮-𝙘𝙤𝙢𝙥𝙤𝙣𝙚𝙣𝙩\", <br>\n 𝙘𝙡𝙖𝙨𝙨 𝙚𝙭𝙩𝙚𝙣𝙙𝙨 𝙘𝙪𝙨𝙩𝙤𝙢𝙀𝙡𝙚𝙢𝙚𝙣𝙩𝙨.𝙜𝙚𝙩(\"𝙮𝙤𝙪𝙧-𝙘𝙤𝙢𝙥𝙤𝙣𝙚𝙣𝙩\"){ ... })</p>\n<p><a href=\"https://dev.to/dannyengelman/more-wordle-mordle-extending-josh-his-web-components-4li\">dev.to/dannyengelma...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3li7kapwpoc2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/stefanmatei.com/post/3li7kapwpoc2i",
+			"author": {
+				"name": "Stefan Matei",
+				"url": "https://bsky.app/profile/stefanmatei.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:komsc4cibngambanqjhpwweu/bafkreig2zczdfchzhxfkofhunix7nxui6ls4zfjma2un3tqjslcfgzpf7e"
+			},
+			"date": "2025-02-15T10:49:57.987Z",
+			"content": "<p>Love this! And it looks like it would make 3rd party components more immediately compatible with my little definer.js script if I changed it to add `.js?nodefine&amp;define=false` (so it works with both your and <a href=\"https://bsky.app/profile/did:plc:vrrdgcidwpvn4omvn7uuufoo\">@jakelazaroff.com</a>’s patterns) instead of just adding the .js extension</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3li7kweaz6c2e",
+			"parentId": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3li7kahk3xs2e",
+			"url": "https://bsky.app/profile/engelman.nl/post/3li7kweaz6c2e",
+			"author": {
+				"name": "Danny Engelman 🌷🏍️🛥️",
+				"url": "https://bsky.app/profile/engelman.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
+			},
+			"date": "2025-02-15T11:02:03.941Z",
+			"content": "<p>I extended Josh Wardle his Wordle (written with Web Components)</p>\n<p><a href=\"https://dev.to/dannyengelman/more-wordle-mordle-extending-josh-his-web-components-4li\">dev.to/dannyengelma...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3li7ptqm3wc2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3li7ptqm3wc2b",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2025-02-15T12:30:04.932Z",
+			"content": "<p>I like the idea of self-contained definers, especially if you have custom logic for defining components.</p>\n<p>Because of the side-effect that comes with defining components in the same module as where the logic is, I've been a big proponent of splitting them into separate modules.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3li7ptqwprc2b",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3li7ptqm3wc2b",
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3li7ptqwprc2b",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2025-02-15T12:30:04.933Z",
+			"content": "<p>That way you can import the module as-is from the definer from one module or you can import the class from another module if you want to customize the tag or extend the class.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7jiqgk4co5kchm6gwgqhoc3c/app.bsky.feed.post/3li7vtho7k22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/coryrylan.com/post/3li7vtho7k22f",
+			"author": {
+				"name": "Cory Rylan",
+				"url": "https://bsky.app/profile/coryrylan.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7jiqgk4co5kchm6gwgqhoc3c/bafkreifi6ijidsplgcj2b2ofddhottv4o2louvh2wircwwds4dqxqr4urq"
+			},
+			"date": "2025-02-15T14:17:18.012Z",
+			"content": "<p>The way I've handled this is by making a secondary/separate import that auto defines the custom element.</p>\n<p><a href=\"https://github.com/coryrylan/reusable-ui-component-api-guide?tab=readme-ov-file#side-effects\">github.com/coryrylan/re...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lia3yj5j4c2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lia3yj5j4c2x",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-02-15T16:07:29.788Z",
+			"content": "<p>Such a lovely blast from the past!</p>\n<p>It hadn’t crossed my mind that the ”import.meta.url” could be a replacement for the old way of finding the data by checking the DOM for script tags (and when synchronously loading a script, grabbing the last available element in the DOM or whatever it was)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lii7qpsbw22j",
+			"parentId": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3li7kweaz6c2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lii7qpsbw22j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T21:36:01.200Z",
+			"content": "<p>This thread has me thinking, thanks! <a href=\"https://github.com/11ty/is-land/issues/32\">github.com/11ty/is-land...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liia3vaw2c23",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3li6qsbqg7s24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liia3vaw2c23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T21:42:16.022Z",
+			"content": "<p>Mostly this was an artifact from &lt;is-land&gt; (which I’ve been working on) which has some static APIs it exposes around fallback content and initialization extensions — wanted those to be available globally. I don’t think I’d go so far as to say it makes sense everywhere!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liia63uqis23",
+			"parentId": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3li7kapwpoc2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liia63uqis23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T21:43:30.072Z",
+			"content": "<p>Interesting! You may be interested in this discussion too: <a href=\"https://github.com/11ty/is-land/issues/31\">github.com/11ty/is-land...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liiaaya7p223",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3li7ptqwprc2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liiaaya7p223",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T21:45:06.917Z",
+			"content": "<p>it feels a little heavy for one-off components for me but I can see the allure for larger systems!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liiaddfek223",
+			"parentId": "at://did:plc:7jiqgk4co5kchm6gwgqhoc3c/app.bsky.feed.post/3li7vtho7k22f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liiaddfek223",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T21:46:25.729Z",
+			"content": "<p>you and <a href=\"https://bsky.app/profile/did:plc:pefubtxqc5svtvsds725qgx3\">@stuffbreaker.bsky.social</a> should be friends 😅 <a href=\"https://bsky.app/profile/stuffbreaker.bsky.social/post/3li7ptqwprc2b\">bsky.app/profile/stuf...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liiaevgjts23",
+			"parentId": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lia3yj5j4c2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liiaevgjts23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T21:47:18.196Z",
+			"content": "<p>tbh I’d still like a document.currentScript for modules that don’t have a `src` though</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3liiarhs6e22e",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liiaddfek223",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3liiarhs6e22e",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2025-02-18T21:54:20.103Z",
+			"content": "<p>Looks like im in good company...</p>\n<p>// Auto registers as &lt;light-editor&gt;<br>\nimport \"light-pen/exports/components/light-editor/light-editor-register.js\"</p>\n<p>// Manual Register<br>\nimport LightEditor \"light-pen/exports/components/light-editor/light-editor.js\"<br>\nLightEditor.define()<br>\n// =&gt; Registers as &lt;light-editor&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liibc7jbhc2v",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3liiarhs6e22e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liibc7jbhc2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T22:03:41.850Z",
+			"content": "<p>oh interesting, I don’t mind this pattern in your *-register.js</p>\n<p>```<br>\nimport LightEditor from \"./light-editor.js\";<br>\nexport default LightEditor;<br>\nLightEditor.define();<br>\n```</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liibcm5g322v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liibc7jbhc2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liibcm5g322v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T22:03:55.093Z",
+			"content": "<p>(via <a href=\"https://github.com/KonnorRogers/light-pen/blob/main/exports/components/light-editor/light-editor-register.js\">github.com/KonnorRogers...</a>)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3liicuahgos2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liiaddfek223",
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3liicuahgos2g",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2025-02-18T22:31:40.557Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7jiqgk4co5kchm6gwgqhoc3c/app.bsky.feed.post/3liidmkpje22s",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3liicuahgos2g",
+			"url": "https://bsky.app/profile/coryrylan.com/post/3liidmkpje22s",
+			"author": {
+				"name": "Cory Rylan",
+				"url": "https://bsky.app/profile/coryrylan.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7jiqgk4co5kchm6gwgqhoc3c/bafkreifi6ijidsplgcj2b2ofddhottv4o2louvh2wircwwds4dqxqr4urq"
+			},
+			"date": "2025-02-18T22:45:16.615Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liie4te32c2n",
+			"parentId": "at://did:plc:7jiqgk4co5kchm6gwgqhoc3c/app.bsky.feed.post/3liidmkpje22s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liie4te32c2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T22:54:22.549Z",
+			"content": "<p>tfw the CE legends are all aligning in the replies <a href=\"https://bsky.app/profile/konnorrogers.com/post/3liiarhs6e22e\">bsky.app/profile/konn...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liiecqdims2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3liiecqdims2h",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2025-02-18T22:57:40.712Z",
+			"content": "<p>Why not just have two separate modules, one self-registering and one not?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liiew363ak2l",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liiecqdims2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liiew363ak2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-18T23:08:29.603Z",
+			"content": "<p>self-registering requires two request chain if you don’t want to duplicate code and you aren’t using a bundler, unless there is a technique I’m not aware of!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liifltzr3k2t",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liiecqdims2h",
+			"url": "https://bsky.app/profile/fvsch.com/post/3liifltzr3k2t",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2025-02-18T23:20:40.314Z",
+			"content": "<p>That, but also I would probably just do one module that just exports the class, and give the snippet with the define call in documentation.</p>\n<p>Teach people to fish, etc.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liiftjdcn22t",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liifltzr3k2t",
+			"url": "https://bsky.app/profile/fvsch.com/post/3liiftjdcn22t",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2025-02-18T23:24:57.532Z",
+			"content": "<p>I don't know, I guess I've been burned by jQuery plugins and other frontend scripts that perform side effects on the page automatically and don't let you take control. So now I'd rather import the class and register myself. 🫠</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liigbwajak2t",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liiftjdcn22t",
+			"url": "https://bsky.app/profile/fvsch.com/post/3liigbwajak2t",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2025-02-18T23:33:00.835Z",
+			"content": "<p>If you really want to do a query parameter thing, I'd make the side effects opt-in.</p>\n<p>?define<br>\n?define=custom-name</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3liihpnm3o22h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liibc7jbhc2v",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3liihpnm3o22h",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2025-02-18T23:58:35.280Z",
+			"content": "<p>Should probably also have an</p>\n<p>export * from \"./light-editor.js\"</p>\n<p>Just in case anything else gets exported 🤷‍♂️</p>\n<p>but yea it's the pattern I've hated the least. Although you are right in that it incurs an extra network request on CDNs just to call the registering function</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liihuuguic23",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liigbwajak2t",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3liihuuguic23",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2025-02-19T00:01:30.221Z",
+			"content": "<p>That'll break if used with two different parameter values on the same page.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liihzu53tc2t",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liihuuguic23",
+			"url": "https://bsky.app/profile/fvsch.com/post/3liihzu53tc2t",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2025-02-19T00:04:17.674Z",
+			"content": "<p>This only strengthens my impression that auto-registering is bad. 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liii3oxtus23",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liihzu53tc2t",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3liii3oxtus23",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2025-02-19T00:05:19.367Z",
+			"content": "<p>Auto registration is the only way to ensure the required 1-1 class to tagname relationship.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liiiefmnrc2t",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liii3oxtus23",
+			"url": "https://bsky.app/profile/fvsch.com/post/3liiiefmnrc2t",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2025-02-19T00:10:11.554Z",
+			"content": "<p>Users could always add a second manual registration, which would break, so nothing is ensured?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liiiniyts22t",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liiiefmnrc2t",
+			"url": "https://bsky.app/profile/fvsch.com/post/3liiiniyts22t",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2025-02-19T00:15:17.087Z",
+			"content": "<p>Even if we consider that `customElements.define` is a footgun, should we handle this by having each library do its own bespoke mitigation pattern? That sounds nightmarish.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3liivhb6ezk2h",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3liiiniyts22t",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3liivhb6ezk2h",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2025-02-19T04:04:26.199Z",
+			"content": "<p>Yeah, so two modules. Simple. Works with and without scoped registries.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3lijn5gcuas2b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liia63uqis23",
+			"url": "https://bsky.app/profile/stefanmatei.com/post/3lijn5gcuas2b",
+			"author": {
+				"name": "Stefan Matei",
+				"url": "https://bsky.app/profile/stefanmatei.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:komsc4cibngambanqjhpwweu/bafkreig2zczdfchzhxfkofhunix7nxui6ls4zfjma2un3tqjslcfgzpf7e"
+			},
+			"date": "2025-02-19T11:08:25.846Z",
+			"content": "<p>I’ll take a look, thanks</p>",
+			"via": "bluesky"
+		}
+	]
+}

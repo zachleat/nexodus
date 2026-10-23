@@ -1,0 +1,563 @@
+{
+	"comments": [
+		{
+			"id": "113358799087635408",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113358799087635408",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T21:13:23.655Z",
+			"content": "<p>we must *measure* web performance and not rely on how things *feel*—what are we even doing, y’all</p><p>this feels like the silliest most mundane thing to say</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358806825419221",
+			"parentId": "113358799087635408",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113358806688458391",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-23T21:15:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I feel what you're saying...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358815721805415",
+			"parentId": "113358799087635408",
+			"url": "https://front-end.social/@eeeps/113358815691520827",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2024-10-23T21:17:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i thought it was quite measured, actually</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358818625941041",
+			"parentId": "113358806825419221",
+			"url": "https://fediverse.zachleat.com/@zachleat/113358818625941041",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T21:18:21.789Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> *walks out*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358819590084758",
+			"parentId": "113358815721805415",
+			"url": "https://fediverse.zachleat.com/@zachleat/113358819590084758",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T21:18:36.499Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> I have feelings about this</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358821203218677",
+			"parentId": "113358799087635408",
+			"url": "https://indieweb.social/@iamschulz/113358821181278857",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2024-10-23T21:19:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wait is this about web perf or the state of, you know *gestures everywhere*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358821293194921",
+			"parentId": 0,
+			"url": "https://bsd.network/@rnelson/113358821205998340",
+			"author": {
+				"name": "Ross Nelson",
+				"url": "https://bsd.network/@rnelson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/482/203/117/369/original/b94b05b6d3e98fdc.jpg"
+			},
+			"date": "2024-10-23T21:19:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It only counts as being a fast site if it's fast on an 8088 running MicroWeb!</p><p><a href=\"https://github.com/jhhoward/MicroWeb\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jhhoward/MicroWeb</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358825992549075",
+			"parentId": "113358821293194921",
+			"url": "https://fediverse.zachleat.com/@zachleat/113358825992549075",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T21:20:14.192Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bsd.network/@rnelson\" class=\"u-url mention\">@<span>rnelson</span></a></span> goals</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358879421035748",
+			"parentId": "113358799087635408",
+			"url": "https://front-end.social/@a11yMel/113358879402997667",
+			"author": {
+				"name": "Melanie",
+				"url": "https://front-end.social/@a11yMel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/349/997/004/476/619/original/0a852b5a247738c3.jpeg"
+			},
+			"date": "2024-10-23T21:33:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think it’s the sign that we are getting old. We just say silly mundane obvious things, over and over and over again. 🤷‍♀️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358887025988696",
+			"parentId": "113358818625941041",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113358886960883483",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-23T21:35:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not exactly a measure response 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358904517967784",
+			"parentId": "113358879421035748",
+			"url": "https://fediverse.zachleat.com/@zachleat/113358904517967784",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T21:40:12.396Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@a11yMel\" class=\"u-url mention\">@<span>a11yMel</span></a></span> I feel this deep in my bones</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358907447243598",
+			"parentId": "113358887025988696",
+			"url": "https://fediverse.zachleat.com/@zachleat/113358907447243598",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T21:40:57.093Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> I measured the number of steps to the door, does that count</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358912445912218",
+			"parentId": "113358799087635408",
+			"url": "https://front-end.social/@AmeliaBR/113358912411420596",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2024-10-23T21:42:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A lot of the \"perceived performance\" stuff feels like a sleazy way to make sure the user doesn't notice that you're chewing through their data plan &amp; battery lifespan.</p><p>Which might make sense, in an evil genius way, if they're using it to serve more ads or run cryptocurrency frauds in the background. But mostly it just seems to be a way to make things look snappy when you show them to executives in a boardroom to get their sign-off.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113358923798473047",
+			"parentId": "113358907447243598",
+			"url": "https://mastodon.social/@khalidabuhakmeh/113358923730175410",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-10-23T21:45:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> perf....ect</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359013347422348",
+			"parentId": "113358912445912218",
+			"url": "https://fediverse.zachleat.com/@zachleat/113359013347422348",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T22:07:53.002Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> demo driven development! Reminds me of those blur-up image techniques to trick LCP that were popular for awhile 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359038197651907",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tomw/113359037579632057",
+			"author": {
+				"name": "Tom Walker",
+				"url": "https://mastodon.social/@tomw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/338/280/995/838/214/original/fbcf1ae1c2f82118.jpg"
+			},
+			"date": "2024-10-23T22:14:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The real achievement is to make a website that feels dog slow on *any* device you throw at it. Just an absolute mess where scrolling barely works and then the tab hangs</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359056886574797",
+			"parentId": "113359038197651907",
+			"url": "https://fediverse.zachleat.com/@zachleat/113359056886574797",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T22:18:57.357Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tomw\" class=\"u-url mention\">@<span>tomw</span></a></span> well wait these are everywhere 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359181950335156",
+			"parentId": 0,
+			"url": "https://mstdn.social/@peterreeves/113359181919493329",
+			"author": {
+				"name": "Peter Reeves",
+				"url": "https://mstdn.social/@peterreeves",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/571/154/415/137/324/original/1f49a7c45f638268.jpg"
+			},
+			"date": "2024-10-23T22:50:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But what if the standard set of measurements aren't capturing actual lived experience? A bog standard MPA might score well in tests, but if every time I change page I have to trek to the server/DB in the US (It's always in the US) and back, then it can be a worse experience than client side routing. And of course CSR isn't really captured in tests, so it's easy for people to point to an MPA and say \"See the official stats? This is always better\".</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359310598200346",
+			"parentId": "113359181950335156",
+			"url": "https://mastodon.social/@jakelazaroff/113359310544726696",
+			"author": {
+				"name": "jake lazaroff",
+				"url": "https://mastodon.social/@jakelazaroff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/829/533/556/740/279/original/69a92e79689324bc.png"
+			},
+			"date": "2024-10-23T23:23:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@peterreeves\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>peterreeves</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i don’t have an opinion on any particular tests but i do think it’s mostly wishful thinking that SPAs that use a client-server architecture (i.e. render a UI on the client with data from a server) will perform better than MPAs on navigation, even in the best case where the JS is cached. in both scenarios navigation is network bound: the user sees nothing meaningful until there’s a round trip from the browser to the DB and back.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359327416383425",
+			"parentId": "113359310598200346",
+			"url": "https://mstdn.social/@peterreeves/113359327402601123",
+			"author": {
+				"name": "Peter Reeves",
+				"url": "https://mstdn.social/@peterreeves",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/571/154/415/137/324/original/1f49a7c45f638268.jpg"
+			},
+			"date": "2024-10-23T23:27:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But there are things that SPAs can do to make it faster for me as a human (rather than as a machine test). They can initiate the request when I hover on a link to get a head start, they can reduce the amount of data requested (since they may already have half the app state in memory), they can do optimistic updates, etc.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359358901536192",
+			"parentId": "113359327416383425",
+			"url": "https://mstdn.social/@peterreeves/113359358882406417",
+			"author": {
+				"name": "Peter Reeves",
+				"url": "https://mstdn.social/@peterreeves",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/571/154/415/137/324/original/1f49a7c45f638268.jpg"
+			},
+			"date": "2024-10-23T23:35:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Additionally, if I'm navigating from page A -&gt; B -&gt; C (assume there is no direct link from A to C, or the user meant to go for C and mis-clicked B), and B is a heavy page (think a table with thousands of items) then an MPA will be slower. Hitting page B in an MPA will require the whole DB + SSR + network dance, before I can just see the link to page C. With CSR, I see a spinner while the items load, but I don't care about them. I can click the link to page C immediately.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359385089521954",
+			"parentId": "113358799087635408",
+			"url": "https://anarres.family/@tarajdactyl/113359385044549350",
+			"author": {
+				"name": "Tara 🕷️:blobbat:",
+				"url": "https://anarres.family/@tarajdactyl",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-23T23:42:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  this is why websites are as slow (or slower!) to load now as they were in the 90s, even though broadband Internet is very widespread.</p><p>it is infuriating. i am sure they load and run very quickly on the developer's machines and on the flagship smartphones connected to high quality Wi-Fi with an excellent uplink</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359417969990819",
+			"parentId": "113359327416383425",
+			"url": "https://mastodon.social/@jakelazaroff/113359417919985462",
+			"author": {
+				"name": "jake lazaroff",
+				"url": "https://mastodon.social/@jakelazaroff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/829/533/556/740/279/original/69a92e79689324bc.png"
+			},
+			"date": "2024-10-23T23:50:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@peterreeves\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>peterreeves</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> MPAs can preload too (e.g. <a href=\"https://instant.page/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">instant.page/</span><span class=\"invisible\"></span></a>). i think optimizations like optimistic updates tend to make apps *significantly* more complex. imo the real opportunity for SPAs is adopting sync engines and/or a local-first architecture, where the network is not in the critical path of core functionality.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359438389641695",
+			"parentId": "113358904517967784",
+			"url": "https://front-end.social/@a11yMel/113359438366603405",
+			"author": {
+				"name": "Melanie",
+				"url": "https://front-end.social/@a11yMel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/349/997/004/476/619/original/0a852b5a247738c3.jpeg"
+			},
+			"date": "2024-10-23T23:55:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my knees especially, so creaky these days 😂😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113359731296463054",
+			"parentId": "113358799087635408",
+			"url": "https://toot.cafe/@bkardell/113359731160969856",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2024-10-24T01:10:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah but does it *feel* like the silliest thing, or is it measurably &amp; demonstrably the silliest thing?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113362881077821509",
+			"parentId": "113359731296463054",
+			"url": "https://fediverse.zachleat.com/@zachleat/113362881077821509",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-24T14:31:29.883Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> brian we are enemies now</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113362896455305922",
+			"parentId": "113359181950335156",
+			"url": "https://fediverse.zachleat.com/@zachleat/113362896455305922",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-24T14:35:24.525Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@peterreeves\" class=\"u-url mention\">@<span>peterreeves</span></a></span> sure but we don’t judge cars based specifically on how fast they are in 3rd gear or higher—we measure 0–60. Ignoring empty-cache first-page-load performance is starting in 3rd gear</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363190590433760",
+			"parentId": "113358799087635408",
+			"url": "https://social.lol/@bw/113363190556904948",
+			"author": {
+				"name": "Blake Watson :prami:",
+				"url": "https://social.lol/@bw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/605/727/192/440/original/576348ada777517b.jpeg"
+			},
+			"date": "2024-10-24T15:50:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> feels good man</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363207597037779",
+			"parentId": "113363190590433760",
+			"url": "https://fediverse.zachleat.com/@zachleat/113363207597037779",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-24T15:54:32.173Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\">@<span>bw</span></a></span> the vibes are on point</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363215524813875",
+			"parentId": "113363207597037779",
+			"url": "https://social.lol/@bw/113363215059833111",
+			"author": {
+				"name": "Blake Watson :prami:",
+				"url": "https://social.lol/@bw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/605/727/192/440/original/576348ada777517b.jpeg"
+			},
+			"date": "2024-10-24T15:56:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Imagine if real engineers were like “yeah this bridge feels sturdy to me, ship it.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363240748141939",
+			"parentId": "113363215524813875",
+			"url": "https://fediverse.zachleat.com/@zachleat/113363240748141939",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-24T16:02:58.017Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\">@<span>bw</span></a></span> I ran 100 sports cars over the bridge so it should handle semi-trucks just fine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363262175545182",
+			"parentId": "113363215524813875",
+			"url": "https://mastodon.cthos.dev/@cthos/113363262123868231",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-10-24T16:08:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Move fast and break things\" takes on a bit of a different meaning in civil engineering.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363347230636576",
+			"parentId": "113362881077821509",
+			"url": "https://toot.cafe/@bkardell/113363347126698066",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2024-10-24T16:30:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it only feels that way though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363352015799171",
+			"parentId": "113363347230636576",
+			"url": "https://fediverse.zachleat.com/@zachleat/113363352015799171",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-24T16:31:15.827Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> fair—we are friends again</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363841569843972",
+			"parentId": "113363262175545182",
+			"url": "https://mas.to/@tezoatlipoca/113363841231743127",
+			"author": {
+				"name": "Third spruce tree on the left",
+				"url": "https://mas.to/@tezoatlipoca",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/722/287/290/528/858/original/6ba14458cbf08d20.png"
+			},
+			"date": "2024-10-24T18:35:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cthos</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Indeed, the Oceans Gate d00d found out that it certainly does not apply to deep sea submersibles.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113363844789723359",
+			"parentId": "113363215524813875",
+			"url": "https://mas.to/@tezoatlipoca/113363844749881573",
+			"author": {
+				"name": "Third spruce tree on the left",
+				"url": "https://mas.to/@tezoatlipoca",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/722/287/290/528/858/original/6ba14458cbf08d20.png"
+			},
+			"date": "2024-10-24T18:36:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This bridge feels sturdy to me on MY machine. _Dude, you're riding a bicycle._</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364014753303284",
+			"parentId": "113363215524813875",
+			"url": "https://social.cologne/@kolya/113364014456706658",
+			"author": {
+				"name": "kolya",
+				"url": "https://social.cologne/@kolya",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-24T19:19:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you mean like the ancient Roman bridge engineers many of whose bridges still exist today and carry car weights that were unthinkable when these bridges were designed? <a href=\"https://youtu.be/K0PA_hX8fVs\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/K0PA_hX8fVs</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364023203842816",
+			"parentId": "113364014753303284",
+			"url": "https://fediverse.zachleat.com/@zachleat/113364023203842816",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-24T19:21:57.344Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.cologne/@kolya\" class=\"u-url mention\">@<span>kolya</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\">@<span>bw</span></a></span> do… do you think Roman engineers built bridges by saying “it feels sturdy, ship it?”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364028212401842",
+			"parentId": "113364023203842816",
+			"url": "https://social.cologne/@kolya/113364027879632699",
+			"author": {
+				"name": "kolya",
+				"url": "https://social.cologne/@kolya",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-24T19:23:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> I mean they didn't have the math to calculate stress etc, so yeah, they winged it, very successfully.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364045581082569",
+			"parentId": "113364028212401842",
+			"url": "https://fediverse.zachleat.com/@zachleat/113364045581082569",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-24T19:27:38.793Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.cologne/@kolya\" class=\"u-url mention\">@<span>kolya</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\">@<span>bw</span></a></span> it’s wild that roman bridge building is cited directly on the history of mathematics wikipedia page <a href=\"https://en.wikipedia.org/wiki/History_of_mathematics\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/History_</span><span class=\"invisible\">of_mathematics</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364053114398887",
+			"parentId": "113364045581082569",
+			"url": "https://social.cologne/@kolya/113364052818536552",
+			"author": {
+				"name": "kolya",
+				"url": "https://social.cologne/@kolya",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-24T19:29:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <br>I realize now that you're gonna do everything to make a clever remark, but watching the video I linked.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364078889683601",
+			"parentId": "113364053114398887",
+			"url": "https://social.cologne/@kolya/113364078730534699",
+			"author": {
+				"name": "kolya",
+				"url": "https://social.cologne/@kolya",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-24T19:36:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> to sum it up for you: they built bridges a lot sturdier than they needed to be. and they re-used the same known-to-work arc design over and over. that's how they managed to build bridges that last to this day. there might be a lesson for web development in this, I don't know.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364161097068794",
+			"parentId": "113363215524813875",
+			"url": "https://hachyderm.io/@tymwol/113364161072546019",
+			"author": {
+				"name": "Timothy Wolodzko",
+				"url": "https://hachyderm.io/@tymwol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/857/974/863/924/173/original/6ef3e95d74d064f3.png"
+			},
+			"date": "2024-10-24T19:57:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> „let’s pass 1% of cars through it and see if it collapses” 😬</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3mokedusl3k2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/naugtur.pl/post/3mokedusl3k2n",
+			"author": {
+				"name": "naugtur",
+				"url": "https://bsky.app/profile/naugtur.pl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j65yyxd3csvlqf7mhjm32mk2/bafkreifgjypcvlh4tja3w45yv5rce57maucln5gj324tmfcdlv2xnunace"
+			},
+			"date": "2026-06-18T08:01:00.287Z",
+			"content": "<p>Or try the preview release of <a href=\"https://www.npmjs.com/package/@lavamoat/harden\">www.npmjs.com/package/@lav...</a><br>\nand get some more security improvements out of that while you're at it 😉</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mokyfb5mrk2b",
+			"parentId": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3mokedusl3k2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mokyfb5mrk2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-18T13:59:41.623Z",
+			"content": "<p>I do usually try to avoid adding dependencies for this type of thing — there is a weird line to walk there 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3mokzgn2woc2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mokyfb5mrk2b",
+			"url": "https://bsky.app/profile/naugtur.pl/post/3mokzgn2woc2m",
+			"author": {
+				"name": "naugtur",
+				"url": "https://bsky.app/profile/naugtur.pl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j65yyxd3csvlqf7mhjm32mk2/bafkreifgjypcvlh4tja3w45yv5rce57maucln5gj324tmfcdlv2xnunace"
+			},
+			"date": "2026-06-18T14:18:21.414Z",
+			"content": "<p>Exactly why I'm building this tool now - we used to have a tool you need to install. This one you can run once, even install in a throwaway container, and it makes changes to config files for you. And the wizard asks you questions.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3mokzgnmfbc2m",
+			"parentId": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3mokzgn2woc2m",
+			"url": "https://bsky.app/profile/naugtur.pl/post/3mokzgnmfbc2m",
+			"author": {
+				"name": "naugtur",
+				"url": "https://bsky.app/profile/naugtur.pl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j65yyxd3csvlqf7mhjm32mk2/bafkreifgjypcvlh4tja3w45yv5rce57maucln5gj324tmfcdlv2xnunace"
+			},
+			"date": "2026-06-18T14:18:21.415Z",
+			"content": "<p>The descriptions will layer link to more docs, so it's easy to know what exactly you're agreeing to.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mol4fr3yjc2j",
+			"parentId": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3mokzgnmfbc2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mol4fr3yjc2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-18T15:11:33.314Z",
+			"content": "<p>great! if it isn’t too far I might recommend elevating that laundry list of what it does specifically in the README!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3molg3y3e2k2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mol4fr3yjc2j",
+			"url": "https://bsky.app/profile/naugtur.pl/post/3molg3y3e2k2a",
+			"author": {
+				"name": "naugtur",
+				"url": "https://bsky.app/profile/naugtur.pl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j65yyxd3csvlqf7mhjm32mk2/bafkreifgjypcvlh4tja3w45yv5rce57maucln5gj324tmfcdlv2xnunace"
+			},
+			"date": "2026-06-18T18:05:02.506Z",
+			"content": "<p>That's the plan for 1.0<br>\nFor now I'm still fiddling with opinions and your feedback would be much appreciated ;)</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "113315448144747052",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@greenman/113315448130567897",
+			"author": {
+				"name": "geantvertvert (greenman)",
+				"url": "https://fosstodon.org/@greenman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/445/366/722/122/280/original/417200d5e68237c0.png"
+			},
+			"date": "2024-10-16T05:28:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks for your work and these slides : very clear. You don't talk about themes imho this is the \"talon d'Achille\" of 11ty and I do believe you should set a 11ty  files hierarchy as the linux one to help the themes expansion. It's such a pain to try to understand each personal theme structure used by each web dev.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113315452596542373",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@d3v1an7/113315452561990386",
+			"author": {
+				"name": "d3v1an7",
+				"url": "https://infosec.exchange/@d3v1an7",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/991/051/044/602/132/original/da2a25d00cb13c69.png"
+			},
+			"date": "2024-10-16T05:29:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> always love reading through your slides, zero filler. bummed i missed hearing it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113317322592318642",
+			"parentId": "113315452596542373",
+			"url": "https://fediverse.zachleat.com/@zachleat/113317322592318642",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-16T13:25:22.564Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@d3v1an7\" class=\"u-url mention\">@<span>d3v1an7</span></a></span> thank you! 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113317333222672283",
+			"parentId": "113315448144747052",
+			"url": "https://fediverse.zachleat.com/@zachleat/113317333222672283",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-16T13:28:04.770Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@greenman\" class=\"u-url mention\">@<span>greenman</span></a></span> yeah, that’s fair. We do have a few issues on the tracker regarding this: <a href=\"https://github.com/11ty/eleventy/issues/453\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/453</span></a> is an early one</p>",
+			"via": "fediverse"
+		}
+	]
+}

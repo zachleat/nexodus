@@ -1,0 +1,155 @@
+{
+	"comments": [
+		{
+			"id": "111626195120561753",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@rstephensme/111626195078558458",
+			"author": {
+				"name": "Rachel Stephens",
+				"url": "https://hachyderm.io/@rstephensme",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/589/623/876/093/850/original/31ad73e732077abe.jpg"
+			},
+			"date": "2023-12-22T21:29:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my colleague Kate and I love your posts, and I enjoy this one in particular. Any chance we can get you to come chat with us on our video/podcast about this in 2024? We would love to hear your take on front end frameworks / development. :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111626457357827913",
+			"parentId": 0,
+			"url": "https://front-end.social/@heydon/111626457313793038",
+			"author": {
+				"name": "Large Heydon Collider",
+				"url": "https://front-end.social/@heydon",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/063/268/890/982/original/0b8176eb6904fad0.png"
+			},
+			"date": "2023-12-22T22:36:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Also, there should be some distinction between no dependency web components and dependency web components. </p><p>Using Lit? We are not the same!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627150905540892",
+			"parentId": "111626457357827913",
+			"url": "https://fediverse.zachleat.com/@zachleat/111627150905540892",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-23T01:32:29.315Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\">@<span>heydon</span></a></span> yeah that’s fair! maybe the next step in the chain since react is like 20 lits 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627162535384549",
+			"parentId": "111626195120561753",
+			"url": "https://fediverse.zachleat.com/@zachleat/111627162535384549",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-23T01:35:26.773Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@rstephensme\" class=\"u-url mention\">@<span>rstephensme</span></a></span> yes!! I am so sorry I haven’t followed up—my email etiquette is atrociously bad, let’s schedule it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627185556179015",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111627185556179015",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-23T01:41:18.041Z",
+			"content": "<p>look, you aren’t *allowed* to add a build step to web components because the specious arguments against web components fall apart if you do that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627336840165169",
+			"parentId": "111626457357827913",
+			"url": "https://hachyderm.io/@triangulum/111627336811630407",
+			"author": {
+				"name": "Triangulum",
+				"url": "https://hachyderm.io/@triangulum",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-12-23T02:19:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sure lit is a single (small) dependency but it doesn’t require a build step.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627365533350232",
+			"parentId": "111627336840165169",
+			"url": "https://fediverse.zachleat.com/@zachleat/111627365533350232",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-23T02:27:04.277Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@triangulum\" class=\"u-url mention\">@<span>triangulum</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\">@<span>heydon</span></a></span> I think Heydon was making a slightly different point about dependencies (not build steps)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627368523966568",
+			"parentId": "111627365533350232",
+			"url": "https://front-end.social/@heydon/111627368471445732",
+			"author": {
+				"name": "Large Heydon Collider",
+				"url": "https://front-end.social/@heydon",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/063/268/890/982/original/0b8176eb6904fad0.png"
+			},
+			"date": "2023-12-23T02:27:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@triangulum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>triangulum</span></a></span> 👍</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627638030156457",
+			"parentId": "111627150905540892",
+			"url": "https://mastodon.social/@ollicle/111627637989765351",
+			"private": true,
+			"date": "2023-12-23T03:36:21.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111628860041212370",
+			"parentId": "111627185556179015",
+			"url": "https://hachyderm.io/@Paxxi/111628860006141594",
+			"author": {
+				"name": "Pär Björklund",
+				"url": "https://hachyderm.io/@Paxxi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/527/744/416/567/841/original/8c2cb075a46c098b.jpeg"
+			},
+			"date": "2023-12-23T08:47:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wait what? Is no build an argument against web components?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111630354128112538",
+			"parentId": "111628860041212370",
+			"url": "https://fediverse.zachleat.com/@zachleat/111630354128112538",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-23T15:07:06.614Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@Paxxi\" class=\"u-url mention\">@<span>Paxxi</span></a></span> this is alluding to the SSR argument</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111630575788965432",
+			"parentId": "111630354128112538",
+			"url": "https://hachyderm.io/@Paxxi/111630575762985625",
+			"author": {
+				"name": "Pär Björklund",
+				"url": "https://hachyderm.io/@Paxxi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/527/744/416/567/841/original/8c2cb075a46c098b.jpeg"
+			},
+			"date": "2023-12-23T16:03:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ahh ok, that at least makes a bit more sense</p>",
+			"via": "fediverse"
+		}
+	]
+}

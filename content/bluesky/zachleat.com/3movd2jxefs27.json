@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:34sjk7dxtn46u35y2cckhusa/app.bsky.feed.post/3movoosplik2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cordt.zermin.de/post/3movoosplik2v",
+			"author": {
+				"name": "Cordt",
+				"url": "https://bsky.app/profile/cordt.zermin.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:34sjk7dxtn46u35y2cckhusa/bafkreiggpudh2uuem6tuuyf4v7tffv6u42bh6giqapv4jm5lcuyfggghwy"
+			},
+			"date": "2026-06-22T20:05:21.731Z",
+			"content": "<p>Who exactly is rude to who then 🙃</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3movp5yqiu227",
+			"parentId": "at://did:plc:34sjk7dxtn46u35y2cckhusa/app.bsky.feed.post/3movoosplik2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3movp5yqiu227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-22T20:13:51.369Z",
+			"content": "<p>everyone receiving the unsolicited, automated reply</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:jqacnthuxhn44p3g5vuax5rt/app.bsky.feed.post/3lgehbqkiak2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davidmoll.net/post/3lgehbqkiak2w",
+			"author": {
+				"name": "David Moll",
+				"url": "https://bsky.app/profile/davidmoll.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jqacnthuxhn44p3g5vuax5rt/bafkreih4q52iy7qd4ovseiaft4jjjvwfjcsiy4at56pw4yzu6hnia5oggi"
+			},
+			"date": "2025-01-22T22:49:46.400Z",
+			"content": "<p>What does cold and warm mean in this context?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgei3ns7sc2q",
+			"parentId": "at://did:plc:jqacnthuxhn44p3g5vuax5rt/app.bsky.feed.post/3lgehbqkiak2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgei3ns7sc2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-22T23:04:15.925Z",
+			"content": "<p>Cold cache, warm cache. Cold cache means it’s operating from scratch. Warm cache means a previous build has already run to establish a faster baseline for the next build.</p>\n<p>Specifically <a href=\"https://www.11ty.dev/docs/plugins/image/#disk-cache\">www.11ty.dev/docs/plugins...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgei4ydajs2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgei3ns7sc2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgei4ydajs2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-22T23:05:00.524Z",
+			"content": "<p>Also <a href=\"https://www.11ty.dev/docs/deployment/#persisting-cache\">www.11ty.dev/docs/deploym...</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

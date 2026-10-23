@@ -1,0 +1,246 @@
+{
+	"comments": [
+		{
+			"id": "113385682366684898",
+			"parentId": 0,
+			"url": "https://narrativ.es/@janl/113385682324534237",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2024-10-28T15:10:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was wondering if Croissant accounted for this. Cc <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span>?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385690402093796",
+			"parentId": "113385682366684898",
+			"url": "https://social.coop/@luis_in_brief/113385689055295033",
+			"author": {
+				"name": "Luis Villa",
+				"url": "https://social.coop/@luis_in_brief",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/463/306/329/053/914/original/a6727cc5b53bfaef.jpeg"
+			},
+			"date": "2024-10-28T15:11:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> does not, as far as I’ve seen. Hard problem but it’d absolutely justify Croissant’s cost if it does get solved.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385694073298938",
+			"parentId": "113385690402093796",
+			"url": "https://narrativ.es/@janl/113385694026931825",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2024-10-28T15:13:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> I think the cost is already justified. It’d be a neat feature tho.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385700667637264",
+			"parentId": "113385694073298938",
+			"url": "https://mastodon.social/@BenRiceM/113385700599364899",
+			"author": {
+				"name": "BenRiceM",
+				"url": "https://mastodon.social/@BenRiceM",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/405/079/905/661/141/original/8e2b2196ce642b57.png"
+			},
+			"date": "2024-10-28T15:14:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we have a pretty good solution for this coming soon!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385701756713928",
+			"parentId": "113385690402093796",
+			"url": "https://fediverse.zachleat.com/@zachleat/113385701756713928",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T15:15:05.811Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\">@<span>BenRiceM</span></a></span> I don’t know how much coverage there would be but I’d settle for self-declared `rel=me` tags via personal web sites at this point 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385704092168848",
+			"parentId": "113385700667637264",
+			"url": "https://narrativ.es/@janl/113385704009317545",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2024-10-28T15:15:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😘💖</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385705313719621",
+			"parentId": "113385694073298938",
+			"url": "https://social.coop/@luis_in_brief/113385705256831997",
+			"author": {
+				"name": "Luis Villa",
+				"url": "https://social.coop/@luis_in_brief",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/463/306/329/053/914/original/a6727cc5b53bfaef.jpeg"
+			},
+			"date": "2024-10-28T15:15:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> I like paying for software, and am paying for Croissant, but… meh? It’s very polished for what it does but also pretty expensive for just posting.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385706784678676",
+			"parentId": "113385700667637264",
+			"url": "https://fediverse.zachleat.com/@zachleat/113385706784678676",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T15:16:22.531Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\">@<span>BenRiceM</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\">@<span>luis_in_brief</span></a></span> Amazing, TIL about Croissant—I’ll check it out thanks y’all!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385712077780951",
+			"parentId": "113385700667637264",
+			"url": "https://social.coop/@luis_in_brief/113385708009174619",
+			"author": {
+				"name": "Luis Villa",
+				"url": "https://social.coop/@luis_in_brief",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/463/306/329/053/914/original/a6727cc5b53bfaef.jpeg"
+			},
+			"date": "2024-10-28T15:16:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> very cool! Look forward to it; would definitely change my opinion from “meh” to “very positive”.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385713806361272",
+			"parentId": "113385705313719621",
+			"url": "https://fediverse.zachleat.com/@zachleat/113385713806361272",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T15:18:09.674Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\">@<span>BenRiceM</span></a></span> it’s pretty rude to complain about price on a thread with the original author…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385727881619631",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113385727881619631",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T15:21:44.442Z",
+			"content": "<p>Closely watching Croissant 👀  <a href=\"https://mastodon.social/@BenRiceM/113385700599364899\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@BenRiceM/1133</span><span class=\"invisible\">85700599364899</span></a></p><p><a href=\"https://apps.apple.com/us/app/croissant-cross-posting/id6670288979\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/croissan</span><span class=\"invisible\">t-cross-posting/id6670288979</span></a></p><p>(via <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385741007329364",
+			"parentId": "113385713806361272",
+			"url": "https://social.coop/@luis_in_brief/113385740932931168",
+			"author": {
+				"name": "Luis Villa",
+				"url": "https://social.coop/@luis_in_brief",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/463/306/329/053/914/original/a6727cc5b53bfaef.jpeg"
+			},
+			"date": "2024-10-28T15:25:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> fair! </p><p>Let me phrase it more constructively: coming from someone who really appreciates high-quality software, pays for a lot of it, and literally works all day (when not poasting) to support solo software developers: the price, given the important *but limited* functionality, feels too high and will be hard to justify in the market going forward. As someone who wants you to succeed, I suspect you either need to improve the feature set or lower the price.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385759778334876",
+			"parentId": "113385741007329364",
+			"url": "https://fediverse.zachleat.com/@zachleat/113385759778334876",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-28T15:29:51.149Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\">@<span>BenRiceM</span></a></span> to be clear—this service costs $3 a month, no? I’m currently using Buffer, which costs $5 per channel per month</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385779489000366",
+			"parentId": "113385759778334876",
+			"url": "https://mastodon.social/@BenRiceM/113385779214577690",
+			"author": {
+				"name": "BenRiceM",
+				"url": "https://mastodon.social/@BenRiceM",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/405/079/905/661/141/original/8e2b2196ce642b57.png"
+			},
+			"date": "2024-10-28T15:34:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> I think that’s correct. Buffer is $60 per year per service, Croissant is $20 for the three services we support</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385785905545705",
+			"parentId": "113385741007329364",
+			"url": "https://mastodon.social/@BenRiceM/113385785815209678",
+			"author": {
+				"name": "BenRiceM",
+				"url": "https://mastodon.social/@BenRiceM",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/405/079/905/661/141/original/8e2b2196ce642b57.png"
+			},
+			"date": "2024-10-28T15:36:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> improving the feature set is definitely the plan we want to add iPad and Mac apps, and features like history and scheduled posts. </p><p>But we also thought given that it’s a subscription, better to start high and if needed, lower the price, rather then start too low and have to “bait and switch” existing users by raising the price</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385792555355572",
+			"parentId": "113385759778334876",
+			"url": "https://social.coop/@jsit/113385792330231075",
+			"private": true,
+			"date": "2024-10-28T15:38:07.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385792738508489",
+			"parentId": "113385785905545705",
+			"url": "https://narrativ.es/@janl/113385792679411474",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2024-10-28T15:38:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@luis_in_brief\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>luis_in_brief</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ivory did the same, while publicly stating what they are working on next before they consider “the price justified” because enough people wanted even just a barebones version.</p><p>I think it’s a great strategy. ✌️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385793911923228",
+			"parentId": "113385785905545705",
+			"url": "https://social.coop/@luis_in_brief/113385793571876385",
+			"author": {
+				"name": "Luis Villa",
+				"url": "https://social.coop/@luis_in_brief",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/463/306/329/053/914/original/a6727cc5b53bfaef.jpeg"
+			},
+			"date": "2024-10-28T15:38:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> that’s very fair!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113385800460058777",
+			"parentId": "113385759778334876",
+			"url": "https://social.coop/@luis_in_brief/113385800405230202",
+			"author": {
+				"name": "Luis Villa",
+				"url": "https://social.coop/@luis_in_brief",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/463/306/329/053/914/original/a6727cc5b53bfaef.jpeg"
+			},
+			"date": "2024-10-28T15:40:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://narrativ.es/@janl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@BenRiceM\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>BenRiceM</span></a></span> yeah, but Buffer has so much more functionality that it is really aimed at a different market that is traditionally less price-sensitive (because it goes on the company card).</p><p>I think maybe part of why I’m sensitive to it is that I opted for $3/month to try it out before making an annual commitment? so I’m getting reminded regularly.</p>",
+			"via": "fediverse"
+		}
+	]
+}

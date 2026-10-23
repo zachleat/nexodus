@@ -1,0 +1,77 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lgw6nayn722q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3lgw6nayn722q",
+			"private": true,
+			"date": "2025-01-30T00:03:04.357Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgwe4my34k27",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lgw6nayn722q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgwe4my34k27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-30T01:41:08.941Z",
+			"content": "<p>“you should stock up on silver” had me in the first half, ngl</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nqzikscy54yk5nnotdepq3is/app.bsky.feed.post/3lgwmkzfhc227",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/handle.invalid/post/3lgwmkzfhc227",
+			"author": {
+				"name": "Tôm 🦐",
+				"url": "https://bsky.app/profile/handle.invalid",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nqzikscy54yk5nnotdepq3is/bafkreigg22dtro7m644uzpyo54k65mvomqltf5w7b46ovpl7uekyzuljnm"
+			},
+			"date": "2025-01-30T04:12:21.661Z",
+			"content": "<p>Resign. I can finally step down from my one million CEO roles. What a relief!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgxoskbaos2h",
+			"parentId": "at://did:plc:nqzikscy54yk5nnotdepq3is/app.bsky.feed.post/3lgwmkzfhc227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgxoskbaos2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-30T14:25:01.456Z",
+			"content": "<p>…wait</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nqzikscy54yk5nnotdepq3is/app.bsky.feed.post/3lgxoz2aod225",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgxoskbaos2h",
+			"url": "https://bsky.app/profile/handle.invalid/post/3lgxoz2aod225",
+			"author": {
+				"name": "Tôm 🦐",
+				"url": "https://bsky.app/profile/handle.invalid",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nqzikscy54yk5nnotdepq3is/bafkreigg22dtro7m644uzpyo54k65mvomqltf5w7b46ovpl7uekyzuljnm"
+			},
+			"date": "2025-01-30T14:28:39.540Z",
+			"content": "<p>I knew all those shell companies would pay out one day. 🙏🙏🙏</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgxpc6lmps22",
+			"parentId": "at://did:plc:nqzikscy54yk5nnotdepq3is/app.bsky.feed.post/3lgxoz2aod225",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lgxpc6lmps22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-01-30T14:33:46.084Z",
+			"content": "<p>this is my own personal shell</p>",
+			"via": "bluesky"
+		}
+	]
+}

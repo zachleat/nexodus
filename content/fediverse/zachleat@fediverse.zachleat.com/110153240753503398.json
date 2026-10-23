@@ -1,0 +1,59 @@
+{
+	"comments": [
+		{
+			"id": "110153253914197709",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/110153253875381783",
+			"private": true,
+			"date": "2023-04-06T18:21:05.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110153269609927504",
+			"parentId": "110153253914197709",
+			"url": "https://fediverse.zachleat.com/@zachleat/110153269609927504",
+			"private": true,
+			"date": "2023-04-06T18:25:05.527Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110153451794062848",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@papayaga/110153451753756811",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2023-04-06T19:11:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> *reaches for slides on Zeno's Paradoxes, ends up grabbing a slide kazoo instead*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110153465032597072",
+			"parentId": "110153451794062848",
+			"url": "https://fediverse.zachleat.com/@zachleat/110153465032597072",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-06T19:14:47.438Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@papayaga\" class=\"u-url mention\">@<span>papayaga</span></a></span> try reaching halfway an infinite number of times</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110153646417280629",
+			"parentId": "110153465032597072",
+			"url": "https://hachyderm.io/@papayaga/110153646380314533",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2023-04-06T20:00:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what in earth I’m sure that’s fi—SEGFAULT</p>",
+			"via": "fediverse"
+		}
+	]
+}

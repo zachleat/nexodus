@@ -1,0 +1,350 @@
+{
+	"comments": [
+		{
+			"id": "112321014154560471",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112321014154560471",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T14:31:02.268Z",
+			"content": "<p>Notably, Vercel has a financial incentive to *not* implement support for a bunch of features in static export in Next.js.</p><p>Either static export is a viable feature for portable Next.js projects or Next.js is not a portable framework.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321068486364494",
+			"parentId": "112321014154560471",
+			"url": "https://mastodon.social/@jawnsy/112321068417838742",
+			"author": {
+				"name": "Jonathan Yu",
+				"url": "https://mastodon.social/@jawnsy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/690/794/724/729/924/original/b78eb818922f60ba.jpeg"
+			},
+			"date": "2024-04-23T14:44:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think that's a common problem with vendor-driven open source projects. I sympathize with them because they've created a bunch of value and, understandably, they want to capture it. </p><p>What would you recommend as an alternative?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321170676498491",
+			"parentId": 0,
+			"url": "https://mas.to/@iamdtms/112321170568603415",
+			"author": {
+				"name": "iamdtms",
+				"url": "https://mas.to/@iamdtms",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/825/170/295/400/220/original/e9a12603c999cf73.jpg"
+			},
+			"date": "2024-04-23T15:10:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> /static (fonts, media, robots.txt)<br>/assets (CSS, JS)<br>🪄✨</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321178141433384",
+			"parentId": "112321170676498491",
+			"url": "https://fediverse.zachleat.com/@zachleat/112321178141433384",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T15:12:44.512Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@iamdtms\" class=\"u-url mention\">@<span>iamdtms</span></a></span> image processing through Vercel AI only 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321195515276815",
+			"parentId": "112321014154560471",
+			"url": "https://fediverse.zachleat.com/@zachleat/112321195515276815",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T15:17:09.617Z",
+			"content": "<p>For me, it’s hard not to see the larger problem (and not limited to Vercel).</p><p>Hosting providers are prioritizing dynamic features because dynamic things make more money!</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\">@<span>jlengstorf</span></a></span> said it first: <a href=\"https://www.youtube.com/shorts/tf2erRqdwqc\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/shorts/tf2erRqdwqc</span><span class=\"invisible\"></span></a> on <a href=\"https://fediverse.zachleat.com/tags/TheFutureOfJamstack\" class=\"mention hashtag\" rel=\"tag\">#<span>TheFutureOfJamstack</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321206557480384",
+			"parentId": "112321195515276815",
+			"url": "https://mastodon.social/@khalidabuhakmeh/112321205640271803",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-04-23T15:19:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jlengstorf</span></a></span> This guy gets it. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321468944026401",
+			"parentId": 0,
+			"url": "https://mastodon.social/@lovell/112321468900351211",
+			"author": {
+				"name": "Lovell Fuller",
+				"url": "https://mastodon.social/@lovell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/354/440/482/421/899/original/1cd68a1dcbd4be20.png"
+			},
+			"date": "2024-04-23T16:26:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If only there was some kind of free, open source library that could be used to provide such a feature. 😜</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321475138637306",
+			"parentId": "112321468944026401",
+			"url": "https://fediverse.zachleat.com/@zachleat/112321475138637306",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T16:28:16.329Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lovell\" class=\"u-url mention\">@<span>lovell</span></a></span> legendary reply 🏆🏆🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321644872947750",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@martycoote/112321644842227978",
+			"author": {
+				"name": "Marty Party",
+				"url": "https://hachyderm.io/@martycoote",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/381/596/224/030/734/original/1e80e68348dc8861.jpg"
+			},
+			"date": "2024-04-23T17:11:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is insane! Working on an API doc site ATM and I'm doing the lord's work and using 11ty.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321721791727175",
+			"parentId": 0,
+			"url": "https://indieweb.social/@alannorbauer/112321721775053110",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T17:30:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It doesn’t support exporting optimized/minified images but it does have an image component that will export your images.</p><p>A silly limitation, and your point on incentives is obviously still valid, but it is much less silly than fully not supporting images.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321747708138181",
+			"parentId": "112321721791727175",
+			"url": "https://fediverse.zachleat.com/@zachleat/112321747708138181",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T17:37:35.409Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\">@<span>alannorbauer</span></a></span> by “export” do you mean that it will swap to use a static image url as-is without changing your &lt;Image&gt; app code or paths to the image?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321814640044149",
+			"parentId": 0,
+			"url": "https://indieweb.social/@alannorbauer/112321814626243113",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T17:54:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah. I have a layer of indirection on my site, but this markdown: <a href=\"https://github.com/altano/alan.norbauer.com/blob/b252e36306ca39747583b73952943508c45526a0/src/content/articles/disable-source-maps/index.mdx?plain=1#L30\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/altano/alan.norbaue</span><span class=\"invisible\">r.com/blob/b252e36306ca39747583b73952943508c45526a0/src/content/articles/disable-source-maps/index.mdx?plain=1#L30</span></a></p><p>Goes into this Image component: <a href=\"https://github.com/altano/alan.norbauer.com/blob/b252e36306ca39747583b73952943508c45526a0/mdx-components.tsx#L61\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/altano/alan.norbaue</span><span class=\"invisible\">r.com/blob/b252e36306ca39747583b73952943508c45526a0/mdx-components.tsx#L61</span></a></p><p>Which produces:</p><p>```html<br>&lt;img alt=\"…\" … srcSet=\"/_next/image?…\" src=\"/_next/image?…\"/&gt;<br>```</p><p>And I can turn export on/off without changing the Image component usage. The only thing that has to be toggled on/off to export is image optimization.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321965528799916",
+			"parentId": "112321814640044149",
+			"url": "https://fediverse.zachleat.com/@zachleat/112321965528799916",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T18:32:59.090Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\">@<span>alannorbauer</span></a></span> not sure I understand what you mean. When you static export your site, whether or not you use `&lt;Image&gt;` or `&lt;img&gt;` in your markdown—it produces `&lt;img src=&quot;/_next/image?…&quot;&gt;`?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321981785222121",
+			"parentId": "112321965528799916",
+			"url": "https://indieweb.social/@alannorbauer/112321981723510148",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T18:37:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sorry, the markdown muddied the waters. I have it configured so that markdown images go through the next Image component, whether I use an &lt;img/&gt; tag or a markdown image, but that isn’t necessary.</p><p>If you take the Markdown out of the equation, I’m just saying you can use the Image component and it will work, whether you export or serve dynamically. And the only change you need to make to your app code is turning off image optimization.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322009086113088",
+			"parentId": "112321981785222121",
+			"url": "https://fediverse.zachleat.com/@zachleat/112322009086113088",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T18:44:03.722Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\">@<span>alannorbauer</span></a></span> ah, I’m getting closer! So when image optimization is turned off (in this example)—what markup is produced?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322015144396801",
+			"parentId": "112322009086113088",
+			"url": "https://indieweb.social/@alannorbauer/112322015117699164",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T18:45:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You can view source on this guy: <a href=\"https://alan.norbauer.com/articles/disable-source-maps\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alan.norbauer.com/articles/dis</span><span class=\"invisible\">able-source-maps</span></a> to see</p><p>(Sorry, on my phone atm)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322060025000580",
+			"parentId": "112322015144396801",
+			"url": "https://fediverse.zachleat.com/@zachleat/112322060025000580",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T18:57:00.987Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@alannorbauer\" class=\"u-url mention\">@<span>alannorbauer</span></a></span> ah this is why I’m confused! In this example it’s still running the static image through the next image service, is it not?</p><p>e.g.: &lt;img alt=&quot;Screenshot of the Firefox debugger with source maps off&quot; src=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsource-map-example-tooltip-off.0d067dde.png&amp;amp;w=3840&amp;amp;q=75&quot;/&gt;</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322184452891854",
+			"parentId": "112322060025000580",
+			"url": "https://indieweb.social/@alannorbauer/112322184440814566",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T19:28:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Well, I believe I was mistaken. When I export I can see the exported image file but it isn’t used. The Image component points at an image service. A test with `npx http-server out` shows my images don’t load. I don’t know what I was thinking suggesting that _anything_ in Next worked.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322194854970145",
+			"parentId": "112322184452891854",
+			"url": "https://indieweb.social/@alannorbauer/112322194838994169",
+			"author": {
+				"name": "Alan Norbauer",
+				"url": "https://indieweb.social/@alannorbauer",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T19:31:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is actually why I was worried when Astro started supporting dynamic sites. I thought they were going to lose focus on the SSG side of things, but so far that hasn’t happened. (I’m one PR away from happily switching to Astro - <a href=\"https://github.com/withastro/astro/compare/main...altano:astro:image-middleware\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/withastro/astro/com</span><span class=\"invisible\">pare/main...altano:astro:image-middleware</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322324910606002",
+			"parentId": "112321195515276815",
+			"url": "https://fosstodon.org/@ahoyboyhoy/112322324517133525",
+			"author": {
+				"name": "ahoyboyhoy",
+				"url": "https://fosstodon.org/@ahoyboyhoy",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T20:04:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jlengstorf</span></a></span> Vercel just sent me a notice of pricing changes. Edge functions are now a lot more expensive if I understand it properly.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322636580497518",
+			"parentId": 0,
+			"url": "https://social.gabekangas.com/objects/83d51222-f500-4965-991c-c6c19957ec05",
+			"private": true,
+			"date": "2024-04-23T21:23:48.024Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322642752443069",
+			"parentId": 0,
+			"url": "https://tane.codes/@tanepiper/112322642737076165",
+			"author": {
+				"name": "Tane Piper ⁂",
+				"url": "https://tane.codes/@tanepiper",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/774/936/514/785/original/c27131a82fd76715.jpg"
+			},
+			"date": "2024-04-23T21:25:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm still not sure what Vercel is trying to solve except lock customers in to a ecosystem they will just keep deprecating</p><p>Honestly an Astro, 11ty, or even Express + template library - inside a docker container - is a much better solution.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112325332286241832",
+			"parentId": "112321014154560471",
+			"url": "https://mstdn.jp/@otowa0/112325332264633624",
+			"author": {
+				"name": "Otowa",
+				"url": "https://mstdn.jp/@otowa0",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/211/735/835/430/957/original/18223ebda59741ab.png"
+			},
+			"date": "2024-04-24T08:49:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> React officially recommends using frameworks, and it feels like a problem when considering that NextJS is mentioned first. If it says on the first page of the documentation, \"Do you want to use the most popular framework? ① Pay $20 a month to Vercel...,\" will everyone use React?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112327744516430576",
+			"parentId": "112325332286241832",
+			"url": "https://fediverse.zachleat.com/@zachleat/112327744516430576",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-24T19:02:39.443Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.jp/@otowa0\" class=\"u-url mention\">@<span>otowa0</span></a></span> That is a very awkward relationship, yes! Especially as Vercel hired some of the React core team from Meta iirc?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112327764847634615",
+			"parentId": "112322642752443069",
+			"url": "https://fediverse.zachleat.com/@zachleat/112327764847634615",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-24T19:07:49.672Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tane.codes/@tanepiper\" class=\"u-url mention\">@<span>tanepiper</span></a></span> lock-in is definitely part of the strategy.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112327768249231392",
+			"parentId": "112322324910606002",
+			"url": "https://fediverse.zachleat.com/@zachleat/112327768249231392",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-24T19:08:41.577Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@ahoyboyhoy\" class=\"u-url mention\">@<span>ahoyboyhoy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\">@<span>jlengstorf</span></a></span> SaaS pricing at this point is so complex that it’s almost impossible to predict what anything will cost</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112327770996168711",
+			"parentId": "112321644872947750",
+			"url": "https://fediverse.zachleat.com/@zachleat/112327770996168711",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-24T19:09:23.492Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@martycoote\" class=\"u-url mention\">@<span>martycoote</span></a></span> appreciate you Marty!</p>",
+			"via": "fediverse"
+		}
+	]
+}

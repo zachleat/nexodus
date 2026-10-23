@@ -1,0 +1,582 @@
+{
+	"comments": [
+		{
+			"id": "110468916872755404",
+			"parentId": 0,
+			"url": "https://mastodon.social/@bastianallgeier/110468916749226653",
+			"author": {
+				"name": "Bastian Allgeier",
+				"url": "https://mastodon.social/@bastianallgeier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/225/968/517/429/original/30c7078b2f8c4d75.jpg"
+			},
+			"date": "2023-06-01T12:18:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There are so many bytes that always live in the shadow of the first one. But their work is still important. 💚🤖 We must never forget that. I'm glad you brought this up!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110468933579017829",
+			"parentId": 0,
+			"url": "https://calckey.social/notes/9fgo7l0zi5jkaows",
+			"private": true,
+			"date": "2023-06-01T12:22:15.347Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110468946064873714",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@fasterthanlime/110468946016327219",
+			"author": {
+				"name": "amos",
+				"url": "https://hachyderm.io/@fasterthanlime",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/970/129/686/882/552/original/848671e80b59836f.png"
+			},
+			"date": "2023-06-01T12:25:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> single byte webpage or gtfo</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110468956645411297",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tomw/110468956601648438",
+			"author": {
+				"name": "Tom Walker",
+				"url": "https://mastodon.social/@tomw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/338/280/995/838/214/original/fbcf1ae1c2f82118.jpg"
+			},
+			"date": "2023-06-01T12:28:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Life hack: fire a 0 over the wire as quickly as possible and then take 30 sec before sending anything else</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110468975667545419",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/110468975594274375",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-06-01T12:33:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> gonna write a little Apache module that responds with \"HTTP\" before even invoking the back end, making time-to-first-byte be, like, 9 milliseconds</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469024442752608",
+			"parentId": 0,
+			"url": "https://masto.jln.io/@jeremy/110469024424759396",
+			"author": {
+				"name": "Jeremy Neander",
+				"url": "https://masto.jln.io/@jeremy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/898/561/568/638/603/original/53070f48b56aa731.jpeg"
+			},
+			"date": "2023-06-01T12:45:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> After the first byte, folks seem to lose their appetyte.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469069778670138",
+			"parentId": "110468975667545419",
+			"url": "https://fediverse.zachleat.com/@zachleat/110469069778670138",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-01T12:57:13.683Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> Stuart this is cheating</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469075720325943",
+			"parentId": "110468956645411297",
+			"url": "https://fediverse.zachleat.com/@zachleat/110469075720325943",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-01T12:58:44.345Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tomw\" class=\"u-url mention\">@<span>tomw</span></a></span> this seems… not ideal 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469078328989122",
+			"parentId": "110468946064873714",
+			"url": "https://fediverse.zachleat.com/@zachleat/110469078328989122",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-01T12:59:24.151Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@fasterthanlime\" class=\"u-url mention\">@<span>fasterthanlime</span></a></span> the fastest web site</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469078737744796",
+			"parentId": 0,
+			"url": "https://mastodon.social/@simevidas/110469078665659740",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2023-06-01T12:59:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> time to first megabyte of JavaScript</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469079736208987",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/110469079606961166",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-06-01T12:59:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Truly the middle child of bytes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469081758542272",
+			"parentId": "110468916872755404",
+			"url": "https://fediverse.zachleat.com/@zachleat/110469081758542272",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-01T13:00:16.481Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\">@<span>bastianallgeier</span></a></span> all bytes matter… wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469085516245727",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/110469085353506558",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-06-01T13:01:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The first byte is a Boomer. Second byte is GenX (who?). All subsequent bytes eat too much avocado toast.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469146080415477",
+			"parentId": "110469069778670138",
+			"url": "https://mastodon.social/@sil/110469146040876977",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-06-01T13:16:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Goodhart's law: if you focus everything on a particular metric to make everyone better, everyone cheats by finding ways to pass the metric while continuing doing the wrong thing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469156320836384",
+			"parentId": "110468975667545419",
+			"url": "https://mastodon.social/@voxpelli/110469156263249714",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-06-01T13:19:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m going to make this happen already in the Service Worker 😤 Then it’s &lt;1ms</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469171114935716",
+			"parentId": 0,
+			"url": "https://indieweb.social/@dmc/110469171093268678",
+			"author": {
+				"name": "David McCormick",
+				"url": "https://indieweb.social/@dmc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/120/362/328/540/original/7ddc9f83a1d2778b.png"
+			},
+			"date": "2023-06-01T13:22:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the time to first byte is taken with the eyes</p><p>What?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469249241683940",
+			"parentId": 0,
+			"url": "https://carhenge.club/@mattdsteele/110469249151002325",
+			"author": {
+				"name": "Matt Steele",
+				"url": "https://carhenge.club/@mattdsteele",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/338/334/706/297/788/original/78498de2d2efca88.png"
+			},
+			"date": "2023-06-01T13:42:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sounds like you’ve got a new TED talk in the works to dethrone the dancing guy</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469330406322424",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ksylor/110469330366840386",
+			"author": {
+				"name": "Katie Sylor-Miller",
+				"url": "https://mastodon.social/@ksylor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/320/385/149/397/521/original/cdab8a820add7f07.jpg"
+			},
+			"date": "2023-06-01T14:03:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this made me think of the schoolhouse rock<br>“I’m just a bill” but “I’m just a byte” and a sad looking second byte sitting there and getting a redemption arc</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469668067710643",
+			"parentId": "110469146080415477",
+			"url": "https://front-end.social/@tink/110469668028894656",
+			"private": true,
+			"date": "2023-06-01T15:29:22.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469792997062994",
+			"parentId": "110469146080415477",
+			"url": "https://oldbytes.space/@feoh/110469792962729145",
+			"author": {
+				"name": "Feoh",
+				"url": "https://oldbytes.space/@feoh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/478/610/878/935/068/original/37af788ce70861be.png"
+			},
+			"date": "2023-06-01T16:01:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Shades of 200lb Soviet Tea Kettles! :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110469794546821716",
+			"parentId": "110469668067710643",
+			"url": "https://mastodon.social/@sil/110469794503377522",
+			"private": true,
+			"date": "2023-06-01T16:01:32.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110470462578856343",
+			"parentId": 0,
+			"url": "https://alleysmith.family/@dan/110470462514165031",
+			"private": true,
+			"date": "2023-06-01T18:51:25.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474137193102595",
+			"parentId": "110469146080415477",
+			"url": "https://fediverse.zachleat.com/@zachleat/110474137193102595",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T10:25:56.290Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> what in the lighthouse core web vitals do you mean</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474139894043344",
+			"parentId": "110469330406322424",
+			"url": "https://fediverse.zachleat.com/@zachleat/110474139894043344",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T10:26:37.503Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ksylor\" class=\"u-url mention\">@<span>ksylor</span></a></span> we need this</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474141978486423",
+			"parentId": "110469024442752608",
+			"url": "https://fediverse.zachleat.com/@zachleat/110474141978486423",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T10:27:09.309Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.jln.io/@jeremy\" class=\"u-url mention\">@<span>jeremy</span></a></span> Jeremy what have you done</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474164597279526",
+			"parentId": "110469078737744796",
+			"url": "https://fediverse.zachleat.com/@zachleat/110474164597279526",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T10:32:54.444Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@simevidas\" class=\"u-url mention\">@<span>simevidas</span></a></span> can a sample size for a metric be too large</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474167110316313",
+			"parentId": "110469079736208987",
+			"url": "https://fediverse.zachleat.com/@zachleat/110474167110316313",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T10:33:32.790Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> this hit too close to home Jason</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474186101436990",
+			"parentId": "110474167110316313",
+			"url": "https://mastodon.cc/@jgarber/110474185971030819",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-06-02T10:38:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Right? 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474196379305948",
+			"parentId": "110469171114935716",
+			"url": "https://fediverse.zachleat.com/@zachleat/110474196379305948",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T10:40:59.400Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@dmc\" class=\"u-url mention\">@<span>dmc</span></a></span> I am unfamiliar with this expression 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474210217368689",
+			"parentId": "110469249241683940",
+			"url": "https://fediverse.zachleat.com/@zachleat/110474210217368689",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T10:44:30.552Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://carhenge.club/@mattdsteele\" class=\"u-url mention\">@<span>mattdsteele</span></a></span> ha! I know this reference 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110474473623087388",
+			"parentId": "110474196379305948",
+			"url": "https://indieweb.social/@dmc/110474473588249021",
+			"author": {
+				"name": "David McCormick",
+				"url": "https://indieweb.social/@dmc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/120/362/328/540/original/7ddc9f83a1d2778b.png"
+			},
+			"date": "2023-06-02T11:51:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah sorry I think I thought it was better known than it is perhaps. Internet seems to think it is probably something Ottolenghi said once (possibly not in relation to performance metrics)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110475279995867521",
+			"parentId": 0,
+			"url": "https://mastodon.social/@lawnsea/110475279964324831",
+			"author": {
+				"name": "live, laugh, loni",
+				"url": "https://mastodon.social/@lawnsea",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/417/309/544/662/469/original/9ae3e88525df6630.jpg"
+			},
+			"date": "2023-06-02T15:16:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> u r so rtt abt this zach 😢</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110475292279324082",
+			"parentId": "110475279995867521",
+			"url": "https://fediverse.zachleat.com/@zachleat/110475292279324082",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-02T15:19:41.514Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lawnsea\" class=\"u-url mention\">@<span>lawnsea</span></a></span> packet up, we have a winner</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110475377881896994",
+			"parentId": "110475292279324082",
+			"url": "https://mastodon.social/@lawnsea/110475377832321211",
+			"author": {
+				"name": "live, laugh, loni",
+				"url": "https://mastodon.social/@lawnsea",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/417/309/544/662/469/original/9ae3e88525df6630.jpg"
+			},
+			"date": "2023-06-02T15:41:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sorry i got off to a slow start on this one</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110475404484742993",
+			"parentId": "110469330406322424",
+			"url": "https://mastodon.social/@lawnsea/110475404442377336",
+			"author": {
+				"name": "live, laugh, loni",
+				"url": "https://mastodon.social/@lawnsea",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/417/309/544/662/469/original/9ae3e88525df6630.jpg"
+			},
+			"date": "2023-06-02T15:48:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lmao now i wanna do a song abt tcp slow start in the style of the counting crows</p><p>🎶 round trips, they make us very, very, very, very late 🎵</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111977918052428344",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/111977918018419020",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-02-23T00:17:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> People really should care a bit more.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111977943203587850",
+			"parentId": "111977918052428344",
+			"url": "https://ruby.social/@konnorrogers/111977943166140727",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-02-23T00:23:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>knowler</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> personally, I think people should care one byte more.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111977970307100103",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111977970307100103",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-23T00:30:28.561Z",
+			"content": "<p>I am a middle child</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111977989037099011",
+			"parentId": "111977970307100103",
+			"url": "https://indieweb.social/@jaredwhite/111977988988339014",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2024-02-23T00:35:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> so…children[1] ?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111977995317409882",
+			"parentId": "111977989037099011",
+			"url": "https://ruby.social/@konnorrogers/111977995295777469",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-02-23T00:36:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>if (children.length === 3) return children[1]</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111977998075390592",
+			"parentId": "111977970307100103",
+			"url": "https://sunny.garden/@knowler/111977998041832267",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-02-23T00:37:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you find you click more with TTI?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111977998511792536",
+			"parentId": "111977970307100103",
+			"url": "https://ruby.social/@konnorrogers/111977998484873532",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-02-23T00:37:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fellow middle child checking in 🫡</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111978012979308787",
+			"parentId": "111977970307100103",
+			"url": "https://front-end.social/@ppk/111978012949807096",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://front-end.social/@ppk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/034/668/175/414/original/c0d4895d91ab41e8.jpg"
+			},
+			"date": "2024-02-23T00:41:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You are a middle child. You have no special selector like first-child or last-child. You will have to mess about with nth-child until it works. We feel for you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111978190945305697",
+			"parentId": "111977970307100103",
+			"url": "https://mastodon.cc/@jgarber/111978190805789386",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-02-23T01:26:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> super same</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111978474001478753",
+			"parentId": "111977970307100103",
+			"url": "https://mastodon.social/@phloe/111978473968454011",
+			"author": {
+				"name": "Rasmus Fløe",
+				"url": "https://mastodon.social/@phloe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/099/091/752/948/original/373def91804cc942.png"
+			},
+			"date": "2024-02-23T02:38:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Demand a :middle-child selector!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111981074609693418",
+			"parentId": "111978474001478753",
+			"url": "https://fediverse.zachleat.com/@zachleat/111981074609693418",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-23T13:39:56.462Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@phloe\" class=\"u-url mention\">@<span>phloe</span></a></span> I’m very tempted even though I can’t remember needing this in practical work 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

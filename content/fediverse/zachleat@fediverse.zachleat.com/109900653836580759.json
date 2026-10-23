@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "109900658093323574",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109900658093323574",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-21T03:42:39.674Z",
+			"content": "<p>(cc <span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109901266651811812",
+			"parentId": "109900658093323574",
+			"url": "https://mamot.fr/@nhoizey/109901266580990770",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-02-21T06:17:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🙏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109903241886588395",
+			"parentId": 0,
+			"url": "https://mastodon.world/@exchgr/109903241844330428",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-02-21T14:39:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i don't know about you, but at least on my server, searching “from:exchgr [text query]” surfaces my own posts. doesn't work for any other accounts though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109903255595824517",
+			"parentId": "109903241886588395",
+			"url": "https://fediverse.zachleat.com/@zachleat/109903255595824517",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-21T14:43:14.416Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@exchgr\" class=\"u-url mention\">@<span>exchgr</span></a></span> Ah hmm—my little personal server doesn’t have text search enabled. That’s a good call out though—does it search reblogs?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109903261757990160",
+			"parentId": "109903255595824517",
+			"url": "https://mastodon.world/@exchgr/109903261685202658",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-02-21T14:44:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> do you mean, for example, if i searched for something i reblogged with that syntax using my own username? nope, doesn't work</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109903264393718083",
+			"parentId": "109903261757990160",
+			"url": "https://fediverse.zachleat.com/@zachleat/109903264393718083",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-21T14:45:28.661Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@exchgr\" class=\"u-url mention\">@<span>exchgr</span></a></span> (appreciate the info!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109903758643025042",
+			"parentId": 0,
+			"url": "https://mas.to/@j9t/109903758618978361",
+			"author": {
+				"name": "Jens Oliver Meiert",
+				"url": "https://mas.to/@j9t",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/674/420/438/987/original/1b6a7ffef62b149e.png"
+			},
+			"date": "2023-02-21T16:51:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>, I feel like I just entered the Matrix</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109903783026444015",
+			"parentId": "109903758643025042",
+			"url": "https://fediverse.zachleat.com/@zachleat/109903783026444015",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-21T16:57:22.375Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@j9t\" class=\"u-url mention\">@<span>j9t</span></a></span> let me dust off my dot matrix printer</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109904155335072652",
+			"parentId": "109903264393718083",
+			"url": "https://mastodon.world/@exchgr/109904155281954945",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-02-21T18:32:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that was in ivory, but mona seems to do some kind of more comprehensive search of posts i’ve seen/interacted with, even without the `from:[your own username]` syntax</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109904539764550493",
+			"parentId": "109904155335072652",
+			"url": "https://fediverse.zachleat.com/@zachleat/109904539764550493",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-21T20:09:49.277Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@exchgr\" class=\"u-url mention\">@<span>exchgr</span></a></span> ah just for the record—search would be a bonus. Having an archive of the content on my own static site (and my own clean URLs) is the main goal here!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109904553359399570",
+			"parentId": "109904539764550493",
+			"url": "https://mastodon.world/@exchgr/109904553186751229",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-02-21T20:13:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ah, i understand! thanks for clarifying</p>",
+			"via": "fediverse"
+		}
+	]
+}

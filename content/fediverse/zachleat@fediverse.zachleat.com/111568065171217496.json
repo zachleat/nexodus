@@ -1,0 +1,290 @@
+{
+	"comments": [
+		{
+			"id": "111568077186573832",
+			"parentId": 0,
+			"url": "https://writing.exchange/@ernie/111568076406328754",
+			"author": {
+				"name": "Ernie Smith",
+				"url": "https://writing.exchange/@ernie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/884/804/115/460/original/c169cbb119293e44.jpg"
+			},
+			"date": "2023-12-12T15:09:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is what always makes me laugh about how aggressive Google has been with core web vitals—it’s literally their external code that is slowing everything down. When I added a script that replaced YouTube embeds with images, that helped my CWVs a lot.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568088565799097",
+			"parentId": "111568077186573832",
+			"url": "https://fediverse.zachleat.com/@zachleat/111568088565799097",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T15:12:09.533Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://writing.exchange/@ernie\" class=\"u-url mention\">@<span>ernie</span></a></span> Yeah: Google is basically hundreds of different companies—most of Google’s performance advice can be viewed as though it is aimed directly at other teams at Google. I think in many cases the web performance resources were prepared with that in mind.</p><p>Notably, the solution I recommend is a web component written by a Google employee 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568169556972311",
+			"parentId": 0,
+			"url": "https://indieweb.social/@Chronotope/111568169528695135",
+			"author": {
+				"name": "Aram Zucker-Scharff",
+				"url": "https://indieweb.social/@Chronotope",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/803/163/677/177/original/4c0c39c7864657e3.jpg"
+			},
+			"date": "2023-12-12T15:32:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've been playing with the YouTube API and embeds lately as well, but I find it frustrating that if I want to use the API inside and postMessages I *have* to use the whole YT API package. Did you find any way around that?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568203972670327",
+			"parentId": "111568169556972311",
+			"url": "https://fediverse.zachleat.com/@zachleat/111568203972670327",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T15:41:30.501Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@Chronotope\" class=\"u-url mention\">@<span>Chronotope</span></a></span> unfortunately no!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568741575994091",
+			"parentId": 0,
+			"url": "https://mastodon.me.uk/@slowe/111568741499857879",
+			"author": {
+				"name": "Stuart :progress_pride:",
+				"url": "https://mastodon.me.uk/@slowe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/452/117/795/506/original/f690d07bcc7a167f.jpg"
+			},
+			"date": "2023-12-12T17:58:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> As well as saving 1.1MB, I think you also avoid Google tracking your visitors before they've had a chance to decide if they want to click play or not.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568843799883286",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@hexagoncircle/111568843781155800",
+			"author": {
+				"name": "Ryan Mulligan",
+				"url": "https://fosstodon.org/@hexagoncircle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/282/587/430/600/original/25cefa80851591f6.jpeg"
+			},
+			"date": "2023-12-12T18:24:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> May as well call it a \"California king embed\" at that size, amirite?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568891781017856",
+			"parentId": "111568843799883286",
+			"url": "https://fediverse.zachleat.com/@zachleat/111568891781017856",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T18:36:25.623Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hexagoncircle\" class=\"u-url mention\">@<span>hexagoncircle</span></a></span> hahahahaha</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568957254717314",
+			"parentId": "111568891781017856",
+			"url": "https://fosstodon.org/@hexagoncircle/111568957167492990",
+			"author": {
+				"name": "Ryan Mulligan",
+				"url": "https://fosstodon.org/@hexagoncircle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/282/587/430/600/original/25cefa80851591f6.jpeg"
+			},
+			"date": "2023-12-12T18:53:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Coincidentally, I was adding a youtube embed \"easter egg\" on my 404 page this morning. Your post came at the right time! Now uses lite-youtube for those big savings 🙌 <a href=\"https://ryanmulligan.dev/oopsies\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ryanmulligan.dev/oopsies</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568984074508008",
+			"parentId": "111568957254717314",
+			"url": "https://fediverse.zachleat.com/@zachleat/111568984074508008",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T18:59:53.910Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hexagoncircle\" class=\"u-url mention\">@<span>hexagoncircle</span></a></span> I love your web site Ryan 😍</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568989663268160",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@bzdev/111568989609990843",
+			"author": {
+				"name": "Bill Zaumen",
+				"url": "https://fosstodon.org/@bzdev",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-12-12T19:01:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The idea that one 'youtube embed weighs 1.2 MB' reminds me of something I heard years ago. A government project required developing software going into an airplane. \"What does it weight?\" \"Huh?\" \"Everything in an airplane has to specify a weight.\" So, they listed the weight of a floppy disk. This caused a major complaint: \"You are way out of line on the price per pound ratio.\"  Finally they explained it as \"tooling costs.\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111568994653689992",
+			"parentId": "111568989663268160",
+			"url": "https://fediverse.zachleat.com/@zachleat/111568994653689992",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T19:02:35.335Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bzdev\" class=\"u-url mention\">@<span>bzdev</span></a></span> 😅 can a therapist somewhere please quantify psychological weight</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569047317453841",
+			"parentId": "111568984074508008",
+			"url": "https://fosstodon.org/@hexagoncircle/111569047261906907",
+			"author": {
+				"name": "Ryan Mulligan",
+				"url": "https://fosstodon.org/@hexagoncircle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/282/587/430/600/original/25cefa80851591f6.jpeg"
+			},
+			"date": "2023-12-12T19:15:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah, thank you! My site would be nothing without the top shelf excellence that comes with using <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569233342576049",
+			"parentId": 0,
+			"url": "https://mastodon.xyz/@wills/111569233308989082",
+			"author": {
+				"name": "Skora, Will",
+				"url": "https://mastodon.xyz/@wills",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/784/990/092/372/813/original/0524e007ac105d31.png"
+			},
+			"date": "2023-12-12T20:03:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> a single embed of google maps with 1 Marker is 978kb (i implemented paul Irish's library for YouTube a few weeks ago) but haven't found a similar tactic for googlemaps just yet (i checked out competitor mapbox-gl, &amp; its 2.5mb) <a href=\"https://mastodon.xyz/tags/webperf\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>webperf</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569250084177813",
+			"parentId": "111569233342576049",
+			"url": "https://fediverse.zachleat.com/@zachleat/111569250084177813",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T20:07:32.894Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@wills\" class=\"u-url mention\">@<span>wills</span></a></span> the static maps API for a fallback might be your best bet, maybe this could be a web component you create?</p><p><a href=\"https://developers.google.com/maps/documentation/maps-static/overview\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developers.google.com/maps/doc</span><span class=\"invisible\">umentation/maps-static/overview</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569303228294978",
+			"parentId": "111569233342576049",
+			"url": "https://mamot.fr/@nhoizey/111569302837605102",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-12-12T20:20:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@wills\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>wills</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I use Mapbox on <a href=\"https://nicolas-hoizey.photo/map/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nicolas-hoizey.photo/map/</span><span class=\"invisible\"></span></a> because it’s interactive.</p><p>But on individual photo pages, the map is a static image. At <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> build time, if the map image is  still missing (generating them is another asynchronous process), I use Mapbox static map URLs.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569394149694917",
+			"parentId": "111569303228294978",
+			"url": "https://fediverse.zachleat.com/@zachleat/111569394149694917",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T20:44:11.162Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@wills\" class=\"u-url mention\">@<span>wills</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> you should… (wait for it)</p><p>…blog about this 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569447888327079",
+			"parentId": "111569233342576049",
+			"url": "https://mastodon.social/@raymondcamden/111569447801687975",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2023-12-12T20:57:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@wills\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>wills</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> don't forget Google Maps has a Static API that is just an image, nothing more. Useful for when you don't need interactivity.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569702541014683",
+			"parentId": "111568741575994091",
+			"url": "https://mastodon.social/@simevidas/111569702468028498",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2023-12-12T22:02:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.me.uk/@slowe\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slowe</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> To be fair, YouTube’s own embed offers such an enhanced-privacy mode.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569723050364265",
+			"parentId": "111569702541014683",
+			"url": "https://mastodon.me.uk/@slowe/111569722726325676",
+			"author": {
+				"name": "Stuart :progress_pride:",
+				"url": "https://mastodon.me.uk/@slowe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/452/117/795/506/original/f690d07bcc7a167f.jpg"
+			},
+			"date": "2023-12-12T22:07:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@simevidas\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>simevidas</span></a></span> The \"enhanced privacy\" mode still isn't as private as not loading anything from YouTube until a visitor makes a choice for it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569946142842453",
+			"parentId": "111569394149694917",
+			"url": "https://mamot.fr/@nhoizey/111569946035988548",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-12-12T23:04:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have a lot to say about this website! 😅</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@wills\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>wills</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111570203643737904",
+			"parentId": "111569233342576049",
+			"url": "https://mastodon.social/@eQRoeil/111570203593362787",
+			"author": {
+				"name": "Pascal",
+				"url": "https://mastodon.social/@eQRoeil",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-12-13T00:10:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@wills\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>wills</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> other alternative with WebGl <a href=\"https://maplibre.org/maplibre-gl-js/docs/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">maplibre.org/maplibre-gl-js/do</span><span class=\"invisible\">cs/</span></a> (<a href=\"https://bundlephobia.com/package/maplibre-gl@3.6.2\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bundlephobia.com/package/mapli</span><span class=\"invisible\">bre-gl@3.6.2</span></a>)</p><p>leaflet is light (<a href=\"https://bundlephobia.com/package/leaflet@1.9.4\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bundlephobia.com/package/leafl</span><span class=\"invisible\">et@1.9.4</span></a>)</p><p>mapbox / googlemaps / bing maps have static maps API </p><p>a (really minimal) example with leaflet &amp; protomaps <a href=\"https://pascalmaps.s3.eu-west-2.amazonaws.com/index.html#14/43.5979/1.4391\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pascalmaps.s3.eu-west-2.amazon</span><span class=\"invisible\">aws.com/index.html#14/43.5979/1.4391</span></a><br>with a marker + popup :<br>208&nbsp;kB transferred<br>423&nbsp;kB resources</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111606467475610288",
+			"parentId": 0,
+			"url": "https://front-end.social/@sarajw/111606467452393785",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-12-19T09:52:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh good! Now I don't feel wrong about lazily including my talk just as a link instead of an embed into my site 👍</p>",
+			"via": "fediverse"
+		}
+	]
+}

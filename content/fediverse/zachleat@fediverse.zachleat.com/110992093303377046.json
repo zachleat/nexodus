@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "110992132950458326",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@samhenrigold/110992132911130544",
+			"author": {
+				"name": "sam henri gold",
+				"url": "https://hachyderm.io/@samhenrigold",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/915/707/678/683/035/original/0ae841674d9cfe0e.jpeg"
+			},
+			"date": "2023-09-01T21:59:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what’s up with that spike in 2020?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110992143156412552",
+			"parentId": "110992132950458326",
+			"url": "https://fediverse.zachleat.com/@zachleat/110992143156412552",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-01T22:01:40.015Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@samhenrigold\" class=\"u-url mention\">@<span>samhenrigold</span></a></span> unfortunately I don’t know! It didn’t correlate to a release or a known new big customer</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110992700429579897",
+			"parentId": "110992143156412552",
+			"url": "https://indieweb.social/@motionsuggests/110992700402444435",
+			"author": {
+				"name": "motionsuggests",
+				"url": "https://indieweb.social/@motionsuggests",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/452/399/409/838/177/original/57fc12c7f8a7af80.png"
+			},
+			"date": "2023-09-02T00:23:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@samhenrigold\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>samhenrigold</span></a></span> <br>I wonder if that spike in 2020 was due to <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andy</span></a></span>  excellent  <a href=\"https://learneleventyfromscratch.com\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">learneleventyfromscratch.com</span><span class=\"invisible\"></span></a> course.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110993208948585901",
+			"parentId": "110992700429579897",
+			"url": "https://fediverse.zachleat.com/@zachleat/110993208948585901",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-02T02:32:42.715Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@motionsuggests\" class=\"u-url mention\">@<span>motionsuggests</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@samhenrigold\" class=\"u-url mention\">@<span>samhenrigold</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\">@<span>andy</span></a></span> oh yeah! Maybe! Good shout</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110994277768448588",
+			"parentId": "110992700429579897",
+			"url": "https://thoresson.social/@anders/110994277718237875",
+			"author": {
+				"name": "Anders Thoresson",
+				"url": "https://thoresson.social/@anders",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/421/197/971/976/581/original/b993784d786d0049.png"
+			},
+			"date": "2023-09-02T07:04:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@motionsuggests\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>motionsuggests</span></a></span> Oh, thanks for sharing that link. I’ve been planning to learn 11ty for a while and that was structured they way I prefer courses!</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@samhenrigold\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>samhenrigold</span></a></span> <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andy</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110996041286705858",
+			"parentId": "110994277768448588",
+			"url": "https://bell.bz/@andy/110996041238984651",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bell.bz/@andy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/871/123/336/966/original/e6a047a53e9b945e.jpg"
+			},
+			"date": "2023-09-02T14:33:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>anders</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@motionsuggests\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>motionsuggests</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@samhenrigold\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>samhenrigold</span></a></span> be warned, it’s out of date these days!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110996237905398480",
+			"parentId": "110996041286705858",
+			"url": "https://thoresson.social/@anders/110996235243587912",
+			"author": {
+				"name": "Anders Thoresson",
+				"url": "https://thoresson.social/@anders",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/421/197/971/976/581/original/b993784d786d0049.png"
+			},
+			"date": "2023-09-02T15:22:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andy</span></a></span> No problem! I guess the basic principles haven't changed that much. And it's a good tutorial on them I've been trying to find for a while now. :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110996384095066802",
+			"parentId": "110996237905398480",
+			"url": "https://bell.bz/@andy/110996381142070278",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bell.bz/@andy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/871/123/336/966/original/e6a047a53e9b945e.jpg"
+			},
+			"date": "2023-09-02T15:59:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>anders</span></a></span> yeh for sure. Right up to the point you get up to doing the CSS, it’s all pretty much spot on 🙂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110996390037318713",
+			"parentId": "110996384095066802",
+			"url": "https://thoresson.social/@anders/110996387268693253",
+			"author": {
+				"name": "Anders Thoresson",
+				"url": "https://thoresson.social/@anders",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/421/197/971/976/581/original/b993784d786d0049.png"
+			},
+			"date": "2023-09-02T16:01:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andy</span></a></span> I don’t have an eye for design anyway, so plan to get a template somewhere and use that. :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110997189543320211",
+			"parentId": "110996041286705858",
+			"url": "https://fediverse.zachleat.com/@zachleat/110997189543320211",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-02T19:25:01.775Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\">@<span>andy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\">@<span>anders</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@motionsuggests\" class=\"u-url mention\">@<span>motionsuggests</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@samhenrigold\" class=\"u-url mention\">@<span>samhenrigold</span></a></span> I bet it’s far more relevant than you think—I try very hard to maintain backwards compatibility 🫣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110997227971595314",
+			"parentId": "110997189543320211",
+			"url": "https://bell.bz/@andy/110997227925239813",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bell.bz/@andy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/871/123/336/966/original/e6a047a53e9b945e.jpg"
+			},
+			"date": "2023-09-02T19:34:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>anders</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@motionsuggests\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>motionsuggests</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@samhenrigold\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>samhenrigold</span></a></span> part of the reason I wrote it in the first place, knowing you’d do right by users 🤝</p>",
+			"via": "fediverse"
+		}
+	]
+}

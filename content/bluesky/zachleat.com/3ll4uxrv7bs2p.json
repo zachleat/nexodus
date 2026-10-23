@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:y2gjuhtjgwd2cdl6fnuad3jd/app.bsky.feed.post/3ll4vt6ts7k2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/giancarlob.bsky.social/post/3ll4vt6ts7k2f",
+			"author": {
+				"name": "giancarlo",
+				"url": "https://bsky.app/profile/giancarlob.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2gjuhtjgwd2cdl6fnuad3jd/bafkreiecwytn3eo7spzvexeaxynoaznonalrzxfzab2h3ifmx35hnbnvp4"
+			},
+			"date": "2025-03-24T13:54:44.431Z",
+			"content": "<p><a href=\"https://bsky.app/profile/did:plc:n6f3j47vjucu5ijwdmow7n2w\">@socket.dev</a> <a href=\"https://bsky.app/profile/did:plc:mxdqvruhze7qxiessj6isga2\">@feross.bsky.social</a> is this as serious as it sounds? 👀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4whanibc2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ll4whanibc2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-24T14:05:57.410Z",
+			"content": "<p>Update: looks like a huge flaw somewhere in the vulnerability scanner code being used by these tools (it doesn’t support namespaced packages)</p>\n<p>More info:<br>\n- <a href=\"https://github.com/jridgewell/gen-mapping/issues/12\">github.com/jridgewell/g...</a><br>\n- <a href=\"https://github.com/anchore/grype/issues/1701\">github.com/anchore/gryp...</a><br>\n- It’s referencing this report from 2022 <a href=\"https://github.com/advisories/GHSA-8rmg-jf7p-4p22\">github.com/advisories/G...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4wjcgepk2m",
+			"parentId": "at://did:plc:y2gjuhtjgwd2cdl6fnuad3jd/app.bsky.feed.post/3ll4vt6ts7k2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ll4wjcgepk2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-24T14:07:06.383Z",
+			"content": "<p><a href=\"https://bsky.app/profile/zachleat.com/post/3ll4whanibc2m\">bsky.app/profile/zach...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3ll4wl5zf4s2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/naugtur.pl/post/3ll4wl5zf4s2b",
+			"author": {
+				"name": "naugtur",
+				"url": "https://bsky.app/profile/naugtur.pl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j65yyxd3csvlqf7mhjm32mk2/bafkreifgjypcvlh4tja3w45yv5rce57maucln5gj324tmfcdlv2xnunace"
+			},
+			"date": "2025-03-24T14:08:08.872Z",
+			"content": "<p>the alert doesn't point to specific code as they used to.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4xhhvgcs2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4whanibc2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ll4xhhvgcs2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-24T14:23:58.703Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:n6f3j47vjucu5ijwdmow7n2w/app.bsky.feed.post/3ll5dewnrx22b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4whanibc2m",
+			"url": "https://bsky.app/profile/socket.dev/post/3ll5dewnrx22b",
+			"author": {
+				"name": "Socket",
+				"url": "https://bsky.app/profile/socket.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:n6f3j47vjucu5ijwdmow7n2w/bafkreibac2lxedjvyhs4hyifvkdlu2gouyba4jzpirnuujp3ad2jk6w77i"
+			},
+			"date": "2025-03-24T17:57:18.468Z",
+			"content": "<p>We have already pushed a fix for this and are clearing out our backlog. Thanks for bringing it to our attention!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll5f2ulhkk2l",
+			"parentId": "at://did:plc:n6f3j47vjucu5ijwdmow7n2w/app.bsky.feed.post/3ll5dewnrx22b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ll5f2ulhkk2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-24T18:27:28.234Z",
+			"content": "<p>Appreciate y’all! 🙌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll5f4524bc2l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4whanibc2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ll5f4524bc2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-24T18:28:10.658Z",
+			"content": "<p>The <a href=\"https://bsky.app/profile/did:plc:n6f3j47vjucu5ijwdmow7n2w\">@socket.dev</a> folks have quickly fixed this!</p>\n<p><a href=\"https://bsky.app/profile/socket.dev/post/3ll5dewnrx22b\">bsky.app/profile/sock...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lp2iwktogs2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4whanibc2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lp2iwktogs2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-13T12:39:26.064Z",
+			"content": "<p>Another follow-up: the <a href=\"https://socket.dev\">socket.dev</a> folks fixed this on their end almost immediately but this has now also been fixed upstream in `grype` too: <a href=\"https://github.com/anchore/grype/issues/1701\">github.com/anchore/gryp...</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

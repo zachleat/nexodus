@@ -1,0 +1,400 @@
+{
+	"comments": [
+		{
+			"id": "109354865604437034",
+			"parentId": 0,
+			"url": "https://indieweb.social/@brianleroux/109354864705387122",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2022-11-16T18:20:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hells ya. testing html can be a bit weird! how are you doing it these days? we're basically comparing strings using parse5 and its fiiiine but feels like a thing that could be much better</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354865619663758",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@jhofker/109354865339914034",
+			"author": {
+				"name": "Jordan",
+				"url": "https://hachyderm.io/@jhofker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/960/616/148/533/original/13fff24ccd31bf87.png"
+			},
+			"date": "2022-11-16T18:20:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> are you testing us right now?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354876803855872",
+			"parentId": "109354865604437034",
+			"url": "https://fediverse.zachleat.com/@zachleat/109354876803855872",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-16T18:23:18.102Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> same! still rocking ava js too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354879151593347",
+			"parentId": "109354865619663758",
+			"url": "https://fediverse.zachleat.com/@zachleat/109354879151593347",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-16T18:23:53.927Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jhofker\" class=\"u-url mention\">@<span>jhofker</span></a></span> the great litmus test of life</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354897230776994",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/109354897181620686",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2022-11-16T18:28:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ah but have you TESTED that opinion</p><p>tap.pass('yes testing is good')</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354904947723170",
+			"parentId": 0,
+			"url": "https://vis.social/@skidvis/109354904641194137",
+			"author": {
+				"name": "Skid Vis",
+				"url": "https://vis.social/@skidvis",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/523/190/322/348/original/15a60a4a1c95a89e.jpg"
+			},
+			"date": "2022-11-16T18:30:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> like, testing in production?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354917447143993",
+			"parentId": 0,
+			"url": "https://mastodon.social/@rikschennink/109354917361826019",
+			"author": {
+				"name": "Rik Schennink",
+				"url": "https://mastodon.social/@rikschennink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/984/767/568/589/original/5f4b34c17803a845.jpg"
+			},
+			"date": "2022-11-16T18:33:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this very much feels like a test</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354926494172967",
+			"parentId": "109354904947723170",
+			"url": "https://fediverse.zachleat.com/@zachleat/109354926494172967",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-16T18:35:56.321Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://vis.social/@skidvis\" class=\"u-url mention\">@<span>skidvis</span></a></span> SHIP IT</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354927323741342",
+			"parentId": "109354917447143993",
+			"url": "https://fediverse.zachleat.com/@zachleat/109354927323741342",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-16T18:36:08.975Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rikschennink\" class=\"u-url mention\">@<span>rikschennink</span></a></span> you passed</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354933394471375",
+			"parentId": "109354897230776994",
+			"url": "https://fediverse.zachleat.com/@zachleat/109354933394471375",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-16T18:37:41.606Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> I’ll be in touch for maintenance on that one</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354943936071650",
+			"parentId": 0,
+			"url": "https://fediverse.catgirlin.space/objects/83f2b309-8b24-48e8-97f0-4f196cbfc150",
+			"author": {
+				"name": "nicole",
+				"url": "https://fediverse.catgirlin.space/users/catgirl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/131/901/095/806/original/74e4e31b8d7c700c.jpg"
+			},
+			"date": "2022-11-16T18:40:21.003Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> am i being tested???</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354947060223375",
+			"parentId": "109354943936071650",
+			"url": "https://fediverse.catgirlin.space/objects/c86ed06a-6a61-47f7-ab3c-d2e7803b4b36",
+			"author": {
+				"name": "nicole",
+				"url": "https://fediverse.catgirlin.space/users/catgirl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/131/901/095/806/original/74e4e31b8d7c700c.jpg"
+			},
+			"date": "2022-11-16T18:41:08.790Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ig i did get tested for autism :akko_shrug:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354953258353122",
+			"parentId": 0,
+			"url": "https://mastodon.social/@oriSomething/109354953216993817",
+			"author": {
+				"name": "Ori Livni",
+				"url": "https://mastodon.social/@oriSomething",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-16T18:42:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Testing takes jobs from experts that fix bug by detecting them by testing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354983150293982",
+			"parentId": "109354927323741342",
+			"url": "https://mastodon.social/@rikschennink/109354983058695346",
+			"author": {
+				"name": "Rik Schennink",
+				"url": "https://mastodon.social/@rikschennink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/984/767/568/589/original/5f4b34c17803a845.jpg"
+			},
+			"date": "2022-11-16T18:50:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm so relieved</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109354997338112477",
+			"parentId": 0,
+			"url": "https://mastodon.online/@escarpment/109354997303122481",
+			"author": {
+				"name": "Escarpment",
+				"url": "https://mastodon.online/@escarpment",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/311/695/592/644/540/original/7f014c34121eda4c.jpeg"
+			},
+			"date": "2022-11-16T18:53:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Good testing is good. Bad testing is really bad (I changed the text of a button, now I have 500 test failures that will take me significantly longer to fix than fixing the button).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109355038152708639",
+			"parentId": 0,
+			"url": "https://mstdn.social/@apkoponen/109355038109657491",
+			"author": {
+				"name": "Ari Koponen :verified:",
+				"url": "https://mstdn.social/@apkoponen",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-11-16T19:04:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>The more you do it the better it gets!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109355089102587342",
+			"parentId": 0,
+			"url": "https://techhub.social/@MarkCodesTheWeb/109355088910139116",
+			"author": {
+				"name": "Mark Codes the Web",
+				"url": "https://techhub.social/@MarkCodesTheWeb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/530/574/538/173/original/5fafaf593b3ea0f9.png"
+			},
+			"date": "2022-11-16T19:17:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we’re not supposed to just commit to production and wait for angry emails?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109355549961242689",
+			"parentId": 0,
+			"url": "https://az.social/@lerxst/109355549886921779",
+			"author": {
+				"name": "Ludwig Vielfrass",
+				"url": "https://az.social/@lerxst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/351/026/012/939/339/original/02a7f30d9c92b2d7.png"
+			},
+			"date": "2022-11-16T21:14:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Remember the maxim: \"Everyone has a testing environment. If you're very lucky it's separate from your production environment!\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109355637625622530",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@drsensor/109355637578663221",
+			"private": true,
+			"date": "2022-11-16T21:36:46.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109355693094228441",
+			"parentId": "109355637625622530",
+			"url": "https://fediverse.zachleat.com/@zachleat/109355693094228441",
+			"private": true,
+			"date": "2022-11-16T21:50:53.712Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109355724058748953",
+			"parentId": "109355693094228441",
+			"url": "https://fosstodon.org/@drsensor/109355724028122123",
+			"private": true,
+			"date": "2022-11-16T21:58:45.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109356654299866615",
+			"parentId": 0,
+			"url": "https://front-end.social/@binyamin/109356654205172204",
+			"private": true,
+			"date": "2022-11-17T01:55:19.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109356996624858285",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@pbx/109356996585526254",
+			"author": {
+				"name": "Paul :python: :django:",
+				"url": "https://fosstodon.org/@pbx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/356/987/471/725/451/original/4f1206deed43e1a0.jpg"
+			},
+			"date": "2022-11-17T03:22:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> When I'm on the job market I test potential employers by asking them how they feel about their automated testing regime. Correct answer: they're not satisfied with it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357029661918991",
+			"parentId": "109354865604437034",
+			"url": "https://mastodon.social/@bromann/109357029631174795",
+			"author": {
+				"name": "Christian Bromann ✔️",
+				"url": "https://mastodon.social/@bromann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/312/260/897/482/755/original/9d91d338dc9a31ae.jpg"
+			},
+			"date": "2022-11-17T03:30:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> WebdriverIO will ship with a browser runner in the upcoming major release that makes it finally very easy to render and test components in a real browser using standardized user interactions through the WebDriver protocol. All powered by Vite. Some examples can be found here: <a href=\"https://github.com/webdriverio/component-testing-examples\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/webdriverio/compone</span><span class=\"invisible\">nt-testing-examples</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357040868346901",
+			"parentId": "109357029661918991",
+			"url": "https://indieweb.social/@brianleroux/109357040822461734",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2022-11-17T03:33:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bromann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bromann</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sounds interesting. Can I use this if I don't need or use Vite? I write custom elements and upgrade them w just normal javascript. Weird-- I know.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357052306850368",
+			"parentId": "109357040868346901",
+			"url": "https://mastodon.social/@bromann/109357052273633649",
+			"author": {
+				"name": "Christian Bromann ✔️",
+				"url": "https://mastodon.social/@bromann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/312/260/897/482/755/original/9d91d338dc9a31ae.jpg"
+			},
+			"date": "2022-11-17T03:36:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sure, it comes with a basic Vite setup that allows you to write TypeScript and import dependencies. As a User you don’t even see that it is Vite under the hood unless you like to customize the dev server. What you do in your tests is totally up to you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357067640528647",
+			"parentId": "109357052306850368",
+			"url": "https://indieweb.social/@brianleroux/109357067359988727",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2022-11-17T03:40:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bromann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bromann</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what about javascript tho seriously we don't transpile it's just too many tradeoffs for basic stuff</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357074381559907",
+			"parentId": "109357067640528647",
+			"url": "https://mastodon.social/@bromann/109357074318779206",
+			"author": {
+				"name": "Christian Bromann ✔️",
+				"url": "https://mastodon.social/@bromann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/312/260/897/482/755/original/9d91d338dc9a31ae.jpg"
+			},
+			"date": "2022-11-17T03:42:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah that will totally work, it will import any plain module into the browser for you to use</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357104256964725",
+			"parentId": "109357067640528647",
+			"url": "https://mastodon.social/@bromann/109357104093252604",
+			"author": {
+				"name": "Christian Bromann ✔️",
+				"url": "https://mastodon.social/@bromann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/312/260/897/482/755/original/9d91d338dc9a31ae.jpg"
+			},
+			"date": "2022-11-17T03:49:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> let me actually add an example using Enhance 😉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357109410195030",
+			"parentId": "109357104256964725",
+			"url": "https://indieweb.social/@brianleroux/109357109148769758",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2022-11-17T03:51:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bromann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bromann</span></a></span> now we're talking! 🙏 Seriously tho just a blank test.html page is cool too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357305022189070",
+			"parentId": "109357109410195030",
+			"url": "https://mastodon.social/@bromann/109357301751431045",
+			"author": {
+				"name": "Christian Bromann ✔️",
+				"url": "https://mastodon.social/@bromann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/312/260/897/482/755/original/9d91d338dc9a31ae.jpg"
+			},
+			"date": "2022-11-17T04:39:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> here you go: <a href=\"https://github.com/webdriverio/component-testing-examples/blob/main/enhance/tests/specs/example.test.js\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/webdriverio/compone</span><span class=\"invisible\">nt-testing-examples/blob/main/enhance/tests/specs/example.test.js</span></a> .. a simple example but should demonstrate how it could look like. This targets more the component testing usecase which is why I had to strip out the HTML and Body tag. Compared to the proposed solution in the Enhance docs this uses the actual browser and could run anywhere where the web is supported, even mobile 😉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109357324488040884",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@imdciangot/109357324405637936",
+			"author": {
+				"name": "Diego Ciangottini",
+				"url": "https://fosstodon.org/@imdciangot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/350/265/554/061/316/original/70dc11e156d29ae3.jpg"
+			},
+			"date": "2022-11-17T04:45:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> .... Until it's not :)</p>",
+			"via": "fediverse"
+		}
+	]
+}

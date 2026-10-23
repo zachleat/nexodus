@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "111297606919391784",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@mahryekuh/111297606894841095",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2023-10-25T20:45:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What did you do?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111297629584744097",
+			"parentId": "111297606919391784",
+			"url": "https://fediverse.zachleat.com/@zachleat/111297629584744097",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-25T20:50:52.989Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\">@<span>mahryekuh</span></a></span> all will be revealed in due time 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111297647085190359",
+			"parentId": "111297629584744097",
+			"url": "https://fosstodon.org/@mahryekuh/111297647064967067",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2023-10-25T20:55:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Drumroll!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111297770393467931",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@pamelafox/111297770349668965",
+			"author": {
+				"name": "Pamela Fox",
+				"url": "https://fosstodon.org/@pamelafox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/367/362/168/923/345/original/24b8545c0ad424c9.png"
+			},
+			"date": "2023-10-25T21:26:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah google SREs loved it when i nearly brought down the servers with an un-cached SWF on the santa tracker on xmas eve.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111297773164130851",
+			"parentId": "111297770393467931",
+			"url": "https://fosstodon.org/@pamelafox/111297773131191482",
+			"author": {
+				"name": "Pamela Fox",
+				"url": "https://fosstodon.org/@pamelafox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/367/362/168/923/345/original/24b8545c0ad424c9.png"
+			},
+			"date": "2023-10-25T21:27:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 9 million requests for a SWF every 4 minutes, synchronized. lol yay.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111298036764662031",
+			"parentId": "111297773164130851",
+			"url": "https://fediverse.zachleat.com/@zachleat/111298036764662031",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-25T22:34:26.063Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pamelafox\" class=\"u-url mention\">@<span>pamelafox</span></a></span> oh my—you DDoS‘d Santa</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111298156383525936",
+			"parentId": 0,
+			"url": "https://mstdn.social/@josephholsten/111298156201057659",
+			"author": {
+				"name": ": j@fabrica:~/src;  :t_blink:",
+				"url": "https://mstdn.social/@josephholsten",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-25T23:04:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> When I build the first version of an infra service, it’s intentionally feeble. I’m not investing in building a fully self-operating for something folks aren’t even integrated with yet. The first project is to build enough internal adoption to knock down the service.<br>It’s great when the biggest constraint is infra! (assuming you have competent ops folks)</p>",
+			"via": "fediverse"
+		}
+	]
+}

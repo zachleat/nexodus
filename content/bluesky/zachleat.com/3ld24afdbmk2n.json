@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:4knauazytxveps5q5dbggjf5/app.bsky.feed.post/3ld25fnw2m22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jlarky.bsky.social/post/3ld25fnw2m22o",
+			"author": {
+				"name": "JLarky",
+				"url": "https://bsky.app/profile/jlarky.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4knauazytxveps5q5dbggjf5/bafkreib5utitbwakq4b3z2llyp37mziqngcmsa4eg2p3l3drc4gpgd6p3q"
+			},
+			"date": "2024-12-11T16:10:48.169Z",
+			"content": "<p>Can we get a list of companies that use it well? :-) i.e. when it benefits users instead of developers</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hwqljqjp5juwxrbb7oypawlq/app.bsky.feed.post/3ld2aznodgc25",
+			"parentId": "at://did:plc:4knauazytxveps5q5dbggjf5/app.bsky.feed.post/3ld25fnw2m22o",
+			"url": "https://bsky.app/profile/jack-the-dev.bsky.social/post/3ld2aznodgc25",
+			"author": {
+				"name": "jack_the_dev",
+				"url": "https://bsky.app/profile/jack-the-dev.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hwqljqjp5juwxrbb7oypawlq/bafkreic37ukjtku4siyw564rdz2nkwhe7kjehvu2pvpyqsfedjuay5okqq"
+			},
+			"date": "2024-12-11T17:15:40.230Z",
+			"content": "<p>You’re not convinced by the list on that site? Not sure what it will take to convince you.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4knauazytxveps5q5dbggjf5/app.bsky.feed.post/3ld2cfod4hc2o",
+			"parentId": "at://did:plc:hwqljqjp5juwxrbb7oypawlq/app.bsky.feed.post/3ld2aznodgc25",
+			"url": "https://bsky.app/profile/jlarky.bsky.social/post/3ld2cfod4hc2o",
+			"author": {
+				"name": "JLarky",
+				"url": "https://bsky.app/profile/jlarky.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4knauazytxveps5q5dbggjf5/bafkreib5utitbwakq4b3z2llyp37mziqngcmsa4eg2p3l3drc4gpgd6p3q"
+			},
+			"date": "2024-12-11T17:40:17.306Z",
+			"content": "<p>I know that a lot of those are using them wrong</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hwqljqjp5juwxrbb7oypawlq/app.bsky.feed.post/3ld2fbraxn22g",
+			"parentId": "at://did:plc:4knauazytxveps5q5dbggjf5/app.bsky.feed.post/3ld2cfod4hc2o",
+			"url": "https://bsky.app/profile/jack-the-dev.bsky.social/post/3ld2fbraxn22g",
+			"author": {
+				"name": "jack_the_dev",
+				"url": "https://bsky.app/profile/jack-the-dev.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hwqljqjp5juwxrbb7oypawlq/bafkreic37ukjtku4siyw564rdz2nkwhe7kjehvu2pvpyqsfedjuay5okqq"
+			},
+			"date": "2024-12-11T18:31:47.388Z",
+			"content": "<p>Wrong as in wrong use case or wrong implementation of a web component framework? Interested in hearing your thoughts about how web components should be used because you’re building a WC framework.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4knauazytxveps5q5dbggjf5/app.bsky.feed.post/3ld2fjxiunk2s",
+			"parentId": "at://did:plc:hwqljqjp5juwxrbb7oypawlq/app.bsky.feed.post/3ld2fbraxn22g",
+			"url": "https://bsky.app/profile/jlarky.bsky.social/post/3ld2fjxiunk2s",
+			"author": {
+				"name": "JLarky",
+				"url": "https://bsky.app/profile/jlarky.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4knauazytxveps5q5dbggjf5/bafkreib5utitbwakq4b3z2llyp37mziqngcmsa4eg2p3l3drc4gpgd6p3q"
+			},
+			"date": "2024-12-11T18:36:22.375Z",
+			"content": "<p>I think I'm more interested in the end result :)</p>\n<p>Like YouTube implemented their website with web components v0 10 years ago with the goal of making life of users of Firefox worse so that they switch to Chrome. Hugely successful initiative by Google. Hugely hostile to users</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zu7j7cgt4k5mptgoaimk65xw/app.bsky.feed.post/3ld2m5tb7b22v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rodrigoknol.bsky.social/post/3ld2m5tb7b22v",
+			"author": {
+				"name": "Rodrigo",
+				"url": "https://bsky.app/profile/rodrigoknol.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zu7j7cgt4k5mptgoaimk65xw/bafkreictgxs5uqyt4apsljdahuozw47hwva2wpf6gcbmfd6zfuatmioeta"
+			},
+			"date": "2024-12-11T20:34:51.467Z",
+			"content": "<p>web components are awesome!</p>\n<p>I've been playing around with them in some projects and liked the experience a lot:</p>\n<p><a href=\"https://github.com/LifeguardSystem/lifeguard-web-client/tree/main\">github.com/LifeguardSys...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld2utn7pr22s",
+			"parentId": "at://did:plc:zu7j7cgt4k5mptgoaimk65xw/app.bsky.feed.post/3ld2m5tb7b22v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ld2utn7pr22s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-11T23:10:13.261Z",
+			"content": "<p>nice! is this live somewhere?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zu7j7cgt4k5mptgoaimk65xw/app.bsky.feed.post/3ld34zlgz4s2x",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld2utn7pr22s",
+			"url": "https://bsky.app/profile/rodrigoknol.bsky.social/post/3ld34zlgz4s2x",
+			"author": {
+				"name": "Rodrigo",
+				"url": "https://bsky.app/profile/rodrigoknol.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zu7j7cgt4k5mptgoaimk65xw/bafkreictgxs5uqyt4apsljdahuozw47hwva2wpf6gcbmfd6zfuatmioeta"
+			},
+			"date": "2024-12-12T01:36:42.661Z",
+			"content": "<p>Thanks! As far as I know only on some companies internal networks…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld4ffconck2t",
+			"parentId": "at://did:plc:zu7j7cgt4k5mptgoaimk65xw/app.bsky.feed.post/3ld34zlgz4s2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ld4ffconck2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-12T13:39:05.803Z",
+			"content": "<p>no worries—just wanted to see it!</p>",
+			"via": "bluesky"
+		}
+	]
+}

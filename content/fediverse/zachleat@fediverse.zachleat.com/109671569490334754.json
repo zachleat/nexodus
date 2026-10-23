@@ -1,0 +1,54 @@
+{
+	"comments": [
+		{
+			"id": "109671583093303441",
+			"parentId": 0,
+			"url": "https://typo.social/@db/109671583064276615",
+			"author": {
+				"name": "Dan Burzo",
+				"url": "https://typo.social/@db",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/415/438/180/070/569/original/e78ae403cd2e18f4.png"
+			},
+			"date": "2023-01-11T16:45:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jen4web\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jen4web</span></a></span> </p><p>Me looking for CSS pseudo-classes for my complex selector list: </p><p>\"Could you be :where() 'cause I'm the one who waits for you, or are you unforgiving too?\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109671726884578815",
+			"parentId": 0,
+			"url": "https://toot.cafe/@slightlyoff/109671726791406713",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-01-11T17:22:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jen4web\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jen4web</span></a></span> welcome to TC39! Here's your crawl of the entire web corpus and a histogram collection system.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109672045198250377",
+			"parentId": 0,
+			"url": "https://social.ericwbailey.website/@eric/109672045145025669",
+			"private": true,
+			"date": "2023-01-11T18:43:22.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109672057082743261",
+			"parentId": "109672045198250377",
+			"url": "https://front-end.social/@sturobson/109672057050880976",
+			"private": true,
+			"date": "2023-01-11T18:46:24.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109672135664998893",
+			"parentId": "109672057082743261",
+			"url": "https://mastodon.social/@ardouglass/109672135635653934",
+			"private": true,
+			"date": "2023-01-11T19:06:23.000Z",
+			"via": "fediverse"
+		}
+	]
+}

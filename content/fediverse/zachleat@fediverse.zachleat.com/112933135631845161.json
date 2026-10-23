@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "112933664966495715",
+			"parentId": 0,
+			"url": "https://indieweb.social/@ambrwlsn/112933664923749951",
+			"author": {
+				"name": "Amber",
+				"url": "https://indieweb.social/@ambrwlsn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/891/578/875/640/original/e05361f2e80faee1.jpg"
+			},
+			"date": "2024-08-09T19:16:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> glad you found it helpful! Writing and discussing it was lots of fun and it seems to have resonated with people!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112933741260766012",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/112933741241866208",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-08-09T19:35:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if you're interested in <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ambrwlsn</span></a></span> ‘s post for usage in Eleventy, this might help: 😅</p><p><a href=\"https://nicolas-hoizey.com/articles/2021/02/25/accessible-anchor-links-with-markdown-it-and-eleventy/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nicolas-hoizey.com/articles/20</span><span class=\"invisible\">21/02/25/accessible-anchor-links-with-markdown-it-and-eleventy/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112933901595330011",
+			"parentId": "112933741260766012",
+			"url": "https://fediverse.zachleat.com/@zachleat/112933901595330011",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-09T20:16:22.448Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\">@<span>ambrwlsn</span></a></span> appreciate your work here too!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112933923993915525",
+			"parentId": "112933901595330011",
+			"url": "https://mamot.fr/@nhoizey/112933923898371576",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-08-09T20:22:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🙏</p><p>There are interesting additions in <a href=\"https://github.com/valeriangalliat/markdown-it-anchor/issues/82\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/valeriangalliat/mar</span><span class=\"invisible\">kdown-it-anchor/issues/82</span></a></p><p>And here’s how I now build these anchor links: <a href=\"https://github.com/nhoizey/eleventy-plugin-pack11ty/blob/main/_11ty/markdown.js#L27-L38\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nhoizey/eleventy-pl</span><span class=\"invisible\">ugin-pack11ty/blob/main/_11ty/markdown.js#L27-L38</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ambrwlsn</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

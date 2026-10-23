@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3jxpl3w6nlu2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bell.bz/post/3jxpl3w6nlu2u",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2023-06-09T06:13:16.506Z",
+			"content": "<p>he’s going purely for that rad kit</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jxqeoy32fq2r",
+			"parentId": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3jxpl3w6nlu2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jxqeoy32fq2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-06-09T13:51:19.516Z",
+			"content": "<p>full credit to pink</p>",
+			"via": "bluesky"
+		}
+	]
+}

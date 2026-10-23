@@ -1,0 +1,226 @@
+{
+	"comments": [
+		{
+			"id": "111495521688267506",
+			"parentId": 0,
+			"url": "https://notacult.social/@carbontwelve/111495521652343730",
+			"private": true,
+			"date": "2023-11-29T19:37:26.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495533370819936",
+			"parentId": "111495521688267506",
+			"url": "https://fediverse.zachleat.com/@zachleat/111495533370819936",
+			"private": true,
+			"date": "2023-11-29T19:40:25.116Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495556924944736",
+			"parentId": 0,
+			"url": "https://t00t.cloud/@mattrambles/111495556912773487",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-11-29T19:46:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Is a host-specific SSR adapter for X framework cheating? If so all I’ve got for ideas are somewhat-platform-specific edge workers or an Express server that sits next to the app to make queries and respond like PHP would.</p><p>(Edited to fix spelling.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495580796299012",
+			"parentId": "111495556924944736",
+			"url": "https://fediverse.zachleat.com/@zachleat/111495580796299012",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-29T19:52:28.771Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://t00t.cloud/@mattrambles\" class=\"u-url mention\">@<span>mattrambles</span></a></span> ha! yeahhhh… adapters are not quite the same portability story</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495583665262463",
+			"parentId": "111495533370819936",
+			"url": "https://notacult.social/@carbontwelve/111495583521033350",
+			"private": true,
+			"date": "2023-11-29T19:53:10.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495589989767344",
+			"parentId": 0,
+			"url": "https://mastodon.social/@noleli/111495589920600841",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2023-11-29T19:54:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> a client-side script that grabs a random page from a pagefind index?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495590839333550",
+			"parentId": "111495583665262463",
+			"url": "https://fediverse.zachleat.com/@zachleat/111495590839333550",
+			"private": true,
+			"date": "2023-11-29T19:55:02.017Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495596680463031",
+			"parentId": "111495589989767344",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111495596405415368",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-11-29T19:56:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A good site has a `sitemap.xml` file, right?! 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495617132402695",
+			"parentId": "111495596680463031",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111495616834289238",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-11-29T20:01:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I like the suggested idea of generating a page with “randomish” links that might be hidden, and then the client randomizes a redirect. You can even use local storage to keep it so the random algorithm doesn’t suggest the same links more than a few times within a particular period.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495634289387287",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cbirdsong/111495634013012614",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2023-11-29T20:06:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Collect all the URLs on the site in a big Javascript array, plop that on the page, then pick one randomly and window.open() it? It would cause two full page loads in a row, but you could put a fun spinner on the “random\" page to make that feel less bad.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495658841551193",
+			"parentId": "111495634289387287",
+			"url": "https://mastodon.social/@cbirdsong/111495658628095798",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2023-11-29T20:12:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thinking about it, a client-side solution would also be a reasonable choice on a Wordpress site? Lots of hosts cache all queries for performance reasons, in which case `’orderby' =&gt; 'rand’` would go to the same page repeatedly until the cache gets purged. If you disabled caching specifically for /random it could still slow down the site overall since every visit to the page would result in an expensive database query.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495707284740308",
+			"parentId": "111495596680463031",
+			"url": "https://mastodon.social/@noleli/111495707128060503",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2023-11-29T20:24:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh man, you’re totally right! How could I have forgotten‽</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495711137651323",
+			"parentId": "111495617132402695",
+			"url": "https://fediverse.zachleat.com/@zachleat/111495711137651323",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-29T20:25:37.623Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> yeah, I really like that added twist too!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495712970645804",
+			"parentId": "111495707284740308",
+			"url": "https://fediverse.zachleat.com/@zachleat/111495712970645804",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-29T20:26:05.592Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> my brain also has a robots.txt</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495745056537343",
+			"parentId": "111495712970645804",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111495744557105973",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-11-29T20:34:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>noleli</span></a></span> Sorry, I don’t follow ;)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495860523894311",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rijk/111495860511531182",
+			"author": {
+				"name": "Rijk 🐰 ✨",
+				"url": "https://fosstodon.org/@rijk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/376/501/605/423/989/original/2517aabeba0d7b43.jpg"
+			},
+			"date": "2023-11-29T21:03:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Maybe a `/random/index.html` file with a bit of JS to dynamically set a  meta http-equiv refresh tag? 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495887401018889",
+			"parentId": 0,
+			"url": "https://mastodon.online/@mstrkapowski/111495887374583642",
+			"author": {
+				"name": "https://chrismcleod.dev",
+				"url": "https://mastodon.online/@mstrkapowski",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/555/739/927/762/original/4564fa21b77ba437.jpeg"
+			},
+			"date": "2023-11-29T21:10:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My first thought was to generate an array of every post in the site at build time, and insert it into a /random/index.html page that runs some JS to pick a random value to redirect to. It’s not pretty, but it should run pretty much everywhere. You could spice it up by remembering posts the visitor has read and filtering those from the array.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111496143701302701",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jelmerdemaat/111496143510988816",
+			"author": {
+				"name": "Jelmer",
+				"url": "https://mastodon.social/@jelmerdemaat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/287/300/626/371/original/d933d6e38cce5254.jpg"
+			},
+			"date": "2023-11-29T22:15:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Another option could be to configure your nginx/apache/... server to handle the /random route (if you control that). Probably somewhat like: <a href=\"https://stackoverflow.com/a/62162839\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">stackoverflow.com/a/62162839</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111504313979682563",
+			"parentId": "111495590839333550",
+			"url": "https://notacult.social/@carbontwelve/111504313961094322",
+			"private": true,
+			"date": "2023-12-01T08:53:26.000Z",
+			"via": "fediverse"
+		}
+	]
+}

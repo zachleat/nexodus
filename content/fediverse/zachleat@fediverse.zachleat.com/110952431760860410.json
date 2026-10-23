@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "110952463958228659",
+			"parentId": 0,
+			"url": "https://hyem.tech/@rob/110952463848359692",
+			"author": {
+				"name": "Rob Anderson",
+				"url": "https://hyem.tech/@rob",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/433/670/204/849/335/original/0ba9ba70b91f576c.jpeg"
+			},
+			"date": "2023-08-25T21:50:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I’m super happy for ESM support, maybe not the most exciting change but appreciated!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110952513219968986",
+			"parentId": "110952463958228659",
+			"url": "https://fediverse.zachleat.com/@zachleat/110952513219968986",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-25T22:03:15.174Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hyem.tech/@rob\" class=\"u-url mention\">@<span>rob</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> it should unlock some other good features too like top level await and async configs!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110952532671001688",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@pauleveritt/110952532648998037",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-08-25T22:08:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Neat! As somebody using the esbuild hack, will be nice if I can call Eleventy from a test. 11ty 2 does `require` directly when loading up config.</p><p>I also realize: only two people in the world want this, and they are both me. 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110952608961417947",
+			"parentId": "110952532671001688",
+			"url": "https://fediverse.zachleat.com/@zachleat/110952608961417947",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-25T22:27:36.079Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> can you elaborate more about why it doesn’t work now?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110955586412008774",
+			"parentId": "110952608961417947",
+			"url": "https://fosstodon.org/@pauleveritt/110955586358503852",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-08-26T11:04:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I will make a reproducible repo and make a ticket.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110955700415541874",
+			"parentId": 0,
+			"url": "https://mastodon.design/@naiyer/110955700394854939",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2023-08-26T11:33:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I cannot wait to replace markdown-it with remark and migrate many internal projects to Eleventy after this. Big Deal ESM update, indeed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110956135823337566",
+			"parentId": "110955700415541874",
+			"url": "https://fediverse.zachleat.com/@zachleat/110956135823337566",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-26T13:24:31.716Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@naiyer\" class=\"u-url mention\">@<span>naiyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> yay!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110958160588910430",
+			"parentId": 0,
+			"url": "https://social.lol/@tylersticka/110958160557682976",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2023-08-26T21:59:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Exciting!! 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110962061596902197",
+			"parentId": "110952608961417947",
+			"url": "https://fosstodon.org/@pauleveritt/110962061471782525",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-08-27T14:31:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I filed a ticket. Here's a repo, the README explains. <a href=\"https://github.com/pauleveritt/eleventy-vitest\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pauleveritt/elevent</span><span class=\"invisible\">y-vitest</span></a></p><p>I likely should just wait and watch how you do your tests.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110967563823986308",
+			"parentId": "110962061596902197",
+			"url": "https://fediverse.zachleat.com/@zachleat/110967563823986308",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T13:50:49.169Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> thank you! that URL 404s though 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110967639520000248",
+			"parentId": "110967563823986308",
+			"url": "https://fosstodon.org/@pauleveritt/110967639500858186",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-08-28T14:10:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Crap, sorry, it was private. Fixed.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qcyz4wcmgnz4mzxevrsrf6j6/app.bsky.feed.post/3lhec4ddjlc2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nicknisi.com/post/3lhec4ddjlc2x",
+			"author": {
+				"name": "Nick Nisi",
+				"url": "https://bsky.app/profile/nicknisi.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qcyz4wcmgnz4mzxevrsrf6j6/bafkreig5nymojbyidldzph3kka5sesddkdj7uoxkl6lu7dspqbmjb3o2ay"
+			},
+			"date": "2025-02-04T14:42:27.690Z",
+			"content": "<p>Welcome!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhec5q72422z",
+			"parentId": "at://did:plc:qcyz4wcmgnz4mzxevrsrf6j6/app.bsky.feed.post/3lhec4ddjlc2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lhec5q72422z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-04T14:43:14.729Z",
+			"content": "<p>You win this round, Nick!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhecbtrmf22z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lhecbtrmf22z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-04T14:45:32.701Z",
+			"content": "<p>Best of luck to JSX — of whom I do not predict will have the same success 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3lhecwb63oc2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/eaton.fyi/post/3lhecwb63oc2v",
+			"author": {
+				"name": "‮Jeff Eaton",
+				"url": "https://bsky.app/profile/eaton.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qia4bnapnogunf7jjl5fopac/bafkreihzpxhdag6tw63ghft655jxz7u6ahxvkzm4lnhp3m7amgubqudihi"
+			},
+			"date": "2025-02-04T14:56:57.829Z",
+			"content": "<p>I was gonna say, that tiny handful of “extras” always felt like a deeply uncomfortable “It’s just X… except for these really weird bits…” caveat that complicated the otherwise clear case for it. Agreed that the 5.8 release is pretty huge for that reason.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3lheczgiua22v",
+			"parentId": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3lhecwb63oc2v",
+			"url": "https://bsky.app/profile/eaton.fyi/post/3lheczgiua22v",
+			"author": {
+				"name": "‮Jeff Eaton",
+				"url": "https://bsky.app/profile/eaton.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qia4bnapnogunf7jjl5fopac/bafkreihzpxhdag6tw63ghft655jxz7u6ahxvkzm4lnhp3m7amgubqudihi"
+			},
+			"date": "2025-02-04T14:58:44.089Z",
+			"content": "<p>(IMO the biggest obstacle in full ecosystem transition is the preponderance of nigh-impossible-to-type js libraries with self-mutating “everything objects” as their primary interface, but that’s a different matter…)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhed27ewtk25",
+			"parentId": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3lhecwb63oc2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lhed27ewtk25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-04T14:59:10.175Z",
+			"content": "<p>Whew, yeah!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mpymt5mcpo2xzcrhj7ojmjj6/app.bsky.feed.post/3lhg7tj5ikk2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/veikkoeeva.bsky.social/post/3lhg7tj5ikk2p",
+			"author": {
+				"name": "Veikko Eeva",
+				"url": "https://bsky.app/profile/veikkoeeva.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mpymt5mcpo2xzcrhj7ojmjj6/bafkreibgc5eum224rykxos2v6hih2s6yog3goinjs5qfqfpj3vx73nu34q"
+			},
+			"date": "2025-02-05T09:07:03.787Z",
+			"content": "<p>Would this mean specifically polymorphic and server side JS/TS?</p>\n<p>As a person who likes to do easy MPAs with HTML, CSS and JSS and some bundling, this appears interesting on the surface but does not seem to affect so much web development and so feels like \"just interesting with ecosystem evolution\".</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lhlbfowss22f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhecbtrmf22z",
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lhlbfowss22f",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-02-07T09:18:26.273Z",
+			"content": "<p>Its kind of a slippery slope of Node.js here (prompted by Deno / Bun). By supporting a non-standard file format rather than waiting for eg. <a href=\"https://github.com/tc39/proposal-type-annotations\">github.com/tc39/proposa...</a> they have opened themselves up to requests to support lots of other syntax.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lhlbfqzgms2f",
+			"parentId": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lhlbfowss22f",
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lhlbfqzgms2f",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-02-07T09:18:26.274Z",
+			"content": "<p>Only good part is that its a strict stripping now – else we might have ended up with an equivalent of in-core support for Coffeescript in a couple of years</p>",
+			"via": "bluesky"
+		}
+	]
+}

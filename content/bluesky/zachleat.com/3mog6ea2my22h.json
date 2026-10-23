@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3mog77dz74c2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3mog77dz74c2p",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-06-16T16:18:20.797Z",
+			"content": "<p>Please.</p>\n<p>My operating system's flagship browser.</p>\n<p>It's very sick.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mogbm246d22t",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3mog77dz74c2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mogbm246d22t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-16T17:01:14.101Z",
+			"content": "<p>&lt;canvas&gt;&lt;marquee&gt; though</p>",
+			"via": "bluesky"
+		}
+	]
+}

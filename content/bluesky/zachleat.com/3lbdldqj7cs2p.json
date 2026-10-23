@@ -1,0 +1,129 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbdlwa5r4c2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lbdlwa5r4c2m",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-19T23:34:10.942Z",
+			"content": "<p>Very cool. When I get around to it I want to experiment with the Bluesky web component &amp; use the post content as a fall back.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbf4luuqd22p",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbdlwa5r4c2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbf4luuqd22p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-20T14:05:16.917Z",
+			"content": "<p>nice!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lbf4qdptpk2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/hejchristian.com/post/3lbf4qdptpk2j",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2024-11-20T14:07:46.703Z",
+			"content": "<p>Really cool to see a demo for this! Thanks Zach!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbf6ndb3os2v",
+			"parentId": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lbf4qdptpk2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbf6ndb3os2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-20T14:41:53.040Z",
+			"content": "<p>Yay!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mo6uhnow7qhlj6abtiqzcvhk/app.bsky.feed.post/3lbfbh52zw22n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/oyin.bo/post/3lbfbh52zw22n",
+			"author": {
+				"name": "Mihailiк ᵖᵒ⁶ᵒᵐᵃ",
+				"url": "https://bsky.app/profile/oyin.bo",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mo6uhnow7qhlj6abtiqzcvhk/bafkreidogfjehby36kmubdxhhdu2syypbp6x7oxqbgb3mqyivc33llkjhi"
+			},
+			"date": "2024-11-20T15:32:06.448Z",
+			"content": "<p>You can also access archive directly from your browser:</p>\n<p><a href=\"https://bsky.app/profile/oyin.bo/post/3lajwqj4tq22x\">bsky.app/profile/oyin...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mo6uhnow7qhlj6abtiqzcvhk/app.bsky.feed.post/3lbfbmxtrrk2n",
+			"parentId": "at://did:plc:mo6uhnow7qhlj6abtiqzcvhk/app.bsky.feed.post/3lbfbh52zw22n",
+			"url": "https://bsky.app/profile/oyin.bo/post/3lbfbmxtrrk2n",
+			"author": {
+				"name": "Mihailiк ᵖᵒ⁶ᵒᵐᵃ",
+				"url": "https://bsky.app/profile/oyin.bo",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mo6uhnow7qhlj6abtiqzcvhk/bafkreidogfjehby36kmubdxhhdu2syypbp6x7oxqbgb3mqyivc33llkjhi"
+			},
+			"date": "2024-11-20T15:35:22.295Z",
+			"content": "<p>It's totally searchable there.</p>\n<p>There are examples of some stats going across whole archive.</p>\n<p>You can edit those SQLs to slice/dice/filter in whatever way.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbfbqxu4rs26",
+			"parentId": "at://did:plc:mo6uhnow7qhlj6abtiqzcvhk/app.bsky.feed.post/3lbfbmxtrrk2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbfbqxu4rs26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-20T15:37:36.524Z",
+			"content": "<p>Great! I’m going for a cross-network hostable archive of social network posts, a la <a href=\"https://github.com/tweetback/tweetback\">github.com/tweetback/tw...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mo6uhnow7qhlj6abtiqzcvhk/app.bsky.feed.post/3lbfchnlhbc2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbfbqxu4rs26",
+			"url": "https://bsky.app/profile/oyin.bo/post/3lbfchnlhbc2i",
+			"author": {
+				"name": "Mihailiк ᵖᵒ⁶ᵒᵐᵃ",
+				"url": "https://bsky.app/profile/oyin.bo",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mo6uhnow7qhlj6abtiqzcvhk/bafkreidogfjehby36kmubdxhhdu2syypbp6x7oxqbgb3mqyivc33llkjhi"
+			},
+			"date": "2024-11-20T15:50:17.504Z",
+			"content": "<p>Ah this is really cool!</p>\n<p>I think this kind of material archiving is vital going forward. Platform come and go, the data should remain behind even if in limited or legacy formats.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6xsuebmtmt3fjciex2oxq6vz/app.bsky.feed.post/3lbflksseek2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericraslich.com/post/3lbflksseek2i",
+			"private": true,
+			"date": "2024-11-20T18:33:07.314Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbftujsdns2u",
+			"parentId": "at://did:plc:6xsuebmtmt3fjciex2oxq6vz/app.bsky.feed.post/3lbflksseek2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbftujsdns2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-20T21:01:43.355Z",
+			"content": "<p>🥰 Thank you Eric!</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lclyixqf6c2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ricky.fm/post/3lclyixqf6c2o",
+			"author": {
+				"name": "Ricky",
+				"url": "https://bsky.app/profile/ricky.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxk45ekze4mv3v4vpipobzhu/bafkreia32atm7pe7zmqcucit7xfb2v2dytdyccr3il73pgk5lt3jz6q5im"
+			},
+			"date": "2024-12-06T01:05:54.086Z",
+			"content": "<p>It’s not 20, it’s canary and they’re doing what we recommend all frameworks to do. Without this we would just yeet things into the stable channel and break everyone all the time</p>\n<p><a href=\"https://react.dev/community/versioning-policy#canary-channel\">react.dev/community/ve...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lclyluqx6c2o",
+			"parentId": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lclyixqf6c2o",
+			"url": "https://bsky.app/profile/ricky.fm/post/3lclyluqx6c2o",
+			"author": {
+				"name": "Ricky",
+				"url": "https://bsky.app/profile/ricky.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxk45ekze4mv3v4vpipobzhu/bafkreia32atm7pe7zmqcucit7xfb2v2dytdyccr3il73pgk5lt3jz6q5im"
+			},
+			"date": "2024-12-06T01:07:31.621Z",
+			"content": "<p>Not for nothing, but they’re pinned behind the 19 stable version right now and still on the RC, not in front of it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lclyoyq3ak2o",
+			"parentId": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lclyluqx6c2o",
+			"url": "https://bsky.app/profile/ricky.fm/post/3lclyoyq3ak2o",
+			"author": {
+				"name": "Ricky",
+				"url": "https://bsky.app/profile/ricky.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxk45ekze4mv3v4vpipobzhu/bafkreia32atm7pe7zmqcucit7xfb2v2dytdyccr3il73pgk5lt3jz6q5im"
+			},
+			"date": "2024-12-06T01:09:16.451Z",
+			"content": "<p>Maybe we should just do what everyone thinks they want and yeet to stable for a couple years and see how that works out</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tylrmnut76gh6vpjuextfbu4/app.bsky.feed.post/3lcmmampi6k2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/klg.bz/post/3lcmmampi6k2s",
+			"author": {
+				"name": "Emanuel \"herschel_r\" Kluge 🐿️",
+				"url": "https://bsky.app/profile/klg.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tylrmnut76gh6vpjuextfbu4/bafkreidaevv362k6djiivyxbx62cz4wnxevj6ywzs7iiu2s5hgbvf2enqq"
+			},
+			"date": "2024-12-06T06:59:08.923Z",
+			"content": "<p>React 19-alt?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcncl6atmc27",
+			"parentId": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lclyoyq3ak2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcncl6atmc27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-06T13:38:45.182Z",
+			"content": "<p>good to see next stable using react stable! it’s wild that next stable sometimes uses canary (which isn’t semver!) though—the complaint has merit!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lcncp6h52c2d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcncl6atmc27",
+			"url": "https://bsky.app/profile/ricky.fm/post/3lcncp6h52c2d",
+			"author": {
+				"name": "Ricky",
+				"url": "https://bsky.app/profile/ricky.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxk45ekze4mv3v4vpipobzhu/bafkreia32atm7pe7zmqcucit7xfb2v2dytdyccr3il73pgk5lt3jz6q5im"
+			},
+			"date": "2024-12-06T13:40:59.606Z",
+			"content": "<p>Respectfully, no, it doesn’t.</p>\n<p><a href=\"https://bsky.app/profile/ricky.fm/post/3lcmbk5nxq22o\">bsky.app/profile/rick...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcndjx5ays2w",
+			"parentId": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lcncp6h52c2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcndjx5ays2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-06T13:55:57.911Z",
+			"content": "<p>It’s okay if we disagree.</p>\n<p>I’ll even concede that Next.js has managed this line fairly well, looking at the code. Not too many release tags with a canary in awhile!</p>\n<p>But using a canary in a stable release is *wild* and would make me very nervous if I were using a dep that did this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lcneief2ks2d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcndjx5ays2w",
+			"url": "https://bsky.app/profile/ricky.fm/post/3lcneief2ks2d",
+			"author": {
+				"name": "Ricky",
+				"url": "https://bsky.app/profile/ricky.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxk45ekze4mv3v4vpipobzhu/bafkreia32atm7pe7zmqcucit7xfb2v2dytdyccr3il73pgk5lt3jz6q5im"
+			},
+			"date": "2024-12-06T14:12:58.432Z",
+			"content": "<p>I empathize that it feels weird. But it’s been this way for a couple years with millions of apps in prod so can we talk about the real issues happening, beyond the icky feeling?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lcnenujfts2d",
+			"parentId": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lcneief2ks2d",
+			"url": "https://bsky.app/profile/ricky.fm/post/3lcnenujfts2d",
+			"author": {
+				"name": "Ricky",
+				"url": "https://bsky.app/profile/ricky.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxk45ekze4mv3v4vpipobzhu/bafkreia32atm7pe7zmqcucit7xfb2v2dytdyccr3il73pgk5lt3jz6q5im"
+			},
+			"date": "2024-12-06T14:16:03.123Z",
+			"content": "<p>This is how languages are developed. It’s like tc39 stage 3. Maybe the name would be better as “Prod Ready” or “Preview” instead of “Canary” but it’s not experimental, we have a separate channel for that.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcnez2f3x22s",
+			"parentId": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lcnenujfts2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcnez2f3x22s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-06T14:22:18.372Z",
+			"content": "<p>I don’t think the issue is with the name? If a Next.js stable release (or Astro/11ty/Remix) uses any dep that explicitly says “this does not follow semver” (no matter what that dep calls the dist tag) and then updates the dep in a minor release: 🚩🚩🚩</p>\n<p>You’re saying this hasn’t caused problems?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jxk45ekze4mv3v4vpipobzhu/app.bsky.feed.post/3lcnfcychsc2d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcnez2f3x22s",
+			"url": "https://bsky.app/profile/ricky.fm/post/3lcnfcychsc2d",
+			"author": {
+				"name": "Ricky",
+				"url": "https://bsky.app/profile/ricky.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxk45ekze4mv3v4vpipobzhu/bafkreia32atm7pe7zmqcucit7xfb2v2dytdyccr3il73pgk5lt3jz6q5im"
+			},
+			"date": "2024-12-06T14:27:51.733Z",
+			"content": "<p>The only problems I’ve heard about is the lack of docs for canary features when we first rolled it out, but that’s fixed now. We put a ton of work into making the changes between canaries as minimal as possible, it’s not like anything goes in the canary channel.</p>",
+			"via": "bluesky"
+		}
+	]
+}

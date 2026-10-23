@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maebkesnr22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3maebkesnr22f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-19T18:02:15.948Z",
+			"content": "<p>Just deleted a bunch of testing boilerplate in this repo after <a href=\"https://bsky.app/profile/did:plc:uumv6zar7qzfib5gzenz7ncm\">@vitest.dev</a> added `import.meta.resolve` support 🏆</p>\n<p><a href=\"https://github.com/vitest-dev/vitest/issues/6953\">github.com/vitest-dev/v...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jbeaa5kdaladzwq3r7f5xgwe/app.bsky.feed.post/3maeblz6vfs2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/danielroe.dev/post/3maeblz6vfs2b",
+			"author": {
+				"name": "daniel r(ooooooh) in nyc 🇺🇸",
+				"url": "https://bsky.app/profile/danielroe.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jbeaa5kdaladzwq3r7f5xgwe/bafkreif4d7wtmzqppbpnwhjulf3d36ltbeg5wzu3i2mhq6wxb4f6nh5uo4"
+			},
+			"date": "2025-12-19T18:03:10.876Z",
+			"content": "<p>i love it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maedp4xwj22v",
+			"parentId": "at://did:plc:jbeaa5kdaladzwq3r7f5xgwe/app.bsky.feed.post/3maeblz6vfs2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3maedp4xwj22v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-19T18:40:42.989Z",
+			"content": "<p>to complete my phish for compliments please reply with your last three 2FA codes</p>\n<p>(thank you!)</p>",
+			"via": "bluesky"
+		}
+	]
+}

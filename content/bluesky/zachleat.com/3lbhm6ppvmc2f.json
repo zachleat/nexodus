@@ -1,0 +1,46 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:aatpsged3zfruf4btsnjxym5/app.bsky.feed.post/3lbhmy5xpqk24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/pixi.bsky.social/post/3lbhmy5xpqk24",
+			"private": true,
+			"date": "2024-11-21T14:03:48.451Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:md2dv62to5ehmmdrdgbccxml/app.bsky.feed.post/3lbhn7fz23s2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dgibson.bsky.social/post/3lbhn7fz23s2k",
+			"author": {
+				"name": "Doug Gibson",
+				"url": "https://bsky.app/profile/dgibson.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:md2dv62to5ehmmdrdgbccxml/bafkreiaqv3eqe7j364ipp55i4yvzpujpx47yclig4tacnmcxx6xke6u25y"
+			},
+			"date": "2024-11-21T14:07:51.763Z",
+			"content": "<p>I did not even see that there were tabs on my profile, but that is a great idea. I've just been sharing the many great starter packs I've seen.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:w3ybpu6q73yctagb2smfnymr/app.bsky.feed.post/3lbhs6pdgas2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/courtneyheitman.com/post/3lbhs6pdgas2b",
+			"private": true,
+			"date": "2024-11-21T15:36:56.691Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbi6ohtris2y",
+			"parentId": "at://did:plc:w3ybpu6q73yctagb2smfnymr/app.bsky.feed.post/3lbhs6pdgas2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbi6ohtris2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-21T19:20:30.616Z",
+			"content": "<p>ah—hmm, I like the idea but I don’t want to manage the starter pack or list myself, I just want to endorse it (over time)</p>",
+			"via": "bluesky"
+		}
+	]
+}

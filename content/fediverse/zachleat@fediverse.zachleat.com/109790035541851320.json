@@ -1,0 +1,173 @@
+{
+	"comments": [
+		{
+			"id": "109790050302579423",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/109790050083565790",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-02-01T14:53:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is where I am after a click on the preview</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790058232207960",
+			"parentId": "109790050302579423",
+			"url": "https://mamot.fr/@nhoizey/109790054244097931",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-02-01T14:54:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (with <span class=\"h-card\"><a href=\"https://tapbots.social/@ivory\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ivory</span></a></span> on iOS)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790056382959646",
+			"parentId": "109790050302579423",
+			"url": "https://fediverse.zachleat.com/@zachleat/109790056382959646",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-01T14:55:11.505Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> yeah it’s probably mastodon client-dependent</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790059190168780",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@timmywil/109790058862200477",
+			"author": {
+				"name": "Timmy Willison",
+				"url": "https://hachyderm.io/@timmywil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/232/924/896/844/original/08e6a2e74db084bd.jpg"
+			},
+			"date": "2023-02-01T14:55:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> As others are pointing out, it depends on the app.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790063840299362",
+			"parentId": "109790058232207960",
+			"url": "https://mastodon.social/@khalidabuhakmeh/109790063744864301",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-02-01T14:57:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://tapbots.social/@ivory\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ivory</span></a></span> the link worked fine for me. Took me to the same comment.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790067094130181",
+			"parentId": "109790059190168780",
+			"url": "https://fediverse.zachleat.com/@zachleat/109790067094130181",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-01T14:57:54.946Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@timmywil\" class=\"u-url mention\">@<span>timmywil</span></a></span> yeah, that makes sense. I am using the official mastodon web interface.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790262522878262",
+			"parentId": "109790067094130181",
+			"url": "https://hachyderm.io/@timmywil/109790262397728602",
+			"author": {
+				"name": "Timmy Willison",
+				"url": "https://hachyderm.io/@timmywil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/232/924/896/844/original/08e6a2e74db084bd.jpg"
+			},
+			"date": "2023-02-01T15:47:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Tested it on elk. It's even worse. It cuts off before the `.org` part so the link is a 404.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790286987536743",
+			"parentId": "109790262522878262",
+			"url": "https://fediverse.zachleat.com/@zachleat/109790286987536743",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-01T15:53:50.252Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@timmywil\" class=\"u-url mention\">@<span>timmywil</span></a></span> ooh you’re right! cc <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\">@<span>elk</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790421137887263",
+			"parentId": 0,
+			"url": "https://mastodon.kvalhe.im/@andrew/109790420695097389",
+			"author": {
+				"name": "Andrew",
+				"url": "https://mastodon.kvalhe.im/@andrew",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-02-01T16:27:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Tracked at <a href=\"https://github.com/mastodon/mastodon/issues/19538\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/19538</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109790427641250160",
+			"parentId": "109790421137887263",
+			"url": "https://fediverse.zachleat.com/@zachleat/109790427641250160",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-01T16:29:36.457Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.kvalhe.im/@andrew\" class=\"u-url mention\">@<span>andrew</span></a></span> subscribed—thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109791084488400631",
+			"parentId": "109790286987536743",
+			"url": "https://m.webtoo.ls/@elk/109791084336629558",
+			"author": {
+				"name": "Elk",
+				"url": "https://m.webtoo.ls/@elk",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-02-01T19:16:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@timmywil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>timmywil</span></a></span> Thanks for the heads up! <br>We just merged a fix by <span class=\"h-card\"><a href=\"https://ruby.social/@skryukov\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>skryukov</span></a></span>. It should be good in canary (main.elk.zone) and will be released in v0.7 soon.<br><a href=\"https://github.com/elk-zone/elk/pull/1563\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">563</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109791095856355723",
+			"parentId": "109791084488400631",
+			"url": "https://fediverse.zachleat.com/@zachleat/109791095856355723",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-01T19:19:32.616Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\">@<span>elk</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@timmywil\" class=\"u-url mention\">@<span>timmywil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@skryukov\" class=\"u-url mention\">@<span>skryukov</span></a></span> best in the biz—thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109791661545178720",
+			"parentId": "109791084488400631",
+			"url": "https://hachyderm.io/@timmywil/109791661079538604",
+			"author": {
+				"name": "Timmy Willison",
+				"url": "https://hachyderm.io/@timmywil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/232/924/896/844/original/08e6a2e74db084bd.jpg"
+			},
+			"date": "2023-02-01T21:43:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elk</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://ruby.social/@skryukov\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>skryukov</span></a></span> What a turnaround!</p>",
+			"via": "fediverse"
+		}
+	]
+}

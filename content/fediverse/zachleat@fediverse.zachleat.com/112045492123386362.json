@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "112045527112827865",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriskirknielsen/112045527086017301",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2024-03-05T22:51:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Half an hour ago, I was looking at an old project which still uses Font Face Observer and thought \"there's probably a better way by now\" and now you post this. Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112045532594218064",
+			"parentId": "112045527112827865",
+			"url": "https://fediverse.zachleat.com/@zachleat/112045532594218064",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-05T22:52:27.250Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> I almost didn’t post this update because it didn’t seem worth it! Glad I did!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112048246568795272",
+			"parentId": 0,
+			"url": "https://mastodon.social/@devolute/112048246539378056",
+			"author": {
+				"name": "devolute",
+				"url": "https://mastodon.social/@devolute",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/142/474/609/017/original/b1af8b9e7c70331a.jpg"
+			},
+			"date": "2024-03-06T10:22:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The 'like' is for updating the repo to send people to the new way of doing things. v. cool 👍</p>",
+			"via": "fediverse"
+		}
+	]
+}

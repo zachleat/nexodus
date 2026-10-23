@@ -1,0 +1,17 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3kklqngqnss2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3kklqngqnss2m",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2024-02-04T12:40:36.324Z",
+			"content": "<p>I'm not super keen on the DSD (Declarative Shadow DOM) API because of the fact you have to define the template for each component instance, but the DCE (Declarative Custom Elements) seems promising for scalably SSRing custom elements.</p>",
+			"via": "bluesky"
+		}
+	]
+}

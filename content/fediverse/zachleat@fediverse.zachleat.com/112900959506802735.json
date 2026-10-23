@@ -1,0 +1,251 @@
+{
+	"comments": [
+		{
+			"id": "112900982236453639",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112900982177338338",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T00:44:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you’ll have a lot more control over this via Cloudfront. I am very pleased watching this thread. </p><p>Is that a weird thing to say? Am I being weird? Oh well.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901010481644336",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112901010481644336",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-04T00:51:43.881Z",
+			"content": "<p>Worth noting that Netlify’s On-demand Builders provide global persistence across all edge nodes: <a href=\"https://www.netlify.com/blog/2021/10/25/faster-more-reliable-page-loads-with-update-to-on-demand-builders/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">netlify.com/blog/2021/10/25/fa</span><span class=\"invisible\">ster-more-reliable-page-loads-with-update-to-on-demand-builders/</span></a></p><p>Alternatively, CloudFront has 13 Regional Edge Caches that (in my tests with a VPN) seem to be segmented too: <a href=\"https://aws.amazon.com/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&amp;whats-new-cloudfront.sort-order=desc\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aws.amazon.com/cloudfront/feat</span><span class=\"invisible\">ures/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&amp;whats-new-cloudfront.sort-order=desc</span></a></p><p>CloudFront also offers an Origin Shield product that appears to provide a similar feature but I have not enabled it: <a href=\"https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/cache-hit-ratio.html#cache-hit-ratio-use-origin-shield\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.aws.amazon.com/AmazonClou</span><span class=\"invisible\">dFront/latest/DeveloperGuide/cache-hit-ratio.html#cache-hit-ratio-use-origin-shield</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901016952636949",
+			"parentId": "112900982236453639",
+			"url": "https://fediverse.zachleat.com/@zachleat/112901016952636949",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-04T00:53:22.624Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> to be honest I feel like it’s weird that more folks aren’t complaining about this? seems like a very expensive difference in service offerings</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901059443986563",
+			"parentId": "112901016952636949",
+			"url": "https://mastodon.cthos.dev/@cthos/112901059390842300",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:04:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s the managed service trap with a free tier. It’s easy to set up, and they’re hoping to keep you there with inertia and sunk cost fallacy.</p><p>That said AWS also has some major footguns.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901071660840057",
+			"parentId": "112901059443986563",
+			"url": "https://fediverse.zachleat.com/@zachleat/112901071660840057",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-04T01:07:17.403Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> Yeah, there is plenty of technical wiggle room to explain the difference away but 10× metrics has me scratching my head</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901072533330059",
+			"parentId": "112901010481644336",
+			"url": "https://mastodon.cthos.dev/@cthos/112901072486968970",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:07:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> right so you can opt into the regional caches if you want to, and there is cost attached to that (iirc there’s also a buried cross region data transit cost). You don’t *have* to do it (choice!)</p><p>You can also look at lambda@edge</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901075606675390",
+			"parentId": "112901071660840057",
+			"url": "https://mastodon.cthos.dev/@cthos/112901075524415686",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:08:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh no I think Vercel is charging a pretty solid margin. I don’t have any hard numbers though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901079543759814",
+			"parentId": "112901072533330059",
+			"url": "https://fediverse.zachleat.com/@zachleat/112901079543759814",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-04T01:09:17.687Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> I’m very happy with the current setup I think. I’ll enable origin shield once I hit the inflection point where it costs less than my lambda usage (assuming that exists)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901087636752573",
+			"parentId": "112901075606675390",
+			"url": "https://fediverse.zachleat.com/@zachleat/112901087636752573",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-04T01:11:21.177Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> I guess my hunch is that it isn’t “overhead” in the classical sense of we’re charging you a reseller fee for convenience. I’d be fine with that. But what if the *usage* measurements are inflated?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901110506937723",
+			"parentId": "112901079543759814",
+			"url": "https://mastodon.cthos.dev/@cthos/112901110453841545",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:17:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> def set up a billing alarm now while you’re thinking about it if you don’t have one already.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901114445316578",
+			"parentId": "112901087636752573",
+			"url": "https://mastodon.cthos.dev/@cthos/112901114378411002",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:18:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ohhh I see. Yeah that’d be, not good.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901143163046690",
+			"parentId": "112901114445316578",
+			"url": "https://mastodon.cthos.dev/@cthos/112901143106851801",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:25:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I started to walk through (in addition to what you said above) and I have a couple of wild speculations. They could also be doing a \"keep warm\" tactic where they invoke the function to keep it awake periodically to eliminate cold starts.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901185752080167",
+			"parentId": "112901143163046690",
+			"url": "https://fediverse.zachleat.com/@zachleat/112901185752080167",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-04T01:36:18.297Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> oh huh! How warm should the start be 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901195849434035",
+			"parentId": "112901185752080167",
+			"url": "https://mastodon.cthos.dev/@cthos/112901195803612836",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:38:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Depends on how \"critical path\" the function is. AWS will keep a lambda function \"warm\" for a period of time until it stops getting requests and then it'll put it to sleep. It'll incur a performance penalty to wake it back up. How long that penalty is depends a lot on the function and the language the function is written in. It can be as long as a full second though. One common tactic is to just have a cron job go ping the service to keep it alive every couple of minutes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901199143633860",
+			"parentId": "112901195849434035",
+			"url": "https://mastodon.cthos.dev/@cthos/112901199100180455",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:39:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Related fun, there are like... at least 2 other AWS addons for solving this problem in various ways (managed provisioning and SnapStart for Java).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901417066652844",
+			"parentId": "112901010481644336",
+			"url": "https://indieweb.social/@tollmanz/112901417054430506",
+			"author": {
+				"name": "Zack Tollman",
+				"url": "https://indieweb.social/@tollmanz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/551/596/305/378/839/original/418586a4fca6178c.jpg"
+			},
+			"date": "2024-08-04T02:35:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> at some point in this journey, I hope you look into Fastly. Some major improvements over Cloudfront</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112902171407843309",
+			"parentId": 0,
+			"url": "https://front-end.social/@benschwarz/112902171387970893",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2024-08-04T05:46:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is interesting because I keep getting emails about hitting the function invocation limit. From poking around I could see lots of responses that weren’t cached at the edge, but should’ve been.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112909708244923280",
+			"parentId": "112902171407843309",
+			"url": "https://fediverse.zachleat.com/@zachleat/112909708244923280",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T13:43:41.220Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> another distinction here is that I don’t think cached responses are excluded from invocation counts—but I’m not super worried about that since they charge $.60 per million there. It’s the $.18 per GB hour that is biting me (at ~42h per day usage)</p><p>correction: cached hits are allegedly not counted in invocation counts: <a href=\"https://vercel.com/docs/pricing/serverless-functions#managing-function-invocations\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vercel.com/docs/pricing/server</span><span class=\"invisible\">less-functions#managing-function-invocations</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112909714783958279",
+			"parentId": "112901417066652844",
+			"url": "https://fediverse.zachleat.com/@zachleat/112909714783958279",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T13:45:20.999Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tollmanz\" class=\"u-url mention\">@<span>tollmanz</span></a></span> that is a great callout. I need to dive in there.</p>",
+			"via": "fediverse"
+		}
+	]
+}

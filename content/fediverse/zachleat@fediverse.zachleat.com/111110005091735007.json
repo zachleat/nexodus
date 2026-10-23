@@ -1,0 +1,153 @@
+{
+	"comments": [
+		{
+			"id": "111110015600458270",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@haliphax/111110015569425583",
+			"author": {
+				"name": "haliphax 👾",
+				"url": "https://hachyderm.io/@haliphax",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/141/298/839/313/original/20871e623058c1d4.jpg"
+			},
+			"date": "2023-09-22T17:38:10.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Awwwwwww YISS</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110016548617838",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111110016548617838",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-22T17:38:25.247Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> (shout out to <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@hi_mayank\" class=\"u-url mention\">@<span>hi_mayank</span></a></span>! <a href=\"https://hachyderm.io/@hi_mayank/110952442284730729\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hachyderm.io/@hi_mayank/110952</span><span class=\"invisible\">442284730729</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110195996161072",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cferdinandi/111110195950376062",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-09-22T18:24:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Will you also be adding cascade support for stylesheets in the future, Zach?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110213280910240",
+			"parentId": "111110195996161072",
+			"url": "https://fediverse.zachleat.com/@zachleat/111110213280910240",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-22T18:28:27.141Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> blocked and reported, chris</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110221795949864",
+			"parentId": "111110213280910240",
+			"url": "https://mastodon.social/@cferdinandi/111110221742126182",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-09-22T18:30:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Is that a no, then? The JS developer community tells me \"the cascade\" is bad, so I assume you'll be baking tailwind directly into 11ty going forward?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110228469105636",
+			"parentId": "111110221795949864",
+			"url": "https://fediverse.zachleat.com/@zachleat/111110228469105636",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-22T18:32:18.895Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> to say that 11ty in any way represents the JS developer community is high libel</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110240259107634",
+			"parentId": "111110228469105636",
+			"url": "https://mastodon.social/@ardouglass/111110240223537347",
+			"private": true,
+			"date": "2023-09-22T18:35:18.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110245284981098",
+			"parentId": "111110240259107634",
+			"url": "https://fediverse.zachleat.com/@zachleat/111110245284981098",
+			"private": true,
+			"date": "2023-09-22T18:36:35.486Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110266594035785",
+			"parentId": "111110240259107634",
+			"url": "https://social.lol/@cory/111110266488470366",
+			"private": true,
+			"date": "2023-09-22T18:41:59.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110270159673182",
+			"parentId": "111110228469105636",
+			"url": "https://social.lol/@cory/111110270116536439",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2023-09-22T18:42:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> Zach Leatherman: JavaScript thought leader</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110315901323671",
+			"parentId": "111110240259107634",
+			"url": "https://mastodon.social/@cferdinandi/111110315841267975",
+			"private": true,
+			"date": "2023-09-22T18:54:32.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110318880490595",
+			"parentId": "111110270159673182",
+			"url": "https://mastodon.social/@cferdinandi/111110318298273463",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-09-22T18:55:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@cory\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cory</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> OMG I need to start referring to him by that title everywhere that I mention 11ty on my site</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110327544059620",
+			"parentId": "111110318880490595",
+			"url": "https://social.lol/@cory/111110327355092209",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2023-09-22T18:57:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We can all do our part to help make it a thing 🫡</p>",
+			"via": "fediverse"
+		}
+	]
+}

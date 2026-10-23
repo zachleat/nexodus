@@ -1,0 +1,142 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjffyfvs2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lipjffyfvs2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-21T19:17:17.403Z",
+			"content": "<p>anyway, I’m glad we could pretend that there was a system environment variable to denote when a Deploy Hook triggered a build, if just for a little while.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:h3bil6wi4j2odx5exizuwh3j/app.bsky.feed.post/3lipji3qmec2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjffyfvs2b",
+			"url": "https://bsky.app/profile/dansinker.com/post/3lipji3qmec2p",
+			"author": {
+				"name": "dan sinker",
+				"url": "https://bsky.app/profile/dansinker.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h3bil6wi4j2odx5exizuwh3j/bafkreicfcw33vu7jzgbrr5wmhfeclusrubmrfudmdbqbxmz7mzqjz7ui64"
+			},
+			"date": "2025-02-21T19:18:47.326Z",
+			"content": "<p>love that a normal part of dev now is \"ensure that the thing you're being told exists actually exists\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjjdlwvs2b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjffyfvs2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lipjjdlwvs2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-21T19:19:29.115Z",
+			"content": "<p>here’s the ACTUAL face I am making read this: 🥴</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjlgfgd22b",
+			"parentId": "at://did:plc:h3bil6wi4j2odx5exizuwh3j/app.bsky.feed.post/3lipji3qmec2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lipjlgfgd22b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-21T19:20:39.156Z",
+			"content": "<p>Computer: Answer</p>\n<p>Me: Are you sure Answer?</p>\n<p>Computer: You are right, Answer was not correct</p>\n<p>this is a good and proper system</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:h3bil6wi4j2odx5exizuwh3j/app.bsky.feed.post/3lipjnvli622p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjlgfgd22b",
+			"url": "https://bsky.app/profile/dansinker.com/post/3lipjnvli622p",
+			"author": {
+				"name": "dan sinker",
+				"url": "https://bsky.app/profile/dansinker.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h3bil6wi4j2odx5exizuwh3j/bafkreicfcw33vu7jzgbrr5wmhfeclusrubmrfudmdbqbxmz7mzqjz7ui64"
+			},
+			"date": "2025-02-21T19:22:02.192Z",
+			"content": "<p>love it, so glad we've done this to ourselves.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6ibxffn4k24gor3plsch6zrc/app.bsky.feed.post/3lipkm6t36s22",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjjdlwvs2b",
+			"url": "https://bsky.app/profile/lukekarrys.com/post/3lipkm6t36s22",
+			"author": {
+				"name": "luke karrys",
+				"url": "https://bsky.app/profile/lukekarrys.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ibxffn4k24gor3plsch6zrc/bafkreifzcr56yajzyghdrny5wrzfj4xm6e2qchjopt4rbqos6e6an43z7y"
+			},
+			"date": "2025-02-21T19:38:58.512Z",
+			"content": "<p>the real environment variables were the ones we imagined on the way</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:sgzcgc2jvnbq5u3aqdcggytz/app.bsky.feed.post/3lipkr6z2gs2r",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjffyfvs2b",
+			"url": "https://bsky.app/profile/aleksandrhovhannisyan.com/post/3lipkr6z2gs2r",
+			"private": true,
+			"date": "2025-02-21T19:41:46.480Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liplulxc6k2j",
+			"parentId": "at://did:plc:sgzcgc2jvnbq5u3aqdcggytz/app.bsky.feed.post/3lipkr6z2gs2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liplulxc6k2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-21T20:01:34.458Z",
+			"content": "<p>appreciate the idea but no pull requests in play here, unfortunately</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljivhqf4gs2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljivhqf4gs2f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-03T21:29:53.772Z",
+			"content": "<p>love 2 consult my “I didn’t test this but it should work” junior developer chatbot</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rr7gzjfskh7zov4lig5gegoz/app.bsky.feed.post/3ljixdp22lk2b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljivhqf4gs2f",
+			"url": "https://bsky.app/profile/tcurdt.bsky.social/post/3ljixdp22lk2b",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://bsky.app/profile/tcurdt.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rr7gzjfskh7zov4lig5gegoz/bafkreifsqqhbrqwm4rv6alptn4ab6uef6jorhep2vxtpf77h74fzmkzhvm"
+			},
+			"date": "2025-03-03T22:03:25.630Z",
+			"content": "<p>The LLMs do sometimes really show how it SHOULD be - but isn't ...which makes it even more frustrating to use them.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljixhy5i2c24",
+			"parentId": "at://did:plc:rr7gzjfskh7zov4lig5gegoz/app.bsky.feed.post/3ljixdp22lk2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljixhy5i2c24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-03T22:05:49.397Z",
+			"content": "<p>I haven’t encountered this yet but I’ll take your word for it!</p>",
+			"via": "bluesky"
+		}
+	]
+}

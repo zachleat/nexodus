@@ -1,0 +1,342 @@
+{
+	"comments": [
+		{
+			"id": "109378339820293331",
+			"parentId": 0,
+			"url": "https://mastodon.roe.dev/@daniel/109378339711861499",
+			"author": {
+				"name": "daniel roe 🇺🇦",
+				"url": "https://mastodon.roe.dev/@daniel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/372/206/451/928/700/original/2f01dcb1d0b1754f.jpg"
+			},
+			"date": "2022-11-20T21:50:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378395493814226",
+			"parentId": 0,
+			"url": "https://mastodon.cloud/@Hanzo55/109378395462731500",
+			"author": {
+				"name": "Shawn Holmes",
+				"url": "https://mastodon.cloud/@Hanzo55",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/380/324/527/450/original/12f218df7e9c1e9b.png"
+			},
+			"date": "2022-11-20T22:04:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> 404?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378601125637024",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/109378601072205384",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-20T22:56:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> awesome, thanks! 🙏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378605869658488",
+			"parentId": "109378395493814226",
+			"url": "https://mamot.fr/@nhoizey/109378605741234781",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-20T22:57:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.cloud/@Hanzo55\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Hanzo55</span></a></span> the repository is currently private, we'll open it ASAP</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378728159771799",
+			"parentId": "109378601125637024",
+			"url": "https://fediverse.zachleat.com/@zachleat/109378728159771799",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-20T23:29:00.921Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> The code is in _pretty_ good shape, it’s maybe a quick review away from publishing! README should have some very terse steps to get going</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378768128739703",
+			"parentId": "109378728159771799",
+			"url": "https://fediverse.zachleat.com/@zachleat/109378768128739703",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-20T23:39:10.826Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> one more wishlist thing I’d love to see is another repo where people can add their own canonical twitter archive URLs that we can publish and use to federate links! Like, if I say <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\">@<span>zachleat</span></a></span> maps to zachleat.com/twitter then the archive can automatically map tweet URLs to those new domains</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378829933223905",
+			"parentId": "109378728159771799",
+			"url": "https://mamot.fr/@nhoizey/109378829876959403",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-20T23:54:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm currently running it on my backup. More than 30 minutes already, is the first build supposed to take longer than next builds?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378835422561070",
+			"parentId": "109378768128739703",
+			"url": "https://mamot.fr/@nhoizey/109378835075108408",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-20T23:56:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> great idea! 👍<br>Do you want to open an issue for this, or should I do it and mention your toot?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378945287752191",
+			"parentId": "109378829933223905",
+			"url": "https://fediverse.zachleat.com/@zachleat/109378945287752191",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T00:24:14.027Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> if it’s taking forever I’d try replacing the eleventyImg local media caching with just a straight passthrough to the image sources (just for testing)</p><p><a href=\"https://github.com/tweetback/tweetback/blob/1393a01aa292b62ce348dd5e7f042653b6e355e2/src/twitter.js#LL5C7-L5C18\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/blob/1393a01aa292b62ce348dd5e7f042653b6e355e2/src/twitter.js#LL5C7-L5C18</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378949895546438",
+			"parentId": "109378945287752191",
+			"url": "https://mamot.fr/@nhoizey/109378949744346556",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:25:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the build just finished!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378952345207963",
+			"parentId": "109378949895546438",
+			"url": "https://mamot.fr/@nhoizey/109378952287949104",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:26:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think it took a long time because it had to get almost 6000 images from Twitter API</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378960559894887",
+			"parentId": "109378952345207963",
+			"url": "https://fediverse.zachleat.com/@zachleat/109378960559894887",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T00:28:07.056Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> awesome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378962981742205",
+			"parentId": "109378960559894887",
+			"url": "https://fediverse.zachleat.com/@zachleat/109378962981742205",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T00:28:44.011Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> repeats should be much faster with the local cache folder</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378967011778284",
+			"parentId": "109378960559894887",
+			"url": "https://mamot.fr/@nhoizey/109378966692892175",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:29:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> are images binaries also in the `.cache` folder?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378973728825073",
+			"parentId": "109378962981742205",
+			"url": "https://mamot.fr/@nhoizey/109378973508366151",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:31:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> indeed! 🎉</p><p>&gt; Wrote 55477 files in 24.98 seconds</p><p>🤯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109378979229081697",
+			"parentId": "109378973728825073",
+			"url": "https://mamot.fr/@nhoizey/109378979168391412",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:32:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but I know I have more than 100.000 tweets, so should I be worried with \"only\" 55477 files written?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379007984493220",
+			"parentId": "109378979229081697",
+			"url": "https://mamot.fr/@nhoizey/109379007926009543",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:40:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> looks like my Twitter archive only contains 55469 tweets, so maybe when Twitter says I have 118,5 k Tweets, there are many RTs also counted. 🤷‍♂️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379010496337718",
+			"parentId": "109379007984493220",
+			"url": "https://fediverse.zachleat.com/@zachleat/109379010496337718",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T00:40:49.030Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> hmmmmm, I believe retweets are included in the archive</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379014713151839",
+			"parentId": "109378967011778284",
+			"url": "https://fediverse.zachleat.com/@zachleat/109379014713151839",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T00:41:53.370Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> yeah so if you clear your _site folder it should still be fast. I think it might be better to have those images in source control though, not sure why I chose to write them to _site</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379019500910291",
+			"parentId": "109379014713151839",
+			"url": "https://mamot.fr/@nhoizey/109379019444191623",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:43:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it takes only 90 seconds after removing the `_site` folder, really great! 👍</p><p>It's almost 2em here, I'll continue tomorrow… 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379022219079966",
+			"parentId": "109379019500910291",
+			"url": "https://fediverse.zachleat.com/@zachleat/109379022219079966",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T00:43:47.901Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> ack! Go to bed!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379027180626620",
+			"parentId": "109379022219079966",
+			"url": "https://mamot.fr/@nhoizey/109379027123892342",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2022-11-21T00:45:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😁💤</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379209129807367",
+			"parentId": "109379027180626620",
+			"url": "https://fediverse.zachleat.com/@zachleat/109379209129807367",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T01:31:19.932Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> when you wake up—just fyi I made a few more changes and merged to main</p><p><a href=\"https://github.com/tweetback/tweetback\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tweetback/tweetback</span><span class=\"invisible\"></span></a></p><p>Namely that images are now written to `/img/` so that CI builds don’t have to fetch them the first time 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379216140787929",
+			"parentId": "109378835422561070",
+			"url": "https://fediverse.zachleat.com/@zachleat/109379216140787929",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T01:33:06.911Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> <a href=\"https://github.com/tweetback/tweetback-canonical/issues/1\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">-canonical/issues/1</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109379299231986893",
+			"parentId": "109379209129807367",
+			"url": "https://status.steren.fr/@steren/109379299212806828",
+			"author": {
+				"name": "Steren",
+				"url": "https://status.steren.fr/@steren",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/783/958/540/447/original/a7bc97326d29d9ae.jpg"
+			},
+			"date": "2022-11-21T01:54:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> can't wait for the repo to be public. I'll be the first to give it a try!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109381743000107303",
+			"parentId": "109379209129807367",
+			"url": "https://front-end.social/@bramus/109381742947015271",
+			"author": {
+				"name": "Bramus",
+				"url": "https://front-end.social/@bramus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/102/299/028/125/original/42d2a3aaec1affc3.jpg"
+			},
+			"date": "2022-11-21T12:15:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> 👀</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"comments": [
+		{
+			"id": "109594726339432182",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mor10/109594726306913196",
+			"author": {
+				"name": "Morten Rand-Hendriksen",
+				"url": "https://mastodon.social/@mor10",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/846/455/736/997/original/828b6ace8b1bc378.jpg"
+			},
+			"date": "2022-12-29T03:00:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Setting up a Tweetback for my Twitter so I can dissociate myself from that burning carcass is top of my list for next week!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109595119867270226",
+			"parentId": "109594726339432182",
+			"url": "https://fediverse.zachleat.com/@zachleat/109595119867270226",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-29T04:40:16.338Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mor10\" class=\"u-url mention\">@<span>mor10</span></a></span> awesome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109621051514648611",
+			"parentId": 0,
+			"url": "https://indieweb.social/@timkrgr/109621051491969106",
+			"private": true,
+			"date": "2023-01-02T18:35:01.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109621251895746577",
+			"parentId": "109621051514648611",
+			"url": "https://fediverse.zachleat.com/@zachleat/109621251895746577",
+			"private": true,
+			"date": "2023-01-02T19:25:59.443Z",
+			"via": "fediverse"
+		}
+	]
+}

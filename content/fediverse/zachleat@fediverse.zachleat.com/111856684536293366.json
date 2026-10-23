@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "111856701806359575",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/111856701740982528",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-02-01T14:30:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Just wait until you see `customElements.define()`. Baseline is showing some potential to a setback for Web Component adoption.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111856748801452358",
+			"parentId": "111856701806359575",
+			"url": "https://fediverse.zachleat.com/@zachleat/111856748801452358",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-01T14:42:15.179Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> OH NO, what!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111856754095976802",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111856754095976802",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-01T14:43:35.968Z",
+			"content": "<p>As <span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> notes, this is also a problem with `customElements.define()` too! 😭</p><p><a href=\"https://developer.mozilla.org/en-US/docs/Web/API/CustomElementRegistry/define\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.mozilla.org/en-US/do</span><span class=\"invisible\">cs/Web/API/CustomElementRegistry/define</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111856780103419996",
+			"parentId": 0,
+			"url": "https://chaos.social/@elomatreb/111856779400066646",
+			"author": {
+				"name": "elomatreb 🚂",
+				"url": "https://chaos.social/@elomatreb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/073/123/967/920/836/original/03ae0892e358c292.png"
+			},
+			"date": "2024-02-01T14:50:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://github.com/web-platform-dx/web-features/issues/562\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/web-platform-dx/web</span><span class=\"invisible\">-features/issues/562</span></a> looks relevant</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111857041647605963",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pepelsbey/111857041507347969",
+			"author": {
+				"name": "Vadim Makeev",
+				"url": "https://mastodon.social/@pepelsbey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/028/383/987/770/original/20d02d904ee275c0.png"
+			},
+			"date": "2024-02-01T15:56:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The feedback form works fine for all kinds of issues with this widget. Feel free to use it! In this case, two sources of data (BCD for the table and web-features for the banner) are correct. But the way they’re represented on the banner is misleading. We at MDN know this issue and are working on fixing it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111857094568005149",
+			"parentId": "111857041647605963",
+			"url": "https://fediverse.zachleat.com/@zachleat/111857094568005149",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-01T16:10:11.158Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pepelsbey\" class=\"u-url mention\">@<span>pepelsbey</span></a></span> Ah, great! Thanks for fielding my toot 🫣</p><p>I was very surprised to learn that Baseline reports compatibility data from an arbitrary aggregate grouping of features—that seems to be a much larger problem!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111857363969229860",
+			"parentId": "111856701806359575",
+			"url": "https://indieweb.social/@McNeely/111857363900970827",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2024-02-01T17:18:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>knowler</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ok Baseline Safari isn't *that* far behind providing support jeez....</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111857799821658561",
+			"parentId": "111856754095976802",
+			"url": "https://fediverse.zachleat.com/@zachleat/111857799821658561",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-01T19:09:32.476Z",
+			"content": "<p>The official issue for these can be found at <a href=\"https://github.com/web-platform-dx/web-features/issues/562\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/web-platform-dx/web</span><span class=\"invisible\">-features/issues/562</span></a></p><p>HT <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\">@<span>McNeely</span></a></span> @darth_mall@notacult.social <span class=\"h-card\" translate=\"no\"><a href=\"https://chaos.social/@elomatreb\" class=\"u-url mention\">@<span>elomatreb</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

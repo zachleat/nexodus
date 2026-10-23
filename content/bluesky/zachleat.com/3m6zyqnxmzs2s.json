@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6zz5xbrh22t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3m6zz5xbrh22t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-02T22:40:20.164Z",
+			"content": "<p>As a security precaution I had previously configured every single 11ty repository to have its own single-package-scoped npm token (there were probably ~30 or so), so this is a lovely improvement 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vu4ecuolyj4gsi3qmrphme2d/app.bsky.feed.post/3m6zzwa3qjk2c",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6zz5xbrh22t",
+			"url": "https://bsky.app/profile/codersblock.com/post/3m6zzwa3qjk2c",
+			"author": {
+				"name": "Will Boyd",
+				"url": "https://bsky.app/profile/codersblock.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vu4ecuolyj4gsi3qmrphme2d/bafkreiew27xqxqmujk4w5jdragzspd6gekqybdhjzgtvs5jklm7fyyh2je"
+			},
+			"date": "2025-12-02T22:53:54.711Z",
+			"content": "<p>you're a lovely improvement</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7222x7tfs26",
+			"parentId": "at://did:plc:vu4ecuolyj4gsi3qmrphme2d/app.bsky.feed.post/3m6zzwa3qjk2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m7222x7tfs26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-02T22:56:33.180Z",
+			"content": "<p>no YOU</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:izqlgrzejlvzwawv6yptcaft/app.bsky.feed.post/3m73oy2qwjp2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rgo.pt/post/3m73oy2qwjp2i",
+			"author": {
+				"name": "Rodrigo Dias",
+				"url": "https://bsky.app/profile/rgo.pt",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:izqlgrzejlvzwawv6yptcaft/bafkreifffriijyubupia6dgtujnnbmcza7uj7r5edacux6w3dlobmtja3m"
+			},
+			"date": "2025-12-03T14:43:23.471Z",
+			"content": "<p>Fewer secrets to rotate.</p>",
+			"via": "bluesky"
+		}
+	]
+}

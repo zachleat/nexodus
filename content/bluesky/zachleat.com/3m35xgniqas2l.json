@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:me3pkttuv3n2zku2sbz5fbha/app.bsky.feed.post/3m35xzb7lxs2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/svenning.io/post/3m35xzb7lxs2n",
+			"author": {
+				"name": "svenning🌲",
+				"url": "https://bsky.app/profile/svenning.io",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:me3pkttuv3n2zku2sbz5fbha/bafkreied7kes5ozt2jj5vm6dqby6zwffqoipgw6hck5k6vpwwfvoqpp5ru"
+			},
+			"date": "2025-10-14T14:49:41.507Z",
+			"content": "<p>Thanks 😊</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3m35zd3ka4k2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/stefanmatei.com/post/3m35zd3ka4k2j",
+			"author": {
+				"name": "Stefan Matei",
+				"url": "https://bsky.app/profile/stefanmatei.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:komsc4cibngambanqjhpwweu/bafkreig2zczdfchzhxfkofhunix7nxui6ls4zfjma2un3tqjslcfgzpf7e"
+			},
+			"date": "2025-10-14T15:13:04.850Z",
+			"content": "<p>was playing with something like this a few years ago (<a href=\"https://codepen.io/nonsalant/pen/mdKJyzJ/f70c96b7e3ec615a0b2fbe4f320855f9\">codepen.io/nonsalant/pen/mdKJyzJ/f70c96b7e3ec615a0b2fbe4f320855f9</a>)<br>\n…for <a href=\"https://stefanmatei.com/contract-generator/\">stefanmatei.com/contract-generator/</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m35zpmxvnc27",
+			"parentId": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3m35zd3ka4k2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m35zpmxvnc27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-14T15:20:05.777Z",
+			"content": "<p>I hope that my like of your post is not contractually binding</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:komsc4cibngambanqjhpwweu/app.bsky.feed.post/3m3623de5sk2j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m35zpmxvnc27",
+			"url": "https://bsky.app/profile/stefanmatei.com/post/3m3623de5sk2j",
+			"author": {
+				"name": "Stefan Matei",
+				"url": "https://bsky.app/profile/stefanmatei.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:komsc4cibngambanqjhpwweu/bafkreig2zczdfchzhxfkofhunix7nxui6ls4zfjma2un3tqjslcfgzpf7e"
+			},
+			"date": "2025-10-14T15:26:38.346Z",
+			"content": "<p>you must henceforth only use 💊 buttons</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:7zr6uqivjm2osuky477udmza/app.bsky.feed.post/3kgtcv6dnwv23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tomfinley.com/post/3kgtcv6dnwv23",
+			"private": true,
+			"date": "2023-12-18T15:14:53.662Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgtebyakjg2j",
+			"parentId": "at://did:plc:7zr6uqivjm2osuky477udmza/app.bsky.feed.post/3kgtcv6dnwv23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3kgtebyakjg2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-12-18T15:39:57.114Z",
+			"content": "<p>That seems to be a good descriptor to me!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4ro56gbge42enizovzvvw5sn/app.bsky.feed.post/3kgtm3kbz5i2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/programmerman.net/post/3kgtm3kbz5i2l",
+			"private": true,
+			"date": "2023-12-18T17:59:31.352Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pg5x4ip7jgc2kbib72ifk4ux/app.bsky.feed.post/3kgvogrf5jo23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/handle.invalid/post/3kgvogrf5jo23",
+			"private": true,
+			"date": "2023-12-19T13:46:54.672Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgvorcszvl24",
+			"parentId": "at://did:plc:pg5x4ip7jgc2kbib72ifk4ux/app.bsky.feed.post/3kgvogrf5jo23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3kgvorcszvl24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-12-19T13:52:48.384Z",
+			"content": "<p>I think Bluesky and Threads are ultimately the same: single company owned, set up to fail eventually</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pg5x4ip7jgc2kbib72ifk4ux/app.bsky.feed.post/3kgvsxpwbwb2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgvorcszvl24",
+			"url": "https://bsky.app/profile/handle.invalid/post/3kgvsxpwbwb2h",
+			"private": true,
+			"date": "2023-12-19T15:07:58.494Z",
+			"via": "bluesky"
+		}
+	]
+}

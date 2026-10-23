@@ -1,0 +1,142 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:bmaqbl2gpow7fniwjlbpipzr/app.bsky.feed.post/3myi6g5gn4s27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mattdoane.com/post/3myi6g5gn4s27",
+			"author": {
+				"name": "Matt Doane",
+				"url": "https://bsky.app/profile/mattdoane.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmaqbl2gpow7fniwjlbpipzr/bafkreid6hgnmwdorlgtxqgx6ytzhz6pneq6aqa564ye6nuesvp6cmhycve"
+			},
+			"date": "2026-10-22T17:21:30.789Z",
+			"content": "<p>What’s your preferred browser? I keep trying new ones and always go back to Chrome. Although I do like Firefox Dev Edition.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myi6wuj6ys23",
+			"parentId": "at://did:plc:bmaqbl2gpow7fniwjlbpipzr/app.bsky.feed.post/3myi6g5gn4s27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myi6wuj6ys23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-22T17:30:51.864Z",
+			"content": "<p>Firefox since 2003 <a href=\"https://www.zachleat.com/uses/\">www.zachleat.com/uses/</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bmaqbl2gpow7fniwjlbpipzr/app.bsky.feed.post/3myiapmyvw227",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myi6wuj6ys23",
+			"url": "https://bsky.app/profile/mattdoane.com/post/3myiapmyvw227",
+			"author": {
+				"name": "Matt Doane",
+				"url": "https://bsky.app/profile/mattdoane.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmaqbl2gpow7fniwjlbpipzr/bafkreid6hgnmwdorlgtxqgx6ytzhz6pneq6aqa564ye6nuesvp6cmhycve"
+			},
+			"date": "2026-10-22T18:02:36.592Z",
+			"content": "<p>Now that’s a uses page!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:b6rgxzryefynhmcvyfxt33o3/app.bsky.feed.post/3myib3rpbb22d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/phen.dev/post/3myib3rpbb22d",
+			"author": {
+				"name": "Phendan",
+				"url": "https://bsky.app/profile/phen.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6rgxzryefynhmcvyfxt33o3/bafkreiaqau6gsphgebv5p5uajeblcnmtc4tkgh7pnmfckch7mddluojoly"
+			},
+			"date": "2026-10-22T18:09:24.173Z",
+			"content": "<p>Moved over to Zen a while ago and I'm quite happy with it. Gotta give some credit to the Arc designers for actually having some fresh ideas (vertical tabs are strictly better imo), but there's really no reason to stay there anymore</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ctvna3gpm6lkk7mmwyidcrpi/app.bsky.feed.post/3myib4rubxs2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/craigjones.dk/post/3myib4rubxs2g",
+			"private": true,
+			"date": "2026-10-22T18:09:57.885Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myibkx3gkk2u",
+			"parentId": "at://did:plc:bmaqbl2gpow7fniwjlbpipzr/app.bsky.feed.post/3myiapmyvw227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myibkx3gkk2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-22T18:17:53.131Z",
+			"content": "<p>ha! thanks!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3myidcfdbpc2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/hejchristian.com/post/3myidcfdbpc2x",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2026-10-22T18:48:53.562Z",
+			"content": "<p>I've been so incredibly happy with Zen as my replacement for Arc. Workspaces with the option to set a unique profile for each is the killer feature for me, and the folders that got added late last year.</p>\n<p>It's all been made just that much better with your extension too! 🥳</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myidplosrk2j",
+			"parentId": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3myidcfdbpc2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3myidplosrk2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-22T18:56:16.439Z",
+			"content": "<p>Yay! I have been using Zen for screencasts (since it lets you hide *all* browser chrome) to great effect!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3myidrm5dqs2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myidplosrk2j",
+			"url": "https://bsky.app/profile/hejchristian.com/post/3myidrm5dqs2t",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2026-10-22T18:57:24.020Z",
+			"content": "<p>Ah yep! That too, lil shortcut key and that sidebar is gone; I use it for all my screenshots ☺️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6i6n57nrkq6xavqbdo6bvkqr/app.bsky.feed.post/3myiicsncfk2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/byarielm.fyi/post/3myiicsncfk2s",
+			"author": {
+				"name": "Ariel M. (she/her)",
+				"url": "https://bsky.app/profile/byarielm.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6i6n57nrkq6xavqbdo6bvkqr/bafkreiguojqvkrgy4c7w72wfgn7nulhwz5qaks5bh25xblmdqw42s62mve"
+			},
+			"date": "2026-10-22T20:18:36.231Z",
+			"content": "<p>yeah i moved even before zen got folders (that was hard ngl) and it just gets better and better, like a lot of mods i had early on i don't even need now</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uf65rcfkdpdwjqpiexwybqam/app.bsky.feed.post/3myj5vdiwus2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jagk.dev/post/3myj5vdiwus2o",
+			"author": {
+				"name": "Jag_k",
+				"url": "https://bsky.app/profile/jagk.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uf65rcfkdpdwjqpiexwybqam/bafkreidqiip4vmvyitjjgb4mdv745spywvu6ijbbyqiedsv33wfmbv4phq"
+			},
+			"date": "2026-10-23T02:44:46.469Z",
+			"content": "<p>I just switched from Arc, but unfortunately we have no magic button to move all profiles, spaces, “bookmarks” and so on.</p>\n<p>So, I made my own! Just in case will someone need it too</p>\n<p><a href=\"https://github.com/jag-k/arc-to-zen\">github.com/jag-k/arc-to...</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:h3bil6wi4j2odx5exizuwh3j/app.bsky.feed.post/3lipji3qmec2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dansinker.com/post/3lipji3qmec2p",
+			"author": {
+				"name": "dan sinker",
+				"url": "https://bsky.app/profile/dansinker.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h3bil6wi4j2odx5exizuwh3j/bafkreicfcw33vu7jzgbrr5wmhfeclusrubmrfudmdbqbxmz7mzqjz7ui64"
+			},
+			"date": "2025-02-21T19:18:47.326Z",
+			"content": "<p>love that a normal part of dev now is \"ensure that the thing you're being told exists actually exists\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjjdlwvs2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lipjjdlwvs2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-21T19:19:29.115Z",
+			"content": "<p>here’s the ACTUAL face I am making read this: 🥴</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjlgfgd22b",
+			"parentId": "at://did:plc:h3bil6wi4j2odx5exizuwh3j/app.bsky.feed.post/3lipji3qmec2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lipjlgfgd22b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-21T19:20:39.156Z",
+			"content": "<p>Computer: Answer</p>\n<p>Me: Are you sure Answer?</p>\n<p>Computer: You are right, Answer was not correct</p>\n<p>this is a good and proper system</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:h3bil6wi4j2odx5exizuwh3j/app.bsky.feed.post/3lipjnvli622p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjlgfgd22b",
+			"url": "https://bsky.app/profile/dansinker.com/post/3lipjnvli622p",
+			"author": {
+				"name": "dan sinker",
+				"url": "https://bsky.app/profile/dansinker.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:h3bil6wi4j2odx5exizuwh3j/bafkreicfcw33vu7jzgbrr5wmhfeclusrubmrfudmdbqbxmz7mzqjz7ui64"
+			},
+			"date": "2025-02-21T19:22:02.192Z",
+			"content": "<p>love it, so glad we've done this to ourselves.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6ibxffn4k24gor3plsch6zrc/app.bsky.feed.post/3lipkm6t36s22",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lipjjdlwvs2b",
+			"url": "https://bsky.app/profile/lukekarrys.com/post/3lipkm6t36s22",
+			"author": {
+				"name": "luke karrys",
+				"url": "https://bsky.app/profile/lukekarrys.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ibxffn4k24gor3plsch6zrc/bafkreifzcr56yajzyghdrny5wrzfj4xm6e2qchjopt4rbqos6e6an43z7y"
+			},
+			"date": "2025-02-21T19:38:58.512Z",
+			"content": "<p>the real environment variables were the ones we imagined on the way</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:sgzcgc2jvnbq5u3aqdcggytz/app.bsky.feed.post/3lipkr6z2gs2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/aleksandrhovhannisyan.com/post/3lipkr6z2gs2r",
+			"private": true,
+			"date": "2025-02-21T19:41:46.480Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3liplulxc6k2j",
+			"parentId": "at://did:plc:sgzcgc2jvnbq5u3aqdcggytz/app.bsky.feed.post/3lipkr6z2gs2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3liplulxc6k2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-21T20:01:34.458Z",
+			"content": "<p>appreciate the idea but no pull requests in play here, unfortunately</p>",
+			"via": "bluesky"
+		}
+	]
+}

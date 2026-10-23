@@ -1,0 +1,38 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m5hpfr2nkk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3m5hpfr2nkk2q",
+			"private": true,
+			"date": "2025-11-12T22:32:37.738Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vlya7dm5o7t5jrxpuuh6dk4k/app.bsky.feed.post/3m5jb4y4qm22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/probablydanny.com/post/3m5jb4y4qm22o",
+			"author": {
+				"name": "Danny Kim",
+				"url": "https://bsky.app/profile/probablydanny.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vlya7dm5o7t5jrxpuuh6dk4k/bafkreiho5yg2j4gztrrj2etluhycgnhi6ifqlv4zmuyxlzoangthgjwoiq"
+			},
+			"date": "2025-11-13T13:22:30.248Z",
+			"content": "<p>Sacrilege is to mess with the git history</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5jevzulh22l",
+			"parentId": "at://did:plc:vlya7dm5o7t5jrxpuuh6dk4k/app.bsky.feed.post/3m5jb4y4qm22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5jevzulh22l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-13T14:30:12.164Z",
+			"content": "<p>we embrace our mistakes and wear them so that others may learn</p>",
+			"via": "bluesky"
+		}
+	]
+}

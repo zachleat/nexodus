@@ -1,0 +1,51 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:yeawwoyywp6y423i6ma6jd5y/app.bsky.feed.post/3mkxoaolbjk22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mcalester.design/post/3mkxoaolbjk22",
+			"author": {
+				"name": "Duncan McAlester",
+				"url": "https://bsky.app/profile/mcalester.design",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yeawwoyywp6y423i6ma6jd5y/bafkreibrkxmfy6jep3wqbtbbe2zcqnvhpcxgpmjoqtxvxreucb2f25v3ne"
+			},
+			"date": "2026-05-03T17:22:00.599Z",
+			"content": "<p>Is there an inverse? For a while I insisted on using public transport for a once a month trip. It took me 3 hours vs the 50-90 minutes (traffic dependent). I eventually conceded defeat and rent a car now.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mkxpmwyaws2d",
+			"parentId": "at://did:plc:yeawwoyywp6y423i6ma6jd5y/app.bsky.feed.post/3mkxoaolbjk22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mkxpmwyaws2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-03T17:46:45.808Z",
+			"content": "<p>enterprize rental czar</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mkxuvyjut225",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3mkxuvyjut225",
+			"private": true,
+			"date": "2026-05-03T19:21:18.132Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mkzxofi4wc2g",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mkxuvyjut225",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mkzxofi4wc2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-04T15:16:03.974Z",
+			"content": "<p>it took me a long time to understand this because I have not internalized peanuts as goobers due to my birth geography</p>",
+			"via": "bluesky"
+		}
+	]
+}

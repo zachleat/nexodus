@@ -1,0 +1,135 @@
+{
+	"comments": [
+		{
+			"id": "109383853566119212",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109383853566119212",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-21T21:12:28.407Z",
+			"content": "<p>Not sure what my plans are for the data long-term—but I like this step for now (given that I am already hosting a backup).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109384804987523924",
+			"parentId": "109383853566119212",
+			"url": "https://front-end.social/@AmeliaBR/109384804964526259",
+			"private": true,
+			"date": "2022-11-22T01:14:25.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109384835524909215",
+			"parentId": "109383853566119212",
+			"url": "https://mastodon.social/@developit/109384835477776590",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2022-11-22T01:22:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I mean npm _is_ kinda a big ass database</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109384835559057453",
+			"parentId": "109384804987523924",
+			"url": "https://fediverse.zachleat.com/@zachleat/109384835559057453",
+			"private": true,
+			"date": "2022-11-22T01:22:12.430Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109384840305894479",
+			"parentId": "109384835524909215",
+			"url": "https://fediverse.zachleat.com/@zachleat/109384840305894479",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-22T01:23:24.860Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\">@<span>developit</span></a></span> hahaha I… 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109384872408751698",
+			"parentId": "109384804987523924",
+			"url": "https://front-end.social/@brian/109384872379066981",
+			"private": true,
+			"date": "2022-11-22T01:31:34.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109384914915299752",
+			"parentId": "109384872408751698",
+			"url": "https://front-end.social/@brian/109384914894529143",
+			"private": true,
+			"date": "2022-11-22T01:42:22.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109384977369029228",
+			"parentId": "109384914915299752",
+			"url": "https://front-end.social/@AmeliaBR/109384977346927632",
+			"private": true,
+			"date": "2022-11-22T01:58:15.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109385603540636093",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jed/109385603513228061",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2022-11-22T04:37:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (just a heads up, this will break tweetback fwiw)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109387438132339511",
+			"parentId": "109385603540636093",
+			"url": "https://fediverse.zachleat.com/@zachleat/109387438132339511",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-22T12:24:04.553Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> ah, I think it will only fail if I post new tweets? Did I miss something else?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109387522686546511",
+			"parentId": "109387438132339511",
+			"url": "https://mastodon.social/@jed/109387522659319064",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2022-11-22T12:45:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> all media 404 for a private account. any reason you don’t use the media in the zip file?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109387545968443483",
+			"parentId": "109387522686546511",
+			"url": "https://fediverse.zachleat.com/@zachleat/109387545968443483",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-22T12:51:29.996Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> just simplifying the archive and API code paths. definitely could be improved!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3l77cndyiwf24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ichris.bsky.social/post/3l77cndyiwf24",
+			"author": {
+				"name": "Chris from 🇨🇦",
+				"url": "https://bsky.app/profile/ichris.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:duarqnv277snl27e4yv5b564/bafkreie7omnub3jgyp7s73rhdbal5eb4r2ptrn3wc67vdvnscwchwyji6i"
+			},
+			"date": "2024-10-23T19:47:06.994Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3l77dg4qohr2r",
+			"parentId": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3l77cndyiwf24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3l77dg4qohr2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-10-23T20:00:58.279Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zgasnj5qfjiomp5nqg746tyt/app.bsky.feed.post/3l77rdppwms2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davidbrunelle.com/post/3l77rdppwms2b",
+			"author": {
+				"name": "David Brunelle",
+				"url": "https://bsky.app/profile/davidbrunelle.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zgasnj5qfjiomp5nqg746tyt/bafkreiffwrcbglbkhhclb7yxkiqxch53ehx4j2l2dw2ugigy7gsc5s44se"
+			},
+			"date": "2024-10-24T00:10:09.794Z",
+			"content": "<p>Wonderful reference!</p>",
+			"via": "bluesky"
+		}
+	]
+}

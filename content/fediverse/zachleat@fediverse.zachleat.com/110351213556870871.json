@@ -1,0 +1,238 @@
+{
+	"comments": [
+		{
+			"id": "110355631710964146",
+			"parentId": 0,
+			"url": "https://mastodon.social/@voxpelli/110355631660143208",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T12:08:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://changelog.social/@changelog\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>changelog</span></a></span> My take: That it’s also important for companies to offer their employees time to OSS – including allowing them to be hired for feature additions to the libraries they maintain.</p><p>Solution to sustainable OSS shouldn’t be that maintainers become full time OSS devs and money only really works if there’s a market at which the money can be converted into dev time, so companies also need to work on creating such a market.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356010501827153",
+			"parentId": "110355631710964146",
+			"url": "https://fediverse.zachleat.com/@zachleat/110356010501827153",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-12T13:44:46.026Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\">@<span>voxpelli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://changelog.social/@changelog\" class=\"u-url mention\">@<span>changelog</span></a></span> Maybe!</p><p>That doesn’t match my personal experience—with a huge company using my software and their devs were contributing time and code but I couldn’t properly review and integrate their contributions because I had no time</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356058079122761",
+			"parentId": "110356010501827153",
+			"url": "https://mastodon.social/@voxpelli/110356058046960253",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T13:56:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://changelog.social/@changelog\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>changelog</span></a></span> My issue has been that I have been employed 40 hours a week and only had evenings and weekends for OSS and no amount of money thrown my way would unlock work hours for OSS work leaving me to try to review all code on my spare time.</p><p>If you are employed at a full time job, then money donated needs to be able to buy back some of your time from your employer to actually help in any substantial way, no?</p><p>Were you employed then or freelancing?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356090488952909",
+			"parentId": "110356058079122761",
+			"url": "https://fediverse.zachleat.com/@zachleat/110356090488952909",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-12T14:05:06.532Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\">@<span>voxpelli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://changelog.social/@changelog\" class=\"u-url mention\">@<span>changelog</span></a></span> I’m not claiming that my experience matches your experience—it’s more likely that we have differing experiences that are both valid 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356101779208260",
+			"parentId": "110356090488952909",
+			"url": "https://mastodon.social/@voxpelli/110356101732006480",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T14:07:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh, for sure, I’m not questioning your experience, just want to understand it.</p><p>“but I couldn’t properly review and integrate their contributions because I had no time”</p><p>How would money give you more time? When self-employed it’s easier than when employed, so eg right now it translates 1:1 to work time for me as I’m currently self-employed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356114786927226",
+			"parentId": "110356101779208260",
+			"url": "https://cosocial.ca/@boris/110356114713351020",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-05-12T14:11:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>voxpelli</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> add more contributors that do have time and can get paid to do work. </p><p>It’s a skillset that not all maintainers have, but it’s a way out.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356128127779788",
+			"parentId": "110356114786927226",
+			"url": "https://mastodon.social/@voxpelli/110356128076012975",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T14:14:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>boris</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Adding on co-maintainers requires quite a lot of trust, especially after last years supply chain attacks where people with malicious intent has tricked maintainers to give them access.</p><p>Adding on more contributors will probably often increase the review burden.</p><p>And how would money give new contributors unless those contributors are professional OSS contributors or self-employed?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356142289367120",
+			"parentId": "110356128127779788",
+			"url": "https://cosocial.ca/@boris/110356142228216664",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-05-12T14:18:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>voxpelli</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>People who don’t have fully funded day jobs need money to be able to spend time on OSS.</p><p>So initially yes a maintainer has to spend time bringing on more folks. </p><p>Trust is a separate issue. Onboarding &amp; vetting is hard, yes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356153064091189",
+			"parentId": "110356101779208260",
+			"url": "https://fediverse.zachleat.com/@zachleat/110356153064091189",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-12T14:21:01.353Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\">@<span>voxpelli</span></a></span> When you’re full time employed, there is a no-mans-land of monetary contributions.</p><p>There needs to be a viable path for full time open source—and that’s only possible when the money hits a viable threshold.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356161564785857",
+			"parentId": "110356142289367120",
+			"url": "https://fediverse.zachleat.com/@zachleat/110356161564785857",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-12T14:23:11.064Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\">@<span>boris</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\">@<span>voxpelli</span></a></span> The primary goal (imo) is to make OSS a fully funded day job, I don’t want a gig economy for OSS.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356161808702841",
+			"parentId": "110356142289367120",
+			"url": "https://mastodon.social/@voxpelli/110356161721940334",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T14:23:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>boris</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So unless the maintainer gets more time to onboard new people the money that would go to those people can’t really be used, right?</p><p>Which is essentially my point – that companies needs to ensure that their employees can do such work on their OSS projects, else any money to those projects are essentially useless (just look at many <span class=\"h-card\"><a href=\"https://mastodon.opencollective.com/@opencollective\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>opencollective</span></a></span> projects which have received quite a bit of money but has yet to have any actual expenses)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356172246032792",
+			"parentId": "110356161564785857",
+			"url": "https://cosocial.ca/@boris/110356171828179721",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-05-12T14:25:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>voxpelli</span></a></span> yes! That’s exactly what I’ve been writing about. Make working on OSS a day job!</p><p>Which is exactly why “maintainer with a day job” isn’t the right pattern.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356177029396756",
+			"parentId": "110356172246032792",
+			"url": "https://fediverse.zachleat.com/@zachleat/110356177029396756",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-12T14:27:07.040Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\">@<span>boris</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\">@<span>voxpelli</span></a></span> let’s be friends 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356178808237324",
+			"parentId": "110356161564785857",
+			"url": "https://mastodon.social/@voxpelli/110356178757991565",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T14:27:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>boris</span></a></span> I think the power of OSS comes from people sharing and reusing the fundamental parts of their code bases so that everyone can focus on what’s set their projects apart rather than focus on building repetitive boilerplates.</p><p>That way OSS code is always built to solve a problem, not built to be a career in itself.</p><p>To me full time OSS maintenance is the anomaly and a risky such, as it makes the maintainer lose the real world application of their projects.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356183694063796",
+			"parentId": "110356161808702841",
+			"url": "https://cosocial.ca/@boris/110356183560115171",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-05-12T14:28:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>voxpelli</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes those people who aren’t looking to pay people full time with funded OC are working on the wrong thing. </p><p>This is the classic small business pattern: hard to add that second person. </p><p>Money is not useless. “I don’t have time” == pay someone to help.</p><p>We can “yes and” about businesses also contributing dev time.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356191381421168",
+			"parentId": "110356178808237324",
+			"url": "https://cosocial.ca/@boris/110356191255459710",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-05-12T14:30:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>voxpelli</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the power of OSS has come from privileged North Americans / Western Europeans with free side time. Privilege. (That’s how I got my start)</p><p>Let’s have 1000s more people with OSS maintenance as an awesome small business, paying people around the world.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356214000444659",
+			"parentId": "110356191381421168",
+			"url": "https://mastodon.social/@voxpelli/110356213965612741",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T14:36:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>boris</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I disagree. The power comes from eg web agencies not all building their own CMS but collaborating on something like Drupal.</p><p>Whenever one of them are in need of X they find a way to build it and contribute it and that way the collective ecosystem becomes richer and richer.</p><p>(Sadly this rarely works in product companies and consultant companies – the first are not in the business of selling engineering resources, the second are too much in the business of selling it)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110356223464887865",
+			"parentId": "110356214000444659",
+			"url": "https://mastodon.social/@voxpelli/110356223396755046",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-05-12T14:38:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>boris</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I guess what I’m kind of getting at is that we should get people to become active participants in an OSS community of equals rather than aim for a divide between OSS providers and OSS consumers</p>",
+			"via": "fediverse"
+		}
+	]
+}

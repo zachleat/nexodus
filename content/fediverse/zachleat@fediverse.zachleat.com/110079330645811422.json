@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "110079362003761950",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jkohlmann/110079361912115588",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-03-24T17:09:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> JavaScript is eating the world, and I don’t like it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110079370197260251",
+			"parentId": "110079362003761950",
+			"url": "https://fediverse.zachleat.com/@zachleat/110079370197260251",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-24T17:11:29.970Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\">@<span>jkohlmann</span></a></span> everything everywhere all at once in moderation</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110079376747759414",
+			"parentId": "110079370197260251",
+			"url": "https://mastodon.social/@jkohlmann/110079376697180943",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-03-24T17:13:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Problem: Our tools don’t understand non-JavaScript modules</p><p>“Solution”: Everything is a JavaScript module now</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110079411456826953",
+			"parentId": 0,
+			"url": "https://toot.cafe/@JesseSkinner/110079411400183204",
+			"author": {
+				"name": "Jesse Skinner",
+				"url": "https://toot.cafe/@JesseSkinner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/000/012/848/580/original/a66e20087b7a3646.jpg"
+			},
+			"date": "2023-03-24T17:21:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> JavaScript Enterprise Edition</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110079411618012544",
+			"parentId": "110079376747759414",
+			"url": "https://fediverse.zachleat.com/@zachleat/110079411618012544",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-24T17:22:02.008Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\">@<span>jkohlmann</span></a></span> should we make JSX like HTML or—hear me out—should HTML change to accommodate JSX</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110079417509359751",
+			"parentId": "110079411456826953",
+			"url": "https://fediverse.zachleat.com/@zachleat/110079417509359751",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-24T17:23:31.897Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@JesseSkinner\" class=\"u-url mention\">@<span>JesseSkinner</span></a></span> 2 J2EE 2 furious</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110079436604834674",
+			"parentId": "110079411456826953",
+			"url": "https://social.lol/@cory/110079436455709799",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2023-03-24T17:28:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@JesseSkinner\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>JesseSkinner</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that's the one that ships with 8 different tracking pixels right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110080473469851771",
+			"parentId": "110079411618012544",
+			"url": "https://hachyderm.io/@andydavies/110080473423533129",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-03-24T21:52:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Think you should take a break from the computers for a while…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110080499853439314",
+			"parentId": "110080473469851771",
+			"url": "https://fediverse.zachleat.com/@zachleat/110080499853439314",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-24T21:58:47.161Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> *looks around* you’re 100% right</p>",
+			"via": "fediverse"
+		}
+	]
+}

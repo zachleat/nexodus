@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "109916529632690513",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109916529632690513",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-23T22:59:00.146Z",
+			"content": "<p>you say jump, I say how many high severity vulnerabilities</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109916551238341318",
+			"parentId": 0,
+			"url": "https://mstdn.social/@brawaru/109916551206625331",
+			"author": {
+				"name": "Braw ☕🏳️‍🌈",
+				"url": "https://mstdn.social/@brawaru",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/380/201/982/554/664/original/4cd79a5fec5ff5fb.jpg"
+			},
+			"date": "2023-02-23T23:04:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>WARN  deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109916557114354342",
+			"parentId": "109916551238341318",
+			"url": "https://fediverse.zachleat.com/@zachleat/109916557114354342",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-23T23:05:59.487Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@brawaru\" class=\"u-url mention\">@<span>brawaru</span></a></span> it’s a good warning!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109917128379131175",
+			"parentId": "109916529632690513",
+			"url": "https://mastodon.heart-to-heart.tech/@jgchristopher/109917128288977999",
+			"author": {
+				"name": "John Christopher",
+				"url": "https://mastodon.heart-to-heart.tech/@jgchristopher",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/502/736/891/207/064/original/a3f1b53e3de6b66e.jpeg"
+			},
+			"date": "2023-02-24T01:31:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But they are transitive dependencies and I can’t really do anything about those</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109917174910628268",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@distantcam/109917174882744941",
+			"author": {
+				"name": "Cam",
+				"url": "https://hachyderm.io/@distantcam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/386/847/603/018/610/original/bddc2da538ed36fd.jpg"
+			},
+			"date": "2023-02-24T01:43:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> *slaps the cli tool*</p><p>This baby does everything! One command will make a repo, with build script to push the site to the host, and it'll be live in seconds, straight from the template!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109920690074549574",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rijk/109920690038889864",
+			"author": {
+				"name": "Rijk 🐰 ✨",
+				"url": "https://fosstodon.org/@rijk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/376/501/605/423/989/original/2517aabeba0d7b43.jpg"
+			},
+			"date": "2023-02-24T16:37:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There's so many \"false positives\" that I've unknowingly just started ignoring the messages.. hard to catch the one or two prod affecting ones in a sea of regex dos attack warnings in my devdependencies 🫠🫠</p>",
+			"via": "fediverse"
+		}
+	]
+}

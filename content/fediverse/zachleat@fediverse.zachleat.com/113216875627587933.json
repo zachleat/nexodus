@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "113226412136733894",
+			"parentId": 0,
+			"url": "https://mastodon.social/@developit/113226412056024836",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2024-09-30T12:05:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lol is it bad if I don't?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113226419395066442",
+			"parentId": "113226412136733894",
+			"url": "https://mastodon.social/@developit/113226419328388855",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2024-09-30T12:07:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's not perfect, mind, but I've never had something come up that was difficult or unwieldy enough that it would have justified a change to Preact or WCs. Using WCs built with Preact and WC's built in Lit rendered by Preact in a bunch of places at work right now actually.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113226489663437796",
+			"parentId": "113226419395066442",
+			"url": "https://fosstodon.org/@jovi/113226489584853747",
+			"author": {
+				"name": "JoviDeCroock",
+				"url": "https://fosstodon.org/@jovi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/550/078/363/268/original/34f7412baa34a97c.jpeg"
+			},
+			"date": "2024-09-30T12:25:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The code is minimal, the main things that cause friction are props vs attributes, weirdly named i.e. onX or an overlap with data- due to dash in the fifth spot</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113226500371205766",
+			"parentId": "113226489663437796",
+			"url": "https://mastodon.social/@developit/113226500316388476",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2024-09-30T12:28:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@jovi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jovi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> tbh both of those ended up not being an issue for foundation components because the custom elements define accessor pairs for event handler properties and reflected attributes so the events are registered in the correct casing and attributes never used by Preact. Works pretty well!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113226508895760805",
+			"parentId": "113226500371205766",
+			"url": "https://fosstodon.org/@jovi/113226508849004247",
+			"author": {
+				"name": "JoviDeCroock",
+				"url": "https://fosstodon.org/@jovi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/550/078/363/268/original/34f7412baa34a97c.jpeg"
+			},
+			"date": "2024-09-30T12:30:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh yea, it works well but these patterns seem pretty widespread afaict</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113226523684707621",
+			"parentId": "113226508895760805",
+			"url": "https://fosstodon.org/@jovi/113226523657285621",
+			"author": {
+				"name": "JoviDeCroock",
+				"url": "https://fosstodon.org/@jovi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/550/078/363/268/original/34f7412baa34a97c.jpeg"
+			},
+			"date": "2024-09-30T12:34:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The guides on how to do web-components the right way are probably as scarce as Preact, so the combination of them... 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113226539252416777",
+			"parentId": "113226523684707621",
+			"url": "https://mastodon.social/@developit/113226539199454608",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2024-09-30T12:37:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@jovi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jovi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lol yeah very true.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113228580810860799",
+			"parentId": "113226412136733894",
+			"url": "https://fediverse.zachleat.com/@zachleat/113228580810860799",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-30T21:17:10.439Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\">@<span>developit</span></a></span> no! Would certainly disagree with some points coming from Svelte, Vue, and Solid.js camps though 🫠</p>",
+			"via": "fediverse"
+		}
+	]
+}

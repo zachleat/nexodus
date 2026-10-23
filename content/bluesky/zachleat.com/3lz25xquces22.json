@@ -1,0 +1,337 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lz262do5cc2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benmyers.dev/post/3lz262do5cc2x",
+			"author": {
+				"name": "Ben Myers",
+				"url": "https://bsky.app/profile/benmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml5axo24i4xibb4rdfwgzrle/bafkreignrv6se54v3yuuyhp57emnrg4z3jws3k3oro5ur44yjt2qkdaiiy"
+			},
+			"date": "2025-09-17T15:36:37.878Z",
+			"content": "<p>Seems to work fine for me on Vivaldi for macOS. What browser are you using?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz26bp4qps2t",
+			"parentId": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lz262do5cc2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz26bp4qps2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T15:40:44.770Z",
+			"content": "<p>hmm — not in Vivaldi either, but I tested in Safari, Firefox, and Chrome.</p>\n<p>the US site, to be specific</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lz26hglvoc2v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz26bp4qps2t",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3lz26hglvoc2v",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-09-17T15:43:57.158Z",
+			"content": "<p>The NL site too, super broken.</p>\n<p>The shortcut icon is <a href=\"https://www.microsoft.com/favicon.ico?v2\">www.microsoft.com/favicon.ico?v2</a> and that returns a 200 code but a broken image.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3lz26ipaxhk2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/papa.yaga.gay/post/3lz26ipaxhk2x",
+			"private": true,
+			"date": "2025-09-17T15:44:39.790Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz26ldg54227",
+			"parentId": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3lz26ipaxhk2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz26ldg54227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T15:46:08.041Z",
+			"content": "<p>if you’re cold, your icon is (in) cold (storage) — let it inside</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz26lnj42s27",
+			"parentId": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3lz26ipaxhk2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz26lnj42s27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T15:46:18.623Z",
+			"content": "<p>(incredible work)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lz26lsfgyk2x",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lz26hglvoc2v",
+			"url": "https://bsky.app/profile/benmyers.dev/post/3lz26lsfgyk2x",
+			"author": {
+				"name": "Ben Myers",
+				"url": "https://bsky.app/profile/benmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml5axo24i4xibb4rdfwgzrle/bafkreignrv6se54v3yuuyhp57emnrg4z3jws3k3oro5ur44yjt2qkdaiiy"
+			},
+			"date": "2025-09-17T15:46:23.746Z",
+			"content": "<p>Thanks, y'all! I'll pass this on best I can.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz26ne5r3s27",
+			"parentId": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lz26lsfgyk2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz26ne5r3s27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T15:47:15.924Z",
+			"content": "<p>thank you! 😍</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lz26o5i5pk2v",
+			"parentId": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lz26lsfgyk2x",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3lz26o5i5pk2v",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-09-17T15:47:42.478Z",
+			"content": "<p>from: Ben<br>\nto: Satya</p>\n<p>hey buddy, favicon's broken!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz273hot7k2i",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lz26hglvoc2v",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3lz273hot7k2i",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2025-09-17T15:55:09.390Z",
+			"content": "<p>works just fine in Edge for the US and US sites</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz27lweqfs2z",
+			"parentId": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz273hot7k2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz27lweqfs2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T16:04:21.659Z",
+			"content": "<p>huh — I’ve tested on multiple computers and that isn’t my experience on Edge either</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz27sgg5jc2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz27lweqfs2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz27sgg5jc2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T16:07:59.810Z",
+			"content": "<p>just tested on a Windows machine — also broken there</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz2aryfr2k2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz27sgg5jc2z",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3lz2aryfr2k2i",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2025-09-17T16:25:38.859Z",
+			"content": "<p>Working on my Windows 10 and Windows 11 PCs in shipping Edge from the UK (for both US and UK sites); Edge deprecates favicons so I have to click in to the address bar to see it but it's there and on the title bar</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz2aspcffc2i",
+			"parentId": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz2aryfr2k2i",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3lz2aspcffc2i",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2025-09-17T16:26:02.866Z",
+			"content": "<p>I'd guess at a CDN thing</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz2axj4sxs2i",
+			"parentId": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz2aspcffc2i",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3lz2axj4sxs2i",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2025-09-17T16:28:44.164Z",
+			"content": "<p>I have Privacy Badger enabled, uBlock Origin and tracking protection set to strict and I still see the favicon - an ad blocker *might* cause problems but I still guess CDN</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz2azm6wqs23",
+			"parentId": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz2aryfr2k2i",
+			"url": "https://bsky.app/profile/alexdln.com/post/3lz2azm6wqs23",
+			"author": {
+				"name": "Alex",
+				"url": "https://bsky.app/profile/alexdln.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:er6erflnnxcozlbqmrpflt6h/bafkreieroaneiobsowwop7dvxchj6kofurkgo5mupns5yuagvrjg7y2jsy"
+			},
+			"date": "2025-09-17T16:29:54.487Z",
+			"content": "<p>This might be a stupid question, but did you check in incognito?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz2bahhqtk23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alexdln.com/post/3lz2bahhqtk23",
+			"author": {
+				"name": "Alex",
+				"url": "https://bsky.app/profile/alexdln.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:er6erflnnxcozlbqmrpflt6h/bafkreieroaneiobsowwop7dvxchj6kofurkgo5mupns5yuagvrjg7y2jsy"
+			},
+			"date": "2025-09-17T16:33:44.414Z",
+			"content": "<p>I found original favicon. It was lost on September 4th!<br>\n<a href=\"https://web.archive.org/web/20250903201138/https://www.microsoft.com/favicon.ico\">web.archive.org/web/20250903...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz2biavsmk2n",
+			"parentId": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz2azm6wqs23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz2biavsmk2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T16:38:05.971Z",
+			"content": "<p>fwiw I tested in plenty of hardware/software/VPN combinations</p>\n<p>the problem is that <a href=\"https://microsoft.com\">microsoft.com</a> points to <a href=\"https://www.microsoft.com/favicon.ico?v2\">www.microsoft.com/favicon.ico?v2</a> in markup (which is a corrupted icon per multiple image editing tools I tested)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pkzt5mk76dc3fnd7w7l7veyr/app.bsky.feed.post/3lz2bnww4kc2w",
+			"parentId": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lz2axj4sxs2i",
+			"url": "https://bsky.app/profile/rreverser.com/post/3lz2bnww4kc2w",
+			"author": {
+				"name": "Ingvar Stepanyan",
+				"url": "https://bsky.app/profile/rreverser.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pkzt5mk76dc3fnd7w7l7veyr/bafkreiav6mrc4pmvkth5jvs6kayu6omnpdvpnvgvi2aywcgmykyo6wirby"
+			},
+			"date": "2025-09-17T16:41:16.822Z",
+			"content": "<p>Doesn't work for me either, <a href=\"https://www.microsoft.com/favicon.ico\">www.microsoft.com/favicon.ico</a> returns a clearly broken image file.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz2br6xwb22z",
+			"parentId": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz2bahhqtk23",
+			"url": "https://bsky.app/profile/alexdln.com/post/3lz2br6xwb22z",
+			"author": {
+				"name": "Alex",
+				"url": "https://bsky.app/profile/alexdln.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:er6erflnnxcozlbqmrpflt6h/bafkreieroaneiobsowwop7dvxchj6kofurkgo5mupns5yuagvrjg7y2jsy"
+			},
+			"date": "2025-09-17T16:43:05.933Z",
+			"content": "<p>What's more, the problem isn't related to the tests (at least not the actual testing) or query parameters. On September 3rd, the file with ?v2 was still working. Then either they updated the response of this file, or they simply lost the files.</p>\n<p>I don't know why I checked this 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz2buugioc2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz2biavsmk2n",
+			"url": "https://bsky.app/profile/alexdln.com/post/3lz2buugioc2i",
+			"author": {
+				"name": "Alex",
+				"url": "https://bsky.app/profile/alexdln.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:er6erflnnxcozlbqmrpflt6h/bafkreieroaneiobsowwop7dvxchj6kofurkgo5mupns5yuagvrjg7y2jsy"
+			},
+			"date": "2025-09-17T16:45:09.094Z",
+			"content": "<p>This is more a question for those who have it working.</p>\n<p>The favicon is usually cached for a year, so it's displayed for many. Although, it's possible in some countries it's cached at the CDN level and is still being served...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz2byizyus24",
+			"parentId": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz2br6xwb22z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz2byizyus24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-17T16:47:11.368Z",
+			"content": "<p>good investigation!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dwb2trj3w2atfbsxuh2fpefi/app.bsky.feed.post/3lz3soqtp2k2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fedosov.me/post/3lz3soqtp2k2t",
+			"author": {
+				"name": "Den",
+				"url": "https://bsky.app/profile/fedosov.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dwb2trj3w2atfbsxuh2fpefi/bafkreiabq3enfoqkx5yaz34y6wyvxfrar5xpk3yxvwlesztgpwm7n3up3e"
+			},
+			"date": "2025-09-18T07:18:37.355Z",
+			"content": "<p>Maybe Copilot still trying to fix automatically...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lz3ycme5k22g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz2biavsmk2n",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3lz3ycme5k22g",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-09-18T08:59:12.448Z",
+			"content": "<p>It's fixed for me!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:er6erflnnxcozlbqmrpflt6h/app.bsky.feed.post/3lz4i5ntm322j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alexdln.com/post/3lz4i5ntm322j",
+			"author": {
+				"name": "Alex",
+				"url": "https://bsky.app/profile/alexdln.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:er6erflnnxcozlbqmrpflt6h/bafkreieroaneiobsowwop7dvxchj6kofurkgo5mupns5yuagvrjg7y2jsy"
+			},
+			"date": "2025-09-18T13:42:46.100Z",
+			"content": "<p>Looks like the favicon is back. Butterfly magic!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lz4idqkqkk24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lz4idqkqkk24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-18T13:46:10.282Z",
+			"content": "<p>it’s fixed! thanks to the folks that escalated my terrible social media bug report</p>",
+			"via": "bluesky"
+		}
+	]
+}

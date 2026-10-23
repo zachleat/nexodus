@@ -1,0 +1,25 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:nqdmi47h5sg7ye3sp5dwmjkp/app.bsky.feed.post/3mqgxiiv27c23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lugshar.pl/post/3mqgxiiv27c23",
+			"private": true,
+			"date": "2026-07-12T10:23:20.953Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mqjvkmyqqc2g",
+			"parentId": "at://did:plc:nqdmi47h5sg7ye3sp5dwmjkp/app.bsky.feed.post/3mqgxiiv27c23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mqjvkmyqqc2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-07-13T14:26:44.110Z",
+			"content": "<p>yes — the way FIFA publish the data and show visualizations has been pretty horrendously bad. more data, less credibility</p>",
+			"via": "bluesky"
+		}
+	]
+}

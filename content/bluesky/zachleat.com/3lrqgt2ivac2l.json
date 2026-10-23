@@ -1,0 +1,46 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:v2oscvs3oqha7xhxbm7bt23o/app.bsky.feed.post/3lrqh3tvdss2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/claimnoshame.bsky.social/post/3lrqh3tvdss2f",
+			"author": {
+				"name": "misha",
+				"url": "https://bsky.app/profile/claimnoshame.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:v2oscvs3oqha7xhxbm7bt23o/bafkreig2bhzk2coxfglgho4dhr4n67wsqehgwjispkdyxl3qhcvey4ng4y"
+			},
+			"date": "2025-06-16T16:55:33.344Z",
+			"content": "<p>insert &lt;xkcd random person in Nebraska thanklessly maintaining webcomic&gt; here</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jqacnthuxhn44p3g5vuax5rt/app.bsky.feed.post/3lrqmpjoj2s2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davidmoll.net/post/3lrqmpjoj2s2y",
+			"author": {
+				"name": "David Moll",
+				"url": "https://bsky.app/profile/davidmoll.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jqacnthuxhn44p3g5vuax5rt/bafkreih4q52iy7qd4ovseiaft4jjjvwfjcsiy4at56pw4yzu6hnia5oggi"
+			},
+			"date": "2025-06-16T18:36:02.432Z",
+			"content": "<p>Shoutout to <a href=\"https://bsky.app/profile/did:plc:q4jmx4y3kob3eeub2clnjrva\">@home-assistant.io</a> who are amazing at making things just work</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7tsv4wd4ggnv7zctvt3eqyj7/app.bsky.feed.post/3lrsxia2poc27",
+			"parentId": "at://did:plc:jqacnthuxhn44p3g5vuax5rt/app.bsky.feed.post/3lrqmpjoj2s2y",
+			"url": "https://bsky.app/profile/adorablecyb.org/post/3lrsxia2poc27",
+			"private": true,
+			"date": "2025-06-17T16:54:08.100Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7tsv4wd4ggnv7zctvt3eqyj7/app.bsky.feed.post/3lrsxib73qc27",
+			"parentId": "at://did:plc:7tsv4wd4ggnv7zctvt3eqyj7/app.bsky.feed.post/3lrsxia2poc27",
+			"url": "https://bsky.app/profile/adorablecyb.org/post/3lrsxib73qc27",
+			"private": true,
+			"date": "2025-06-17T16:54:08.101Z",
+			"via": "bluesky"
+		}
+	]
+}

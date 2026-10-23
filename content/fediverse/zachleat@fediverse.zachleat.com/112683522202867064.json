@@ -1,0 +1,225 @@
+{
+	"comments": [
+		{
+			"id": "112683873768685455",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112683873768685455",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-26T16:31:00.580Z",
+			"content": "<p>The other lesson here is in the real consequences of maintainers (even those with a small following) airing small dev grievances on Twitter (Svelte/SvelteKit in this case).</p><p>The parasitically harmful YouTube JavaScript influencer ecosystem feeds on small drama like this, resulting in elevated abuse toward well-intentioned maintainers—pretty gross all around.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112683902191025687",
+			"parentId": "112683873768685455",
+			"url": "https://fosstodon.org/@ematipico/112683901867107226",
+			"author": {
+				"name": "Emanuele Stoppa",
+				"url": "https://fosstodon.org/@ematipico",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/529/543/013/765/525/original/531b26a595823c68.png"
+			},
+			"date": "2024-06-26T16:38:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Totally agree with this take. Hopefully we'll get better</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112683907839601132",
+			"parentId": 0,
+			"url": "https://ruby.social/@konnorrogers/112683907779949255",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-06-26T16:39:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You're onto something here.Also packages that explicitly require bundlers.</p><p>I promise I'm not here to air more small dev grievances, but on a sister repository I was told that the proper way to ship libraries is untranspiled CJS.</p><p>Which gets back to your point of \"is this package intended to run in a browser\" and \"can this run without a compilation step or Node polyfills etc\"</p><p>(For reference)</p><p><a href=\"https://github.com/A11yance/aria-query/pull/485\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/A11yance/aria-query</span><span class=\"invisible\">/pull/485</span></a></p><p>NPM needs some tags!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112683914758977740",
+			"parentId": "112683907839601132",
+			"url": "https://ruby.social/@konnorrogers/112683914720518531",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-06-26T16:41:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The other problem when you \"make these agreements\", is usually someone else has also made the agreement for you, making it even harder to track down.</p><p>In the \"aria-query\" example, its a dependency of dom-testing-library, and I hit the issue while using react-testing-library, which relies on dom-testing-library, which relies on aria-query</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112684020260155856",
+			"parentId": 0,
+			"url": "https://indieweb.social/@McNeely/112684020242067151",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2024-06-26T17:08:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wait what happened now?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112684070453917941",
+			"parentId": "112684020260155856",
+			"url": "https://fediverse.zachleat.com/@zachleat/112684070453917941",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-26T17:21:01.761Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\">@<span>McNeely</span></a></span> it’s not worth it 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112684103597388066",
+			"parentId": "112684070453917941",
+			"url": "https://indieweb.social/@McNeely/112684103446837253",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2024-06-26T17:29:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> too late. You were correct though!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112686846254644157",
+			"parentId": "112683873768685455",
+			"url": "https://mas.to/@nmoo/112686846226520469",
+			"author": {
+				"name": "nate",
+				"url": "https://mas.to/@nmoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/195/614/148/293/original/d5e5c7732ffbde1c.jpg"
+			},
+			"date": "2024-06-27T05:06:56.000Z",
+			"content": "<p>The algorithm fueled pile-ons have been getting much worse.</p><p>Taking up farming sounds more appealing by the day…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112686910962600571",
+			"parentId": "112686846254644157",
+			"url": "https://indieweb.social/@thomasreggi/112686910938637851",
+			"author": {
+				"name": "tea 🌺",
+				"url": "https://indieweb.social/@thomasreggi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/772/351/453/289/original/0e45a5e31367e7a1.jpg"
+			},
+			"date": "2024-06-27T05:23:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@nmoo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nmoo</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  Where can I read more about this \"axobject-query incident\"?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112687409459510988",
+			"parentId": "112686846254644157",
+			"url": "https://hachyderm.io/@andokai/112687409407508190",
+			"author": {
+				"name": "Andrew Ahearne",
+				"url": "https://hachyderm.io/@andokai",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/339/687/147/712/588/original/b2a849b29984edd8.jpg"
+			},
+			"date": "2024-06-27T07:30:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@nmoo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nmoo</span></a></span> Weren’t farmers the original inventors of pitchfork wielding angry mobs? 🙂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112687668550361735",
+			"parentId": 0,
+			"url": "https://flaki.social/@flaki/112687668524309187",
+			"author": {
+				"name": "Flaki",
+				"url": "https://flaki.social/@flaki",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/315/100/329/990/772/original/74ebe12d2f7e951a.jpg"
+			},
+			"date": "2024-06-27T08:36:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this has been soo weird to me, and *particularly* since Wasm came about and people started compiling JS engines to Wasm (for small embedded scripting systems &amp; for sandboxing). While \"systems\" languages like Rust has a notion of std/nostd to cater for embedded &amp; Wasm and a ton of other usecases the best we got is WinterCG but otherwise the JS ecosystem likes to pretend every script still runs in Netscape Navigator 4.0 and there aren't like 796 different embeddings of V8 and a 100 other JS engines and runtimes in mobile apps, the cloud, the edge, in space suits and bloated desktop apps...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112688772522390267",
+			"parentId": "112686910962600571",
+			"url": "https://fediverse.zachleat.com/@zachleat/112688772522390267",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-27T13:16:49.632Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@thomasreggi\" class=\"u-url mention\">@<span>thomasreggi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@nmoo\" class=\"u-url mention\">@<span>nmoo</span></a></span> <a href=\"https://socket.dev/blog/maintainer-faces-backlash-over-controversial-decision-to-support-legacy-node\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">socket.dev/blog/maintainer-fac</span><span class=\"invisible\">es-backlash-over-controversial-decision-to-support-legacy-node</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112688777223281784",
+			"parentId": "112686846254644157",
+			"url": "https://fediverse.zachleat.com/@zachleat/112688777223281784",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-27T13:18:01.362Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@nmoo\" class=\"u-url mention\">@<span>nmoo</span></a></span> the Fox-newsification of *everything*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112688785021922871",
+			"parentId": "112687668550361735",
+			"url": "https://fediverse.zachleat.com/@zachleat/112688785021922871",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-27T13:20:00.358Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://flaki.social/@flaki\" class=\"u-url mention\">@<span>flaki</span></a></span> “the JS ecosystem likes to pretend every script still runs in Netscape Navigator 4.0” that doesn’t resonate with my experience—do you think this is a widespread thing or just this one person?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112688826090003834",
+			"parentId": "112688785021922871",
+			"url": "https://flaki.social/@flaki/112688826061598595",
+			"author": {
+				"name": "Flaki",
+				"url": "https://flaki.social/@flaki",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/315/100/329/990/772/original/74ebe12d2f7e951a.jpg"
+			},
+			"date": "2024-06-27T13:30:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm sure part of the (source of the) problem is the \"I cannot possibly know of and/or cater for every runtime and every usecase\" which is a hard ~~computer~~ social problem to solve, particularly for OSS \"provided as is and without fitness for any purpose\" etc., and while above I've certainly been exaggerating somewhat, I more meant it in that JS still can't or doesn't want to recognize just how widespread/abundant it is, and while individual devs can argue that they shouldn't be required to support every use case (the certainly needn't!), centrals gatekeepers such as npm has been excruciatingly slow to react to this diversification...</p><p>(part of the reason, of course, is *having* central gatekeepers like npm in the first place, but while I really like e.g. Deno's approach where Ryan &amp; co tried to fix this particular mistake, it's a mistake we're likely stuck with for good...)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112688862493903079",
+			"parentId": "112688826090003834",
+			"url": "https://fediverse.zachleat.com/@zachleat/112688862493903079",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-27T13:39:42.487Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://flaki.social/@flaki\" class=\"u-url mention\">@<span>flaki</span></a></span> ah, yeah—that makes more sense. Certainly “JS still can&#39;t or doesn&#39;t want to recognize just how widespread/abundant it is.”</p><p>I don’t think I agree that centralization is the root problem though. I don’t see Deno fixing this either. I see something like Google’s Baseline as a path forward here—each package needs to declare it’s intended use and compatibility.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112688917799215335",
+			"parentId": "112688862493903079",
+			"url": "https://flaki.social/@flaki/112688917769224772",
+			"author": {
+				"name": "Flaki",
+				"url": "https://flaki.social/@flaki",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/315/100/329/990/772/original/74ebe12d2f7e951a.jpg"
+			},
+			"date": "2024-06-27T13:53:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> TIL Baseline! Which feels like it's for the web what is <a href=\"https://wintercg.org\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wintercg.org</span><span class=\"invisible\"></span></a> for edge/cloud/embedded. Maybe with time we will have more standards (and more standard recognition/tooling) for this, and I agree that would get us into a whole lotta better place.</p>",
+			"via": "fediverse"
+		}
+	]
+}

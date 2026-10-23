@@ -1,0 +1,553 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:syq6rmmuepxy7vmd572bwyfu/app.bsky.feed.post/3lptr7y6ixc2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/johnfallsopp.com/post/3lptr7y6ixc2o",
+			"author": {
+				"name": "John Allsopp",
+				"url": "https://bsky.app/profile/johnfallsopp.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:syq6rmmuepxy7vmd572bwyfu/bafkreiedz2afwulqhjlcyjzeg62dfu4zqwhyd7aznv6hpduxnxvtqb26ym"
+			},
+			"date": "2025-05-23T13:44:25.432Z",
+			"content": "<p>A while back I accidentally wiped two ancient sites. Had no original source. Grabbed it from <a href=\"https://archive.org\">archive.org</a> and got them back up and running. Then promptly forgot where I was hosting them!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lptrmyp6js2q",
+			"parentId": "at://did:plc:syq6rmmuepxy7vmd572bwyfu/app.bsky.feed.post/3lptr7y6ixc2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lptrmyp6js2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T13:51:42.188Z",
+			"content": "<p>I love <a href=\"https://archive.org\">archive.org</a> so much</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lptu523qqk23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lptu523qqk23",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-05-23T14:36:28.001Z",
+			"content": "<p>If it's WordPress, <a href=\"https://bsky.app/profile/did:plc:6z7y3krt7ze2tp5vtmanw4wb\">@roots.io</a> tools can help you keep it in version control, and this set of actions and workflows can help you make \"releases\" of the site (complete with database and uploads backup).</p>\n<p>These tools took moving WordPress sites from a week-long cross-your-fingers process to around 20min</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lptu5hywtk23",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lptu523qqk23",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lptu5hywtk23",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-05-23T14:36:42.591Z",
+			"content": "<p><a href=\"https://github.com/MWDelaney/trellis-github-deployment\">github.com/MWDelaney/tr...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lptvorete223",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lptu5hywtk23",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lptvorete223",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-05-23T15:04:16.583Z",
+			"content": "<p>Oh hey, I totally forgot about this one. This should still work to ease the transition from a traditional WordPress site to a <a href=\"https://bsky.app/profile/did:plc:6z7y3krt7ze2tp5vtmanw4wb\">@roots.io</a> Bedrock structure.</p>\n<p><a href=\"https://github.com/MWDelaney/lithify\">github.com/MWDelaney/li...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4ro56gbge42enizovzvvw5sn/app.bsky.feed.post/3lptwuw7cck2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/programmerman.net/post/3lptwuw7cck2d",
+			"private": true,
+			"date": "2025-05-23T15:25:36.715Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:j22f6ka2ytwhnev7xllyeemx/app.bsky.feed.post/3lptyrb7dz22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tranquiltortoise82.bsky.social/post/3lptyrb7dz22o",
+			"author": {
+				"name": "tranquiltortoise82.bsky.social",
+				"url": "https://bsky.app/profile/tranquiltortoise82.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j22f6ka2ytwhnev7xllyeemx/bafkreiam2nmopkrilhj7bjxpby47b2osggbkap5v4eswjucokpsugm2va4"
+			},
+			"date": "2025-05-23T15:59:21.517Z",
+			"content": "<p>What made you migrate from AWS and eventually drew you to Cloudflare? I am weighing options for web-hosting and it’s a bit overwhelming for a newbie.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:a64baelxsmvy6aonnbfhbirv/app.bsky.feed.post/3lpu3mmjhls2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tfedder.de/post/3lpu3mmjhls2i",
+			"author": {
+				"name": "Tobias Fedder",
+				"url": "https://bsky.app/profile/tfedder.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:a64baelxsmvy6aonnbfhbirv/bafkreigcjhsxk6uz4plibvdto6t23vicadmispnvgq2hlpj23x2fyilngy"
+			},
+			"date": "2025-05-23T16:50:26.835Z",
+			"content": "<p>Excellent question! So I had to look up the TTL of my domain’s A record: 150 s.<br>\nOkay, okay, maybe add 15 min to set up a new server,<br>\nplus — obviously — the number of days until I notice my web site is down.</p>\n<p>Thanks <a href=\"https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2\">@11ty.dev</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:v7iraphzme5vstlougdoc5cp/app.bsky.feed.post/3lpuc7zblyk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/austingil.com/post/3lpuc7zblyk2t",
+			"author": {
+				"name": "Austin Gil",
+				"url": "https://bsky.app/profile/austingil.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:v7iraphzme5vstlougdoc5cp/bafkreihu4rbdtnz7fctlvpnk7q2yghnd6gprecare2uerftmrfswadbpza"
+			},
+			"date": "2025-05-23T18:48:40.193Z",
+			"content": "<p>NGL, <a href=\"https://bsky.app/profile/did:plc:atx24s5rfszl2w6qhhjsk4p6\">@coolify.io</a> makes it super easy. Probably within a day:<br>\n- Setup new host<br>\n- install coolify with 1 .sh command<br>\n- connect my git repo<br>\n- deploy</p>\n<p>I guess I'd also have to fiddle with dns, but <a href=\"https://bsky.app/profile/did:plc:dxdjdpz5ebvsjzxcm3j7xxsz\">@heyandras.dev</a> has done a real good job on this :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpucqerub22l",
+			"parentId": "at://did:plc:v7iraphzme5vstlougdoc5cp/app.bsky.feed.post/3lpuc7zblyk2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpucqerub22l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T18:57:49.132Z",
+			"content": "<p>nice!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ka6432pfe364n2kjrfhi7aro/app.bsky.feed.post/3lpudgpttvc27",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lptvorete223",
+			"url": "https://bsky.app/profile/chance.dev/post/3lpudgpttvc27",
+			"author": {
+				"name": "Chance",
+				"url": "https://bsky.app/profile/chance.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ka6432pfe364n2kjrfhi7aro/bafkreihpirsrdqzw4bcqsekfuzo6xh3aienjl57iggo2dbze7nttp573iu"
+			},
+			"date": "2025-05-23T19:10:18.929Z",
+			"content": "<p>Haven’t built on WP in years but the Roots folks always made it a joy</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3lpudyaqidk2w",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lptvorete223",
+			"url": "https://bsky.app/profile/knowler.dev/post/3lpudyaqidk2w",
+			"private": true,
+			"date": "2025-05-23T19:20:07.071Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lpuehzc5hs2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3lpuehzc5hs2a",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2025-05-23T19:28:56.132Z",
+			"content": "<p>I extremely over-index on this... but the world keeps proving me right over and over that it's a good idea to have this kind of agility.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpuezbj55k23",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lpuehzc5hs2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpuezbj55k23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T19:38:35.175Z",
+			"content": "<p>You’re doing it right! There is no such thing as “too portable”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6kqpljoz4r7ttyhofw6sg2km/app.bsky.feed.post/3lpuf7rkm7k27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ellioth.co/post/3lpuf7rkm7k27",
+			"author": {
+				"name": "elliot",
+				"url": "https://bsky.app/profile/ellioth.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6kqpljoz4r7ttyhofw6sg2km/bafkreifjcuggujflt4iukgwwolwlrechu3c5yvlra3yyyuqgchhxcnr4cq"
+			},
+			"date": "2025-05-23T19:42:13.326Z",
+			"content": "<p>a few minutes, depending on upload/download speeds and DNS</p>\n<p>only because my site is fully static since it was generated with 11ty! thanks for making such a cool thing, I love plain html and css, but it's such a pain to do everything manually without such a nice static site generator</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lpuftz2u2s2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3lpuftz2u2s2l",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-05-23T19:53:32.288Z",
+			"content": "<p>A day, roughly. I know this because I had to when my previous host started redirecting URLs randomly to porn sites (!) I immediately bailed to Mythic Beasts, who I’ve been very happy with since :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpugehjks224",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lpuftz2u2s2l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpugehjks224",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T20:02:44.320Z",
+			"content": "<p>…WHAT</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpugfeqcvk24",
+			"parentId": "at://did:plc:6kqpljoz4r7ttyhofw6sg2km/app.bsky.feed.post/3lpuf7rkm7k27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpugfeqcvk24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T20:03:14.951Z",
+			"content": "<p>you’re very welcome!! 🙌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lpugjw54kc2l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpugehjks224",
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3lpugjw54kc2l",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-05-23T20:05:47.413Z",
+			"content": "<p>Yup. It was apparently upstream of them: my host used godaddy and they were the ones causing the problem. <a href=\"https://community.cloudflare.com/t/redirecting-to-unwanted-sites/445551\">community.cloudflare.com/t/redirectin...</a> has a record of it. But I was, not surprisingly, out the door as fast as my legs would carry me.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lpugmxva5s2l",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lpugjw54kc2l",
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3lpugmxva5s2l",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-05-23T20:07:29.904Z",
+			"content": "<p>Not happy about it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpugq3ixxs2y",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lpugmxva5s2l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lpugq3ixxs2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T20:09:14.371Z",
+			"content": "<p>that is incredibly *WILD*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3lpuoctt2u22s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/collinsworth.dev/post/3lpuoctt2u22s",
+			"author": {
+				"name": "Josh Collinsworth",
+				"url": "https://bsky.app/profile/collinsworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr7ktxokjqc2suwnook4k73h/bafkreigotpy47tpnxj2sptza4bsjtdebl4dqyfk6ovvrb26prjpytiinjq"
+			},
+			"date": "2025-05-23T22:25:00.039Z",
+			"content": "<p>Fun thought exercise. I'd have to rethink my contact form and find a new way to handle redirects, but aside from that (which wouldn't be a big deal), I could be moved in a lunch break, I think.</p>\n<p>Honestly I'd spend *way* more time figuring out where to move than actually doing it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5aggfgiwmdyopemacj7hj473/app.bsky.feed.post/3lpur6cxoec23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/syllie.bsky.social/post/3lpur6cxoec23",
+			"author": {
+				"name": "Syllie",
+				"url": "https://bsky.app/profile/syllie.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5aggfgiwmdyopemacj7hj473/bafkreieplsjbsybliwvbmdhzytwxj2dssikud4ev7vj32qidkjfwphdrb4"
+			},
+			"date": "2025-05-23T23:16:09.374Z",
+			"content": "<p>Yes! It is something I discuss with my clients too. Prevent lock-in and choose wisely. There are still companies that offer a great 'first bill deal' and bet on it being too much of a hassle to leave so they rack up the pricing the next bill by 500% or more. At least separate services.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:syq6rmmuepxy7vmd572bwyfu/app.bsky.feed.post/3lpurthxli22q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lptrmyp6js2q",
+			"url": "https://bsky.app/profile/johnfallsopp.com/post/3lpurthxli22q",
+			"author": {
+				"name": "John Allsopp",
+				"url": "https://bsky.app/profile/johnfallsopp.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:syq6rmmuepxy7vmd572bwyfu/bafkreiedz2afwulqhjlcyjzeg62dfu4zqwhyd7aznv6hpduxnxvtqb26ym"
+			},
+			"date": "2025-05-23T23:27:59.256Z",
+			"content": "<p>the library of Alexandria for our time.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nnn7hle65gspngcmwf4jar7w/app.bsky.feed.post/3lpuslx35q22n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bobmonsour.com/post/3lpuslx35q22n",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://bsky.app/profile/bobmonsour.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nnn7hle65gspngcmwf4jar7w/bafkreifo2mfr56qzeojg52yc7mjs54ba7pun5ywe4l63ya7mgt6ek2lc4a"
+			},
+			"date": "2025-05-23T23:41:40.409Z",
+			"content": "<p>It would depend on how much time I need to spend pointing to new name servers.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:v7iraphzme5vstlougdoc5cp/app.bsky.feed.post/3lpuuqkw4p22t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpucqerub22l",
+			"url": "https://bsky.app/profile/austingil.com/post/3lpuuqkw4p22t",
+			"author": {
+				"name": "Austin Gil",
+				"url": "https://bsky.app/profile/austingil.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:v7iraphzme5vstlougdoc5cp/bafkreihu4rbdtnz7fctlvpnk7q2yghnd6gprecare2uerftmrfswadbpza"
+			},
+			"date": "2025-05-24T00:20:02.911Z",
+			"content": "<p>Yeah, give it a try some time. It supports all sorts of run times too.</p>\n<p>I probably missed a step or two above, but in the theme or portability, when you own your own server and deployment software, it's really easy to move from one vps to another :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3lpvjhde45k2d",
+			"parentId": "at://did:plc:nnn7hle65gspngcmwf4jar7w/app.bsky.feed.post/3lpuslx35q22n",
+			"url": "https://bsky.app/profile/simoncox.com/post/3lpvjhde45k2d",
+			"author": {
+				"name": "SimonCox",
+				"url": "https://bsky.app/profile/simoncox.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tki7vwlanxbwrz2er67eaeqa/bafkreiabali2634y2slw3yiixyfgxibw6qhnvmp6imzbvyuflezvkjg4em"
+			},
+			"date": "2025-05-24T06:30:41.574Z",
+			"content": "<p>Exactly this. But I also still have some apache hosting I could ftp the site to in 5 mins and then do the switch, so loads of options. <br>\nNever felt this resilient before <a href=\"https://bsky.app/hashtag/11ty\">#11ty</a>.</p>\n<p>Also I am sort of interested in exploring a solar powered self hosted server one day for the shits and giggles.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lpvlhsc3g224",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bell.bz/post/3lpvlhsc3g224",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2025-05-24T07:06:44.720Z",
+			"content": "<p>I reckon <a href=\"https://piccalil.li\">piccalil.li</a> could be in a new home and live within the hour because of cloudflare dns</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lpvp3kzgxs2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mk.gg/post/3lpvp3kzgxs2j",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-05-24T08:11:29.411Z",
+			"content": "<p>This was one of the worst aspects of original Remix: switching hosts required replacing multiple files throughout the site. The best way was usually to create a whole new site from the new host's template and copy over the pages.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:w5kwr6fli3jwllz5w52a7esk/app.bsky.feed.post/3lpvplc2bm226",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zettberlin.bsky.social/post/3lpvplc2bm226",
+			"author": {
+				"name": "zettberlin",
+				"url": "https://bsky.app/profile/zettberlin.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:w5kwr6fli3jwllz5w52a7esk/bafkreiavltqn6ak4lt5jwfatlicwxhrjq3ugifq7l3cjfx5q7p7z2jcl5i"
+			},
+			"date": "2025-05-24T08:20:16.873Z",
+			"content": "<p>Whithin 30 minutes plus content download time...<br>\nEffectively migration of one of our sites at hand would thus take about 8h.</p>\n<p>We build web applications for planning, building and managing infrastructure and forestation, mapping, statistics, controlling etc...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lpvrwpxfe22s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3lpvrwpxfe22s",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2025-05-24T09:02:28.041Z",
+			"content": "<p>An hour? Zach have you *heard* of DNS??</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dxdjdpz5ebvsjzxcm3j7xxsz/app.bsky.feed.post/3lpwrtyb56s2h",
+			"parentId": "at://did:plc:v7iraphzme5vstlougdoc5cp/app.bsky.feed.post/3lpuc7zblyk2t",
+			"url": "https://bsky.app/profile/heyandras.dev/post/3lpwrtyb56s2h",
+			"author": {
+				"name": "Andras Bacsai",
+				"url": "https://bsky.app/profile/heyandras.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dxdjdpz5ebvsjzxcm3j7xxsz/bafkreiamxjczqaqm6tvc43i7zq7oaa3nef5rp5qccrscwrp37y4zraaqti"
+			},
+			"date": "2025-05-24T18:33:35.823Z",
+			"content": "<p>💜</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqad6dqkes2n",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lpvrwpxfe22s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqad6dqkes2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T13:37:34.664Z",
+			"content": "<p>well, portability during an outage is a bigger problem 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqad6si5722n",
+			"parentId": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lpvp3kzgxs2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqad6si5722n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T13:37:50.116Z",
+			"content": "<p>oof!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqadfp65l22n",
+			"parentId": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3lpvjhde45k2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqadfp65l22n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T13:41:41.524Z",
+			"content": "<p>Amazing 😍</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3lqafrvmzu226",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lpugjw54kc2l",
+			"url": "https://bsky.app/profile/pierbover.com/post/3lqafrvmzu226",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2025-05-28T14:24:18.440Z",
+			"content": "<p>Godaddy is the devil</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lqafsfabgs2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lqafsfabgs2s",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2025-05-28T14:24:34.800Z",
+			"content": "<p>Also: how long would it take to *redesign* your site? <br>\n(Asking for a friend … 😂)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3lqag5tlc5s26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/pierbover.com/post/3lqag5tlc5s26",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2025-05-28T14:30:58.940Z",
+			"content": "<p>Minutes for static sites. Just drag and drop and wait for DNS to propagate.</p>\n<p>Apps... it would depend on the app. Between hours and days. Usually just finding a new container hosting.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3lqag5udmi226",
+			"parentId": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3lqag5tlc5s26",
+			"url": "https://bsky.app/profile/pierbover.com/post/3lqag5udmi226",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2025-05-28T14:30:58.941Z",
+			"content": "<p>I do have a single app that is deeply coupled to Cloudflare Workers and KV and for that I have no answer.</p>\n<p>I was hoping Deno Deploy KV would be the answer but that's apparently gone now.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lyew7bhze3doamzbv46mygfh/app.bsky.feed.post/3lqagefapdc2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/deadparrot.dev/post/3lqagefapdc2v",
+			"author": {
+				"name": "Stefan Baumgartner",
+				"url": "https://bsky.app/profile/deadparrot.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lyew7bhze3doamzbv46mygfh/bafkreiezirnbfjq63rfcm3h5aizgwiavqyss2qlzuruaktqsyatnsl4ogi"
+			},
+			"date": "2025-05-28T14:34:38.793Z",
+			"content": "<p>Thanks to 11ty, Zach, I was able to move it to a new host within minutes, Zach, waiting for DNS to catch up, Zach.</p>\n<p>Multiple times.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqagjm7vqs2t",
+			"parentId": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lqafsfabgs2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqagjm7vqs2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T14:37:33.880Z",
+			"content": "<p>don’t you dare plant that thought in my brain</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqagkmn2a22t",
+			"parentId": "at://did:plc:lyew7bhze3doamzbv46mygfh/app.bsky.feed.post/3lqagefapdc2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqagkmn2a22t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T14:38:07.865Z",
+			"content": "<p>Amazing!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3lqainfjwbx2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqadfp65l22n",
+			"url": "https://bsky.app/profile/simoncox.com/post/3lqainfjwbx2w",
+			"author": {
+				"name": "SimonCox",
+				"url": "https://bsky.app/profile/simoncox.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tki7vwlanxbwrz2er67eaeqa/bafkreiabali2634y2slw3yiixyfgxibw6qhnvmp6imzbvyuflezvkjg4em"
+			},
+			"date": "2025-05-28T15:15:28.502Z",
+			"content": "<p>It gets better - my personal site deploys to both Cloudflare and Netlify every time. I have immediate backup with a dns change if anything goes pants up.</p>",
+			"via": "bluesky"
+		}
+	]
+}

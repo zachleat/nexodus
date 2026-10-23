@@ -1,0 +1,173 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:c2elcig7pt6yeihcq3odnrcm/app.bsky.feed.post/3logofiyvds2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dangitalex.wtf/post/3logofiyvds2m",
+			"author": {
+				"name": "Alex Riviere",
+				"url": "https://bsky.app/profile/dangitalex.wtf",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c2elcig7pt6yeihcq3odnrcm/bafkreicsayl3jqhrmo2bupuy6qdq66vd7vru6gmbbpl4iof5y3mg5rcceq"
+			},
+			"date": "2025-05-05T15:24:01.395Z",
+			"content": "<p>Ooooh</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zcanytzlaumjwgaopolw6wes/app.bsky.feed.post/3logpdp755222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chrisshank.com/post/3logpdp755222",
+			"author": {
+				"name": "𝕮",
+				"url": "https://bsky.app/profile/chrisshank.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zcanytzlaumjwgaopolw6wes/bafkreiacmd5abfwzcnr63nvms2v6ecgtcbhrsr6dmz7mrhr4umqvkpc55i"
+			},
+			"date": "2025-05-05T15:40:54.523Z",
+			"content": "<p>Any references your quoting? I was playing around with recently and I think Safari also requires importmaps to be dynamically created in a non-module script.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logq2a5cas2j",
+			"parentId": "at://did:plc:zcanytzlaumjwgaopolw6wes/app.bsky.feed.post/3logpdp755222",
+			"url": "https://bsky.app/profile/zachleat.com/post/3logq2a5cas2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-05T15:53:30.479Z",
+			"content": "<p><a href=\"https://codepen.io/zachleat/pen/pvvVOod\">codepen.io/zachleat/pen...</a> seems to work in Safari 18.4</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vfbtek66pfl4r6lkspr3au63/app.bsky.feed.post/3logqjqj5hc2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zcorpan.bsky.social/post/3logqjqj5hc2d",
+			"author": {
+				"name": "Simon Pieters",
+				"url": "https://bsky.app/profile/zcorpan.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vfbtek66pfl4r6lkspr3au63/bafkreihw52pljc5swfzwjuzrq4vodtjarxov6mjnyyjfde4pwatciaul24"
+			},
+			"date": "2025-05-05T16:02:10.970Z",
+			"content": "<p><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1916277\">bugzilla.mozilla.org/show_bug.cgi...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logqlym5oc2w",
+			"parentId": "at://did:plc:vfbtek66pfl4r6lkspr3au63/app.bsky.feed.post/3logqjqj5hc2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3logqlym5oc2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-05T16:03:26.566Z",
+			"content": "<p>Subscribed, thank you!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logrlgh5322j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3logrlgh5322j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-05T16:21:01.268Z",
+			"content": "<p>(I was surprised to learn this was even possible!)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zcanytzlaumjwgaopolw6wes/app.bsky.feed.post/3loguylc2yk22",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logq2a5cas2j",
+			"url": "https://bsky.app/profile/chrisshank.com/post/3loguylc2yk22",
+			"author": {
+				"name": "𝕮",
+				"url": "https://bsky.app/profile/chrisshank.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zcanytzlaumjwgaopolw6wes/bafkreiacmd5abfwzcnr63nvms2v6ecgtcbhrsr6dmz7mrhr4umqvkpc55i"
+			},
+			"date": "2025-05-05T17:22:03.777Z",
+			"content": "<p>Interesting! I just realized that I'm on a older version of Safari and this demo cant resolve the importmap!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logv5j4jas2g",
+			"parentId": "at://did:plc:zcanytzlaumjwgaopolw6wes/app.bsky.feed.post/3loguylc2yk22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3logv5j4jas2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-05T17:24:49.271Z",
+			"content": "<p>a small and super casual cc to <a href=\"https://bsky.app/profile/did:plc:uviwovtwaypg2lil4a6bdapd\">@alexis.deveria.com</a> I know that caniuse has multiple import maps (via MDN) but I did not see dynamic import maps!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logv73zn3k2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logv5j4jas2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3logv73zn3k2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-05T17:25:42.654Z",
+			"content": "<p>(though maybe I should file on <a href=\"https://github.com/mdn/browser-compat-data/issues\">github.com/mdn/browser-...</a> ?)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uviwovtwaypg2lil4a6bdapd/app.bsky.feed.post/3loh4fvgcls2e",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logv73zn3k2g",
+			"url": "https://bsky.app/profile/handle.invalid/post/3loh4fvgcls2e",
+			"author": {
+				"name": "Fyrd",
+				"url": "https://bsky.app/profile/handle.invalid",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uviwovtwaypg2lil4a6bdapd/bafkreicyaylet46tvwsxvxntjgq2bfw7vk2b6d2j2uli62l3stgtpedjlu"
+			},
+			"date": "2025-05-05T19:34:46.804Z",
+			"content": "<p>Yup, this seems like a good BCD entry as importmap sub-feature!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3loh5al6fr22x",
+			"parentId": "at://did:plc:uviwovtwaypg2lil4a6bdapd/app.bsky.feed.post/3loh4fvgcls2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3loh5al6fr22x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-05T19:49:42.029Z",
+			"content": "<p>GitHub issues shepherded me to this repo, but I filed it thanks! <a href=\"https://github.com/mdn/mdn/issues/672\">github.com/mdn/mdn/issu...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:osqjxz5bk3jeavk4tvh3awv5/app.bsky.feed.post/3loh7ef5vac2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/yoav.ws/post/3loh7ef5vac2z",
+			"author": {
+				"name": "Yoav Weiss",
+				"url": "https://bsky.app/profile/yoav.ws",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:osqjxz5bk3jeavk4tvh3awv5/bafkreie3dsewznunhbwbsbrl6ipslq3zrkda6rroqi7zipjeh5ldvhdliy"
+			},
+			"date": "2025-05-05T20:27:37.419Z",
+			"content": "<p>Blog post coming soon..</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lohacdqvt22h",
+			"parentId": "at://did:plc:osqjxz5bk3jeavk4tvh3awv5/app.bsky.feed.post/3loh7ef5vac2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lohacdqvt22h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-05T20:44:22.581Z",
+			"content": "<p>ooh — looking forward to it!</p>",
+			"via": "bluesky"
+		}
+	]
+}

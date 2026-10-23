@@ -1,0 +1,311 @@
+{
+	"comments": [
+		{
+			"id": "109809554765615363",
+			"parentId": 0,
+			"url": "https://polyglot.city/@carbsrule_en/109809554725816395",
+			"author": {
+				"name": "Bennolius 😷⚡",
+				"url": "https://polyglot.city/@carbsrule_en",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-02-05T01:33:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> interested; can you tell me more?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109809564254923553",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@jeffposnick/109809564104617896",
+			"author": {
+				"name": "Jeff Posnick",
+				"url": "https://hachyderm.io/@jeffposnick",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/391/109/545/161/147/original/58aa60953c000a38.png"
+			},
+			"date": "2023-02-05T01:36:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> MEANWHILE:</p><p>```js<br>const zachleat = require(\"zachleat\");</p><p>zachleat();<br>```</p><p><a href=\"https://github.com/zachleat/package-zachleat#programmatic\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/package-za</span><span class=\"invisible\">chleat#programmatic</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109809586625523779",
+			"parentId": "109809564254923553",
+			"url": "https://fediverse.zachleat.com/@zachleat/109809586625523779",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-05T01:41:59.363Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jeffposnick\" class=\"u-url mention\">@<span>jeffposnick</span></a></span> I couldn’t make the business case on this one 🫣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109809618665846973",
+			"parentId": 0,
+			"url": "https://ruby.social/@alassek/109809618628826286",
+			"author": {
+				"name": "Adam Lassek",
+				"url": "https://ruby.social/@alassek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/166/137/063/593/original/2875b3c12cade4bc.jpg"
+			},
+			"date": "2023-02-05T01:50:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have been pretty mystified at how dominant it has become. Glad I’m not alone</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109809622513259042",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@gyanreyer/109809622479649709",
+			"author": {
+				"name": "Ryan Geyer (he/him)",
+				"url": "https://fosstodon.org/@gyanreyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/430/578/367/046/093/original/902ac600f5eb01cf.jpg"
+			},
+			"date": "2023-02-05T01:51:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> React doesn't solve all problems, but it still does solve problems, and its ecosystem is still unbeatable. For simpler/static sites, yeah just use 11ty, maybe Svelte for something a little more complex. But for large scale web apps, I would still probably reach for React before anything else</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109809768007037275",
+			"parentId": 0,
+			"url": "https://tusk.sfunk1x.com/@sfunk1x/109809767932969614",
+			"private": true,
+			"date": "2023-02-05T02:28:05.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109809882517155777",
+			"parentId": 0,
+			"url": "https://mastodon.design/@jorge/109809882490333101",
+			"author": {
+				"name": "Hm… I’m skeptical",
+				"url": "https://mastodon.design/@jorge",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/778/216/567/292/original/c06ae7de29b9c6a4.png"
+			},
+			"date": "2023-02-05T02:57:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, we're in the beginning of a difficult time where we see the end of React in the distance and we all need to guess how fast it's coming and what the need of the project is. </p><p>My gut right now: if I had to build an app from scratch that needed that level of complexity, I'd probably use svelte or solidjs at this point because those seem like they have a longer future.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109810313911731058",
+			"parentId": 0,
+			"url": "https://social.rdl.ph/@rockerest/109810313821340027",
+			"author": {
+				"name": "Thomas Randolph :thomas:",
+				"url": "https://social.rdl.ph/@rockerest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/398/490/419/631/931/original/c94c96a76812b1ff.jpg"
+			},
+			"date": "2023-02-05T04:46:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The pain of CommonJS was felt by developers. The pain of React is felt by users.</p><p>¯\\_(ツ)_/¯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109812414309376717",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109812414309376717",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-05T13:41:06.394Z",
+			"content": "<p><a href=\"https://infrequently.org/2023/02/the-market-for-lemons/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infrequently.org/2023/02/the-m</span><span class=\"invisible\">arket-for-lemons/</span></a> from <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> is an excellent and highly relevant post here</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109812677952049260",
+			"parentId": "109810313911731058",
+			"url": "https://social.coop/@jamesarosen/109812677679050650",
+			"author": {
+				"name": "James",
+				"url": "https://social.coop/@jamesarosen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/812/677/722/129/535/original/1de6e7b46f41786c.png"
+			},
+			"date": "2023-02-05T14:48:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://social.rdl.ph/@rockerest\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rockerest</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the community seems way more excited by Astro than Eleventy and I’m like: the problem with Next/Remix isn’t that React or une on the server. It’s that hydration and mounting makes things slow and unresponsive right when the user is trying to interact</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109812920717757884",
+			"parentId": "109809622513259042",
+			"url": "https://m.nintendojo.fr/@meduz/109812920679275620",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2023-02-05T15:49:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@gyanreyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>gyanreyer</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> From where I am in my React learning, the Vue ecosystem is better than the React one in any possible area I can think about. And Vue itself is really enjoyable while React is an outdated monstruosity with a really poor design (at least compared to Vue) making it rather unproductive to work with.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109813143538631632",
+			"parentId": "109812414309376717",
+			"url": "https://higheredweb.social/@reedpiernock/109813143488720493",
+			"author": {
+				"name": "Reed Piernock",
+				"url": "https://higheredweb.social/@reedpiernock",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/394/431/422/094/821/original/dd92ff45e87ddbd4.png"
+			},
+			"date": "2023-02-05T16:46:32.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> the best line in the article, and the thing that cemented the strategy for me: \"The Steamed Hams of technology pitches.\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814281637571924",
+			"parentId": 0,
+			"url": "https://mastodon.social/@asuh/109814281600521247",
+			"author": {
+				"name": "Micah",
+				"url": "https://mastodon.social/@asuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/987/473/110/360/original/93cc2a41bb557ba4.jpg"
+			},
+			"date": "2023-02-05T21:35:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> An elephant in the room is <a href=\"https://mastodon.social/tags/wordpress\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>wordpress</span></a> adopting React for Gutenberg. React is the future of block development for WordPress, and with ~43% of all websites running React/WordPress, the near future will only increasingly be React.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814300377395572",
+			"parentId": "109814281637571924",
+			"url": "https://fediverse.zachleat.com/@zachleat/109814300377395572",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-05T21:40:45.507Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@asuh\" class=\"u-url mention\">@<span>asuh</span></a></span> I’m curious if you think that will help React performance statistics at large, or if they’ll be similar moving forward!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814384141957873",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ZMYaro/109814383666447435",
+			"author": {
+				"name": "Z(achary) Yaro",
+				"url": "https://mastodon.social/@ZMYaro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/522/204/707/850/632/original/46ebaf6b76d19348.jpg"
+			},
+			"date": "2023-02-05T22:01:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I feel like part of the issue is with the latter, there was something we were encouraging people to move *to*.  The anti-React posts that usually hit my feed either don't say much more than “don't use React,” or focus on one specific use-case, leading their comments to get filled by people to whom the proposed alternative does not apply 😕</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814420125726186",
+			"parentId": "109814384141957873",
+			"url": "https://fediverse.zachleat.com/@zachleat/109814420125726186",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-05T22:11:12.722Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ZMYaro\" class=\"u-url mention\">@<span>ZMYaro</span></a></span> perhaps part of the issue is that React was successful at overselling itself for *everything*—and if we are talking alternatives I’d rather not repeat the same mistake</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814433464586649",
+			"parentId": 0,
+			"url": "https://c.im/@TimWardCam/109814431192910486",
+			"author": {
+				"name": "Tim Ward ⭐🇪🇺🔶  #FBPE",
+				"url": "https://c.im/@TimWardCam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/581/265/973/061/815/original/97cc06882948468c.jpg"
+			},
+			"date": "2023-02-05T22:14:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I long since gave up working on the web front end. I just can't be doing with learning a whole brand new half-arsed \"latest and greatest\" set of frameworks every few months. (And they always will be half-arsed until someone throws away the browser as we know it and starts again.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814479190126306",
+			"parentId": "109814420125726186",
+			"url": "https://mastodon.social/@ZMYaro/109814479157734781",
+			"author": {
+				"name": "Z(achary) Yaro",
+				"url": "https://mastodon.social/@ZMYaro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/522/204/707/850/632/original/46ebaf6b76d19348.jpg"
+			},
+			"date": "2023-02-05T22:26:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I absolutely agree with that.  I just feel like anti-React posts would get more traction (and maybe not stop, but at least make it more obvious when someone is on a post xe is not the target audience of) if they did more to head off that pattern.  Framing things more as, “If you're using React for [use case], you should really consider switching to [better alternative],” rather than, like you said, framing (maybe unintentionally) one alternative as the universal replacement for React.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814482821094769",
+			"parentId": "109814479190126306",
+			"url": "https://mastodon.social/@ZMYaro/109814482738363138",
+			"author": {
+				"name": "Z(achary) Yaro",
+				"url": "https://mastodon.social/@ZMYaro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/522/204/707/850/632/original/46ebaf6b76d19348.jpg"
+			},
+			"date": "2023-02-05T22:27:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Like, “If you're making a static site, you should consider whether you need JavaScript at all, let alone React,” or, “If you are using React for encapsulated components, you should see what you can do with standard custom elements now without the overhead of React,” or something like that, could not just tell people to stop, but point them to alternatives.  Like how it was, “Move from CommonJS to ESM,” not just, “Stop using CommonJS!”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814672814670114",
+			"parentId": 0,
+			"url": "https://techhub.social/@airfive/109814672755208867",
+			"author": {
+				"name": "JJ",
+				"url": "https://techhub.social/@airfive",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/435/744/430/295/437/original/6d5109fa414bea8e.jpg"
+			},
+			"date": "2023-02-05T23:15:27.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> curiously watching reactions over reaction over React 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109814718223035724",
+			"parentId": "109814482821094769",
+			"url": "https://fediverse.zachleat.com/@zachleat/109814718223035724",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-05T23:27:01.328Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ZMYaro\" class=\"u-url mention\">@<span>ZMYaro</span></a></span> yeah, that all seems logical to me!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109815894287557859",
+			"parentId": "109814300377395572",
+			"url": "https://mastodon.social/@asuh/109815894242472332",
+			"author": {
+				"name": "Micah",
+				"url": "https://mastodon.social/@asuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/987/473/110/360/original/93cc2a41bb557ba4.jpg"
+			},
+			"date": "2023-02-06T04:26:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my fear with React being used to shape the data model in WordPress is sharing the utility of React’s way on the front end. More React on the front end seems likely to not improve performance stats at large</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109818488638089948",
+			"parentId": "109813143538631632",
+			"url": "https://mastodon.social/@rgarner/109818488590755254",
+			"author": {
+				"name": "Russell Garner",
+				"url": "https://mastodon.social/@rgarner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/385/189/302/884/original/19399ff775f646f4.jpg"
+			},
+			"date": "2023-02-06T15:25:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://higheredweb.social/@reedpiernock\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>reedpiernock</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> \"Aurora borealis? Here? On this web page? Can I see it?\"</p><p>&lt;page remains blank white&gt;</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109818502196069107",
+			"parentId": "109818488638089948",
+			"url": "https://fediverse.zachleat.com/@zachleat/109818502196069107",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-06T15:29:20.173Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rgarner\" class=\"u-url mention\">@<span>rgarner</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://higheredweb.social/@reedpiernock\" class=\"u-url mention\">@<span>reedpiernock</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> ahaha I love that scene so much</p>",
+			"via": "fediverse"
+		}
+	]
+}

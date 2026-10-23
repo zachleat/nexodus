@@ -1,0 +1,186 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3ljnb6b3d4s2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/eaton.fyi/post/3ljnb6b3d4s2k",
+			"author": {
+				"name": "‮Jeff Eaton",
+				"url": "https://bsky.app/profile/eaton.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qia4bnapnogunf7jjl5fopac/bafkreihzpxhdag6tw63ghft655jxz7u6ahxvkzm4lnhp3m7amgubqudihi"
+			},
+			"date": "2025-03-05T15:09:59.591Z",
+			"content": "<p>Absolutely love this. One of my first really large node projects (coincidentally inspired by 11ty’s appproach to many things) accumulated an ugly dependency count during its initial exploratory alpha stage and paring that down is slow, ugly, but rewarding work.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tlmx4akhvj2hw6snht4nqedb/app.bsky.feed.post/3ljnb6g6zfs2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kmduke.bsky.social/post/3ljnb6g6zfs2i",
+			"author": {
+				"name": "Keith Duke",
+				"url": "https://bsky.app/profile/kmduke.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tlmx4akhvj2hw6snht4nqedb/bafkreieopkk7dwq3ypyg2npqdl4sbjltl5uju32xwdpvdzuom2g5xlbaii"
+			},
+			"date": "2025-03-05T15:10:04.955Z",
+			"content": "<p>No rifraf takes on new meaning 😀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljnbenfnos2y",
+			"parentId": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3ljnb6b3d4s2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljnbenfnos2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-05T15:13:33.840Z",
+			"content": "<p>Yeah!! I love these kinds of improvements — they make installs faster and you can feel a little bit of the maintenance burden lift which is always lovely</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljnbewd4hc2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/43081j.com/post/3ljnbewd4hc2e",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2025-03-05T15:13:43.182Z",
+			"content": "<p>This is a common one we've been cleaning up in <a href=\"https://bsky.app/profile/did:plc:vr6isybvv4ixzvo6qf4w2q66\">@e18e.dev</a> too. For anyone interested, if you need a cli, use premove. Otherwise, use fs.rm</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljnbfxwhlk2y",
+			"parentId": "at://did:plc:tlmx4akhvj2hw6snht4nqedb/app.bsky.feed.post/3ljnb6g6zfs2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljnbfxwhlk2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-05T15:14:18.431Z",
+			"content": "<p>we’ll take rif or raf but will absolutely not tolerate them together</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljnbo7qlzk24",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljnbewd4hc2e",
+			"url": "https://bsky.app/profile/43081j.com/post/3ljnbo7qlzk24",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2025-03-05T15:18:55.048Z",
+			"content": "<p>You can probably switch to tinyglobby, yaml (slightly bigger but maintained, more correct), and a few others too 👀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljnbpmv4n22i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljnbpmv4n22i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-05T15:19:42.397Z",
+			"content": "<p>I’ve realized that I’ve linked to the issue and not the PR and am very embarrassed — what a gaffe, here is the PR: <a href=\"https://github.com/11ty/recursive-copy/pull/1\">github.com/11ty/recursi...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljndiwfm622q",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljnbo7qlzk24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljndiwfm622q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-05T15:51:44.975Z",
+			"content": "<p>Thank you very much! I’ve added those recs to our issue tracker:</p>\n<p><a href=\"https://github.com/11ty/eleventy/issues/3676\">github.com/11ty/elevent...</a><br>\n<a href=\"https://github.com/11ty/eleventy/issues/3167\">github.com/11ty/elevent...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljne47ospc2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljndiwfm622q",
+			"url": "https://bsky.app/profile/43081j.com/post/3ljne47ospc2w",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2025-03-05T16:02:32.232Z",
+			"content": "<p>I sent this thread to the community too and they picked out a few other things. Would you be happy for them to open issues? Or one umbrella issue to track all of the suggestions until they're accepted?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljne5d2lis2w",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljne47ospc2w",
+			"url": "https://bsky.app/profile/43081j.com/post/3ljne5d2lis2w",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2025-03-05T16:03:09.335Z",
+			"content": "<p>We will probably add an issue to the e18e issue tracker too to keep track of these contribs</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljne7f6nek2y",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljne47ospc2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljne7f6nek2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-05T16:04:18.675Z",
+			"content": "<p>Oh wow that’d be amazing — an umbrella issue might be the easiest so I can triage the easiest! Thank you!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljnf3e3uxs2h",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljne5d2lis2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljnf3e3uxs2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-05T16:19:57.060Z",
+			"content": "<p>just a side question: is there a CLI or package.json linter for <a href=\"https://github.com/es-tooling/module-replacements\">github.com/es-tooling/m...</a> ?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljnf6gmyf22k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljnf3e3uxs2h",
+			"url": "https://bsky.app/profile/43081j.com/post/3ljnf6gmyf22k",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2025-03-05T16:21:40.370Z",
+			"content": "<p>This lint plugin uses the manifests from the replacements repo to report usages</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljnfrxjpvc2u",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3ljnf6gmyf22k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljnfrxjpvc2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-05T16:32:35.634Z",
+			"content": "<p>tyvm!</p>",
+			"via": "bluesky"
+		}
+	]
+}

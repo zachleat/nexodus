@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muf5rc5do22p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/duffeh.bsky.social/post/3muf5rc5do22p",
+			"author": {
+				"name": "Duffeh",
+				"url": "https://bsky.app/profile/duffeh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spulgjrl7sactd23bgqv6jen/bafkreihf42m7kegjr2iu7zucmfcby4dqblokuc7ii3nomjtfv7tod5m6la"
+			},
+			"date": "2026-08-31T14:51:05.359Z",
+			"content": "<p>Yeah it looks to be what Adobe claim is the \"future of frontend\" called EDS, which is a client side render, for pages that could be static generated.</p>\n<p>They talk a lot about perfect lighthouse score, at what seems like a cost to real users. The header is a tell they load that last for some reason.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mufasti6nc2g",
+			"parentId": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muf5rc5do22p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mufasti6nc2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-31T15:45:38.322Z",
+			"content": "<p>Huh. 😬</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "111206449188122745",
+			"parentId": 0,
+			"url": "https://status.fberriman.com/@phae/111206449174072307",
+			"author": {
+				"name": "phae",
+				"url": "https://status.fberriman.com/@phae",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+			},
+			"date": "2023-10-09T18:22:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hah. Well, at least that's honest.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111206521057001224",
+			"parentId": "111206449188122745",
+			"url": "https://fediverse.zachleat.com/@zachleat/111206521057001224",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-09T18:40:47.181Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\">@<span>phae</span></a></span> ha! is this a specific reference to “right now” 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111206530289022718",
+			"parentId": "111206521057001224",
+			"url": "https://status.fberriman.com/@phae/111206530277624257",
+			"author": {
+				"name": "phae",
+				"url": "https://status.fberriman.com/@phae",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+			},
+			"date": "2023-10-09T18:43:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> pretty much. If he's saying they'd \"like to be\" a \"real\" open-source project then what does it make them until then?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111206566869355288",
+			"parentId": "111206530289022718",
+			"url": "https://status.fberriman.com/@phae/111206566858606447",
+			"author": {
+				"name": "phae",
+				"url": "https://status.fberriman.com/@phae",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+			},
+			"date": "2023-10-09T18:52:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but also yes. Maybe \"right now\" is about to run out.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111206584049073698",
+			"parentId": "111206530289022718",
+			"url": "https://fediverse.zachleat.com/@zachleat/111206584049073698",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-09T18:56:48.363Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\">@<span>phae</span></a></span> I think there is a general understanding that the super tight coupling of Next.js and Vercel is bad news. But I also suspect that most framework authors would trade spots with Next.js/Vercel, disappointingly—which doesn’t bode well for the next wave either</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111206654203402457",
+			"parentId": "111206584049073698",
+			"url": "https://status.fberriman.com/@phae/111206654082673929",
+			"author": {
+				"name": "phae",
+				"url": "https://status.fberriman.com/@phae",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+			},
+			"date": "2023-10-09T19:14:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh, totes. I have endless sympathy for OSS maintainers both looking for $, distribution and hands.</p><p> I wish this wasn't such a viable model and we could offer better.</p>",
+			"via": "fediverse"
+		}
+	]
+}

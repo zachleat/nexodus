@@ -1,0 +1,405 @@
+{
+	"comments": [
+		{
+			"id": "113034404211590501",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113034404211590501",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T14:15:30.670Z",
+			"content": "<p>For those managing servers: what kind of concurrent request count spikes do y’all prepare for?</p><p>Looks like the Locust load testing tool’s “first test” starts with 100 concurrent users: <a href=\"https://docs.locust.io/en/stable/quickstart.html\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.locust.io/en/stable/quick</span><span class=\"invisible\">start.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034409286349143",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/113034409255141986",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-08-27T14:16:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think a vast part of my career is about making things someone else's problem 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034414376120372",
+			"parentId": "113034409286349143",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034414376120372",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T14:18:05.772Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> for the right things, it makes sense!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034441905041739",
+			"parentId": 0,
+			"url": "https://front-end.social/@sarajw/113034441876436470",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2024-08-27T14:25:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah I haven't noticed this with Netlify but then I also don't pay attention haha, I just post and scoot</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034463853080322",
+			"parentId": "113034404211590501",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034463853080322",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T14:30:40.726Z",
+			"content": "<p>Found a pretty hefty blog post about concurrency benchmarks using the Nginx web server.</p><p><a href=\"https://blog.nginx.org/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.nginx.org/blog/testing-th</span><span class=\"invisible\">e-performance-of-nginx-and-nginx-plus-web-servers</span></a></p><p>Looks like the slowest metric (1 CPU, HTTPS) handled 428 connections per second.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034467057085036",
+			"parentId": "113034441905041739",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034467057085036",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T14:31:29.618Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> post and scoot 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034472467982609",
+			"parentId": "113034404211590501",
+			"url": "https://mas.to/@williamoconnell/113034472432993146",
+			"author": {
+				"name": "William O'Connell",
+				"url": "https://mas.to/@williamoconnell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/897/760/366/326/original/5eb264bbdee235cb.jpg"
+			},
+			"date": "2024-08-27T14:32:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've never been lucky enough to have something that was this popular so I can't really speak from experience, but I'm a little confused by why it's causing problems for so many sites. I would think any CDN should be able to solve this, even a really short TTL like 30 seconds would reduce the flood to just a few requests.</p><p>Usually when testing an application I'm happy if it can handle 100-200 requests per second, but for public content I would always have a CDN in front.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034486999639469",
+			"parentId": "113034467057085036",
+			"url": "https://mastodon.social/@noleli/113034486748972548",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2024-08-27T14:36:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> um, toot ’n’ scoot 😏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034488774426703",
+			"parentId": "113034486999639469",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034488774426703",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T14:37:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> toot scoot booooogie ♩♪♫♬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034560793324608",
+			"parentId": "113034488774426703",
+			"url": "https://front-end.social/@sarajw/113034560739346272",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2024-08-27T14:55:19.000Z",
+			"content": "<p>Who's that tootin' in the feeds?<br>It's two devrels and they're on fleek<br>Blogs and demos and typin' hands<br>What's your language? JS I am!</p><p>Instances come to play, the server's not fast enough<br>They'd best stay away when the websites get a shove</p><p>Toot, scoot, riot (riot!)<br>Leave a link and run away<br>Toot, scoot, riot (riot!)<br>No one visits my site anyway...</p><p><a href=\"https://youtu.be/JZm1krVKzBY\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/JZm1krVKzBY</span><span class=\"invisible\"></span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>noleli</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034572439522292",
+			"parentId": "113034463853080322",
+			"url": "https://mas.to/@williamoconnell/113034572424879384",
+			"author": {
+				"name": "William O'Connell",
+				"url": "https://mas.to/@williamoconnell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/897/760/366/326/original/5eb264bbdee235cb.jpg"
+			},
+			"date": "2024-08-27T14:58:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, even if all ~30,000 mastodon instances hit the server within 60 seconds (unlikely), that's still only 500 requests per second. That seems pretty manageable? At least for public content that's identical for every user. A real DDoS by an attacker can be *millions* of requests per second.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034587214632800",
+			"parentId": "113034560793324608",
+			"url": "https://mastodon.social/@noleli/113034587026202305",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2024-08-27T15:02:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh em gee. Amazing ✨</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034601516910326",
+			"parentId": "113034587214632800",
+			"url": "https://front-end.social/@sarajw/113034601418803093",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2024-08-27T15:05:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>noleli</span></a></span> couldn't resist 😅 </p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034613520567360",
+			"parentId": "113034404211590501",
+			"url": "https://mastodon.cthos.dev/@cthos/113034613393783181",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-27T15:08:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if you’re load testing, I start with typical traffic patterns and use a multiplier.</p><p>If stress testing, start small and ramp it up until it falls over.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034621920195062",
+			"parentId": "113034601516910326",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034621920195062",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:10:52.641Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> for some reason I’m now thinking of Jim Carrey in The Mask 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034646645690297",
+			"parentId": "113034572439522292",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034646645690297",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:17:09.921Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@williamoconnell\" class=\"u-url mention\">@<span>williamoconnell</span></a></span> yeah, that third blog post notes a hypothetical of 6.7k simultaneous requests—which seems like a lot!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034673692911782",
+			"parentId": 0,
+			"url": "https://mastodon.chateaude.luxe/@dustinrue/113034673629099925",
+			"author": {
+				"name": "Dustin Rue",
+				"url": "https://mastodon.chateaude.luxe/@dustinrue",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-08-27T15:24:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is _easily_ solved with a caching strategy which I have mentioned a few times to people who metion this issue. You can read about it at <a href=\"https://dustinrue.com/2023/02/avoiding-stampeding-mastodons/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dustinrue.com/2023/02/avoiding</span><span class=\"invisible\">-stampeding-mastodons/</span></a>. It is not necessarily something only Cloudflare can solve, but can be used to inform people on how to fix the issue using any caching solution and some effort.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034687493206445",
+			"parentId": "113034673692911782",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034687493206445",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:27:33.206Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.chateaude.luxe/@dustinrue\" class=\"u-url mention\">@<span>dustinrue</span></a></span> WordPress always needs one more thing to work like it should by default</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034706341285352",
+			"parentId": "113034687493206445",
+			"url": "https://mastodon.chateaude.luxe/@dustinrue/113034706216934115",
+			"author": {
+				"name": "Dustin Rue",
+				"url": "https://mastodon.chateaude.luxe/@dustinrue",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-08-27T15:32:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Generally speaking I disagree. Any the site that is Next.js, Drupal or any other countless number of systems that generate content on the fly and isn't a static site will fall victim to this same issue.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034713252954896",
+			"parentId": "113034706341285352",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034713252954896",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:34:06.269Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.chateaude.luxe/@dustinrue\" class=\"u-url mention\">@<span>dustinrue</span></a></span> the nuance I’d contribute is that (in my opinion) static sites are a better default for most web sites and dynamism should be an additive architectural layer.</p><p>Removes an entire class of problems for most folks</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034724270411864",
+			"parentId": "113034646645690297",
+			"url": "https://mas.to/@williamoconnell/113034724246666201",
+			"author": {
+				"name": "William O'Connell",
+				"url": "https://mas.to/@williamoconnell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/897/760/366/326/original/5eb264bbdee235cb.jpg"
+			},
+			"date": "2024-08-27T15:36:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It says they're supposed to be spread over 60 seconds though. In practice probably more, since it should take some time for all the instances to pick up the post in the first place. The author says \"I'm yet to see that work for me\" but I'm unclear of that means they have evidence that it isn't happening or their site is just still crashing regardless. The lack of specific data makes it hard to draw conclusions.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034730942027876",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@thisismissem/113034730740514758",
+			"author": {
+				"name": "Emelia 👸🏻",
+				"url": "https://hachyderm.io/@thisismissem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-08-27T15:38:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there's ongoing work to improve the situation</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034740631783379",
+			"parentId": "113034724270411864",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034740631783379",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:41:04.044Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@williamoconnell\" class=\"u-url mention\">@<span>williamoconnell</span></a></span> I’d assume that is just a timing issue between writing of the blog post and the rollout of the 60s “jitter” addition—a temporary mitigation for sure.</p><p>Mastodon *could* upload the preview as an asset sidecar’d with the post, similar to any image upload.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034749195551022",
+			"parentId": "113034730942027876",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034749195551022",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:43:14.709Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@thisismissem\" class=\"u-url mention\">@<span>thisismissem</span></a></span> great!</p><p>For the record I’m mostly surprised that sites are being taken down by this level of concurrency</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034761853266440",
+			"parentId": 0,
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J6A88GZQZCNSK60PS6YB7ASK",
+			"private": true,
+			"date": "2024-08-27T15:46:21.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034774311773195",
+			"parentId": "113034761853266440",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034774311773195",
+			"private": true,
+			"date": "2024-08-27T15:49:37.951Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034788564700610",
+			"parentId": "113034749195551022",
+			"url": "https://flaki.social/@flaki/113034788546514850",
+			"author": {
+				"name": "Flaki",
+				"url": "https://flaki.social/@flaki",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/315/100/329/990/772/original/74ebe12d2f7e951a.jpg"
+			},
+			"date": "2024-08-27T15:53:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@thisismissem\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>thisismissem</span></a></span> would you happen to have a link to the issue/discussions perhaps, I'd be interested to see what's happening to try to address this?<br><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034789384774559",
+			"parentId": "113034774311773195",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J6A8NAGYXJZ8C9Q6W4VTKPDW",
+			"private": true,
+			"date": "2024-08-27T15:53:21.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034801959099635",
+			"parentId": "113034788564700610",
+			"url": "https://fediverse.zachleat.com/@zachleat/113034801959099635",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-27T15:56:39.818Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://flaki.social/@flaki\" class=\"u-url mention\">@<span>flaki</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@thisismissem\" class=\"u-url mention\">@<span>thisismissem</span></a></span> <a href=\"https://github.com/mastodon/mastodon/issues/23662\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/23662</span></a> is the one you want, I think!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113034930659688753",
+			"parentId": "113034801959099635",
+			"url": "https://hachyderm.io/@thisismissem/113034930619357380",
+			"author": {
+				"name": "Emelia 👸🏻",
+				"url": "https://hachyderm.io/@thisismissem",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-08-27T16:29:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://flaki.social/@flaki\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>flaki</span></a></span> yeah, there's that, but the discussion I know of is happening internally within the core team. Current direction is to be publishing preview data via ActivityPub.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113035992850225764",
+			"parentId": "113034463853080322",
+			"url": "https://noc.social/@jmhobbs/113035979388918621",
+			"author": {
+				"name": "John Hobbs",
+				"url": "https://noc.social/@jmhobbs",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/643/112/093/823/original/c06a0b7573edfdb2.jpg"
+			},
+			"date": "2024-08-27T20:56:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would think with session reuse you wouldn't pay that TLS connection cost constantly. Also I imagine OpenSSL/BoringSSL has improved in the last seven years, and more cryptographic operations are done in CPU now then back then.</p><p>That said I don't think I'd run anything without a caching server in front anymore, unless it was very server interactive and would miss constantly. Varnish did amazing things at Flywheel.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113046317427360432",
+			"parentId": "113035992850225764",
+			"url": "https://fediverse.zachleat.com/@zachleat/113046317427360432",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-29T16:45:11.916Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://noc.social/@jmhobbs\" class=\"u-url mention\">@<span>jmhobbs</span></a></span> great insight, thank you!</p><p>As a side note I think I’ve seen some of these caching defaults play out at the serverless platform level recently: <a href=\"https://www.zachleat.com/web/serverless-cost/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/serverless-co</span><span class=\"invisible\">st/</span></a> Some platforms are born from use cases that are intensely personalized, not heavily cached.</p>",
+			"via": "fediverse"
+		}
+	]
+}

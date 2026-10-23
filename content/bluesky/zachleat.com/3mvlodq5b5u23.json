@@ -1,0 +1,199 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3mvlsgxjlms2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3mvlsgxjlms2d",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2026-09-15T23:42:17.318Z",
+			"content": "<p>Problem is: it probably won’t. React devs seem to wear blinkers when it comes to CSS functionality. Pretty hard when you’ve had a virtual dom lobotomy 😵‍💫</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvmigl6fyk2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tkdodo.eu/post/3mvmigl6fyk2u",
+			"author": {
+				"name": "Dominik 🔮",
+				"url": "https://bsky.app/profile/tkdodo.eu",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nqrhu5mthmias3zc4a2ovzj/bafkreifba3ra5nkgtcnigjjdh5fq3ipz4d23vqk6iaghbydkgkoch7wyby"
+			},
+			"date": "2026-09-16T06:15:46.686Z",
+			"content": "<p>All for it, but please, 352kb is the install size. Bundle size is 1.6kb minzipped.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mat6mxjku5uyzcciltfs2fgk/app.bsky.feed.post/3mvn3v46ams27",
+			"parentId": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvmigl6fyk2u",
+			"url": "https://bsky.app/profile/wicky.nillia.ms/post/3mvn3v46ams27",
+			"author": {
+				"name": "Nick Williams",
+				"url": "https://bsky.app/profile/wicky.nillia.ms",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mat6mxjku5uyzcciltfs2fgk/bafkreibphidqiqgvs6l7spqv3oivhzchrsrm3d42zr4h46rc6fdkbyspzq"
+			},
+			"date": "2026-09-16T12:03:55.361Z",
+			"content": "<p>Wish these tools did a better job at presenting bundled size</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvn5errz2c22",
+			"parentId": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvmigl6fyk2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvn5errz2c22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-16T12:30:35.089Z",
+			"content": "<p>hm? bundle size isn’t the only important concern worth scrutinizing (though stating bundle size independent of dependency/library bundle cost is one of my mildest pet peeves 😅)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvn7pt5r2c2r",
+			"parentId": "at://did:plc:mat6mxjku5uyzcciltfs2fgk/app.bsky.feed.post/3mvn3v46ams27",
+			"url": "https://bsky.app/profile/tkdodo.eu/post/3mvn7pt5r2c2r",
+			"author": {
+				"name": "Dominik 🔮",
+				"url": "https://bsky.app/profile/tkdodo.eu",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nqrhu5mthmias3zc4a2ovzj/bafkreifba3ra5nkgtcnigjjdh5fq3ipz4d23vqk6iaghbydkgkoch7wyby"
+			},
+			"date": "2026-09-16T13:12:33.109Z",
+			"content": "<p>depends on a lot of things though, like the bundler or if deps are bundled or excluded etc..</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvn7veg2ps2r",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvn5errz2c22",
+			"url": "https://bsky.app/profile/tkdodo.eu/post/3mvn7veg2ps2r",
+			"author": {
+				"name": "Dominik 🔮",
+				"url": "https://bsky.app/profile/tkdodo.eu",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nqrhu5mthmias3zc4a2ovzj/bafkreifba3ra5nkgtcnigjjdh5fq3ipz4d23vqk6iaghbydkgkoch7wyby"
+			},
+			"date": "2026-09-16T13:15:38.980Z",
+			"content": "<p>If someone reads:</p>\n<p>&gt; This 352.8 kB react component</p>\n<p>Then the first instinct will be that 350kb will be shipped to consumers if I use that component. That’s not the case, so why frame it that way?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mat6mxjku5uyzcciltfs2fgk/app.bsky.feed.post/3mvnbf53mzk27",
+			"parentId": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvn7pt5r2c2r",
+			"url": "https://bsky.app/profile/wicky.nillia.ms/post/3mvnbf53mzk27",
+			"author": {
+				"name": "Nick Williams",
+				"url": "https://bsky.app/profile/wicky.nillia.ms",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mat6mxjku5uyzcciltfs2fgk/bafkreibphidqiqgvs6l7spqv3oivhzchrsrm3d42zr4h46rc6fdkbyspzq"
+			},
+			"date": "2026-09-16T13:42:21.910Z",
+			"content": "<p>Yeah not an easy problem. Should include non-peer deps at least</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mvnbmfxlw22y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mvnbmfxlw22y",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-09-16T13:46:26.097Z",
+			"content": "<p>fwiw whats actually shipped to the browser for this library is 13.6kb (5.26kb gzipped)</p>\n<p><a href=\"https://bundlejs.com/?q=react-textarea-autosize%408.5.9\">bundlejs.com?q=react-text...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:oajtxomomwvbm5vhvvagyogy/app.bsky.feed.post/3mvncfwoaj22x",
+			"parentId": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvn7veg2ps2r",
+			"url": "https://bsky.app/profile/acemarke.dev/post/3mvncfwoaj22x",
+			"author": {
+				"name": "Mark Erikson",
+				"url": "https://bsky.app/profile/acemarke.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:oajtxomomwvbm5vhvvagyogy/bafkreiglh7dr5e347mp4d4xdobvhsxfvlmqkmvzr47nbkcnc3mvlq7otie"
+			},
+			"date": "2026-09-16T14:00:42.477Z",
+			"content": "<p>that's always been my biggest annoyance with package listings on NPM (and now seemingly NPMX). Yes, download size and install size in node_modules matter... but those are often radically different than bundle size shipped to the browser, and that doesn't get surfaced very well.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mvncl3zvjc2u",
+			"parentId": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvmigl6fyk2u",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mvncl3zvjc2u",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-09-16T14:03:35.871Z",
+			"content": "<p>I'm curious where you got 1.6kb. Is that locally with treeshaking or something?</p>\n<p>I see 5.26kb gzipped on bundlejs</p>\n<p><a href=\"https://bsky.app/profile/konnorrogers.com/post/3mvnbmfxlw22y\">bsky.app/profile/konn...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvnco234gs25",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mvncl3zvjc2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvnco234gs25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-16T14:05:14.479Z",
+			"content": "<p>likely excluding peerdeps <a href=\"https://zachleat.github.io/bundlewhys/?package=react-textarea-autosize\">zachleat.github.io/bundlewhys/?...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mvncszkf4s2u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvnco234gs25",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mvncszkf4s2u",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-09-16T14:08:01.704Z",
+			"content": "<p>Ahhh. That'll do it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvnd5uvgrc2p",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mvncszkf4s2u",
+			"url": "https://bsky.app/profile/tkdodo.eu/post/3mvnd5uvgrc2p",
+			"author": {
+				"name": "Dominik 🔮",
+				"url": "https://bsky.app/profile/tkdodo.eu",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nqrhu5mthmias3zc4a2ovzj/bafkreifba3ra5nkgtcnigjjdh5fq3ipz4d23vqk6iaghbydkgkoch7wyby"
+			},
+			"date": "2026-09-16T14:14:05.922Z",
+			"content": "<p>Yeah I got it from bundlephobia which is usually too large because it doesn't do esm I think</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvndjqlqdk24",
+			"parentId": "at://did:plc:3nqrhu5mthmias3zc4a2ovzj/app.bsky.feed.post/3mvn7veg2ps2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvndjqlqdk24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-16T14:20:44.063Z",
+			"content": "<p>ahh, hmm — that’s a fair critique of my post. it looks like bundle versus install weight is a pet peeve of yours! 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hehia4csii5iipebsgolxxal/app.bsky.feed.post/3mvnofx4fqk2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvndjqlqdk24",
+			"url": "https://bsky.app/profile/al9000.com/post/3mvnofx4fqk2o",
+			"author": {
+				"name": "alan",
+				"url": "https://bsky.app/profile/al9000.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hehia4csii5iipebsgolxxal/bafkreibuagb55i3bp36un4ljcarzdeus4id3hgmyrrwj2d7lrpdd6t4hiq"
+			},
+			"date": "2026-09-16T17:35:27.843Z",
+			"content": "<p>I definitely read it as 325kb shipped to browser. I get both numbers are worth considering, but if I'm only gonna get one, I want the one that impacts the folks using my site over the one during dev.</p>\n<p>(in this case just the fact that you can remove it is cool enough for me regardless of size impact)</p>",
+			"via": "bluesky"
+		}
+	]
+}

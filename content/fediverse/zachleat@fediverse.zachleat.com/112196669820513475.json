@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "112196755521705883",
+			"parentId": 0,
+			"url": "https://indieweb.social/@tbeseda/112196755506969604",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2024-04-01T15:50:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm interested what your thoughts are here?<br>So far, I’m just not seeing it. I like events and I understand their problems. Signals will have its own crop of antipatterns.<br>But this isn't a well-researched first impression. Maybe I'm not envisioning it right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112196774714660580",
+			"parentId": "112196755521705883",
+			"url": "https://fediverse.zachleat.com/@zachleat/112196774714660580",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-01T15:55:18.864Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\">@<span>tbeseda</span></a></span> mostly I’m excited to have a standard feature to help implement Eleventy’s Computed Data feature.</p><p>(and it looks like they’ve solicited feedback from a bunch of clientside framework folks too)</p><p>What’s not to love?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112196838909650521",
+			"parentId": "112196774714660580",
+			"url": "https://indieweb.social/@tbeseda/112196838887664370",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2024-04-01T16:11:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think the linked article has a better explainer than the spec (to be expected!)<br>I see the appeal. I suppose I'm too conservative around adding new primitives when there's a similar one in the standard.<br>I should probably just write Erlang lol</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112196859258637021",
+			"parentId": "112196774714660580",
+			"url": "https://macaw.social/@sangster/112196859206702777",
+			"author": {
+				"name": "Ben",
+				"url": "https://macaw.social/@sangster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/883/755/495/625/original/9782934627613fca.jpeg"
+			},
+			"date": "2024-04-01T16:16:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbeseda</span></a></span> a huge part of the “value” for React is the idea of a frontend framework where changing data directly updates the UI.</p><p>Among other things, this API seems like it would open up a very large number of doors for achieving that without React.</p><p>It also really neatly pulls in functionality for things like observables.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112196873543309165",
+			"parentId": "112196859258637021",
+			"url": "https://indieweb.social/@tbeseda/112196873525938310",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2024-04-01T16:20:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://macaw.social/@sangster\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sangster</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> great point. The ability to bind a piece of the DOM is an advantage over events where one would need to handle updating the content. I can get behind that.</p>",
+			"via": "fediverse"
+		}
+	]
+}

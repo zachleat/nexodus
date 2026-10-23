@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "112615852471849704",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112615852471849704",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-14T16:12:17.960Z",
+			"content": "<p>Windows should make PowerShell Core the default, please 🥺</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112615902804653321",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112615902753051339",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-06-14T16:25:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Just force everyone to install WSL and Ubuntu. 😈</p><p>(Kidding)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112615935231632788",
+			"parentId": "112615902804653321",
+			"url": "https://fediverse.zachleat.com/@zachleat/112615935231632788",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-14T16:33:20.775Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> 😭😭😭😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112617308730044109",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112617308730044109",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-14T22:22:38.700Z",
+			"content": "<p>This deep-dive ended up improving the <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> docs on our Quick Start guides:</p><p>1️⃣ <a href=\"https://www.11ty.dev/#quick-start\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/#quick-start</span><span class=\"invisible\"></span></a><br />2️⃣ <a href=\"https://www.11ty.dev/docs/#step-4-create-some-templates\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/#step-4-create-s</span><span class=\"invisible\">ome-templates</span></a></p><p>And we now have a cross-platform command to create files to make this easier for folks:</p><p>3️⃣ <a href=\"https://github.com/11ty/create\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/11ty/create</span><span class=\"invisible\"></span></a></p><p>Thanks <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> for the push!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112619058588047552",
+			"parentId": "112617308730044109",
+			"url": "https://front-end.social/@sarajw/112619058559857237",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2024-06-15T05:47:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> thank you so much for the effort! Gods, what a confusion - no wonder some people end up worried about the command line!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112621224952695679",
+			"parentId": "112617308730044109",
+			"url": "https://social.lol/@tylersticka/112621224924540223",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://social.lol/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/651/355/105/380/677/original/8c28248b1638ecd2.png"
+			},
+			"date": "2024-06-15T14:58:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> What a neat addition!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112626975450891462",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Zearin/112626975350327299",
+			"author": {
+				"name": "Zearin",
+				"url": "https://mastodon.social/@Zearin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/649/109/777/365/234/original/08ea4f2d7e8778bd.jpeg"
+			},
+			"date": "2024-06-16T15:20:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah! I was intrigued by the vastly different approach taken by PowerShell, but this significantly contributed to my giving up on it. </p><p>(That, and the verb-noun scheme for command names, though interesting, can sometimes bite you. “Is it Get-*, List-*, or Show-*?”  And other variations thereupon.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112632324930771300",
+			"parentId": "112626975450891462",
+			"url": "https://fediverse.zachleat.com/@zachleat/112632324930771300",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-17T14:01:27.739Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Zearin\" class=\"u-url mention\">@<span>Zearin</span></a></span> fwiw PowerShell Core seems to be a good path forward (and the code name for the newest major versions of PowerShell)—so this problem will right itself eventually.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112712205894326137",
+			"parentId": "112617308730044109",
+			"url": "https://fediverse.zachleat.com/@zachleat/112712205894326137",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-01T16:36:14.511Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> Wrote this one up as a blog post: <a href=\"https://fediverse.zachleat.com/@zachleat/112712202710821479\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/112712202710821479</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112712311208494945",
+			"parentId": "112712205894326137",
+			"url": "https://front-end.social/@sarajw/112712311186483142",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2024-07-01T17:03:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> oh sweet! Off to read...</p>",
+			"via": "fediverse"
+		}
+	]
+}

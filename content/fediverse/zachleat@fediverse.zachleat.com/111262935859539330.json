@@ -1,0 +1,301 @@
+{
+	"comments": [
+		{
+			"id": "111262944882172889",
+			"parentId": 0,
+			"url": "https://mastodon.world/@exchgr/111262944852463797",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-10-19T17:50:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i use it to load all data from strapi to 11ty in one http request 🙈</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111262955677463555",
+			"parentId": "111262944882172889",
+			"url": "https://fediverse.zachleat.com/@zachleat/111262955677463555",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-19T17:52:51.151Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@exchgr\" class=\"u-url mention\">@<span>exchgr</span></a></span> a build step lets us get away with incredibly inefficient things on the backend and I love it for that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111262966572940452",
+			"parentId": "111262955677463555",
+			"url": "https://mastodon.world/@exchgr/111262966526297701",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-10-19T17:55:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> exactly lol. i justified it because it’s just doing one not-even-that-slow (yet 🫣) request to render every page on my 11ty site, which, due to being static pages hosted on cloudflare pages, is extremely low latency for the end user, even on bad connections</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111262975974278186",
+			"parentId": 0,
+			"url": "https://indieweb.social/@deebloo/111262975871166518",
+			"author": {
+				"name": "Danny Blue",
+				"url": "https://indieweb.social/@deebloo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/311/543/538/710/081/original/16eaa48f74ac1854.jpg"
+			},
+			"date": "2023-10-19T17:57:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have used it pretty extensively. I do not like it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111262995993369340",
+			"parentId": 0,
+			"url": "https://social.lol/@sophie/111262995941379506",
+			"author": {
+				"name": "Sophie",
+				"url": "https://social.lol/@sophie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/513/744/579/116/104/original/940a8528f5f9b588.jpeg"
+			},
+			"date": "2023-10-19T18:03:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I use it, didn’t choose it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263129430726196",
+			"parentId": "111262995993369340",
+			"url": "https://fediverse.zachleat.com/@zachleat/111263129430726196",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-19T18:37:02.417Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@sophie\" class=\"u-url mention\">@<span>sophie</span></a></span> “use it didn’t choose it” is tragically catchy</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263157321855327",
+			"parentId": "111263129430726196",
+			"url": "https://front-end.social/@sarajw/111263157300191000",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-10-19T18:44:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@sophie\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sophie</span></a></span> chalk me up as another one. I didn't choose the stack I make my living working on.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263162608386249",
+			"parentId": "111263157321855327",
+			"url": "https://front-end.social/@sarajw/111263162548891344",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-10-19T18:45:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@sophie\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sophie</span></a></span> also \"use it, didn't choose it\" really needs to be one of the \"State of ...\" devographics survey options</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263186334756109",
+			"parentId": "111263162608386249",
+			"url": "https://t00t.cloud/@mattrambles/111263186232415085",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-10-19T18:51:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@sophie\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sophie</span></a></span> Differentiating between enthusiasm and regret would be useful, too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263194199753452",
+			"parentId": "111263162608386249",
+			"url": "https://mastodon.social/@Jbasoo/111263194152872232",
+			"author": {
+				"name": "James Basoo",
+				"url": "https://mastodon.social/@Jbasoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/081/952/917/472/original/d8185c3d20e45f58.jpg"
+			},
+			"date": "2023-10-19T18:53:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@sophie\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sophie</span></a></span> yep, that's exactly it. So many things I use because the platform/stack requires it, not by choice, GQL included.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263206731888268",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@bglw/111263206719431717",
+			"author": {
+				"name": "Liam Bigelow",
+				"url": "https://fosstodon.org/@bglw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/937/842/242/416/original/8905219901a4a606.jpeg"
+			},
+			"date": "2023-10-19T18:56:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think GraphQL can do some really cool things, and I enjoy using it in certain circumstances. I don’t think it’s a good fit for website frontends wrapping a database… which is unfortunately the main thing it’s used for.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263212695676898",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/111263212653551058",
+			"private": true,
+			"date": "2023-10-19T18:58:12.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263214882731608",
+			"parentId": "111263206731888268",
+			"url": "https://fediverse.zachleat.com/@zachleat/111263214882731608",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-19T18:58:46.312Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\">@<span>bglw</span></a></span> yeah—when you say website frontend, I assume you mean in client JS specifically? Or more broadly?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263296371049402",
+			"parentId": "111263214882731608",
+			"url": "https://fosstodon.org/@bglw/111263296360702030",
+			"author": {
+				"name": "Liam Bigelow",
+				"url": "https://fosstodon.org/@bglw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/937/842/242/416/original/8905219901a4a606.jpeg"
+			},
+			"date": "2023-10-19T19:19:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> more broadly I guess. A lot of the parts I dislike around GQL are the pagination patterns, data loaders, and massive query mitigators. Which are all required when you’re essentially giving an end user access to a database. There are some contexts where you can skip all of those though, like build processes or server&lt;&gt;server communication, and in those contexts GQL’s core functionality can be really nice to use.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263384453722639",
+			"parentId": "111263296371049402",
+			"url": "https://snabelen.no/@larsivi/111263384406857506",
+			"author": {
+				"name": "Lars Ivar",
+				"url": "https://snabelen.no/@larsivi",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-19T19:41:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bglw</span></a></span>  I suppose I am in this camp you describe, but I don't entirely understand the criticism. Are there alternatives that (assuming your app actually reflects the DB in some way) that would avoid these things you mention?</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263578733703545",
+			"parentId": 0,
+			"url": "https://toot.cafe/@reconbot/111263578470565179",
+			"author": {
+				"name": "Francis 🏴‍☠️ Gulotta",
+				"url": "https://toot.cafe/@reconbot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/376/052/418/189/original/b24ed2bdf8f16f68.png"
+			},
+			"date": "2023-10-19T20:31:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I both love it and would ditch it in a heart beat. It’s a wonderful framework for an api server and for having many people work together. TRPC is popular for good reasons however.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263583767915852",
+			"parentId": 0,
+			"url": "https://social.dryan.com/@d/111263583507788843",
+			"author": {
+				"name": "Dan Ryan :dryan:",
+				"url": "https://social.dryan.com/@d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/804/817/015/572/original/b93ef5db0503b13f.jpeg"
+			},
+			"date": "2023-10-19T20:32:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> kind of. Sanity uses their version of it and I have that on a few projects. But I won’t choose the route for anything new.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263788307974567",
+			"parentId": "111263129430726196",
+			"url": "https://mastodon.social/@ollicle/111263788254982673",
+			"private": true,
+			"date": "2023-10-19T21:24:35.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111264101208394277",
+			"parentId": 0,
+			"url": "https://mastodon.social/@knaackbuilt/111264101101773323",
+			"author": {
+				"name": "knaaaaaack",
+				"url": "https://mastodon.social/@knaackbuilt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/929/989/207/421/original/24d790cc88e81ae0.png"
+			},
+			"date": "2023-10-19T22:44:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> recently removed from several major sites due to “holy fuck why did we use this” syndrome. Also breaking changes are too broken.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111264684126499082",
+			"parentId": 0,
+			"url": "https://mastodon.peterjanes.ca/@me/111264684069359014",
+			"private": true,
+			"date": "2023-10-20T01:12:24.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111264988053552348",
+			"parentId": 0,
+			"url": "https://mastodon.social/@gregdaynes/111264988024596931",
+			"author": {
+				"name": "Gregory Daynes",
+				"url": "https://mastodon.social/@gregdaynes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/899/861/626/136/original/9fc576ae2720a8a1.jpeg"
+			},
+			"date": "2023-10-20T02:29:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> use it, but don’t want to :(</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111266961602272980",
+			"parentId": "111263384453722639",
+			"url": "https://fosstodon.org/@bglw/111266961587460907",
+			"author": {
+				"name": "Liam Bigelow",
+				"url": "https://fosstodon.org/@bglw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/937/842/242/416/original/8905219901a4a606.jpeg"
+			},
+			"date": "2023-10-20T10:51:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://snabelen.no/@larsivi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>larsivi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> good old REST 😎 — more seriously, I don’t know! I don’t feel quite the same pain points building and consuming regular APIs. But maybe there’s something better out there, I’m not very well travelled</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111267152454079655",
+			"parentId": "111266961602272980",
+			"url": "https://snabelen.no/@larsivi/111267152414781534",
+			"author": {
+				"name": "Lars Ivar",
+				"url": "https://snabelen.no/@larsivi",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-20T11:40:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bglw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm not very well travelled in these respects either, having worked a lot with legacy legacy stuff, but I do feel that in the case where I use GQL, REST would complicate things really much (but at this point there is a well working GQL infrastructure in place).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111288293762726034",
+			"parentId": "111263162608386249",
+			"url": "https://hachyderm.io/@sachagreif/111288293727881989",
+			"author": {
+				"name": "Sacha Greif",
+				"url": "https://hachyderm.io/@sachagreif",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/538/977/667/146/397/original/f6d20b9b5b62de0a.jpg"
+			},
+			"date": "2023-10-24T05:16:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tylersticka</span></a></span> maybe one day!</p>",
+			"via": "fediverse"
+		}
+	]
+}

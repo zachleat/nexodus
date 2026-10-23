@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "110051683087875932",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/110051683055311893",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-03-19T19:50:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> curious 🧐</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051792578293084",
+			"parentId": 0,
+			"url": "https://mastodon.online/@catraxx/110051792541735602",
+			"author": {
+				"name": "catraxx",
+				"url": "https://mastodon.online/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/608/749/274/424/original/42d350ec8aae85d7.jpg"
+			},
+			"date": "2023-03-19T20:18:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> That is why we didn't use it at work. Their loss.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051814711166157",
+			"parentId": "110051792578293084",
+			"url": "https://fediverse.zachleat.com/@zachleat/110051814711166157",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-19T20:23:46.629Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@catraxx\" class=\"u-url mention\">@<span>catraxx</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> vercel or eleventy? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051875016469081",
+			"parentId": "110051814711166157",
+			"url": "https://mastodon.online/@catraxx/110051874936064211",
+			"author": {
+				"name": "catraxx",
+				"url": "https://mastodon.online/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/608/749/274/424/original/42d350ec8aae85d7.jpg"
+			},
+			"date": "2023-03-19T20:39:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Vercel. We are happily using 11ty</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051884892597180",
+			"parentId": "110051875016469081",
+			"url": "https://fediverse.zachleat.com/@zachleat/110051884892597180",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-19T20:41:37.511Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@catraxx\" class=\"u-url mention\">@<span>catraxx</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> awesome! 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051889017721713",
+			"parentId": "110051884892597180",
+			"url": "https://mastodon.online/@catraxx/110051888925199316",
+			"author": {
+				"name": "catraxx",
+				"url": "https://mastodon.online/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/608/749/274/424/original/42d350ec8aae85d7.jpg"
+			},
+			"date": "2023-03-19T20:42:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Yeah, although as the CMS we use Strapi. Netlify seemed rather complicated to run locally, which is a requirement.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051897718366808",
+			"parentId": "110051875016469081",
+			"url": "https://hachyderm.io/@rusticola/110051897665007278",
+			"author": {
+				"name": "Rustie",
+				"url": "https://hachyderm.io/@rusticola",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/687/070/488/033/982/original/775f51f3cd789d8a.png"
+			},
+			"date": "2023-03-19T20:44:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@catraxx\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>catraxx</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> what a strange move by Vercel. Is it a <a href=\"https://hachyderm.io/tags/Netlify\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Netlify</span></a> vs <a href=\"https://hachyderm.io/tags/Vercel\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Vercel</span></a> rivalry?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051901828416979",
+			"parentId": "110051897718366808",
+			"url": "https://mastodon.online/@catraxx/110051901748118150",
+			"author": {
+				"name": "catraxx",
+				"url": "https://mastodon.online/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/608/749/274/424/original/42d350ec8aae85d7.jpg"
+			},
+			"date": "2023-03-19T20:45:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@rusticola\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rusticola</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I hadn't even considered that. Good point.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110051944478027312",
+			"parentId": "110051901828416979",
+			"url": "https://hachyderm.io/@rusticola/110051944428305629",
+			"author": {
+				"name": "Rustie",
+				"url": "https://hachyderm.io/@rusticola",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/687/070/488/033/982/original/775f51f3cd789d8a.png"
+			},
+			"date": "2023-03-19T20:56:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@catraxx\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>catraxx</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span>. But then <a href=\"https://hachyderm.io/tags/solidjs\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>solidjs</span></a> is there and Ryan Carniato is employed by Netlify too.</p>",
+			"via": "fediverse"
+		}
+	]
+}

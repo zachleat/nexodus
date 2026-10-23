@@ -1,0 +1,173 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:2a4whi26aoc6fbuqba47kjdj/app.bsky.feed.post/3mjkakj4ofc25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alangdm.bsky.social/post/3mjkakj4ofc25",
+			"author": {
+				"name": "Alan Dávalos",
+				"url": "https://bsky.app/profile/alangdm.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2a4whi26aoc6fbuqba47kjdj/bafkreiczhia7as7zbc5rhtssv23r4agegoq6wy7k3guemwjjlhvtohcmhy"
+			},
+			"date": "2026-04-15T15:47:09.809Z",
+			"content": "<p>Not quite a calendar but I usually use <a href=\"https://webstatus.dev/\">webstatus.dev</a> for that purpose</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mjkbhubdws2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mjkbhubdws2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-15T16:03:34.575Z",
+			"content": "<p>A ha, here’s the thing: <a href=\"https://webstatus.dev/?q=baseline_status%3Anewly&amp;columns=name%2Cbaseline_status&amp;column_options=baseline_status_high_date&amp;sort=baseline_status_asc&amp;num=100\">webstatus.dev?q=baseline_s...</a></p>\n<p>Thanks <a href=\"https://bsky.app/profile/did:plc:2a4whi26aoc6fbuqba47kjdj\">@alangdm.bsky.social</a>!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkblhwfjs2v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mjkbhubdws2k",
+			"url": "https://bsky.app/profile/infrequently.org/post/3mjkblhwfjs2v",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://bsky.app/profile/infrequently.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iagspo44enzkxp5y53cyfezm/bafkreiczpn6ws3t77xb2te2ptg5mcxs33mf6lsvnl7pyz6muu3lhk4udse"
+			},
+			"date": "2026-04-15T16:05:35.850Z",
+			"content": "<p>We should all be super sceptical of the \"widely available\" thing. Users shouldn't be on 30 month old browsers, ever. The Cheome team should know better than to create an attractive nuisance like this.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mjkbqpvsa22g",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkblhwfjs2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mjkbqpvsa22g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-15T16:08:31.993Z",
+			"content": "<p>My hunch was that 30 months was too short to match reality 🫣😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkbw7uazs2v",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkblhwfjs2v",
+			"url": "https://bsky.app/profile/infrequently.org/post/3mjkbw7uazs2v",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://bsky.app/profile/infrequently.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iagspo44enzkxp5y53cyfezm/bafkreiczpn6ws3t77xb2te2ptg5mcxs33mf6lsvnl7pyz6muu3lhk4udse"
+			},
+			"date": "2026-04-15T16:11:36.491Z",
+			"content": "<p>The idea that we'd create a disincentive to use a feature for almost *3 years* after 90+% uptake is 🤦🤦🤦</p>\n<p>I get the ESR thing, but this isn't a responsible way for us to be advising web developers about their options. The name alone is a real problem.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:v4mpstz5baibsi5srortfpxs/app.bsky.feed.post/3mjkbzo3rvc2a",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkblhwfjs2v",
+			"url": "https://bsky.app/profile/sgomes.com/post/3mjkbzo3rvc2a",
+			"author": {
+				"name": "Sérgio Gomes",
+				"url": "https://bsky.app/profile/sgomes.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:v4mpstz5baibsi5srortfpxs/bafkreicbjcqaatl3tvfm3dz3q5va442noeepzgfsr6gwfvbqnlvkipyqze"
+			},
+			"date": "2026-04-15T16:13:32.082Z",
+			"content": "<p>There are a few use-cases. E.g., when collecting RUM data we want the script to work mostly everywhere, not crash on unsupported syntax, so we know the # of users left on older browsers. We've been (carefully, to avoid bloat) transpiling to ES5 for this, but \"widely available\" might be a good fit.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkbzqwvvs2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mjkbqpvsa22g",
+			"url": "https://bsky.app/profile/infrequently.org/post/3mjkbzqwvvs2s",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://bsky.app/profile/infrequently.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iagspo44enzkxp5y53cyfezm/bafkreiczpn6ws3t77xb2te2ptg5mcxs33mf6lsvnl7pyz6muu3lhk4udse"
+			},
+			"date": "2026-04-15T16:13:35.067Z",
+			"content": "<p>It's not. We keep doing audits for Office to see enterprise use, and it's generally a security problem for any enterprise of they have users on engines that old. We're doing them a favour by being more aggressive in most cases.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkc2a6w4k2s",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkbzqwvvs2s",
+			"url": "https://bsky.app/profile/infrequently.org/post/3mjkc2a6w4k2s",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://bsky.app/profile/infrequently.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iagspo44enzkxp5y53cyfezm/bafkreiczpn6ws3t77xb2te2ptg5mcxs33mf6lsvnl7pyz6muu3lhk4udse"
+			},
+			"date": "2026-04-15T16:13:51.059Z",
+			"content": "<p>*if</p>\n<p>*sigh*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mjkc2t6pdk2n",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkbw7uazs2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mjkc2t6pdk2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-15T16:14:10.975Z",
+			"content": "<p>Ah, yeah. I get that. I would welcome a Baseline that was PE-aware and usage driven too</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3mjkc65cs5c2b",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkblhwfjs2v",
+			"url": "https://bsky.app/profile/duffeh.bsky.social/post/3mjkc65cs5c2b",
+			"author": {
+				"name": "Duffeh",
+				"url": "https://bsky.app/profile/duffeh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spulgjrl7sactd23bgqv6jen/bafkreihf42m7kegjr2iu7zucmfcby4dqblokuc7ii3nomjtfv7tod5m6la"
+			},
+			"date": "2026-04-15T16:16:02.258Z",
+			"content": "<p>Features aren't all equal as well, like fetch priority could be used as soon as chrome supported it, and without waiting for widely available etc.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mjkeeziv3s2v",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3mjkbzqwvvs2s",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mjkeeziv3s2v",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-04-15T16:55:40.628Z",
+			"content": "<p>yeah, but nowadays the long pole are private iPads that don’t get iOS/Safari updates anymore.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:o5rb2pctvr4fevekac7ig5yx/app.bsky.feed.post/3mjkl26lcds2v",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mjkeeziv3s2v",
+			"url": "https://bsky.app/profile/hckr.studio/post/3mjkl26lcds2v",
+			"author": {
+				"name": "hckr.studio",
+				"url": "https://bsky.app/profile/hckr.studio",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:o5rb2pctvr4fevekac7ig5yx/bafkreicxaqboijtunvghib6iw7yfxqht5sm2qsomydnstr6egkje7mbafe"
+			},
+			"date": "2026-04-15T18:54:53.043Z",
+			"content": "<p>and Chrome on older macOS as well.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:o5rb2pctvr4fevekac7ig5yx/app.bsky.feed.post/3mjkl6bdju22v",
+			"parentId": "at://did:plc:o5rb2pctvr4fevekac7ig5yx/app.bsky.feed.post/3mjkl26lcds2v",
+			"url": "https://bsky.app/profile/hckr.studio/post/3mjkl6bdju22v",
+			"author": {
+				"name": "hckr.studio",
+				"url": "https://bsky.app/profile/hckr.studio",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:o5rb2pctvr4fevekac7ig5yx/bafkreicxaqboijtunvghib6iw7yfxqht5sm2qsomydnstr6egkje7mbafe"
+			},
+			"date": "2026-04-15T18:57:10.153Z",
+			"content": "<p>On older Macs you can do almost nothing, because the AppStore is broken and the web is broken as well. Too aggressive everything.</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:cxanujrx65atb5ln5rpw4g3l/app.bsky.feed.post/3mkkszpmav22a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/pborenstein.com/post/3mkkszpmav22a",
+			"author": {
+				"name": "Philip Borenstein",
+				"url": "https://bsky.app/profile/pborenstein.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cxanujrx65atb5ln5rpw4g3l/bafkreihjjzz5fpvsi4epj72rnctlp7r4sedh5ad3flj7ecbjbetgs57vie"
+			},
+			"date": "2026-04-28T14:42:58.904Z",
+			"content": "<p>I was explaining to a former colleague that Markdown had become the standard interchange format for LLMs. He almost fell off his chair laughing.</p>\n<p>\"All that time we wrestled with XML!\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mkkzxu5t6k22",
+			"parentId": "at://did:plc:cxanujrx65atb5ln5rpw4g3l/app.bsky.feed.post/3mkkszpmav22a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mkkzxu5t6k22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-28T16:47:12.763Z",
+			"content": "<p>SOAP could never 😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

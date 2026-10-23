@@ -1,0 +1,111 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:j6mfzwfj65njsy3r2negoeyn/app.bsky.feed.post/3mu5d3qnnzu2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/moogento.bsky.social/post/3mu5d3qnnzu2k",
+			"author": {
+				"name": "Moogento",
+				"url": "https://bsky.app/profile/moogento.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j6mfzwfj65njsy3r2negoeyn/bafkreihqdvvm7yblcjaravl6qx3ro6g5e6xhddo7vh2mguflfd23fymbpy"
+			},
+			"date": "2026-08-28T12:05:06.000Z",
+			"content": "<p>It's a useful safeguard because regressions often arrive with a template change or third-party tag, not a code deploy.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gb43id6us6iqho6fvkhik5x2/app.bsky.feed.post/3mu5nzjxcyc2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/wildbuilt.eurosky.social/post/3mu5nzjxcyc2t",
+			"private": true,
+			"date": "2026-08-28T15:20:43.943Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3mu5obz2u6c2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3mu5obz2u6c2p",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2026-08-28T15:25:28.227Z",
+			"content": "<p>seems like a bunch of the copy on a website's results page is ai generated 😣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu5szecqkc2h",
+			"parentId": "at://did:plc:gb43id6us6iqho6fvkhik5x2/app.bsky.feed.post/3mu5nzjxcyc2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mu5szecqkc2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-28T16:50:06.742Z",
+			"content": "<p>there are instructions on the repo README 👀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gb43id6us6iqho6fvkhik5x2/app.bsky.feed.post/3mu5vxf7iu22t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu5szecqkc2h",
+			"url": "https://bsky.app/profile/wildbuilt.eurosky.social/post/3mu5vxf7iu22t",
+			"private": true,
+			"date": "2026-08-28T17:42:41.800Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2l2l67df67xs7tc5p5tjbsr2/app.bsky.feed.post/3mu6hlbzmhc2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lenny.fyi/post/3mu6hlbzmhc2e",
+			"author": {
+				"name": "Lenny",
+				"url": "https://bsky.app/profile/lenny.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2l2l67df67xs7tc5p5tjbsr2/bafkreig7bezs75epxcmgqkjtym222m6lneybpw23j3taedgeoejndips6u"
+			},
+			"date": "2026-08-28T22:58:03.162Z",
+			"content": "<p>Is there a reason the score widget code is not published on npm?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu6ib3jqls26",
+			"parentId": "at://did:plc:2l2l67df67xs7tc5p5tjbsr2/app.bsky.feed.post/3mu6hlbzmhc2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mu6ib3jqls26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-28T23:10:14.547Z",
+			"content": "<p>an unchecked TODO is the only reason 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mukih73vvs25",
+			"parentId": "at://did:plc:2l2l67df67xs7tc5p5tjbsr2/app.bsky.feed.post/3mu6hlbzmhc2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mukih73vvs25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-02T17:45:36.476Z",
+			"content": "<p>it’s on there now <a href=\"https://www.npmjs.com/package/speedlify2-score\">www.npmjs.com/package/spee...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2l2l67df67xs7tc5p5tjbsr2/app.bsky.feed.post/3mukilpyiys26",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mukih73vvs25",
+			"url": "https://bsky.app/profile/lenny.fyi/post/3mukilpyiys26",
+			"author": {
+				"name": "Lenny",
+				"url": "https://bsky.app/profile/lenny.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2l2l67df67xs7tc5p5tjbsr2/bafkreig7bezs75epxcmgqkjtym222m6lneybpw23j3taedgeoejndips6u"
+			},
+			"date": "2026-09-02T17:48:08.407Z",
+			"content": "<p>Thanks a lot! Will add to my page soon. 🥳</p>",
+			"via": "bluesky"
+		}
+	]
+}

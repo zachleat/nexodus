@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lhlbfowss22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lhlbfowss22f",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-02-07T09:18:26.273Z",
+			"content": "<p>Its kind of a slippery slope of Node.js here (prompted by Deno / Bun). By supporting a non-standard file format rather than waiting for eg. <a href=\"https://github.com/tc39/proposal-type-annotations\">github.com/tc39/proposa...</a> they have opened themselves up to requests to support lots of other syntax.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lhlbfqzgms2f",
+			"parentId": "at://did:plc:24la36c5vk45r2sc4xscsikr/app.bsky.feed.post/3lhlbfowss22f",
+			"url": "https://bsky.app/profile/voxpelli.com/post/3lhlbfqzgms2f",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://bsky.app/profile/voxpelli.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24la36c5vk45r2sc4xscsikr/bafkreicdkr7cmuzc7kxnnvjz5bpe5ws3wgbnr5jiczzih6dqeoeu6uncgq"
+			},
+			"date": "2025-02-07T09:18:26.274Z",
+			"content": "<p>Only good part is that its a strict stripping now – else we might have ended up with an equivalent of in-core support for Coffeescript in a couple of years</p>",
+			"via": "bluesky"
+		}
+	]
+}

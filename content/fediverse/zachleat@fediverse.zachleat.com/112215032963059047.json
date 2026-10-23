@@ -1,0 +1,77 @@
+{
+	"comments": [
+		{
+			"id": "112215047276753022",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112215047276753022",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-04T21:22:16.033Z",
+			"content": "<p>we don’t measure LoC, we measure in piles</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112215107264306987",
+			"parentId": "112215047276753022",
+			"url": "https://ruby.social/@konnorrogers/112215107242224309",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-04-04T21:37:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> PoC, Piles of Crap</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112215367716306502",
+			"parentId": 0,
+			"url": "https://mastodon.social/@KeithPurtell/112215367625966703",
+			"author": {
+				"name": "Keith Purtell",
+				"url": "https://mastodon.social/@KeithPurtell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/605/132/826/966/789/original/c3e0200ccb1a7f1e.jpg"
+			},
+			"date": "2024-04-04T22:43:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I once deleted about 20 high-resolution photos because of a miscommunication about how to identify files on our company network.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112216732961155141",
+			"parentId": "112215367716306502",
+			"url": "https://fosstodon.org/@webaware/112216732940212023",
+			"private": true,
+			"date": "2024-04-05T04:30:57.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112221235871358845",
+			"parentId": "112215367716306502",
+			"url": "https://fediverse.zachleat.com/@zachleat/112221235871358845",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-05T23:36:06.494Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@KeithPurtell\" class=\"u-url mention\">@<span>KeithPurtell</span></a></span> oh no, I assume you had them backed up on the blockchain at least</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112236363221070989",
+			"parentId": "112221235871358845",
+			"url": "https://mastodon.social/@KeithPurtell/112236363195600896",
+			"author": {
+				"name": "Keith Purtell",
+				"url": "https://mastodon.social/@KeithPurtell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/605/132/826/966/789/original/c3e0200ccb1a7f1e.jpg"
+			},
+			"date": "2024-04-08T15:43:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  it was the 1990s, had not heard of blockchain. It was on a \"mixed\" Windows and Mac network, which was part of the problem.</p>",
+			"via": "fediverse"
+		}
+	]
+}

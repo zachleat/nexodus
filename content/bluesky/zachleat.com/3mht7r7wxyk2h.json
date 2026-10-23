@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:a64baelxsmvy6aonnbfhbirv/app.bsky.feed.post/3mhtamjpid22v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tfedder.de/post/3mhtamjpid22v",
+			"author": {
+				"name": "Tobias Fedder",
+				"url": "https://bsky.app/profile/tfedder.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:a64baelxsmvy6aonnbfhbirv/bafkreigcjhsxk6uz4plibvdto6t23vicadmispnvgq2hlpj23x2fyilngy"
+			},
+			"date": "2026-03-24T18:51:51.925Z",
+			"content": "<p>An extension to solve CLS?<br>\n*cries in procedural shadow DOM*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhtatobtvc2a",
+			"parentId": "at://did:plc:a64baelxsmvy6aonnbfhbirv/app.bsky.feed.post/3mhtamjpid22v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mhtatobtvc2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-24T18:55:51.602Z",
+			"content": "<p>it renders but any overflow is clipped as penance 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iayzfwpuyndau2jlayjgykga/app.bsky.feed.post/3mhtrojqxd22l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alansdead.bsky.social/post/3mhtrojqxd22l",
+			"author": {
+				"name": "Alansdead",
+				"url": "https://bsky.app/profile/alansdead.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iayzfwpuyndau2jlayjgykga/bafkreifdky52iz3lexz2exuhyrnymd4gricw3jvgw4qrxjs2nxudqko4z4"
+			},
+			"date": "2026-03-24T23:57:12.692Z",
+			"content": "<p>I tried the Stylebot extension it was alright, have heard of it?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iayzfwpuyndau2jlayjgykga/app.bsky.feed.post/3mhtrpxczjk2l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhtatobtvc2a",
+			"url": "https://bsky.app/profile/alansdead.bsky.social/post/3mhtrpxczjk2l",
+			"author": {
+				"name": "Alansdead",
+				"url": "https://bsky.app/profile/alansdead.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iayzfwpuyndau2jlayjgykga/bafkreifdky52iz3lexz2exuhyrnymd4gricw3jvgw4qrxjs2nxudqko4z4"
+			},
+			"date": "2026-03-24T23:58:00.470Z",
+			"content": "<p><a href=\"https://bsky.app/profile/did:plc:xpchjovbk6sxl3bv74z7cs54\">@zachleat.com</a> can’t you do overflow: hidden?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhtrvqefvk2l",
+			"parentId": "at://did:plc:iayzfwpuyndau2jlayjgykga/app.bsky.feed.post/3mhtrojqxd22l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mhtrvqefvk2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-25T00:01:14.503Z",
+			"content": "<p>this post is tongue-in-cheek fwiw 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iayzfwpuyndau2jlayjgykga/app.bsky.feed.post/3mhtrygbwbk2l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhtrvqefvk2l",
+			"url": "https://bsky.app/profile/alansdead.bsky.social/post/3mhtrygbwbk2l",
+			"author": {
+				"name": "Alansdead",
+				"url": "https://bsky.app/profile/alansdead.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iayzfwpuyndau2jlayjgykga/bafkreifdky52iz3lexz2exuhyrnymd4gricw3jvgw4qrxjs2nxudqko4z4"
+			},
+			"date": "2026-03-25T00:02:44.599Z",
+			"content": "<p>😂😂😂</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iayzfwpuyndau2jlayjgykga/app.bsky.feed.post/3mhts57iwr22l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhtrvqefvk2l",
+			"url": "https://bsky.app/profile/alansdead.bsky.social/post/3mhts57iwr22l",
+			"author": {
+				"name": "Alansdead",
+				"url": "https://bsky.app/profile/alansdead.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iayzfwpuyndau2jlayjgykga/bafkreifdky52iz3lexz2exuhyrnymd4gricw3jvgw4qrxjs2nxudqko4z4"
+			},
+			"date": "2026-03-25T00:05:25.261Z",
+			"content": "<p>I got that, was just playing along 🤣</p>",
+			"via": "bluesky"
+		}
+	]
+}

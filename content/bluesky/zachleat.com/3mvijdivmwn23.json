@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:hi2as635pg63iytfw53yvnjl/app.bsky.feed.post/3mvkuntq2ns2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/linkplay.space/post/3mvkuntq2ns2d",
+			"author": {
+				"name": "toni / link",
+				"url": "https://bsky.app/profile/linkplay.space",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hi2as635pg63iytfw53yvnjl/bafkreig7jfnetwqrdfqj4d7kixqe5pcetvxhpvclu244eh7pfvjv6va6im"
+			},
+			"date": "2026-09-15T14:49:15.962Z",
+			"content": "<p>in case you want more feedback 😅<br>\nimo the separator makes it a bit ambiguous to what \"Auto\" is referring to, and i first read it like the toggle thinks the current selection is Auto, but it's for switching _to_ light/auto. maybe (auto) in quotes without separator would work better?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:eahpcxuj4czenarsbokdkdqc/app.bsky.feed.post/3mvkuwluqrk2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kramer.run/post/3mvkuwluqrk2v",
+			"author": {
+				"name": "Josh Kramer",
+				"url": "https://bsky.app/profile/kramer.run",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eahpcxuj4czenarsbokdkdqc/bafkreiearu3cet23ybtmnj3veksx67iwnz2r5mbmkfr7nysacr4b34inki"
+			},
+			"date": "2026-09-15T14:54:09.719Z",
+			"content": "<p>I was hoping this would turn your site to dark mode, but only when your location is experiencing an eclipse.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvkv6eekrs22",
+			"parentId": "at://did:plc:eahpcxuj4czenarsbokdkdqc/app.bsky.feed.post/3mvkuwluqrk2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvkv6eekrs22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-15T14:58:30.284Z",
+			"content": "<p>…oh my god</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:eahpcxuj4czenarsbokdkdqc/app.bsky.feed.post/3mvkvd537tc23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvkv6eekrs22",
+			"url": "https://bsky.app/profile/kramer.run/post/3mvkvd537tc23",
+			"author": {
+				"name": "Josh Kramer",
+				"url": "https://bsky.app/profile/kramer.run",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eahpcxuj4czenarsbokdkdqc/bafkreiearu3cet23ybtmnj3veksx67iwnz2r5mbmkfr7nysacr4b34inki"
+			},
+			"date": "2026-09-15T15:01:10.409Z",
+			"content": "<p>For anyone who wants to implement this <a href=\"https://aa.usno.navy.mil/data/api#soleclipse\">aa.usno.navy.mil/data/api#sol...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvkxwxe55k2p",
+			"parentId": "at://did:plc:hi2as635pg63iytfw53yvnjl/app.bsky.feed.post/3mvkuntq2ns2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvkxwxe55k2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-15T15:48:02.982Z",
+			"content": "<p>I did play around with SYSTEM but I see what you mean! Hmmmmmm…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hi2as635pg63iytfw53yvnjl/app.bsky.feed.post/3mw4hpmoi4s2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvkxwxe55k2p",
+			"url": "https://bsky.app/profile/linkplay.space/post/3mw4hpmoi4s2n",
+			"author": {
+				"name": "toni / link",
+				"url": "https://bsky.app/profile/linkplay.space",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hi2as635pg63iytfw53yvnjl/bafkreig7jfnetwqrdfqj4d7kixqe5pcetvxhpvclu244eh7pfvjv6va6im"
+			},
+			"date": "2026-09-22T14:45:32.327Z",
+			"content": "<p>i just saw the new design, and i think it works a lot better! 🎉</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4hs6uuy22q",
+			"parentId": "at://did:plc:hi2as635pg63iytfw53yvnjl/app.bsky.feed.post/3mw4hpmoi4s2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw4hs6uuy22q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-22T14:46:58.520Z",
+			"content": "<p>appreciate the feedback! we’re always iterating 🙌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hi2as635pg63iytfw53yvnjl/app.bsky.feed.post/3mw4hwy4f3k2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4hs6uuy22q",
+			"url": "https://bsky.app/profile/linkplay.space/post/3mw4hwy4f3k2n",
+			"author": {
+				"name": "toni / link",
+				"url": "https://bsky.app/profile/linkplay.space",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hi2as635pg63iytfw53yvnjl/bafkreig7jfnetwqrdfqj4d7kixqe5pcetvxhpvclu244eh7pfvjv6va6im"
+			},
+			"date": "2026-09-22T14:49:39.199Z",
+			"content": "<p>that's the way to greatness!</p>",
+			"via": "bluesky"
+		}
+	]
+}

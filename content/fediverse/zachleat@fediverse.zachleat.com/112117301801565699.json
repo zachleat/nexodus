@@ -1,0 +1,397 @@
+{
+	"comments": [
+		{
+			"id": "112117316896800164",
+			"parentId": 0,
+			"url": "https://follow.ethanmarcotte.com/@beep/112117316816473592",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-03-18T15:08:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i just saw the phrase “view source aesthetic” and suddenly my laptop was floating down the charles river, what is even happening over there</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117330469343214",
+			"parentId": "112117316896800164",
+			"url": "https://fediverse.zachleat.com/@zachleat/112117330469343214",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T15:11:35.883Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> I have altered the abstraction, pray I do not alter it any further</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117360490011244",
+			"parentId": 0,
+			"url": "https://front-end.social/@mia/112117360316523435",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2024-03-18T15:19:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sadly, without logging in, there is no exchange.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117367980501505",
+			"parentId": "112117360490011244",
+			"url": "https://fediverse.zachleat.com/@zachleat/112117367980501505",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T15:21:08.258Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> ah, sorry I’ll add a screenshot.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117370733901586",
+			"parentId": "112117330469343214",
+			"url": "https://follow.ethanmarcotte.com/@beep/112117370335983441",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-03-18T15:21:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> as if millions of sub-3G network connections suddenly cried out and were suddenly silenced</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117384134402329",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112117384134402329",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T15:25:14.745Z",
+			"content": "<p>anyway, here’s Eleventy’s version in two commands:</p><p>echo &#39;# Page header&#39; &gt; index.md<br />npx @11ty/eleventy</p><p>and the output is `&lt;h1&gt;Page header&lt;/h1&gt;`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117392778191704",
+			"parentId": "112117370733901586",
+			"url": "https://fediverse.zachleat.com/@zachleat/112117392778191704",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T15:27:26.640Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> congrats to all my Empire friends, just seeing that the Death Star raised a new Series A round of $4.2T!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117419437934588",
+			"parentId": "112117367980501505",
+			"url": "https://front-end.social/@mia/112117419405356818",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2024-03-18T15:34:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117427434199937",
+			"parentId": "112117384134402329",
+			"url": "https://hackers.town/@randomgeek/112117427356190175",
+			"author": {
+				"name": "Random Geek",
+				"url": "https://hackers.town/@randomgeek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/773/610/553/483/original/b4b0269e9d69fb49.jpeg"
+			},
+			"date": "2024-03-18T15:36:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks for doing your part to keep honest to god web site building alive</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117433756428806",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@mahryekuh/112117433689347765",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2024-03-18T15:37:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This post makes me feel feelings that I cannot express adequately.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117437900504305",
+			"parentId": "112117392778191704",
+			"url": "https://follow.ethanmarcotte.com/@beep/112117437832799908",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-03-18T15:38:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> okay this one made me need to sit down (and i was already sitting down)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117472656246321",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cferdinandi/112117472554878062",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2024-03-18T15:47:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117566993527253",
+			"parentId": "112117437900504305",
+			"url": "https://fediverse.zachleat.com/@zachleat/112117566993527253",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T16:11:44.955Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> …stormtroopers union</p><p>(sorry)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117570155599815",
+			"parentId": "112117427434199937",
+			"url": "https://fediverse.zachleat.com/@zachleat/112117570155599815",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T16:12:33.205Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url mention\">@<span>randomgeek</span></a></span> I like building web sites and I would like to keep doing it more please 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117612112250973",
+			"parentId": "112117566993527253",
+			"url": "https://follow.ethanmarcotte.com/@beep/112117611997191849",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-03-18T16:23:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no space cops in labor</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117631615010522",
+			"parentId": "112117570155599815",
+			"url": "https://social.coop/@eb/112117631595270166",
+			"author": {
+				"name": "Evan B🥥ehs",
+				"url": "https://social.coop/@eb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/403/079/868/456/691/original/f41d3e92406d02c0.jpeg"
+			},
+			"date": "2024-03-18T16:28:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hackers.town/@randomgeek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>randomgeek</span></a></span> I didn't make the website, the website made me</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117858280669569",
+			"parentId": 0,
+			"url": "https://status.fberriman.com/@phae/112117858132649658",
+			"author": {
+				"name": "phae",
+				"url": "https://status.fberriman.com/@phae",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+			},
+			"date": "2024-03-18T17:25:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> just saw this and thought of you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112117871927608767",
+			"parentId": "112117858280669569",
+			"url": "https://fediverse.zachleat.com/@zachleat/112117871927608767",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T17:29:17.880Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\">@<span>phae</span></a></span> just saw this and thought of that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112118212062034715",
+			"parentId": 0,
+			"url": "https://mastodon.social/@peruvianidol/112118211827746319",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2024-03-18T18:55:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This broke my fucking brain. All that to build something that looks like the first web page ever made. 🤦🏻‍♂️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112118392748231698",
+			"parentId": "112118212062034715",
+			"url": "https://fediverse.zachleat.com/@zachleat/112118392748231698",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-18T19:41:44.971Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@peruvianidol\" class=\"u-url mention\">@<span>peruvianidol</span></a></span> AI will save us from this complexity, mike</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112118469252817796",
+			"parentId": 0,
+			"url": "https://mamot.fr/@GoOz/112118469237703426",
+			"author": {
+				"name": "GoOz",
+				"url": "https://mamot.fr/@GoOz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/582/853/408/202/original/d4d683e4927c788f.jpg"
+			},
+			"date": "2024-03-18T20:01:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m astonished by the lack of people answering how messed up it is to use React for one freaking simple &amp; obviously static website.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112118762275108160",
+			"parentId": "112118469252817796",
+			"url": "https://mastodon.social/@MerriNet/112118762244328723",
+			"author": {
+				"name": "Vesa / Merri / メレリ",
+				"url": "https://mastodon.social/@MerriNet",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-18T21:15:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@GoOz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>GoOz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Although React is messed up to use for anything these days.</p><p>It made some sense for a SPA where you can pay the relatively big size of the thing, but now it is all about RSC, and NextJS doesn't help with pushing alpha quality stuff for production use where basic things like CSS is not loading for dynamic imports when using App Router which they now recommend despite still not working for everything.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112122175141559036",
+			"parentId": "112117384134402329",
+			"url": "https://mastodon.social/@muan/112122175045489107",
+			"author": {
+				"name": "Mu-An",
+				"url": "https://mastodon.social/@muan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/399/214/134/125/634/original/4207c4c92001e33f.png"
+			},
+			"date": "2024-03-19T11:43:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> where does a template(+/static css/assets) get factored in in this command? I thought it was more complicated than that the last time I tried to use it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112122395708293682",
+			"parentId": "112122175141559036",
+			"url": "https://fediverse.zachleat.com/@zachleat/112122395708293682",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-19T12:39:45.295Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@muan\" class=\"u-url mention\">@<span>muan</span></a></span> markdown files are preprocessed with liquid by default</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112144798678829171",
+			"parentId": "112118469252817796",
+			"url": "https://friends.grishka.me/posts/1064700",
+			"author": {
+				"name": "Григорий Клюшников",
+				"url": "https://friends.grishka.me/grishka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/504/331/434/093/598/original/251e3ced1a693e54.jpg"
+			},
+			"date": "2024-03-23T11:37:07.000Z",
+			"content": "<p><a href=\"https://mamot.fr/@GoOz\" class=\"mention\" rel=\"nofollow noopener\" target=\"_blank\">GoOz</a>, having watched <a href=\"https://www.youtube.com/watch?v=XAGCULPO_DE\" rel=\"nofollow noopener\" target=\"_blank\">this</a>, I don't understand why <i>anyone</i> would use React for <i>anything</i>. Want a blog or a \"business card\" website or something for docs for your project? Use a static site generator like Hugo. Want something dynamic? Build a server application with any stack you like and render your pages server-side. (this comment was proudly served to you by such a server application)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112145085325220743",
+			"parentId": "112117858280669569",
+			"url": "https://indieweb.social/@nachtfunke/112145085298125540",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2024-03-23T12:50:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> omg is this real?!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112145419892164390",
+			"parentId": 0,
+			"url": "https://toot.cafe/@baldur/112145418410393685",
+			"author": {
+				"name": "Baldur Bjarnason",
+				"url": "https://toot.cafe/@baldur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/345/749/203/632/original/6b89199d62c86630.jpg"
+			},
+			"date": "2024-03-23T14:14:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I made the mistake of clicking through and reading the full thread. Dear lord. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112145429431057225",
+			"parentId": "112117392778191704",
+			"url": "https://hackers.town/@mav/112145429153310013",
+			"private": true,
+			"date": "2024-03-23T14:17:27.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112145802617822051",
+			"parentId": "112145419892164390",
+			"url": "https://toot.cafe/@reconbot/112145802480654016",
+			"author": {
+				"name": "Francis 🏴‍☠️ Gulotta",
+				"url": "https://toot.cafe/@reconbot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/376/052/418/189/original/b24ed2bdf8f16f68.png"
+			},
+			"date": "2024-03-23T15:52:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is there a way to read the thread without an account?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112146243219876406",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/112146243059727233",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-03-23T17:44:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> comedy/drama</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112147558157670466",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/112147558140915915",
+			"private": true,
+			"date": "2024-03-23T23:18:53.000Z",
+			"via": "fediverse"
+		}
+	]
+}

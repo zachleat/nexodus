@@ -1,0 +1,774 @@
+{
+	"comments": [
+		{
+			"id": "109513097917599883",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@jakecarpenter/109513093862142407",
+			"author": {
+				"name": "Jake Carpenter",
+				"url": "https://fosstodon.org/@jakecarpenter",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T16:59:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> dotnet does for their SDK and CLI too. I don't consider it to be a horrible thing. They're transparent about it and show that they take steps to make sure it's used for good.</p><p>EDIT for URL: <a href=\"https://learn.microsoft.com/en-us/dotnet/core/tools/telemetry\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">learn.microsoft.com/en-us/dotn</span><span class=\"invisible\">et/core/tools/telemetry</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513099003802399",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@hazelweakly/109513096148012522",
+			"author": {
+				"name": "Hazel Weakly",
+				"url": "https://hachyderm.io/@hazelweakly",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/789/993/621/477/original/a8d295daa28bea0f.jpg"
+			},
+			"date": "2022-12-14T17:00:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's very common among the large react frameworks iirc. It makes some sense when you have massive amounts of expensive to maintain features and you'd like to know which ones break and which ones aren't used</p><p>(I'm not sure that's what they actually use it for though so I won't make any claims there)</p><p>((Next.js is also maintained by a profit driven company who is very interested in figuring out how to extract profit from OSS and dev tooling, so...))</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513103201697607",
+			"parentId": 0,
+			"url": "https://tdd.social/@CodingItWrong/109513097068224243",
+			"author": {
+				"name": "Josh Justice",
+				"url": "https://tdd.social/@CodingItWrong",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T17:00:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> seems rare and unfortunate to me 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513102448692046",
+			"parentId": 0,
+			"url": "https://mastodon.ar.al/@aral/109513102302371557",
+			"author": {
+				"name": "Aral Balkan",
+				"url": "https://mastodon.ar.al/@aral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/983/165/852/161/original/c0756d3a0a63b51e.png"
+			},
+			"date": "2022-12-14T17:02:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Fucking hell, are you kidding me?</p><p>Wow.</p><p>(Why am I surprised? I wrote Auto Encrypt – <a href=\"https://codeberg.org/small-tech/auto-encrypt\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/small-tech/auto-e</span><span class=\"invisible\">ncrypt</span></a> – because the main Let’s Encrypt library out there for Node.js was doing the same thing.)</p><p>*smh*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513126278851599",
+			"parentId": "109513097917599883",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513126278851599",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T17:08:13.461Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@jakecarpenter\" class=\"u-url mention\">@<span>jakecarpenter</span></a></span> yeah, I think transparency is very important—I’m just really curious how many folks understand that it’s happening!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513139786541906",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@papayaga/109513127186424949",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2022-12-14T17:08:27.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not for nothing and solely between you and me and no one else since this is totally a closed channel, making an opt-in otel plugin for eleventy is on my 2023 project list.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513161603788261",
+			"parentId": "109513139786541906",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513161603788261",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T17:17:12.482Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@papayaga\" class=\"u-url mention\">@<span>papayaga</span></a></span> I… can’t tell if you’re joking 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513163200064472",
+			"parentId": "109513102448692046",
+			"url": "https://chaos.social/@lazurski/109513163020609991",
+			"author": {
+				"name": "Tad Lispy",
+				"url": "https://chaos.social/@lazurski",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T17:17:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if I understand it right, the telemetry concerns the use by a developer or at build-time as opposed to run-time. What's the big harm?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513168363963019",
+			"parentId": "109513102448692046",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513168363963019",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T17:18:55.630Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\">@<span>aral</span></a></span> by your reaction I’m guessing you did not know about this 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513181092134727",
+			"parentId": "109513163200064472",
+			"url": "https://mastodon.ar.al/@aral/109513180919955017",
+			"author": {
+				"name": "Aral Balkan",
+				"url": "https://mastodon.ar.al/@aral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/983/165/852/161/original/c0756d3a0a63b51e.png"
+			},
+			"date": "2022-12-14T17:22:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@lazurski\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lazurski</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> As far as the library I was mentioning goes, it was collecting information from everyone who used it. Regarding Vercel’s case: it still normalises surveillance and, more so, in free/open code. Companies get bought, privacy policies are updated.</p><p>Also, opt-out is what you do when you don’t respect someone’s privacy. Opt-out says “hi, I’m doing something you might not want. If you want me to stop…”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513182444575149",
+			"parentId": "109513163200064472",
+			"url": "https://mastodontti.fi/@janvenetor/109513182388931634",
+			"author": {
+				"name": "Janne",
+				"url": "https://mastodontti.fi/@janvenetor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/513/172/089/638/747/original/6b161091a8f20a09.jpg"
+			},
+			"date": "2022-12-14T17:22:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@lazurski\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lazurski</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> at least many mobile SDK:s collect location data. And sell it to state actors.</p><p>Opt-out telemetry is typical in build time tools, but they usually don't affect the end users...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513187979732801",
+			"parentId": 0,
+			"url": "https://masto.ai/@climatepenguin/109513187956804545",
+			"author": {
+				"name": "penguin",
+				"url": "https://masto.ai/@climatepenguin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/513/160/826/997/828/original/8f2cbc30a1d81ec0.png"
+			},
+			"date": "2022-12-14T17:23:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Nuxt also has telemetry but it's opt-in <a href=\"https://nuxtjs.org/docs/configuration-glossary/configuration-telemetry/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nuxtjs.org/docs/configuration-</span><span class=\"invisible\">glossary/configuration-telemetry/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513192685838278",
+			"parentId": "109513182444575149",
+			"url": "https://mastodon.ar.al/@aral/109513191570282430",
+			"author": {
+				"name": "Aral Balkan",
+				"url": "https://mastodon.ar.al/@aral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/983/165/852/161/original/c0756d3a0a63b51e.png"
+			},
+			"date": "2022-12-14T17:24:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodontti.fi/@janvenetor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janvenetor</span></a></span> <span class=\"h-card\"><a href=\"https://chaos.social/@lazurski\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lazurski</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Well, we are talking about Big Tech / surveillance capitalism here so, of course, it makes sense that it’s par for the course.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513194508457527",
+			"parentId": "109513187979732801",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513194508457527",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T17:25:34.563Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@climatepenguin\" class=\"u-url mention\">@<span>climatepenguin</span></a></span> That’s good to know! Cheers for opt-in!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513210356985899",
+			"parentId": "109513168363963019",
+			"url": "https://mastodon.ar.al/@aral/109513198735537004",
+			"author": {
+				"name": "Aral Balkan",
+				"url": "https://mastodon.ar.al/@aral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/983/165/852/161/original/c0756d3a0a63b51e.png"
+			},
+			"date": "2022-12-14T17:26:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What gave it away? :P</p><p>(I mean, I wasn’t using it or anything and I know I shouldn’t be surprised given this is Big Tech/surveillance capitalism we’re talking about but, hey…)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513223883755091",
+			"parentId": 0,
+			"url": "https://mastodon.social/@runspired/109513223763390457",
+			"author": {
+				"name": "runspired 🐹",
+				"url": "https://mastodon.social/@runspired",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/558/031/376/062/original/a4a5dd4b0e916168.png"
+			},
+			"date": "2022-12-14T17:33:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we collect telemetry for ember-cli and have for ~7yrs. It’s never proved all that useful/probably we should remove it or deactivate by default.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513243495036637",
+			"parentId": "109513223883755091",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513243495036637",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T17:38:02.044Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@runspired\" class=\"u-url mention\">@<span>runspired</span></a></span> wow! I’d love to read some longer opinions on this (at personal risk of asking you to write a blog post 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513253363900017",
+			"parentId": "109513243495036637",
+			"url": "https://mastodon.social/@runspired/109513253321223453",
+			"author": {
+				"name": "runspired 🐹",
+				"url": "https://mastodon.social/@runspired",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/558/031/376/062/original/a4a5dd4b0e916168.png"
+			},
+			"date": "2022-12-14T17:40:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> probably Stef Penner is the person to do so. Might nag him 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513254949050472",
+			"parentId": "109513210356985899",
+			"url": "https://mastodon.online/@alvar/109513254885680297",
+			"author": {
+				"name": "Alvar Lagerlöf",
+				"url": "https://mastodon.online/@alvar",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T17:40:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's in the logs when you build. Quite obvious if you and me.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513265064284506",
+			"parentId": "109513161603788261",
+			"url": "https://hachyderm.io/@papayaga/109513264976257778",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2022-12-14T17:43:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> joking, not really. misspeaking? most likely. as in, \"plugin\" may be inaccurate?</p><p>i slowed my site's build process from 2-3s to 2-3min last month and didn't know how/why. i've also gotten really into grafana in my homelab setup. thought if i could see in grafana by way of otel which network requests were dragging, i could debug future slowdowns.</p><p>to me, this is not the same as nextjs' foolishness.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513279578544328",
+			"parentId": 0,
+			"url": "https://toot.cafe/@slightlyoff/109513279497025312",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2022-12-14T17:47:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Big \"need to show number go up in board meeting/marketing-event\" energy.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513288384768321",
+			"parentId": "109513265064284506",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513288384768321",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T17:49:27.006Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@papayaga\" class=\"u-url mention\">@<span>papayaga</span></a></span> just making sure you know about <a href=\"https://www.11ty.dev/docs/debug-performance/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/debug-performanc</span><span class=\"invisible\">e/</span></a> !</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513290885707440",
+			"parentId": 0,
+			"url": "https://social.librem.one/@mcneely/109513290830527468",
+			"author": {
+				"name": "mcneely",
+				"url": "https://social.librem.one/@mcneely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/820/512/203/148/original/07078d1201c2a83e.jpg"
+			},
+			"date": "2022-12-14T17:50:04.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> can't say that I've ever seen that come up in glancing through the Next docs which is (IMO) a problem. If you're going to collect telemetry data on your tool it should be opt-in and very apparent upfront (that does not mean having to check the logs).</p><p>I see from the replies that Nuxt and Ember each collect data (though with different presets). Has anyone checked about Angular though? They would be the other big framework of interest.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513299455956517",
+			"parentId": "109513192685838278",
+			"url": "https://chaos.social/@lazurski/109513299344062490",
+			"author": {
+				"name": "Tad Lispy",
+				"url": "https://chaos.social/@lazurski",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T17:52:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> <span class=\"h-card\"><a href=\"https://mastodontti.fi/@janvenetor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janvenetor</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Collecting users (i.e. 3rd party) data is an absolute no-go and IMO should be criminal. But after reading the link from Aral I fail to see much of a problem with the Next.js telemetry. Assuming they are honest about the scope of collected data, it doesn't seem too sensitive. I might be missing something though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513312901090114",
+			"parentId": "109513279578544328",
+			"url": "https://toot.cafe/@dotproto/109513312546625503",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2022-12-14T17:55:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> agree, but going up and to the right helps convince some people a project is worth paying attention to / caring about / investing in / adopting</p><p>IMO projects shouldn’t collect telemetry like this, but I can see how they’ve justified it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513312901651485",
+			"parentId": 0,
+			"url": "https://neovibe.app/@mikey/109513312684137157",
+			"author": {
+				"name": "Mike Huntington",
+				"url": "https://neovibe.app/@mikey",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T17:55:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I just read their guide and terms for the telemetry and it sounds decent enough. It would just be better if it was opt-in.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513319866553279",
+			"parentId": "109513299455956517",
+			"url": "https://mastodontti.fi/@janvenetor/109513319826923957",
+			"author": {
+				"name": "Janne",
+				"url": "https://mastodontti.fi/@janvenetor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/513/172/089/638/747/original/6b161091a8f20a09.jpg"
+			},
+			"date": "2022-12-14T17:57:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@lazurski\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lazurski</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's very bad if it comes as a surprise after the fact.</p><p>EU GDPR and at least in my understanding e.g. in California, the scope of personally identifiable data collection should be clear when installing, the collection needs to be opt-in, user acceptance needs to be recorded, and be revokable etc...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513325674754486",
+			"parentId": "109513288384768321",
+			"url": "https://hachyderm.io/@papayaga/109513325530448668",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2022-12-14T17:58:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> holy. crap. i missed this completely. thank you!</p><p>so, change of plans, i'll setup a log ingest instead.</p><p>...and spend the rest of my time making a browser plugin to do this sort of Personal Web Site Enhancement for my Web Browsing Experience.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513334180813293",
+			"parentId": 0,
+			"url": "https://mastodon.social/@bastianallgeier/109513334108931819",
+			"author": {
+				"name": "Bastian Allgeier",
+				"url": "https://mastodon.social/@bastianallgeier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/225/968/517/429/original/30c7078b2f8c4d75.jpg"
+			},
+			"date": "2022-12-14T18:01:04.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we definitely don’t do anything like that for <span class=\"h-card\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>getkirby</span></a></span> I honestly wonder if you can even build a GDPR compliant site with next.js unless you opt out. Doesn’t sound like it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513354846666464",
+			"parentId": "109513334180813293",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513354846666464",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T18:06:21.130Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\">@<span>getkirby</span></a></span> oof, good question.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513358856379355",
+			"parentId": "109513334180813293",
+			"url": "https://mastodon.social/@bastianallgeier/109513358751774877",
+			"author": {
+				"name": "Bastian Allgeier",
+				"url": "https://mastodon.social/@bastianallgeier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/225/968/517/429/original/30c7078b2f8c4d75.jpg"
+			},
+			"date": "2022-12-14T18:07:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>getkirby</span></a></span> should have read more of the replies. If it’s „just“ during the build process it’s still shady to make it opt-out, but it’s at least not affecting site visitors.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513361459981182",
+			"parentId": "109513358856379355",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513361459981182",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T18:08:02.042Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\">@<span>getkirby</span></a></span> ah, yes—good distinction.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513367852271997",
+			"parentId": "109513319866553279",
+			"url": "https://chaos.social/@lazurski/109513367829699113",
+			"author": {
+				"name": "Tad Lispy",
+				"url": "https://chaos.social/@lazurski",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T18:09:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodontti.fi/@janvenetor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janvenetor</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes, I guess Next.js should at least notify the user (in this case the developer) about their telemetry so we could opt-out. If we have to discover it on their website, it's not nice. Not that I use it anyway 👅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513368119789489",
+			"parentId": "109513312901090114",
+			"url": "https://toot.cafe/@slightlyoff/109513367998229174",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2022-12-14T18:09:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@dotproto\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dotproto</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>: oh, 100%, and having fine-grained feature use data is absolutely invaluable if/when you can get it. Wish something like Rappor was widely available for OSS projects w/ a data steward folks could trust.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513385121906951",
+			"parentId": "109513361459981182",
+			"url": "https://tech.lgbt/@Marco/109513385069656214",
+			"private": true,
+			"date": "2022-12-14T18:14:02.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513422968718852",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109513422968718852",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T18:23:40.601Z",
+			"content": "<p>to follow up, I did go through the Create a Next.js app tutorial <a href=\"https://nextjs.org/learn/basics/create-nextjs-app\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nextjs.org/learn/basics/create</span><span class=\"invisible\">-nextjs-app</span></a> and it does collect telemetry by default without mention of data collection via the command line or otherwise.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513424022364977",
+			"parentId": 0,
+			"url": "https://mastodon.social/@oiyouyeahyou/109513423777146889",
+			"author": {
+				"name": "oiyouyeahyou",
+				"url": "https://mastodon.social/@oiyouyeahyou",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T18:23:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there has been some effort to make a cli do not track flag ... But none of them want to commit</p><p><a href=\"https://consoledonottrack.com/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">consoledonottrack.com/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513431294487012",
+			"parentId": "109513424022364977",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513431294487012",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T18:25:47.632Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@oiyouyeahyou\" class=\"u-url mention\">@<span>oiyouyeahyou</span></a></span> I like that!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513435886177293",
+			"parentId": "109513385121906951",
+			"url": "https://mastodon.social/@bastianallgeier/109513435795613403",
+			"author": {
+				"name": "Bastian Allgeier",
+				"url": "https://mastodon.social/@bastianallgeier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/225/968/517/429/original/30c7078b2f8c4d75.jpg"
+			},
+			"date": "2022-12-14T18:26:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://tech.lgbt/@Marco\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Marco</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wonder how different perception is between the US and the EU. GDPR and especially the German version is often so strict that you can seriously get in trouble as a company if you don’t get it right. Even if we would want to collect data this way (we don’t) we’d have to get extensive legal advice to be half-safe. We are pretty conditioned by this already and it feels super risky from this perspective.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513450506847029",
+			"parentId": "109513102448692046",
+			"url": "https://starkey.family/objects/92f89bbe-f0f1-4742-b7b1-4b63b1fbff71",
+			"author": {
+				"name": "Stephen Castro-Starkey",
+				"url": "https://starkey.family/users/stephen",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T18:30:34.840Z",
+			"content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://mastodon.ar.al/@aral\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> wow that’s just awful! Btw thanks for inspiration! I’ve built a similar auto-provisioning mechanism into my clojure project because of your work.",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513459091339300",
+			"parentId": "109513422968718852",
+			"url": "https://mastodon.social/@lachlanjc/109513458810946220",
+			"author": {
+				"name": "Lachlan Campbell",
+				"url": "https://mastodon.social/@lachlanjc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/759/282/485/913/original/617f406348abc053.png"
+			},
+			"date": "2022-12-14T18:32:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It’s included in the next build output, since iirc that’s when they’re submitting the data about the features your app is using. Gatsby does this too, with a notice on installation: <a href=\"https://www.gatsbyjs.com/docs/telemetry/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">gatsbyjs.com/docs/telemetry/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513472092736078",
+			"parentId": "109513422968718852",
+			"url": "https://mastodon.social/@jed/109513472053324424",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2022-12-14T18:36:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Don’t Ask Don’t Telemetry</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513534596923961",
+			"parentId": "109513450506847029",
+			"url": "https://mastodon.ar.al/@aral/109513534395134440",
+			"author": {
+				"name": "Aral Balkan",
+				"url": "https://mastodon.ar.al/@aral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/983/165/852/161/original/c0756d3a0a63b51e.png"
+			},
+			"date": "2022-12-14T18:52:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://starkey.family/users/stephen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stephen</span></a></span> How cool; that’s lovely to hear :)</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513547152284667",
+			"parentId": "109513435886177293",
+			"url": "https://mastodon.social/@renestalder/109513546870199750",
+			"author": {
+				"name": "René Stalder",
+				"url": "https://mastodon.social/@renestalder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/363/455/748/660/original/7e3863e21bcc57dd.png"
+			},
+			"date": "2022-12-14T18:55:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\"><a href=\"https://tech.lgbt/@Marco\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Marco</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The GDPR is quite clear on what data and how it applies, and fully anonymous data with no way to back track a specific user is no problem. So as long this telemetry is not collecting full IP addresses or more specific personal data, that can be connected to an individual, that is usually never a GDPR problem at least. That would be quite something new to me.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513571398144887",
+			"parentId": "109513422968718852",
+			"url": "https://fosstodon.org/@TheOceanBreeze/109513571368845578",
+			"author": {
+				"name": "Sean (TheOceanBreeze)",
+				"url": "https://fosstodon.org/@TheOceanBreeze",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/475/928/703/367/043/original/ba966c7cd93e68c0.png"
+			},
+			"date": "2022-12-14T19:01:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I absolutely didn't know that Next.js collected telemetry data before I read this post. Thanks for the heads up!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513679824094515",
+			"parentId": "109513299455956517",
+			"url": "https://chirp.zadzmo.org/@aaron/statuses/01GM91RSQZ6BAYYRZB232BZSMV",
+			"author": {
+				"name": "Aaron",
+				"url": "https://chirp.zadzmo.org/@aaron",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T19:28:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@lazurski\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lazurski</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aral</span></a></span> <span class=\"h-card\"><a href=\"https://mastodontti.fi/@janvenetor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>janvenetor</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br><br>\"Assuming they are honest\" - that is the issue here. I've been burnt enough times that trust has to be earned and not assumed now.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513739366859209",
+			"parentId": 0,
+			"url": "https://notacult.social/@cassidoo/109513737719219091",
+			"author": {
+				"name": "cassidoo",
+				"url": "https://notacult.social/@cassidoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/760/790/898/743/original/48bef88a6cceadb8.png"
+			},
+			"date": "2022-12-14T19:43:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> when I blogged about it way back in the day I had a toonnn of DMs etc about people not knowing this </p><p><a href=\"https://dev.to/netlify/how-to-turn-off-telemetry-in-next-js-17bc\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dev.to/netlify/how-to-turn-off</span><span class=\"invisible\">-telemetry-in-next-js-17bc</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513779436192908",
+			"parentId": "109513739366859209",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513779436192908",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T19:54:19.860Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://notacult.social/@cassidoo\" class=\"u-url mention\">@<span>cassidoo</span></a></span> oof yeah, I’m seeing a lot of surprise here too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513911328849998",
+			"parentId": 0,
+			"url": "https://mastodon.ml/@bano/109513911200796208",
+			"private": true,
+			"date": "2022-12-14T20:27:50.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513919343803343",
+			"parentId": 0,
+			"url": "https://front-end.social/@heydon/109513919308088304",
+			"author": {
+				"name": "Large Heydon Collider",
+				"url": "https://front-end.social/@heydon",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/063/268/890/982/original/0b8176eb6904fad0.png"
+			},
+			"date": "2022-12-14T20:29:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I thought Next.js was a JavaScript framework, not a... panopticon??</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513928670967107",
+			"parentId": "109513919343803343",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513928670967107",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T20:32:16.998Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\">@<span>heydon</span></a></span> google fonts is a panoptifonticon</p><p>*hides*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513935428100792",
+			"parentId": "109513422968718852",
+			"url": "https://fosstodon.org/@xyhhx/109513935052977708",
+			"author": {
+				"name": "xyhhx",
+				"url": "https://fosstodon.org/@xyhhx",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T20:33:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve gotten into the habit of looking for telemetry disable environment vars when trying new frameworks</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513942325245935",
+			"parentId": "109513928670967107",
+			"url": "https://fediverse.zachleat.com/@zachleat/109513942325245935",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-14T20:35:45.341Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\">@<span>heydon</span></a></span> I wish I had said panopticonfont instead</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513944645658444",
+			"parentId": "109513928670967107",
+			"url": "https://indieweb.social/@charlesroper/109513944575857527",
+			"author": {
+				"name": "Charles Roper",
+				"url": "https://indieweb.social/@charlesroper",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/292/879/484/524/original/0e3287f51d9644ee.webp"
+			},
+			"date": "2022-12-14T20:36:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span> This reminds me - keep meaning to ask - is there a really good guide anywhere for self hosting fonts? Particularly interested in the way GF handles variable fonts; i.e., specify the weights one needs and download those instead of whole variable font (which can be huge).</p><p>p.s., I looked at Bunny Fonts as alternative to GF, but it uses older API. <a href=\"https://bunny.net/fonts/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bunny.net/fonts/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109514041216965952",
+			"parentId": "109513944645658444",
+			"url": "https://indieweb.social/@charlesroper/109514041161696506",
+			"author": {
+				"name": "Charles Roper",
+				"url": "https://indieweb.social/@charlesroper",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/292/879/484/524/original/0e3287f51d9644ee.webp"
+			},
+			"date": "2022-12-14T21:00:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span> </p><p>Just found this by <span class=\"h-card\"><a href=\"https://mastodon.social/@elliotjaystocks\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elliotjaystocks</span></a></span> which looks like just the ticket. Key is to download selection directly from Google Fonts.</p><p><a href=\"https://fonts.google.com/knowledge/using_type/self_hosting_web_fonts\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fonts.google.com/knowledge/usi</span><span class=\"invisible\">ng_type/self_hosting_web_fonts</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109514047383034861",
+			"parentId": "109513358856379355",
+			"url": "https://mastodon.social/@florianec/109514047277550708",
+			"author": {
+				"name": "Florian Eckerstorfer",
+				"url": "https://mastodon.social/@florianec",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/432/430/630/019/original/f38aa28ad667cc43.png"
+			},
+			"date": "2022-12-14T21:02:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@getkirby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>getkirby</span></a></span> However it could affect GDPR compliance if used in a company. GDPR also protects the privacy of employees.</p><p>And in an enterprise environment it could be in conflict with internal compliance.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109514873245607852",
+			"parentId": "109513942325245935",
+			"url": "https://beige.party/@robotrecall/109514873202613823",
+			"author": {
+				"name": "Sean Lake: famous ballet :bc:",
+				"url": "https://beige.party/@robotrecall",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-15T00:32:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span> I think panoptifonticon has a good memetic ring to it. I can’t quite put my finger on what meme it might be reminding me of. The closest I can think is Dr. Octogonapus (AAAAAHHH), which isn’t quite right. But regardless, the pattern of the sounds feels pleasingly right somehow.</p><p>Though panopticonfont is also quite excellent. Spoiled for choice tbh.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109517910608257399",
+			"parentId": "109514041216965952",
+			"url": "https://indieweb.social/@charlesroper/109517910556833035",
+			"author": {
+				"name": "Charles Roper",
+				"url": "https://indieweb.social/@charlesroper",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/292/879/484/524/original/0e3287f51d9644ee.webp"
+			},
+			"date": "2022-12-15T13:24:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@elliotjaystocks\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elliotjaystocks</span></a></span> </p><p>Actually, I was wrong. I thought the download from Google Fonts would include the precise variable weights I have selected, but the download package includes just the standard weights and the variable files.</p><p>Is there a way of downloading static versions of the weights I specify; e.g. in my case today, Alegreya 450?</p><p>Is there's a way of exporting a static weight from a variable file locally? Thinking I might have to use something like fontTools in Python?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109517926248836625",
+			"parentId": "109517910608257399",
+			"url": "https://indieweb.social/@charlesroper/109517926203977262",
+			"author": {
+				"name": "Charles Roper",
+				"url": "https://indieweb.social/@charlesroper",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/292/879/484/524/original/0e3287f51d9644ee.webp"
+			},
+			"date": "2022-12-15T13:28:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@elliotjaystocks\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elliotjaystocks</span></a></span> </p><p>Or perhaps better to just include the variable font? In the case of Alegreya, it's 412k for regular and 408k for italic. Nearly a MB. But each static file is ~260k. Yikes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109518758853610460",
+			"parentId": "109517910608257399",
+			"url": "https://typo.social/@davelab6/109518758813164471",
+			"author": {
+				"name": "Dave Crossland",
+				"url": "https://typo.social/@davelab6",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/883/041/155/312/original/66a96b0e16ad3a2e.jpg"
+			},
+			"date": "2022-12-15T17:00:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@charlesroper\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>charlesroper</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@elliotjaystocks\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elliotjaystocks</span></a></span> <a href=\"https://slice-gui.netlify.app/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">slice-gui.netlify.app/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3mloqdoj2ss27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/pierbover.com/post/3mloqdoj2ss27",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2026-05-12T21:30:42.656Z",
+			"content": "<p>The fact that they didn't use a more obvious name makes me think they didn't really consider the security implications.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mloqg7rlmc2x",
+			"parentId": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3mloqdoj2ss27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mloqg7rlmc2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-12T21:32:07.870Z",
+			"content": "<p>dangerously_pull_request_target_SUPER_INSECURE_WARNING_CAREFUL_WATCH_OUT</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3mloqtkcwvs2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mloqg7rlmc2x",
+			"url": "https://bsky.app/profile/pierbover.com/post/3mloqtkcwvs2g",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2026-05-12T21:39:35.132Z",
+			"content": "<p>lol</p>",
+			"via": "bluesky"
+		}
+	]
+}

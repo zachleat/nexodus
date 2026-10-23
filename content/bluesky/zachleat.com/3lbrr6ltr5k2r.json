@@ -1,0 +1,225 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:d5umsb2ibiw7hzqkiwcs4sb7/app.bsky.feed.post/3lbrrekovuc24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mxb.dev/post/3lbrrekovuc24",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://bsky.app/profile/mxb.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:d5umsb2ibiw7hzqkiwcs4sb7/bafkreibc3agbliwxgmcfkgxtzxl67gf4xn5bx4mwwo4sd7joohggf4a52i"
+			},
+			"date": "2024-11-25T14:48:56.797Z",
+			"content": "<p>Question one: write a regex for valid email addresses without using the internet</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrgrkiec2r",
+			"parentId": "at://did:plc:d5umsb2ibiw7hzqkiwcs4sb7/app.bsky.feed.post/3lbrrekovuc24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbrrgrkiec2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-25T14:50:11.102Z",
+			"content": "<p>surely this exists in node_modules on my hard drive *somewhere* 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:d5umsb2ibiw7hzqkiwcs4sb7/app.bsky.feed.post/3lbrrijwa3k24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrgrkiec2r",
+			"url": "https://bsky.app/profile/mxb.dev/post/3lbrrijwa3k24",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://bsky.app/profile/mxb.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:d5umsb2ibiw7hzqkiwcs4sb7/bafkreibc3agbliwxgmcfkgxtzxl67gf4xn5bx4mwwo4sd7joohggf4a52i"
+			},
+			"date": "2024-11-25T14:51:10.207Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lbrrk6lsks2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3lbrrk6lsks2q",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2024-11-25T14:52:05.440Z",
+			"content": "<p>did you hack my calendar Zach</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:sb2g6ogphfiznejabxsqenul/app.bsky.feed.post/3lbrrl6nnpk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bwood.me/post/3lbrrl6nnpk2q",
+			"author": {
+				"name": "Brandon Wood",
+				"url": "https://bsky.app/profile/bwood.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:sb2g6ogphfiznejabxsqenul/bafkreicdcjs372m2paigxcil6oypzdl3nlocreztuwqyglubuniiwxc3ui"
+			},
+			"date": "2024-11-25T14:52:39.050Z",
+			"content": "<p>Also, where are my pants???</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrlx5hqk2r",
+			"parentId": "at://did:plc:sb2g6ogphfiznejabxsqenul/app.bsky.feed.post/3lbrrl6nnpk2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbrrlx5hqk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-25T14:53:04.739Z",
+			"content": "<p>as a remote worker this is no longer on my nightmare docket 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrmo3jy22r",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lbrrk6lsks2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbrrmo3jy22r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-25T14:53:28.792Z",
+			"content": "<p>…and your calendar is hacked!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lbrrnzs6ss2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrmo3jy22r",
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3lbrrnzs6ss2q",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2024-11-25T14:54:14.623Z",
+			"content": "<p>*was this also part of the interview*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrpt67qk2r",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lbrrnzs6ss2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbrrpt67qk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-25T14:55:14.787Z",
+			"content": "<p>and we’ve fed all of your social media into an LLM and we’re interviewing that instead of you</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:azk7nfvgbpwiskakjpubm4c5/app.bsky.feed.post/3lbrrxfzt5k2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/toddmorey.bsky.social/post/3lbrrxfzt5k2y",
+			"author": {
+				"name": "Todd Morey",
+				"url": "https://bsky.app/profile/toddmorey.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:azk7nfvgbpwiskakjpubm4c5/bafkreifcewrxaxq55qiukc5m2qj3uhzyzgyc7gebjwhslnx24cso6njni4"
+			},
+			"date": "2024-11-25T14:59:29.447Z",
+			"content": "<p>This was a horrible day to forget to put pants on</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lbrryvh3v225",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrpt67qk2r",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lbrryvh3v225",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2024-11-25T15:00:19.164Z",
+			"content": "<p>That's what's interviewing you.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:azk7nfvgbpwiskakjpubm4c5/app.bsky.feed.post/3lbrrz5zi5s2y",
+			"parentId": "at://did:plc:sb2g6ogphfiznejabxsqenul/app.bsky.feed.post/3lbrrl6nnpk2q",
+			"url": "https://bsky.app/profile/toddmorey.bsky.social/post/3lbrrz5zi5s2y",
+			"author": {
+				"name": "Todd Morey",
+				"url": "https://bsky.app/profile/toddmorey.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:azk7nfvgbpwiskakjpubm4c5/bafkreifcewrxaxq55qiukc5m2qj3uhzyzgyc7gebjwhslnx24cso6njni4"
+			},
+			"date": "2024-11-25T15:00:28.156Z",
+			"content": "<p>Hah! You beat me to it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrs3dvgws2b",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lbrryvh3v225",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbrs3dvgws2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-25T15:01:41.424Z",
+			"content": "<p>oh no</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:azk7nfvgbpwiskakjpubm4c5/app.bsky.feed.post/3lbrs3uytk22y",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrrlx5hqk2r",
+			"url": "https://bsky.app/profile/toddmorey.bsky.social/post/3lbrs3uytk22y",
+			"author": {
+				"name": "Todd Morey",
+				"url": "https://bsky.app/profile/toddmorey.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:azk7nfvgbpwiskakjpubm4c5/bafkreifcewrxaxq55qiukc5m2qj3uhzyzgyc7gebjwhslnx24cso6njni4"
+			},
+			"date": "2024-11-25T15:01:59.361Z",
+			"content": "<p>Your UPS driver wants you to reinstate it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbrsaevtvc2b",
+			"parentId": "at://did:plc:azk7nfvgbpwiskakjpubm4c5/app.bsky.feed.post/3lbrs3uytk22y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbrsaevtvc2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-25T15:04:30.258Z",
+			"content": "<p>we have a non-verbal understanding established through a single session of extremely prolonged, extremely careful unbroken eye contact</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fk3f7jaeikfk4zswfo6n5yei/app.bsky.feed.post/3lbsxyujjc22u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ethangardner.com/post/3lbsxyujjc22u",
+			"author": {
+				"name": "Ethan Gardner",
+				"url": "https://bsky.app/profile/ethangardner.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fk3f7jaeikfk4zswfo6n5yei/bafkreibyqnixvmazovxt2mq2h23nal4fipaxjfntz4kxmqetgi2riyqv6u"
+			},
+			"date": "2024-11-26T02:20:20.385Z",
+			"content": "<p>You'll work on a real ticket and pair with our CTO during our virtual onsite that lasts a whole day!</p>\n<p>Oh wait...those are real things that companies ask people to do.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbualxvo2s2v",
+			"parentId": "at://did:plc:fk3f7jaeikfk4zswfo6n5yei/app.bsky.feed.post/3lbsxyujjc22u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbualxvo2s2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-26T14:26:51.136Z",
+			"content": "<p>“virtual onsite” 😱</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,407 @@
+{
+	"comments": [
+		{
+			"id": "112139720013994262",
+			"parentId": 0,
+			"url": "https://notacult.social/@conr/112139719275083496",
+			"author": {
+				"name": "Conor 💻",
+				"url": "https://notacult.social/@conr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/838/782/444/774/original/2e5f71b262845c51.jpeg"
+			},
+			"date": "2024-03-22T14:05:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yikes...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139721638596495",
+			"parentId": 0,
+			"url": "https://m.trisweb.com/@trisweb/112139721462667591",
+			"author": {
+				"name": "trisweb",
+				"url": "https://m.trisweb.com/@trisweb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/433/914/545/311/original/117fc433faf7c5d4.jpeg"
+			},
+			"date": "2024-03-22T14:05:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I do love the idea of holding marketing teams to the same standards as their product… at a minimum (a marketing site *should* be way, way easier to make fast and accessible)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139735607114652",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112139735607114652",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-22T14:09:31.152Z",
+			"content": "<p>“This doesn’t look good” indeed.</p><p><a href=\"https://fediverse.zachleat.com/@zachleat/112117301801565699\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/112117301801565699</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139740503837990",
+			"parentId": 0,
+			"url": "https://mamot.fr/@mokobien/112139740464116335",
+			"author": {
+				"name": "mokobien",
+				"url": "https://mamot.fr/@mokobien",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/065/232/600/845/649/original/6888f754d1a94e29.jpg"
+			},
+			"date": "2024-03-22T14:10:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> RSC SSG prerender edge blazing fast AI PPR shadcn</p><p>Do you want more buzzwords or should I stop there?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139750285228693",
+			"parentId": 0,
+			"url": "https://webperf.social/@steveworkman/112139750267185670",
+			"author": {
+				"name": "Steve Workman",
+				"url": "https://webperf.social/@steveworkman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/373/082/965/327/761/original/9c60aa6a353154c3.jpg"
+			},
+			"date": "2024-03-22T14:13:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What do you mean that's slow? We're doing what you said right, splitting everything into chunks! Look how cacheable it is! HTTP/2 says it's good! Why don't you like it Zach! Why! Why! Why!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139758686673002",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Meyerweb/112139758443365849",
+			"author": {
+				"name": "Eric A. Meyer",
+				"url": "https://mastodon.social/@Meyerweb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/000/855/309/234/original/8eb6102f7385d076.png"
+			},
+			"date": "2024-03-22T14:15:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What kind of intrigues me is that on 4G throttling and up, it really does feel fast, which I wasn’t expecting given all the server calls.  HTTP/2 packing the calls into a single connection, I guess?</p><p>On Good 3G throttling and below, though, it really is deeply painful.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139770739452914",
+			"parentId": "112139758686673002",
+			"url": "https://fediverse.zachleat.com/@zachleat/112139770739452914",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-22T14:18:27.231Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\">@<span>Meyerweb</span></a></span> The digital divide! I do think that there is a larger point worth making, as Vercel heavily invests in LLM automation of front-ends—automating this level of quality will only exacerbate the divide 😬</p><p>The other point I’d make is that Network throttling is only one piece. Testing on a slow device is another thing entirely.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139865101211937",
+			"parentId": "112139770739452914",
+			"url": "https://mastodon.cthos.dev/@cthos/112139864982644786",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-03-22T14:42:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Meyerweb</span></a></span> is a great exercise to daily drive a low-price phone for a week or so just to gain some empathy / perspective (I did this for a while, I’m overdue)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112139928023977480",
+			"parentId": "112139770739452914",
+			"url": "https://social.dryan.com/@d/112139928002908131",
+			"author": {
+				"name": "Dan Ryan :dryan:",
+				"url": "https://social.dryan.com/@d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/804/817/015/572/original/b93ef5db0503b13f.jpeg"
+			},
+			"date": "2024-03-22T14:58:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Meyerweb</span></a></span> I’ve been working on an article calling for an inflation rate for the FCC’s definition of broadband. This is a great example of how the web gets more bloated not just in raw transfer size, but in bad habits that hamper limited data plans at an outsized rate. The 25 megabit plan of 5 years ago is slower to use today.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112140515764162955",
+			"parentId": "112139735607114652",
+			"url": "https://mastodon.social/@rikschennink/112140515660326265",
+			"author": {
+				"name": "Rik Schennink",
+				"url": "https://mastodon.social/@rikschennink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/984/767/568/589/original/5f4b34c17803a845.jpg"
+			},
+			"date": "2024-03-22T17:27:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> incredible</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112140773275601229",
+			"parentId": 0,
+			"url": "https://toot.cat/@theadmiral/112140772473509042",
+			"author": {
+				"name": "Ian B",
+				"url": "https://toot.cat/@theadmiral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/783/986/673/486/original/8cb08d27498ffa87.png"
+			},
+			"date": "2024-03-22T18:33:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s a lot on the initial load, yes, but what you have to understand is that once all that is executed, it’s still slow.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112140950183404909",
+			"parentId": 0,
+			"url": "https://webperf.social/@ryantownsend/112140950169177281",
+			"author": {
+				"name": "Ryan Townsend (old account)",
+				"url": "https://webperf.social/@ryantownsend",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/033/339/461/107/original/84fbde010f05b3b8.jpg"
+			},
+			"date": "2024-03-22T19:18:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> post this on the bird site... I dare you 😉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112140964961614956",
+			"parentId": "112140773275601229",
+			"url": "https://fediverse.zachleat.com/@zachleat/112140964961614956",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-22T19:22:09.614Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@theadmiral\" class=\"u-url mention\">@<span>theadmiral</span></a></span> this broke me 🤣🤣🤣🤣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141075265369083",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112141075219300870",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-03-22T19:50:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Script tags are my passion\"?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141085242658344",
+			"parentId": "112140964961614956",
+			"url": "https://toot.cat/@theadmiral/112141084842527029",
+			"author": {
+				"name": "Ian B",
+				"url": "https://toot.cat/@theadmiral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/783/986/673/486/original/8cb08d27498ffa87.png"
+			},
+			"date": "2024-03-22T19:52:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😄</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141086800288630",
+			"parentId": "112140950183404909",
+			"url": "https://fediverse.zachleat.com/@zachleat/112141086800288630",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-22T19:53:08.725Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@ryantownsend\" class=\"u-url mention\">@<span>ryantownsend</span></a></span> you-&gt; 😈 😵‍💫 &lt;- me</p><p>where’d the 👼 go</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141182089837681",
+			"parentId": "112140773275601229",
+			"url": "https://indieweb.social/@robjwood/112141182062705032",
+			"author": {
+				"name": "Rob Wood",
+				"url": "https://indieweb.social/@robjwood",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/741/952/661/713/965/original/f90e14c435042818.jpg"
+			},
+			"date": "2024-03-22T20:17:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@theadmiral\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>theadmiral</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was getting angry until the last few words. Glad I persevered.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141186404902816",
+			"parentId": "112141182089837681",
+			"url": "https://fediverse.zachleat.com/@zachleat/112141186404902816",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-22T20:18:28.571Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@robjwood\" class=\"u-url mention\">@<span>robjwood</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@theadmiral\" class=\"u-url mention\">@<span>theadmiral</span></a></span> we all went on this roller coaster together</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141716655408991",
+			"parentId": 0,
+			"url": "https://mastodon.nu/@dmitriid/112141716537315638",
+			"author": {
+				"name": "dmitriid",
+				"url": "https://mastodon.nu/@dmitriid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/113/328/881/256/838/original/854c1617feaebc75.jpeg"
+			},
+			"date": "2024-03-22T22:33:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I've been doing (aka raging, ranting etc.) it for a while now on Twitter.</p><p>The result is a few retweets, and complete silence (or blocks) from the people responsible for this.</p><p>Latest is Googlers congratulating each other on the merger of Angular with amazing extremely performant innovative internal Google library called Wiz that, among other things, powers Youtube.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141722825338019",
+			"parentId": "112139721638596495",
+			"url": "https://mastodon.nu/@dmitriid/112141722775863691",
+			"author": {
+				"name": "dmitriid",
+				"url": "https://mastodon.nu/@dmitriid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/113/328/881/256/838/original/854c1617feaebc75.jpeg"
+			},
+			"date": "2024-03-22T22:34:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.trisweb.com/@trisweb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>trisweb</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>It's not just their marketing site. All of Vercel's claims fall apart as soon as you open Chrome and turn network throttle to \"Fast 3G\": <a href=\"https://x.com/dmitriid/status/1735338533303259571\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/dmitriid/status/17353385</span><span class=\"invisible\">33303259571</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112145393362402127",
+			"parentId": "112139735607114652",
+			"url": "https://toot.cafe/@slightlyoff/112145392337072341",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-03-23T14:08:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have found that the real indictment is the showcase section of these sites. The speed of the things they choose to crow about reflects the lived values of these orgs.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112145408480879270",
+			"parentId": "112139770739452914",
+			"url": "https://toot.cafe/@slightlyoff/112145408345423944",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-03-23T14:12:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Meyerweb</span></a></span> woof:</p><p><a href=\"https://treo.sh/sitespeed/vercel.com?formFactor=phone&amp;latestMode=false\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">treo.sh/sitespeed/vercel.com?f</span><span class=\"invisible\">ormFactor=phone&amp;latestMode=false</span></a></p><p>And peep that main thread:</p><p><a href=\"https://www.webpagetest.org/video/compare.php?tests=240323_BiDcF8_82G-r%3A1-c%3A0&amp;thumbSize=200&amp;ival=100&amp;end=full\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">webpagetest.org/video/compare.</span><span class=\"invisible\">php?tests=240323_BiDcF8_82G-r%3A1-c%3A0&amp;thumbSize=200&amp;ival=100&amp;end=full</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112145629779309551",
+			"parentId": "112145408480879270",
+			"url": "https://mastodon.social/@Meyerweb/112145629616952292",
+			"author": {
+				"name": "Eric A. Meyer",
+				"url": "https://mastodon.social/@Meyerweb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/000/855/309/234/original/8eb6102f7385d076.png"
+			},
+			"date": "2024-03-23T15:08:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> More like treo.sh/itespeed/, amirite?  HEEEYOOOOO</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112147298785594611",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jasonkarns/112147298775510788",
+			"author": {
+				"name": "jasonkarns",
+				"url": "https://indieweb.social/@jasonkarns",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/732/846/803/418/446/original/66056b238ea9b205.png"
+			},
+			"date": "2024-03-23T22:12:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would imagine there are some recommendations for number of bytes before &lt;title&gt; too. Considering that so much stuff in head affects parsing behavior? Should want to get to it quickly so UA can render it in tab/window etc.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112150547948249450",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dahukanna/112150547907840373",
+			"author": {
+				"name": "Dawn Ahukanna",
+				"url": "https://mastodon.social/@dahukanna",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/562/257/611/780/232/original/eed268e7bb17158e.jpg"
+			},
+			"date": "2024-03-24T11:59:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> </p><p>🤯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112151088614905239",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@tymwol/112151088580903999",
+			"author": {
+				"name": "Timothy Wolodzko",
+				"url": "https://hachyderm.io/@tymwol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/857/974/863/924/173/original/6ef3e95d74d064f3.png"
+			},
+			"date": "2024-03-24T14:16:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “Let's add some code to make it faster.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112154493736615266",
+			"parentId": 0,
+			"url": "https://bv.umbrellix.org/objects/7994b978-eacb-41f2-ac90-bd2868197244",
+			"author": {
+				"name": "Reinhilde Bjornsdottir",
+				"url": "https://bv.umbrellix.org/users/reinhilde",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-03-25T04:42:41.827Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m impressed.</p><p>This is art.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112156932306627622",
+			"parentId": "112145629779309551",
+			"url": "https://fediverse.zachleat.com/@zachleat/112156932306627622",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T15:02:51.965Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\">@<span>Meyerweb</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> …oh my!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112156944396138000",
+			"parentId": "112145393362402127",
+			"url": "https://fediverse.zachleat.com/@zachleat/112156944396138000",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T15:05:56.436Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> $300M buys a lot of marketing momentum</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112156976827143520",
+			"parentId": "112156944396138000",
+			"url": "https://toot.cafe/@slightlyoff/112156976680435318",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2024-03-25T15:14:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If only it bought speed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112156987633094281",
+			"parentId": "112156976827143520",
+			"url": "https://fediverse.zachleat.com/@zachleat/112156987633094281",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-25T15:16:56.179Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> I used to think the go-to metaphor was trucks <a href=\"https://fediverse.zachleat.com/@zachleat/110181262326744689\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/110181262326744689</span></a> but now I think I’m going to use US passenger rail—slow, ineffective, expensive…</p>",
+			"via": "fediverse"
+		}
+	]
+}

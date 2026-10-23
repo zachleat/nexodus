@@ -1,0 +1,264 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6huvvo4ik2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3m6huvvo4ik2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-25T17:36:19.779Z",
+			"content": "<p>maybe a cheeky and very optional cc to <a href=\"https://bsky.app/profile/did:plc:f5vv2f7a4huhkcqy6b4fp5ge\">@notwes.bsky.social</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4tjgjj227",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6huvvo4ik2t",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i4tjgjj227",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T19:58:09.771Z",
+			"content": "<p>There is no way today.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4ueyoys27",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4tjgjj227",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i4ueyoys27",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T19:58:38.680Z",
+			"content": "<p>One of the many gaps I’ve been asking them to fill.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4vfxd2c27",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4ueyoys27",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i4vfxd2c27",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T19:59:13.237Z",
+			"content": "<p>Despite me saying that providence is completely pointless, if they are going to push this then they should at least do it right.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i566wqn227",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6i4vfxd2c27",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6i566wqn227",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T20:04:07.868Z",
+			"content": "<p>Joking aside, the reason they can’t enforce this is because there’s a whole bunch of gaps in the way that the system works. It’s why most of the folks who tried publishing with providence had to disable it in some cases.</p>\n<p>Even the new pnpm feature is not easily turned on for many repos.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iwkvahan3unjojnoh7jhwmjm/app.bsky.feed.post/3m6ibh433tk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/reinhold.is/post/3m6ibh433tk2q",
+			"author": {
+				"name": "Jeppe Reinhold 🇩🇰",
+				"url": "https://bsky.app/profile/reinhold.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwkvahan3unjojnoh7jhwmjm/bafkreif4k5u5dblj75awlzj54x4bcyqnfapwcclbzsjza75ddjltky3zlm"
+			},
+			"date": "2025-11-25T21:20:41.822Z",
+			"content": "<p>If you have Trusted Publishing enabled and enforced, which attack vector are you trying to guard against here?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6icrclgos2x",
+			"parentId": "at://did:plc:iwkvahan3unjojnoh7jhwmjm/app.bsky.feed.post/3m6ibh433tk2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m6icrclgos2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-25T21:44:17.934Z",
+			"content": "<p>as far as I can tell, you can use Trusted Publishing *without* Provenance. so if your CI is compromised, an attacker could still publish untracked malicious code, no? I want all of the code published to have a “paper trail” tied to GitHub commits</p>\n<p><a href=\"https://docs.npmjs.com/trusted-publishers#disabling-provenance-generation\">docs.npmjs.com/trusted-publ...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6ictrn2wk2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6icrclgos2x",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6ictrn2wk2w",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T21:45:40.827Z",
+			"content": "<p>There is at least one case it is required to be turned off when used with OIDC/TP: when the name of the package does not match the repo name.</p>\n<p>At least this was true last month, I haven't tested again since.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6id3cdkgc2w",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6ictrn2wk2w",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6id3cdkgc2w",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T21:49:53.222Z",
+			"content": "<p>&gt; I want all of the code published to have a “paper trail” tied to GitHub commits</p>\n<p>FWIW, you have always had this:</p>\n<p>curl <a href=\"https://registry.npmjs.com/@11ty/eleventy\">registry.npmjs.com/@11ty/eleventy</a> | jq '.versions[\"3.1.2\"].gitHead'</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6idadac6s2w",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6id3cdkgc2w",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6idadac6s2w",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T21:52:41.936Z",
+			"content": "<p>What provenance adds is theater on top of this. Not only does it add nothing to verify the reproducibility of that tarball from that git commit, it only stores a link to the GHA that built it which expires after 90 days.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6iecsxlxk2h",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6idadac6s2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m6iecsxlxk2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-25T22:11:59.279Z",
+			"content": "<p>I see what you mean, especially if you’re doing a lot of prepublish transpilation (et al).</p>\n<p>I’m curious if _requiring_ provenance would be good enough to fix most of the big leaks in simpler projects. (I also wonder separately if TP would have been better without the option to disable provenance?)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iefzi2l22d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6iecsxlxk2h",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6iefzi2l22d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:13:46.773Z",
+			"content": "<p>The stuff is hard to go into detail over posts here. But the TLDR is neither providence nor trusted publishing fix the root of the problems that have been leading to our recent spree of attacks.</p>\n<p>Enforcing 2FA would.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iejlgny22d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iefzi2l22d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6iejlgny22d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:15:46.265Z",
+			"content": "<p>The automated publishing attacks have relied on two things:</p>\n<p>- Local tokens<br>\n- compromised CI</p>\n<p>Those only apply to the second, and if you compromise the CI you can publish *from* the CI with provenance and TP checked passing.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iekhdgdk2d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iejlgny22d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6iekhdgdk2d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:16:15.518Z",
+			"content": "<p>It changes the attack, but it doesn’t fix it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iemyagxs2d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iekhdgdk2d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6iemyagxs2d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:17:40.356Z",
+			"content": "<p>And for local publishing you can enforce 2FA. Which is explicitly not allowed with trusted publishing “by design”.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ni5gg2ajesd2gxy2nk23m2uf/app.bsky.feed.post/3m6ieqi2pu227",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6idadac6s2w",
+			"url": "https://bsky.app/profile/pimterry.fyi/post/3m6ieqi2pu227",
+			"author": {
+				"name": "Tim Perry",
+				"url": "https://bsky.app/profile/pimterry.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ni5gg2ajesd2gxy2nk23m2uf/bafkreieajns5bp4lc747dkt7kkut55d7bu2d2vwjtwegncg5l5mht2gx34"
+			},
+			"date": "2025-11-25T22:19:37.607Z",
+			"content": "<p>Is it? Seems like the npm metadata is user controlled (a nice signal, little more) while TP provenance does give some guarantee (backed by GitHub) that the code at the recorded commit hash generated the output.</p>\n<p>Stores the commit hash as well, so GHA history would be nice but not strictly necessary.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6ietutvcs2d",
+			"parentId": "at://did:plc:ni5gg2ajesd2gxy2nk23m2uf/app.bsky.feed.post/3m6ieqi2pu227",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6ietutvcs2d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:21:31.678Z",
+			"content": "<p>It’s definitely somewhat different, and if it was implemented differently, it could provide a stronger signal.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iezipb6s2d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6ietutvcs2d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6iezipb6s2d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:24:40.272Z",
+			"content": "<p>We’ve had a bunch of public conversations about this topic, and I’m not gonna rehash years of context every time this discussion comes up on here.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6ieziwtes2d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6iezipb6s2d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6ieziwtes2d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:24:40.273Z",
+			"content": "<p>The theory is great. What shipped is an incomplete and often misleading mess. I have used the above method for the past four years responding to real security incidents.</p>\n<p>Not once has providence helped, and trusted publishing has removed one critical feature rely on (the publishing user).</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6if4nczg22d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3m6ieziwtes2d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3m6if4nczg22d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-11-25T22:26:25.777Z",
+			"content": "<p>The first time that they githead is spoofed I will absolutely change my opinion on this. But that has not happened once that I have seen.</p>",
+			"via": "bluesky"
+		}
+	]
+}

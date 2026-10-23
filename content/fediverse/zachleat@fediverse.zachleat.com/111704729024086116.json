@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "111705397046122892",
+			"parentId": 0,
+			"url": "https://mastodon.social/@freenandes/111705396761871381",
+			"author": {
+				"name": "Pedro MC Fernandes",
+				"url": "https://mastodon.social/@freenandes",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-01-05T21:11:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what was it that made it great today? I've been searching for a reliable email service with file storage forever...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111705458551772388",
+			"parentId": "111705397046122892",
+			"url": "https://fediverse.zachleat.com/@zachleat/111705458551772388",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-05T21:27:09.171Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@freenandes\" class=\"u-url mention\">@<span>freenandes</span></a></span> went through the process of adding email forwarding from another domain and it gave me all the steps I needed to do in a nice little wizard 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111712883104174652",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@bcomnes/111712883089860408",
+			"author": {
+				"name": "Bret Comnes",
+				"url": "https://fosstodon.org/@bcomnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/580/281/498/979/original/46ae8f32d1b2da5d.png"
+			},
+			"date": "2024-01-07T04:55:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> unique passwords per site stored in a password manager? Yeah great. Baseline. </p><p>Unique email addresses stored with that password? Yes.  Incredible.  Thanks fastmail</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111721129438269474",
+			"parentId": "111712883104174652",
+			"url": "https://fediverse.zachleat.com/@zachleat/111721129438269474",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-08T15:52:27.923Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bcomnes\" class=\"u-url mention\">@<span>bcomnes</span></a></span> Masked email addresses are incredible!!</p>",
+			"via": "fediverse"
+		}
+	]
+}

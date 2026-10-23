@@ -1,0 +1,774 @@
+{
+	"comments": [
+		{
+			"id": "111211214471279251",
+			"parentId": 0,
+			"url": "https://social.bennypowers.dev/@bp/111211214448622109",
+			"author": {
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-10T14:34:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Declarative Shadow DOM\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211217565376002",
+			"parentId": "111211214471279251",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211217565376002",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T14:35:10.213Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\">@<span>bp</span></a></span> 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211219560697123",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/111211219494812895",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-10-10T14:35:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sprinkles?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211222977993525",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/111211222746581336",
+			"private": true,
+			"date": "2023-10-10T14:36:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211224311800121",
+			"parentId": 0,
+			"url": "https://mastodon.social/@passle/111211223998988020",
+			"author": {
+				"name": "passle",
+				"url": "https://mastodon.social/@passle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/997/878/636/465/original/baa0a02938be73f6.jpeg"
+			},
+			"date": "2023-10-10T14:36:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> MZDVWCTPEFLD is pretty catchy</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211224543030720",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/111211224279093482",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-10-10T14:36:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> VANSTACK</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211225712384688",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@mahryekuh/111211225697744921",
+			"author": {
+				"name": "Marijke Luttekes",
+				"url": "https://fosstodon.org/@mahryekuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/945/613/284/932/387/original/f1f0e690a952a5be.png"
+			},
+			"date": "2023-10-10T14:37:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Vanilla DOM?</p><p>Because naming things is hard.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211225704061378",
+			"parentId": "111211224543030720",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211225704061378",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T14:37:14.401Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> Chris Farley vibes 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211227151522059",
+			"parentId": "111211217565376002",
+			"url": "https://social.bennypowers.dev/@bp/111211227123676411",
+			"author": {
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-10T14:37:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's in the spec. ff is building it now. 5 line polyfill</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211227231833125",
+			"parentId": "111211224311800121",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211227231833125",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T14:37:37.713Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@passle\" class=\"u-url mention\">@<span>passle</span></a></span> hahahaha</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211231121363034",
+			"parentId": 0,
+			"url": "https://t00t.cloud/@mattrambles/111211231014618123",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-10-10T14:38:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Cruelty-Free DOMJobbers?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211231375442677",
+			"parentId": "111211227151522059",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211231375442677",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T14:38:40.939Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\">@<span>bp</span></a></span> it is an option, yeah! Not quite what I mean though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211243083889905",
+			"parentId": 0,
+			"url": "https://a11y.info/@ben/111211242809835136",
+			"author": {
+				"name": "Ben Myers 🦖",
+				"url": "https://a11y.info/@ben",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/850/606/919/513/original/60b6c78eb03590ac.jpg"
+			},
+			"date": "2023-10-10T14:41:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Enhancing from the light side just makes me think of Jedis.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211257655641323",
+			"parentId": 0,
+			"url": "https://indieweb.social/@tbeseda/111211257593594035",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2023-10-10T14:45:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> maybe “web component capsule”? as in: they are totally encapsulated.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211259589400685",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/111211259509813129",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2023-10-10T14:45:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Web 0</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211274059260185",
+			"parentId": 0,
+			"url": "https://mastodon.social/@aaadaaam/111211273927449170",
+			"author": {
+				"name": "Adam Stoddard",
+				"url": "https://mastodon.social/@aaadaaam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/181/435/692/045/original/3fd463116c0fb80b.png"
+			},
+			"date": "2023-10-10T14:49:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> custom elements</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211280170550876",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jensgro/111211280103108109",
+			"author": {
+				"name": "Jens Grochtdreis",
+				"url": "https://mastodon.social/@jensgro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/567/453/218/430/original/29daaade5cacfc21.jpg"
+			},
+			"date": "2023-10-10T14:51:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> WebCLD</p><p>Web Component (for) Light DOM</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211280510726754",
+			"parentId": 0,
+			"url": "https://mastodon.scot/@moh_kohn/111211280467856167",
+			"author": {
+				"name": "Alistair Davidson",
+				"url": "https://mastodon.scot/@moh_kohn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/338/596/148/376/029/original/c6610666c7591a57.jpg"
+			},
+			"date": "2023-10-10T14:51:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Enhancers? \"What we need for this is an enhancer\" \"I'm building an enhancer\" \"Enhancers are a lightweight alternative to frameworks\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211291437410860",
+			"parentId": "111211227151522059",
+			"url": "https://indieweb.social/@brianleroux/111211291400368868",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-10-10T14:53:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bp</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> progressive enhancement means it doesn't need JS to function. Thats the whole point of the technique?</p><p>That polyfill is, for the moment, a deal breaker. We can get into the other dealbreakers after that lands in FF. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211295670463788",
+			"parentId": 0,
+			"url": "https://indieweb.social/@brianleroux/111211295572861788",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-10-10T14:55:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> or at least some education as to why this is the best technique for working with the grain of the web. Making up terms seems to work for a while then fade into confusion.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211325273848955",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jimniels/111211324974011863",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2023-10-10T15:02:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes please! So often I am like “ohhhh, new article about using web components” and then I read and see it’s just an empty “app shell” that generates everything “client side” and I feel cheated</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211362730847394",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/111211362670506605",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2023-10-10T15:12:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If tailwind’s success against all odds is anything to go by we should call them ArseParps.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211374840735739",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/111211374768134638",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-10-10T15:15:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> other than “web components”?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211397594935481",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jed/111211397564662336",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2023-10-10T15:20:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Slight DOM Web Components</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211500342257817",
+			"parentId": "111211374840735739",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211500342257817",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T15:47:05.048Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> Fair question! Mostly I’d like a classification to help with communication and education.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211510350417387",
+			"parentId": "111211325273848955",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211510350417387",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T15:49:37.760Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> it’s uplifting to hear support for this!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211513466862566",
+			"parentId": "111211274059260185",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211513466862566",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T15:50:25.313Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@aaadaaam\" class=\"u-url mention\">@<span>aaadaaam</span></a></span> 👀👀👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211514781460330",
+			"parentId": 0,
+			"url": "https://mastodon.design/@armstrong/111211514754404559",
+			"author": {
+				"name": "Chris Armstrong",
+				"url": "https://mastodon.design/@armstrong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/036/390/824/146/original/e8efbec74a83dbc7.jpeg"
+			},
+			"date": "2023-10-10T15:50:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> plug and play</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211520583921734",
+			"parentId": "111211243083889905",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211520583921734",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T15:52:13.909Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\">@<span>ben</span></a></span> the Force Quit is strong with this one</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211525491704105",
+			"parentId": "111211397594935481",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211525491704105",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T15:53:28.797Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> don’t you dare slap me with a white glove</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211530240112767",
+			"parentId": "111211225712384688",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211530240112767",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T15:54:41.252Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@mahryekuh\" class=\"u-url mention\">@<span>mahryekuh</span></a></span> I like this one!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211560304497702",
+			"parentId": "111211231375442677",
+			"url": "https://social.bennypowers.dev/@bp/111211560254166007",
+			"author": {
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-10T16:02:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah I know, but like... what if we built a generation of tools that *didn't* fight against current and future standards? What if we implemented ideas like HTML progressive enhancement of web components in the way in which *browser authors have recommended*? Wouldn't that be really nice? Wouldn't that let us update our tools and projects much more smoothly in the future? Wouldn't that make it so much easier to transfer knowledge between projects and prevent name conflicts?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211564572594584",
+			"parentId": "111211291437410860",
+			"url": "https://social.bennypowers.dev/@bp/111211564529739109",
+			"author": {
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-10T16:03:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that's an opinion. GNOME web for example doesn't even *let* you disable javascript globally, because they observed that nobody does.</p><p>A few months of waiting is worth not building a generation of tools which improperly implement spec'd behaviour</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211571847240082",
+			"parentId": "111211564572594584",
+			"url": "https://indieweb.social/@brianleroux/111211571652696406",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-10-10T16:05:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bp</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> gnome may not let you disable js but it will still fail and then those users will have a terrible experience. It's about professional baselines not blindly implementing specs before they are ubiquitous. Standards based dev is about including everyone not just ppl who got lucky with a page load.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211573093737387",
+			"parentId": "111211560304497702",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211573093737387",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T16:05:35.146Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\">@<span>bp</span></a></span> browser authors aren’t #1 on this list, which is typically what I go by <a href=\"https://www.w3.org/TR/html-design-principles/#priority-of-constituencies\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">w3.org/TR/html-design-principl</span><span class=\"invisible\">es/#priority-of-constituencies</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211587141355903",
+			"parentId": "111211571847240082",
+			"url": "https://social.bennypowers.dev/@bp/111211587110217199",
+			"author": {
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-10T16:09:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>```html<br>&lt;c-e&gt;<br>&lt;template shadowrootmode=\"open\"&gt;<br>  &lt;style&gt;<br>    :host:not(:defined) ::slotted(<a href=\"https://social.bennypowers.dev/tags/fallback\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>fallback</span></a>) { /* 🎉️ */ } <br>  &lt;/style&gt;<br>&lt;/template&gt;<br>&lt;div id=\"fallback\" slot=\"fallback\"&gt;<br>&lt;noscript&gt;fallback content&lt;/noscript&gt;<br>&lt;/div&gt;<br>&lt;/c-e&gt;<br>```</p><p>season to taste</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211589052686789",
+			"parentId": "111211525491704105",
+			"url": "https://mastodon.social/@jed/111211588911192108",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2023-10-10T16:09:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not sure about progressive, but if you want unobtrusive and vanilla, how about Jeb!™️ Components?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211593726989333",
+			"parentId": "111211589052686789",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211593726989333",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T16:10:49.985Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> …please clap?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211596817545589",
+			"parentId": "111211587141355903",
+			"url": "https://indieweb.social/@brianleroux/111211596754454291",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-10-10T16:11:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bp</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> or build a working app that works everywhere always. Can't wait for the DSD to be production ready but this ain't it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211619712325346",
+			"parentId": "111211560304497702",
+			"url": "https://piaille.fr/@tbroyer/111211619574872444",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-10-10T16:17:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bp</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That doesn't mean DSD is what you need every time: e.g. GitHub's relative-time element, or an element you use to wrap a table that turns it into a sortable/filterable table.<br>DSD won't help here as what you want is only progressively enhancing the light DOM (the elements could use a shadow tree, but a declarative one would buy you nothing)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211647860128711",
+			"parentId": "111211619712325346",
+			"url": "https://social.bennypowers.dev/@bp/111211647846970087",
+			"author": {
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-10T16:24:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> dsd would still get you fouc and cls in that case, depending on what's in the shadow root</p><p>but point taken</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211683757624721",
+			"parentId": "111211510350417387",
+			"url": "https://mastodon.social/@jimniels/111211683732851079",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2023-10-10T16:33:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Actually just published something this morning and gave a nod to this toot cause I called what I did \"web components\" but it's really just a custom element with full markup over the wire which then gets enhanced/added to by the custom element's JS (if its available). Didn't have a word for it so just said \"it's a web component”</p><p><a href=\"https://blog.jim-nielsen.com/2023/web-components-icon-galleries/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.jim-nielsen.com/2023/web-</span><span class=\"invisible\">components-icon-galleries/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211707229097834",
+			"parentId": 0,
+			"url": "https://front-end.social/@ashur/111211707108430090",
+			"author": {
+				"name": "Slasher Calavera 🔪💀",
+				"url": "https://front-end.social/@ashur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/176/902/307/654/original/d571646a134e03af.jpeg"
+			},
+			"date": "2023-10-10T16:39:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ✨ DOMponents ✨</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211720379634215",
+			"parentId": "111211707229097834",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211720379634215",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T16:43:02.550Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ashur\" class=\"u-url mention\">@<span>ashur</span></a></span> we have a winner, pack up your things everyone</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211728713881005",
+			"parentId": "111211683757624721",
+			"url": "https://fediverse.zachleat.com/@zachleat/111211728713881005",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T16:45:09.721Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> ah, great—seems like a vote for “Custom Element,” maybe?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211792135588713",
+			"parentId": "111211728713881005",
+			"url": "https://mastodon.social/@jimniels/111211792061381617",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2023-10-10T17:01:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes, but in many cases what we really mean is ”non-empty custom element”. Or, to your point, \"custom elements that enhance light DOM”.</p><p>Maybe I'll call it an “HTML component” — it's the HTML part of web components ha</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111211959459022858",
+			"parentId": 0,
+			"url": "https://social.dryan.com/@d/111211959448891339",
+			"author": {
+				"name": "Dan Ryan :dryan:",
+				"url": "https://social.dryan.com/@d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/804/817/015/572/original/b93ef5db0503b13f.jpeg"
+			},
+			"date": "2023-10-10T17:43:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> let’s just call them The Way</p><p>Or HTMLements</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212098759930684",
+			"parentId": "111211959459022858",
+			"url": "https://fediverse.zachleat.com/@zachleat/111212098759930684",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T18:19:16.175Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.dryan.com/@d\" class=\"u-url mention\">@<span>d</span></a></span> …h-t-m-elements 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212114198813779",
+			"parentId": "111211792135588713",
+			"url": "https://fediverse.zachleat.com/@zachleat/111212114198813779",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-10T18:23:11.753Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> I’d sign off to that!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212666862891028",
+			"parentId": "111211500342257817",
+			"url": "https://fosstodon.org/@hawkticehurst/111212666850623217",
+			"author": {
+				"name": "Hawk Ticehurst",
+				"url": "https://fosstodon.org/@hawkticehurst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/382/229/410/239/377/original/4b2b3ec1efe031b4.jpeg"
+			},
+			"date": "2023-10-10T20:43:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> I'd give a +1 to having a classification between the two. At this point I think \"web components\" has (imo) been pretty heavily marketed/discussed as being the *combination* of CEs, shadow dom, templates, and {insert other WIP APIs} whereas I usually call what Zach is describing as \"wrapping markup with custom elements to declaratively define interactive UI\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111212821980296879",
+			"parentId": "111212666862891028",
+			"url": "https://mastodon.social/@westbrook/111212821953827922",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-10-10T21:23:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hawkticehurst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hawkticehurst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> where so you specifically place the delta between the two?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111213351721713787",
+			"parentId": "111212821980296879",
+			"url": "https://fosstodon.org/@hawkticehurst/111213351706491458",
+			"author": {
+				"name": "Hawk Ticehurst",
+				"url": "https://fosstodon.org/@hawkticehurst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/382/229/410/239/377/original/4b2b3ec1efe031b4.jpeg"
+			},
+			"date": "2023-10-10T23:37:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> In this case I'd say the delta is CEs versus all other WC APIs</p><p>If we formally call what Zach is describing \"web components\" I worry it risks muddying what that term means. Most docs/resources describe WCs as being the combo of CEs, shadow dom, and templates (+ others) but what Zach is talking about is just using the CE API</p><p>In my mind it's about being precise with wording and also thinking about all the docs/resources that already exist if that makes sense?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111213367102488039",
+			"parentId": "111213351721713787",
+			"url": "https://fosstodon.org/@hawkticehurst/111213367078593801",
+			"author": {
+				"name": "Hawk Ticehurst",
+				"url": "https://fosstodon.org/@hawkticehurst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/382/229/410/239/377/original/4b2b3ec1efe031b4.jpeg"
+			},
+			"date": "2023-10-10T23:41:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Also to be clear, I don't think it would be wrong/bad to casually or informally describe this as \"web components\" but for the purposes of education/docs I think being precise that this a method of building interactive UI using only custom elements and nothing else from the \"web component\" bucket of APIs is probably a smart move</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111337500465675795",
+			"parentId": 0,
+			"url": "https://mastodon.nz/@mez/111337500283402537",
+			"author": {
+				"name": "Philip (is looking for work)",
+				"url": "https://mastodon.nz/@mez",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/213/008/546/280/original/716603c4d65ea709.jpeg"
+			},
+			"date": "2023-11-01T21:50:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wait, I thought this was just \"web components\"? Is this not the default usage and anything Shadowy or requiring dependencies it the exception? Who is doing the reverse?</p><p>/cc <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> since I found this toot via his icon site blog post</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111337784755081310",
+			"parentId": "111337500465675795",
+			"url": "https://fediverse.zachleat.com/@zachleat/111337784755081310",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-01T23:02:52.264Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@mez\" class=\"u-url mention\">@<span>mez</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> as someone that remembers going through this revelation and then seeing it replay a few times now, I think my personal anecdata suggests otherwise</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111338151437664388",
+			"parentId": "111337784755081310",
+			"url": "https://mastodon.social/@jimniels/111338151408183666",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2023-11-02T00:36:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@mez\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mez</span></a></span> yeah I always thought of “web components” as the entire suite of technologies (custom elements, shadow dom, es modules, &lt;slot&gt;, etc.)</p><p>For me personally, I would love to have a term I could use to differentiate between web components that are used in a progressively enhanced way, eg</p><p>&lt;app-drawer&gt;<br>  &lt;nav&gt;<br>    &lt;a&gt;…&lt;/a&gt;<br>    &lt;a&gt;…&lt;/a&gt;<br>  &lt;/nav&gt;<br>&lt;app-drawer&gt;</p><p>Instead of something like:</p><p>&lt;app-drawer&gt;&lt;/app-drawer&gt;</p><p>With a bunch of JS</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111338245768850312",
+			"parentId": "111338151437664388",
+			"url": "https://mastodon.nz/@mez/111338245484143079",
+			"author": {
+				"name": "Philip (is looking for work)",
+				"url": "https://mastodon.nz/@mez",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/213/008/546/280/original/716603c4d65ea709.jpeg"
+			},
+			"date": "2023-11-02T01:00:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Gotcha. I think I was just slow on the uptake so I didn’t get much further than custom elements. I also am not in a spot where I’m building things for public consumption or re-use across different client projects.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111372617965009325",
+			"parentId": "111212114198813779",
+			"url": "https://indieweb.social/@McNeely/111372617948717681",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2023-11-08T02:41:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jimniels</span></a></span> late to the conversation since I just read Jim's post but it seems like the important parts of the convention are 1) it's just light DOM 2) it's  progressively enhanced HTML. With those two thoughts in mind I think either a name like \"Enhanced Components\" or \"Progressive Tags\" might work for classifying the technique.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111381935460876238",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111381935460876238",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-09T18:10:58.571Z",
+			"content": "<p>via <a href=\"https://adactio.com/journal/20618\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">adactio.com/journal/20618</span><span class=\"invisible\"></span></a></p><p>1. HTML web components<br />2. Element extensions (from <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@davatron5000\" class=\"u-url mention\">@<span>davatron5000</span></a></span>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111382127257484745",
+			"parentId": "111381935460876238",
+			"url": "https://fosstodon.org/@chris_hayes/111382127245737400",
+			"private": true,
+			"date": "2023-11-09T18:59:44.000Z",
+			"via": "fediverse"
+		}
+	]
+}

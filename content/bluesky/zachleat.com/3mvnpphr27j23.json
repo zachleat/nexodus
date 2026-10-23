@@ -1,0 +1,240 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mvnqz3cdzc2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/knowler.dev/post/3mvnqz3cdzc2f",
+			"private": true,
+			"date": "2026-09-16T18:21:57.248Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvnrhjns4k22",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mvnqz3cdzc2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvnrhjns4k22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-16T18:30:02.067Z",
+			"content": "<p>I’m curious what the costs are. My hunch would be that Shadow DOM has overhead costs but are those costs better than dumping everything into light dom when you hit 100 instances? 1000? I suppose i can test this myself just curious if folks have done it already</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wwv7b2hkcaghqlyy4mew2tzs/app.bsky.feed.post/3mvnrlczx3k2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tbroyer.ltgt.net/post/3mvnrlczx3k2n",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://bsky.app/profile/tbroyer.ltgt.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wwv7b2hkcaghqlyy4mew2tzs/bafkreihrqndj2znuvrww4i6apcquaupotcyo74imlxzlb7kihndwf7xhsy"
+			},
+			"date": "2026-09-16T18:32:09.342Z",
+			"content": "<p>Nolan Lawson made some measuring a few years ago about style performance:<br>\n<a href=\"https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/\">nolanlawson.com/2021/08/15/d...</a><br>\n<a href=\"https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/\">nolanlawson.com/2023/12/30/s...</a><br>\nAnd even made a talk about it:<br>\n<a href=\"https://nolanlawson.github.io/css-talk-2022/\">nolanlawson.github.io/css-talk-2022/</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mvns4sqtjk2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvnrhjns4k22",
+			"url": "https://bsky.app/profile/knowler.dev/post/3mvns4sqtjk2w",
+			"private": true,
+			"date": "2026-09-16T18:41:56.247Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mvnsbumfmk2x",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mvns4sqtjk2w",
+			"url": "https://bsky.app/profile/knowler.dev/post/3mvnsbumfmk2x",
+			"private": true,
+			"date": "2026-09-16T18:44:45.971Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3mvnsf4vcum2m",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mvns4sqtjk2w",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3mvnsf4vcum2m",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2026-09-16T18:46:35.315Z",
+			"content": "<p>This is about right. ShadowRoots and slots are Nodes and have some unavoidable costs. But then some style calcs are cheaper, and quite often you can make simpler DOM and styles when you don't have to be defensive.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3mvnsmkllb22t",
+			"parentId": "at://did:plc:wwv7b2hkcaghqlyy4mew2tzs/app.bsky.feed.post/3mvnrlczx3k2n",
+			"url": "https://bsky.app/profile/bram.us/post/3mvnsmkllb22t",
+			"author": {
+				"name": "Bramus",
+				"url": "https://bsky.app/profile/bram.us",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:343p6xcgmvkpz5abgezlgyep/bafkreigkuhuvdn6qvnizxa3agd26bvtkc7xmw5uqjnyh3g4zun4bxhzrsq"
+			},
+			"date": "2026-09-16T18:50:44.543Z",
+			"content": "<p>Seems like a good thing to add to <a href=\"https://chrome.dev/css-selector-benchmark/\">chrome.dev/css-selector...</a>.</p>\n<p>I'll try and take a stab at it later tonight.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3mvodcy24vs2d",
+			"parentId": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3mvnsmkllb22t",
+			"url": "https://bsky.app/profile/bram.us/post/3mvodcy24vs2d",
+			"author": {
+				"name": "Bramus",
+				"url": "https://bsky.app/profile/bram.us",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:343p6xcgmvkpz5abgezlgyep/bafkreigkuhuvdn6qvnizxa3agd26bvtkc7xmw5uqjnyh3g4zun4bxhzrsq"
+			},
+			"date": "2026-09-16T23:49:36.731Z",
+			"content": "<p>Here you go: <a href=\"https://chrome.dev/css-selector-benchmark/?category=Shadow+DOM\">chrome.dev/css-selector...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvpz77f7ls2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvpz77f7ls2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-17T15:53:52.276Z",
+			"content": "<p><a href=\"https://bsky.app/profile/did:plc:343p6xcgmvkpz5abgezlgyep\">@bram.us</a> added some benchmarks: <a href=\"https://chrome.dev/css-selector-benchmark/benchmarks/light-vs-shadow/mount/\">chrome.dev/css-selector...</a></p>\n<p>Seems like Light &gt; Shadow &gt; Light/Shadow 50/50 mix</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdysdz622u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvpz77f7ls2c",
+			"url": "https://bsky.app/profile/splitinfinities.com/post/3mvrdysdz622u",
+			"author": {
+				"name": "William Allyn Nova (he/they)",
+				"url": "https://bsky.app/profile/splitinfinities.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kw25jotasurb5wwnqnvotxm3/bafkreifyf34l6afpd2k5f6lm6pucogs6y34gjckmzlyvhgqx7z5iwqyhqy"
+			},
+			"date": "2026-09-18T04:39:48.170Z",
+			"content": "<p>With the recalcs I’m also curious if css containment has any positive impact. That was a thing I wanted to see stencil have back in the day since adding the style tag would trigger expensive recalcs but using the constructae/adoptedStylesheets significantly improved recalc/restyles.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdzs7hac2u",
+			"parentId": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdysdz622u",
+			"url": "https://bsky.app/profile/splitinfinities.com/post/3mvrdzs7hac2u",
+			"author": {
+				"name": "William Allyn Nova (he/they)",
+				"url": "https://bsky.app/profile/splitinfinities.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kw25jotasurb5wwnqnvotxm3/bafkreifyf34l6afpd2k5f6lm6pucogs6y34gjckmzlyvhgqx7z5iwqyhqy"
+			},
+			"date": "2026-09-18T04:40:21.582Z",
+			"content": "<p>Constructible* lol</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvzzek5yxc2k",
+			"parentId": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdysdz622u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvzzek5yxc2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T15:23:28.730Z",
+			"content": "<p>that would be interesting to test!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mvzzzxxby22p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/andrew-ww.bsky.social/post/3mvzzzxxby22p",
+			"private": true,
+			"date": "2026-09-21T15:35:27.828Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw22zb44os2k",
+			"parentId": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mvzzzxxby22p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw22zb44os2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T15:52:57.616Z",
+			"content": "<p>sure, but are you saying that isolation has perf benefits or downsides?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw23cupuos2c",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw22zb44os2k",
+			"url": "https://bsky.app/profile/andrew-ww.bsky.social/post/3mw23cupuos2c",
+			"private": true,
+			"date": "2026-09-21T15:58:20.171Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw23iqk3tk2n",
+			"parentId": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw23cupuos2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw23iqk3tk2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T16:01:37.119Z",
+			"content": "<p>that makes sense, thanks! appreciate your insight!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw23la3wn22a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw23iqk3tk2n",
+			"url": "https://bsky.app/profile/andrew-ww.bsky.social/post/3mw23la3wn22a",
+			"private": true,
+			"date": "2026-09-21T16:03:00.539Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw23nv6buk2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw23iqk3tk2n",
+			"url": "https://bsky.app/profile/andrew-ww.bsky.social/post/3mw23nv6buk2a",
+			"private": true,
+			"date": "2026-09-21T16:04:29.747Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw23p6gluk2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw23iqk3tk2n",
+			"url": "https://bsky.app/profile/andrew-ww.bsky.social/post/3mw23p6gluk2a",
+			"private": true,
+			"date": "2026-09-21T16:05:13.011Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw23pekyzk2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw23iqk3tk2n",
+			"url": "https://bsky.app/profile/andrew-ww.bsky.social/post/3mw23pekyzk2a",
+			"private": true,
+			"date": "2026-09-21T16:05:19.447Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw24y72cz22x",
+			"parentId": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw23p6gluk2a",
+			"url": "https://bsky.app/profile/andrew-ww.bsky.social/post/3mw24y72cz22x",
+			"private": true,
+			"date": "2026-09-21T16:28:09.389Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw2563eor224",
+			"parentId": "at://did:plc:3svvhkcdcv3er4hka3jts7qy/app.bsky.feed.post/3mw24y72cz22x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw2563eor224",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T16:31:26.861Z",
+			"content": "<p>I sent my thank you too early! you had more to share! (still appreciated!)</p>",
+			"via": "bluesky"
+		}
+	]
+}

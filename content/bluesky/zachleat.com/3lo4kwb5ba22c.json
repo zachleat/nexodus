@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:b2mcbcamkwyznc5fkplwlxbf/app.bsky.feed.post/3lo4qc62qlk2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/markbennett.ca/post/3lo4qc62qlk2f",
+			"author": {
+				"name": "Mark Bennett (he/him) 🏳️‍🌈🧑🏻‍💻🏃🏻🍁",
+				"url": "https://bsky.app/profile/markbennett.ca",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2mcbcamkwyznc5fkplwlxbf/bafkreiejz4ak4eofk7exml7lzro63zxxz3cnexk5mxv27sfwtghfcvyjhq"
+			},
+			"date": "2025-05-01T16:31:19.350Z",
+			"content": "<p>I really wish Deno had more headwind but it definitely feels like a slog to get things running sometimes.</p>\n<p>I’ve used it for a few projects and have always enjoyed it. The built in tools and ease of deploying to Deno Deploy is amazing. Just so many compatibility issues still.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lo4zrm777c2e",
+			"parentId": "at://did:plc:b2mcbcamkwyznc5fkplwlxbf/app.bsky.feed.post/3lo4qc62qlk2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lo4zrm777c2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-01T19:21:01.178Z",
+			"content": "<p>at the very least it’s good to have your code running in at least 2 runtimes — so I’m thankful for that!</p>",
+			"via": "bluesky"
+		}
+	]
+}

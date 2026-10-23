@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "109513459091339300",
+			"parentId": 0,
+			"url": "https://mastodon.social/@lachlanjc/109513458810946220",
+			"author": {
+				"name": "Lachlan Campbell",
+				"url": "https://mastodon.social/@lachlanjc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/759/282/485/913/original/617f406348abc053.png"
+			},
+			"date": "2022-12-14T18:32:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It’s included in the next build output, since iirc that’s when they’re submitting the data about the features your app is using. Gatsby does this too, with a notice on installation: <a href=\"https://www.gatsbyjs.com/docs/telemetry/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">gatsbyjs.com/docs/telemetry/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513472092736078",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jed/109513472053324424",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2022-12-14T18:36:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Don’t Ask Don’t Telemetry</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513571398144887",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@TheOceanBreeze/109513571368845578",
+			"author": {
+				"name": "Sean (TheOceanBreeze)",
+				"url": "https://fosstodon.org/@TheOceanBreeze",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/475/928/703/367/043/original/ba966c7cd93e68c0.png"
+			},
+			"date": "2022-12-14T19:01:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I absolutely didn't know that Next.js collected telemetry data before I read this post. Thanks for the heads up!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513935428100792",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@xyhhx/109513935052977708",
+			"author": {
+				"name": "xyhhx",
+				"url": "https://fosstodon.org/@xyhhx",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2022-12-14T20:33:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve gotten into the habit of looking for telemetry disable environment vars when trying new frameworks</p>",
+			"via": "fediverse"
+		}
+	]
+}

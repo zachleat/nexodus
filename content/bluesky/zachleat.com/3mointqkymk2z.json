@@ -1,0 +1,106 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:jqto6xbor6oq2jidyieabern/app.bsky.feed.post/3moiopw3tpc2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jurgenbelien.nl/post/3moiopw3tpc2l",
+			"private": true,
+			"date": "2026-06-17T16:01:22.232Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jqto6xbor6oq2jidyieabern/app.bsky.feed.post/3moioueowb22q",
+			"parentId": "at://did:plc:jqto6xbor6oq2jidyieabern/app.bsky.feed.post/3moiopw3tpc2l",
+			"url": "https://bsky.app/profile/jurgenbelien.nl/post/3moioueowb22q",
+			"private": true,
+			"date": "2026-06-17T16:03:51.749Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3moip5cyo222j",
+			"parentId": "at://did:plc:jqto6xbor6oq2jidyieabern/app.bsky.feed.post/3moioueowb22q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3moip5cyo222j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-17T16:08:51.969Z",
+			"content": "<p>Wow. And this was on <a href=\"https://portal.dialog.org\">portal.dialog.org</a>? Unfortunately it doesn’t look like the wayback machine was able to snag that</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jqto6xbor6oq2jidyieabern/app.bsky.feed.post/3moipdyeszc2r",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3moip5cyo222j",
+			"url": "https://bsky.app/profile/jurgenbelien.nl/post/3moipdyeszc2r",
+			"private": true,
+			"date": "2026-06-17T16:12:35.713Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:llcv44ismcsifiulhlvsvmmr/app.bsky.feed.post/3moivx6t4gk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/timneutkens.bsky.social/post/3moivx6t4gk2q",
+			"author": {
+				"name": "Tim Neutkens",
+				"url": "https://bsky.app/profile/timneutkens.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:llcv44ismcsifiulhlvsvmmr/bafkreief5qlbywsayr4juyysmrd5unjq3l44iphwmrspekrt5wrf626gi4"
+			},
+			"date": "2026-06-17T18:10:42.458Z",
+			"content": "<p>That's not Next.js. Looks like Vite or CRA.</p>\n<p>Next.js doesn't have an `assets` dir.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:axeym7d7tmkknjnufsvaiykp/app.bsky.feed.post/3moiw4daaus2d",
+			"parentId": "at://did:plc:jqto6xbor6oq2jidyieabern/app.bsky.feed.post/3moiopw3tpc2l",
+			"url": "https://bsky.app/profile/ayo.run/post/3moiw4daaus2d",
+			"author": {
+				"name": "AyooOo 🎃",
+				"url": "https://bsky.app/profile/ayo.run",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:axeym7d7tmkknjnufsvaiykp/bafkreidkfjcnsrc34dqxqnxk5ubv5aw5rkqunrdpu5c6xzwt3e5n5peqwe"
+			},
+			"date": "2026-06-17T18:13:34.855Z",
+			"content": "<p>Guys I think we are living in a simulation</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3moixsyxgnk2i",
+			"parentId": "at://did:plc:llcv44ismcsifiulhlvsvmmr/app.bsky.feed.post/3moivx6t4gk2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3moixsyxgnk2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-17T18:44:09.574Z",
+			"content": "<p>Ah, thanks! fwiw, the archived versions of the site were using `_next` which is what I was spelunking through.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hut6aguffcsxljufne6l74ck/app.bsky.feed.post/3mojbdqjvv22m",
+			"parentId": "at://did:plc:jqto6xbor6oq2jidyieabern/app.bsky.feed.post/3moipdyeszc2r",
+			"url": "https://bsky.app/profile/olivierforget.net/post/3mojbdqjvv22m",
+			"author": {
+				"name": "Olivier Forget",
+				"url": "https://bsky.app/profile/olivierforget.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hut6aguffcsxljufne6l74ck/bafkreifaykypxvkp6pukrqiflsxssxksvqxosf5tt2ln7no5nm3vlebome"
+			},
+			"date": "2026-06-17T21:34:34.845Z",
+			"content": "<p>\"We're clean on OPSEC\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mojfqplyws2v",
+			"parentId": "at://did:plc:hut6aguffcsxljufne6l74ck/app.bsky.feed.post/3mojbdqjvv22m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mojfqplyws2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-17T22:53:25.040Z",
+			"content": "<p>haha well done 🏆</p>",
+			"via": "bluesky"
+		}
+	]
+}

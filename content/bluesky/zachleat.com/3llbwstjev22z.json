@@ -1,0 +1,342 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:wncmaj3pjpzralwi2szdwwbl/app.bsky.feed.post/3llbxb32fq22s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/crswll.dev/post/3llbxb32fq22s",
+			"author": {
+				"name": "Bill Criswell",
+				"url": "https://bsky.app/profile/crswll.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wncmaj3pjpzralwi2szdwwbl/bafkreid6kx6vjquxose5s3i32qpcp4y7z65ijkhshakttescgxbscjuhjy"
+			},
+			"date": "2025-03-26T14:03:42.649Z",
+			"content": "<p>I replaced SVGs with PNGs in some software that ran on very old hardware and the results were incredible. I now take that suggestion a little more seriously (though maybe an edge case).</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llbxemfxr22z",
+			"parentId": "at://did:plc:wncmaj3pjpzralwi2szdwwbl/app.bsky.feed.post/3llbxb32fq22s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llbxemfxr22z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-26T14:05:41.517Z",
+			"content": "<p>&lt;img src=\"svg\"&gt; would work too!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wncmaj3pjpzralwi2szdwwbl/app.bsky.feed.post/3llbymj4y4c2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llbxemfxr22z",
+			"url": "https://bsky.app/profile/crswll.dev/post/3llbymj4y4c2z",
+			"author": {
+				"name": "Bill Criswell",
+				"url": "https://bsky.app/profile/crswll.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wncmaj3pjpzralwi2szdwwbl/bafkreid6kx6vjquxose5s3i32qpcp4y7z65ijkhshakttescgxbscjuhjy"
+			},
+			"date": "2025-03-26T14:28:00.254Z",
+			"content": "<p>That was a while ago... I hope I tried that. Honestly don't remember, though.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yfrdfxqvcic5zufoyoatvma7/app.bsky.feed.post/3llbyotz4uk2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bradleymeck.bsky.social/post/3llbyotz4uk2s",
+			"author": {
+				"name": "Bradley Farias ",
+				"url": "https://bsky.app/profile/bradleymeck.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yfrdfxqvcic5zufoyoatvma7/bafkreicobj2igj7waefozcstted2tc74me26o3ehua4uw2b5gpdhd5ndti"
+			},
+			"date": "2025-03-26T14:29:18.770Z",
+			"content": "<p>Isn't this the opposite of what Shadow DOM encourages?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3llbz6bxvbk2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3llbz6bxvbk2x",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-03-26T14:37:56.714Z",
+			"content": "<p>Rude.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llc2hxmcrs25",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3llbz6bxvbk2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llc2hxmcrs25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-26T15:01:15.148Z",
+			"content": "<p>Cannonball run!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:j65yyxd3csvlqf7mhjm32mk2/app.bsky.feed.post/3llc2kk7by22b",
+			"parentId": "at://did:plc:yfrdfxqvcic5zufoyoatvma7/app.bsky.feed.post/3llbyotz4uk2s",
+			"url": "https://bsky.app/profile/naugtur.pl/post/3llc2kk7by22b",
+			"author": {
+				"name": "naugtur",
+				"url": "https://bsky.app/profile/naugtur.pl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j65yyxd3csvlqf7mhjm32mk2/bafkreifgjypcvlh4tja3w45yv5rce57maucln5gj324tmfcdlv2xnunace"
+			},
+			"date": "2025-03-26T15:02:41.752Z",
+			"content": "<p>especially on a hot and sunny day</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llc2lhnp7c25",
+			"parentId": "at://did:plc:yfrdfxqvcic5zufoyoatvma7/app.bsky.feed.post/3llbyotz4uk2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llc2lhnp7c25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-26T15:03:12.634Z",
+			"content": "<p>depends if it’s closed or open, I think?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tzpexvilfhdevovnutdrqag4/app.bsky.feed.post/3llc4fn7ep22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/michal.wil.ski/post/3llc4fn7ep22f",
+			"author": {
+				"name": "Michał Wilski",
+				"url": "https://bsky.app/profile/michal.wil.ski",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzpexvilfhdevovnutdrqag4/bafkreiagrvgapx4r2ztavnmqhwaaomysx3unoajmehhfqioctnc4syadwi"
+			},
+			"date": "2025-03-26T15:35:44.613Z",
+			"content": "<p>Every problem can be solved with a finite number of divs</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llc4whdois2i",
+			"parentId": "at://did:plc:tzpexvilfhdevovnutdrqag4/app.bsky.feed.post/3llc4fn7ep22f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llc4whdois2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-26T15:45:08.888Z",
+			"content": "<p>640K should be enough for anybody — wait</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:a4vhrpia4dxoz6hmmkllhyry/app.bsky.feed.post/3lldpfn437c2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jackharner.com/post/3lldpfn437c2k",
+			"author": {
+				"name": "Jack Harner 🚀 Web Developer",
+				"url": "https://bsky.app/profile/jackharner.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:a4vhrpia4dxoz6hmmkllhyry/bafkreia2iobj6g2ka36np2djk3fcjh6devcq5kxhnxqtuj3cs7gtg2m6pe"
+			},
+			"date": "2025-03-27T06:48:25.337Z",
+			"content": "<p>Lighthouse just wants you to have &lt;body&gt; be the lowest nested element on the entire page.</p>\n<p>Apparently, all hell's going to break loose if you embed SVG code in your markup. 😂</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llegwhyik22b",
+			"parentId": "at://did:plc:a4vhrpia4dxoz6hmmkllhyry/app.bsky.feed.post/3lldpfn437c2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llegwhyik22b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-27T13:49:26.465Z",
+			"content": "<p>we need an SVG minifier that converts a complex SVG into a single path 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:a4vhrpia4dxoz6hmmkllhyry/app.bsky.feed.post/3llhaeweulk2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llegwhyik22b",
+			"url": "https://bsky.app/profile/jackharner.com/post/3llhaeweulk2z",
+			"author": {
+				"name": "Jack Harner 🚀 Web Developer",
+				"url": "https://bsky.app/profile/jackharner.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:a4vhrpia4dxoz6hmmkllhyry/bafkreia2iobj6g2ka36np2djk3fcjh6devcq5kxhnxqtuj3cs7gtg2m6pe"
+			},
+			"date": "2025-03-28T16:30:14.334Z",
+			"content": "<p>or some kind of linear-gradient magic to apply to a single div. No nesting AT ALL!! 😂</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llhb5nme7s2h",
+			"parentId": "at://did:plc:a4vhrpia4dxoz6hmmkllhyry/app.bsky.feed.post/3llhaeweulk2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llhb5nme7s2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-28T16:44:04.004Z",
+			"content": "<p>everything must be <a href=\"https://a.singlediv.com/\">a.singlediv.com</a> sorry <a href=\"https://bsky.app/profile/did:plc:4fjdt7mwwkyws4fzpqfnehvu\">@lynnandtonic.com</a> you’re in charge of everything now</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4fjdt7mwwkyws4fzpqfnehvu/app.bsky.feed.post/3llhcrraaqs2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llhb5nme7s2h",
+			"url": "https://bsky.app/profile/lynnandtonic.com/post/3llhcrraaqs2n",
+			"author": {
+				"name": "Lynn Fisher",
+				"url": "https://bsky.app/profile/lynnandtonic.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4fjdt7mwwkyws4fzpqfnehvu/bafkreiboqznr5tfuj7xtoajeuu3zllq4bn6evzg7did6dqvv3upt2y4tde"
+			},
+			"date": "2025-03-28T17:13:12.632Z",
+			"content": "<p>I accept</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3llhf6ju3u225",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benbrignell.com/post/3llhf6ju3u225",
+			"author": {
+				"name": "Ben Brignell",
+				"url": "https://bsky.app/profile/benbrignell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:edojrnxw5whxhwigzdw7csrb/bafkreidw4foei4keimmt2g3x7ygw47htx5hxpghg2om4u445mvcy6thp6a"
+			},
+			"date": "2025-03-28T17:56:08.584Z",
+			"content": "<p>I know a guy called Dominic who is 6ft 11.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nturfjwjp6d76cbnblvhjovo/app.bsky.feed.post/3llhfb7hd4s2s",
+			"parentId": "at://did:plc:tzpexvilfhdevovnutdrqag4/app.bsky.feed.post/3llc4fn7ep22f",
+			"url": "https://bsky.app/profile/jschof.dev/post/3llhfb7hd4s2s",
+			"author": {
+				"name": "☔ Jim Schofield 🌼",
+				"url": "https://bsky.app/profile/jschof.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nturfjwjp6d76cbnblvhjovo/bafkreig3vyufhhc77i7opieyf5ewyc2hotqzpkq4bdbmmatqfspshddizq"
+			},
+			"date": "2025-03-28T17:57:38.343Z",
+			"content": "<p>I heard divs are turning complete</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3llhfbfwlws2e",
+			"parentId": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3llhf6ju3u225",
+			"url": "https://bsky.app/profile/sturobson.com/post/3llhfbfwlws2e",
+			"author": {
+				"name": "Stuart Robson",
+				"url": "https://bsky.app/profile/sturobson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnut7bswvnl54dhflb4qofss/bafkreiedtdfrl3m5r2ghf2uayx3h35ktub2udzshrtfa5atvb35ntmp5ee"
+			},
+			"date": "2025-03-28T17:57:45.136Z",
+			"content": "<p>ludicrous</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llogtni6ac2h",
+			"parentId": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3llhf6ju3u225",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llogtni6ac2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-31T13:14:28.941Z",
+			"content": "<p>this is how the fast and furious franchise started</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3lloovkmbec2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llogtni6ac2h",
+			"url": "https://bsky.app/profile/benbrignell.com/post/3lloovkmbec2k",
+			"author": {
+				"name": "Ben Brignell",
+				"url": "https://bsky.app/profile/benbrignell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:edojrnxw5whxhwigzdw7csrb/bafkreidw4foei4keimmt2g3x7ygw47htx5hxpghg2om4u445mvcy6thp6a"
+			},
+			"date": "2025-03-31T15:38:42.974Z",
+			"content": "<p>I will watch one or all of these films tonight so I can understand this better</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3llopv24fwk2q",
+			"parentId": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3lloovkmbec2k",
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3llopv24fwk2q",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2025-03-31T15:56:19.419Z",
+			"content": "<p>Fast &amp; furious through Hull</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3llopx4vatk22",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3llopv24fwk2q",
+			"url": "https://bsky.app/profile/sturobson.com/post/3llopx4vatk22",
+			"author": {
+				"name": "Stuart Robson",
+				"url": "https://bsky.app/profile/sturobson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnut7bswvnl54dhflb4qofss/bafkreiedtdfrl3m5r2ghf2uayx3h35ktub2udzshrtfa5atvb35ntmp5ee"
+			},
+			"date": "2025-03-31T15:57:29.439Z",
+			"content": "<p>Fast &amp; furious through Hull 2: With your eyes closed</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lloqshqx5c22",
+			"parentId": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3lloovkmbec2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lloqshqx5c22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-31T16:12:46.801Z",
+			"content": "<p>I only ask that you watch the one where they drive their car to space</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wbt4gu3nudilozwj6nfyjbe6/app.bsky.feed.post/3llovcocjxs2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dansmithcreates.bsky.social/post/3llovcocjxs2p",
+			"author": {
+				"name": "Daniel Smith",
+				"url": "https://bsky.app/profile/dansmithcreates.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wbt4gu3nudilozwj6nfyjbe6/bafkreibcew7tuhhe6jy7nix2gv3w3rjybhddhqbnmh2ijyctzc26sku27q"
+			},
+			"date": "2025-03-31T17:33:25.506Z",
+			"content": "<p>hide complexity in iframes, and hope Lighthouse does not notice :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llovyvdpjs2v",
+			"parentId": "at://did:plc:wbt4gu3nudilozwj6nfyjbe6/app.bsky.feed.post/3llovcocjxs2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3llovyvdpjs2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-31T17:45:51.084Z",
+			"content": "<p>delete ads, hope client doesn’t notice 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3llow7be3qc2z",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3llopv24fwk2q",
+			"url": "https://bsky.app/profile/benbrignell.com/post/3llow7be3qc2z",
+			"author": {
+				"name": "Ben Brignell",
+				"url": "https://bsky.app/profile/benbrignell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:edojrnxw5whxhwigzdw7csrb/bafkreidw4foei4keimmt2g3x7ygw47htx5hxpghg2om4u445mvcy6thp6a"
+			},
+			"date": "2025-03-31T17:49:25.001Z",
+			"content": "<p>Ludicrous</p>",
+			"via": "bluesky"
+		}
+	]
+}

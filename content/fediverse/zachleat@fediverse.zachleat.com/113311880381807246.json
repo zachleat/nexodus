@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "113311952772577373",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/113311952744838633",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-10-15T14:39:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> `&lt;a href=spoiler&gt;Spoiler&lt;/a&gt;`</p><p>Progressively enhance that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113311960121041255",
+			"parentId": 0,
+			"url": "https://mastodon.online/@stvfrnzl/113311960087214931",
+			"author": {
+				"name": "Steve Frenzel",
+				"url": "https://mastodon.online/@stvfrnzl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/510/974/973/019/589/original/2f10c129f9b865b1.jpg"
+			},
+			"date": "2024-10-15T14:41:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> maybe this helps?</p><p><a href=\"https://www.scottohara.me/blog/2024/08/22/spoiler.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">scottohara.me/blog/2024/08/22/</span><span class=\"invisible\">spoiler.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113311995886582093",
+			"parentId": "113311960121041255",
+			"url": "https://fediverse.zachleat.com/@zachleat/113311995886582093",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-15T14:50:43.486Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\">@<span>stvfrnzl</span></a></span> *excellent* thank you! (and <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\">@<span>scottohara</span></a></span> too)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113315160695120018",
+			"parentId": "113311995886582093",
+			"url": "https://c.im/@cwilcox808/113315160683611939",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2024-10-16T04:15:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Also not in web component form but this is my take on a spoiler pattern.</p><p>`visibility: hidden` keeps the content hidden from everyone until it's used.</p><p><a href=\"https://codepen.io/ccwilcox/pen/wvXxzNG\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/ccwilcox/pen/wvXxzN</span><span class=\"invisible\">G</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scottohara</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113317328715803396",
+			"parentId": "113315160695120018",
+			"url": "https://fediverse.zachleat.com/@zachleat/113317328715803396",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-16T13:26:56.001Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\">@<span>scottohara</span></a></span> oh my this code would be excellent for a web component (would have the extra benefit of for-free init for any later injected content too)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113318893011805897",
+			"parentId": "113317328715803396",
+			"url": "https://c.im/@cwilcox808/113318893000831676",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2024-10-16T20:04:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Here's a web component version. I fumbled my way through making this custom element by cribbing from from others.</p><p>Using :has() with :host didn't seem to work so I'm glad I had already included a fallback for browsers that didn't support it.</p><p>Because of the click listener, I wouldn't use it for interactive content though links should be fine. </p><p><a href=\"https://codepen.io/ccwilcox/pen/ZEgKvea\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/ccwilcox/pen/ZEgKve</span><span class=\"invisible\">a</span></a><br><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scottohara</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113319131278024074",
+			"parentId": "113318893011805897",
+			"url": "https://fediverse.zachleat.com/@zachleat/113319131278024074",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-16T21:05:20.918Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\">@<span>scottohara</span></a></span> oh my—you went much deeper than I expected! nice work! I was just expecting a super simple custom element with light dom 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113325309958331555",
+			"parentId": "113319131278024074",
+			"url": "https://c.im/@cwilcox808/113325309925594337",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2024-10-17T23:16:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Yeah, I took it as an opportunity to try making one that used Shadow DOM.</p><p>Now I've made a lowest effort Light DOM version, it only replaces the querySelectorAll() and forEach() calls with creating the class and defining the element.</p><p>I also made a collection for the 'pens (including a fork of Scott's). I want to do at least one more variant, a Light DOM version that at least adds the button for you.</p><p><a href=\"https://codepen.io/ccwilcox/pen/QWegKEy\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/ccwilcox/pen/QWegKE</span><span class=\"invisible\">y</span></a></p><p><a href=\"https://codepen.io/collection/YymdGm\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codepen.io/collection/YymdGm</span><span class=\"invisible\"></span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scottohara</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113328456565417095",
+			"parentId": "113325309958331555",
+			"url": "https://fediverse.zachleat.com/@zachleat/113328456565417095",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-18T12:36:53.513Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\">@<span>scottohara</span></a></span> excellent work!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113329594514830582",
+			"parentId": "113328456565417095",
+			"url": "https://c.im/@cwilcox808/113329594503803506",
+			"author": {
+				"name": "Curtis Wilcox",
+				"url": "https://c.im/@cwilcox808",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/611/015/490/799/806/original/79bff32e81a0f372.jpeg"
+			},
+			"date": "2024-10-18T17:26:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>I made a fancier light DOM version. Like the Shadow DOM version, you only need to use &lt;spoil-er&gt;, the rest of what is needed is automatically added.</p><p>I think how it adds the button is okay but I'm a little unsure about how it wraps the content in a span.</p><p><a href=\"https://codepen.io/ccwilcox/pen/RwXgGjz\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/ccwilcox/pen/RwXgGj</span><span class=\"invisible\">z</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scottohara</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

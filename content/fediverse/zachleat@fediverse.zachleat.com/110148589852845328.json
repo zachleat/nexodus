@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "110148768960166245",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/110148768906922673",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-04-05T23:20:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>Why \"boo\"?</p><p>Rendering in JS can be the right thing to do in elements that require JS to fully surface the experience they deliver. Sometimes nothing is really better than something.</p><p>Whether it's advanced functionality (that not all apps need) or baseline accessibility (that all do) JS can be an important part of delivering your apps content!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110149015391059287",
+			"parentId": "110148768960166245",
+			"url": "https://fediverse.zachleat.com/@zachleat/110149015391059287",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-06T00:23:11.297Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> sometimes! I live on the hill that JS-based Shadow DOM was oversold though—and long before superior declarative methods were available, too. Just another quibble about defaults, I suppose!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110149103814024670",
+			"parentId": "110148768960166245",
+			"url": "https://indieweb.social/@jaredwhite/110149103741424132",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/552/988/169/598/original/863bd81d9ad9d7b6.jpeg"
+			},
+			"date": "2023-04-06T00:45:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I really believe it depends on the type of component.</p><p>Something like \"popup calendar widget\" probably doesn't make much sense being server-rendered with declarative markup, as it's functionally useless without JavaScript.</p><p>But other components might be largely based around light interactions on top of app content and data that's server-driven anyway. In those cases, going DSD-first (perhaps even avoiding shipping a client-side template at all) is a huge benefit.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110149167471630538",
+			"parentId": "110149103814024670",
+			"url": "https://mastodon.social/@westbrook/110149167403565542",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-04-06T01:01:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Definitely in this area of thought!</p><p>Regardless of \"can function\" without JS, many patterns can't be accessible without JS, and if you're going to need those things you can't be sure what content to send users until the JS is for sure available. In that way, you might SSR one thing and then CSR other things, but the JS render would still happen.</p>",
+			"via": "fediverse"
+		}
+	]
+}

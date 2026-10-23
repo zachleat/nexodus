@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:a64baelxsmvy6aonnbfhbirv/app.bsky.feed.post/3m3ugp7auys2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tfedder.de/post/3m3ugp7auys2n",
+			"author": {
+				"name": "Tobias Fedder",
+				"url": "https://bsky.app/profile/tfedder.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:a64baelxsmvy6aonnbfhbirv/bafkreigcjhsxk6uz4plibvdto6t23vicadmispnvgq2hlpj23x2fyilngy"
+			},
+			"date": "2025-10-23T13:11:04.278Z",
+			"content": "<p>Sweet search engine ranking boost for my rinky-dink wEbSiTe.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3ui5ljsek2h",
+			"parentId": "at://did:plc:a64baelxsmvy6aonnbfhbirv/app.bsky.feed.post/3m3ugp7auys2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3ui5ljsek2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-23T13:37:00.658Z",
+			"content": "<p>we take all the help we can get!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xze6eimrnifbpwdv5uapb4d7/app.bsky.feed.post/3m3uj3nezw22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/svillegas.com/post/3m3uj3nezw22f",
+			"author": {
+				"name": "sylvia",
+				"url": "https://bsky.app/profile/svillegas.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xze6eimrnifbpwdv5uapb4d7/bafkreif426bfbkkyj7viyow5v6lix66povopmzevwdzkbk4dvgx2nbkxqa"
+			},
+			"date": "2025-10-23T13:53:49.232Z",
+			"content": "<p>\"facepile\" 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3uj7223k22p",
+			"parentId": "at://did:plc:xze6eimrnifbpwdv5uapb4d7/app.bsky.feed.post/3m3uj3nezw22f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3uj7223k22p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-23T13:55:43.169Z",
+			"content": "<p>I didn’t make it up I swear 😅 <a href=\"https://indieweb.org/facepile\">indieweb.org/facepile</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

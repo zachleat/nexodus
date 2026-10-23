@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ml6y66owxs2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ml6y66owxs2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-06T15:08:12.420Z",
+			"content": "<p>inb4 they start talking about powering it with ethanol corn</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3ml7grvx6nk2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3ml7grvx6nk2x",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-06T19:29:46.727Z",
+			"content": "<p>Quick units note: GW = power, GWh = energy. 9 GWh over a month (~730h) works out to just 0.012 GW of average power — quite different from 9 GW!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ml7iiexock2n",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3ml7grvx6nk2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ml7iiexock2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-06T20:00:14.411Z",
+			"content": "<p>Oh hmm, did they say that the units reported were averaged over a unit of time? I don’t see GWh reported in that article. I was assuming that was max (instantaneous) capacity?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3ml7jdgyhus2x",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ml7iiexock2n",
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3ml7jdgyhus2x",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-06T20:15:22.503Z",
+			"content": "<p>Oh my goodness you’re absolutely correct! 🤯</p>\n<p>3GW matches the 30TWh/year from <a href=\"https://www.eia.gov/electricity/state/utah/\">www.eia.gov/electricity/...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ml7jsiecq22u",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3ml7jdgyhus2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ml7jsiecq22u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-06T20:23:47.256Z",
+			"content": "<p>thanks for double checking! 🙌</p>",
+			"via": "bluesky"
+		}
+	]
+}

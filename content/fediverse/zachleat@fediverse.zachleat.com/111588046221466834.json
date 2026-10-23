@@ -1,0 +1,396 @@
+{
+	"comments": [
+		{
+			"id": "111588058527438022",
+			"parentId": 0,
+			"url": "https://tech.lgbt/@noelle/111588058463413623",
+			"private": true,
+			"date": "2023-12-16T03:50:45.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111588068656381220",
+			"parentId": "111588058527438022",
+			"url": "https://fediverse.zachleat.com/@zachleat/111588068656381220",
+			"private": true,
+			"date": "2023-12-16T03:53:21.520Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111588634305825444",
+			"parentId": 0,
+			"url": "https://front-end.social/@elly/111588634290111461",
+			"author": {
+				"name": "Elly Loel",
+				"url": "https://front-end.social/@elly",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/446/932/953/258/362/original/1f113f0d3227c3fb.png"
+			},
+			"date": "2023-12-16T06:17:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> ooooh this is sooo exciting :blob_cat_aww:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111589056213004737",
+			"parentId": 0,
+			"url": "https://mastodon.thbps.com/@jpoehnelt/111589056136117615",
+			"author": {
+				"name": "Justin Poehnelt",
+				"url": "https://mastodon.thbps.com/@jpoehnelt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/117/474/255/268/original/9412a4646281e1ff.jpeg"
+			},
+			"date": "2023-12-16T08:04:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Just started with this tonight for my blog as I wanted to use some ESM only packages in some `11ty.js` files. Now I have a pattern to follow!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111589069707367760",
+			"parentId": "111589056213004737",
+			"url": "https://mastodon.thbps.com/@jpoehnelt/111589069639511755",
+			"author": {
+				"name": "Justin Poehnelt",
+				"url": "https://mastodon.thbps.com/@jpoehnelt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/117/474/255/268/original/9412a4646281e1ff.jpeg"
+			},
+			"date": "2023-12-16T08:07:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Although I was trying to go full `\"type\": \"module\"` at the same time, probably need to take some smaller steps. Your PR seems a little easier than what I was running into which is likely my own fault.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111589627814563271",
+			"parentId": 0,
+			"url": "https://mastodon.social/@gunnarsson/111589627669391405",
+			"author": {
+				"name": "Gunnarsson",
+				"url": "https://mastodon.social/@gunnarsson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/892/201/580/434/656/original/ae56b08f3e4689c1.jpg"
+			},
+			"date": "2023-12-16T10:29:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Exciting! Can I read about what's planned for 3.0 somewhere?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111589634654600475",
+			"parentId": 0,
+			"url": "https://aus.social/@nathanbottomley/111589634590763290",
+			"author": {
+				"name": "Nathan Bottomley",
+				"url": "https://aus.social/@nathanbottomley",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/451/444/536/584/188/original/dfca949844287853.png"
+			},
+			"date": "2023-12-16T10:31:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Congratulations, Zach. A milestone! 👏👏👏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111590966981770470",
+			"parentId": "111589069707367760",
+			"url": "https://fosstodon.org/@eleventy/111590966924673778",
+			"author": {
+				"name": "Eleventy 🎈 v3.1.0-beta.1",
+				"url": "https://fosstodon.org/@eleventy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/325/867/586/024/180/original/bd29326a4a4c57c3.png"
+			},
+			"date": "2023-12-16T16:10:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.thbps.com/@jpoehnelt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jpoehnelt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah you can go full type: module if you want but you will have to change all your .js to .cjs and then migrate to ESM syntax (and rename back to .js) as fast or slow as you’d like</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111590967751202081",
+			"parentId": "111589627814563271",
+			"url": "https://fosstodon.org/@eleventy/111590967710444631",
+			"author": {
+				"name": "Eleventy 🎈 v3.1.0-beta.1",
+				"url": "https://fosstodon.org/@eleventy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/325/867/586/024/180/original/bd29326a4a4c57c3.png"
+			},
+			"date": "2023-12-16T16:10:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@gunnarsson\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>gunnarsson</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah I’ll write all this up soon!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111591924709041539",
+			"parentId": "111589634654600475",
+			"url": "https://fediverse.zachleat.com/@zachleat/111591924709041539",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-16T20:14:00.214Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@nathanbottomley\" class=\"u-url mention\">@<span>nathanbottomley</span></a></span> thank you!! more to come!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111591983572047006",
+			"parentId": 0,
+			"url": "https://layer8.space/@RyunoKi/111591983529965252",
+			"private": true,
+			"date": "2023-12-16T20:28:57.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592052214851919",
+			"parentId": "111591983572047006",
+			"url": "https://fediverse.zachleat.com/@zachleat/111592052214851919",
+			"private": true,
+			"date": "2023-12-16T20:46:25.798Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592119940978837",
+			"parentId": "111592052214851919",
+			"url": "https://layer8.space/@RyunoKi/111592119717114066",
+			"private": true,
+			"date": "2023-12-16T21:03:35.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592127001311420",
+			"parentId": "111592119940978837",
+			"url": "https://layer8.space/@RyunoKi/111592126900868356",
+			"private": true,
+			"date": "2023-12-16T21:05:25.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592148051369875",
+			"parentId": 0,
+			"url": "https://front-end.social/@stubbornella/111592147963895508",
+			"author": {
+				"name": "Nicole Sullivan",
+				"url": "https://front-end.social/@stubbornella",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/261/194/270/593/original/43ef87eef146046d.png"
+			},
+			"date": "2023-12-16T21:10:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> bravo!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592193429989753",
+			"parentId": "111592148051369875",
+			"url": "https://fediverse.zachleat.com/@zachleat/111592193429989753",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-16T21:22:20.569Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stubbornella\" class=\"u-url mention\">@<span>stubbornella</span></a></span> Thanks Nicole! More to come!! 🥳</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592287309034673",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111592287309034673",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-16T21:46:13.048Z",
+			"content": "<p>While zachleat.com was a CJS to CJS migration, I’m currently updating 11ty.dev to be Eleventy v3 using ESM.</p><p>That work is in progress here:<br /><a href=\"https://github.com/11ty/11ty-website/pull/1636\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/11ty-website/p</span><span class=\"invisible\">ull/1636</span></a></p><p>Live demo:<br /><a href=\"https://eleventy-v3--11ty.netlify.app/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">eleventy-v3--11ty.netlify.app/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592376912426710",
+			"parentId": "111592287309034673",
+			"url": "https://hyem.tech/@rob/111592376815886580",
+			"author": {
+				"name": "Rob Anderson",
+				"url": "https://hyem.tech/@rob",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/433/670/204/849/335/original/0ba9ba70b91f576c.jpeg"
+			},
+			"date": "2023-12-16T22:08:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was wondering if ESM was going to be in v3! I was thinking it would make sharing code between eleventy and browser super easy for my Rebrew thing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592407924385409",
+			"parentId": "111592376912426710",
+			"url": "https://fediverse.zachleat.com/@zachleat/111592407924385409",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-16T22:16:53.494Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hyem.tech/@rob\" class=\"u-url mention\">@<span>rob</span></a></span> yeah! It’s the “flagship” feature for the release 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592667340353884",
+			"parentId": 0,
+			"url": "https://mastodon.social/@djwebdroid/111592667304212714",
+			"author": {
+				"name": "Djwebdroid",
+				"url": "https://mastodon.social/@djwebdroid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/927/822/142/106/366/original/700f873bb605e8ea.jpg"
+			},
+			"date": "2023-12-16T23:22:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> </p><p>Yup. Images are popping. :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596098217947359",
+			"parentId": "111592287309034673",
+			"url": "https://fediverse.zachleat.com/@zachleat/111596098217947359",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-17T13:55:22.905Z",
+			"content": "<p><a href=\"https://www.11ty.dev/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/</span><span class=\"invisible\"></span></a> is now built with Eleventy v3 *exclusively* using ESM (no CommonJS)</p><p>View the final PR <a href=\"https://github.com/11ty/11ty-website/pull/1636\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/11ty-website/p</span><span class=\"invisible\">ull/1636</span></a></p><p>(Please let me know if you see anything… weird 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596144807358514",
+			"parentId": "111596098217947359",
+			"url": "https://fosstodon.org/@pauleveritt/111596144786711753",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-12-17T14:07:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If you started this after doing zachleat.com yesterday, then that’s...comforting. 1d is fast.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596175921045459",
+			"parentId": "111596144807358514",
+			"url": "https://fediverse.zachleat.com/@zachleat/111596175921045459",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-17T14:15:08.561Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> just changing require to import and  `module.exports` to `export default` 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596180184575233",
+			"parentId": "111596175921045459",
+			"url": "https://fediverse.zachleat.com/@zachleat/111596180184575233",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-17T14:16:13.618Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> I should also note that none of that work is required. I could have just used CJS with Eleventy 3 (or even incremental conversion using .cjs)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596641578387691",
+			"parentId": "111596098217947359",
+			"url": "https://indieweb.social/@iamschulz/111596641553046504",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2023-12-17T16:13:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Anything weird? Your button seems too small.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596663847102201",
+			"parentId": "111596098217947359",
+			"url": "https://mastodon.cc/@jgarber/111596663626079521",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-12-17T16:19:10.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111598484175065196",
+			"parentId": "111596641578387691",
+			"url": "https://fediverse.zachleat.com/@zachleat/111598484175065196",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T00:02:09.722Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@iamschulz\" class=\"u-url mention\">@<span>iamschulz</span></a></span> haha my button size integration test is passing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599892621527411",
+			"parentId": "111596098217947359",
+			"url": "https://indieweb.social/@dmc/111599892548561547",
+			"author": {
+				"name": "David McCormick",
+				"url": "https://indieweb.social/@dmc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/120/362/328/540/original/7ddc9f83a1d2778b.png"
+			},
+			"date": "2023-12-18T06:00:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 💯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601972378928394",
+			"parentId": 0,
+			"url": "https://mastodon.peterjanes.ca/@me/111601972321875630",
+			"private": true,
+			"date": "2023-12-18T14:49:14.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601978559675593",
+			"parentId": "111601972378928394",
+			"url": "https://fediverse.zachleat.com/@zachleat/111601978559675593",
+			"private": true,
+			"date": "2023-12-18T14:50:49.800Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601983288915647",
+			"parentId": "111596098217947359",
+			"url": "https://fediverse.zachleat.com/@zachleat/111601983288915647",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T14:52:01.961Z",
+			"content": "<p>If you want to try out the new Eleventy v3 alpha releases, read this:</p><p><a href=\"https://www.11ty.dev/blog/canary-eleventy-v3/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/blog/canary-eleventy-</span><span class=\"invisible\">v3/</span></a></p><p>(via <a href=\"https://fosstodon.org/@eleventy/111601879131651531\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@eleventy/111601</span><span class=\"invisible\">879131651531</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602114862669812",
+			"parentId": "111601978559675593",
+			"url": "https://mastodon.peterjanes.ca/@me/111602041474247023",
+			"private": true,
+			"date": "2023-12-18T15:06:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602158183222661",
+			"parentId": "111602114862669812",
+			"url": "https://fediverse.zachleat.com/@zachleat/111602158183222661",
+			"private": true,
+			"date": "2023-12-18T15:36:30.638Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111607270392278078",
+			"parentId": 0,
+			"url": "https://mastodon.social/@benabel/111607270185445953",
+			"author": {
+				"name": "Benjamin Abel",
+				"url": "https://mastodon.social/@benabel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/607/206/926/353/672/original/a90f28c7b906a7a9.jpg"
+			},
+			"date": "2023-12-19T13:16:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I was waiting for the esm config from long time👍 . Easy migration of my 2 edtech sites as always, dead simple. <a href=\"https://github.com/ed-components/ed-components/commit/9faa399a57db85317d9a73b93abfed7439ccde15\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ed-components/ed-co</span><span class=\"invisible\">mponents/commit/9faa399a57db85317d9a73b93abfed7439ccde15</span></a>  <a href=\"https://github.com/ed-components/ed-components/commit/9faa399a57db85317d9a73b93abfed7439ccde15\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ed-components/ed-co</span><span class=\"invisible\">mponents/commit/9faa399a57db85317d9a73b93abfed7439ccde15</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xn2qgs4cqoakflnlzlvgsmzw/app.bsky.feed.post/3ml4lwoxuxs2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jmhobbs.dev/post/3ml4lwoxuxs2r",
+			"author": {
+				"name": "Hobbs",
+				"url": "https://bsky.app/profile/jmhobbs.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xn2qgs4cqoakflnlzlvgsmzw/bafkreibp53s7cqgjgtaxdlrs7kstmtgfxzxcm4kusfkosx5kv7lu6uonmi"
+			},
+			"date": "2026-05-05T16:23:56.672Z",
+			"content": "<p>Rude!</p>\n<p>They are also there to provide lots of exploitable surface area for spam content.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ml4svn224s24",
+			"parentId": "at://did:plc:xn2qgs4cqoakflnlzlvgsmzw/app.bsky.feed.post/3ml4lwoxuxs2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ml4svn224s24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-05T18:28:37.288Z",
+			"content": "<p>I apologize and stand corrected 🫣</p>",
+			"via": "bluesky"
+		}
+	]
+}

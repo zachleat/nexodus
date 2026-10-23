@@ -1,0 +1,85 @@
+{
+	"comments": [
+		{
+			"id": "110040306882047087",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@arri/110040306806596017",
+			"author": {
+				"name": "Arri Blais :verified_trans:",
+				"url": "https://hachyderm.io/@arri",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/827/686/657/525/original/1493f1e28306dc2f.jpg"
+			},
+			"date": "2023-03-17T19:37:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I agree jam-jams is the correct name.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110040374781694325",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jensgro/110040374685306465",
+			"author": {
+				"name": "Jens Grochtdreis",
+				"url": "https://mastodon.social/@jensgro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/567/453/218/430/original/29daaade5cacfc21.jpg"
+			},
+			"date": "2023-03-17T19:54:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110041027555328351",
+			"parentId": "110040306882047087",
+			"url": "https://mastodon.social/@ollicle/110041011475482502",
+			"private": true,
+			"date": "2023-03-17T22:36:22.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110041595644334516",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/110041595602570530",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2023-03-18T01:04:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Uh, you've got jim-jams listed but not PJs? Or jammies?</p><p>Clearly you're trying to tilt the result by trying to round up all the \"if I'm not in my daytime clothes, I'm not using 3 syllable words\" votes into your favourite regional cutesy-ism.</p><p>(Also: what's with Mastodon only allowing 4 poll options? I know full well they can support other fediverse polls with huge numbers of options and checkboxes instead of radios. But noooo… we got to imitate the Twitter UI restrictions here.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110041608467872564",
+			"parentId": "110041595644334516",
+			"url": "https://mastodon.social/@stephaniehobson/110041605299114519",
+			"author": {
+				"name": "Stephanie Hobson",
+				"url": "https://mastodon.social/@stephaniehobson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/144/434/783/741/original/6b92034f1160f22e.jpg"
+			},
+			"date": "2023-03-18T01:07:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> PJs.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110041634801211866",
+			"parentId": "110041595644334516",
+			"url": "https://fediverse.zachleat.com/@zachleat/110041634801211866",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-18T01:14:53.531Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> I tried but failed miserably, but you’re also right that my manipulation was only a result of the crushing restrictions placed on me by the giant hoof of the mastodon on my back</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110041698419154217",
+			"parentId": "110041595644334516",
+			"url": "https://mastodon.social/@ollicle/110041698390115219",
+			"private": true,
+			"date": "2023-03-18T01:31:03.000Z",
+			"via": "fediverse"
+		}
+	]
+}

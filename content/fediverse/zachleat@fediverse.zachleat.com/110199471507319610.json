@@ -1,0 +1,173 @@
+{
+	"comments": [
+		{
+			"id": "110199486533080826",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110199486533080826",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-14T22:18:39.803Z",
+			"content": "<p>I’m reading this excellent theme switcher blog post from <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\">@<span>mxbck</span></a></span> <br /><a href=\"https://mxb.dev/blog/color-theme-switcher/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mxb.dev/blog/color-theme-switc</span><span class=\"invisible\">her/</span></a></p><p>…and I wondered if there was an open standard or tooling to generate tokens in said format.</p><p>I know this community group exists for it! <a href=\"https://www.w3.org/community/design-tokens\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">w3.org/community/design-tokens</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110199490168562741",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/110199490114276710",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2023-04-14T22:19:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> my fingers</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110199492839606682",
+			"parentId": "110199490168562741",
+			"url": "https://fediverse.zachleat.com/@zachleat/110199492839606682",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-14T22:20:16.033Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> underrated</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110199610152330845",
+			"parentId": 0,
+			"url": "https://mastodon.social/@noleli/110199609939825768",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2023-04-14T22:50:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> iirc, for colors we did a one-time dump using Figma Tokens to seed it, and have been updating the data file as the source of truth (as opposed to Figma) since</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110199659125180496",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/110199659099052745",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-04-14T23:02:32.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://www.npmjs.com/package/theo\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">npmjs.com/package/theo</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110199678267313360",
+			"parentId": 0,
+			"url": "https://mastodon.social/@matthiasott/110199678138255833",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2023-04-14T23:07:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Adobe at some point created a VS Code extension that takes an exported CC Library from Adobe XD and converts it into a “Design System Package” (DSP: <a href=\"https://github.com/AdobeXD/design-system-package-dsp\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AdobeXD/design-syst</span><span class=\"invisible\">em-package-dsp</span></a>) including design tokens as JSON. It even exports them into platform specific tokens via Style Dictionary (<a href=\"https://amzn.github.io/style-dictionary/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amzn.github.io/style-dictionar</span><span class=\"invisible\">y/</span></a>). I demoed it in a few workshops for Adobe and really liked the approach. Unfortunately, it seems like development of the extension has been stopped. 😕</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110199916541840727",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/110199916504358612",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2023-04-15T00:08:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> build tools like Amazon’s Style Dictionary? Or something to generate the YAML files that something like style dictionary ingests?</p><p><a href=\"https://github.com/amzn/style-dictionary\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/amzn/style-dictiona</span><span class=\"invisible\">ry</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110199991576761435",
+			"parentId": "110199916541840727",
+			"url": "https://fediverse.zachleat.com/@zachleat/110199991576761435",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-15T00:27:06.159Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> the former!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110200021193573775",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mikemai2awesome/110200021138199986",
+			"author": {
+				"name": "Mike-麥-Mai-v1.618 😎",
+				"url": "https://mastodon.social/@mikemai2awesome",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/255/717/578/777/original/c982163ed8b7f82a.png"
+			},
+			"date": "2023-04-15T00:34:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Tokens Studio Figma Plugin, hook it up to a GitHub repo.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110200956691634135",
+			"parentId": 0,
+			"url": "https://front-end.social/@matuzo/110200956652331071",
+			"author": {
+				"name": "Manuel Matuzović",
+				"url": "https://front-end.social/@matuzo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/417/730/820/306/840/original/022a549117f8cfc1.jpg"
+			},
+			"date": "2023-04-15T04:32:32.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was using <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>heydon</span></a></span>'s <a href=\"https://github.com/Heydon/design-tokens-cli\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Heydon/design-token</span><span class=\"invisible\">s-cli</span></a> for a while but eventually wrote my own because reasons, but his tool does the job really well.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110201247087056020",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/110201247042479006",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-04-15T05:46:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> up to now, manually. Currently migrating to Token Studio in Figma.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110202778669118456",
+			"parentId": "110201247087056020",
+			"url": "https://a11y.info/@arigaud_ca/110202778627860117",
+			"author": {
+				"name": "Arthur Rigaud",
+				"url": "https://a11y.info/@arigaud_ca",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/131/823/537/590/original/efbcc1492413989c.jpg"
+			},
+			"date": "2023-04-15T12:15:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Token Studio (Pro) in Figma and in-house tool to generate a json</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110203221123439036",
+			"parentId": "110199486533080826",
+			"url": "https://mastodon.social/@tylersticka/110203221089246374",
+			"author": {
+				"name": "Tyler Sticka",
+				"url": "https://mastodon.social/@tylersticka",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/655/278/383/068/original/fec96bea7e78e131.png"
+			},
+			"date": "2023-04-15T14:08:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We used Theo until we ran into some limitations (and noticed its inventors seemed to have moved on). We transitioned to Style Dictionary after that. Not perfect but pretty flexible.</p>",
+			"via": "fediverse"
+		}
+	]
+}

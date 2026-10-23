@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "110947009018672022",
+			"parentId": 0,
+			"url": "https://mastodon.social/@peruvianidol/110947008972438388",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-08-24T22:43:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Did Elon buy Netlify?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110947127631496000",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@dpom/110947127464748897",
+			"author": {
+				"name": "Dusty Pomerleau",
+				"url": "https://fosstodon.org/@dpom",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/236/949/771/783/169/original/b24293c1c7d961e3.jpeg"
+			},
+			"date": "2023-08-24T23:13:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Perhaps I'm too cynical, but it seems to me that the focus shifts to enterprise whenever a technology is past the peak of its adoption curve. This maximizes profit during the long tail of usage by users that are more locked into the technology (usually big orgs that can't turn on a dime). In this case, it's not really about Gatsby, but about React more broadly, and where people perceive it to be in the tech cycle.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110947139694009440",
+			"parentId": 0,
+			"url": "https://status.fberriman.com/@phae/110947139677892223",
+			"author": {
+				"name": "phae",
+				"url": "https://status.fberriman.com/@phae",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+			},
+			"date": "2023-08-24T23:16:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ugh. </p><p>And \"for the Enterprise\". Why does their proper-nounification irritate me so much. They've started doing this specific one in their last few posts.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110947262693450688",
+			"parentId": "110947139694009440",
+			"url": "https://mastodon.social/@sil/110947262627856159",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-08-24T23:47:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the only person who gets to do stuff for the Enterprise is Jean-Luc Picard. Not companies.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110948378178063512",
+			"parentId": 0,
+			"url": "https://mastodon.social/@lekoarts/110948378132482412",
+			"author": {
+				"name": "Lennart",
+				"url": "https://mastodon.social/@lekoarts",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
+			},
+			"date": "2023-08-25T04:31:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> „Enterprise grade“ framework then probably means ignoring issues and PRs + no RSC innovation 😁</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110949056420434896",
+			"parentId": "110948378178063512",
+			"url": "https://indieweb.social/@ascorbic/110949056392208961",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://indieweb.social/@ascorbic",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/634/288/725/547/original/9edf996d097c19fa.jpg"
+			},
+			"date": "2023-08-25T07:24:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you think Gatsby should be implementing RSC?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110949131506679338",
+			"parentId": "110949056420434896",
+			"url": "https://mastodon.social/@lekoarts/110949131450822521",
+			"author": {
+				"name": "Lennart",
+				"url": "https://mastodon.social/@lekoarts",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
+			},
+			"date": "2023-08-25T07:43:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ascorbic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ascorbic</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sure, that was the whole point of <a href=\"https://github.com/gatsbyjs/gatsby/discussions/36608\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gatsbyjs/gatsby/dis</span><span class=\"invisible\">cussions/36608</span></a> - achieving island architecture and doing *something* different with RSC than Next (e.g. with a data layer in the cloud). See the comments from Dan and Ward at the bottom</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110949163672060989",
+			"parentId": "110949131506679338",
+			"url": "https://indieweb.social/@ascorbic/110949163645624408",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://indieweb.social/@ascorbic",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/634/288/725/547/original/9edf996d097c19fa.jpg"
+			},
+			"date": "2023-08-25T07:51:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> OK, but as Ward says in there the goal wasn't really to implement RSC - it was to find a solution to support partial hydration. Do you think Gatsby needs full RSC support, or just fix the current implementation?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110949207819179956",
+			"parentId": "110949163672060989",
+			"url": "https://mastodon.social/@lekoarts/110949207750796580",
+			"author": {
+				"name": "Lennart",
+				"url": "https://mastodon.social/@lekoarts",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
+			},
+			"date": "2023-08-25T08:02:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ascorbic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ascorbic</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ok, sorry, my answer was a bit vague. I meant: Implement RSC (but not fully) in a way that makes most sense for Gatsby to e.g. achieve island architecture and possible other improvements (innovation needed here). So short term make Partial Hydration production-ready.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110951426178782118",
+			"parentId": "110947139694009440",
+			"url": "https://fediverse.zachleat.com/@zachleat/110951426178782118",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-25T17:26:48.249Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\">@<span>phae</span></a></span> Yeah… whew.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110951499412723269",
+			"parentId": "110951426178782118",
+			"url": "https://mastodon.cc/@jgarber/110951499286880694",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-08-25T17:45:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> “The money is _in_ the Enterprise!”</p>",
+			"via": "fediverse"
+		}
+	]
+}

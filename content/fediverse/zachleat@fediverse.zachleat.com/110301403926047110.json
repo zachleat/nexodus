@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "110301418169742453",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mknepprath/110301418121802446",
+			"author": {
+				"name": "Michael Knepprath",
+				"url": "https://mastodon.social/@mknepprath",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/813/515/584/153/original/cf6df8121a066d8f.jpeg"
+			},
+			"date": "2023-05-02T22:21:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I assume it reduces down to the lowest whole number ratio?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301422106531198",
+			"parentId": "110301418169742453",
+			"url": "https://fediverse.zachleat.com/@zachleat/110301422106531198",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-02T22:22:13.215Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\">@<span>mknepprath</span></a></span> Maybe! With this information I can tell that it doesn’t match but it isn’t very useful to know the magnitude of error</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301489006830602",
+			"parentId": "110301422106531198",
+			"url": "https://social.rdl.ph/@rockerest/110301488930099138",
+			"author": {
+				"name": "Thomas Randolph :thomas:",
+				"url": "https://social.rdl.ph/@rockerest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/398/490/419/631/931/original/c94c96a76812b1ff.jpg"
+			},
+			"date": "2023-05-02T22:39:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@mknepprath\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mknepprath</span></a></span> it's gotta be this. I wonder what the solution is? If they were to display it as X:1 or 1:X ratio, the values would be 10 digits long (not including decimal point). </p><p>Maybe they could show both aspect ratios next to each other, and have the \"broken link\" icon between them to signify they aren't the same?? Showing reduced to 1:X could be a user option?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301533101174961",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Meyerweb/110301533031570470",
+			"author": {
+				"name": "Eric A. Meyer",
+				"url": "https://mastodon.social/@Meyerweb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/000/855/309/234/original/8eb6102f7385d076.png"
+			},
+			"date": "2023-05-02T22:50:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Gotta stop sizing with primes, man.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301592565207429",
+			"parentId": "110301533101174961",
+			"url": "https://mastodon.social/@wtrmt/110301592515917217",
+			"author": {
+				"name": "Gabriel N",
+				"url": "https://mastodon.social/@wtrmt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/982/981/498/480/original/08fe9ecb18fc93b7.png"
+			},
+			"date": "2023-05-02T23:05:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Meyerweb</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was about to say the same! Hahahaha</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110303754768171132",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@andydavies/110303754730967327",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-05-03T08:15:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 37 and 61 are primes so don’t think it’s possible in that example</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110305106884398643",
+			"parentId": "110303754768171132",
+			"url": "https://fediverse.zachleat.com/@zachleat/110305106884398643",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-03T13:59:18.463Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> I mean, I understand why they did it—I just don’t think it’s particularly useful when you’re trying to gauge the magnitude of the difference</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110305114614636399",
+			"parentId": "110301533101174961",
+			"url": "https://fediverse.zachleat.com/@zachleat/110305114614636399",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-03T14:01:16.418Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Meyerweb\" class=\"u-url mention\">@<span>Meyerweb</span></a></span> this is the next.js hello world 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110305135919185708",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Kilian/110305135884249248",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://mastodon.social/@Kilian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/567/080/777/595/original/3126534d0903d30f.jpg"
+			},
+			"date": "2023-05-03T14:06:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> haha! Yeah I noticed that too. In Polypane when the aspect ratio ends up being the dimensions of the image or box, I just hide them.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110305421588737462",
+			"parentId": "110305106884398643",
+			"url": "https://front-end.social/@AmeliaBR/110305421552322912",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2023-05-03T15:19:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> Ah, so instead of simplifying each aspect ratio separately, you'd rather expand them both to a common denominator?</p><p>Rendered aspect ratio: 900:185<br>Intrinsic aspect ratio: 900:183</p><p>Yes, that is more useful. In this case, anyway. Would need a bit of code to figure out if normalizing to the lowest common multiple of the width or the height would be simpler.</p><p>Or just:</p><p>Rendered aspect ratio: 4.8648648 : 1<br>Intrinsic aspect ratio: 4.9180328 : 1</p><p>Which is not so elegant, but OK.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110305469773443852",
+			"parentId": "110305421588737462",
+			"url": "https://fediverse.zachleat.com/@zachleat/110305469773443852",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-03T15:31:35.711Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> yeah! another similar thread here too: <a href=\"https://fediverse.zachleat.com/@zachleat/110305147163479708\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/110305147163479708</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

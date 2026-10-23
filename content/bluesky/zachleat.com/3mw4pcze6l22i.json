@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:wovfeu2jgwq6bb2smkfz3vgu/app.bsky.feed.post/3mw4r27sgg22j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sarahedo.bsky.social/post/3mw4r27sgg22j",
+			"author": {
+				"name": "Sarah Drasner",
+				"url": "https://bsky.app/profile/sarahedo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wovfeu2jgwq6bb2smkfz3vgu/bafkreicojkfr5arcj3x6wohg4wziokqkoycda6oqgzhzntwftsy3idchde"
+			},
+			"date": "2026-09-22T17:32:31.593Z",
+			"content": "<p>I love this.</p>\n<p>Counterpoint though: also make useless bullshit on the web just for fun</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4r6bscms2t",
+			"parentId": "at://did:plc:wovfeu2jgwq6bb2smkfz3vgu/app.bsky.feed.post/3mw4r27sgg22j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw4r6bscms2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-22T17:34:47.912Z",
+			"content": "<p>now we must debate the utility of the lowly cockroach! 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4rbn7wjs2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4r6bscms2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw4rbn7wjs2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-22T17:36:40.556Z",
+			"content": "<p>(the original context was regarding self hosting a webcomic, fwiw: <a href=\"https://bsky.app/profile/hikatamika.com/post/3mw4ntnrogc2o\">bsky.app/profile/hika...</a>)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3mwbsogwe2s2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3mwbsogwe2s2l",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2026-09-24T17:45:02.587Z",
+			"content": "<p>Big Echopraxia vibes! Be the roach!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mwbt6gk2ls2h",
+			"parentId": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3mwbsogwe2s2l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mwbt6gk2ls2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-24T17:53:59.060Z",
+			"content": "<p>aha yes, this is resonating!</p>",
+			"via": "bluesky"
+		}
+	]
+}

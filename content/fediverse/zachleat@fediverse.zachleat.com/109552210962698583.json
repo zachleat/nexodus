@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "109552230804784478",
+			"parentId": 0,
+			"url": "https://indieweb.social/@McNeely/109552230788670121",
+			"author": {
+				"name": "McNeely",
+				"url": "https://indieweb.social/@McNeely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/552/212/183/557/481/original/75a9716caf3885be.png"
+			},
+			"date": "2022-12-21T14:53:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no wonder my allergy-prone self loves HTML.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109552250730996551",
+			"parentId": 0,
+			"url": "https://seocommunity.social/@simoncox/109552250700703221",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2022-12-21T14:58:04.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh, not hypertension then...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109552254641640408",
+			"parentId": "109552230804784478",
+			"url": "https://fediverse.zachleat.com/@zachleat/109552254641640408",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-21T14:59:04.901Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\">@<span>McNeely</span></a></span> javascript is beeeeeeees</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109552262063611687",
+			"parentId": "109552250730996551",
+			"url": "https://fediverse.zachleat.com/@zachleat/109552262063611687",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-21T15:00:58.146Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\">@<span>simoncox</span></a></span> sometimes both!</p>",
+			"via": "fediverse"
+		}
+	]
+}

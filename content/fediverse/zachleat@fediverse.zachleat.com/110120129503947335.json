@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "110120141076766864",
+			"parentId": 0,
+			"url": "https://mastodon.social/@developit/110120140975274522",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2023-03-31T22:00:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not just shade either! Since these UIs are generated from PHP + HTML, it's important that the interactivity updates have the same semantics. Since Preact's semantics are derived at runtime from the DOM itself, it means folks don't have to learn a \"twist\" on how stuff should work.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110120148435034834",
+			"parentId": "110120141076766864",
+			"url": "https://fediverse.zachleat.com/@zachleat/110120148435034834",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-31T22:01:56.499Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\">@<span>developit</span></a></span> but also some deserved 5.4 year old shade 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

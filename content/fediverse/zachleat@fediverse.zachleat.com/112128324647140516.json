@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "112128338252952986",
+			"parentId": 0,
+			"url": "https://social.treehouse.systems/@egallager/112128338207132522",
+			"author": {
+				"name": "Rep. Eric Gallager (no \"h\"!)",
+				"url": "https://social.treehouse.systems/@egallager",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/589/451/394/698/506/original/e8482934d14485c9.jpg"
+			},
+			"date": "2024-03-20T13:51:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> any chance of showing tweetback a bit more love? I'm like 1 issue away from replacing all my twitter links everywhere with tweetback links: <a href=\"https://github.com/tweetback/tweetback/issues/96\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/issues/96</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112128482156627034",
+			"parentId": "112128338252952986",
+			"url": "https://fediverse.zachleat.com/@zachleat/112128482156627034",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-20T14:27:37.127Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.treehouse.systems/@egallager\" class=\"u-url mention\">@<span>egallager</span></a></span> I think you need to feed the pathprefix into the pagefind CLI here: <a href=\"https://github.com/tweetback/tweetback/blob/bb062375898f5f6e4f338681cdfe8aa9f90e36da/eleventy.config.js#L37\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/blob/bb062375898f5f6e4f338681cdfe8aa9f90e36da/eleventy.config.js#L37</span></a></p><p>This is the CLI param: <a href=\"https://pagefind.app/docs/config-options/#output-subdirectory\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pagefind.app/docs/config-optio</span><span class=\"invisible\">ns/#output-subdirectory</span></a> (although tweetback is using pre-1.0 pagefind)—so you’ll need to investigate if that CLI param was renamed in 1.0 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112128483826373083",
+			"parentId": "112128482156627034",
+			"url": "https://fediverse.zachleat.com/@zachleat/112128483826373083",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-20T14:28:02.606Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.treehouse.systems/@egallager\" class=\"u-url mention\">@<span>egallager</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\">@<span>bglw</span></a></span> might be able to answer this!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112129693956619809",
+			"parentId": "112128483826373083",
+			"url": "https://fosstodon.org/@bglw/112129693930497728",
+			"author": {
+				"name": "Liam Bigelow",
+				"url": "https://fosstodon.org/@bglw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/937/842/242/416/original/8905219901a4a606.jpeg"
+			},
+			"date": "2024-03-20T19:35:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.treehouse.systems/@egallager\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>egallager</span></a></span> pulling your built tweetback repo the files are there, and the URLs being requested look correct. I think this is a case of falling victim to GitHub Pages / Jekyll not serving the _pagefind directory, due to the leading underscore.</p><p>One option would be to configure your Jekyll to include the _pagefind dir. Alternatively, configure Pagefind's bundle-dir to just \"pagefind\". Or migrate Pagefind to 1.0 😄</p><p>(This is the reason Pagefind 1.0 changed from \"_pagefind\" to \"pagefind\")</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112129703534202457",
+			"parentId": "112129693956619809",
+			"url": "https://fosstodon.org/@bglw/112129703054488561",
+			"author": {
+				"name": "Liam Bigelow",
+				"url": "https://fosstodon.org/@bglw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/937/842/242/416/original/8905219901a4a606.jpeg"
+			},
+			"date": "2024-03-20T19:38:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.treehouse.systems/@egallager\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>egallager</span></a></span> </p><p>Jekyll include config: <a href=\"https://jekyllrb.com/docs/configuration/options/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jekyllrb.com/docs/configuratio</span><span class=\"invisible\">n/options/</span></a></p><p>If changing the directory, Pagefind 0.x uses the --bundle-dir flag. If that's hard to set through tweetback, you can also set a `PAGEFIND_BUNDLE_DIR=\"pagefind\"` environment variable and it'll pick that up.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112133714442626070",
+			"parentId": "112129703534202457",
+			"url": "https://social.treehouse.systems/@egallager/112133714399216159",
+			"author": {
+				"name": "Rep. Eric Gallager (no \"h\"!)",
+				"url": "https://social.treehouse.systems/@egallager",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/589/451/394/698/506/original/e8482934d14485c9.jpg"
+			},
+			"date": "2024-03-21T12:38:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bglw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hm, many options to choose from... I'll think about it...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112134516639206985",
+			"parentId": "112133714442626070",
+			"url": "https://fediverse.zachleat.com/@zachleat/112134516639206985",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-21T16:02:16.024Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.treehouse.systems/@egallager\" class=\"u-url mention\">@<span>egallager</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\">@<span>bglw</span></a></span> I added another comment here based on Liam’s feedback with an easy solution: <a href=\"https://github.com/tweetback/tweetback/issues/96#issuecomment-2012782722\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/issues/96#issuecomment-2012782722</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112141828316368542",
+			"parentId": "112134516639206985",
+			"url": "https://social.treehouse.systems/@egallager/112141828274736783",
+			"author": {
+				"name": "Rep. Eric Gallager (no \"h\"!)",
+				"url": "https://social.treehouse.systems/@egallager",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/589/451/394/698/506/original/e8482934d14485c9.jpg"
+			},
+			"date": "2024-03-22T23:01:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bglw</span></a></span> Thanks, I got it working now! Of course, now that I can actually search for stuff, that's revealing new issues, like for example I've now run into this one: <a href=\"https://github.com/tweetback/tweetback/issues/9\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/issues/9</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

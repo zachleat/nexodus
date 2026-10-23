@@ -1,0 +1,184 @@
+{
+	"comments": [
+		{
+			"id": "113051171168781550",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113051171168781550",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T13:19:34.132Z",
+			"content": "<p>lots of Object.freeze immutability in iceland architecture</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051191053925561",
+			"parentId": "113051171168781550",
+			"url": "https://fediverse.zachleat.com/@zachleat/113051191053925561",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T13:24:37.554Z",
+			"content": "<p>lots of product managers using waterfall planning in iceland architecture</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051191666210806",
+			"parentId": "113051171168781550",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J6HQB82NTP4QMT54S0H54YSJ",
+			"private": true,
+			"date": "2024-08-30T13:24:40.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051197801253296",
+			"parentId": "113051191666210806",
+			"url": "https://fediverse.zachleat.com/@zachleat/113051197801253296",
+			"private": true,
+			"date": "2024-08-30T13:26:20.512Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051201416749551",
+			"parentId": "113051191053925561",
+			"url": "https://fediverse.zachleat.com/@zachleat/113051201416749551",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T13:27:15.678Z",
+			"content": "<p>in iceland architecture you must only write in lavascript</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051203795019670",
+			"parentId": "113051191053925561",
+			"url": "https://mastodon.social/@maxsteenbergen/113051203707734367",
+			"author": {
+				"name": "Max Steenbergen",
+				"url": "https://mastodon.social/@maxsteenbergen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/733/946/685/842/original/7bc857d7331ff5db.jpg"
+			},
+			"date": "2024-08-30T13:27:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It’s fairly monolithic, yeah</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051207722509359",
+			"parentId": "113051203795019670",
+			"url": "https://fediverse.zachleat.com/@zachleat/113051207722509359",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T13:28:51.898Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@maxsteenbergen\" class=\"u-url mention\">@<span>maxsteenbergen</span></a></span> yes, you get it—thank you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051216878545379",
+			"parentId": "113051197801253296",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J6HQPY2N3J9SN0N6DQDM561P",
+			"private": true,
+			"date": "2024-08-30T13:31:03.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051233547385067",
+			"parentId": "113051201416749551",
+			"url": "https://toot.cat/@theadmiral/113051233441659844",
+			"author": {
+				"name": "Ian B",
+				"url": "https://toot.cat/@theadmiral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/783/986/673/486/original/8cb08d27498ffa87.png"
+			},
+			"date": "2024-08-30T13:35:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Disagree, iceland architecture is much more performant in Sigur Rúst</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051234675944488",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mustastum/113051234439398055",
+			"author": {
+				"name": "Enes",
+				"url": "https://mastodon.social/@mustastum",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/318/073/268/692/298/original/0698ca86e51bf82a.jpg"
+			},
+			"date": "2024-08-30T13:35:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Events fire themselves up in iceland architecture?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051245706849466",
+			"parentId": "113051233547385067",
+			"url": "https://fediverse.zachleat.com/@zachleat/113051245706849466",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T13:38:31.493Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@theadmiral\" class=\"u-url mention\">@<span>theadmiral</span></a></span> fair</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051252165684752",
+			"parentId": "113051234675944488",
+			"url": "https://fediverse.zachleat.com/@zachleat/113051252165684752",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T13:40:10.047Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mustastum\" class=\"u-url mention\">@<span>mustastum</span></a></span> chaos is the best fuzzer</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051291764903371",
+			"parentId": 0,
+			"url": "https://mastodon.world/@exchgr/113051291353949921",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2024-08-30T13:50:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051310967279598",
+			"parentId": "113051201416749551",
+			"url": "https://indieweb.social/@iamschulz/113051310953151886",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2024-08-30T13:55:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ES actually stands for EyjafjavaScröptkull</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051354012582813",
+			"parentId": "113051201416749551",
+			"url": "https://mastodon.social/@naton/113051353895489764",
+			"author": {
+				"name": "Anton Andreasson Gistedt",
+				"url": "https://mastodon.social/@naton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/320/541/728/016/540/original/0e1dadca420b2232.jpeg"
+			},
+			"date": "2024-08-30T14:06:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And use their SSG called Jökyll</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,259 @@
+{
+	"comments": [
+		{
+			"id": "111172228395571432",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@andydavies/111172228297812785",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-10-03T17:19:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Have you ever read the post of how the Ikea site it built? </p><p>40mn static pages assembled at the CDN <a href=\"https://medium.com/flat-pack-tech/history-of-ikea-com-static-files-and-microfrontends-6def9d7c4285\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/flat-pack-tech/hist</span><span class=\"invisible\">ory-of-ikea-com-static-files-and-microfrontends-6def9d7c4285</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172265752653755",
+			"parentId": "111172228395571432",
+			"url": "https://fediverse.zachleat.com/@zachleat/111172265752653755",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-03T17:29:12.719Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> Edge Side Includes!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172291319436433",
+			"parentId": "111172265752653755",
+			"url": "https://hachyderm.io/@andydavies/111172291290566415",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-10-03T17:35:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve always thought ESI was underused</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172368240760236",
+			"parentId": "111172291319436433",
+			"url": "https://fediverse.zachleat.com/@zachleat/111172368240760236",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-03T17:55:16.564Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> I’m really curious what hosts support it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172388186639162",
+			"parentId": 0,
+			"url": "https://toot.cafe/@slightlyoff/111172387925762266",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-10-03T18:00:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@hugoconf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hugoconf</span></a></span> Hour long builds? Does Gatsby compile a stray Chromium in there somewhere?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172426180745863",
+			"parentId": "111172368240760236",
+			"url": "https://hachyderm.io/@andydavies/111172426155069116",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-10-03T18:10:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Akamai, Apache Traffic Server and Varnish are the three I know of</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172438843347336",
+			"parentId": "111172228395571432",
+			"url": "https://mastodon.social/@caludio/111172438810409191",
+			"author": {
+				"name": "Claudio Cicali",
+				"url": "https://mastodon.social/@caludio",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/145/148/068/984/original/7f6d3763cda864e1.jpeg"
+			},
+			"date": "2023-10-03T18:13:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Beautiful read, thanks for sharing. I am also in the process of rethinking our microfrontends based system and these experiences are golden. The only thing that left me a bit puzzled was the \"no shared frameworks/libraries/css in the browser\". I know it's hard to impl, but since they use a design system I believe that at least the CSS foundation should/could be shared</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172461919442372",
+			"parentId": "111172228395571432",
+			"url": "https://mastodon.social/@gundersen/111172461881661292",
+			"author": {
+				"name": "Marius Gundersen - mdg 🌻",
+				"url": "https://mastodon.social/@gundersen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/108/870/808/454/original/c59bc4e57f6ad805.png"
+			},
+			"date": "2023-10-03T18:19:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fascinating read! I love this quote:</p><p>\"In 2022, IKEA.com had over three billion sessions, which is around 100 sessions per second (roughly a low G on a guitar). \"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172585565885125",
+			"parentId": "111172228395571432",
+			"url": "https://hachyderm.io/@andydavies/111172585530071684",
+			"author": {
+				"name": "Andy Davies",
+				"url": "https://hachyderm.io/@andydavies",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
+			},
+			"date": "2023-10-03T18:50:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There’s a longer post about their approach <a href=\"https://gustafnk.github.io/microservice-websites/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gustafnk.github.io/microservic</span><span class=\"invisible\">e-websites/</span></a></p><p>And I think there’s a video of a conference talk somewhere too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172792148928150",
+			"parentId": "111172461919442372",
+			"url": "https://mastodon.social/@gundersen/111172792109047793",
+			"author": {
+				"name": "Marius Gundersen - mdg 🌻",
+				"url": "https://mastodon.social/@gundersen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/108/870/808/454/original/c59bc4e57f6ad805.png"
+			},
+			"date": "2023-10-03T19:43:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> now I want to hook a speaker up to Google Analytics and make a tone based on live traffic info 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111172822151012841",
+			"parentId": "111172792148928150",
+			"url": "https://fediverse.zachleat.com/@zachleat/111172822151012841",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-03T19:50:42.684Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@gundersen\" class=\"u-url mention\">@<span>gundersen</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> ahaha that would be really fun</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111173081804437074",
+			"parentId": "111172426180745863",
+			"url": "https://mamot.fr/@nhoizey/111173081760715285",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-10-03T20:56:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also Fastly: <a href=\"https://developer.fastly.com/reference/vcl/statements/esi/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.fastly.com/reference</span><span class=\"invisible\">/vcl/statements/esi/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111173110505676212",
+			"parentId": "111173081804437074",
+			"url": "https://fediverse.zachleat.com/@zachleat/111173110505676212",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-03T21:04:02.628Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> ah very cool! Looks like it’s based on Varnish too 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111173648319214136",
+			"parentId": "111172438843347336",
+			"url": "https://mastodon.social/@robinwhittleton/111173648278563133",
+			"author": {
+				"name": "Robin Whittleton",
+				"url": "https://mastodon.social/@robinwhittleton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/609/714/781/651/085/original/601f36912b4bde86.jpg"
+			},
+			"date": "2023-10-03T23:20:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@caludio\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>caludio</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the problem is versioning. If teams are independent then there’s no guarantee that they’ll be updating packages at the same time. So we settled for a team-specific prefix system that allows for microfrontend-specific versions without clashes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111173649743458219",
+			"parentId": "111173648319214136",
+			"url": "https://mastodon.social/@robinwhittleton/111173649717751473",
+			"author": {
+				"name": "Robin Whittleton",
+				"url": "https://mastodon.social/@robinwhittleton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/609/714/781/651/085/original/601f36912b4bde86.jpg"
+			},
+			"date": "2023-10-03T23:21:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@caludio\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>caludio</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Of course, there is a little standardised CSS. The font stack is a one-time inheritance (and a custom property) and historically we’ve have some base reset styles, though increasingly the components each reset what they need. And with the onset of web components there’s more style scoping happening.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111173660550731530",
+			"parentId": "111172291319436433",
+			"url": "https://webperf.social/@SergeyChe/111173660539698029",
+			"author": {
+				"name": "Sergey Chernyshev :verified:",
+				"url": "https://webperf.social/@SergeyChe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/384/585/822/121/358/original/b370b3afdb87e8f6.jpg"
+			},
+			"date": "2023-10-03T23:23:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I built quite a few pages on Meetup using ESI before I left (they probably killed it after reorg) there are some challenges with that, but it can do some page substitutes which was very handy and allowed us to use only a handful of templates + a bunch of static plain text content files that were mapped based on URL patterns.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111175370018577207",
+			"parentId": "111173110505676212",
+			"url": "https://mamot.fr/@nhoizey/111175369952326997",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-10-04T06:38:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> indeed!</p><p><span class=\"h-card\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111184361918425313",
+			"parentId": "111173648319214136",
+			"url": "https://mastodon.social/@caludio/111184361841703863",
+			"author": {
+				"name": "Claudio Cicali",
+				"url": "https://mastodon.social/@caludio",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/145/148/068/984/original/7f6d3763cda864e1.jpeg"
+			},
+			"date": "2023-10-05T20:45:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@robinwhittleton\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>robinwhittleton</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> so the idea is that you (as one of the team), either decide to use the mainstream lib provided by the host framework, or you opt-out and use your own (say, React 17) using a prefix and some Webpack magic to handle that.</p><p>Do you use any framework (like piral or just webpack deferation...?)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111185076489092042",
+			"parentId": "111184361918425313",
+			"url": "https://mastodon.social/@robinwhittleton/111185076223447040",
+			"author": {
+				"name": "Robin Whittleton",
+				"url": "https://mastodon.social/@robinwhittleton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/609/714/781/651/085/original/601f36912b4bde86.jpg"
+			},
+			"date": "2023-10-05T23:47:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@caludio\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>caludio</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no shared framework: each team is self-sufficient. There’s not a lot of magic either for the CSS team scoping either, just SASS or postcss, plus components that know how to prefix their own class naming conventions. Turns out that you can go a long way by picking the simplest solution most of the time.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387894936455691",
+			"parentId": "111172426180745863",
+			"url": "https://mastodon.social/@autiomaa/111387894654069925",
+			"private": true,
+			"date": "2023-11-10T19:26:28.000Z",
+			"via": "fediverse"
+		}
+	]
+}

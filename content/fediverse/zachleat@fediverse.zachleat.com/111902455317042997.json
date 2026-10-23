@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "111903438036817612",
+			"parentId": 0,
+			"url": "https://mastodon.social/@erikKroes/111903437901415524",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2024-02-09T20:35:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Can't follow a dream if you don't know what it is!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111903541992350783",
+			"parentId": "111903438036817612",
+			"url": "https://fediverse.zachleat.com/@zachleat/111903541992350783",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-09T21:02:22.608Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@erikKroes\" class=\"u-url mention\">@<span>erikKroes</span></a></span> *exactly* if you aren’t dreaming you need to sleep</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111908129396953261",
+			"parentId": 0,
+			"url": "https://mastodon.design/@naiyer/111908129381257882",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2024-02-10T16:29:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Stealing this post to put it on my site's footer (with attribution, of course). I have a bunch of them randomly rotated using a webcomponent for the visitors to remind that taking break and naps are very important.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "109320300751175583",
+			"parentId": 0,
+			"url": "https://front-end.social/@SaraSoueidan/109320300725999760",
+			"author": {
+				"name": "Sara Soueidan",
+				"url": "https://front-end.social/@SaraSoueidan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/539/740/426/294/original/48410326d8ad84fa.png"
+			},
+			"date": "2022-11-10T15:50:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> please do a writeup about how you set your instance up 🥹</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320311313588219",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ichris/109320311200611531",
+			"author": {
+				"name": "Chris Enns",
+				"url": "https://mastodon.social/@ichris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/635/653/787/859/original/2660a0aa8db13861.jpeg"
+			},
+			"date": "2022-11-10T15:52:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Makes me think some Birdsite engineer should make a version of the site that El0n sees where they do all his bidding, but the rest of us get to keep using a sane version of it. :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320322178687130",
+			"parentId": "109320311313588219",
+			"url": "https://fediverse.zachleat.com/@zachleat/109320322178687130",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-10T15:55:36.371Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ichris\" class=\"u-url mention\">@<span>ichris</span></a></span> whew—I do not envy those poor souls</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320326544848298",
+			"parentId": "109320300751175583",
+			"url": "https://fediverse.zachleat.com/@zachleat/109320326544848298",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-10T15:56:42.986Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@SaraSoueidan\" class=\"u-url mention\">@<span>SaraSoueidan</span></a></span> I would but it wouldn’t be very helpful to folks because I used masto.host and they are locked down 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320423242290578",
+			"parentId": "109320326544848298",
+			"url": "https://front-end.social/@SaraSoueidan/109320423100978549",
+			"author": {
+				"name": "Sara Soueidan",
+				"url": "https://front-end.social/@SaraSoueidan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/539/740/426/294/original/48410326d8ad84fa.png"
+			},
+			"date": "2022-11-10T16:21:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320513356837343",
+			"parentId": "109320300751175583",
+			"url": "https://social.coop/@jsit/109320513325287333",
+			"author": {
+				"name": "Jay 🆘",
+				"url": "https://social.coop/@jsit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/708/588/220/354/original/c83a44dc38e1a5d9.png"
+			},
+			"date": "2022-11-10T16:44:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@SaraSoueidan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>SaraSoueidan</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I did it with Linode and Cloudron and it was fairly easy! I should do a writeup sometime</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320539934430674",
+			"parentId": "109320423242290578",
+			"url": "https://fediverse.zachleat.com/@zachleat/109320539934430674",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-10T16:50:59.056Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@SaraSoueidan\" class=\"u-url mention\">@<span>SaraSoueidan</span></a></span> either way, this is the one I used! <a href=\"https://social.jacobian.org/@jacob/109247399870935153\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social.jacobian.org/@jacob/109</span><span class=\"invisible\">247399870935153</span></a></p><p>cc <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jfroehlich\" class=\"u-url mention\">@<span>jfroehlich</span></a></span> and <span class=\"h-card\" translate=\"no\"><a href=\"https://vis.social/@skidvis\" class=\"u-url mention\">@<span>skidvis</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320541634996682",
+			"parentId": "109320539934430674",
+			"url": "https://vis.social/@skidvis/109320541574892812",
+			"author": {
+				"name": "Skid Vis",
+				"url": "https://vis.social/@skidvis",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/523/190/322/348/original/15a60a4a1c95a89e.jpg"
+			},
+			"date": "2022-11-10T16:51:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109320627966151599",
+			"parentId": "109320539934430674",
+			"url": "https://front-end.social/@SaraSoueidan/109320627910374730",
+			"author": {
+				"name": "Sara Soueidan",
+				"url": "https://front-end.social/@SaraSoueidan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/539/740/426/294/original/48410326d8ad84fa.png"
+			},
+			"date": "2022-11-10T17:13:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jfroehlich\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jfroehlich</span></a></span> <span class=\"h-card\"><a href=\"https://vis.social/@skidvis\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>skidvis</span></a></span> thank you Zach 🎉</p>",
+			"via": "fediverse"
+		}
+	]
+}

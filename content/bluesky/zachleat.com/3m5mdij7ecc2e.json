@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3m5mdlnl3os2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3m5mdlnl3os2s",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2025-11-14T18:44:29.200Z",
+			"content": "<p>just for the things I agree with</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5mdt56ea22n",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3m5mdlnl3os2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5mdt56ea22n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-14T18:48:40.441Z",
+			"content": "<p>controversial!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bszzwhnaazuy4u2upv7iyfam/app.bsky.feed.post/3m5mfwfx7lk2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jpamental.bsky.social/post/3m5mfwfx7lk2y",
+			"author": {
+				"name": "Jason Pamental",
+				"url": "https://bsky.app/profile/jpamental.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bszzwhnaazuy4u2upv7iyfam/bafkreiercsplv5i5euuwlip5tnbnpeqrd6g2q7e4qtxpnilxvzo6tzcpm4"
+			},
+			"date": "2025-11-14T19:26:17.790Z",
+			"content": "<p>Zach.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5mfzcdm3c2s",
+			"parentId": "at://did:plc:bszzwhnaazuy4u2upv7iyfam/app.bsky.feed.post/3m5mfwfx7lk2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5mfzcdm3c2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-14T19:27:54.666Z",
+			"content": "<p>good afternoon Jason</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3m5mgfsxals2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3m5mgfsxals2p",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-11-14T19:34:54.740Z",
+			"content": "<p>In all moderation, things!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5mghr5vrc2s",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3m5mgfsxals2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5mghr5vrc2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-14T19:35:59.970Z",
+			"content": "<p>only moderates will agree</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vlya7dm5o7t5jrxpuuh6dk4k/app.bsky.feed.post/3m5ohbd7atc2p",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3m5mdlnl3os2s",
+			"url": "https://bsky.app/profile/probablydanny.com/post/3m5ohbd7atc2p",
+			"author": {
+				"name": "Danny Kim",
+				"url": "https://bsky.app/profile/probablydanny.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vlya7dm5o7t5jrxpuuh6dk4k/bafkreiho5yg2j4gztrrj2etluhycgnhi6ifqlv4zmuyxlzoangthgjwoiq"
+			},
+			"date": "2025-11-15T14:55:37.225Z",
+			"content": "<p>Haha moderate until everyone complies</p>",
+			"via": "bluesky"
+		}
+	]
+}

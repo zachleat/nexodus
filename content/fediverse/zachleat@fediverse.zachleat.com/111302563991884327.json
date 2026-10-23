@@ -1,0 +1,125 @@
+{
+	"comments": [
+		{
+			"id": "111302644447182093",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/111302644427362071",
+			"private": true,
+			"date": "2023-10-26T18:06:13.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302668126482954",
+			"parentId": "111302644447182093",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302668126482954",
+			"private": true,
+			"date": "2023-10-26T18:12:15.035Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302671546387819",
+			"parentId": 0,
+			"url": "https://social.rdl.ph/@rockerest/111302671453100641",
+			"author": {
+				"name": "Thomas Randolph :thomas:",
+				"url": "https://social.rdl.ph/@rockerest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/398/490/419/631/931/original/c94c96a76812b1ff.jpg"
+			},
+			"date": "2023-10-26T18:13:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> while I agree with the very high level sentiment, it's a bit beyond the pale for Kent to say that React wins on The Web Platform, Independence, Too Much Magic, Complexity, and Capability when he's spent years trashing native components at every opportunity.</p><p>As usual I suspect the problem is not \"this tool is concerning,\" it's \"this tool threatens my business model, and I have no fallback.\"</p><p>But maybe I'm just jaded from years of explicit abuse.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302673760854733",
+			"parentId": "111302668126482954",
+			"url": "https://fosstodon.org/@chris_hayes/111302673735851906",
+			"private": true,
+			"date": "2023-10-26T18:13:40.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302686958993222",
+			"parentId": "111302671546387819",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302686958993222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T18:17:02.395Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.rdl.ph/@rockerest\" class=\"u-url mention\">@<span>rockerest</span></a></span> I’ll keep saying this but I’m okay with folks learning lessons we’ve known for a long time—we need allies and not “I told you so’s!”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302691328128533",
+			"parentId": "111302686958993222",
+			"url": "https://social.rdl.ph/@rockerest/111302691276633887",
+			"author": {
+				"name": "Thomas Randolph :thomas:",
+				"url": "https://social.rdl.ph/@rockerest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/398/490/419/631/931/original/c94c96a76812b1ff.jpg"
+			},
+			"date": "2023-10-26T18:18:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fair enough. I'll keep watching!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302699151824367",
+			"parentId": "111302673760854733",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302699151824367",
+			"private": true,
+			"date": "2023-10-26T18:20:08.444Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302718227795627",
+			"parentId": "111302699151824367",
+			"url": "https://fosstodon.org/@chris_hayes/111302717972631893",
+			"private": true,
+			"date": "2023-10-26T18:24:55.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302723286106343",
+			"parentId": "111302699151824367",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302723286106343",
+			"private": true,
+			"date": "2023-10-26T18:26:16.704Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302954163891317",
+			"parentId": "111302723286106343",
+			"url": "https://fosstodon.org/@chris_hayes/111302954149156184",
+			"private": true,
+			"date": "2023-10-26T19:24:59.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111314654653478768",
+			"parentId": "111302686958993222",
+			"url": "https://mastodon.social/@cferdinandi/111314654407131247",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-10-28T21:00:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.rdl.ph/@rockerest\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rockerest</span></a></span> I don’t see this as an “I told you so” as much as questioning motivations. You don’t want to be a pawn in someone else’s pissing war.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111318520572449622",
+			"parentId": "111314654653478768",
+			"url": "https://indieweb.social/@nachtfunke/111318520539372179",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-10-29T13:23:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.rdl.ph/@rockerest\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rockerest</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> exactly, because they’re profiting directly from trashing something else, even if they’re the lesser evil. I’ve almost everyone from the remix team blocked because of their absolutely abhorrent behavior. Trashing next will not change that. Because imho, they’re only doing Uber because they expect it to bring in business.</p><p>To me, this blogpost is just evidence that these companies go to any length for profit. 🤷</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "111252704935329590",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/111252704622335460",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-10-17T22:25:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.themarkup.org/@themarkup\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>themarkup</span></a></span> I wonder if there’s an easy way to punch a button on a tweetback archive to derive this list of URLs and feed it to this API? Although maybe tweetback has already looked up the destinations for all these links and so doesn’t have the t.co originals?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256275781091803",
+			"parentId": "111252704935329590",
+			"url": "https://fediverse.zachleat.com/@zachleat/111256275781091803",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T13:34:04.024Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.themarkup.org/@themarkup\" class=\"u-url mention\">@<span>themarkup</span></a></span> It does remove the t.co middle-man as part of the build but I think it could absolutely do this.</p><p>This is where it’d probably happen: <a href=\"https://github.com/tweetback/tweetback/blob/c386e708453d550489404dc59a80b753a36be745/src/twitter.js#L64-L91\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/blob/c386e708453d550489404dc59a80b753a36be745/src/twitter.js#L64-L91</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

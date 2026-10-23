@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "113210406563221179",
+			"parentId": 0,
+			"url": "https://indieweb.social/@miguel/113210406552503493",
+			"author": {
+				"name": "Miguel",
+				"url": "https://indieweb.social/@miguel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/652/633/704/283/132/original/22a3b79ebf73d762.jpeg"
+			},
+			"date": "2024-09-27T16:15:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> think of their poor compilers 😏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113210705665786574",
+			"parentId": 0,
+			"url": "https://qoto.org/@jgg/113210705629258001",
+			"author": {
+				"name": "Curioso 🍉 🇺🇦 (jgg)",
+				"url": "https://qoto.org/@jgg",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/501/807/879/772/original/e290519dad5a5ef1.png"
+			},
+			"date": "2024-09-27T17:31:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Any current tool for JS development is bound to be replaced by a web standard sooner or later. In fact, CommonJS is already obsolete.</p><p>The main reason React and friends are still relevant is because Web Components are still incomplete.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113210783818350403",
+			"parentId": 0,
+			"url": "https://mastodon.social/@naiyer/113210783776104175",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.social/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/106/196/764/056/397/original/8c86ec3138cda99e.jpg"
+			},
+			"date": "2024-09-27T17:51:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A few things I learned over years:</p><p>- Angular 9 -&gt; Angular 11 (4 weeks)<br>- Angular 11 -&gt; Angular 14 (3 months)<br>- Angular 14 -&gt; Angular 16 (2 weeks)<br>- Vue 2 -&gt; Vue 3 (4 months and still counting)<br>- Web components (casting amused glances at the above migrations since day 1, years ago, no migrations required till date)</p><p>Web components just make life easier for long haul.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113211018363738512",
+			"parentId": "113210705665786574",
+			"url": "https://fediverse.zachleat.com/@zachleat/113211018363738512",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-27T18:50:48.764Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://qoto.org/@jgg\" class=\"u-url mention\">@<span>jgg</span></a></span> I dunno if I’d say CommonJS is obsolete quiet yet—definitely still has a place in Node.js land (at least until CJS/ESM compat ships)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113211021276987585",
+			"parentId": "113210783818350403",
+			"url": "https://fediverse.zachleat.com/@zachleat/113211021276987585",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-27T18:51:33.215Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@naiyer\" class=\"u-url mention\">@<span>naiyer</span></a></span> whew, I’ve definitely felt that Vue 2/3 pain</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113211114947989410",
+			"parentId": "113211018363738512",
+			"url": "https://qoto.org/@jgg/113211114909420602",
+			"author": {
+				"name": "Curioso 🍉 🇺🇦 (jgg)",
+				"url": "https://qoto.org/@jgg",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/501/807/879/772/original/e290519dad5a5ef1.png"
+			},
+			"date": "2024-09-27T19:15:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>True, Node.js has a legacy issue there. Let's hope they solve it soon; it would make much easier to package libraries for use on Node.js and transpilation free web apps.</p><p>It is amazing how liberating can be to make a mid size web app without transpilation after years of suffering the Node cruft.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113211932160820028",
+			"parentId": 0,
+			"url": "https://mastodon.social/@peruvianidol/113211932129815484",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2024-09-27T22:43:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> CSS: what do I look like a fucking rocket scientist? WTF even is this shit?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113212508499965481",
+			"parentId": "113211932160820028",
+			"url": "https://fediverse.zachleat.com/@zachleat/113212508499965481",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T01:09:46.437Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@peruvianidol\" class=\"u-url mention\">@<span>peruvianidol</span></a></span> 🫣🫣🫣 I still have trouble wrapping my head around a preference for HTML over CSS, it just doesn’t fit the stereotype 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

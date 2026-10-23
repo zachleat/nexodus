@@ -1,0 +1,142 @@
+{
+	"comments": [
+		{
+			"id": "111569284064291620",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@ahoyboyhoy/111569284006110673",
+			"author": {
+				"name": "ahoyboyhoy",
+				"url": "https://fosstodon.org/@ahoyboyhoy",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-12-12T20:16:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> scalability of CSS has never been a problem for me (before BEM and certainly not after).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569292185431359",
+			"parentId": "111569284064291620",
+			"url": "https://fediverse.zachleat.com/@zachleat/111569292185431359",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T20:18:15.308Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@ahoyboyhoy\" class=\"u-url mention\">@<span>ahoyboyhoy</span></a></span> I’m not claiming there aren’t concerns when you get into projects coordinating medium to large dev-teams, but yeah.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569314071459172",
+			"parentId": 0,
+			"url": "https://mastodon.social/@aaadaaam/111569314006690666",
+			"author": {
+				"name": "Adam Stoddard",
+				"url": "https://mastodon.social/@aaadaaam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/181/435/692/045/original/3fd463116c0fb80b.png"
+			},
+			"date": "2023-12-12T20:23:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but CSS is ICKY and WEIRD and must be stopped</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569378777135940",
+			"parentId": "111569314071459172",
+			"url": "https://fediverse.zachleat.com/@zachleat/111569378777135940",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T20:40:16.594Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@aaadaaam\" class=\"u-url mention\">@<span>aaadaaam</span></a></span>  I need my strong type safety or I must be weakly held</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569454992884988",
+			"parentId": "111569378777135940",
+			"url": "https://mastodon.social/@aaadaaam/111569454799583895",
+			"author": {
+				"name": "Adam Stoddard",
+				"url": "https://mastodon.social/@aaadaaam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/181/435/692/045/original/3fd463116c0fb80b.png"
+			},
+			"date": "2023-12-12T20:59:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569488000374264",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dogwonder/111569487824845197",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://mastodon.social/@dogwonder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/152/600/207/219/original/e686dc812114bb2e.jpeg"
+			},
+			"date": "2023-12-12T21:08:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I once spent 3 days optimising my CSS and worked out I saved 1.2kb. Still worth it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569533395968949",
+			"parentId": "111569488000374264",
+			"url": "https://fediverse.zachleat.com/@zachleat/111569533395968949",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-12T21:19:35.890Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\">@<span>dogwonder</span></a></span> you dropped this 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111569776445290293",
+			"parentId": 0,
+			"url": "https://indieweb.social/@nmn/111569776428406293",
+			"private": true,
+			"date": "2023-12-12T22:21:24.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111570353955656788",
+			"parentId": 0,
+			"url": "https://mastodon.social/@peruvianidol/111570353926250945",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-12-13T00:48:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> or maybe ask a single CSS question in a job interview.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111570608430356910",
+			"parentId": "111570353955656788",
+			"url": "https://fediverse.zachleat.com/@zachleat/111570608430356910",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-13T01:52:59.613Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@peruvianidol\" class=\"u-url mention\">@<span>peruvianidol</span></a></span> surely web development interviewing is a solved problem by now!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111570643529110770",
+			"parentId": "111570608430356910",
+			"url": "https://mastodon.social/@peruvianidol/111570643368243631",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-12-13T02:01:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the recruiters do a great job of weeding out those pesky CSS people who aren't \"full-stack\" enough.</p>",
+			"via": "fediverse"
+		}
+	]
+}

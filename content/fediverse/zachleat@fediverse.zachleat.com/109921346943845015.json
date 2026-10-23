@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "109921373635658576",
+			"parentId": 0,
+			"url": "https://mastodon.social/@matthiasott/109921373585782531",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2023-02-24T19:30:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (good)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109921817548481249",
+			"parentId": 0,
+			"url": "https://toot.cafe/@slightlyoff/109921817406830292",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-02-24T21:23:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> per other thread, would love to see gzip sizes for default JS, and also, is this a script I can run? If not, would you like for one to exist?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109921852028356948",
+			"parentId": "109921817548481249",
+			"url": "https://fediverse.zachleat.com/@zachleat/109921852028356948",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-24T21:32:33.466Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\">@<span>slightlyoff</span></a></span> whew, yes—I would love to have this automated.</p><p>I don’t think it would be maintainable to do so, unfortunately, I’d expect a fair bit of churn in framework “Getting Started” happy paths?</p><p>Certainly not worth it for how often I do these (once or twice a year)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109921894950796746",
+			"parentId": "109921852028356948",
+			"url": "https://toot.cafe/@slightlyoff/109921894829002470",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://toot.cafe/@slightlyoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/557/125/861/804/original/f19233215012175c.png"
+			},
+			"date": "2023-02-24T21:43:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> will noodle on it</p>",
+			"via": "fediverse"
+		}
+	]
+}

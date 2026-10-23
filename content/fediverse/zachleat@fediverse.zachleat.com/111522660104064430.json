@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "111576940767743637",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriscoyier/111576940724601479",
+			"author": {
+				"name": "Chris Coyier",
+				"url": "https://front-end.social/@chriscoyier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/727/940/072/717/original/3ab3da2cd9d6bdda.jpg"
+			},
+			"date": "2023-12-14T04:43:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I know I owe you an answer on this! Just taking a minute as Cloudflare protection for us is kind of a big deal and the rules are tricky.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111579162168249712",
+			"parentId": "111576940767743637",
+			"url": "https://fediverse.zachleat.com/@zachleat/111579162168249712",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-14T14:08:19.295Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\">@<span>chriscoyier</span></a></span> ah it’s really not a huge deal—I absolve you of any guilt associated with saying no 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

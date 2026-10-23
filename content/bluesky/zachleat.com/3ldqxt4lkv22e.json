@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:wjzw74n44kuehrcwoqerbuvn/app.bsky.feed.post/3ldrcns5ofs2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/heydonworks.com/post/3ldrcns5ofs2z",
+			"author": {
+				"name": "Large Heydon Collider",
+				"url": "https://bsky.app/profile/heydonworks.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjzw74n44kuehrcwoqerbuvn/bafkreifxvjlj3ymm4p7tfugtjnylsepgvflqzwa347mx3abzogtqs4lfaq"
+			},
+			"date": "2024-12-20T21:16:03.739Z",
+			"content": "<p>Facebook first.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3ldrewyyguc2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3ldrewyyguc2d",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2024-12-20T21:57:00.382Z",
+			"content": "<p>Something I literally hadn’t thought of until right now: is the plan to ban the TikTok app or block the servers? Because if they ban the app, a whole generation are about to learn that they don’t need apps and PWAs are great.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldrezlwenc2w",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3ldrewyyguc2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldrezlwenc2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-20T21:58:27.346Z",
+			"content": "<p>not sure! I assumed they’d just remove the app—hope it isn’t more than that</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gzymh5fce2h7hvjm7vsqh2l4/app.bsky.feed.post/3ldsa4lg7j226",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/conr.dev/post/3ldsa4lg7j226",
+			"author": {
+				"name": "Conor 👨🏻‍💻",
+				"url": "https://bsky.app/profile/conr.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gzymh5fce2h7hvjm7vsqh2l4/bafkreib4ikukb3dgaqkzdqekjbyjpqvwqd2x77hajbctauoequ2t274zdq"
+			},
+			"date": "2024-12-21T06:03:18.509Z",
+			"content": "<p>Just not WPAs.</p>",
+			"via": "bluesky"
+		}
+	]
+}

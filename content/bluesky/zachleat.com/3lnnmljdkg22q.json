@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnnmmjgdtk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lnnmmjgdtk2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-25T16:15:35.774Z",
+			"content": "<p>(via <a href=\"https://bsky.app/profile/did:plc:wjrpkham2fhwlxkthcch2sc2\">@davatron5000.bsky.social</a> <a href=\"https://bsky.app/profile/davatron5000.bsky.social/post/3lnnkzb2cps27\">bsky.app/profile/dava...</a>)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3lnq2owolus27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/collinsworth.dev/post/3lnq2owolus27",
+			"author": {
+				"name": "Josh Collinsworth",
+				"url": "https://bsky.app/profile/collinsworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr7ktxokjqc2suwnook4k73h/bafkreigotpy47tpnxj2sptza4bsjtdebl4dqyfk6ovvrb26prjpytiinjq"
+			},
+			"date": "2025-04-26T15:32:48.647Z",
+			"content": "<p>11ty         this truck<br>\n         🤝<br>\nNot having a built-in stereo system</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnuvvqxze226",
+			"parentId": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3lnq2owolus27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lnuvvqxze226",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-28T13:50:27.529Z",
+			"content": "<p>sound system is a plugin 😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

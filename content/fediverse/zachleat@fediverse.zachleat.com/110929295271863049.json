@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "110929297180434386",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110929297180434386",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-21T19:39:06.525Z",
+			"content": "<p>(Re: <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Robb\" class=\"u-url mention\">@<span>Robb</span></a></span> <a href=\"https://front-end.social/@Robb/110929276191513818\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">front-end.social/@Robb/1109292</span><span class=\"invisible\">76191513818</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929360795357500",
+			"parentId": 0,
+			"url": "https://mstdn.social/@josephholsten/110929360759175140",
+			"author": {
+				"name": ": j@fabrica:~/src;  :t_blink:",
+				"url": "https://mstdn.social/@josephholsten",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-08-21T19:55:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And no, unless you are using a domain outside ICANN’s root, you don’t entirely control the domain.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929461506931741",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nighcrawl/110929461458484809",
+			"author": {
+				"name": "Ange Chierchia",
+				"url": "https://mastodon.social/@nighcrawl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/863/574/758/645/665/original/7cf0144fd5e55537.jpeg"
+			},
+			"date": "2023-08-21T20:20:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is hosting your blog on GitHub Pages with a custom domain name is considered «&nbsp;control the content&nbsp;» ? Real question.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929473678677685",
+			"parentId": "110929461506931741",
+			"url": "https://fediverse.zachleat.com/@zachleat/110929473678677685",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-21T20:23:59.674Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nighcrawl\" class=\"u-url mention\">@<span>nighcrawl</span></a></span> for sure it is! You could move that content to any host, just as long as you own the domain name.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929478721281029",
+			"parentId": "110929461506931741",
+			"url": "https://mastodon.social/@jehb/110929478438945687",
+			"author": {
+				"name": "Jason B",
+				"url": "https://mastodon.social/@jehb",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-08-21T20:25:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nighcrawl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nighcrawl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If GitHub decided tomorrow to institute a policy you disagreed with, or to just kick your off entirely, could you move elsewhere and point your domain at that? Do you have a backup of the repo? Could you pick up and go to GitLab Pages and use their build pipeline instead?</p><p>BTW I only mean these as questions I would ask myself to answer that kind of question. Hopefully they're helpful questions, if not, feel free to ignore!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929513816172713",
+			"parentId": "110929473678677685",
+			"url": "https://mastodon.social/@nighcrawl/110929513776760878",
+			"author": {
+				"name": "Ange Chierchia",
+				"url": "https://mastodon.social/@nighcrawl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/863/574/758/645/665/original/7cf0144fd5e55537.jpeg"
+			},
+			"date": "2023-08-21T20:34:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you’re right, didn’t though things like that. I was thinking «&nbsp;What if GitHub shuts down?&nbsp;Where is my content?» But honestly, it couldn’t be that bad 🤞</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929598384933204",
+			"parentId": "110929360795357500",
+			"url": "https://mastodon.cyborch.com/@anders/110929598299797836",
+			"author": {
+				"name": "Anders Borch",
+				"url": "https://mastodon.cyborch.com/@anders",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-08-21T20:55:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@josephholsten\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>josephholsten</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> soo… we’re back to .onion names?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929628540344026",
+			"parentId": "110929598384933204",
+			"url": "https://fediverse.zachleat.com/@zachleat/110929628540344026",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-21T21:03:22.675Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cyborch.com/@anders\" class=\"u-url mention\">@<span>anders</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@josephholsten\" class=\"u-url mention\">@<span>josephholsten</span></a></span> by tor’s hammer!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929705342110760",
+			"parentId": 0,
+			"url": "https://mone.dev/@matt/110929705281852411",
+			"author": {
+				"name": "Matthew Mone",
+				"url": "https://mone.dev/@matt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/474/476/684/145/798/original/0f165886c3a40594.jpg"
+			},
+			"date": "2023-08-21T21:22:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not your database, not your data?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929770767841920",
+			"parentId": "110929705342110760",
+			"url": "https://fediverse.zachleat.com/@zachleat/110929770767841920",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-21T21:39:32.894Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mone.dev/@matt\" class=\"u-url mention\">@<span>matt</span></a></span> we’ve learned from LLMs that anything public is not exclusively your data either 😭</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110929780879779690",
+			"parentId": "110929770767841920",
+			"url": "https://mone.dev/@matt/110929780828385313",
+			"author": {
+				"name": "Matthew Mone",
+				"url": "https://mone.dev/@matt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/474/476/684/145/798/original/0f165886c3a40594.jpg"
+			},
+			"date": "2023-08-21T21:42:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> well, I mean, even my data was extrapolated from what data I was trained on from other sources</p>",
+			"via": "fediverse"
+		}
+	]
+}

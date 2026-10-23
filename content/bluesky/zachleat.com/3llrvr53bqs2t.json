@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lls2x3lpl22i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/vale.rocks/post/3lls2x3lpl22i",
+			"author": {
+				"name": "Vale",
+				"url": "https://bsky.app/profile/vale.rocks",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7qg6mz2xtzozxkgbcvf4pdnu/bafkreiav5vj6xi33c7pcr2wtl3bqxsynlgd7rwdpvetnik75nte4ms5xzy"
+			},
+			"date": "2025-04-01T23:52:18.452Z",
+			"content": "<p>What happens if those separation of concerns folk start a protest?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lltgfhfix222",
+			"parentId": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lls2x3lpl22i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lltgfhfix222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-02T12:49:51.493Z",
+			"content": "<p>index.html is only the beginning of the revolution</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lltggqtoh223",
+			"parentId": "at://did:plc:7qg6mz2xtzozxkgbcvf4pdnu/app.bsky.feed.post/3lls2x3lpl22i",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lltggqtoh223",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-04-02T12:50:34.949Z",
+			"content": "<p>HTML is dependency free!</p>",
+			"via": "bluesky"
+		}
+	]
+}

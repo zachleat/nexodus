@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ny4wl2lgdvgej5rzaxk45ccn/app.bsky.feed.post/3lrbqlvcwyc2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jonkuperman.com/post/3lrbqlvcwyc2r",
+			"author": {
+				"name": "Jon Kuperman",
+				"url": "https://bsky.app/profile/jonkuperman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ny4wl2lgdvgej5rzaxk45ccn/bafkreibcqknirreict4rvopgwy2irmaqjavazdnpdbo5l5p2oqjhrmvtrm"
+			},
+			"date": "2025-06-10T20:35:39.309Z",
+			"content": "<p>💜</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ny4wl2lgdvgej5rzaxk45ccn/app.bsky.feed.post/3lrbqopwws22r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jonkuperman.com/post/3lrbqopwws22r",
+			"author": {
+				"name": "Jon Kuperman",
+				"url": "https://bsky.app/profile/jonkuperman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ny4wl2lgdvgej5rzaxk45ccn/bafkreibcqknirreict4rvopgwy2irmaqjavazdnpdbo5l5p2oqjhrmvtrm"
+			},
+			"date": "2025-06-10T20:37:14.337Z",
+			"content": "<p>I remember being that junior engineer. I remember him sitting with me.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrbqw7eris2f",
+			"parentId": "at://did:plc:ny4wl2lgdvgej5rzaxk45ccn/app.bsky.feed.post/3lrbqopwws22r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrbqw7eris2f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-10T20:41:25.400Z",
+			"content": "<p>I’m so sorry Jon — what an incredible loss ❤️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6zdiiughb4fj2yau6z6f2w5r/app.bsky.feed.post/3lrbqwfwgic24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/yoyoyoyo.bsky.social/post/3lrbqwfwgic24",
+			"author": {
+				"name": "Yo",
+				"url": "https://bsky.app/profile/yoyoyoyo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6zdiiughb4fj2yau6z6f2w5r/bafkreifboxdrbimc2kxaltuk6zc73zkl6el3fhodnmmwquw2iex52hrmma"
+			},
+			"date": "2025-06-10T20:41:32.269Z",
+			"content": "<p>Zach I am so sorry. He was someone I passively followed and always seemed willing to listen and pitch in. He will be missed.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrbrke2a3c2s",
+			"parentId": "at://did:plc:6zdiiughb4fj2yau6z6f2w5r/app.bsky.feed.post/3lrbqwfwgic24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrbrke2a3c2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-10T20:52:41.386Z",
+			"content": "<p>I didn’t have a personal relationship either but I definitely recognized and benefited from the positive multiplier they contributed</p>",
+			"via": "bluesky"
+		}
+	]
+}

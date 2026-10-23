@@ -1,0 +1,280 @@
+{
+	"comments": [
+		{
+			"id": "111103600450141576",
+			"parentId": 0,
+			"url": "https://mostr.pub/objects/d7d1fc800f9029b1fbaafd1bb6b8d287bc4a9f5f7ff8d9980dd6d38faacfc339",
+			"author": {
+				"name": "Cyborg",
+				"url": "https://mostr.pub/users/8b928bf75edb4ddffe2800557ffe7e5e2b07c5d5102f97d1955f921585938201",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-09-21T14:25:31.000Z",
+			"content": "Ah, React, the source of endless debates among developers. It's like a never-ending rollercoaster ride of performance concerns and fun to work with moments. But hey, who cares if it's slow? We can always count on someone to come along and make it faster, right? Just sit back, enjoy the ride, and hope for some magical performance optimizations!",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103612361737037",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111103612361737037",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T14:29:45.113Z",
+			"content": "<p>This quote says so much about the ideology and mindset of folks still influencing the modern JavaScript community.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103615572590614",
+			"parentId": 0,
+			"url": "https://mstdn.ca/@jbwharris/111103615406487185",
+			"author": {
+				"name": "James Harris",
+				"url": "https://mstdn.ca/@jbwharris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/583/705/335/085/967/original/97e668edaa651052.jpg"
+			},
+			"date": "2023-09-21T14:30:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tigt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>grigs</span></a></span> “We’ve made this octagonal wheel, it may not be practical, but it sure is fun” 🤦‍♂️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103627564432822",
+			"parentId": "111103612361737037",
+			"url": "https://mastodon.social/@autiomaa/111103627521498279",
+			"private": true,
+			"date": "2023-09-21T14:33:36.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103640640210143",
+			"parentId": "111103612361737037",
+			"url": "https://mastodon.social/@marcus/111103640595753157",
+			"author": {
+				"name": "Marcus Herrmann",
+				"url": "https://mastodon.social/@marcus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/546/229/731/829/original/8054698f9ae8b918.jpeg"
+			},
+			"date": "2023-09-21T14:36:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It’s kind of like a community of butchers saying “It's so fun to make the sausage, we don’t care if it is edible, someone will fix that”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103650724349398",
+			"parentId": "111103640640210143",
+			"url": "https://fediverse.zachleat.com/@zachleat/111103650724349398",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T14:39:30.475Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@marcus\" class=\"u-url mention\">@<span>marcus</span></a></span> it’s a very Silicon Valley mentality, I think—unsurprisingly popularized by Facebook!</p><p>Move fast and break things, indeed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103665979022825",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rauschma/111103665926278930",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2023-09-21T14:43:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Doesn’t it depend on what you are trying to achieve, though? Sometimes it’s more important to focus on ease of use than on performance(?)</p><p>I’m definitely aware of React’s downsides but, years ago, it radically changed how I thought about implementing UIs. My code became much simpler.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103674094574771",
+			"parentId": "111103665979022825",
+			"url": "https://fediverse.zachleat.com/@zachleat/111103674094574771",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T14:45:27.076Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> then perhaps using React does mean a choice of UX versus DX! The dichotomy is unnecessary, though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103678862641605",
+			"parentId": "111103612361737037",
+			"url": "https://masto.ai/@p4/111103678798377734",
+			"author": {
+				"name": "P4",
+				"url": "https://masto.ai/@p4",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/470/808/221/262/660/original/16c8aa861e7dcd85.jpg"
+			},
+			"date": "2023-09-21T14:46:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"we don't need to think about performance, the JIT will just magic all of the problems away and make it fast for us.\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103816834183918",
+			"parentId": "111103674094574771",
+			"url": "https://fosstodon.org/@rauschma/111103816778764879",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2023-09-21T15:21:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sure! Now we have options. Somebody made it faster. 😜</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103822406934703",
+			"parentId": "111103816834183918",
+			"url": "https://fediverse.zachleat.com/@zachleat/111103822406934703",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T15:23:10.143Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> haha!! 😅😅😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111104575792662210",
+			"parentId": 0,
+			"url": "https://indieweb.social/@brianleroux/111104575760014112",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2023-09-21T18:34:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tigt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>grigs</span></a></span> 🤢</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111104953455864843",
+			"parentId": "111104575792662210",
+			"url": "https://mastodon.social/@cferdinandi/111104953405924263",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-09-21T20:10:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tigt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>grigs</span></a></span> fucking WILD!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111104996166266259",
+			"parentId": "111104953455864843",
+			"url": "https://fediverse.zachleat.com/@zachleat/111104996166266259",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T20:21:40.293Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\">@<span>grigs</span></a></span> this 2015 quote aged so poorly 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111108583698497049",
+			"parentId": "111103650724349398",
+			"url": "https://mastodon.social/@ollicle/111108583665255859",
+			"private": true,
+			"date": "2023-09-22T11:34:01.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111108600927268185",
+			"parentId": 0,
+			"url": "https://toot.cafe/@aardrian/111108600775110362",
+			"author": {
+				"name": "Adrian Roselli",
+				"url": "https://toot.cafe/@aardrian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/545/392/399/405/original/dd521c9d2f72660c.jpg"
+			},
+			"date": "2023-09-22T11:38:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tigt</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>grigs</span></a></span> <br>This gives insight into the recent Vercel fake-AI v0 silliness.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111108727467660597",
+			"parentId": "111108600927268185",
+			"url": "https://front-end.social/@hdv/111108727433892376",
+			"author": {
+				"name": "Hidde",
+				"url": "https://front-end.social/@hdv",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/793/612/240/674/original/9f7e15cc0311f06d.jpg"
+			},
+			"date": "2023-09-22T12:10:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@aardrian\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aardrian</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tigt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@grigs\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>grigs</span></a></span> indeed, “so fun” to “not really care”!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111108855670726399",
+			"parentId": "111103612361737037",
+			"url": "https://indieweb.social/@nachtfunke/111108855621700027",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-09-22T12:43:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes it absolutely does. The blatant arrogance and ignorance is really the thing that makes me so furious</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110951856008703",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tigt/111110951800185961",
+			"author": {
+				"name": "Taylor “Tigt” Hunt",
+				"url": "https://mastodon.social/@tigt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/334/355/587/214/811/original/047d5f21db3efabe.png"
+			},
+			"date": "2023-09-22T21:36:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I got blasted on lobsters or somewhere about “the out-of-context quote from Dan Abramov” for this, which is quite an impressive willful misunderstanding</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111110982936744460",
+			"parentId": "111110951856008703",
+			"url": "https://fediverse.zachleat.com/@zachleat/111110982936744460",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-22T21:44:11.158Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> well, wait—which one?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111111121452367888",
+			"parentId": "111110982936744460",
+			"url": "https://mastodon.social/@tigt/111111121417000628",
+			"author": {
+				"name": "Taylor “Tigt” Hunt",
+				"url": "https://mastodon.social/@tigt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/334/355/587/214/811/original/047d5f21db3efabe.png"
+			},
+			"date": "2023-09-22T22:19:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think this quote from the engineering manager, in the conf opening speech explaining the raison d'être behind React</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111132041641681319",
+			"parentId": "111111121452367888",
+			"url": "https://fediverse.zachleat.com/@zachleat/111132041641681319",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-26T14:59:41.496Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span> a ha! I found the lobste.rs comment—yikes 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

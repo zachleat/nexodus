@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "110192680712934342",
+			"parentId": 0,
+			"url": "https://toot.cafe/@dotproto/110192680595412779",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2023-04-13T17:27:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.online/@colepeters\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>colepeters</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> Nice site :)</p><p>I tend to select text a lot for text to speech reasons while browsing and there are a couple weird interactions on the site where illustrative elements are stacking on top of text content</p><p>For example, if the window is &gt; 1000px wide you can't select the text in the paragraph that begins \"Enhance makes the right way the easy way.\" Adding `pointer-events: none;` to the `figure.rainbow-top` element fixes this</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110192698237240290",
+			"parentId": "110192680712934342",
+			"url": "https://toot.cafe/@dotproto/110192698110543044",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2023-04-13T17:32:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.online/@colepeters\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>colepeters</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> Something similar happens with the text \"THE HTML FIRST\". Double or triple clicking the top half of this line will select the clouds rather than the text</p><p>Anyway, huge congrats on the new site. It's beautiful and so wonderfully playful :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110192759455985229",
+			"parentId": "110192698237240290",
+			"url": "https://mastodon.online/@colepeters/110192759398195994",
+			"author": {
+				"name": "Cole Peters",
+				"url": "https://mastodon.online/@colepeters",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-04-13T17:47:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@dotproto\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dotproto</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> This is great feedback, thanks so much for bringing it up! I’ll ship an update for this ASAP!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110192806777760642",
+			"parentId": "110192698237240290",
+			"url": "https://mastodon.online/@colepeters/110192806738901376",
+			"author": {
+				"name": "Cole Peters",
+				"url": "https://mastodon.online/@colepeters",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-04-13T17:59:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@dotproto\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dotproto</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> Should be working better now! :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110192810592231455",
+			"parentId": "110192806777760642",
+			"url": "https://toot.cafe/@dotproto/110192810496808904",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2023-04-13T18:00:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@colepeters\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>colepeters</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> so it is! TYVM 💖</p>",
+			"via": "fediverse"
+		}
+	]
+}

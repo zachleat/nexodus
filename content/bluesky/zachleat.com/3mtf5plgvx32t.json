@@ -1,0 +1,163 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:pkzt5mk76dc3fnd7w7l7veyr/app.bsky.feed.post/3mtf6fxgmlc2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rreverser.com/post/3mtf6fxgmlc2y",
+			"author": {
+				"name": "Ingvar Stepanyan",
+				"url": "https://bsky.app/profile/rreverser.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pkzt5mk76dc3fnd7w7l7veyr/bafkreiav6mrc4pmvkth5jvs6kayu6omnpdvpnvgvi2aywcgmykyo6wirby"
+			},
+			"date": "2026-08-18T21:37:27.146Z",
+			"content": "<p>&lt;input type=\"radio\" name=\"k\" value=\"v\" dropdown /&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtf6s7b3zk2q",
+			"parentId": "at://did:plc:pkzt5mk76dc3fnd7w7l7veyr/app.bsky.feed.post/3mtf6fxgmlc2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtf6s7b3zk2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-18T21:44:18.007Z",
+			"content": "<p>oh my</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nvyqq74airaeoziqbzsup2b5/app.bsky.feed.post/3mtf7anftbs22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benrinehart.bsky.social/post/3mtf7anftbs22",
+			"author": {
+				"name": "Ben ",
+				"url": "https://bsky.app/profile/benrinehart.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvyqq74airaeoziqbzsup2b5/bafkreihl346ajbmfouy6vppxvo7h2sxvwawbsbp4ztsdlkih5b2jrl4luu"
+			},
+			"date": "2026-08-18T21:52:22.604Z",
+			"content": "<p>&lt;input type=“textarea” /&gt; too?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtf7j2uabk2o",
+			"parentId": "at://did:plc:nvyqq74airaeoziqbzsup2b5/app.bsky.feed.post/3mtf7anftbs22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtf7j2uabk2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-18T21:57:05.143Z",
+			"content": "<p>whoa now, let’s not get too wild</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:v3bkfge7g7ef35ggdokbe52k/app.bsky.feed.post/3mtf7zxp6k22j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtf7j2uabk2o",
+			"url": "https://bsky.app/profile/gn-arp.bsky.social/post/3mtf7zxp6k22j",
+			"private": true,
+			"date": "2026-08-18T22:06:32.256Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtfa5lpiic2z",
+			"parentId": "at://did:plc:v3bkfge7g7ef35ggdokbe52k/app.bsky.feed.post/3mtf7zxp6k22j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtfa5lpiic2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-18T22:08:33.902Z",
+			"content": "<p>…wait, that clears up a few things</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dwekxqrcsvhaufcud63eaxz2/app.bsky.feed.post/3mtffrsktbk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alexnozer.bsky.social/post/3mtffrsktbk2t",
+			"author": {
+				"name": "Aleksey Nazarenko",
+				"url": "https://bsky.app/profile/alexnozer.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dwekxqrcsvhaufcud63eaxz2/bafkreieumz4ev2qbjpbrlo3mjag5pfqdiy4heyghicwujy2xegj2zccjlm"
+			},
+			"date": "2026-08-18T23:49:20.887Z",
+			"content": "<p>Combobox from alternate universe:<br>\n&lt;input type=\"text\"&gt;<br>\n  &lt;option&gt;&lt;/option&gt;<br>\n  ...<br>\n&lt;/input&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:phpf3nisybgnkmc4ur4me4gf/app.bsky.feed.post/3mtfvy3recc2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/john.kreitlow.rocks/post/3mtfvy3recc2k",
+			"private": true,
+			"date": "2026-08-19T04:39:11.731Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtguymfwqc2z",
+			"parentId": "at://did:plc:phpf3nisybgnkmc4ur4me4gf/app.bsky.feed.post/3mtfvy3recc2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtguymfwqc2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T13:54:15.182Z",
+			"content": "<p>I don’t know but if you want the blame we can work something out</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtguzyzzxc2z",
+			"parentId": "at://did:plc:dwekxqrcsvhaufcud63eaxz2/app.bsky.feed.post/3mtffrsktbk2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtguzyzzxc2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T13:55:01.978Z",
+			"content": "<p>this is what datalist should have been 😈</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i4ichiot767r3h5gvezwt2hr/app.bsky.feed.post/3mtheblexsk2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jakob-e.bsky.social/post/3mtheblexsk2z",
+			"author": {
+				"name": "Jakob E",
+				"url": "https://bsky.app/profile/jakob-e.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i4ichiot767r3h5gvezwt2hr/bafkreigl3a2qplenywwoxeglw4lxb3blwpngj4rofm36izcsp5ffaldtlm"
+			},
+			"date": "2026-08-19T18:27:42.218Z",
+			"content": "<p>TBH I kinda like that along with the suggested use for combo</p>\n<p>&lt;input type=“image”&gt; would also have been nice for clickable thumbs - oh wait</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtheok3c722g",
+			"parentId": "at://did:plc:i4ichiot767r3h5gvezwt2hr/app.bsky.feed.post/3mtheblexsk2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtheok3c722g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T18:34:57.061Z",
+			"content": "<p>I…&nbsp;have used this 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i4ichiot767r3h5gvezwt2hr/app.bsky.feed.post/3mthet3k4cc2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtheok3c722g",
+			"url": "https://bsky.app/profile/jakob-e.bsky.social/post/3mthet3k4cc2z",
+			"author": {
+				"name": "Jakob E",
+				"url": "https://bsky.app/profile/jakob-e.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i4ichiot767r3h5gvezwt2hr/bafkreigl3a2qplenywwoxeglw4lxb3blwpngj4rofm36izcsp5ffaldtlm"
+			},
+			"date": "2026-08-19T18:37:29.590Z",
+			"content": "<p>You are not alone 😊🖼️</p>",
+			"via": "bluesky"
+		}
+	]
+}

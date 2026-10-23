@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "109332566052484902",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/109332565955255126",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2022-11-12T19:49:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I actually made a (very lazy) fork of `is-land` for similar reasons.</p><p><a href=\"https://github.com/dgp1130/Hydrator/blob/b266eaf4c269a28e365c46aa075819f42621c1b5/src/examples/is-land/is-land.ts\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dgp1130/Hydrator/bl</span><span class=\"invisible\">ob/b266eaf4c269a28e365c46aa075819f42621c1b5/src/examples/is-land/is-land.ts</span></a><br><a href=\"https://github.com/dgp1130/Hydrator/blob/b266eaf4c269a28e365c46aa075819f42621c1b5/src/examples/deference.html#L49-L71\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dgp1130/Hydrator/bl</span><span class=\"invisible\">ob/b266eaf4c269a28e365c46aa075819f42621c1b5/src/examples/deference.html#L49-L71</span></a></p><p>You mentioned the question of \"how to handle two instances of the same component?\", have you considered `defer-hydration` support?</p><p><a href=\"https://github.com/webcomponents-cg/community-protocols/pull/15\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/webcomponents-cg/co</span><span class=\"invisible\">mmunity-protocols/pull/15</span></a></p><p>I found that worked pretty well for my use case, but I'm not sure if there's a place for that in the official library. I was planning to make an issue about it but hadn't gotten around to it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109332778803691836",
+			"parentId": "109332566052484902",
+			"url": "https://fediverse.zachleat.com/@zachleat/109332778803691836",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-12T20:43:29.385Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> oooh—I would love to see `defer-hydration` support! That sounds like exactly what is needed to solve this in a much better way</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109332782760506057",
+			"parentId": "109332778803691836",
+			"url": "https://fediverse.zachleat.com/@zachleat/109332782760506057",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-12T20:44:29.757Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> (subscribed and upvoted)</p><p>I don’t think it will do much until it’s natively available in the platform though right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109332849160697670",
+			"parentId": "109332782760506057",
+			"url": "https://fediverse.zachleat.com/@zachleat/109332849160697670",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-12T21:01:22.949Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> well, wait—I think I understand what you mean. If component libraries have implemented this (and it seems like Lit has?)—I can add support for `defer-hydration` today and it will work in those libraries</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109332938654724573",
+			"parentId": "109332849160697670",
+			"url": "https://techhub.social/@develwithoutacause/109332937949606459",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2022-11-12T21:23:57.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, it's a \"community protocol\", so any component / component library can implement it, there's nothing browsers *need* to support.</p><p>My own library in that repo respects `defer-hydration`, so `is-land` just needs to remove the attribute from any child nodes, which I think is a reasonable thing for it to do?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109332951595943358",
+			"parentId": "109332938654724573",
+			"url": "https://techhub.social/@develwithoutacause/109332951526317047",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2022-11-12T21:27:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not sure what the default behavior should be, but maybe don't replace the tag name if the node has `defer-hydration`? If it has that attribute then you have a pretty good reason to believe it won't do anything until the attribute is removed by `is-land`.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109333008554223053",
+			"parentId": "109332951595943358",
+			"url": "https://fediverse.zachleat.com/@zachleat/109333008554223053",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-12T21:41:55.101Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> yeah! I love that! I would also like to see it as a supported feature in the platform too 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109333077856115468",
+			"parentId": "109333008554223053",
+			"url": "https://techhub.social/@develwithoutacause/109333077812332785",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2022-11-12T21:59:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Me too, though TBH I'm not sure what it would really look like as a supported feature. Maybe an attribute which tells the browser \"don't upgrade components in this subtree\"?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109333172945952006",
+			"parentId": "109333077856115468",
+			"url": "https://fediverse.zachleat.com/@zachleat/109333172945952006",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-12T22:23:43.520Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> yeah I think it could even be simpler: don’t upgrade this specific element</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109333201409885192",
+			"parentId": "109333172945952006",
+			"url": "https://techhub.social/@develwithoutacause/109333201360962754",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2022-11-12T22:30:57.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's basically what `defer-hydration` does, it just requires the component to implement that behavior (which isn't great I admit).</p><p>I do feel like when it only applies to a specific element, it requires you to put `defer-hydration` on everything except the top-level node, which is easy to mess up. It's also implementable in userspace via `attributeChangedCallback()` like `defer-hydration` does, whereas a subtree approach can't be.</p>",
+			"via": "fediverse"
+		}
+	]
+}

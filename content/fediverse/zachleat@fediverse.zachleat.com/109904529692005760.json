@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "109904602411052012",
+			"parentId": 0,
+			"url": "https://bell.bz/@andy/109904602387063971",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bell.bz/@andy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/871/123/336/966/original/e6a047a53e9b945e.jpg"
+			},
+			"date": "2023-02-21T20:25:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> bruh is this .11tydx</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109904616754486810",
+			"parentId": "109904602411052012",
+			"url": "https://fediverse.zachleat.com/@zachleat/109904616754486810",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-21T20:29:24.057Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\">@<span>andy</span></a></span> it’s javascript so it makes the UX better andy</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109904895445431127",
+			"parentId": "109904602411052012",
+			"url": "https://mastodon.social/@charlesharries/109904895201833670",
+			"author": {
+				"name": "Charles Harries",
+				"url": "https://mastodon.social/@charlesharries",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/800/119/846/310/original/8071f26be4f43d28.png"
+			},
+			"date": "2023-02-21T21:40:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andy</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s only .11tysx if it’s type-safe</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109905067868705268",
+			"parentId": "109904616754486810",
+			"url": "https://mastodon.social/@fedbysandrine/109905067715412835",
+			"author": {
+				"name": "Sandrine",
+				"url": "https://mastodon.social/@fedbysandrine",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/154/117/521/544/original/df9008be46f71c44.png"
+			},
+			"date": "2023-02-21T22:24:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andy</span></a></span> I like it.<br>I've spent the last 3 days building a pattern library based on <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andy</span></a></span> template (but with included subcomponents YEAH it's been a pain to figure that one out lol)</p><p>There are js functions that I need in only one template and it's a bit annoying to switch between files all the time.</p><p>Also, as I'm here, I never had that much fun coding in a long time so thanks again to you both for the things you put out there so I can tweak them and see which errors they throw at me.</p>",
+			"via": "fediverse"
+		}
+	]
+}

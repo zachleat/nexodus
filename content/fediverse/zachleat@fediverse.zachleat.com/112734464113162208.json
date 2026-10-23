@@ -1,0 +1,636 @@
+{
+	"comments": [
+		{
+			"id": "112734485693145328",
+			"parentId": 0,
+			"url": "https://carhenge.club/@mattdsteele/112734485533629753",
+			"author": {
+				"name": "Matt Steele",
+				"url": "https://carhenge.club/@mattdsteele",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/338/334/706/297/788/original/78498de2d2efca88.png"
+			},
+			"date": "2024-07-05T15:02:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is `fantasy` not an option?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734506741274468",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112734506741274468",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:07:38.429Z",
+			"content": "<p>for this to happen without breaking the web they’d need to use a sans-serif metric-compatible version of `serif` (`sans-serif` is not this)</p><p><a href=\"https://codepen.io/zachleat/pen/MWMgBNj\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">codepen.io/zachleat/pen/MWMgBNj</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734510543721196",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rauschma/112734510472673319",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2024-07-05T15:08:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I much prefer serif fonts. I find them easier to read (Al vs. AI etc.) and we now have high-resolution displays everywhere so that they always look good.</p><p>My impression is that sans-serif fonts were a trend a while ago but that seems to be changing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734513444707173",
+			"parentId": "112734485693145328",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734513444707173",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:09:20.716Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://carhenge.club/@mattdsteele\" class=\"u-url mention\">@<span>mattdsteele</span></a></span> `fantasy` is a collective hallucination, like the american dream or a fast react web site</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734514256637540",
+			"parentId": "112734506741274468",
+			"url": "https://mastodon.social/@kraftner/112734514113438452",
+			"author": {
+				"name": "Thomas Kräftner",
+				"url": "https://mastodon.social/@kraftner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/593/070/953/775/original/16c72954e710b38e.jpg"
+			},
+			"date": "2024-07-05T15:09:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wait, how can this ever work? Doesn't that resolve to different fonts depending on browser, OS etc?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734516625600748",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriskirknielsen/112734516563325007",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/011/424/167/261/417/original/b7483cef1bc6d1dd.jpg"
+			},
+			"date": "2024-07-05T15:10:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes, but counterpoint: how else would I know my CSS it totally borked?</p><p>(I actually have noticed a font failing to load thanks to this in a recent project, so I'm only half joking)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734520291713930",
+			"parentId": "112734510543721196",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734520291713930",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:11:05.193Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> serifs are still dominating most long-form reading so surely there’s some truth to that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734530854550036",
+			"parentId": "112734514256637540",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734530854550036",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:13:46.372Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kraftner\" class=\"u-url mention\">@<span>kraftner</span></a></span> ha—the browser would need to ship a different metric-compatible version sans-serif for *every* possible fallback 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734534075981199",
+			"parentId": "112734516625600748",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734534075981199",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:14:35.525Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> hah! Countercounterpoint your CSS is never borked if you use serif</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734579293253283",
+			"parentId": "112734506741274468",
+			"url": "https://mastodon.social/@blogdiva/112734579183119847",
+			"author": {
+				"name": "your auntifa liza 🇵🇷  🦛 🦦",
+				"url": "https://mastodon.social/@blogdiva",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/649/552/828/625/044/original/97dd263dd469a515.png"
+			},
+			"date": "2024-07-05T15:26:03.000Z",
+			"content": "<p>why is this necessary? </p><p>been developing with web techs since the 1990s (yes, literally since i got hold of Mosaic sometime in 1994-1995) because am dyslexic and have spent an inordinate amount of decades finding the right combination of fonts and css to attend to my dyslexia needs. </p><p>i wouldn't care from that perspective given i change all my browsers and create very intentional CSS themes for my web projects, but it would irritate me with the random browser i couldn't control</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734585738504423",
+			"parentId": "112734520291713930",
+			"url": "https://fosstodon.org/@rauschma/112734585653509270",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2024-07-05T15:27:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Genuinely curious where things will go in the future—ATM sans-serif fonts still dominate user interfaces.</p><p>I personally like Palatino: <a href=\"https://exploringjs.com/js/book/ch_new-javascript-features.html#ch_new-javascript-features\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">exploringjs.com/js/book/ch_new</span><span class=\"invisible\">-javascript-features.html#ch_new-javascript-features</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734606771946820",
+			"parentId": 0,
+			"url": "https://mastodon.social/@liamnewmarch/112734606427858173",
+			"author": {
+				"name": "Liam Newmarch",
+				"url": "https://mastodon.social/@liamnewmarch",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/598/179/007/046/original/4eaad0e8f7edb4bc.jpg"
+			},
+			"date": "2024-07-05T15:32:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> make it system-ui and you’ve got yourself a deal</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734612366972745",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/112734612027255729",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2024-07-05T15:34:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Why wait? You can make your default font MS Comic Sans now!</p><p>(This also means: If any websites break when a browser changes the default fallback font, they are already broken for any users who are fussy about typography.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734619331915328",
+			"parentId": 0,
+			"url": "https://functional.cafe/@prozacchiwawa/112734619121295288",
+			"author": {
+				"name": "prozacchiwawa",
+				"url": "https://functional.cafe/@prozacchiwawa",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-05T15:36:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the ugly default font tells me what i havent styled yet</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734626830464790",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@jasono/112734626798660715",
+			"author": {
+				"name": "Jason O'Neil",
+				"url": "https://hachyderm.io/@jasono",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/003/429/466/137/original/197b19ab95a4ce3b.jpg"
+			},
+			"date": "2024-07-05T15:38:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have my default browser set to comic sans as a way of noticing if I’ve accidentally left something on the page unstyled. Always amusing when you double take on a big famous website with some comic sans.</p><p>All of which to say, changing to a sans fonts in general I’m fine with, but sans-serif itself seems a little not-fun-enough, don’t you think?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734630629898941",
+			"parentId": "112734530854550036",
+			"url": "https://mastodon.social/@kraftner/112734630489779159",
+			"author": {
+				"name": "Thomas Kräftner",
+				"url": "https://mastodon.social/@kraftner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/593/070/953/775/original/16c72954e710b38e.jpg"
+			},
+			"date": "2024-07-05T15:39:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That would already be a lot. Also in most browsers this seems to potentially be a user choice... 😬 <br>I'd now like to revise my answer from 0% to 100%. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734642975783934",
+			"parentId": "112734579293253283",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734642975783934",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:42:17.203Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@blogdiva\" class=\"u-url mention\">@<span>blogdiva</span></a></span> are you asking why metric-compatibility is a necessity? I’d bet there are a lot of web sites that rely on fixed sizing of default fonts</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734650405651917",
+			"parentId": "112734585738504423",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734650405651917",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:44:10.574Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> your web site genuinely has a great and unique typeface brand to it!</p><p>Now I’m curious to look into monospace serif fonts for code—are those a thing?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734651189522917",
+			"parentId": "112734606771946820",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734651189522917",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:44:22.536Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@liamnewmarch\" class=\"u-url mention\">@<span>liamnewmarch</span></a></span> now we’re talking</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734653579273125",
+			"parentId": "112734612366972745",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734653579273125",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:44:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> this seems like a good time to me</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734690465221410",
+			"parentId": "112734506741274468",
+			"url": "https://floss.social/@webbureaucrat/112734690422731467",
+			"author": {
+				"name": "webbureaucrat",
+				"url": "https://floss.social/@webbureaucrat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/470/005/055/358/994/original/9d33992f38e0fb47.png"
+			},
+			"date": "2024-07-05T15:54:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I clicked your code pen and got four of the same font—all sans serif. </p><p>I'm on Firefox Nightly for Android.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734700477555703",
+			"parentId": "112734506741274468",
+			"url": "https://mastodon.online/@colepeters/112734700424692407",
+			"author": {
+				"name": "Cole Peters",
+				"url": "https://mastodon.online/@colepeters",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-05T15:56:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm curious about the ‘breaking the web’ part. `serif` and `sans-serif` are fallbacks for otherwise unstyled text, so… what would there be to break? 🤓</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734707551104012",
+			"parentId": "112734690465221410",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734707551104012",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T15:58:42.544Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://floss.social/@webbureaucrat\" class=\"u-url mention\">@<span>webbureaucrat</span></a></span> that means your fallback is already sans-serif! I pushed a change to make the test more explicit for you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734717044161081",
+			"parentId": "112734700477555703",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734717044161081",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T16:01:07.397Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@colepeters\" class=\"u-url mention\">@<span>colepeters</span></a></span> if a web site relied on the fallback as serif, it could potentially break if the default changed to sans-serif (especially since sans-serif seems to be wider)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734724998334102",
+			"parentId": "112734642975783934",
+			"url": "https://mastodon.social/@blogdiva/112734723978606356",
+			"author": {
+				"name": "your auntifa liza 🇵🇷  🦛 🦦",
+				"url": "https://mastodon.social/@blogdiva",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/649/552/828/625/044/original/97dd263dd469a515.png"
+			},
+			"date": "2024-07-05T16:02:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> had to re-read your ¿? and, yup, read it backwards. sorry about that. my dyslexia swaps whole words. misunderstood it as sans-serif the default and changing it to serif.  </p><p>been changing fonts for so long, didn't remember serif is the default. back in the day, screen dottiness made it hard for me to read most serif body. </p><p>there's another reason for my hating serifs for body: 16px is too small. ligatures blend at that size. i prefer serifs for headings, sidebars, even emphasis.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734728579505988",
+			"parentId": 0,
+			"url": "https://social.coop/@jsit/112734728104148451",
+			"author": {
+				"name": "Jay 🆘",
+				"url": "https://social.coop/@jsit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/708/588/220/354/original/c83a44dc38e1a5d9.png"
+			},
+			"date": "2024-07-05T16:03:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Every historical website and HTML document that didn’t specify a font would look different from the way it did when it was authored. I don’t like that idea.</p><p>Plus, as in vogue as sans-serifs are, serifs are still better for reading long text (for most people).</p><p>Is there a good reason to do this? Is it just because sans-serifs are cool? Might as well make browsers default to white text on black since everybody’s also obsessed with dark mode these days.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734735569362369",
+			"parentId": "112734728579505988",
+			"url": "https://social.coop/@jsit/112734734145333459",
+			"author": {
+				"name": "Jay 🆘",
+				"url": "https://social.coop/@jsit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/708/588/220/354/original/c83a44dc38e1a5d9.png"
+			},
+			"date": "2024-07-05T16:05:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If browsers chose defaults based on what’s trendy, they would have changed their default font size to 9px in the mid 2000s.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734783229884428",
+			"parentId": "112734717044161081",
+			"url": "https://mastodon.online/@colepeters/112734783182869026",
+			"author": {
+				"name": "Cole Peters",
+				"url": "https://mastodon.online/@colepeters",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-05T16:17:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I suppose if a layout was strictly dependent on the specific fallback's metrics? But even then, that layout would only be 'not broken' on platforms that made that specific fallback available 😅 (I realize this is all hypothetical and I don't have a strong opinion on it changing, just wanted to understand your point better)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734802509182584",
+			"parentId": "112734735569362369",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734802509182584",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T16:22:51.491Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.coop/@jsit\" class=\"u-url mention\">@<span>jsit</span></a></span> for the record I would vote 100%—just a curious poll to see what other folks think 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734815419173611",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dutchcelt/112734815234266438",
+			"author": {
+				"name": "Egor Kloos",
+				"url": "https://mastodon.social/@dutchcelt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/499/993/073/139/original/eec62045874b1273.jpeg"
+			},
+			"date": "2024-07-05T16:26:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wouldn't be upset, but it is a (visual) breaking change. Why would browsers do that? Same if they change the default serif font itself.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734817769168793",
+			"parentId": "112734783229884428",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734817769168793",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T16:26:44.340Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@colepeters\" class=\"u-url mention\">@<span>colepeters</span></a></span> I’m not sure we’re quite connecting on the point</p><p>If a serif label on a navigation menu suddenly changed to sans-serif, the assumptions about the dimensions at which it was coded (especially for responsive design breakpoints or text overflow) would change. Of course this would only impact sites that did not have font-family application styles but that’s certainly more than zero and would still count as breaking the web</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734820950037104",
+			"parentId": "112734815419173611",
+			"url": "https://fediverse.zachleat.com/@zachleat/112734820950037104",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T16:27:32.875Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dutchcelt\" class=\"u-url mention\">@<span>dutchcelt</span></a></span> I would assume that they wouldn’t do it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112734889161145512",
+			"parentId": "112734650405651917",
+			"url": "https://fosstodon.org/@rauschma/112734889062066854",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2024-07-05T16:44:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span><br>“Serif fonts for coding” by <span class=\"h-card\" translate=\"no\"><a href=\"https://bright.rosy-colored.space/@george\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>george</span></a></span><br><a href=\"https://www.georgeho.org/fonts-for-coding/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">georgeho.org/fonts-for-coding/</span><span class=\"invisible\"></span></a></p><p>– Could also work as a coding font: <a href=\"https://fonts.google.com/specimen/Courier+Prime\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fonts.google.com/specimen/Cour</span><span class=\"invisible\">ier+Prime</span></a><br>– Interestingly, even sans-serif coding fonts tend to add serifs to (e.g.): 1, I, l</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735205133568575",
+			"parentId": "112734506741274468",
+			"url": "https://mastodon.nu/@rkaj/112735205089841526",
+			"author": {
+				"name": "Rasmus Kaj 🎼🦀",
+				"url": "https://mastodon.nu/@rkaj",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/433/903/214/259/640/original/25bb96d27530e7c0.jpg"
+			},
+			"date": "2024-07-05T18:05:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Big nope.  Sites that relies on font metrics keeping the same has allways been broken on every computer except possibly on the specific client / version / desktop / settings  the developer / tester has used.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735319511412106",
+			"parentId": "112734650405651917",
+			"url": "https://indieweb.social/@data0/112735319467557893",
+			"author": {
+				"name": "data0",
+				"url": "https://indieweb.social/@data0",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/939/542/618/087/977/original/e114fc493641958e.webp"
+			},
+			"date": "2024-07-05T18:34:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> I'm a big fan of \"Go Mono\" for code <a href=\"https://go.dev/blog/go-fonts\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">go.dev/blog/go-fonts</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735344818377154",
+			"parentId": "112735319511412106",
+			"url": "https://fediverse.zachleat.com/@zachleat/112735344818377154",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T18:40:46.473Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@data0\" class=\"u-url mention\">@<span>data0</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\">@<span>rauschma</span></a></span> that’s how you know your language has made it—it has its own typeface</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735351881501905",
+			"parentId": 0,
+			"url": "https://moth.social/@pascal/112735351838886289",
+			"author": {
+				"name": "Pascal",
+				"url": "https://moth.social/@pascal",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-05T18:42:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lol at the concept of “50% upset”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735357033211679",
+			"parentId": "112735351881501905",
+			"url": "https://fediverse.zachleat.com/@zachleat/112735357033211679",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T18:43:52.857Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://moth.social/@pascal\" class=\"u-url mention\">@<span>pascal</span></a></span> I was a little proud at what I felt like was a novel polling method, thank you 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735923176246299",
+			"parentId": 0,
+			"url": "https://w3c.social/@dbaron/112735923135102632",
+			"author": {
+				"name": "L. David Baron",
+				"url": "https://w3c.social/@dbaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/020/837/438/878/original/91f919884e62ec17.jpg"
+			},
+			"date": "2024-07-05T21:07:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> These currently vary by script (Latin, Cyrillic, Greek, Arabic, Hebrew, etc.)  See example of Firefox defaults at <a href=\"https://searchfox.org/mozilla-central/rev/4e0f4c612589c23344f22285520a44a3f45c9e6e/modules/libpref/init/all.js#2009-2155\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">searchfox.org/mozilla-central/</span><span class=\"invisible\">rev/4e0f4c612589c23344f22285520a44a3f45c9e6e/modules/libpref/init/all.js#2009-2155</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735960442689622",
+			"parentId": "112735923176246299",
+			"url": "https://fediverse.zachleat.com/@zachleat/112735960442689622",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-05T21:17:20.155Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@dbaron\" class=\"u-url mention\">@<span>dbaron</span></a></span> Wild—I think I only see 3 variations in that giant list but the combinatorics here are quickly getting out of control</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735969967126619",
+			"parentId": "112735960442689622",
+			"url": "https://w3c.social/@dbaron/112735969910833247",
+			"author": {
+				"name": "L. David Baron",
+				"url": "https://w3c.social/@dbaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/020/837/438/878/original/91f919884e62ec17.jpg"
+			},
+			"date": "2024-07-05T21:19:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> For what it's worth, I'm not sure whether Chromium or WebKit do the same...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112735974748116407",
+			"parentId": "112734513444707173",
+			"url": "https://veganism.social/@MichalBryxi/112735974535379059",
+			"author": {
+				"name": "Michal Bryxí 🌱",
+				"url": "https://veganism.social/@MichalBryxi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/905/612/676/792/164/original/d9bc6d386e529ecc.png"
+			},
+			"date": "2024-07-05T21:20:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's an instant follow 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112737457348445722",
+			"parentId": "112734889161145512",
+			"url": "https://mastodon.social/@cjtype/112737457109698443",
+			"author": {
+				"name": "CJ Dunn",
+				"url": "https://mastodon.social/@cjtype",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/994/136/405/609/original/0773e18cb7e16900.jpeg"
+			},
+			"date": "2024-07-06T03:37:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bright.rosy-colored.space/@george\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>george</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> <br>My favorite serif typeface for coding is Input Serif by <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@djrrb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>djrrb</span></a></span> <br><a href=\"https://input.djr.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">input.djr.com</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112739941762254245",
+			"parentId": 0,
+			"url": "https://mindly.social/@setsly/112739941501608964",
+			"private": true,
+			"date": "2024-07-06T14:09:46.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112740174598019721",
+			"parentId": 0,
+			"url": "https://toot.cafe/@bkardell/112740174433691195",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2024-07-06T15:09:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Better...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112740762451649349",
+			"parentId": "112740174598019721",
+			"url": "https://aus.social/@lindsayevans/112740762382690808",
+			"author": {
+				"name": "Lindsay Evans",
+				"url": "https://aus.social/@lindsayevans",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-06T17:38:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bkardell</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> font-family: zinger; // 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue',  cursive</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112742348169650500",
+			"parentId": "112735974748116407",
+			"url": "https://fediverse.zachleat.com/@zachleat/112742348169650500",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-07T00:21:49.132Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://veganism.social/@MichalBryxi\" class=\"u-url mention\">@<span>MichalBryxi</span></a></span> 🙌🏻🙌🏻🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112744520715374831",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@niutech/112744520702213266",
+			"author": {
+				"name": "niu tech",
+				"url": "https://fosstodon.org/@niutech",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-07T09:34:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sans-serif font should be default in web browsers, to be consistent with system GUI fonts, which are always san-serif. Serif fonts such as Times New Roman are better suited for print rather than for display on websites.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112745031885443174",
+			"parentId": "112737457348445722",
+			"url": "https://mastodon.social/@saji/112745031853605634",
+			"author": {
+				"name": "Marek ‘saji’",
+				"url": "https://mastodon.social/@saji",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/280/034/854/421/original/8c9a94d4e3aa736a.png"
+			},
+			"date": "2024-07-07T11:44:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cjtype\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cjtype</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bright.rosy-colored.space/@george\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>george</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@djrrb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>djrrb</span></a></span> I've been using Iosevka for years<br><a href=\"https://typeof.net/Iosevka/customizer\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">typeof.net/Iosevka/customizer</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

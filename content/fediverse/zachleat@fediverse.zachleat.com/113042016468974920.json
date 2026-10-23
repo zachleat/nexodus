@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "113042093513958225",
+			"parentId": 0,
+			"url": "https://front-end.social/@geoff/113042093490164363",
+			"author": {
+				"name": "Geoff",
+				"url": "https://front-end.social/@geoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/689/995/232/027/original/e0fdff816b829068.jpg"
+			},
+			"date": "2024-08-28T22:50:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Haven't tested or anything, but my understanding is that it's not ready for prime-time as far as reliably announcing generated content, but removing it? The results could be inconsistent announcements and different impacts to the accName.</p><p><a href=\"https://adrianroselli.com/2020/10/alternative-text-for-css-generated-content.html#Takeaways\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">adrianroselli.com/2020/10/alte</span><span class=\"invisible\">rnative-text-for-css-generated-content.html#Takeaways</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113046807841321086",
+			"parentId": "113042093513958225",
+			"url": "https://fediverse.zachleat.com/@zachleat/113046807841321086",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-29T18:49:55.037Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@geoff\" class=\"u-url mention\">@<span>geoff</span></a></span> thank you for your perspective! I ended up rolling with an aria-hidden=&quot;true&quot; element instead.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051364449475503",
+			"parentId": "113046807841321086",
+			"url": "https://front-end.social/@geoff/113051364427272923",
+			"author": {
+				"name": "Geoff",
+				"url": "https://front-end.social/@geoff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/689/995/232/027/original/e0fdff816b829068.jpg"
+			},
+			"date": "2024-08-30T14:08:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Good call! I have it so stuck in my head that \"the first rule of ARIA is to not use ARIA\" that I often scramble for any other solution, but it's definitely the right approach.</p>",
+			"via": "fediverse"
+		}
+	]
+}

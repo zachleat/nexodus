@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3ljzx7mzmkc2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sturobson.com/post/3ljzx7mzmkc2z",
+			"author": {
+				"name": "Stuart Robson",
+				"url": "https://bsky.app/profile/sturobson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnut7bswvnl54dhflb4qofss/bafkreiedtdfrl3m5r2ghf2uayx3h35ktub2udzshrtfa5atvb35ntmp5ee"
+			},
+			"date": "2025-03-10T16:16:24.848Z",
+			"content": "<p>renaming this side project to \"Can I Baseline?\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzxy72xrk2y",
+			"parentId": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3ljzx7mzmkc2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzxy72xrk2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T16:30:09.079Z",
+			"content": "<p>I’M INTERESTED</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzy6ptvss2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3ljzy6ptvss2o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T16:33:48.000Z",
+			"content": "<p>We're definitely interested in talking more about this on the WebDX CG. Progressive enhancements, polyfills, and accessibility have come up multiple times in the past. So far, we've not been able to incorporate these aspects into Baseline calculation though. But I do believe we should.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzyhkr7uk2o",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzy6ptvss2o",
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3ljzyhkr7uk2o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T16:38:44.658Z",
+			"content": "<p>One of the things I've tried to steer the group towards in the first years of the project is to avoid \"hiding\" things that are not yet supported. Anything we can do to make features easier to discover/use, not harder, is valuable.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzzsqyty22s",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzyhkr7uk2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzzsqyty22s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T17:02:54.040Z",
+			"content": "<p>interesting! “hiding” in what view?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzzvsrys22o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzzsqyty22s",
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3ljzzvsrys22o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T17:04:36.577Z",
+			"content": "<p>As in, Baseline comes with the risk of hiding too many features from the web: those that aren't supported across browsers even though they're perfectly fine to use.<br>\nShowing a \"Limited\" Baseline banner on a doc website about a given feature comes with the risk of steering people away from it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk22hvr3y225",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzzvsrys22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lk22hvr3y225",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T17:14:43.673Z",
+			"content": "<p>Ah, I see — yeah. That dovetails back to Baseline missing some pieces if you want to encourage or discourage usage on a feature, imo! “Limited but safe!”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3lk22naoqcc2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk22hvr3y225",
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3lk22naoqcc2o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T17:17:42.902Z",
+			"content": "<p>Filed <a href=\"https://github.com/web-platform-dx/web-features/issues/2758\">github.com/web-platform...</a> to put it on our radar. We'll likely discuss at our next CG meeting (which you're more than welcome to join, details here: <a href=\"https://www.w3.org/community/webdx/\">www.w3.org/community/we...</a>), but please feel free to comment on the issue too.<br>\nPinging <a href=\"https://bsky.app/profile/did:plc:bm5d7drix5fs77sx44xbpyww\">@miriam.codes</a> who had made a similar point too.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk26lag3j22i",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3lk22naoqcc2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lk26lag3j22i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T18:28:10.477Z",
+			"content": "<p>appreciate you Patrick! 🙌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk4xzqasxc2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lk4xzqasxc2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-11T21:08:59.866Z",
+			"content": "<p>Some additional discussion is happening on this GitHub Issue: <a href=\"https://github.com/web-platform-dx/web-features/issues/2758\">github.com/web-platform...</a></p>\n<p>Thanks <a href=\"https://bsky.app/profile/did:plc:vcrxgrk7qttaunjut34oe5oq\">@patrickbrosset.com</a> for filing!</p>",
+			"via": "bluesky"
+		}
+	]
+}

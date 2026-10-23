@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3luau4zshy227",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3luau4zshy227",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-07-18T16:21:50.809Z",
+			"content": "<p>hi zach</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luaun36ahc2t",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3luau4zshy227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3luaun36ahc2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-18T16:30:49.113Z",
+			"content": "<p>mike our family was talking about the cheese pull on that chicago style pizza again the other day</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3luauwyl2z227",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luaun36ahc2t",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3luauwyl2z227",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-07-18T16:36:21.932Z",
+			"content": "<p>want another one? Say the word.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luavd54svc2x",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3luauwyl2z227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3luavd54svc2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-18T16:43:09.361Z",
+			"content": "<p>haha, that’s okay! I just wanted to say that it is now part of our family lore and I love that</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3luavfmowi227",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luavd54svc2x",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3luavfmowi227",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-07-18T16:44:32.793Z",
+			"content": "<p>would now be a good time to bring up an eleventy bug?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luavx2kkgk2r",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3luavfmowi227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3luavx2kkgk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-18T16:54:17.754Z",
+			"content": "<p>this is my penance</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3luaw5epn6c27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luavx2kkgk2r",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3luaw5epn6c27",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-07-18T16:57:49.734Z",
+			"content": "<p>j/k zach, it's perfect. Don't ever change it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dom5xpmepmtuk52jspdkb5sd/app.bsky.feed.post/3lubfapdap22r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kettanaito.com/post/3lubfapdap22r",
+			"author": {
+				"name": "Artem Zakharchenko",
+				"url": "https://bsky.app/profile/kettanaito.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dom5xpmepmtuk52jspdkb5sd/bafkreidv33nciljlu3mykrwsxub7zjx4nn7i7bcqt3hh5ncelt4jseorom"
+			},
+			"date": "2025-07-18T21:28:07.653Z",
+			"content": "<p>A friendly +1</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "113364314553909565",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@scubbo/113364314535493347",
+			"author": {
+				"name": "Jack Jackson",
+				"url": "https://fosstodon.org/@scubbo",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-24T20:36:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> looking forward to when I can get it working! I've copied/adapted tags from pages that it worked for (and updated my allowed domains), but no luck. It's not clear from the article whether it's your home server or the server that you view the post on that needs to be on the latest version - but that's my best guess.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364352600408935",
+			"parentId": "113364314553909565",
+			"url": "https://stefanbohacek.online/@stefan/113364352543178919",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/946/687/737/848/original/8b728a10cac32c70.png"
+			},
+			"date": "2024-10-24T20:45:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@scubbo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scubbo</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Are you testing with older posts that have already been shared?</p><p>Those preview cards can be cached for up to two weeks, so if that's the case, you might want to try posting a new article.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364547704200550",
+			"parentId": "113364352600408935",
+			"url": "https://fosstodon.org/@scubbo/113364547422942374",
+			"author": {
+				"name": "Jack Jackson",
+				"url": "https://fosstodon.org/@scubbo",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-24T21:35:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stefanbohacek.online/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ooh, caching is a good point - I'd cleared my CDN's cache, but didn't consider that Mastodon itself might have a cache. Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113364555172371984",
+			"parentId": "113364547704200550",
+			"url": "https://stefanbohacek.online/@stefan/113364555126619339",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/946/687/737/848/original/8b728a10cac32c70.png"
+			},
+			"date": "2024-10-24T21:37:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@scubbo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scubbo</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No problem, hope this fixes it for you!</p>",
+			"via": "fediverse"
+		}
+	]
+}

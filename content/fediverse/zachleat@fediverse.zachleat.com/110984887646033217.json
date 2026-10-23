@@ -1,0 +1,246 @@
+{
+	"comments": [
+		{
+			"id": "110984915662339438",
+			"parentId": 0,
+			"url": "https://front-end.social/@sarajw/110984915607295452",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-08-31T15:23:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think from the responses there is a question about what \"poor\" colour contrast is, though. Several people struggled when the contrast was too high, as well as too low.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110984935644033962",
+			"parentId": 0,
+			"url": "https://mastodon.me.uk/@agvbergin/110984935551495860",
+			"private": true,
+			"date": "2023-08-31T15:28:40.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110984938338243414",
+			"parentId": "110984915662339438",
+			"url": "https://mstdn.social/@mattwilcox/110984938085720195",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2023-08-31T15:29:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> This is the trouble with getting into the whole contrast area of thought: there is no \"one good design\". For some people, whatever you do it's too high contrast, too low contrast, too much glare, etc etc. Heck even the color contrast algo in the a11y criteria is wonky compared with how most people see colours. <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110984944085290528",
+			"parentId": "110984938338243414",
+			"url": "https://mstdn.social/@mattwilcox/110984943937919537",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2023-08-31T15:30:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> (I also happen to think a lot of the preferences depends on the literal physical context of where people are sitting looking at screens, which in turn depends on the time of day they do it, which direction the room and windows are facing, etc. It's all massively subjective.) <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110984978154674220",
+			"parentId": "110984935644033962",
+			"url": "https://fosstodon.org/@isaacs/110984978094264707",
+			"author": {
+				"name": "isaacs",
+				"url": "https://fosstodon.org/@isaacs",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/410/145/603/597/original/1e1125f7e3894371.png"
+			},
+			"date": "2023-08-31T15:39:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.me.uk/@agvbergin\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>agvbergin</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh! Is my astigmatism why dark mode usually feels like nails on a chalkboard in my eyes? I just figured it was a tism thing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110985030982947760",
+			"parentId": "110984944085290528",
+			"url": "https://front-end.social/@sarajw/110985030625283809",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-08-31T15:52:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no, I agree. Ravelry had terrible redesign backlash from people getting headaches, when moving from a lower contrast rounded edges design to something more angular and high contrast.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110985056715929506",
+			"parentId": 0,
+			"url": "https://toot.io/@synlogic/110985056663143698",
+			"author": {
+				"name": "synlogic",
+				"url": "https://toot.io/@synlogic",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-08-31T15:59:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> as a rule nobody should declare out in a public forum they have any kind of disability or health problem. it will get scraped up by data miners and be used \"against\" the person both by advertisers, potential employers, and other predators. and data lasts forever and can be duplicated and shared infinitely behind the scenes. I appreciate your goal tho</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110985440553693746",
+			"parentId": "110984915662339438",
+			"url": "https://front-end.social/@hmig/110985438938223443",
+			"author": {
+				"name": "Heather Migliorisi",
+				"url": "https://front-end.social/@hmig",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/585/044/998/658/original/c8e92825ca3632aa.png"
+			},
+			"date": "2023-08-31T17:36:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>THIS so much. I usually use dark mode + plus have the device contrast turned down so much I’m the only one that can see/read it (to prevent migraines).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110985447228518014",
+			"parentId": "110985440553693746",
+			"url": "https://front-end.social/@hmig/110985447194862009",
+			"author": {
+				"name": "Heather Migliorisi",
+				"url": "https://front-end.social/@hmig",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/585/044/998/658/original/c8e92825ca3632aa.png"
+			},
+			"date": "2023-08-31T17:38:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> - I don’t think we talk enough about the sweet spot/Goldilocks of color contrast…enough, but not too much.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110985919813366771",
+			"parentId": "110985447228518014",
+			"url": "https://yatil.social/@yatil/110985919755822134",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2023-08-31T19:38:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Totally. Plus we finally need to get the user preferences in browsers and guidelines of how to best support high/low contrast preferences to developers. It looked imminent a few years ago and still hasn’t really happened.</p><p>Everyone pretends that more contrast is always better, but in reality it hardly ever is for anyone.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110985931335166347",
+			"parentId": "110985919813366771",
+			"url": "https://front-end.social/@sarajw/110985929529932047",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-08-31T19:41:27.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not wanting to be tooting my own horn - but I wrote a little about this stuff a while ago. Starting to think it'd make a nice little lightning talk... still feels pretty relevant anyway: <a href=\"https://sarajoy.dev/blog/a11y-aspects/#contrast-levels\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sarajoy.dev/blog/a11y-aspects/</span><span class=\"invisible\">#contrast-levels</span></a></p><p>Edit: if you click the card instead of the link, you'll go to the top of the article. Open the ToC and find the Contrast Levels section, for the relevant part :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110985978196723178",
+			"parentId": "110985931335166347",
+			"url": "https://yatil.social/@yatil/110985978139544121",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2023-08-31T19:53:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Please do the own-horn-tooting! This is a great article! (Funny enough, I have seen a lot of people use “Windows High Contrast Mode” to actually specify low contrast colors in the past. I guess that is why they renamed it eventually.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110986060346613860",
+			"parentId": "110985978196723178",
+			"url": "https://front-end.social/@sarajw/110986058819351516",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-08-31T20:14:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span><br>Thank you! And thanks for the repost to your link stream thing 🙏</p><p>The contrast bit could probably do with some more research and become an article/talk in its own right..</p><p><span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110986074561134470",
+			"parentId": "110986060346613860",
+			"url": "https://yatil.social/@yatil/110986074511569164",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2023-08-31T20:18:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think it could be a good thing to dig into! It’s a fascinating topic because the needs are very diverse. (That’s one reason why I find the discussion on what contrast algorithm is the best not too useful.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110986081766458442",
+			"parentId": "110986074561134470",
+			"url": "https://front-end.social/@sarajw/110986081714270553",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-08-31T20:20:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> agreed.</p><p>I would love it if eventually on my company's website I could bring about essentially 4 modes, high contrast light, high contrast dark, lower contrast light, lower contrast dark. The thing is so complex though it'd be a huge challenge. Way easier to implement the two little toggles on my own site.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110986158360036355",
+			"parentId": "110986081766458442",
+			"url": "https://indieweb.social/@iamschulz/110986158344617270",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2023-08-31T20:39:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  I added a theme slider instead of a switch to my site, as a joke initially. But in the light of finding a brightness/contrast sweet spot, this pattern could be useful?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110986175378316738",
+			"parentId": "110986158360036355",
+			"url": "https://front-end.social/@sarajw/110986175328191947",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-08-31T20:43:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@iamschulz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>iamschulz</span></a></span> <span class=\"h-card\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah I think so! While being playful at the same time.</p><p>I know that my personal site main theme has some dodgy low contrast in places especially as each tab gets lighter in the dark mode version, that's why I decided to add a contrast toggle</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110990568321979894",
+			"parentId": "110985931335166347",
+			"url": "https://front-end.social/@hmig/110990568260067533",
+			"author": {
+				"name": "Heather Migliorisi",
+				"url": "https://front-end.social/@hmig",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/585/044/998/658/original/c8e92825ca3632aa.png"
+			},
+			"date": "2023-09-01T15:21:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> - this is great! Thank you for sharing!</p><p><span class=\"h-card\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110990720592666769",
+			"parentId": "110990568321979894",
+			"url": "https://front-end.social/@sarajw/110990720534544269",
+			"author": {
+				"name": "Sara Joy :happy_pepper:",
+				"url": "https://front-end.social/@sarajw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
+			},
+			"date": "2023-09-01T15:59:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@hmig\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hmig</span></a></span><br>You're so welcome! One of these days I'll get around to repackaging that section into its own post, as the sections before and after it are already very well covered in general </p><p><span class=\"h-card\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

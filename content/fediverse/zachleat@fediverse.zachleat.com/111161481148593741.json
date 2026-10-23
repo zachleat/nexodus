@@ -1,0 +1,759 @@
+{
+	"comments": [
+		{
+			"id": "111161554872730462",
+			"parentId": 0,
+			"url": "https://mastodon.social/@joshwayne/111161554739268523",
+			"author": {
+				"name": "Josh Wayne",
+				"url": "https://mastodon.social/@joshwayne",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-01T20:05:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If you don't end up finishing it, I've been using Plausible and it's been lovely.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161556341148437",
+			"parentId": 0,
+			"url": "https://mastodon.social/@slack/111161556291536742",
+			"author": {
+				"name": "Matt Slack",
+				"url": "https://mastodon.social/@slack",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/549/604/554/781/original/79b127daf107e7e6.jpg"
+			},
+			"date": "2023-10-01T20:05:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sounds easier than dealing with the UI of the new google analytics.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161633002682197",
+			"parentId": 0,
+			"url": "https://newsie.social/@ryanbmarx/111161632822203876",
+			"author": {
+				"name": "Ryan Marx",
+				"url": "https://newsie.social/@ryanbmarx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/557/625/492/201/956/original/a6bb110a8a371132.jpg"
+			},
+			"date": "2023-10-01T20:25:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh, Zach…. No!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161638114643480",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jamienk/111161637990621180",
+			"author": {
+				"name": "JK",
+				"url": "https://mastodon.social/@jamienk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/389/050/814/889/663/original/eff94124667f2df9.jpg"
+			},
+			"date": "2023-10-01T20:26:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Just installed Matomo -- meets all the needs of all my clients and everyone I ever worked with. People fantasize about getting their Analytics going hard-core, but I have not seen a successful and complex use-case; only simple ones.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161640647012017",
+			"parentId": 0,
+			"url": "https://social.lol/@nullsprite/111161640604753034",
+			"author": {
+				"name": "NullSprite",
+				"url": "https://social.lol/@nullsprite",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/703/316/293/159/735/original/5e66ca4cba310185.png"
+			},
+			"date": "2023-10-01T20:27:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Or just go for Plausible and be done with it. Unless you're a geek, of course, in which case of COURSE you're gonna write your own library because that is what geeks do.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161697580237007",
+			"parentId": "111161554872730462",
+			"url": "https://fediverse.zachleat.com/@zachleat/111161697580237007",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-01T20:41:35.206Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@joshwayne\" class=\"u-url mention\">@<span>joshwayne</span></a></span> ah, looks like that might cost me $50/month 😭 too much for my personal web site</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161700584524563",
+			"parentId": 0,
+			"url": "https://webperf.social/@steveworkman/111161700540940632",
+			"author": {
+				"name": "Steve Workman",
+				"url": "https://webperf.social/@steveworkman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/373/082/965/327/761/original/9c60aa6a353154c3.jpg"
+			},
+			"date": "2023-10-01T20:42:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I mean, why not just ditch it. Who needs to know how many visitors you have anyway. Just guess from server side requests and write for yourself, not your stats</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161704599284249",
+			"parentId": "111161700584524563",
+			"url": "https://fediverse.zachleat.com/@zachleat/111161704599284249",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-01T20:43:22.308Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@steveworkman\" class=\"u-url mention\">@<span>steveworkman</span></a></span> normally I’d agree but I am trying to keep this section of my web site accurate: <a href=\"https://www.zachleat.com/web/best-of/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/best-of/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161711978866141",
+			"parentId": "111161640647012017",
+			"url": "https://fediverse.zachleat.com/@zachleat/111161711978866141",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-01T20:45:14.911Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@nullsprite\" class=\"u-url mention\">@<span>nullsprite</span></a></span> OF COURSE 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161714228445518",
+			"parentId": "111161638114643480",
+			"url": "https://fediverse.zachleat.com/@zachleat/111161714228445518",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-01T20:45:49.237Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jamienk\" class=\"u-url mention\">@<span>jamienk</span></a></span> I have no ambitions beyond a simple counter for pageviews 🤷🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161909978110586",
+			"parentId": "111161697580237007",
+			"url": "https://mastodon.social/@joshwayne/111161909917925752",
+			"author": {
+				"name": "Josh Wayne",
+				"url": "https://mastodon.social/@joshwayne",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-01T21:35:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there's a self hosted version <a href=\"https://github.com/plausible/analytics\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/plausible/analytics</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161938892811882",
+			"parentId": 0,
+			"url": "https://mastodon.social/@knaackbuilt/111161938865857473",
+			"author": {
+				"name": "knaaaaaack",
+				"url": "https://mastodon.social/@knaackbuilt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/929/989/207/421/original/24d790cc88e81ae0.png"
+			},
+			"date": "2023-10-01T21:42:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> GA4 is only 146GB of js remote loaded from a server using all of a small towns water supply to cool it, what’s the big deal?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111161998946211542",
+			"parentId": 0,
+			"url": "https://mastodon.social/@qbunt/111161998922342087",
+			"author": {
+				"name": "Jeremy Bunting",
+				"url": "https://mastodon.social/@qbunt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/840/458/818/272/original/3abbeff47fb15eab.jpeg"
+			},
+			"date": "2023-10-01T21:58:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if you’ve got a place to run a container, this ain’t bad <a href=\"https://github.com/umami-software/umami\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/umami-software/umam</span><span class=\"invisible\">i</span></a> but sometimes you just need to do that</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162092966252579",
+			"parentId": 0,
+			"url": "https://mastodon.social/@peruvianidol/111162092932550120",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-10-01T22:22:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Eleventy 3.0?? 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162099389444607",
+			"parentId": "111162092966252579",
+			"url": "https://fediverse.zachleat.com/@zachleat/111162099389444607",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-01T22:23:46.328Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@peruvianidol\" class=\"u-url mention\">@<span>peruvianidol</span></a></span> you ever take a break from writing code to write other code</p><p>me either, no, that would be silly</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162100695705991",
+			"parentId": "111161938892811882",
+			"url": "https://fediverse.zachleat.com/@zachleat/111162100695705991",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-01T22:24:06.260Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@knaackbuilt\" class=\"u-url mention\">@<span>knaackbuilt</span></a></span> does it AI though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162102355226251",
+			"parentId": "111162099389444607",
+			"url": "https://mastodon.social/@peruvianidol/111162102274306219",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-10-01T22:24:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My trick is to not start writing code in the first place.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162171956350588",
+			"parentId": "111161909978110586",
+			"url": "https://fediverse.zachleat.com/@zachleat/111162171956350588",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-01T22:42:13.611Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@joshwayne\" class=\"u-url mention\">@<span>joshwayne</span></a></span> ah nice! The WordPress model of OSS</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162179049474506",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cferdinandi/111162178769574158",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-10-01T22:43:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> will you OSS it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162242105400029",
+			"parentId": "111162100695705991",
+			"url": "https://mastodon.social/@knaackbuilt/111162241934548726",
+			"author": {
+				"name": "knaaaaaack",
+				"url": "https://mastodon.social/@knaackbuilt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/929/989/207/421/original/24d790cc88e81ae0.png"
+			},
+			"date": "2023-10-01T23:00:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ::slaps hood of ga4:: you can fit an entire antitrust lawsuits worth of AI in here! <a href=\"https://mastodon.social/tags/insertmeme\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>insertmeme</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162363507739308",
+			"parentId": "111161714228445518",
+			"url": "https://front-end.social/@shaunrashid/111162363494383980",
+			"author": {
+				"name": "shaunrashid",
+				"url": "https://front-end.social/@shaunrashid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/366/900/658/385/039/original/ec9e148dd68b8c92.jpeg"
+			},
+			"date": "2023-10-01T23:30:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jamienk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jamienk</span></a></span> Have you released it yet?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162446648014771",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@uncenter/111162446637981388",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2023-10-01T23:52:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Another person already mentioned this but I just have to second it... <a href=\"https://github.com/umami-software/umami\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/umami-software/umam</span><span class=\"invisible\">i</span></a> is really great. You can see how I used the API on my website here: <a href=\"https://github.com/uncenter/uncenter.dev/blob/main/utils/umami.js\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/uncenter/uncenter.d</span><span class=\"invisible\">ev/blob/main/utils/umami.js</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162447195153774",
+			"parentId": "111161714228445518",
+			"url": "https://mastodon.social/@jamienk/111162447167952370",
+			"author": {
+				"name": "JK",
+				"url": "https://mastodon.social/@jamienk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/389/050/814/889/663/original/eff94124667f2df9.jpg"
+			},
+			"date": "2023-10-01T23:52:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://matomo.org/faq/on-premise/installing-matomo/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">matomo.org/faq/on-premise/inst</span><span class=\"invisible\">alling-matomo/</span></a></p><p>Took a few min to set up - I'm using LAMP anyway so this was a good for for me.Now that I know how it works I can use it for future projects. It has an API so I can create my own interface to show clients their stats.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162462515403672",
+			"parentId": "111162446648014771",
+			"url": "https://fosstodon.org/@uncenter/111162462501950319",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2023-10-01T23:56:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Those functions I linked to from my website above are used here:<br><a href=\"https://github.com/uncenter/uncenter.dev/blob/main/src/posts/posts.11tydata.js#L20-L25\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/uncenter/uncenter.d</span><span class=\"invisible\">ev/blob/main/src/posts/posts.11tydata.js#L20-L25</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111162630558382895",
+			"parentId": 0,
+			"url": "https://mastodon.social/@djwebdroid/111162630527404377",
+			"author": {
+				"name": "Djwebdroid",
+				"url": "https://mastodon.social/@djwebdroid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/927/822/142/106/366/original/700f873bb605e8ea.jpg"
+			},
+			"date": "2023-10-02T00:38:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> eleventy-plugin-stats</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111163768930827099",
+			"parentId": 0,
+			"url": "https://mastodon.social/@romanvesely/111163768896890070",
+			"author": {
+				"name": "Roman Vesely",
+				"url": "https://mastodon.social/@romanvesely",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/503/061/545/195/758/original/37bd29eeb7e180d1.jpg"
+			},
+			"date": "2023-10-02T05:28:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Maybe take a look also at <a href=\"https://www.goatcounter.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">goatcounter.com/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111164663892765193",
+			"parentId": 0,
+			"url": "https://mastodon.social/@erikKroes/111164663853238131",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2023-10-02T09:15:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Let me quickly summarize why I think that's a bad idea </p><p>(1/132)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111164683027818747",
+			"parentId": 0,
+			"url": "https://todon.nl/@murb/111164682950878099",
+			"author": {
+				"name": "maarten brouwers",
+				"url": "https://todon.nl/@murb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/528/173/472/582/original/a1dd67bc45c0a324.jpeg"
+			},
+			"date": "2023-10-02T09:20:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you knew <a href=\"https://www.awstats.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">awstats.org/</span><span class=\"invisible\"></span></a> still exists?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111164764183739863",
+			"parentId": 0,
+			"url": "https://corteximplant.com/@kaiserkiwi/111164764143750271",
+			"author": {
+				"name": "kaiserkiwi :kiwibird:",
+				"url": "https://corteximplant.com/@kaiserkiwi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/456/449/592/494/865/original/1cf4b0eb55610054.jpeg"
+			},
+			"date": "2023-10-02T09:41:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I had to work with Google Analytics 4 at work. It's much easier to write it for your own needs completely from scratch.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165638699600818",
+			"parentId": "111164764183739863",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165638699600818",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:23:51.917Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://corteximplant.com/@kaiserkiwi\" class=\"u-url mention\">@<span>kaiserkiwi</span></a></span> my sincerest condolences 💐</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165642687498955",
+			"parentId": "111164683027818747",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165642687498955",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:24:52.767Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://todon.nl/@murb\" class=\"u-url mention\">@<span>murb</span></a></span> for sure! that’s OG, I remember using it years and years ago</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165644931007639",
+			"parentId": "111164663892765193",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165644931007639",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:25:27.004Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@erikKroes\" class=\"u-url mention\">@<span>erikKroes</span></a></span> erik I think your thread got cut off</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165650700155593",
+			"parentId": "111163768930827099",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165650700155593",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:26:55.031Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@romanvesely\" class=\"u-url mention\">@<span>romanvesely</span></a></span> yeah, this is one that I seriously considered! I was leery of yet another third party script that didn’t use subresource integrity</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165651939513823",
+			"parentId": "111162630558382895",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165651939513823",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:27:13.943Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@djwebdroid\" class=\"u-url mention\">@<span>djwebdroid</span></a></span> now we’re talking</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165655647965058",
+			"parentId": "111162446648014771",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165655647965058",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:28:10.528Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> that pricing is decent!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165657530230912",
+			"parentId": "111165644931007639",
+			"url": "https://mastodon.social/@erikKroes/111165657444773264",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2023-10-02T13:28:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> omg twitter engineers must've taken over</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165670491330847",
+			"parentId": "111162363507739308",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165670491330847",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:31:57.021Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@shaunrashid\" class=\"u-url mention\">@<span>shaunrashid</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jamienk\" class=\"u-url mention\">@<span>jamienk</span></a></span> not sure if I will open source this one yet—gonna let it run and see how far it can get on this database free tier first</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165676998804034",
+			"parentId": "111162179049474506",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165676998804034",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:33:36.318Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> I want to see how far it goes on this database’s free tier before I release anything</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165679144663890",
+			"parentId": "111165657530230912",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165679144663890",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:34:09.060Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@erikKroes\" class=\"u-url mention\">@<span>erikKroes</span></a></span> defederate defederate defederate defederate defederate defederate defederate defederate defederate defederate defederate defederate</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165687307254025",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111165687307254025",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T13:36:13.609Z",
+			"content": "<p>Well, it’s working. Can it survive a month on FaunaDB’s free tier? Only time will tell 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165815479408300",
+			"parentId": "111165687307254025",
+			"url": "https://mastodon.social/@scrwd/111165814889923916",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-10-02T14:08:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Elizabeacon - I like it haha. Would be even cooler if beacon sent HEAD requests!</p><p>Other options you could have gone with:</p><p>Mmm...beacon</p><p>Sir Francis Beacon (his famous motto; \"bene visit qui bene latuit - one lives best by the hidden life\" seams to make some sense for analytics)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165840159836240",
+			"parentId": "111165655647965058",
+			"url": "https://fosstodon.org/@uncenter/111165840137513727",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2023-10-02T14:15:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I self host it for free actually, but their Umami Cloud plans are pretty great. On Railway I can get away with just using the free credits on the Hobby plan!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165849860383441",
+			"parentId": "111165840159836240",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165849860383441",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T14:17:33.975Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> awesome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165937243239490",
+			"parentId": "111165676998804034",
+			"url": "https://mastodon.social/@cferdinandi/111165937126740835",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-10-02T14:39:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Out of curiosity, it is JS-based or are you using server-based approaches?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111165939987037469",
+			"parentId": "111165937243239490",
+			"url": "https://fediverse.zachleat.com/@zachleat/111165939987037469",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T14:40:29.199Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> just one <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.mozilla.org/en-US/do</span><span class=\"invisible\">cs/Web/API/Navigator/sendBeacon</span></a> call which is blocked by ad-blockers, fairly enough. In my experience server-based stuff over-estimates because it includes bot-traffic</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111166041134961062",
+			"parentId": "111165815479408300",
+			"url": "https://fediverse.zachleat.com/@zachleat/111166041134961062",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-02T15:06:12.593Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\">@<span>scrwd</span></a></span> oh my god sir francis beacon, can I use that instead</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111166059717032161",
+			"parentId": "111166041134961062",
+			"url": "https://mastodon.social/@scrwd/111166059563843554",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-10-02T15:10:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ha, I think he is long dead and past caring tbh.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052491369680287",
+			"parentId": "111165687307254025",
+			"url": "https://fediverse.zachleat.com/@zachleat/113052491369680287",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T18:55:18.797Z",
+			"content": "<p>Update: looks like my traffic spiked a bit and FaunaDB disabled my account and deleted my data from this project 😅</p><p>Glad I didn’t share this approach—I guess extortion is one way to upsell from the free tier :eyeroll:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052504645656780",
+			"parentId": "113052491369680287",
+			"url": "https://fediverse.zachleat.com/@zachleat/113052504645656780",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T18:58:41.372Z",
+			"content": "<p>Saved the analytics data out of the @11ty/eleventy-fetch cache on my build server, so *pffft* 😛</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052632639501168",
+			"parentId": "113052491369680287",
+			"url": "https://mastodon.social/@jawnsy/113052632564899383",
+			"private": true,
+			"date": "2024-08-30T19:31:13.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052638226310066",
+			"parentId": "113052632639501168",
+			"url": "https://fediverse.zachleat.com/@zachleat/113052638226310066",
+			"private": true,
+			"date": "2024-08-30T19:32:39.652Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052658564218748",
+			"parentId": "113052491369680287",
+			"url": "https://mastodon.cthos.dev/@cthos/113052658508850660",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-30T19:37:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ...they...they what now?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052660909766249",
+			"parentId": "113052638226310066",
+			"url": "https://hackers.town/@yuki2501/113052660467715541",
+			"private": true,
+			"date": "2024-08-30T19:38:19.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052665504137591",
+			"parentId": "113052658564218748",
+			"url": "https://fediverse.zachleat.com/@zachleat/113052665504137591",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T19:39:35.880Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> found this, in retrospect 👼</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052673199193716",
+			"parentId": "113052665504137591",
+			"url": "https://mastodon.cthos.dev/@cthos/113052673144248062",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-30T19:41:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nuking your data and disallowing access to it is a bit...extreme? They _could_ have just disabled read/write access (or just write access, if they want to be polite). </p><p>That's a ... bold ... strategy</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052685645992572",
+			"parentId": "113052673199193716",
+			"url": "https://fediverse.zachleat.com/@zachleat/113052685645992572",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T19:44:43.220Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> they were very polite 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052687297124273",
+			"parentId": "113052660909766249",
+			"url": "https://fediverse.zachleat.com/@zachleat/113052687297124273",
+			"private": true,
+			"date": "2024-08-30T19:45:08.415Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052739309127362",
+			"parentId": "113052491369680287",
+			"url": "https://mastodon.social/@djwebdroid/113052739273475084",
+			"author": {
+				"name": "Djwebdroid",
+				"url": "https://mastodon.social/@djwebdroid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/927/822/142/106/366/original/700f873bb605e8ea.jpg"
+			},
+			"date": "2024-08-30T19:58:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Interested to know what might be your replacement solution! Please let us know! :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052785417710652",
+			"parentId": "113052687297124273",
+			"url": "https://mastodon.social/@jawnsy/113052785342136929",
+			"private": true,
+			"date": "2024-08-30T20:10:04.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113052806002976816",
+			"parentId": "113052673199193716",
+			"url": "https://fosstodon.org/@ttntm/113052805967439865",
+			"author": {
+				"name": "Tom",
+				"url": "https://fosstodon.org/@ttntm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/757/543/218/928/648/original/fc6107a3063f13c6.jpg"
+			},
+			"date": "2024-08-30T20:15:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cthos</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> afaik they don't have backups readily available either (in the UI, free plan) - had to roll my own when I realized.</p><p>I used to be quite fond of their service, never ran into issues, even with multi-user production apps. I guess enshittification continues, and that we're all better off going back to mySql on our own boxes for things that matter 😢</p>",
+			"via": "fediverse"
+		}
+	]
+}

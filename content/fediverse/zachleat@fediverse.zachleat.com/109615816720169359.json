@@ -1,0 +1,140 @@
+{
+	"comments": [
+		{
+			"id": "109615846220949295",
+			"parentId": 0,
+			"url": "https://chaos.social/@frederic/109615845995863526",
+			"private": true,
+			"date": "2023-01-01T20:31:11.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109615855489784250",
+			"parentId": "109615846220949295",
+			"url": "https://indieweb.social/@charlesroper/109615855456670871",
+			"private": true,
+			"date": "2023-01-01T20:33:36.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109615880213188916",
+			"parentId": "109615855489784250",
+			"url": "https://fediverse.zachleat.com/@zachleat/109615880213188916",
+			"private": true,
+			"date": "2023-01-01T20:39:54.076Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109615951843434120",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cjtype/109615951810580571",
+			"author": {
+				"name": "CJ Dunn",
+				"url": "https://mastodon.social/@cjtype",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/994/136/405/609/original/0773e18cb7e16900.jpeg"
+			},
+			"date": "2023-01-01T20:58:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hex Franklin?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109616154652850676",
+			"parentId": "109615951843434120",
+			"url": "https://fediverse.zachleat.com/@zachleat/109616154652850676",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-01T21:49:41.694Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cjtype\" class=\"u-url mention\">@<span>cjtype</span></a></span> tyght!! 🥰</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109616208947310924",
+			"parentId": "109615846220949295",
+			"url": "https://tech.lgbt/@css/109616208917163269",
+			"private": true,
+			"date": "2023-01-01T22:03:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109616657007366442",
+			"parentId": 0,
+			"url": "https://mastodon.social/@simevidas/109616656924330801",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2023-01-01T23:57:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Does font-weight: 900 serve as a fallback? Some browsers might attempt to synthesize that weight.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109616863883393267",
+			"parentId": "109616657007366442",
+			"url": "https://fediverse.zachleat.com/@zachleat/109616863883393267",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-02T00:50:03.691Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@simevidas\" class=\"u-url mention\">@<span>simevidas</span></a></span> do you see a fallback case in play? I have it listed in both my @font-face blocks and usage instances</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109617127784895054",
+			"parentId": "109616863883393267",
+			"url": "https://mastodon.social/@simevidas/109617127744009496",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2023-01-02T01:57:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was confused because Hex Franklin Tight does not have a \"wght\" axis, so the number 900 seemed wrong. I guess, it would be simpler to just use font-weight: bold in both places. Or even simpler, to not set font-weight anywhere, but instead set font-synthesis: none to prevent the browser from messing with the font.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109625880141648056",
+			"parentId": "109617127784895054",
+			"url": "https://fediverse.zachleat.com/@zachleat/109625880141648056",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-03T15:03:00.871Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@simevidas\" class=\"u-url mention\">@<span>simevidas</span></a></span> if you don’t set it, it’s implied to 400 which I believe would synthesize on an h1, via browser default bold. That said, I didn’t realize that font-synthesis browser support was so good now wow!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109625935389986971",
+			"parentId": 0,
+			"url": "https://typo.social/@pixelambacht/109625935269573284",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2023-01-03T15:17:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Subtle schmubtle! Looks good!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109625958714401387",
+			"parentId": "109625935389986971",
+			"url": "https://fediverse.zachleat.com/@zachleat/109625958714401387",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-03T15:22:59.795Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@pixelambacht\" class=\"u-url mention\">@<span>pixelambacht</span></a></span> thanks Roel!</p>",
+			"via": "fediverse"
+		}
+	]
+}

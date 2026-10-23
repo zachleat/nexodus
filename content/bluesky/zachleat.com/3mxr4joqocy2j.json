@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3mxr7wy44f22z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bram.us/post/3mxr7wy44f22z",
+			"author": {
+				"name": "Bramus",
+				"url": "https://bsky.app/profile/bram.us",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:343p6xcgmvkpz5abgezlgyep/bafkreigkuhuvdn6qvnizxa3agd26bvtkc7xmw5uqjnyh3g4zun4bxhzrsq"
+			},
+			"date": "2026-10-13T14:17:35.383Z",
+			"content": "<p>And the technique was first documented and implemented by … me 😊</p>\n<p><a href=\"https://www.bram.us/2024/02/18/custom-highlight-api-for-syntax-highlighting/\">www.bram.us/2024/02/18/c...</a></p>\n<p>(As noted in my post: it was <a href=\"https://bsky.app/profile/did:plc:gyalyilwlk6nwv7lcg3ss6ez\">@tabatkins.com</a> and Emilio (<a href=\"https://crisal.io\">crisal.io</a>) who came up with the technique at the CSS WG F2F meeting back in Feb 2024)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mxraky4u6c27",
+			"parentId": "at://did:plc:343p6xcgmvkpz5abgezlgyep/app.bsky.feed.post/3mxr7wy44f22z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mxraky4u6c27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-13T14:28:46.502Z",
+			"content": "<p>I love blog posts</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fwwj6s76fbawnusbgnjgrswz/app.bsky.feed.post/3mxreimugkc2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/gavmck.bsky.social/post/3mxreimugkc2z",
+			"author": {
+				"name": "Gavyn McKenzie ",
+				"url": "https://bsky.app/profile/gavmck.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fwwj6s76fbawnusbgnjgrswz/bafkreielneoppefkbkedzbmrangujpjg4esjw2yz6uf5g52zoxhlvazqta"
+			},
+			"date": "2026-10-13T15:39:02.549Z",
+			"content": "<p>Whoa, that's neat!</p>",
+			"via": "bluesky"
+		}
+	]
+}

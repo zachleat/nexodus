@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "111256544609746259",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/111256544496759299",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-10-18T14:42:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you think the JavaScript community is self-aware that they’ve poured all their energy into a tool ecosystem they don’t own?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257086683388749",
+			"parentId": "111256544609746259",
+			"url": "https://fediverse.zachleat.com/@zachleat/111257086683388749",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T17:00:17.411Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> do you mean the editor ecosystem or the framework ecosystem? I’m not sure. I’m tempted to blame the erosion of privacy norms in the US. EU folks seem to take a more principled approach, thankfully.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257114327764702",
+			"parentId": "111257086683388749",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111257114202128243",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-10-18T17:07:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Well, mostly the editor ecosystem, but I fear the line between the two begins to blur when you talk about LSP implementations.</p><p>Most LSP implementations have a thick veneer of VSCode around them, which, imho reduces choice in tooling for the majority of folks.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257123444444366",
+			"parentId": "111257114327764702",
+			"url": "https://fediverse.zachleat.com/@zachleat/111257123444444366",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T17:09:38.339Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> this is my first time hearing about LSP 👀👀👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257160195656121",
+			"parentId": "111257123444444366",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111257160056996734",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-10-18T17:18:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh dear… scan the article again. TL;DR: Some language servers being pushed have restrictive licensing, which means they can only be used within VSCode.</p><p>I think this will be the standard approach moving forward.</p><p>More info: <a href=\"https://langserver.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">langserver.org/</span><span class=\"invisible\"></span></a> (fun activity: Search for Microsoft on the page)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257357670416730",
+			"parentId": "111257160195656121",
+			"url": "https://fediverse.zachleat.com/@zachleat/111257357670416730",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T18:09:12.344Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> whew, yeah. Hm. My personal experience is that I’m pretty editor fluid. I’ve switched editors many times in my career. If I had to fast forward twenty years I’d guess that future-me will be recommending vim (though I don’t use it now) 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

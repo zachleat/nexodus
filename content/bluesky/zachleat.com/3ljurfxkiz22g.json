@@ -1,0 +1,330 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ljurjleevk2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/minamarkh.am/post/3ljurjleevk2o",
+			"private": true,
+			"date": "2025-03-08T14:51:17.511Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5uwpxw3pddke4dp2pnmwoems/app.bsky.feed.post/3ljurpp22wc2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/arthurdoler.com/post/3ljurpp22wc2t",
+			"author": {
+				"name": "Arthur Doler",
+				"url": "https://bsky.app/profile/arthurdoler.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5uwpxw3pddke4dp2pnmwoems/bafkreihq34sjxe65aolje5z2q2yhp3mcbu3tsxvujkqenjktspbscmxha4"
+			},
+			"date": "2025-03-08T14:54:42.691Z",
+			"content": "<p>The IDE: Everything's fine.<br>\nThe build: Everything's fine.<br>\nThe tests: Everything's fine. <br>\nMe:</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3ljutf4ouks2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/papa.yaga.gay/post/3ljutf4ouks2q",
+			"private": true,
+			"date": "2025-03-08T15:24:35.392Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:27qx6c67ybrqbx6iurvg4nu2/app.bsky.feed.post/3ljuuoho25k2e",
+			"parentId": "at://did:plc:5uwpxw3pddke4dp2pnmwoems/app.bsky.feed.post/3ljurpp22wc2t",
+			"url": "https://bsky.app/profile/blujbird.bsky.social/post/3ljuuoho25k2e",
+			"author": {
+				"name": "Jay",
+				"url": "https://bsky.app/profile/blujbird.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:27qx6c67ybrqbx6iurvg4nu2/bafkreiffiy5h57jjhp5qono6trnyhale3ll4fa7hfar2djqxvhzupvecam"
+			},
+			"date": "2025-03-08T15:47:42.612Z",
+			"content": "<p>Funny enough, code coverage for my tests recently helped me find an issue I didn't know we had. We were trying to read an unused array that was left behind.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kn5hbzh6ig6qla64l5puqapb/app.bsky.feed.post/3ljuv6nmrqs2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/passle.dev/post/3ljuv6nmrqs2m",
+			"author": {
+				"name": "Passle ☭",
+				"url": "https://bsky.app/profile/passle.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kn5hbzh6ig6qla64l5puqapb/bafkreifipcqpwxxju76ctbctkawtj6rcuevxfbv5cjyehdw7jg6royxivi"
+			},
+			"date": "2025-03-08T15:56:45.752Z",
+			"content": "<p>That ain't right</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjmckaxprnusdgfbfxf3bzoh/app.bsky.feed.post/3ljuw7tjcpc2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lethalspatula.bsky.social/post/3ljuw7tjcpc2b",
+			"private": true,
+			"date": "2025-03-08T16:15:19.219Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3ljv2peahwc2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3ljv2peahwc2b",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2025-03-08T17:35:35.043Z",
+			"content": "<p>Nah. Dude. You’re good. Push it live. What’s the worst that could happen.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3ljv3ai4vz22t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3ljv3ai4vz22t",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-03-08T17:45:09.549Z",
+			"content": "<p>What are these \"tests\" you speak of?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7ezyrs22y",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3ljv3ai4vz22t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7ezyrs22y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T18:59:17.466Z",
+			"content": "<p>oh no</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7gkoqbs2y",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3ljv2peahwc2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7gkoqbs2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:00:08.524Z",
+			"content": "<p>I thought you were the angel but now I suspect both of my shoulders have devils</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7hohpwk2y",
+			"parentId": "at://did:plc:kn5hbzh6ig6qla64l5puqapb/app.bsky.feed.post/3ljuv6nmrqs2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7hohpwk2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:00:46.043Z",
+			"content": "<p>this test suite is too green to be true</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7ja53ck2y",
+			"parentId": "at://did:plc:27qx6c67ybrqbx6iurvg4nu2/app.bsky.feed.post/3ljuuoho25k2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7ja53ck2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:01:38.122Z",
+			"content": "<p>my code coverage is more like swiss cheese</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7ka6zf22y",
+			"parentId": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3ljutf4ouks2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7ka6zf22y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:02:11.740Z",
+			"content": "<p>look, if I’m hungry I’m gonna eat the snacks either way</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3ljv7mbtfcc2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7gkoqbs2y",
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3ljv7mbtfcc2m",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2025-03-08T19:03:20.563Z",
+			"content": "<p><a href=\"https://m.youtube.com/watch?v=CBC2OCXceV8&amp;pp=ygUTZHJvcG91dCBkZXZpbGVkIGVnZw%3D%3D\">m.youtube.com/watch?v=CBC2...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7mseb4s2y",
+			"parentId": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ljurjleevk2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7mseb4s2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:03:37.896Z",
+			"content": "<p>me?? specifically? 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7o7ed5s2y",
+			"parentId": "at://did:plc:5uwpxw3pddke4dp2pnmwoems/app.bsky.feed.post/3ljurpp22wc2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7o7ed5s2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:04:25.084Z",
+			"content": "<p>1200 tests passing and I still don’t trust it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ljv7qmeojs2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7mseb4s2y",
+			"url": "https://bsky.app/profile/minamarkh.am/post/3ljv7qmeojs2o",
+			"private": true,
+			"date": "2025-03-08T19:05:45.836Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3ljv7raphq22n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7mseb4s2y",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3ljv7raphq22n",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-03-08T19:06:07.161Z",
+			"content": "<p>Yep. You and only you. For sure not something that has ever happened to anything us ever.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3ljv7rx62ts2n",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3ljv7raphq22n",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3ljv7rx62ts2n",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-03-08T19:06:30.708Z",
+			"content": "<p>*any of us ever</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7vduej22y",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3ljv7mbtfcc2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljv7vduej22y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:08:24.685Z",
+			"content": "<p>ahahahha 🤣</p>\n<p>imma eat that egg too those were good arguments</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljva2kuryk2y",
+			"parentId": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ljv7qmeojs2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljva2kuryk2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:11:19.811Z",
+			"content": "<p>why would you say something so immediately and easily disproven given the large body of open source code I have published without it also being 100% accurate?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljva3r23zk2y",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3ljv7rx62ts2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljva3r23zk2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-08T19:11:59.831Z",
+			"content": "<p>*backs away slowly*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3ljva7dcivs2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljva3r23zk2y",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3ljva7dcivs2n",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-03-08T19:13:59.643Z",
+			"content": "<p>My favorite when this happens is when I find the test *never* actually tested anything, sometimes for *years* 😂</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ljvb2dxzpk2o",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3ljva7dcivs2n",
+			"url": "https://bsky.app/profile/minamarkh.am/post/3ljvb2dxzpk2o",
+			"private": true,
+			"date": "2025-03-08T19:29:06.319Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3ljvbsd4qck2x",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljv7vduej22y",
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3ljvbsd4qck2x",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2025-03-08T19:42:30.729Z",
+			"content": "<p>Why would all the tests pass if you weren’t supposed to push it to main?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:egkqsnlfc26obje5pr6l6r3h/app.bsky.feed.post/3ljvnvcwd2c2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dou.gg/post/3ljvnvcwd2c2w",
+			"author": {
+				"name": "Hi, I'm Doug",
+				"url": "https://bsky.app/profile/dou.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:egkqsnlfc26obje5pr6l6r3h/bafkreiaqgvqts2zsf6qzb4kbldshdwucyzokw3qrihuzj4ns354hikktg4"
+			},
+			"date": "2025-03-08T23:18:56.086Z",
+			"content": "<p>Turns out feature flag and your entire code path is untested. You'll find out at 2AM. As is tradition.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3ljvo3ix7d22s",
+			"parentId": "at://did:plc:nsy2e4vupxndly4adhszebcy/app.bsky.feed.post/3ljvb2dxzpk2o",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3ljvo3ix7d22s",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2025-03-08T23:22:23.730Z",
+			"content": "<p>Same same 😂</p>",
+			"via": "bluesky"
+		}
+	]
+}

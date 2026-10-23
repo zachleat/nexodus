@@ -1,0 +1,62 @@
+{
+	"comments": [
+		{
+			"id": "110154161265721481",
+			"parentId": 0,
+			"url": "https://front-end.social/@Aaron/110154161233955204",
+			"author": {
+				"name": "Aaron Gustafson",
+				"url": "https://front-end.social/@Aaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/796/791/117/808/original/53fbc0e189286ec0.png"
+			},
+			"date": "2023-04-06T22:11:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://social.ericwbailey.website/@eric\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eric</span></a></span> A perennially good piece.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110154191569470037",
+			"parentId": "110154161265721481",
+			"url": "https://fediverse.zachleat.com/@zachleat/110154191569470037",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-06T22:19:33.512Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Aaron\" class=\"u-url mention\">@<span>Aaron</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.ericwbailey.website/@eric\" class=\"u-url mention\">@<span>eric</span></a></span> (Eric you should think about self-hosting this one moving forward!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110157962663282905",
+			"parentId": "110154161265721481",
+			"url": "https://social.ericwbailey.website/@eric/110157962641583602",
+			"private": true,
+			"date": "2023-04-07T14:18:35.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110157966182012505",
+			"parentId": "110154191569470037",
+			"url": "https://social.ericwbailey.website/@eric/110157965390625866",
+			"private": true,
+			"date": "2023-04-07T14:19:17.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110157975466473136",
+			"parentId": "110157962663282905",
+			"url": "https://fediverse.zachleat.com/@zachleat/110157975466473136",
+			"private": true,
+			"date": "2023-04-07T14:21:51.192Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110158843129822705",
+			"parentId": "110157975466473136",
+			"url": "https://front-end.social/@Aaron/110158843090204791",
+			"private": true,
+			"date": "2023-04-07T18:02:30.000Z",
+			"via": "fediverse"
+		}
+	]
+}

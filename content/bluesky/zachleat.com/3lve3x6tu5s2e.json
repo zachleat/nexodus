@@ -1,0 +1,298 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve45cd35k2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lve45cd35k2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T16:48:20.518Z",
+			"content": "<p>some folks do want to do maintenance, apparently</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:b5g5f2ookp72qmvgpcgirpvq/app.bsky.feed.post/3lve466viuk25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/charliegroll.com/post/3lve466viuk25",
+			"author": {
+				"name": "Charlie",
+				"url": "https://bsky.app/profile/charliegroll.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:b5g5f2ookp72qmvgpcgirpvq/bafkreib7lyjg42bzz4vca4ztrhbf6wggvxwfsq5cthf2v3sayu6iprusfu"
+			},
+			"date": "2025-08-01T16:48:50.482Z",
+			"content": "<p>still waiting on 12ty after all these years</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve4aglowk2a",
+			"parentId": "at://did:plc:b5g5f2ookp72qmvgpcgirpvq/app.bsky.feed.post/3lve466viuk25",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lve4aglowk2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T16:50:05.659Z",
+			"content": "<p>maybe in the year 20ty</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3lve4fq3y3c2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jim-nielsen.com/post/3lve4fq3y3c2f",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://bsky.app/profile/jim-nielsen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln6p42mckoylrkcd3ds6b7vv/bafkreib6r6i4pyodvm7i4t6e55efj23vbtwrmp5iljqrmoev5jovtqrkue"
+			},
+			"date": "2025-08-01T16:53:03.401Z",
+			"content": "<p>although the versioning doesn't quite match up, this one's been going for 4+ decades.</p>\n<p><a href=\"https://www.npmjs.com/package/zachleat\">www.npmjs.com/package/zach...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve4jh45fs2r",
+			"parentId": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3lve4fq3y3c2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lve4jh45fs2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T16:55:08.188Z",
+			"content": "<p>my kids will inherit my tech debt 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lve4jx7fos25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/shaw.city/post/3lve4jx7fos25",
+			"author": {
+				"name": "Shaw",
+				"url": "https://bsky.app/profile/shaw.city",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfzewyyzcr75z4t3vhew6o7g/bafkreicvtneuyuqc6j64n67w423d2zsu2iu44rytxwyjnnkqbnhvql7s4a"
+			},
+			"date": "2025-08-01T16:55:25.072Z",
+			"content": "<p>Tell that to some of the 13 year old Rails code powering CodePen... 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve4mcmams2r",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lve4jx7fos25",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lve4mcmams2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T16:56:44.136Z",
+			"content": "<p>…oh no</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3lve5akdsu22f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve4jh45fs2r",
+			"url": "https://bsky.app/profile/jim-nielsen.com/post/3lve5akdsu22f",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://bsky.app/profile/jim-nielsen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln6p42mckoylrkcd3ds6b7vv/bafkreib6r6i4pyodvm7i4t6e55efj23vbtwrmp5iljqrmoev5jovtqrkue"
+			},
+			"date": "2025-08-01T17:08:03.337Z",
+			"content": "<p>lol I think about this sometimes as I watch family go through the inheritance process</p>\n<p>\"anybody want grandma's old hope chest? ANYONE? PLZ SOMEONE TAKE IT\"</p>\n<p>that'll be my kids, \"anybody wanna deal with dad's websites? ANYONE?!?\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve5gttrss2c",
+			"parentId": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3lve5akdsu22f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lve5gttrss2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T17:11:34.623Z",
+			"content": "<p>we need website beneficiaries (not family-based) 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3lve5qou72k2f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve5gttrss2c",
+			"url": "https://bsky.app/profile/jim-nielsen.com/post/3lve5qou72k2f",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://bsky.app/profile/jim-nielsen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln6p42mckoylrkcd3ds6b7vv/bafkreib6r6i4pyodvm7i4t6e55efj23vbtwrmp5iljqrmoev5jovtqrkue"
+			},
+			"date": "2025-08-01T17:17:04.939Z",
+			"content": "<p>\"Dad's trust only lays out who gets his websites and GitHub account. There's nothing in here about his bank account or real estate holdings...\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve5xaeeb224",
+			"parentId": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3lve5qou72k2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lve5xaeeb224",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T17:20:44.621Z",
+			"content": "<p>are we kidding? shout out to <a href=\"https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories\">docs.github.com/en/account-a...</a> 👼🏻</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lveac3c6g225",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lve4mcmams2r",
+			"url": "https://bsky.app/profile/shaw.city/post/3lveac3c6g225",
+			"author": {
+				"name": "Shaw",
+				"url": "https://bsky.app/profile/shaw.city",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfzewyyzcr75z4t3vhew6o7g/bafkreicvtneuyuqc6j64n67w423d2zsu2iu44rytxwyjnnkqbnhvql7s4a"
+			},
+			"date": "2025-08-01T18:02:35.888Z",
+			"content": "<p>Honestly, that's probably some of the more maintainable code of the whole system. The 13 year old jQuery code powering parts of the Editor is the real beast.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xrzzq56w2gdeo2d4f43va6yy/app.bsky.feed.post/3lveatz3d2k2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/oliverturner.cloud/post/3lveatz3d2k2r",
+			"author": {
+				"name": "Oliver Turner",
+				"url": "https://bsky.app/profile/oliverturner.cloud",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xrzzq56w2gdeo2d4f43va6yy/bafkreiglpb2sb6npcfnhgt6hd6wmj7l3sbrslci5vxrr7nqiblonp6graa"
+			},
+			"date": "2025-08-01T18:12:37.544Z",
+			"content": "<p>Yes and… there’s something even more rewarding about updating a codebase written in transitional technologies like Handlebars and Sass to HTML and CSS</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lveb56f4r226",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lveac3c6g225",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lveb56f4r226",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T18:17:45.101Z",
+			"content": "<p>have you thought about converting it to use prototype.js</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lvebxmtncs25",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lveb56f4r226",
+			"url": "https://bsky.app/profile/shaw.city/post/3lvebxmtncs25",
+			"author": {
+				"name": "Shaw",
+				"url": "https://bsky.app/profile/shaw.city",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfzewyyzcr75z4t3vhew6o7g/bafkreicvtneuyuqc6j64n67w423d2zsu2iu44rytxwyjnnkqbnhvql7s4a"
+			},
+			"date": "2025-08-01T18:32:32.672Z",
+			"content": "<p>We're in the process of migrating to MooTools to keep IE6 compatibility.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvecguetls2q",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3lvebxmtncs25",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvecguetls2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T18:41:03.892Z",
+			"content": "<p>ah so the point is moot (ools) then</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:m3sunxdapqa7zvfzqfehvrzj/app.bsky.feed.post/3lvecrd2ucc2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cervantesx.bsky.social/post/3lvecrd2ucc2u",
+			"author": {
+				"name": "Cervantes Xavier 🇨🇦",
+				"url": "https://bsky.app/profile/cervantesx.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:m3sunxdapqa7zvfzqfehvrzj/bafkreigoplrhpgaimngqciuccyzw6gl6d2zqjqzgwijejpdtw4qetqrhja"
+			},
+			"date": "2025-08-01T18:46:54.837Z",
+			"content": "<p>One of the greatest moments in my coding life was when I went back to rewrite a core component of my years long coding project to add some functionality, and found the comment</p>\n<p>/*Use this code block instead when you decide to expand functionality*/</p>\n<p>Thank you, past me.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvedffv6cc2x",
+			"parentId": "at://did:plc:m3sunxdapqa7zvfzqfehvrzj/app.bsky.feed.post/3lvecrd2ucc2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvedffv6cc2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T18:58:08.885Z",
+			"content": "<p>you made a good choice and were rewarded for it 🏆</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4uydnq32tukxpooqrnfbb3dl/app.bsky.feed.post/3lvels5c5cs2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/thomega.bsky.social/post/3lvels5c5cs2e",
+			"author": {
+				"name": "Thorsten Ohl",
+				"url": "https://bsky.app/profile/thomega.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4uydnq32tukxpooqrnfbb3dl/bafkreifmjjgc6fvfdnztyvaviygvjk2ihh6kg7l5yh7yicllttsqer4hdi"
+			},
+			"date": "2025-08-01T21:28:26.015Z",
+			"content": "<p>Agreed, but sometimes it's scary to meet my 20y younger self: \"What was that guy thinking???\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvemow63wc2o",
+			"parentId": "at://did:plc:4uydnq32tukxpooqrnfbb3dl/app.bsky.feed.post/3lvels5c5cs2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvemow63wc2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-08-01T21:44:31.621Z",
+			"content": "<p>What an opportunity to fix your mistakes from 20 years ago!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4uydnq32tukxpooqrnfbb3dl/app.bsky.feed.post/3lvemxo3uec23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvemow63wc2o",
+			"url": "https://bsky.app/profile/thomega.bsky.social/post/3lvemxo3uec23",
+			"author": {
+				"name": "Thorsten Ohl",
+				"url": "https://bsky.app/profile/thomega.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4uydnq32tukxpooqrnfbb3dl/bafkreifmjjgc6fvfdnztyvaviygvjk2ihh6kg7l5yh7yicllttsqer4hdi"
+			},
+			"date": "2025-08-01T21:49:25.149Z",
+			"content": "<p>Not always easy in a large codebase that turned out to be not as neatly modularized as originally envisioned...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iairgpqp7toke3hzqlyres7i/app.bsky.feed.post/3lverlr5fjc24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/richardhowes.tech/post/3lverlr5fjc24",
+			"private": true,
+			"date": "2025-08-01T23:12:14.402Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hvckokxkhitlvux73q53cgmq/app.bsky.feed.post/3lvewcelwmc27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dbaron.org/post/3lvewcelwmc27",
+			"author": {
+				"name": "L. David Baron",
+				"url": "https://bsky.app/profile/dbaron.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hvckokxkhitlvux73q53cgmq/bafkreiepvbuibsobjb4lmntd5yrnrooklll4wrft7td6cgpenoqd7oedeq"
+			},
+			"date": "2025-08-02T00:36:27.965Z",
+			"content": "<p>Most of the people you know who work on browser engines probably agree with this sentiment.  (But there are also many people who are happier writing new code.)</p>",
+			"via": "bluesky"
+		}
+	]
+}

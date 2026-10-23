@@ -1,0 +1,427 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljzwf2ghu22g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3ljzwf2ghu22g",
+			"private": true,
+			"date": "2025-03-10T16:01:32.930Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzwqny4m22v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzwqny4m22v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T16:08:02.537Z",
+			"content": "<p>I might suggest modifications to the “Limited availability” and “Newly available” tags to include language about whether a feature is progressive enhancement friendly or not!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzwu64nmc2o",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljzwf2ghu22g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzwu64nmc2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T16:10:00.126Z",
+			"content": "<p>where are you following 2025 status?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3ljzx7mzmkc2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzwqny4m22v",
+			"url": "https://bsky.app/profile/sturobson.com/post/3ljzx7mzmkc2z",
+			"author": {
+				"name": "Stuart Robson",
+				"url": "https://bsky.app/profile/sturobson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnut7bswvnl54dhflb4qofss/bafkreiedtdfrl3m5r2ghf2uayx3h35ktub2udzshrtfa5atvb35ntmp5ee"
+			},
+			"date": "2025-03-10T16:16:24.848Z",
+			"content": "<p>renaming this side project to \"Can I Baseline?\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljzxx6qfdc2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzwu64nmc2o",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3ljzxx6qfdc2q",
+			"private": true,
+			"date": "2025-03-10T16:29:35.176Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzxy72xrk2y",
+			"parentId": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3ljzx7mzmkc2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzxy72xrk2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T16:30:09.079Z",
+			"content": "<p>I’M INTERESTED</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljzxyvq6sk2q",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljzxx6qfdc2q",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3ljzxyvq6sk2q",
+			"private": true,
+			"date": "2025-03-10T16:30:32.839Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzxzs4edc2y",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljzxx6qfdc2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzxzs4edc2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T16:31:02.602Z",
+			"content": "<p>ah no need to apologize! just trying to understand the context — thank you!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzy6ptvss2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzwqny4m22v",
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3ljzy6ptvss2o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T16:33:48.000Z",
+			"content": "<p>We're definitely interested in talking more about this on the WebDX CG. Progressive enhancements, polyfills, and accessibility have come up multiple times in the past. So far, we've not been able to incorporate these aspects into Baseline calculation though. But I do believe we should.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzyhkr7uk2o",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzy6ptvss2o",
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3ljzyhkr7uk2o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T16:38:44.658Z",
+			"content": "<p>One of the things I've tried to steer the group towards in the first years of the project is to avoid \"hiding\" things that are not yet supported. Anything we can do to make features easier to discover/use, not harder, is valuable.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3ljzyrqnspk2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3ljzyrqnspk2u",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-03-10T16:44:26.382Z",
+			"content": "<p>\"Baseline Newly Available\" is useless. It means \"someone somewhere thought of this. It's not everywhere. Don't use it.\" It is extremely annoying that it was invented, and afaict it was invented because people were sad that their new feature was not yet \"baseline\" and so people wouldn't use it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3ljzytv5oec2u",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3ljzyrqnspk2u",
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3ljzytv5oec2u",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-03-10T16:45:38.205Z",
+			"content": "<p>this is harsher than I normally am about stuff. But I was super annoyed at \"newly available\". It was Really Useful to explain to teams I work with that \"if a thing says 'baseline' it's probably OK for us, otherwise don't\" and now there's a special new baseline which utterly invalidates that.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzzsqyty22s",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzyhkr7uk2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzzsqyty22s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T17:02:54.040Z",
+			"content": "<p>interesting! “hiding” in what view?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzzvoyxqk2s",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3ljzytv5oec2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljzzvoyxqk2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T17:04:32.611Z",
+			"content": "<p>I think that’s fair feedback. I’m not sure the arbitrary 30 month goalpost is a good finish line for “Widely available”&nbsp;either — hmm</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzzvsrys22o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzzsqyty22s",
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3ljzzvsrys22o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T17:04:36.577Z",
+			"content": "<p>As in, Baseline comes with the risk of hiding too many features from the web: those that aren't supported across browsers even though they're perfectly fine to use.<br>\nShowing a \"Limited\" Baseline banner on a doc website about a given feature comes with the risk of steering people away from it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lk223bfpgk2u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzzvoyxqk2s",
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3lk223bfpgk2u",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-03-10T17:07:39.675Z",
+			"content": "<p>I think that's OK, myself (which is why I liked \"baseline\"). It's essentially a more formal definition for the oft-used and not-well-defined \"this requires a modern browser\", I think</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk227qxt5k25",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3lk223bfpgk2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lk227qxt5k25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T17:10:10.215Z",
+			"content": "<p>ah, that phrase sets off red flags for me but I see your point 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk22hvr3y225",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3ljzzvsrys22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lk22hvr3y225",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T17:14:43.673Z",
+			"content": "<p>Ah, I see — yeah. That dovetails back to Baseline missing some pieces if you want to encourage or discourage usage on a feature, imo! “Limited but safe!”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3lk22naoqcc2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk22hvr3y225",
+			"url": "https://bsky.app/profile/patrickbrosset.com/post/3lk22naoqcc2o",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://bsky.app/profile/patrickbrosset.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcrxgrk7qttaunjut34oe5oq/bafkreicsgx4oaqbtatg44m557fqinh4zp2e4evaxpqm6rjg65o4vsawrnq"
+			},
+			"date": "2025-03-10T17:17:42.902Z",
+			"content": "<p>Filed <a href=\"https://github.com/web-platform-dx/web-features/issues/2758\">github.com/web-platform...</a> to put it on our radar. We'll likely discuss at our next CG meeting (which you're more than welcome to join, details here: <a href=\"https://www.w3.org/community/webdx/\">www.w3.org/community/we...</a>), but please feel free to comment on the issue too.<br>\nPinging <a href=\"https://bsky.app/profile/did:plc:bm5d7drix5fs77sx44xbpyww\">@miriam.codes</a> who had made a similar point too.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lk237lmc2s26",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3ljzxx6qfdc2q",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3lk237lmc2s26",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2025-03-10T17:27:58.335Z",
+			"content": "<p>Interop isn't Baseline; things that are in Interop are by definition not ready for Baseline, but having them as priorities in Interop means they might be in Baseline in a year or so; I wrote a couple of articles about this a while back</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk23qudicc2q",
+			"parentId": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lk237lmc2s26",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3lk23qudicc2q",
+			"private": true,
+			"date": "2025-03-10T17:37:37.909Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk23v3pq522q",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk23qudicc2q",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3lk23v3pq522q",
+			"private": true,
+			"date": "2025-03-10T17:39:59.869Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk26lag3j22i",
+			"parentId": "at://did:plc:vcrxgrk7qttaunjut34oe5oq/app.bsky.feed.post/3lk22naoqcc2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lk26lag3j22i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-10T18:28:10.477Z",
+			"content": "<p>appreciate you Patrick! 🙌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lk27gvk7lc26",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk23qudicc2q",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3lk27gvk7lc26",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2025-03-10T18:43:38.602Z",
+			"content": "<p>Apple is a big part of why Interop happens (for both bad and good); it's at least moved things along from where they were before the annual Interop priority alignments - and no worries, I've been trying to explain how these fit together for a while and I'm about to have another go</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3lk27su62cs2m",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk23qudicc2q",
+			"url": "https://bsky.app/profile/bkardell.com/post/3lk27su62cs2m",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2025-03-10T18:50:19.808Z",
+			"content": "<p>Hi, I'd love to hear more (maybe not on this thread) about why you think interop 2025 is bad? Happy to use DMs or have a video chat or whatever you prefer</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3lk2akkifqs26",
+			"parentId": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3lk27su62cs2m",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3lk2akkifqs26",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2025-03-10T19:03:34.968Z",
+			"content": "<p>equally curious, so if it does stay on the thread... 👀👀👀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2efks4622q",
+			"parentId": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3lk27su62cs2m",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3lk2efks4622q",
+			"private": true,
+			"date": "2025-03-10T20:12:22.474Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2ejgayus2q",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2efks4622q",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3lk2ejgayus2q",
+			"private": true,
+			"date": "2025-03-10T20:14:31.944Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2eqcp7as2j",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2ejgayus2q",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3lk2eqcp7as2j",
+			"private": true,
+			"date": "2025-03-10T20:18:23.095Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3lk2exh3bnk2m",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2efks4622q",
+			"url": "https://bsky.app/profile/bkardell.com/post/3lk2exh3bnk2m",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2025-03-10T20:22:22.567Z",
+			"content": "<p>I can tell you, as someone on the committee, that it seems a so difficult to manage what people read into all of this.  A lot of people think we should focus exclusively on the more mature, rough edges, and not new stuff - and lot of other people think it should include none of that.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3lk2f3mlse22m",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2eqcp7as2j",
+			"url": "https://bsky.app/profile/bkardell.com/post/3lk2f3mlse22m",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2025-03-10T20:24:42.569Z",
+			"content": "<p>If you haven't heard it, <a href=\"https://bsky.app/profile/did:plc:widt5upyy6uevzv2n3ehtred\">@meyerweb.com</a> and I talk about how it works a bit and why it's a bit opaque.  If it helps at all.</p>\n<p><a href=\"https://www.igalia.com/chats/interopify\">www.igalia.com/chats/intero...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2f4c6yjc2j",
+			"parentId": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3lk2exh3bnk2m",
+			"url": "https://bsky.app/profile/mdh2.bsky.social/post/3lk2f4c6yjc2j",
+			"private": true,
+			"date": "2025-03-10T20:25:05.217Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3lk2jepvupc2e",
+			"parentId": "at://did:plc:xf7krjtyhvmoqjyl4dgiafey/app.bsky.feed.post/3lk2f4c6yjc2j",
+			"url": "https://bsky.app/profile/bkardell.com/post/3lk2jepvupc2e",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2025-03-10T21:41:23.001Z",
+			"content": "<p>That's very interesting to hear and I'd love to understand a comparison better if you'd like to chat sometime</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rzf7l6olyl67yfy2jwufdq7f/app.bsky.feed.post/3lk2lyled722s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/humanwhocodes.com/post/3lk2lyled722s",
+			"author": {
+				"name": "Nicholas C. Zakas",
+				"url": "https://bsky.app/profile/humanwhocodes.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rzf7l6olyl67yfy2jwufdq7f/bafkreibbsrcnu4eml6civfhrgbmfanj3xy7gztrjsp2klrhdgfe3obp4he"
+			},
+			"date": "2025-03-10T22:28:16.804Z",
+			"content": "<p>While working on the ESLint CSS plugin’s require-baseline rule, we discovered that cursor is not baseline due to incomplete mobile implementation. 🤷‍♂️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2t2s7o2yd5pcaqp5fuflzdew/app.bsky.feed.post/3lk2nr2pjr22c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/joshtumath.uk/post/3lk2nr2pjr22c",
+			"author": {
+				"name": "Josh Tumath",
+				"url": "https://bsky.app/profile/joshtumath.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2t2s7o2yd5pcaqp5fuflzdew/bafkreihnwtvzaxakr3e3at7427ikhumrusy3auww452ykgnnmgje22zdr4"
+			},
+			"date": "2025-03-10T22:59:51.949Z",
+			"content": "<p>This was something I fed back as well at the time. I still think it would make a huge difference. Same with more complex features like View Transitions.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lk4xzqasxc2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljzwqny4m22v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lk4xzqasxc2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-03-11T21:08:59.866Z",
+			"content": "<p>Some additional discussion is happening on this GitHub Issue: <a href=\"https://github.com/web-platform-dx/web-features/issues/2758\">github.com/web-platform...</a></p>\n<p>Thanks <a href=\"https://bsky.app/profile/did:plc:vcrxgrk7qttaunjut34oe5oq\">@patrickbrosset.com</a> for filing!</p>",
+			"via": "bluesky"
+		}
+	]
+}

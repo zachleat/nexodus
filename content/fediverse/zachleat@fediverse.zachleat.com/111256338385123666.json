@@ -1,0 +1,264 @@
+{
+	"comments": [
+		{
+			"id": "111256385245237939",
+			"parentId": 0,
+			"url": "https://front-end.social/@eys/111256385218352648",
+			"author": {
+				"name": "Eystein",
+				"url": "https://front-end.social/@eys",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/372/147/452/523/613/original/99029c82ace8ad3e.jpeg"
+			},
+			"date": "2023-10-18T14:01:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks, and disabled! / <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256510805798909",
+			"parentId": 0,
+			"url": "https://mastodon.social/@timsev/111256510774969930",
+			"author": {
+				"name": "Tim Severien",
+				"url": "https://mastodon.social/@timsev",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/338/141/483/533/original/253f6de61dd10af0.jpg"
+			},
+			"date": "2023-10-18T14:33:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span> Made a little website for a bunch of webdev tools a while ago to get an overview of what is being collected and how to opt out. But yeah, VS Code is being particularly naughty.</p><p><a href=\"https://telemetry.timseverien.com/tools/visual-studio-code/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">telemetry.timseverien.com/tool</span><span class=\"invisible\">s/visual-studio-code/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256517250421915",
+			"parentId": "111256510805798909",
+			"url": "https://fediverse.zachleat.com/@zachleat/111256517250421915",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T14:35:28.553Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@timsev\" class=\"u-url mention\">@<span>timsev</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\">@<span>baldur</span></a></span> wow—this is amazing! Thanks for calling it out!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256521789522920",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111256521789522920",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T14:36:37.814Z",
+			"content": "<p>Check out this website from <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@timsev\" class=\"u-url mention\">@<span>timsev</span></a></span> that documents telemetry from a bunch of different tools: <a href=\"https://telemetry.timseverien.com/tools/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">telemetry.timseverien.com/tool</span><span class=\"invisible\">s/</span></a></p><p>and the score for Visual Studio Code: <a href=\"https://telemetry.timseverien.com/tools/visual-studio-code/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">telemetry.timseverien.com/tool</span><span class=\"invisible\">s/visual-studio-code/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256523161990068",
+			"parentId": "111256510805798909",
+			"url": "https://toot.cafe/@baldur/111256522943403589",
+			"author": {
+				"name": "Baldur Bjarnason",
+				"url": "https://toot.cafe/@baldur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/345/749/203/632/original/6b89199d62c86630.jpg"
+			},
+			"date": "2023-10-18T14:36:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@timsev\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>timsev</span></a></span> That looks super useful. <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256544609746259",
+			"parentId": "111256521789522920",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111256544496759299",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-10-18T14:42:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you think the JavaScript community is self-aware that they’ve poured all their energy into a tool ecosystem they don’t own?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256549977381363",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/111256549861153976",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-10-18T14:43:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My favorite part is that you can’t turn telemetry off via the VS Code settings UI. 🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256568293135825",
+			"parentId": "111256549977381363",
+			"url": "https://fediverse.zachleat.com/@zachleat/111256568293135825",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T14:48:27.402Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> wait—really? Maybe this changed because I thought I just did that? Or was I misled 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256570632906549",
+			"parentId": "111256549977381363",
+			"url": "https://front-end.social/@marcamos/111256570508498863",
+			"author": {
+				"name": "Marc Amos",
+				"url": "https://front-end.social/@marcamos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/992/492/555/519/original/042064b923202a17.png"
+			},
+			"date": "2023-10-18T14:49:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgarber</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It looks like you can:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256653164459132",
+			"parentId": 0,
+			"url": "https://indieweb.social/@grgml/111256653133146054",
+			"author": {
+				"name": "Grigør",
+				"url": "https://indieweb.social/@grgml",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/645/640/318/260/521/original/3377e18739cf4a79.jpg"
+			},
+			"date": "2023-10-18T15:10:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span> been using vs codium for a few years now. Same source code (the open source part) mimus telemetry and tracking</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256656969877421",
+			"parentId": "111256653164459132",
+			"url": "https://fediverse.zachleat.com/@zachleat/111256656969877421",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T15:11:00.503Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@grgml\" class=\"u-url mention\">@<span>grgml</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\">@<span>baldur</span></a></span> yeah, TIL! <span class=\"h-card\" translate=\"no\"><a href=\"https://chaos.social/@BenBen\" class=\"u-url mention\">@<span>BenBen</span></a></span> called that out too: <a href=\"https://chaos.social/@BenBen/111256349381794543\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chaos.social/@BenBen/111256349</span><span class=\"invisible\">381794543</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111256982903141541",
+			"parentId": "111256570632906549",
+			"url": "https://mastodon.cc/@jgarber/111256982749107581",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-10-18T16:33:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@marcamos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>marcamos</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh! My mistake. There’s a hidden scrollbar in the dropdown which was hiding the “off” option.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257086683388749",
+			"parentId": "111256544609746259",
+			"url": "https://fediverse.zachleat.com/@zachleat/111257086683388749",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T17:00:17.411Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> do you mean the editor ecosystem or the framework ecosystem? I’m not sure. I’m tempted to blame the erosion of privacy norms in the US. EU folks seem to take a more principled approach, thankfully.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257114327764702",
+			"parentId": "111257086683388749",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111257114202128243",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-10-18T17:07:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Well, mostly the editor ecosystem, but I fear the line between the two begins to blur when you talk about LSP implementations.</p><p>Most LSP implementations have a thick veneer of VSCode around them, which, imho reduces choice in tooling for the majority of folks.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257123444444366",
+			"parentId": "111257114327764702",
+			"url": "https://fediverse.zachleat.com/@zachleat/111257123444444366",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T17:09:38.339Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> this is my first time hearing about LSP 👀👀👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257160195656121",
+			"parentId": "111257123444444366",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111257160056996734",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-10-18T17:18:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh dear… scan the article again. TL;DR: Some language servers being pushed have restrictive licensing, which means they can only be used within VSCode.</p><p>I think this will be the standard approach moving forward.</p><p>More info: <a href=\"https://langserver.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">langserver.org/</span><span class=\"invisible\"></span></a> (fun activity: Search for Microsoft on the page)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257222172188204",
+			"parentId": "111256982903141541",
+			"url": "https://front-end.social/@marcamos/111257222133822218",
+			"author": {
+				"name": "Marc Amos",
+				"url": "https://front-end.social/@marcamos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/992/492/555/519/original/042064b923202a17.png"
+			},
+			"date": "2023-10-18T17:34:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgarber</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://media.giphy.com/media/l4KhStwfccoc7t6IU/giphy.gif\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">media.giphy.com/media/l4KhStwf</span><span class=\"invisible\">ccoc7t6IU/giphy.gif</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111257357670416730",
+			"parentId": "111257160195656121",
+			"url": "https://fediverse.zachleat.com/@zachleat/111257357670416730",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-18T18:09:12.344Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> whew, yeah. Hm. My personal experience is that I’m pretty editor fluid. I’ve switched editors many times in my career. If I had to fast forward twenty years I’d guess that future-me will be recommending vim (though I don’t use it now) 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111260081370185249",
+			"parentId": 0,
+			"url": "https://alpines.club/@three/111260081211357442",
+			"author": {
+				"name": "Three",
+				"url": "https://alpines.club/@three",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-19T05:41:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>baldur</span></a></span> Why don't you use a better text editor that doesn't want to track you?  Or if you have to stay within that ecosystem why not use Codium?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111261834691780796",
+			"parentId": "111260081370185249",
+			"url": "https://fediverse.zachleat.com/@zachleat/111261834691780796",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-19T13:07:46.269Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://alpines.club/@three\" class=\"u-url mention\">@<span>three</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@baldur\" class=\"u-url mention\">@<span>baldur</span></a></span> I suspect this post was the beginning of my journey towards that end!</p>",
+			"via": "fediverse"
+		}
+	]
+}

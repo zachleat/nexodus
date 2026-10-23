@@ -1,0 +1,129 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3m3px5mi4ks2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bkardell.com/post/3m3px5mi4ks2w",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2025-10-21T18:22:09.087Z",
+			"content": "<p>I love the esoteric tags, but also wonder if they are worth the time it took to get them all since they kind of don't actually \"do\" much</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m3pxwycyrs22",
+			"parentId": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3m3px5mi4ks2w",
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3m3pxwycyrs22",
+			"private": true,
+			"date": "2025-10-21T18:36:20.364Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3pyk4c3xk2r",
+			"parentId": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3m3px5mi4ks2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3pyk4c3xk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-21T18:47:02.063Z",
+			"content": "<p>how dare you, they work very hard</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pyzvvyrh6eudle55nhqe62tv/app.bsky.feed.post/3m3q2q2a3gc2u",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m3pxwycyrs22",
+			"url": "https://bsky.app/profile/cookie.ebil.club/post/3m3q2q2a3gc2u",
+			"author": {
+				"name": "cookie",
+				"url": "https://bsky.app/profile/cookie.ebil.club",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pyzvvyrh6eudle55nhqe62tv/bafkreiduijflv3dvtl3d6kuyzyramudzvouoz4xehtemgp2llrh23urfam"
+			},
+			"date": "2025-10-21T19:26:08.710Z",
+			"content": "<p>Me pulling a chair over with a box of popcorns ready to listen to a semantic web debate</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3m3q2q5awzs2w",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3m3pxwycyrs22",
+			"url": "https://bsky.app/profile/bkardell.com/post/3m3q2q5awzs2w",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2025-10-21T19:26:11.883Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3m3q2w6id722w",
+			"parentId": "at://did:plc:pyzvvyrh6eudle55nhqe62tv/app.bsky.feed.post/3m3q2q2a3gc2u",
+			"url": "https://bsky.app/profile/bkardell.com/post/3m3q2w6id722w",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2025-10-21T19:29:34.501Z",
+			"content": "<p>Ok, here's my take.  The web browser has always allowed attributes and tags it doesn't understand.  There are several mechanisms for adding different kinds of meaning. All of them are stylable.  We can't know if people will use it/correctly until they do.  We can just..</p>\n<p><a href=\"https://bkardell.com/blog/Dropping-The-F-Bomb-On-Standards.html\">bkardell.com/blog/Droppin...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pbwwtakvu3qbyvbe4rjuq4cv/app.bsky.feed.post/3m3q3kzhuec2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/miskaknapek.bsky.social/post/3m3q3kzhuec2w",
+			"author": {
+				"name": "Miska Knapek ",
+				"url": "https://bsky.app/profile/miskaknapek.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pbwwtakvu3qbyvbe4rjuq4cv/bafkreib4zb6xvlew5pkdkkcnouyuiohf3rlkidcyjdz4dt6da6yfyhploa"
+			},
+			"date": "2025-10-21T19:41:13.886Z",
+			"content": "<p>Fetching!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:b5i76ojdnbfp2st5gwuzzki2/app.bsky.feed.post/3m3qrv3nqas2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brianmp.dev/post/3m3qrv3nqas2q",
+			"author": {
+				"name": "Brian Poblete",
+				"url": "https://bsky.app/profile/brianmp.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:b5i76ojdnbfp2st5gwuzzki2/bafkreihp22t72uamtqa5pudznwt2julait37teoigzhpc5eiml4pc4ezuy"
+			},
+			"date": "2025-10-22T02:20:34.039Z",
+			"content": "<p>I think the &lt;kbd&gt; tag is pretty neat! Especially if you implement nested &lt;kbd&gt; styles similar to how Kevin does it in this video.</p>\n<p><a href=\"https://youtube.com/shorts/WBgI0k1uV_g?si=r_RUkngjPiDsIKfB\">youtube.com/shorts/WBgI0...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kcxfv2noqb6rl32tqtw3egzi/app.bsky.feed.post/3m3sn42lyjk2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/scriptraccoon.dev/post/3m3sn42lyjk2c",
+			"author": {
+				"name": "Script Raccoon",
+				"url": "https://bsky.app/profile/scriptraccoon.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kcxfv2noqb6rl32tqtw3egzi/bafkreiadelmfaq5kfdy6omyp4v5pkfyp46jsjsru6jv2no3chuawdwcqjy"
+			},
+			"date": "2025-10-22T20:00:18.583Z",
+			"content": "<p>\"esoteric\"? I don't know if that term fits. It's a normal element. A bit underused, that's it.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3sngjx5yc23",
+			"parentId": "at://did:plc:kcxfv2noqb6rl32tqtw3egzi/app.bsky.feed.post/3m3sn42lyjk2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m3sngjx5yc23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-22T20:06:10.222Z",
+			"content": "<p>I don’t agree but ok!</p>",
+			"via": "bluesky"
+		}
+	]
+}

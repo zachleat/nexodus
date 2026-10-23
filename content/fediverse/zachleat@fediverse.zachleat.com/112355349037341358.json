@@ -1,0 +1,88 @@
+{
+	"comments": [
+		{
+			"id": "112355413159025702",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Chris/112355413011443584",
+			"author": {
+				"name": "Chris Coleman",
+				"url": "https://mastodon.social/@Chris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/357/120/282/113/original/e6b14bf4e06f7c03.jpg"
+			},
+			"date": "2024-04-29T16:19:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@dries\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dries</span></a></span> My work is building a medium-ish site using Next.js/Sanity with Algolia and Salesforce integrations to replace our 2007 vintage Coldfusion site.</p><p>We've had least four developers on it the entire time. I could have built 90% of this single-handedly with Drupal in about a year. We just spent a ton of effort basically recreating Drupal's Views.</p><p>The end result will be nice, but I can't wait for the retro where I get to mention I originally proposed using Drupal.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112356015411216102",
+			"parentId": 0,
+			"url": "https://social.lol/@anniegreens/112356015376273048",
+			"private": true,
+			"date": "2024-04-29T18:52:18.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112356031497577881",
+			"parentId": "112356015411216102",
+			"url": "https://fediverse.zachleat.com/@zachleat/112356031497577881",
+			"private": true,
+			"date": "2024-04-29T18:56:24.522Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112356037273942844",
+			"parentId": "112356031497577881",
+			"url": "https://social.lol/@anniegreens/112356036376716333",
+			"private": true,
+			"date": "2024-04-29T18:57:38.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112356102568173487",
+			"parentId": 0,
+			"url": "https://mastodon.social/@KeithPurtell/112356102138182664",
+			"author": {
+				"name": "Keith Purtell",
+				"url": "https://mastodon.social/@KeithPurtell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/605/132/826/966/789/original/c3e0200ccb1a7f1e.jpg"
+			},
+			"date": "2024-04-29T19:14:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@dries\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dries</span></a></span> <br>Two steps forward, then two steps backward?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112360476558652109",
+			"parentId": "112356015411216102",
+			"url": "https://phire.place/@eaton/112360476539265304",
+			"private": true,
+			"date": "2024-04-30T13:46:50.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112360492647061811",
+			"parentId": "112355413159025702",
+			"url": "https://phire.place/@eaton/112360492628064593",
+			"author": {
+				"name": "Eaton",
+				"url": "https://phire.place/@eaton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/349/448/084/310/809/original/a34c4a01d180f177.jpeg"
+			},
+			"date": "2024-04-30T13:50:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@Chris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Chris</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@dries\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dries</span></a></span> It’s incredibly easy to underestimate the amount of time and energy that’s gone into the Views/FieldAPI/Entity system over the past *checks watch* NINETEEN YEARS. Starting fresh gives orgs that need a small subset of that a lot more agility from a code perspective, but it’s easy to compile a “critical feature list” that takes 2x as long to build and just as much to maintain…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112365197195491751",
+			"parentId": 0,
+			"url": "https://toot.berlin/@lars/112365197111235236",
+			"author": {
+				"name": "Lars Trieloff",
+				"url": "https://toot.berlin/@lars",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/633/056/267/602/original/a0e6c6643eb890b6.jpg"
+			},
+			"date": "2024-05-01T09:47:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@dries\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dries</span></a></span> the constituent audiences of a CMS are<br>1. visitors<br>2. authors<br>3. software developers <br>4. software architects<br>But some vendors flip the priority order</p>",
+			"via": "fediverse"
+		}
+	]
+}

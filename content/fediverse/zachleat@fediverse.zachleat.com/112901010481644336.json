@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "112901072533330059",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112901072486968970",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:07:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> right so you can opt into the regional caches if you want to, and there is cost attached to that (iirc there’s also a buried cross region data transit cost). You don’t *have* to do it (choice!)</p><p>You can also look at lambda@edge</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901079543759814",
+			"parentId": "112901072533330059",
+			"url": "https://fediverse.zachleat.com/@zachleat/112901079543759814",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-04T01:09:17.687Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> I’m very happy with the current setup I think. I’ll enable origin shield once I hit the inflection point where it costs less than my lambda usage (assuming that exists)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901110506937723",
+			"parentId": "112901079543759814",
+			"url": "https://mastodon.cthos.dev/@cthos/112901110453841545",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-04T01:17:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> def set up a billing alarm now while you’re thinking about it if you don’t have one already.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112901417066652844",
+			"parentId": 0,
+			"url": "https://indieweb.social/@tollmanz/112901417054430506",
+			"author": {
+				"name": "Zack Tollman",
+				"url": "https://indieweb.social/@tollmanz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/551/596/305/378/839/original/418586a4fca6178c.jpg"
+			},
+			"date": "2024-08-04T02:35:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> at some point in this journey, I hope you look into Fastly. Some major improvements over Cloudfront</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112909714783958279",
+			"parentId": "112901417066652844",
+			"url": "https://fediverse.zachleat.com/@zachleat/112909714783958279",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T13:45:20.999Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tollmanz\" class=\"u-url mention\">@<span>tollmanz</span></a></span> that is a great callout. I need to dive in there.</p>",
+			"via": "fediverse"
+		}
+	]
+}

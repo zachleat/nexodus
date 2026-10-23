@@ -1,0 +1,291 @@
+{
+	"comments": [
+		{
+			"id": "112774016861432121",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/112774016813904780",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-07-12T14:35:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The latest researched take I’ve seen is <span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@csswizardry\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>csswizardry</span></a></span>’s article: <a href=\"https://csswizardry.com/2023/10/the-three-c-concatenate-compress-cache/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">csswizardry.com/2023/10/the-th</span><span class=\"invisible\">ree-c-concatenate-compress-cache/</span></a> (tl;dr at the end)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774029243523033",
+			"parentId": "112774016861432121",
+			"url": "https://fediverse.zachleat.com/@zachleat/112774029243523033",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-12T14:38:43.956Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@csswizardry\" class=\"u-url mention\">@<span>csswizardry</span></a></span> excellent, thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774038977955315",
+			"parentId": 0,
+			"url": "https://indieweb.social/@anthony/112774038944210790",
+			"author": {
+				"name": "Anthony",
+				"url": "https://indieweb.social/@anthony",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/693/059/248/931/906/original/2d9b808801cf2aef.png"
+			},
+			"date": "2024-07-12T14:41:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You want nuance? <a href=\"https://askastaffengineer.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">askastaffengineer.com</span><span class=\"invisible\"></span></a>  will always have your back.</p><p>Courtesy of <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774042657860296",
+			"parentId": "112774038977955315",
+			"url": "https://fediverse.zachleat.com/@zachleat/112774042657860296",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-12T14:42:08.642Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@anthony\" class=\"u-url mention\">@<span>anthony</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\">@<span>ksylor</span></a></span> I… 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774097907558282",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cferdinandi/112774049172480329",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2024-07-12T14:43:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I ran a test on this with CSS recently. got slightly different results than the Harry Roberts article that was linked in another toot <a href=\"https://gomakethings.com/modular-css-and-different-ways-to-structure-your-stylesheets/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gomakethings.com/modular-css-a</span><span class=\"invisible\">nd-different-ways-to-structure-your-stylesheets/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774135793582284",
+			"parentId": "112774097907558282",
+			"url": "https://mamot.fr/@nhoizey/112774135769050926",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-07-12T15:05:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> I would say that “a concatenated file is still the most performant for people on the slowest connections and oldest devices” is only true if the concatenated file weight is low, don't you think?</p><p>On my side, as I don't have much CSS code, I even inline it all. There is no CSS network request on <a href=\"https://nicolas-hoizey.photo/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nicolas-hoizey.photo/</span><span class=\"invisible\"></span></a></p><p>My tests in the past showed that is was faster than requests. Because there is not much CSS.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774170868934999",
+			"parentId": "112774135793582284",
+			"url": "https://fediverse.zachleat.com/@zachleat/112774170868934999",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-12T15:14:44.989Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> yeah! I’m interested to learn at what inflection point does it start to break down (and if you fancy, what inflection point for different network connections)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774179476741524",
+			"parentId": "112774170868934999",
+			"url": "https://mamot.fr/@nhoizey/112774179428401427",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-07-12T15:16:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm not sure anyone did try with different file weights to find the inflection point.</p><p>Also, I'm not sure it’s worth it trying to have a dynamic solution to account for different network connections. It's already complicated enough! 😅</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774347960880833",
+			"parentId": "112774179476741524",
+			"url": "https://fediverse.zachleat.com/@zachleat/112774347960880833",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-12T15:59:47.197Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\">@<span>cferdinandi</span></a></span> not looking for a dynamic solution, just research!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774479355422610",
+			"parentId": "112774135793582284",
+			"url": "https://mastodon.social/@cferdinandi/112774361336910744",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2024-07-12T16:03:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I also inline everything, because my combined CSS + HTML + JS is nearly always at about 14kb or less. But for the average person, that's probably a level of yak shaving that doesn't matter in a material way, IMO.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774410484247738",
+			"parentId": "112774347960880833",
+			"url": "https://mamot.fr/@nhoizey/112774410378152359",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-07-12T16:15:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ok 👍</p><p>When you can't find research from others… 😅</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112774552656760300",
+			"parentId": "112774479355422610",
+			"url": "https://mamot.fr/@nhoizey/112774552636178320",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-07-12T16:51:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> I agree 👍</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112782414275098983",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/112782414241149386",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2024-07-14T02:11:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Minimum Viable Chunk\" is a good deep dive into the complexity of the problem and the trade offs you're forced to make.</p><p><a href=\"https://www.youtube.com/watch?v=ImjzA7EMI6I\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=ImjzA7EMI6</span><span class=\"invisible\">I</span></a></p><p>Unfortunately it kind of ends with \"You should do it like Google does, but no open source tools on the market actually do that so 🤷‍♂️.\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112788061851591083",
+			"parentId": "112774179476741524",
+			"url": "https://mastodon.nz/@mez/112788061720877946",
+			"private": true,
+			"date": "2024-07-15T02:07:22.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789173800923178",
+			"parentId": "112788061851591083",
+			"url": "https://mamot.fr/@nhoizey/112789173778809429",
+			"private": true,
+			"date": "2024-07-15T06:50:11.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789193307207163",
+			"parentId": "112789173800923178",
+			"url": "https://webperf.social/@tunetheweb/112789193287915352",
+			"private": true,
+			"date": "2024-07-15T06:55:08.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789247337906117",
+			"parentId": "112774179476741524",
+			"url": "https://mastodon.social/@Schepp/112789247278898315",
+			"author": {
+				"name": "Christian \"Schepp\" Schaefer",
+				"url": "https://mastodon.social/@Schepp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/814/597/449/022/original/cc8d1c1e842b92c6.jpg"
+			},
+			"date": "2024-07-15T07:08:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> it also depends on so many other factors that you can't formulate a rule of thumb. For example, if you run nginx, then inlining CSS leads to much better FCP and LCP, as it will not send the CSS until the HTML is fully sent over the wire: <a href=\"https://x.com/derSchepp/status/1595334081969020928?t=O6P8EI8Gf_3hNjonQz0wRQ&amp;s=19\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/derSchepp/status/1595334</span><span class=\"invisible\">081969020928?t=O6P8EI8Gf_3hNjonQz0wRQ&amp;s=19</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789380092334286",
+			"parentId": "112789247337906117",
+			"url": "https://mamot.fr/@nhoizey/112789380071199157",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-07-15T07:42:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Schepp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Schepp</span></a></span> without an X account, I can't read the responses to your tweet, were there any?</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789446151269355",
+			"parentId": "112789380092334286",
+			"url": "https://mastodon.social/@Schepp/112789445849117768",
+			"author": {
+				"name": "Christian \"Schepp\" Schaefer",
+				"url": "https://mastodon.social/@Schepp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/814/597/449/022/original/cc8d1c1e842b92c6.jpg"
+			},
+			"date": "2024-07-15T07:59:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> Here is the thread screenshotted. The bug report mentioned is this one: <a href=\"https://issues.chromium.org/issues/41392507\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">issues.chromium.org/issues/413</span><span class=\"invisible\">92507</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789632843380711",
+			"parentId": "112789446151269355",
+			"url": "https://mamot.fr/@nhoizey/112789632812455446",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-07-15T08:46:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Schepp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Schepp</span></a></span> thanks! 🙏</p><p>From what I read in the bug report, Pat Meenan said “it's not likely to work in practice for most origins where it's lucky if they even support prioritization at all”… 😞</p><p>So it looks like inlining critical CSS is important indeed, even more for large HTML documents.</p><p>But inlining CSS is complex and can be detrimental, as shown by <span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@csswizardry\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>csswizardry</span></a></span>: <a href=\"https://csswizardry.com/2022/09/critical-css-not-so-fast/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">csswizardry.com/2022/09/critic</span><span class=\"invisible\">al-css-not-so-fast/</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789881123552481",
+			"parentId": "112789632843380711",
+			"url": "https://mastodon.social/@Schepp/112789881059146450",
+			"author": {
+				"name": "Christian \"Schepp\" Schaefer",
+				"url": "https://mastodon.social/@Schepp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/814/597/449/022/original/cc8d1c1e842b92c6.jpg"
+			},
+			"date": "2024-07-15T09:50:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nhoizey</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@csswizardry\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>csswizardry</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> yes, as always, things are more complicated than initially anticipated. It always depends on the specific setup.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112789982623793054",
+			"parentId": "112789881123552481",
+			"url": "https://mamot.fr/@nhoizey/112789982593312358",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2024-07-15T10:15:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Schepp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Schepp</span></a></span> always indeed. 😅</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@csswizardry\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>csswizardry</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112793031122254308",
+			"parentId": "112789193307207163",
+			"url": "https://mastodon.nz/@mez/112793030910799988",
+			"private": true,
+			"date": "2024-07-15T23:11:06.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112793030897376246",
+			"parentId": "112793031122254308",
+			"url": "https://mastodon.nz/@mez/112793030921301813",
+			"private": true,
+			"date": "2024-07-15T23:11:06.000Z",
+			"via": "fediverse"
+		}
+	]
+}

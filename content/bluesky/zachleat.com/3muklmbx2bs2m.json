@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muklwtyz3k26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/duffeh.bsky.social/post/3muklwtyz3k26",
+			"author": {
+				"name": "Duffeh",
+				"url": "https://bsky.app/profile/duffeh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spulgjrl7sactd23bgqv6jen/bafkreihf42m7kegjr2iu7zucmfcby4dqblokuc7ii3nomjtfv7tod5m6la"
+			},
+			"date": "2026-09-02T18:48:02.939Z",
+			"content": "<p>Company: \"built with our amazing frontend framework\"</p>\n<p>People that understand web dev: \"Why does it do this with the favicon and LCP element?\".</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mukm32dbz22g",
+			"parentId": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muklwtyz3k26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mukm32dbz22g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-02T18:50:23.789Z",
+			"content": "<p>*looks around at everything*</p>",
+			"via": "bluesky"
+		}
+	]
+}

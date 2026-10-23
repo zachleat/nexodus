@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:hss3j2uwxdxklj6f3bx7ch5y/app.bsky.feed.post/3lui3w7hvis2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ernie.tedium.co/post/3lui3w7hvis2h",
+			"author": {
+				"name": "Ernie Smith",
+				"url": "https://bsky.app/profile/ernie.tedium.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hss3j2uwxdxklj6f3bx7ch5y/bafkreihmrt5w2bcwkaqixljzl4ctqyqy5zyvkaos5dawo44xfxk7w2mr5u"
+			},
+			"date": "2025-07-21T13:29:49.975Z",
+			"content": "<p>Great callback. Almost wish it was “Mitt Romney Bad Web Font Problem” so I could hum it as the TMNT theme song</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lui3ywso4k2v",
+			"parentId": "at://did:plc:hss3j2uwxdxklj6f3bx7ch5y/app.bsky.feed.post/3lui3w7hvis2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lui3ywso4k2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-21T13:31:21.555Z",
+			"content": "<p>I think we can both (canonically) get on board with this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hss3j2uwxdxklj6f3bx7ch5y/app.bsky.feed.post/3lui4ajfp4c2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lui3ywso4k2v",
+			"url": "https://bsky.app/profile/ernie.tedium.co/post/3lui4ajfp4c2h",
+			"author": {
+				"name": "Ernie Smith",
+				"url": "https://bsky.app/profile/ernie.tedium.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hss3j2uwxdxklj6f3bx7ch5y/bafkreihmrt5w2bcwkaqixljzl4ctqyqy5zyvkaos5dawo44xfxk7w2mr5u"
+			},
+			"date": "2025-07-21T13:35:35.934Z",
+			"content": "<p>It should be a render of the logo that is also an example of the problem</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y6k2memb5zxdyhl2ufbnw2nk/app.bsky.feed.post/3lui4bs5fuc2k",
+			"parentId": "at://did:plc:hss3j2uwxdxklj6f3bx7ch5y/app.bsky.feed.post/3lui3w7hvis2h",
+			"url": "https://bsky.app/profile/elibelly.dev/post/3lui4bs5fuc2k",
+			"author": {
+				"name": "Eli Schutze",
+				"url": "https://bsky.app/profile/elibelly.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6k2memb5zxdyhl2ufbnw2nk/bafkreiavy3ojijw7whh6g7rdmmxqan7xbozdy4ovrzkrt75xjdjdbro634"
+			},
+			"date": "2025-07-21T13:36:18.654Z",
+			"content": "<p>Maybe it is but the font hasn't loaded</p>",
+			"via": "bluesky"
+		}
+	]
+}

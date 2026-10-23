@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqagt47e3226",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ivancuric.npmx.social/post/3lqagt47e3226",
+			"author": {
+				"name": "Ivan Čurić",
+				"url": "https://bsky.app/profile/ivancuric.npmx.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxp24sbnpwbgg5lkc7rfilas/bafkreiejz4dkrepjzrj7dulke6evbkxxcltv5ue5lyh6ji3yguh3cjrj2a"
+			},
+			"date": "2025-05-28T14:42:52.628Z",
+			"content": "<p>Most of the content is covering SSR / metaframework stuff.</p>\n<p>What I'm astounded by is how the core model of React is bad:<br>\n- everything is pure, no need to worry<br>\n- except when it isn't<br>\n- just use useState<br>\n- except if you want performance<br>\n- here's 5 more primitives to skirt around the render cycle</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqagt4zots26",
+			"parentId": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqagt47e3226",
+			"url": "https://bsky.app/profile/ivancuric.npmx.social/post/3lqagt4zots26",
+			"author": {
+				"name": "Ivan Čurić",
+				"url": "https://bsky.app/profile/ivancuric.npmx.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxp24sbnpwbgg5lkc7rfilas/bafkreiejz4dkrepjzrj7dulke6evbkxxcltv5ue5lyh6ji3yguh3cjrj2a"
+			},
+			"date": "2025-05-28T14:42:52.629Z",
+			"content": "<p>- oops we added more footguns<br>\n- no, the users are wrong<br>\n- actually, here's a compiler so that you don't need to think about workarounds<br>\n- but it only kinda works if you are aware of the footguns and code defensively<br>\n- TRUST ME BRO ITS FAST, WHO NEEDS 60 FPS ANYWAY<br>\n- just eject if you need perf<br>\n- etc</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqagwnzd2226",
+			"parentId": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqagt4zots26",
+			"url": "https://bsky.app/profile/ivancuric.npmx.social/post/3lqagwnzd2226",
+			"author": {
+				"name": "Ivan Čurić",
+				"url": "https://bsky.app/profile/ivancuric.npmx.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxp24sbnpwbgg5lkc7rfilas/bafkreiejz4dkrepjzrj7dulke6evbkxxcltv5ue5lyh6ji3yguh3cjrj2a"
+			},
+			"date": "2025-05-28T14:44:51.968Z",
+			"content": "<p>If you look at anything react-based, which is performant, like:<br>\n- stuff from poimandres<br>\n- tldraw<br>\n- motion<br>\n- tanstack<br>\n- react-three/fiber</p>\n<p>What they have in common is that they use react as keyframes, but most of the actual logic is done by ejecting from react and syncing once the actual work is done</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqahbo4tlk26",
+			"parentId": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqagwnzd2226",
+			"url": "https://bsky.app/profile/ivancuric.npmx.social/post/3lqahbo4tlk26",
+			"author": {
+				"name": "Ivan Čurić",
+				"url": "https://bsky.app/profile/ivancuric.npmx.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxp24sbnpwbgg5lkc7rfilas/bafkreiejz4dkrepjzrj7dulke6evbkxxcltv5ue5lyh6ji3yguh3cjrj2a"
+			},
+			"date": "2025-05-28T14:51:01.183Z",
+			"content": "<p>Not even getting into shipping 200kb of runtime JS, when there are more powerful and performant solutions at 2% of that size.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqahcmbolk2z",
+			"parentId": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqahbo4tlk26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lqahcmbolk2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-28T14:51:32.799Z",
+			"content": "<p>yep.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wxp24sbnpwbgg5lkc7rfilas/app.bsky.feed.post/3lqahkskros2v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqahcmbolk2z",
+			"url": "https://bsky.app/profile/ivancuric.npmx.social/post/3lqahkskros2v",
+			"author": {
+				"name": "Ivan Čurić",
+				"url": "https://bsky.app/profile/ivancuric.npmx.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxp24sbnpwbgg5lkc7rfilas/bafkreiejz4dkrepjzrj7dulke6evbkxxcltv5ue5lyh6ji3yguh3cjrj2a"
+			},
+			"date": "2025-05-28T14:56:07.823Z",
+			"content": "<p>But honestly the worst thing is how outright demented the framework is. And I'm using that word intentionally.</p>\n<p>Anything might get invalidated or re-executed at any point, so you better take proactive measures.</p>\n<p>The vast majority of the code is guardrails and bypasses.</p>",
+			"via": "bluesky"
+		}
+	]
+}

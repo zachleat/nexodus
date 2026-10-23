@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "110436686334381014",
+			"parentId": 0,
+			"url": "https://a11y.info/@ben/110436686239157652",
+			"author": {
+				"name": "Ben Myers 🦖",
+				"url": "https://a11y.info/@ben",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/850/606/919/513/original/60b6c78eb03590ac.jpg"
+			},
+			"date": "2023-05-26T19:41:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Tangentially, Apple just announced that  M1/M2 MacBooks will be able to connect to Made For iPhone hearing aids via Bluetooth, and now I'm morbidly intrigued about the idea of changing my hearing aid volume with my keyboard.</p><p>…Feels like it would never happen how I expect.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110436704603188717",
+			"parentId": "110436686334381014",
+			"url": "https://fediverse.zachleat.com/@zachleat/110436704603188717",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-26T19:46:20.294Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\">@<span>ben</span></a></span> fascinating!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110436709209510876",
+			"parentId": "110436704603188717",
+			"url": "https://a11y.info/@ben/110436709162285286",
+			"author": {
+				"name": "Ben Myers 🦖",
+				"url": "https://a11y.info/@ben",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/850/606/919/513/original/60b6c78eb03590ac.jpg"
+			},
+			"date": "2023-05-26T19:47:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (I don't know if keyboards will factor into support at all, purely musing about the prospect, but I will say that I'm excited about finally not needing to blast computer audio through my speakers)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110436752556834691",
+			"parentId": "110436709209510876",
+			"url": "https://fediverse.zachleat.com/@zachleat/110436752556834691",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-26T19:58:32.010Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\">@<span>ben</span></a></span> given current support—who knows 🤷🏻</p>",
+			"via": "fediverse"
+		}
+	]
+}

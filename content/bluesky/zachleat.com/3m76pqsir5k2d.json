@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3m76s2amyck2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3m76s2amyck2i",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2025-12-04T20:16:18.249Z",
+			"content": "<p>Only system in the world where the solution to a problem is “it’s always DNS” and “it’s never DNS” _at the same time_</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m76s4xfa5k2l",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3m76s2amyck2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m76s4xfa5k2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-04T20:17:49.223Z",
+			"content": "<p>schrödinger’s cat could never</p>",
+			"via": "bluesky"
+		}
+	]
+}

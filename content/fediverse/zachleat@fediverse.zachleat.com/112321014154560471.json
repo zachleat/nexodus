@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "112321068486364494",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jawnsy/112321068417838742",
+			"author": {
+				"name": "Jonathan Yu",
+				"url": "https://mastodon.social/@jawnsy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/690/794/724/729/924/original/b78eb818922f60ba.jpeg"
+			},
+			"date": "2024-04-23T14:44:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think that's a common problem with vendor-driven open source projects. I sympathize with them because they've created a bunch of value and, understandably, they want to capture it. </p><p>What would you recommend as an alternative?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321195515276815",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112321195515276815",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-23T15:17:09.617Z",
+			"content": "<p>For me, it’s hard not to see the larger problem (and not limited to Vercel).</p><p>Hosting providers are prioritizing dynamic features because dynamic things make more money!</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\">@<span>jlengstorf</span></a></span> said it first: <a href=\"https://www.youtube.com/shorts/tf2erRqdwqc\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/shorts/tf2erRqdwqc</span><span class=\"invisible\"></span></a> on <a href=\"https://fediverse.zachleat.com/tags/TheFutureOfJamstack\" class=\"mention hashtag\" rel=\"tag\">#<span>TheFutureOfJamstack</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112321206557480384",
+			"parentId": "112321195515276815",
+			"url": "https://mastodon.social/@khalidabuhakmeh/112321205640271803",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-04-23T15:19:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jlengstorf</span></a></span> This guy gets it. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112322324910606002",
+			"parentId": "112321195515276815",
+			"url": "https://fosstodon.org/@ahoyboyhoy/112322324517133525",
+			"author": {
+				"name": "ahoyboyhoy",
+				"url": "https://fosstodon.org/@ahoyboyhoy",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-04-23T20:04:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jlengstorf</span></a></span> Vercel just sent me a notice of pricing changes. Edge functions are now a lot more expensive if I understand it properly.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112325332286241832",
+			"parentId": 0,
+			"url": "https://mstdn.jp/@otowa0/112325332264633624",
+			"author": {
+				"name": "Otowa",
+				"url": "https://mstdn.jp/@otowa0",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/211/735/835/430/957/original/18223ebda59741ab.png"
+			},
+			"date": "2024-04-24T08:49:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> React officially recommends using frameworks, and it feels like a problem when considering that NextJS is mentioned first. If it says on the first page of the documentation, \"Do you want to use the most popular framework? ① Pay $20 a month to Vercel...,\" will everyone use React?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112327744516430576",
+			"parentId": "112325332286241832",
+			"url": "https://fediverse.zachleat.com/@zachleat/112327744516430576",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-24T19:02:39.443Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.jp/@otowa0\" class=\"u-url mention\">@<span>otowa0</span></a></span> That is a very awkward relationship, yes! Especially as Vercel hired some of the React core team from Meta iirc?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112327768249231392",
+			"parentId": "112322324910606002",
+			"url": "https://fediverse.zachleat.com/@zachleat/112327768249231392",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-24T19:08:41.577Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@ahoyboyhoy\" class=\"u-url mention\">@<span>ahoyboyhoy</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\">@<span>jlengstorf</span></a></span> SaaS pricing at this point is so complex that it’s almost impossible to predict what anything will cost</p>",
+			"via": "fediverse"
+		}
+	]
+}

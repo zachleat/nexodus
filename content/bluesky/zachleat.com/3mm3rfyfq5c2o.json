@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:gzymh5fce2h7hvjm7vsqh2l4/app.bsky.feed.post/3mm4wxcmiec2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/conr.dev/post/3mm4wxcmiec2u",
+			"author": {
+				"name": "Conor 👨🏻‍💻",
+				"url": "https://bsky.app/profile/conr.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gzymh5fce2h7hvjm7vsqh2l4/bafkreib4ikukb3dgaqkzdqekjbyjpqvwqd2x77hajbctauoequ2t274zdq"
+			},
+			"date": "2026-05-18T13:06:20.062Z",
+			"content": "<p>Are you in KS too?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm53gbe7jc2l",
+			"parentId": "at://did:plc:gzymh5fce2h7hvjm7vsqh2l4/app.bsky.feed.post/3mm4wxcmiec2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mm53gbe7jc2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-18T14:26:17.026Z",
+			"content": "<p>IA! (not information architecture)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gzymh5fce2h7hvjm7vsqh2l4/app.bsky.feed.post/3mm6k2riqbs2l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm53gbe7jc2l",
+			"url": "https://bsky.app/profile/conr.dev/post/3mm6k2riqbs2l",
+			"author": {
+				"name": "Conor 👨🏻‍💻",
+				"url": "https://bsky.app/profile/conr.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gzymh5fce2h7hvjm7vsqh2l4/bafkreib4ikukb3dgaqkzdqekjbyjpqvwqd2x77hajbctauoequ2t274zdq"
+			},
+			"date": "2026-05-19T04:20:57.164Z",
+			"content": "<p>We are both getting nailed right now.</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:lbun7donnfmdtqzxvimmahxz/app.bsky.feed.post/3megzgzyefc2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/spacep1ckle.bsky.social/post/3megzgzyefc2r",
+			"author": {
+				"name": "Spacepickle",
+				"url": "https://bsky.app/profile/spacep1ckle.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lbun7donnfmdtqzxvimmahxz/bafkreigia4x7d2zcsmsqe64mvk45gfluusxemqbiujeh55yv5kh7y7m5xm"
+			},
+			"date": "2026-02-09T17:55:59.730Z",
+			"content": "<p>That's straight out of some cringe Tom Cruise movie. I'm picturing a dude in a van pressing a button to listen in on someone's earbuds</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megzmrwgv22o",
+			"parentId": "at://did:plc:lbun7donnfmdtqzxvimmahxz/app.bsky.feed.post/3megzgzyefc2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3megzmrwgv22o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-09T17:59:12.605Z",
+			"content": "<p>male loneliness epidemic as bluetooth security mitigation</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3meh2hooh3k2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3meh2hooh3k2t",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-02-09T18:14:15.167Z",
+			"content": "<p>it's more a Faraday crate if I'm being honest with myself</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3meh4p4rwoc2s",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3meh2hooh3k2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3meh4p4rwoc2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-09T18:54:12.325Z",
+			"content": "<p>faraday lootcrate subscription offers lootcrates delivered to direct to bunker or abandoned missile silo</p>",
+			"via": "bluesky"
+		}
+	]
+}

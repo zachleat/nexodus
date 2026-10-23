@@ -1,0 +1,98 @@
+{
+	"comments": [
+		{
+			"id": "111364229549085710",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/111364229366657660",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-11-06T15:08:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “The sale of Wordle completely fell through when investors found they could easily drop the component onto their website with little effort…”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364231128666200",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/111364230981533645",
+			"private": true,
+			"date": "2023-11-06T15:08:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364235741918868",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jed/111364235666671238",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2023-11-06T15:09:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> where to hypthenate tho… &lt;word-le&gt;? &lt;w-rdle&gt;?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364239217257661",
+			"parentId": "111364229549085710",
+			"url": "https://fediverse.zachleat.com/@zachleat/111364239217257661",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-06T15:10:35.321Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> oh no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364248061578688",
+			"parentId": "111364235741918868",
+			"url": "https://fediverse.zachleat.com/@zachleat/111364248061578688",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-06T15:12:50.276Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> I think you gotta go &lt;hyphenatedword-le&gt;</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364249346930471",
+			"parentId": "111364231128666200",
+			"url": "https://fediverse.zachleat.com/@zachleat/111364249346930471",
+			"private": true,
+			"date": "2023-11-06T15:13:09.888Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364319296610326",
+			"parentId": "111364248061578688",
+			"url": "https://mastodon.social/@jed/111364318856682558",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://mastodon.social/@jed",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/318/147/571/548/original/17d45c74cc9c0835.jpeg"
+			},
+			"date": "2023-11-06T15:30:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> or maybe &lt;dl is=w-r&gt;?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364441629989222",
+			"parentId": "111364319296610326",
+			"url": "https://fediverse.zachleat.com/@zachleat/111364441629989222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-06T16:02:03.896Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jed\" class=\"u-url mention\">@<span>jed</span></a></span> let’s not split heresy, here</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"comments": [
+		{
+			"id": "112842392287163187",
+			"parentId": 0,
+			"url": "https://masto.ai/@jeromechoo/112842392263936286",
+			"author": {
+				"name": "Jerome (He/Him)",
+				"url": "https://masto.ai/@jeromechoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/757/780/577/393/827/original/1d3d51e5edba521f.png"
+			},
+			"date": "2024-07-24T16:24:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> rip heroku</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112842398008424808",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112842398008424808",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-24T16:25:48.516Z",
+			"content": "<p>thing becomes popular because it’s free to use ♻️ popular thing goes away because it’s now too expensive to run</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112842521134541100",
+			"parentId": "112842398008424808",
+			"url": "https://mastodon.social/@sil/112842506754435997",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-24T16:53:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://blog.pinboard.in/2011/12/don_t_be_a_free_user/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.pinboard.in/2011/12/don_t</span><span class=\"invisible\">_be_a_free_user/</span></a> is useful wisdom on this from a decade or so ago</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112842747750017415",
+			"parentId": "112842521134541100",
+			"url": "https://fediverse.zachleat.com/@zachleat/112842747750017415",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-24T17:54:45.151Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> whew, yeah—buyouts too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112843249589351823",
+			"parentId": "112842398008424808",
+			"url": "https://fosstodon.org/@greenman/112843249575987006",
+			"private": true,
+			"date": "2024-07-24T20:02:22.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112843389564238680",
+			"parentId": "112843249589351823",
+			"url": "https://fediverse.zachleat.com/@zachleat/112843389564238680",
+			"private": true,
+			"date": "2024-07-24T20:37:58.458Z",
+			"via": "fediverse"
+		}
+	]
+}

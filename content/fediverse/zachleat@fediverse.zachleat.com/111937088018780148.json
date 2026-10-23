@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "111941178205881122",
+			"parentId": 0,
+			"url": "https://mastodon.social/@buttondown/111941177811897809",
+			"author": {
+				"name": "Buttondown",
+				"url": "https://mastodon.social/@buttondown",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/424/341/345/234/955/original/44d932673b92cf3e.png"
+			},
+			"date": "2024-02-16T12:33:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh no! Does it happen in incognito too? I'm not seeing the error on my end so it might be an interaction with a browser extension?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111941647185603392",
+			"parentId": "111941178205881122",
+			"url": "https://fediverse.zachleat.com/@zachleat/111941647185603392",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-16T14:33:01.715Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@buttondown\" class=\"u-url mention\">@<span>buttondown</span></a></span> Safari ok, Chrome (not logged in) has the error (attached below), Firefox (logged in) has the error. Both FF and Chrome work fine in incognito mode.</p><p>I disabled all my Chrome extensions and it still exhibits the error—localStorage has a typescript value in there but sessionStorage, cookies, service workers are all empty.</p><p>Let me know if I can help any more!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111941675903281976",
+			"parentId": "111941647185603392",
+			"url": "https://fediverse.zachleat.com/@zachleat/111941675903281976",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-16T14:40:19.911Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@buttondown\" class=\"u-url mention\">@<span>buttondown</span></a></span> I should also note that this is a *low priority* issue (for me), not a blocker to anything I’m working on—if no one else has reported it, not a big deal!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111944566457011676",
+			"parentId": "111941675903281976",
+			"url": "https://mastodon.social/@buttondown/111944566401021280",
+			"author": {
+				"name": "Buttondown",
+				"url": "https://mastodon.social/@buttondown",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/424/341/345/234/955/original/44d932673b92cf3e.png"
+			},
+			"date": "2024-02-17T02:55:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Interesting! Thank you for reporting though, I will poke around and see what I can figure out.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "113346174050799647",
+			"parentId": 0,
+			"url": "https://stefanbohacek.online/@stefan/113346173996315650",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/946/687/737/848/original/8b728a10cac32c70.png"
+			},
+			"date": "2024-10-21T15:42:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sometimes I just think about all the effort that goes into building and maintaining these frameworks, and how things would look if just a fraction of that would've been put towards contributing to web standards.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113346192383351808",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/113346192268196726",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-10-21T15:47:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is not the kind of hateful propaganda I expected when I subscribed to zachleat dot corn oh wait no this is exactly right</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113346196659971714",
+			"parentId": "113346174050799647",
+			"url": "https://fediverse.zachleat.com/@zachleat/113346196659971714",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-21T15:48:25.872Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stefanbohacek.online/@stefan\" class=\"u-url mention\">@<span>stefan</span></a></span> plenty of room for abstractions of all kinds in the big tent of the web—it’d be nice to get more momentum on web components though!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113346198669318154",
+			"parentId": "113346192383351808",
+			"url": "https://fediverse.zachleat.com/@zachleat/113346198669318154",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-21T15:48:56.532Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> omg .corn</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113346364506213349",
+			"parentId": "113346198669318154",
+			"url": "https://mastodon.cc/@jgarber/113346364097224323",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-10-21T16:31:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I can’t claim to have originated it, but I sure as heck get some miles out of it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113346376025504053",
+			"parentId": 0,
+			"url": "https://mas.to/@psarant/113346375953988417",
+			"author": {
+				"name": "psarant",
+				"url": "https://mas.to/@psarant",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-10-21T16:34:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> how will I know if they are functionally complete or abandoned, if “last published” didn’t change with everyone else’s timing?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113346383629119987",
+			"parentId": "113346364506213349",
+			"url": "https://fediverse.zachleat.com/@zachleat/113346383629119987",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-21T16:35:58.794Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> <a href=\"https://fediverse.zachleat.com/@zachleat/113147714884891434\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/113147714884891434</span></a> if it ever goes live I will buy this one so fast</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113346392230328374",
+			"parentId": "113346376025504053",
+			"url": "https://fediverse.zachleat.com/@zachleat/113346392230328374",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-21T16:38:10.038Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@psarant\" class=\"u-url mention\">@<span>psarant</span></a></span> everyone must turn the key they wear around their neck at the same time</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113355525337738505",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@hasanhaja/113355525317786436",
+			"author": {
+				"name": "Hasan Ali",
+				"url": "https://fosstodon.org/@hasanhaja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/698/107/255/349/105/original/a8b5515bdc4a7805.png"
+			},
+			"date": "2024-10-23T07:20:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but what about the fact that they put the whole web at risk???</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113356763853692248",
+			"parentId": "113355525337738505",
+			"url": "https://fediverse.zachleat.com/@zachleat/113356763853692248",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-23T12:35:48.452Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hasanhaja\" class=\"u-url mention\">@<span>hasanhaja</span></a></span> lol</p>",
+			"via": "fediverse"
+		}
+	]
+}

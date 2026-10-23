@@ -1,0 +1,111 @@
+{
+	"comments": [
+		{
+			"id": "112355356322806490",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/112355356289697865",
+			"private": true,
+			"date": "2024-04-29T16:04:41.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112355361523865218",
+			"parentId": "112355356322806490",
+			"url": "https://fediverse.zachleat.com/@zachleat/112355361523865218",
+			"private": true,
+			"date": "2024-04-29T16:06:01.534Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112355462180485564",
+			"parentId": 0,
+			"url": "https://toot.cafe/@bkardell/112355461987619242",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2024-04-29T16:31:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But was it fast?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112355473348114872",
+			"parentId": "112355462180485564",
+			"url": "https://fediverse.zachleat.com/@zachleat/112355473348114872",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-29T16:34:27.837Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> how could I know?!?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112355828059166698",
+			"parentId": "112355473348114872",
+			"url": "https://toot.cafe/@bkardell/112355827917317526",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2024-04-29T18:04:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Everything is ok as long as you fail fast, right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112355994131803473",
+			"parentId": "112355828059166698",
+			"url": "https://fediverse.zachleat.com/@zachleat/112355994131803473",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-29T18:46:54.365Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> everything is okay if you move fast AND break things. Do not move slow. Do not fix things.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112372165254600921",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Zearin/112372165205465182",
+			"author": {
+				"name": "Zearin",
+				"url": "https://mastodon.social/@Zearin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/649/109/777/365/234/original/08ea4f2d7e8778bd.jpeg"
+			},
+			"date": "2024-05-02T15:19:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hmm. Pick a solution:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112372169245279668",
+			"parentId": "112372165254600921",
+			"url": "https://fediverse.zachleat.com/@zachleat/112372169245279668",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-02T15:20:27.009Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Zearin\" class=\"u-url mention\">@<span>Zearin</span></a></span> who watches the watchers 😅</p><p>Just retested and the service is still down. 😬  <a href=\"https://www.webpagetest.org/video/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">webpagetest.org/video/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112372182414614059",
+			"parentId": "112372169245279668",
+			"url": "https://mastodon.social/@Zearin/112372182369102787",
+			"author": {
+				"name": "Zearin",
+				"url": "https://mastodon.social/@Zearin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/649/109/777/365/234/original/08ea4f2d7e8778bd.jpeg"
+			},
+			"date": "2024-05-02T15:23:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Don’t tempt me to start another poll with watcherwatcher, metawatcher… 🥸</p>",
+			"via": "fediverse"
+		}
+	]
+}

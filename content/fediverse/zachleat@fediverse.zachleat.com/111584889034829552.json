@@ -1,0 +1,756 @@
+{
+	"comments": [
+		{
+			"id": "111584912397718396",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/111584912265152508",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2023-12-15T14:30:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Can you make a &lt;snow-shovel&gt; component next?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111584963705473563",
+			"parentId": 0,
+			"url": "https://mastodon.social/@raymondcamden/111584963305743600",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2023-12-15T14:43:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> small plea - maybe also host the JS? i hate to npm install anything on a simple web project that doesn't need node_modules, know what i mean?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111584970289624166",
+			"parentId": "111584963705473563",
+			"url": "https://fediverse.zachleat.com/@zachleat/111584970289624166",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T14:45:24.194Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\">@<span>raymondcamden</span></a></span> do you mean like start my own web components CDN? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111584980237097403",
+			"parentId": "111584970289624166",
+			"url": "https://mastodon.social/@raymondcamden/111584980159171479",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2023-12-15T14:47:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> heh, that's overkill probably. just in general it feels like we should avoid needing to use npm to install simple stuff. wouldnt you agree?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111584989188040130",
+			"parentId": "111584980237097403",
+			"url": "https://fediverse.zachleat.com/@zachleat/111584989188040130",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T14:50:12.561Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\">@<span>raymondcamden</span></a></span> ah yeah, for sure! I’m just confused as to the question—it doesn’t have any dependencies, so it doesn’t “require” `npm` at all.</p><p>Probably reusing this copy would have been better: <a href=\"https://github.com/zachleat/table-saw#installation\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/table-saw#</span><span class=\"invisible\">installation</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585026571461999",
+			"parentId": 0,
+			"url": "https://seocommunity.social/@simoncox/111585026277995958",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2023-12-15T14:59:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Thank you Zach! Had to make a small css change on the background so you can see the snowflakes but now <a href=\"http://www.simoncox.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">simoncox.com</span><span class=\"invisible\"></span></a> is decorated for Christmas!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585037080036443",
+			"parentId": "111585026571461999",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585037080036443",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T15:02:23.335Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\">@<span>simoncox</span></a></span> ah do you mean to your web site’s background or to &lt;snow-fall&gt;? Looks great!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585050016522963",
+			"parentId": 0,
+			"url": "https://sunny.garden/@kayserifserif/111585049957263503",
+			"private": true,
+			"date": "2023-12-15T15:05:39.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585065109975140",
+			"parentId": "111585037080036443",
+			"url": "https://seocommunity.social/@simoncox/111585065042231859",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2023-12-15T15:09:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> To the page background - though i notice on your site you have a white background so you can only see the snow where there is a darker images or component - subtle!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585072357751126",
+			"parentId": "111584989188040130",
+			"url": "https://mastodon.social/@raymondcamden/111585072238468226",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2023-12-15T15:11:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i was overthinking it honestly - you link to the source on top - id just download from there if i wanted to skip npm. sorry :&gt;</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585170695311813",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/111585170636218059",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-12-15T15:36:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Why doesn't your website follow my dark mode user preferences so I can see even more of this snow!?!?</p><p>Also, feature request 😉, can you add a `pile` attribute that causes the snow to pile up from the bottom of the element to which it applies? Sort of a timer after which a user should return to eating cookie and sipping hot chocolate by the fire... ☕ 🍪 🔥 🎅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585218128934207",
+			"parentId": "111584963705473563",
+			"url": "https://sunny.garden/@knowler/111585218083101762",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2023-12-15T15:48:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>raymondcamden</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Little tip: you can use esm.sh for code on GitHub. Versioning is ultimately commit based, but you can use tags too. I usually include the `?raw` param so it doesn’t do any of its bundling. Example:</p><p><a href=\"https://esm.sh/gh/zachleat/snow-fall/snow-fall.js?raw\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">esm.sh/gh/zachleat/snow-fall/s</span><span class=\"invisible\">now-fall.js?raw</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585247287067134",
+			"parentId": "111585170695311813",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585247287067134",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T15:55:50.840Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> PRs welcome 😈😈😈 (not for dark mode 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585252655984951",
+			"parentId": "111584912397718396",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585252655984951",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T15:57:12.763Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> .remove() 😈</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585254944990444",
+			"parentId": "111585072357751126",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585254944990444",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T15:57:47.690Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\">@<span>raymondcamden</span></a></span> ah no worries! I think it’s fine to call it out—I just got lazy on the README 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585259211814934",
+			"parentId": "111585247287067134",
+			"url": "https://mastodon.social/@westbrook/111585258493526888",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-12-15T15:58:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The user agent is always right? 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585261835553510",
+			"parentId": 0,
+			"url": "https://indieweb.social/@miguel/111585261543854078",
+			"author": {
+				"name": "Miguel",
+				"url": "https://indieweb.social/@miguel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/652/633/704/283/132/original/22a3b79ebf73d762.jpeg"
+			},
+			"date": "2023-12-15T15:59:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> neat! just in time for the holidays</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585289916786925",
+			"parentId": "111585259211814934",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585289916786925",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T16:06:41.318Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> for sure and I may add one at some point but only when I want to 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585292685842194",
+			"parentId": "111585261835553510",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585292685842194",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T16:07:23.570Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@miguel\" class=\"u-url mention\">@<span>miguel</span></a></span> thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585300972619085",
+			"parentId": "111585254944990444",
+			"url": "https://mastodon.social/@raymondcamden/111585300697504968",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2023-12-15T16:09:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ... a developer... being lazy..... UNHEARD OF!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585355590206093",
+			"parentId": "111585252655984951",
+			"url": "https://mastodon.social/@noleli/111585355074595451",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2023-12-15T16:23:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>knowler</span></a></span> long live Mowing Man</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585358642478125",
+			"parentId": "111585355590206093",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585358642478125",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T16:24:09.990Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> wait what is this?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585433967103745",
+			"parentId": "111585358642478125",
+			"url": "https://mastodon.social/@noleli/111585433773107231",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2023-12-15T16:43:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>knowler</span></a></span> a classic Mac screensaver from the ’90s, from the same set as the venerable flying toasters! I grew up on this stuff 🤓 <a href=\"https://en.wikipedia.org/wiki/After_Dark_(software)\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/After_Da</span><span class=\"invisible\">rk_(software)</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585442500595925",
+			"parentId": 0,
+			"url": "https://social.lol/@bw/111585442416616867",
+			"author": {
+				"name": "Blake Watson :prami:",
+				"url": "https://social.lol/@bw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/712/605/727/192/440/original/576348ada777517b.jpeg"
+			},
+			"date": "2023-12-15T16:45:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ayyyy <a href=\"https://bw.omg.lol/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bw.omg.lol/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585456381216379",
+			"parentId": 0,
+			"url": "https://piaille.fr/@tbroyer/111585454702562025",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-12-15T16:48:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Fwiw, thanks for using the shadow DOM here, perfect use case for it 👌</p><p>(been wanting to try and make a PR to do the same for <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefan</span></a></span>'s sparkly-text <a href=\"https://www.stefanjudis.com/blog/a-web-component-to-make-your-text-sparkle/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">stefanjudis.com/blog/a-web-com</span><span class=\"invisible\">ponent-to-make-your-text-sparkle/</span></a>, haven't taken the time yet)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585518124427774",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111585518124427774",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:04:43.491Z",
+			"content": "<p>A few folks have already added this to their web site! 🏆</p><p>1️⃣ <span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\">@<span>simoncox</span></a></span>’s <a href=\"http://www.simoncox.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">simoncox.com/</span><span class=\"invisible\"></span></a><br />2️⃣ <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\">@<span>bw</span></a></span>’s <a href=\"https://bw.omg.lol/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bw.omg.lol/</span><span class=\"invisible\"></span></a><br />3️⃣ <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jhofker\" class=\"u-url mention\">@<span>jhofker</span></a></span>’s <a href=\"https://jordan.hofker.org/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jordan.hofker.org/</span><span class=\"invisible\"></span></a><br />4️⃣ <a href=\"https://ndyg.omg.lol/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ndyg.omg.lol/</span><span class=\"invisible\"></span></a></p><p>Quick work!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585521181011343",
+			"parentId": "111585442500595925",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585521181011343",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:05:30.131Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\">@<span>bw</span></a></span> awesome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585523610549848",
+			"parentId": "111585433967103745",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585523610549848",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:06:07.203Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> web sites need screensavers 😅</p><p>wait I think I remember one of these, was it <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\">@<span>stefan</span></a></span>?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585526728061305",
+			"parentId": "111585456381216379",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585526728061305",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:06:54.773Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\">@<span>stefan</span></a></span> yeah! Shadow DOM is a good tool to have in the toolbox 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585538375562794",
+			"parentId": "111585518124427774",
+			"url": "https://seocommunity.social/@simoncox/111585538328351013",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2023-12-15T17:09:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Just happened to look at socials for a quick break and there was your post - took 5mins to implement! Looks great on <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span>’s  site!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585545146071571",
+			"parentId": "111585518124427774",
+			"url": "https://social.lol/@robb/111585544983821723",
+			"author": {
+				"name": "Robb Knightmare",
+				"url": "https://social.lol/@robb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/140/852/436/591/original/6dcfe56e107ff191.jpg"
+			},
+			"date": "2023-12-15T17:11:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> and another! <a href=\"https://ndyg.omg.lol/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ndyg.omg.lol/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585553929463930",
+			"parentId": "111585545146071571",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585553929463930",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:13:49.832Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@robb\" class=\"u-url mention\">@<span>robb</span></a></span> awesome—that’s not your web site is it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585601394998030",
+			"parentId": 0,
+			"url": "https://indieweb.social/@tbeseda/111585601324509060",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2023-12-15T17:25:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hey nice!<br>Looks great on my dark mode and even in light mode when there's an image or code block🤘 like <a href=\"https://tbeseda.com/blog/super-helpful-server-timing-http-response-headers\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tbeseda.com/blog/super-helpful</span><span class=\"invisible\">-server-timing-http-response-headers</span></a> </p><p>I combined it with `const isWinter = [10, 11, 0, 1].includes(new Date().getMonth())` - bc I will probably forget I added it and don't want it snowing in July!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585615574588693",
+			"parentId": "111585601394998030",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585615574588693",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:29:30.461Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\">@<span>tbeseda</span></a></span> awesome!</p><p>do I need to add an &lt;is-land&gt; loading condition for local date/time?? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585651314456232",
+			"parentId": "111585553929463930",
+			"url": "https://social.lol/@robb/111585651130366403",
+			"author": {
+				"name": "Robb Knightmare",
+				"url": "https://social.lol/@robb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/140/852/436/591/original/6dcfe56e107ff191.jpg"
+			},
+			"date": "2023-12-15T17:38:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it’s not, no</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585662169538163",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@jhofker/111585661896753976",
+			"author": {
+				"name": "Jordan",
+				"url": "https://hachyderm.io/@jhofker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/960/616/148/533/original/13fff24ccd31bf87.png"
+			},
+			"date": "2023-12-15T17:41:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Easy-peasy to get added. Cool! <a href=\"https://jordan.hofker.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">jordan.hofker.org/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585693508198620",
+			"parentId": "111585662169538163",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585693508198620",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:49:19.634Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jhofker\" class=\"u-url mention\">@<span>jhofker</span></a></span> yay!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585713138641489",
+			"parentId": "111585615574588693",
+			"url": "https://indieweb.social/@tbeseda/111585713113057567",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2023-12-15T17:54:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not a bad idea! Things get real weird between server/user/developer time though…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585718993998797",
+			"parentId": "111585713138641489",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585718993998797",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T17:55:48.516Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\">@<span>tbeseda</span></a></span> on:daytime on:nighttime on:winter 😅</p><p>(&lt;is-land&gt; is client only)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585720923858100",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/111585720852167043",
+			"private": true,
+			"date": "2023-12-15T17:56:16.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585725208582950",
+			"parentId": "111585720923858100",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585725208582950",
+			"private": true,
+			"date": "2023-12-15T17:57:23.343Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585787046299839",
+			"parentId": "111585718993998797",
+			"url": "https://indieweb.social/@tbeseda/111585786994551099",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2023-12-15T18:13:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oooh that's nice. But what about \"winter\" in Australia? Human Time vs Machine Time has so many sharp corners... I've got the scars to prove it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111585878305668947",
+			"parentId": "111585787046299839",
+			"url": "https://fediverse.zachleat.com/@zachleat/111585878305668947",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T18:36:19.419Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\">@<span>tbeseda</span></a></span> oh no—it might be easier to use a weather API to only show when it’s snowing near you</p><p>(I’m already scared away from adding this 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586119182760728",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@hexagoncircle/111586118757692670",
+			"author": {
+				"name": "Ryan Mulligan",
+				"url": "https://fosstodon.org/@hexagoncircle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/282/587/430/600/original/25cefa80851591f6.jpeg"
+			},
+			"date": "2023-12-15T19:37:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oooo, this is fun! It's awesome that you can set the snow color through a CSS variable. I gave this a go on my site locally, passing in the selected theme color 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586144309328051",
+			"parentId": "111586119182760728",
+			"url": "https://fediverse.zachleat.com/@zachleat/111586144309328051",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T19:43:58.313Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hexagoncircle\" class=\"u-url mention\">@<span>hexagoncircle</span></a></span> ooooh that’s beautiful</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586738566765477",
+			"parentId": 0,
+			"url": "https://varmint.town/@srwild/111586738542966611",
+			"author": {
+				"name": "Scott Wild",
+				"url": "https://varmint.town/@srwild",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/517/801/842/304/original/91cfdd06612f47ba.png"
+			},
+			"date": "2023-12-15T22:15:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thank you for this! It’s 45° F and there’s no snow here in Vermont, but at least our website has snow now.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586752148172086",
+			"parentId": "111586738566765477",
+			"url": "https://fediverse.zachleat.com/@zachleat/111586752148172086",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T22:18:33.198Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://varmint.town/@srwild\" class=\"u-url mention\">@<span>srwild</span></a></span> yay! is it live somewhere?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586799319347428",
+			"parentId": "111585456381216379",
+			"url": "https://piaille.fr/@tbroyer/111586799271687081",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-12-15T22:30:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefan</span></a></span> Fwiw, here it is (sparkly-text with Shadow DOM)</p><p><a href=\"https://codepen.io/tbroyer/pen/abXgYEy\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codepen.io/tbroyer/pen/abXgYEy</span><span class=\"invisible\"></span></a></p><p>It won't work in Safari &lt; 16.4 due to lack of support for constructible stylesheet (I used the same detection code as Zach) but that can be worked around if needed by adding a &lt;style&gt; element in the shadow DOM.<br>BTW, things could be optimized too (create CSSStyleSheet once only, clone the sparkle rather than innerHTML every single time)</p><p>(I also added the CSS pointer-events like in Zach's snow-fall)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586801884135392",
+			"parentId": "111586752148172086",
+			"url": "https://varmint.town/@srwild/111586801707679244",
+			"author": {
+				"name": "Scott Wild",
+				"url": "https://varmint.town/@srwild",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/517/801/842/304/original/91cfdd06612f47ba.png"
+			},
+			"date": "2023-12-15T22:31:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It is! Just pushed it live. <a href=\"https://bluehouse.group/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bluehouse.group/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586808909500615",
+			"parentId": "111586799319347428",
+			"url": "https://fediverse.zachleat.com/@zachleat/111586808909500615",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T22:32:59.308Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\">@<span>stefan</span></a></span> awesome! blog post it!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586817186136684",
+			"parentId": "111585518124427774",
+			"url": "https://fediverse.zachleat.com/@zachleat/111586817186136684",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T22:35:05.597Z",
+			"content": "<p>Tickled to see so many folks adding this—y’all make building for the web fun! ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111586856542457477",
+			"parentId": "111586817186136684",
+			"url": "https://indieweb.social/@bobmonsour/111586856518613532",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-12-15T22:45:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> More to come!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111587111674192793",
+			"parentId": 0,
+			"url": "https://mastodon.social/@charlesharries/111587111308091154",
+			"author": {
+				"name": "Charles Harries",
+				"url": "https://mastodon.social/@charlesharries",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/800/119/846/310/original/8071f26be4f43d28.png"
+			},
+			"date": "2023-12-15T23:49:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I haven’t seen it mentioned before but one of my favourite things about the proliferation of web components on blogs is that the component behaviour/styling makes it into otherwise user-styles-only contexts—like RSS readers</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111587135208200960",
+			"parentId": "111587111674192793",
+			"url": "https://fediverse.zachleat.com/@zachleat/111587135208200960",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-15T23:55:58.230Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@charlesharries\" class=\"u-url mention\">@<span>charlesharries</span></a></span> that seems like a security problem 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111588984994149797",
+			"parentId": "111587135208200960",
+			"url": "https://mastodon.social/@charlesharries/111588984775533033",
+			"author": {
+				"name": "Charles Harries",
+				"url": "https://mastodon.social/@charlesharries",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/800/119/846/310/original/8071f26be4f43d28.png"
+			},
+			"date": "2023-12-16T07:46:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes but it’s a very pretty security problem!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111591242171316611",
+			"parentId": "111585518124427774",
+			"url": "https://indieweb.social/@bobmonsour/111591240535178261",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-12-16T17:20:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>simoncox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@bw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@jhofker\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jhofker</span></a></span> And this one… <a href=\"https://www.bobmonsour.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bobmonsour.com/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111591707219389183",
+			"parentId": "111586808909500615",
+			"url": "https://piaille.fr/@tbroyer/111591707188940485",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-12-16T19:18:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefan</span></a></span> Here you go!</p><p>(btw, the pointer-events was already there actually)</p><p><a href=\"https://piaille.fr/@tbroyer/111591703529078462\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">piaille.fr/@tbroyer/1115917035</span><span class=\"invisible\">29078462</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111591851078680714",
+			"parentId": "111591707219389183",
+			"url": "https://fediverse.zachleat.com/@zachleat/111591851078680714",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-16T19:55:16.705Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\">@<span>stefan</span></a></span> yay!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111591928545458259",
+			"parentId": "111588984994149797",
+			"url": "https://fediverse.zachleat.com/@zachleat/111591928545458259",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-16T20:14:58.753Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@charlesharries\" class=\"u-url mention\">@<span>charlesharries</span></a></span> XSSnow is worth it!</p><p>&lt;xss-nowfall&gt;</p>",
+			"via": "fediverse"
+		}
+	]
+}

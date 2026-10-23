@@ -1,0 +1,72 @@
+{
+	"comments": [
+		{
+			"id": "112576176878926706",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112576176878926706",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-07T16:02:16.456Z",
+			"content": "<p>Thinking about 🔢 Defcon levels of software consent patterns:</p><p>1️⃣ Defcon 1: Opt-in without asking (new default), opt-out not allowed.<br />2️⃣ Defcon 2: Opt-in without asking, opt-out allowed via user action<br />3️⃣ Defcon 3: Ask for opt-in via prompt with default yes already selected<br />4️⃣ Defcon 4: Opt-in via non-default user action (manual installation)<br />5️⃣ Defcon 5: Thing not added, requiring no action by anyone 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112576188230484246",
+			"parentId": "112576176878926706",
+			"url": "https://fediverse.zachleat.com/@zachleat/112576188230484246",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-07T16:05:09.667Z",
+			"content": "<p>U2’s new album push was Software Consent Defcon 2</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112577344800200383",
+			"parentId": "112576176878926706",
+			"url": "https://mastodon.social/@cbirdsong/112577344546612795",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2024-06-07T20:59:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there’s space between 1️⃣ and 2️⃣, like if you can opt out but doing so requires some arcane terminal command or some other excessive amount of technical bullshit</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112579030588312804",
+			"parentId": "112576176878926706",
+			"url": "https://hachyderm.io/@MsNostromo/112579030556285263",
+			"private": true,
+			"date": "2024-06-08T04:08:00.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112593030919561111",
+			"parentId": "112577344800200383",
+			"url": "https://fediverse.zachleat.com/@zachleat/112593030919561111",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-10T15:28:28.710Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cbirdsong\" class=\"u-url mention\">@<span>cbirdsong</span></a></span> “just turn off filevault to use this mac os utility” OH OK</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112593035534800577",
+			"parentId": "112579030588312804",
+			"url": "https://fediverse.zachleat.com/@zachleat/112593035534800577",
+			"private": true,
+			"date": "2024-06-10T15:29:39.132Z",
+			"via": "fediverse"
+		}
+	]
+}

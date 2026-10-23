@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:pmhaxpzm7wphjcnkys5bvlx7/app.bsky.feed.post/3mw24dnzywu2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/taylonr.bsky.social/post/3mw24dnzywu2d",
+			"author": {
+				"name": "Nate Taylor",
+				"url": "https://bsky.app/profile/taylonr.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pmhaxpzm7wphjcnkys5bvlx7/bafkreib2elhoxythx3xbpzrsjo34nhuajcgncgh24qg7jursiqxt3ycrji"
+			},
+			"date": "2026-09-21T16:16:40.578Z",
+			"content": "<p>You just described everything I do.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw24f2scoc2k",
+			"parentId": "at://did:plc:pmhaxpzm7wphjcnkys5bvlx7/app.bsky.feed.post/3mw24dnzywu2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw24f2scoc2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T16:17:27.398Z",
+			"content": "<p>I am replying to this as part of my daily online budget</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4px26wrwdrwpwejwtdciragc/app.bsky.feed.post/3mw2deknwic26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jeff.posnick.org/post/3mw2deknwic26",
+			"author": {
+				"name": "Jeff Posnick",
+				"url": "https://bsky.app/profile/jeff.posnick.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4px26wrwdrwpwejwtdciragc/bafkreieap5j4ryttku266ibr6ogsh7ls4oud63xpwhbbdq4yu5vogb3cby"
+			},
+			"date": "2026-09-21T18:22:26.670Z",
+			"content": "<p>Offline-first.</p>\n<p>-sent from my online</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw2h3lco5k2d",
+			"parentId": "at://did:plc:4px26wrwdrwpwejwtdciragc/app.bsky.feed.post/3mw2deknwic26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw2h3lco5k2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T19:29:00.327Z",
+			"content": "<p>extremely offline but still on a computer is a tragedy!!</p>",
+			"via": "bluesky"
+		}
+	]
+}

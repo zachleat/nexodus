@@ -1,0 +1,64 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:efeh3pdfpx54dn5xu3z7fi4e/app.bsky.feed.post/3mmwaz3s5qc2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/snugug.bsky.social/post/3mmwaz3s5qc2x",
+			"author": {
+				"name": "Snugug",
+				"url": "https://bsky.app/profile/snugug.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:efeh3pdfpx54dn5xu3z7fi4e/bafkreienb5agynjs3bq4txhqyh4pnkvdwv6x4dbjnvn3fcrqacc6u7vfjq"
+			},
+			"date": "2026-05-28T14:42:50.888Z",
+			"content": "<p>You did not specify which currency!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmwbaikf6s2g",
+			"parentId": "at://did:plc:efeh3pdfpx54dn5xu3z7fi4e/app.bsky.feed.post/3mmwaz3s5qc2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mmwbaikf6s2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-28T14:46:59.152Z",
+			"content": "<p>oh no USD USD USD!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:24cg7hkluqerc6r7ilhtz2au/app.bsky.feed.post/3mmwowz454s27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/obliterati.bsky.social/post/3mmwowz454s27",
+			"author": {
+				"name": "Germany",
+				"url": "https://bsky.app/profile/obliterati.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:24cg7hkluqerc6r7ilhtz2au/bafkreiemohtzoxotkjys7nnra23fwplzlfgc56pl5jr7be7wnk3tjm4com"
+			},
+			"date": "2026-05-28T18:52:13.352Z",
+			"content": "<p>Hoping this isn't a Samson situation, where a beardless Zach loses the ability to code</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmwtieksus2j",
+			"parentId": "at://did:plc:24cg7hkluqerc6r7ilhtz2au/app.bsky.feed.post/3mmwowz454s27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mmwtieksus2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-28T20:13:30.760Z",
+			"content": "<p>I will still be able to write code just a lot more of it (pejorative)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mmxoxwl3l22h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3mmxoxwl3l22h",
+			"private": true,
+			"date": "2026-05-29T04:25:23.989Z",
+			"via": "bluesky"
+		}
+	]
+}

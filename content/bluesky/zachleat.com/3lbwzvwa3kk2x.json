@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2bweiy22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lbx2bweiy22o",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-27T17:11:50.744Z",
+			"content": "<p>The linked newsletter cites 1 fake account with a custom domain.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx2olfc3s2g",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2bweiy22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbx2olfc3s2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-27T17:18:55.442Z",
+			"content": "<p>we’re seeing the tension between centralized and decentralized identity though, right</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2w4obf22o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx2olfc3s2g",
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lbx2w4obf22o",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-27T17:23:08.444Z",
+			"content": "<p>Yes. *cough* <a href=\"https://indieauth.net/\">indieauth.net</a> *cough*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx2yvqzyk2g",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lbx2w4obf22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbx2yvqzyk2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-27T17:24:41.859Z",
+			"content": "<p>oh, for the record I don’t think any decentralized solution will solve this specific problem</p>",
+			"via": "bluesky"
+		}
+	]
+}

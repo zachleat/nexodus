@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "109312298764805044",
+			"parentId": 0,
+			"url": "https://mastodon.online/@dooz/109312298718073631",
+			"author": {
+				"name": "Daniel Beutner 🦄",
+				"url": "https://mastodon.online/@dooz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/810/707/162/105/original/e0d6af4d618ad412.jpg"
+			},
+			"date": "2022-11-09T05:55:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It is always a good time to be a web developer and I agree: At the moment it is a very good time.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109312342442969837",
+			"parentId": 0,
+			"url": "https://front-end.social/@mia/109312342417502327",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2022-11-09T06:06:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It was so lovely meeting you and getting to chat in person. ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109312635010498906",
+			"parentId": "109312342442969837",
+			"url": "https://fediverse.zachleat.com/@zachleat/109312635010498906",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-09T07:20:39.491Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> yes! Likewise and I hope we get to do it again soon. Let’s solve the HTML problems we discussed too 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109312851120895380",
+			"parentId": "109312635010498906",
+			"url": "https://front-end.social/@mia/109312851092037703",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2022-11-09T08:15:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>ToDo:<br>- [ ] Solve the HTML problems (as discussed)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109313866523347538",
+			"parentId": "109312851120895380",
+			"url": "https://fediverse.zachleat.com/@zachleat/109313866523347538",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-09T12:33:50.890Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> I am making special note of the very pointed use of markdown there</p>",
+			"via": "fediverse"
+		}
+	]
+}

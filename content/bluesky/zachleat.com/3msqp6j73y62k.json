@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rilwzuxh74h65uqewbopldoh/app.bsky.feed.post/3msqpfqe5ac23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/aresluna.org/post/3msqpfqe5ac23",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://bsky.app/profile/aresluna.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rilwzuxh74h65uqewbopldoh/bafkreicn26dbi3n242erhuj74vhwddgmp2med52pths4mby3ycwh6ccoi4"
+			},
+			"date": "2026-08-10T18:15:38.829Z",
+			"content": "<p>Or a checkbox!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3msqphnqudc2r",
+			"parentId": "at://did:plc:rilwzuxh74h65uqewbopldoh/app.bsky.feed.post/3msqpfqe5ac23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3msqphnqudc2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-10T18:16:43.209Z",
+			"content": "<p>Wild idea!! 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ndtkfmkenpin7jdu5mz2r3ot/app.bsky.feed.post/3msqpt6vq2c25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/w-lfpup.bsky.social/post/3msqpt6vq2c25",
+			"author": {
+				"name": "w-lfpup",
+				"url": "https://bsky.app/profile/w-lfpup.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ndtkfmkenpin7jdu5mz2r3ot/bafkreiejgikkabqwtyvb3g32s2vn5bwzj5kx674hs3qrcemjcexrp43ey4"
+			},
+			"date": "2026-08-10T18:23:10.293Z",
+			"content": "<p>WARIA actually specs text in the toggle island 😅</p>\n<p>And having worked on md switch I can say that toggles might actually be an anti-pattern. As in physical toggles change something immediately. Like a light bulb. On off is clear because wolf discoverability</p>\n<p>A list of toggles as settings is nonsense</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3msqq5vl2oc2y",
+			"parentId": "at://did:plc:ndtkfmkenpin7jdu5mz2r3ot/app.bsky.feed.post/3msqpt6vq2c25",
+			"url": "https://bsky.app/profile/zachleat.com/post/3msqq5vl2oc2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-10T18:29:09.606Z",
+			"content": "<p>Great point! A light switch has a visual state 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3msqqdvu4522z",
+			"parentId": "at://did:plc:rilwzuxh74h65uqewbopldoh/app.bsky.feed.post/3msqpfqe5ac23",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3msqqdvu4522z",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-08-10T18:32:31.229Z",
+			"content": "<p>Glad someone else beat me to it...I'm like \"these are just checkboxes masquerading as a toggle switch...\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ndtkfmkenpin7jdu5mz2r3ot/app.bsky.feed.post/3msqqnil6622j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3msqq5vl2oc2y",
+			"url": "https://bsky.app/profile/w-lfpup.bsky.social/post/3msqqnil6622j",
+			"author": {
+				"name": "w-lfpup",
+				"url": "https://bsky.app/profile/w-lfpup.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ndtkfmkenpin7jdu5mz2r3ot/bafkreiejgikkabqwtyvb3g32s2vn5bwzj5kx674hs3qrcemjcexrp43ey4"
+			},
+			"date": "2026-08-10T18:37:52.848Z",
+			"content": "<p>Could push it even further, a list of physical light switches confuses everyone! And despite labels you’re still gonna click just to see what lights go on and off</p>\n<p>But on your phone / website? You’re lucky if anything happens</p>\n<p>At least a checkbox intuits a distance between input and reactivity</p>",
+			"via": "bluesky"
+		}
+	]
+}

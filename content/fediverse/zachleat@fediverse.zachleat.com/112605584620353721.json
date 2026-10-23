@@ -1,0 +1,64 @@
+{
+	"comments": [
+		{
+			"id": "112605635977624830",
+			"parentId": 0,
+			"url": "https://front-end.social/@mrtrimble/112605635955104736",
+			"author": {
+				"name": "Ryan Trimble",
+				"url": "https://front-end.social/@mrtrimble",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/956/299/485/277/original/4615d2872ec5b4ec.jpg"
+			},
+			"date": "2024-06-12T20:54:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Porkbun seems to be getting lots of sales lately! I just saw this over the weekend and took a screen grab of it, such a friendly detail.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112605664170068591",
+			"parentId": "112605635977624830",
+			"url": "https://fediverse.zachleat.com/@zachleat/112605664170068591",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-12T21:01:16.813Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mrtrimble\" class=\"u-url mention\">@<span>mrtrimble</span></a></span> I’m just poking around at this point!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112605936659209537",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ollicle/112605936627928727",
+			"private": true,
+			"date": "2024-06-12T22:10:34.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112606294328266908",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sclark/112606294225405407",
+			"author": {
+				"name": "Sam Macaulay",
+				"url": "https://mastodon.social/@sclark",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/499/939/566/904/707/original/52db6db46ea09827.jpg"
+			},
+			"date": "2024-06-12T23:41:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> they have the ugliest UI in existence but they’re still my default registrar 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112609535772599541",
+			"parentId": "112606294328266908",
+			"url": "https://fediverse.zachleat.com/@zachleat/112609535772599541",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-13T13:25:52.782Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sclark\" class=\"u-url mention\">@<span>sclark</span></a></span> if it ain’t broke, rewrite your entire tech stack every 18 months</p>",
+			"via": "fediverse"
+		}
+	]
+}

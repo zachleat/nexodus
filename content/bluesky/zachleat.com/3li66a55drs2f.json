@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:v3xjb3t2yo6vedcc2ep37gvp/app.bsky.feed.post/3li66g4omis24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ektastrophe.bsky.social/post/3li66g4omis24",
+			"author": {
+				"name": "Andrew Ek",
+				"url": "https://bsky.app/profile/ektastrophe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:v3xjb3t2yo6vedcc2ep37gvp/bafkreidjaljn3enn3oigxcd27p2tv2wjkisg7dxexxpsrw4qje3qrlubei"
+			},
+			"date": "2025-02-14T21:45:34.483Z",
+			"content": "<p>The hardest part of the react ecosystem is figuring out that there actually are probably not any useful, generally agreed upon defaults.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tzk5n4vqdjvcmrdk2xhzgx3g/app.bsky.feed.post/3li66podozo24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/evanminto.com/post/3li66podozo24",
+			"author": {
+				"name": "Evan Minto",
+				"url": "https://bsky.app/profile/evanminto.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzk5n4vqdjvcmrdk2xhzgx3g/bafkreibnz7mn2jvpt4m5xxwtek7oxou5of6n5bnosvbiohlvn7lo3px2be"
+			},
+			"date": "2025-02-14T21:50:56.980Z",
+			"content": "<p>I don't really understand what they're trying to convey here. \"Chrome team recommends server-rendering, and they're right for lots of reasons, but also, mayyybe they're not, so who knows\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3li67hlvt3224",
+			"parentId": "at://did:plc:tzk5n4vqdjvcmrdk2xhzgx3g/app.bsky.feed.post/3li66podozo24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3li67hlvt3224",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-14T22:04:17.747Z",
+			"content": "<p>🤷🤷🤷🤷</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jqacnthuxhn44p3g5vuax5rt/app.bsky.feed.post/3li7nwoz5fs2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davidmoll.net/post/3li7nwoz5fs2a",
+			"author": {
+				"name": "David Moll",
+				"url": "https://bsky.app/profile/davidmoll.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jqacnthuxhn44p3g5vuax5rt/bafkreih4q52iy7qd4ovseiaft4jjjvwfjcsiy4at56pw4yzu6hnia5oggi"
+			},
+			"date": "2025-02-15T11:55:56.428Z",
+			"content": "<p>XKCD strikes once again</p>",
+			"via": "bluesky"
+		}
+	]
+}

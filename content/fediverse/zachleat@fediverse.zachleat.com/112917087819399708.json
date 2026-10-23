@@ -1,0 +1,734 @@
+{
+	"comments": [
+		{
+			"id": "112917148862086992",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/112917148412210457",
+			"private": true,
+			"date": "2024-08-06T21:15:49.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917170875871774",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/112917170846967543",
+			"private": true,
+			"date": "2024-08-06T21:21:31.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917176825778378",
+			"parentId": 0,
+			"url": "https://mas.to/@jamesdoc/112917176804935501",
+			"author": {
+				"name": "James Doc",
+				"url": "https://mas.to/@jamesdoc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/409/738/484/481/647/original/1e7b209847b7fbae.jpg"
+			},
+			"date": "2024-08-06T21:23:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks for the write up here. Appreciate it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917195043034278",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pawelgrzybek/112917194697430840",
+			"author": {
+				"name": "Paweł Grzybek",
+				"url": "https://mastodon.social/@pawelgrzybek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/993/798/153/333/original/37ce2e77cc184610.jpg"
+			},
+			"date": "2024-08-06T21:27:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this was a very interesting read Zach.</p><p>At the company that I work for, we received a surprisingly high bill from Vercel and after looking closely into the usage breakdown we noticed that the number of used cache units is so so so high. Too high to be even possible taking into consideration our revalidation interval and number of pages. Unfortunately Vercel CS is not able to give us a detailed breakdown of where we spent these cache units 🤷‍♂️</p><p>PS. I love the term „convenience tax” !</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917204450544388",
+			"parentId": 0,
+			"url": "https://bensie.social/@james/112917204377838822",
+			"author": {
+				"name": "James Miller",
+				"url": "https://bensie.social/@james",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/830/596/067/811/210/original/f2cdcbba9fa2e66c.jpeg"
+			},
+			"date": "2024-08-06T21:30:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There are so many ways to do things in AWS! If you eventually want a friendlier first-party package/deploy story that isn't the result of clicking around the console, check out SAM. Also not sure how many requests per month are hitting it, but you could eliminate API GW in favor of a Lambda function URL and save those costs. Come on in, the water's fine!<br><a href=\"https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.aws.amazon.com/serverless</span><span class=\"invisible\">-application-model/latest/developerguide/serverless-getting-started-hello-world.html</span></a> <br><a href=\"https://docs.aws.amazon.com/lambda/latest/dg/urls-configuration.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.aws.amazon.com/lambda/lat</span><span class=\"invisible\">est/dg/urls-configuration.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917212581253455",
+			"parentId": "112917204450544388",
+			"url": "https://fediverse.zachleat.com/@zachleat/112917212581253455",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T21:32:08.300Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bensie.social/@james\" class=\"u-url mention\">@<span>james</span></a></span> oh fascinating. I’ll definitely have a look at those—I’ve only just started!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917221470556891",
+			"parentId": "112917170875871774",
+			"url": "https://fediverse.zachleat.com/@zachleat/112917221470556891",
+			"private": true,
+			"date": "2024-08-06T21:34:23.940Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917222327050771",
+			"parentId": 0,
+			"url": "https://mastodon.social/@raymondcamden/112917222222427673",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2024-08-06T21:34:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> query - you shared an estimated cost on Vercel, what is the estimated cost of Lambda?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917222372731244",
+			"parentId": "112917176825778378",
+			"url": "https://fediverse.zachleat.com/@zachleat/112917222372731244",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T21:34:37.707Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@jamesdoc\" class=\"u-url mention\">@<span>jamesdoc</span></a></span> you’re welcome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917233515287498",
+			"parentId": "112917195043034278",
+			"url": "https://fediverse.zachleat.com/@zachleat/112917233515287498",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T21:37:27.729Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pawelgrzybek\" class=\"u-url mention\">@<span>pawelgrzybek</span></a></span> yeah, more data is needed to justify some of the numbers I was seeing. They didn’t compare with my experience on Netlify or AWS</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917236942733505",
+			"parentId": "112917222327050771",
+			"url": "https://fediverse.zachleat.com/@zachleat/112917236942733505",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T21:38:20.028Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\">@<span>raymondcamden</span></a></span> so far the projected usage is still under the free tier for the month!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917248591292145",
+			"parentId": "112917236942733505",
+			"url": "https://mastodon.social/@raymondcamden/112917248334391555",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2024-08-06T21:41:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nice! i dont think you mentioned that, i would. (its also 99% possible you did and i missed it.)</p><p>btw, _damn_ good article!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917301876428185",
+			"parentId": "112917212581253455",
+			"url": "https://fediverse.jdotc.xyz/@jgchristopher/112917301807193929",
+			"author": {
+				"name": "John Christopher",
+				"url": "https://fediverse.jdotc.xyz/@jgchristopher",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/105/225/983/325/793/original/cfc3a612c21f9700.jpeg"
+			},
+			"date": "2024-08-06T21:54:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bensie.social/@james\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>james</span></a></span> </p><p><a href=\"https://sst.dev\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">sst.dev</span><span class=\"invisible\"></span></a> is pretty nice as well.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917303656419585",
+			"parentId": "112917248591292145",
+			"url": "https://fediverse.zachleat.com/@zachleat/112917303656419585",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T21:55:17.998Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\">@<span>raymondcamden</span></a></span> thank you! I just pushed a small note about the AWS cost</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917323494218907",
+			"parentId": "112917301876428185",
+			"url": "https://fediverse.zachleat.com/@zachleat/112917323494218907",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T22:00:20.700Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.jdotc.xyz/@jgchristopher\" class=\"u-url mention\">@<span>jgchristopher</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bensie.social/@james\" class=\"u-url mention\">@<span>james</span></a></span> very nice! I’ve also been pointed at <a href=\"https://www.serverless.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">serverless.com/</span><span class=\"invisible\"></span></a> and <a href=\"https://arc.codes/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">arc.codes/</span><span class=\"invisible\"></span></a> which seem like similar abstractions</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917326803048980",
+			"parentId": "112917303656419585",
+			"url": "https://social.lol/@cory/112917326761731841",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2024-08-06T22:01:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>raymondcamden</span></a></span> I'm over here with Cloudflare Pages, Digital Ocean for my admin, Supabase, B2, bunny.net, Echofeed, Feedpress, Plausible analytics 🙈</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917343944610215",
+			"parentId": "112917323494218907",
+			"url": "https://bensie.social/@james/112917343767168549",
+			"author": {
+				"name": "James Miller",
+				"url": "https://bensie.social/@james",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/830/596/067/811/210/original/f2cdcbba9fa2e66c.jpeg"
+			},
+			"date": "2024-08-06T22:05:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.jdotc.xyz/@jgchristopher\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgchristopher</span></a></span> Yep, both are solid. I choose SAM because it’s AWS-native CloudFormation without a third party abstraction or licensing/cost considerations. But totally understand that's not a priority for everyone - third party tools definitely do some heavy lifting for you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917344273527004",
+			"parentId": "112917326803048980",
+			"url": "https://mastodon.social/@raymondcamden/112917344082044014",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2024-08-06T22:05:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@cory\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cory</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've liked Cloudflares serverless stuff a lot. Their hosting has been on my \"to test and blog\" list for a while</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917351252279847",
+			"parentId": "112917344273527004",
+			"url": "https://social.lol/@cory/112917351223798725",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2024-08-06T22:07:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>raymondcamden</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah, I quite like their workers stuff and I'm well below the paid threshold for those. I've got one for analytics, contact form, now playing display, schedule rebuilds and music tracking — 100,000 runs a day is super generous for the *tiny* scale I'm dealing with. 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917392171095541",
+			"parentId": "112917343944610215",
+			"url": "https://indieweb.social/@brianleroux/112917392128356252",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2024-08-06T22:17:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bensie.social/@james\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>james</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.jdotc.xyz/@jgchristopher\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgchristopher</span></a></span> fwiw Architect is a wrapper for the SAM transform and open governance so no licensing concerns</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917417556243230",
+			"parentId": "112917392171095541",
+			"url": "https://bensie.social/@james/112917417499533704",
+			"author": {
+				"name": "James Miller",
+				"url": "https://bensie.social/@james",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/830/596/067/811/210/original/f2cdcbba9fa2e66c.jpeg"
+			},
+			"date": "2024-08-06T22:24:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.jdotc.xyz/@jgchristopher\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgchristopher</span></a></span> yeah arc.codes is great! licensing shade was only being thrown on serverless framework 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917420409348478",
+			"parentId": "112917417556243230",
+			"url": "https://indieweb.social/@brianleroux/112917420383653122",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2024-08-06T22:24:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bensie.social/@james\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>james</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.jdotc.xyz/@jgchristopher\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jgchristopher</span></a></span> rightfully so. ironically but over the years we got a bunch of shade for being in a foundation. At least ppl get why now.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112917560416816583",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/112917560278780723",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-08-06T23:00:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “ because usage is priced via GB-Hrs, 1 vCPU should use 1 GB of memory. Instead, 1 vCPU is 1.7 GB of memory and 1000 GB-Hrs is actually 588 Hours of usage.”</p><p>You know how washing powder people tell you “use one cup” but the cup they provide you has an almost invisible mark halfway up saying “1 cup” and if you fill the cup it’s actually 1⅔ cups? Yeah.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112920402502883311",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@joelanman/112920402425898527",
+			"author": {
+				"name": "Joe Lanman",
+				"url": "https://hachyderm.io/@joelanman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/772/817/736/079/331/original/94ecf3c3c8fac1a7.jpeg"
+			},
+			"date": "2024-08-07T11:03:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> very nice! Small thing - was playing around and this syntax in your documentation always gives me 404</p><p><a href=\"https://v1.screenshot.11ty.dev/:url/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">v1.screenshot.11ty.dev/:url/</span><span class=\"invisible\"></span></a></p><p>eg</p><p><a href=\"https://v1.screenshot.11ty.dev/https%3A%2F%2Fgov.uk/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">v1.screenshot.11ty.dev/https%3</span><span class=\"invisible\">A%2F%2Fgov.uk/</span></a></p><p>it works if I add the other url params (size)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112920409238182518",
+			"parentId": "112920402502883311",
+			"url": "https://hachyderm.io/@joelanman/112920409201580166",
+			"author": {
+				"name": "Joe Lanman",
+				"url": "https://hachyderm.io/@joelanman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/772/817/736/079/331/original/94ecf3c3c8fac1a7.jpeg"
+			},
+			"date": "2024-08-07T11:05:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also wondering if you considered Cloudflare, I agree AWS is painful</p><p><a href=\"https://developers.cloudflare.com/browser-rendering/get-started/screenshots/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developers.cloudflare.com/brow</span><span class=\"invisible\">ser-rendering/get-started/screenshots/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112921090648093238",
+			"parentId": "112917221470556891",
+			"url": "https://indieweb.social/@mariohamann/112921090608338784",
+			"private": true,
+			"date": "2024-08-07T13:58:22.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112921116450577236",
+			"parentId": "112921090648093238",
+			"url": "https://fediverse.zachleat.com/@zachleat/112921116450577236",
+			"private": true,
+			"date": "2024-08-07T14:04:56.623Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112921129862908058",
+			"parentId": "112920409238182518",
+			"url": "https://fediverse.zachleat.com/@zachleat/112921129862908058",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-07T14:08:21.278Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@joelanman\" class=\"u-url mention\">@<span>joelanman</span></a></span> a little bit! I know they have their own fork of puppeteer that might have worked nicely here <a href=\"https://github.com/cloudflare/puppeteer\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cloudflare/puppeteer</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112921253217837152",
+			"parentId": "112920402502883311",
+			"url": "https://fediverse.zachleat.com/@zachleat/112921253217837152",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-07T14:39:43.525Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@joelanman\" class=\"u-url mention\">@<span>joelanman</span></a></span> fixed, thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112921336526693423",
+			"parentId": "112917560416816583",
+			"url": "https://fediverse.zachleat.com/@zachleat/112921336526693423",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-07T15:00:54.717Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> ha! incredible parallel 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922214269235745",
+			"parentId": "112917204450544388",
+			"url": "https://mastodon.design/@naiyer/112922214256080615",
+			"author": {
+				"name": "Naiyer",
+				"url": "https://mastodon.design/@naiyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/326/263/176/830/original/a101224f32bc5490.jpg"
+			},
+			"date": "2024-08-07T18:44:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bensie.social/@james\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>james</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'd also recommend SAM CLI for deploying lambda functions. It is relatively easy to use and you can take the reigns in your hand with a Makefile. I'd still recommend API Gateway if you want to implement your own authorization mechanism which you can deploy in another lambda and configure it for your API Gateway resources. Makes it convenient to put OIDC introspection in front of multiple REST endpoints.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922490460566650",
+			"parentId": 0,
+			"url": "https://front-end.social/@benschwarz/112922490083905933",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2024-08-07T19:54:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if this were Twitter Vercel staff would be all up in replies explaining what happened… but they aren’t, they never left Twitter. </p><p>To me the fact they Vercel and all thier staff were able to look past what X has become for the sake of their hype machine is a bad signal</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922512140589777",
+			"parentId": "112922490460566650",
+			"url": "https://fediverse.zachleat.com/@zachleat/112922512140589777",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-07T19:59:53.160Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> …yeah. It isn’t just Vercel—a lot of the JS-dev ecosystem is that way. Definitely hurt my career when everything split.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922587564329443",
+			"parentId": "112922490460566650",
+			"url": "https://narrativ.es/@janl/112922587390662136",
+			"author": {
+				"name": "Jan Lehnardt :couchdb:",
+				"url": "https://narrativ.es/@janl",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/728/508/243/188/621/original/98677b73000caf76.jpg"
+			},
+			"date": "2024-08-07T20:19:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> this.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922630823702981",
+			"parentId": "112922512140589777",
+			"url": "https://mastodon.social/@voxpelli/112922630664967129",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2024-08-07T20:30:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> But we get quality over quantity over here ☺️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922668810479861",
+			"parentId": 0,
+			"url": "https://mastodon.social/@voxpelli/112922668479837917",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2024-08-07T20:39:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Serverless functions are essentially the good old PHP CGI model adapted to the cloud and given a hype name.</p><p>Just like PHP struggles with idle threads during async I/O, so does serverless functions.</p><p>Depending on which serverless function provider one uses it ranges from being autoscaled worker with a strict one payload at a time processing (and no prefetch of next item) to being fresh executions for each and every request.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922681160869845",
+			"parentId": "112922668810479861",
+			"url": "https://mastodon.social/@voxpelli/112922681047429863",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2024-08-07T20:42:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Whenever possible I would opt to run workers myself and work on dialing in how many simultaneous payloads and prefetched ones they should have to maximize throughput, latency and cost</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922688578711120",
+			"parentId": "112922512140589777",
+			"url": "https://front-end.social/@benschwarz/112922688552705581",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2024-08-07T20:44:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I can use a boatload more 🤯 emoji if that helps?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922695304141661",
+			"parentId": "112922681160869845",
+			"url": "https://mastodon.social/@voxpelli/112922695262750101",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2024-08-07T20:46:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I remember reading up on that theory when I worked with RabbitMQ some 5-10 years ago, something like this: <a href=\"https://www.rabbitmq.com/blog/2012/05/11/some-queuing-theory-throughput-latency-and-bandwidth\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">rabbitmq.com/blog/2012/05/11/s</span><span class=\"invisible\">ome-queuing-theory-throughput-latency-and-bandwidth</span></a></p><p>Also get reminded of good old <a href=\"https://gearman.org/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gearman.org/</span><span class=\"invisible\"></span></a> which we eg used with our PHP setup on Flattr back in the days and could handle extreme spikes in activity without any spikes in cost – only spikes in queue lengths</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112922698926811323",
+			"parentId": "112922688578711120",
+			"url": "https://fediverse.zachleat.com/@zachleat/112922698926811323",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-07T20:47:23.292Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> the only engagement that performs a meaningful function on mastodon is boost 😅 (favorites are for good feelings only)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112924718505196598",
+			"parentId": 0,
+			"url": "https://mastodon.social/@munawwar/112924718439323752",
+			"author": {
+				"name": "Munawwar Firoz",
+				"url": "https://mastodon.social/@munawwar",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-08-08T05:20:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You can skip api gateway cost and save with lambda function URLs</p><p>(and to prevent \"denial of wallet\" attack, possibly set concurrency limit)</p><p>Other than that I've written few optimization tips:</p><p><a href=\"https://codepasta.com/2024/04/19/optimizing-puppeteer-pdf-generation\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepasta.com/2024/04/19/optim</span><span class=\"invisible\">izing-puppeteer-pdf-generation</span></a></p><p>BTW GCP cloud run makes this so much more easier with a simple Dockerfile</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112927620868867302",
+			"parentId": 0,
+			"url": "https://toot.cafe/@reconbot/112927620704360049",
+			"author": {
+				"name": "Francis 🏴‍☠️ Gulotta",
+				"url": "https://toot.cafe/@reconbot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/376/052/418/189/original/b24ed2bdf8f16f68.png"
+			},
+			"date": "2024-08-08T17:39:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>&gt; Mind-boggling that the same service would use ~1276 GB-Hrs per month on Vercel and ~101 GB-Hrs on AWS. Mind-boggling that the same service would use ~1276 GB-Hrs per month on Vercel and ~101 GB-Hrs on AWS.</p><p>This is with all the caching in place, not the same workload hitting lambda, right?</p><p>In either case yes mind boggling, and I used to run the team that owned that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112927637847486795",
+			"parentId": "112922695304141661",
+			"url": "https://toot.cafe/@reconbot/112927637718792977",
+			"author": {
+				"name": "Francis 🏴‍☠️ Gulotta",
+				"url": "https://toot.cafe/@reconbot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/376/052/418/189/original/b24ed2bdf8f16f68.png"
+			},
+			"date": "2024-08-08T17:43:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>voxpelli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes and you get guaranteed resources per request, and price per request, and incredible scaling capabilities. It’s absolutely not appropriate for every workload, but can adapt quickly and be very cheap. And despite some companies best efforts to downplay it, it’s often pretty trivial to move to a server execution model when it makes sense.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112927650329161074",
+			"parentId": "112927637847486795",
+			"url": "https://toot.cafe/@reconbot/112927650164262619",
+			"author": {
+				"name": "Francis 🏴‍☠️ Gulotta",
+				"url": "https://toot.cafe/@reconbot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/376/052/418/189/original/b24ed2bdf8f16f68.png"
+			},
+			"date": "2024-08-08T17:46:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@voxpelli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>voxpelli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I used to work in publishing and we would occasionally get viral successes. While the primary content is incredibly cachable. There was quite a lot of features that weren’t. Lambda helped us slice our server costs 90%. While the operational cost was higher during peaks. We only paid for it during peaks. And had very simple ops model.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112927796670860616",
+			"parentId": "112927620868867302",
+			"url": "https://fediverse.zachleat.com/@zachleat/112927796670860616",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-08T18:23:48.693Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@reconbot\" class=\"u-url mention\">@<span>reconbot</span></a></span> yeah, with caching—71% cache misses on the Vercel side. ~85% cache *hits* from CloudFront.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112927862233054297",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112927862233054297",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-08T18:40:29.091Z",
+			"content": "<p>Found some stats:</p><p>28.8% cache hits on Vercel 😬<br />81.2% cache hits on CloudFront</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112927874128333224",
+			"parentId": "112927650329161074",
+			"url": "https://mastodon.social/@voxpelli/112927874076896505",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2024-08-08T18:43:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@reconbot\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>reconbot</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, like with everything it’s about making informed choices and uses the tools for what they do best</p><p>We used Lambda@Edge when I worked at a newspaper to handle some of the scalability challenges</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112927898725811488",
+			"parentId": "112927862233054297",
+			"url": "https://mastodon.cc/@jgarber/112927898623485493",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-08-08T18:49:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> money printer go brrr</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112928074903717732",
+			"parentId": "112927862233054297",
+			"url": "https://webperf.social/@ryantownsend/112928074869044809",
+			"author": {
+				"name": "Ryan Townsend (old account)",
+				"url": "https://webperf.social/@ryantownsend",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/033/339/461/107/original/84fbde010f05b3b8.jpg"
+			},
+			"date": "2024-08-08T19:34:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> all CDNs are not created equal when it comes to cache eviction.</p><p>Yet another thing often selected because of some flashy feature or promise that has knock-on significant impact on origin load and financial implications 🙄</p><p>Remember folks: the difference between 95% and 90% cache hit ratio is a doubling of origin traffic!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112928257815433867",
+			"parentId": "112928074903717732",
+			"url": "https://fediverse.zachleat.com/@zachleat/112928257815433867",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-08T20:21:05.201Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://webperf.social/@ryantownsend\" class=\"u-url mention\">@<span>ryantownsend</span></a></span> what‘s the difference between 90% and 28% 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112928345894325643",
+			"parentId": "112928257815433867",
+			"url": "https://webperf.social/@ryantownsend/112928345877911833",
+			"author": {
+				"name": "Ryan Townsend (old account)",
+				"url": "https://webperf.social/@ryantownsend",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/033/339/461/107/original/84fbde010f05b3b8.jpg"
+			},
+			"date": "2024-08-08T20:43:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> bankruptcy.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112932536961459964",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@evana/112932536861383799",
+			"private": true,
+			"date": "2024-08-09T14:29:18.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112932649513701966",
+			"parentId": "112932536961459964",
+			"url": "https://fediverse.zachleat.com/@zachleat/112932649513701966",
+			"private": true,
+			"date": "2024-08-09T14:57:57.199Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112932869874802661",
+			"parentId": "112932649513701966",
+			"url": "https://hachyderm.io/@evana/112932869566223862",
+			"private": true,
+			"date": "2024-08-09T15:53:54.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112932925180703375",
+			"parentId": "112932869874802661",
+			"url": "https://fediverse.zachleat.com/@zachleat/112932925180703375",
+			"private": true,
+			"date": "2024-08-09T16:08:03.543Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112932961426505676",
+			"parentId": "112932925180703375",
+			"url": "https://hachyderm.io/@evana/112932961325652212",
+			"private": true,
+			"date": "2024-08-09T16:17:15.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112945460986772877",
+			"parentId": 0,
+			"url": "https://mas.to/@srvrlss/112945460972091937",
+			"author": {
+				"name": "Compare Serverless Providers",
+				"url": "https://mas.to/@srvrlss",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-08-11T21:16:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks! This is awesome! Keep it up!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113074172480709852",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/113074172480709852",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-03T14:49:06.297Z",
+			"content": "<p>Update after one billable month: the 11ty Screenshots service cost $1.95 on AWS 🏆</p><p>1.16M screenshots served 👀<br />86.2% cache hits</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113074253192559911",
+			"parentId": "113074172480709852",
+			"url": "https://indieweb.social/@bobmonsour/113074253167910925",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2024-09-03T15:09:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> With this edit, you answered my question.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113074385485415302",
+			"parentId": "113074172480709852",
+			"url": "https://bell.bz/@andy/113074385452760712",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bell.bz/@andy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/871/123/336/966/original/e6a047a53e9b945e.jpg"
+			},
+			"date": "2024-09-03T15:43:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> cost them more to raise an invoice for you lol</p>",
+			"via": "fediverse"
+		}
+	]
+}

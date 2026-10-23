@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "109949829982001270",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109949829982001270",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-01T20:07:43.150Z",
+			"content": "<p>I’m guessing the standards folks would rather we use `shadowrootmode` only moving forward, as using the old name defeats the purpose of renaming the attribute? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109949876127993100",
+			"parentId": 0,
+			"url": "https://social.design.systems/@donnie/109949876092552075",
+			"author": {
+				"name": "Donnie D'Amato",
+				"url": "https://social.design.systems/@donnie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/428/948/596/666/677/original/de8a261bf860aa85.jpeg"
+			},
+			"date": "2023-03-01T20:19:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> shadowrootmodeopenplease=true</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109949880977599177",
+			"parentId": "109949876127993100",
+			"url": "https://fediverse.zachleat.com/@zachleat/109949880977599177",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-01T20:20:41.286Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.design.systems/@donnie\" class=\"u-url mention\">@<span>donnie</span></a></span> a third attribute that combines the other two!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109949914244819273",
+			"parentId": "109949829982001270",
+			"url": "https://w3c.social/@dbaron/109949914211822116",
+			"author": {
+				"name": "L. David Baron",
+				"url": "https://w3c.social/@dbaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/020/837/438/878/original/91f919884e62ec17.jpg"
+			},
+			"date": "2023-03-01T20:29:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I suppose that also depends on whether what you're doing works with both the non-streaming (old) and streaming (new) declarative shadow dom implementations.  (I think at least part of the reason for the rename was to match substantial changes in how the feature worked.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109949922550121954",
+			"parentId": "109949914244819273",
+			"url": "https://fediverse.zachleat.com/@zachleat/109949922550121954",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-01T20:31:15.633Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@dbaron\" class=\"u-url mention\">@<span>dbaron</span></a></span> Great point, yes!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,142 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:67bljc7c5lazwhptzgaydwmk/app.bsky.feed.post/3mlc2wwrc7s2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bluesmoon.info/post/3mlc2wwrc7s2z",
+			"author": {
+				"name": "Philip Tellis",
+				"url": "https://bsky.app/profile/bluesmoon.info",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:67bljc7c5lazwhptzgaydwmk/bafkreiac4uazvp2qqmdvsco7ull45bkmwtiix64htzsxfoz3swbvu2gbfu"
+			},
+			"date": "2026-05-07T20:35:49.666Z",
+			"content": "<p>Been recommending v6 for the same reason - it's also time ordered but designed to be backwards compatible with v1. v7 is better though.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlc3atzbis2c",
+			"parentId": "at://did:plc:67bljc7c5lazwhptzgaydwmk/app.bsky.feed.post/3mlc2wwrc7s2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlc3atzbis2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-07T20:41:22.328Z",
+			"content": "<p>oh, nice!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3mlc3e5zcgc2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sil.kryogenix.org/post/3mlc3e5zcgc2p",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://bsky.app/profile/sil.kryogenix.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:y52xi2qdwcfsjkrno3aykkhc/bafkreiakpmfei5j6asycfke34nwmb2l2lbw42wg22bic7m5azmii64iflq"
+			},
+			"date": "2026-05-07T20:43:13.478Z",
+			"content": "<p>V… 7?</p>\n<p>This is going to be like when I learned that there are cat-6 cables, isn’t it?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlc3ocsz2k25",
+			"parentId": "at://did:plc:y52xi2qdwcfsjkrno3aykkhc/app.bsky.feed.post/3mlc3e5zcgc2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlc3ocsz2k25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-07T20:48:54.059Z",
+			"content": "<p>look I dunno I always thought cats had 9 twitch live streams</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3mlc425353k23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/papa.yaga.gay/post/3mlc425353k23",
+			"private": true,
+			"date": "2026-05-07T20:55:30.687Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlc4ah4ers2v",
+			"parentId": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3mlc425353k23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlc4ah4ers2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-07T20:59:02.540Z",
+			"content": "<p>I also appreciate the neatness of this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fcv3k6nzr27owpcfmb3a3pxz/app.bsky.feed.post/3mlcgaxdpos2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cbro.dev/post/3mlcgaxdpos2r",
+			"author": {
+				"name": "cbro",
+				"url": "https://bsky.app/profile/cbro.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fcv3k6nzr27owpcfmb3a3pxz/bafkreibekrfy6hluqguq3vimiiof33hlnh66pkswq76q6diar26zu3iv6q"
+			},
+			"date": "2026-05-07T23:58:16.976Z",
+			"content": "<p>yep, this is needed for rdbms for efficient insertions!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:eodtpr3gmvggrlwtsf3d27au/app.bsky.feed.post/3mlck4jnnkk2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/push.cx/post/3mlck4jnnkk2j",
+			"author": {
+				"name": "Peter Bhat Harkins ✔️",
+				"url": "https://bsky.app/profile/push.cx",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eodtpr3gmvggrlwtsf3d27au/bafkreicnwtpedvc3xmi6xwdz6kwxbm25bkufbcu4hnhj23isebulqf24ty"
+			},
+			"date": "2026-05-08T01:07:23.371Z",
+			"content": "<p>TypeID is a nice spin on them: <a href=\"https://github.com/jetify-com/typeid\">github.com/jetify-com/t...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mld3tbvm4c2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mld3tbvm4c2q",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-08T06:24:20.605Z",
+			"content": "<p>Morning coffee nerd-out. Thanks!</p>\n<p>I naively though “universally unique” would be done on the first try. Was v1 only locally unique?</p>\n<p><a href=\"https://createuuid.com/articles/uuid-versions-explained\">createuuid.com/articles/uui...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mldvfdg6gk2h",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mld3tbvm4c2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mldvfdg6gk2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-08T14:01:49.723Z",
+			"content": "<p>I would be surprised by that, the first U stands for universal 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mldvh2dtkc2h",
+			"parentId": "at://did:plc:eodtpr3gmvggrlwtsf3d27au/app.bsky.feed.post/3mlck4jnnkk2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mldvh2dtkc2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-08T14:02:47.318Z",
+			"content": "<p>nice, thanks!</p>",
+			"via": "bluesky"
+		}
+	]
+}

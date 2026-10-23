@@ -1,0 +1,64 @@
+{
+	"comments": [
+		{
+			"id": "111274367363927813",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111274367363927813",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-21T18:14:59.668Z",
+			"content": "<p>apparently it’s dumbledore but I honestly don’t think that’s any nicer</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111274389329997418",
+			"parentId": 0,
+			"url": "https://mastodon.guerilla.studio/@tixie/111274389204633535",
+			"private": true,
+			"date": "2023-10-21T18:20:32.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111274840123026072",
+			"parentId": "111274367363927813",
+			"url": "https://mastodon.social/@devolute/111274840099115284",
+			"author": {
+				"name": "devolute",
+				"url": "https://mastodon.social/@devolute",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/142/474/609/017/original/b1af8b9e7c70331a.jpg"
+			},
+			"date": "2023-10-21T20:15:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's only dumblecore once it hits above 850 bpm</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111274982173718656",
+			"parentId": "111274367363927813",
+			"url": "https://mastodon.cc/@jgarber/111274982070676209",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-10-21T20:51:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no that’s dumblecore a subgenre of midwest emo</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111275664636421886",
+			"parentId": "111274982173718656",
+			"url": "https://fediverse.zachleat.com/@zachleat/111275664636421886",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-21T23:44:54.476Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> you’re thinking of tumblecore a troupe of introductory dance dads that exclusively perform in thick fall sweaters</p>",
+			"via": "fediverse"
+		}
+	]
+}

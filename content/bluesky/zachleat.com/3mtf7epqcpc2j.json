@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtf7m2hui22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtf7m2hui22o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-18T21:58:45.401Z",
+			"content": "<p>(complimentary)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wh7bie3ld7bmg3cz76sbjkwj/app.bsky.feed.post/3mtgmgvia5s2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jdan.me/post/3mtgmgvia5s2j",
+			"author": {
+				"name": "jordan",
+				"url": "https://bsky.app/profile/jdan.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wh7bie3ld7bmg3cz76sbjkwj/bafkreicvfcrgbflfvejntjjkqj7uaugvwh6owczcazeiqtvx3xlpkd6khi"
+			},
+			"date": "2026-08-19T11:21:10.780Z",
+			"content": "<p>i do it for you my friend</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtgutzmwzk2z",
+			"parentId": "at://did:plc:wh7bie3ld7bmg3cz76sbjkwj/app.bsky.feed.post/3mtgmgvia5s2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtgutzmwzk2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T13:51:41.271Z",
+			"content": "<p>thank you for your saas (shitposting as a service)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wh7bie3ld7bmg3cz76sbjkwj/app.bsky.feed.post/3mtmp44rowk2j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtgutzmwzk2z",
+			"url": "https://bsky.app/profile/jdan.me/post/3mtmp44rowk2j",
+			"author": {
+				"name": "jordan",
+				"url": "https://bsky.app/profile/jdan.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wh7bie3ld7bmg3cz76sbjkwj/bafkreicvfcrgbflfvejntjjkqj7uaugvwh6owczcazeiqtvx3xlpkd6khi"
+			},
+			"date": "2026-08-21T21:24:48.986Z",
+			"content": "<p>i absolutely cooked today (with you in mind)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtmpuqiwrc2v",
+			"parentId": "at://did:plc:wh7bie3ld7bmg3cz76sbjkwj/app.bsky.feed.post/3mtmp44rowk2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtmpuqiwrc2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-21T21:38:34.978Z",
+			"content": "<p>I pray linkedin will grace my timeline in 3–5 business days</p>",
+			"via": "bluesky"
+		}
+	]
+}

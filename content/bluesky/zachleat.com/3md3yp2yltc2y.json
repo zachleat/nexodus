@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ttoyg6wb2iamebtm4svedlvk/app.bsky.feed.post/3md3z2idhas2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/paxxi.delusional.nu/post/3md3z2idhas2e",
+			"author": {
+				"name": "Pär Björklund",
+				"url": "https://bsky.app/profile/paxxi.delusional.nu",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttoyg6wb2iamebtm4svedlvk/bafkreiaite4zgsl2wkto5hessajde2fqmikqul3zj23rbufntukrnktjxu"
+			},
+			"date": "2026-01-23T15:24:29.816Z",
+			"content": "<p>Offline editor and ftp publishing is underrated</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3md4c46363s2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3md4c46363s2t",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2026-01-23T18:06:29.844Z",
+			"content": "<p>Having a dynamic website doesn't require an ops team either fwiw</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yiuuez6osafifquljo5kypuz/app.bsky.feed.post/3md4cqeqoi22e",
+			"parentId": "at://did:plc:ttoyg6wb2iamebtm4svedlvk/app.bsky.feed.post/3md3z2idhas2e",
+			"url": "https://bsky.app/profile/kevinkleinpdx.bsky.social/post/3md4cqeqoi22e",
+			"author": {
+				"name": "Kevin Klein",
+				"url": "https://bsky.app/profile/kevinkleinpdx.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yiuuez6osafifquljo5kypuz/bafkreido2ylnhc6bhfrlpeqxq5tnmhb2ijta6bxahbahrpym2sqg2vilte"
+			},
+			"date": "2026-01-23T18:17:47.928Z",
+			"content": "<p>it has worked for 30 years and is undefeated for 99% of websites</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,322 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3m23hdvfk3k26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/collinsworth.dev/post/3m23hdvfk3k26",
+			"author": {
+				"name": "Josh Collinsworth",
+				"url": "https://bsky.app/profile/collinsworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr7ktxokjqc2suwnook4k73h/bafkreigotpy47tpnxj2sptza4bsjtdebl4dqyfk6ovvrb26prjpytiinjq"
+			},
+			"date": "2025-09-30T21:20:53.503Z",
+			"content": "<p>Zach</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m23hmsrsj22m",
+			"parentId": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3m23hdvfk3k26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m23hmsrsj22m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-30T21:25:52.749Z",
+			"content": "<p>no matter how bad it gets I’m gonna be silly</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3m23jkjtfok2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/pierbover.com/post/3m23jkjtfok2a",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2025-09-30T22:00:23.731Z",
+			"content": "<p>you mean this guy?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3m23k54luqk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3m23k54luqk2q",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2025-09-30T22:10:47.395Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m23kcteymk2r",
+			"parentId": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3m23jkjtfok2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m23kcteymk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-30T22:13:59.058Z",
+			"content": "<p>I still have nightmares about pizza the hutt</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m23kdlwt422r",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3m23k54luqk2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m23kdlwt422r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-30T22:14:24.809Z",
+			"content": "<p>correct</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3rr66t753ubid4tth7rltsre/app.bsky.feed.post/3m23kkfxjyc27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m23kcteymk2r",
+			"url": "https://bsky.app/profile/pierbover.com/post/3m23kkfxjyc27",
+			"author": {
+				"name": "Pier",
+				"url": "https://bsky.app/profile/pierbover.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3rr66t753ubid4tth7rltsre/bafkreig2wz76y2juflrsjs5rq62kvkikvhngrawxzbnkbk3q35ffahtxpa"
+			},
+			"date": "2025-09-30T22:18:13.421Z",
+			"content": "<p>I hope it doesn't come back for the sequel</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6rjctokojf4t7zmkdv5ofvis/app.bsky.feed.post/3m23lfvtqz22i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/katielangerman.com/post/3m23lfvtqz22i",
+			"author": {
+				"name": "Katie Langerman",
+				"url": "https://bsky.app/profile/katielangerman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6rjctokojf4t7zmkdv5ofvis/bafkreigbxq2ruvj7mf55ukquo3r4tdt22vwm4lhgjriycwsfp2gyyhzfku"
+			},
+			"date": "2025-09-30T22:33:36.044Z",
+			"content": "<p>What about a culture *add*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3m23lg4du6s24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m23hmsrsj22m",
+			"url": "https://bsky.app/profile/collinsworth.dev/post/3m23lg4du6s24",
+			"author": {
+				"name": "Josh Collinsworth",
+				"url": "https://bsky.app/profile/collinsworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr7ktxokjqc2suwnook4k73h/bafkreigotpy47tpnxj2sptza4bsjtdebl4dqyfk6ovvrb26prjpytiinjq"
+			},
+			"date": "2025-09-30T22:33:42.864Z",
+			"content": "<p>Well that's just parfait the course!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3m23lhduprk24",
+			"parentId": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3m23lg4du6s24",
+			"url": "https://bsky.app/profile/collinsworth.dev/post/3m23lhduprk24",
+			"author": {
+				"name": "Josh Collinsworth",
+				"url": "https://bsky.app/profile/collinsworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr7ktxokjqc2suwnook4k73h/bafkreigotpy47tpnxj2sptza4bsjtdebl4dqyfk6ovvrb26prjpytiinjq"
+			},
+			"date": "2025-09-30T22:34:24.311Z",
+			"content": "<p>[Acts casual]</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m23lj2up4c23",
+			"parentId": "at://did:plc:6rjctokojf4t7zmkdv5ofvis/app.bsky.feed.post/3m23lfvtqz22i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m23lj2up4c23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-30T22:35:21.982Z",
+			"content": "<p>bacteria gonna bacterize</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3m23lszhboc2h",
+			"parentId": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3m23lg4du6s24",
+			"url": "https://bsky.app/profile/darn.es/post/3m23lszhboc2h",
+			"author": {
+				"name": "David Darnes",
+				"url": "https://bsky.app/profile/darn.es",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bb34ozcdu5lm3ogte3gq433/bafkreieludkddmtzyhsba5xddcrjpaegp2zcokrr4sudtzhtg6zh5hmjeq"
+			},
+			"date": "2025-09-30T22:40:56.038Z",
+			"content": "<p>Was this a good gut reaction?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dk66belhjtfadbud2kpbq6sc/app.bsky.feed.post/3m23n2ctzts2d",
+			"parentId": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3m23lszhboc2h",
+			"url": "https://bsky.app/profile/georgerodier.com/post/3m23n2ctzts2d",
+			"author": {
+				"name": "George Rodier",
+				"url": "https://bsky.app/profile/georgerodier.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dk66belhjtfadbud2kpbq6sc/bafkreicsmacnv6omeh3ojag4u2daotenc272hhbdcuczchtr765td5ocya"
+			},
+			"date": "2025-09-30T23:02:54.515Z",
+			"content": "<p>I’m assuming everyone here is speaking in yogurt puns, but it’s all Greek to me</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xcqhk7rsguwook626u555bv2/app.bsky.feed.post/3m23tjacc722f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zch.co/post/3m23tjacc722f",
+			"author": {
+				"name": "Zach Inglis / Pie",
+				"url": "https://bsky.app/profile/zch.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xcqhk7rsguwook626u555bv2/bafkreicyh6rdyfdmigg3zhtjhou25jvlkxj4m7ij2w2p2lfatabivzqida"
+			},
+			"date": "2025-10-01T00:58:37.605Z",
+			"content": "<p>Zach.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3m24dqosfkk2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/whitep4nth3r.com/post/3m24dqosfkk2m",
+			"author": {
+				"name": "⭑ salma",
+				"url": "https://bsky.app/profile/whitep4nth3r.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qcxqtc2yzznbaazu7egncqqx/bafkreicsdkgurugcpgvgeityusm25cdkm45pobfzqinryah2uztjhqjikm"
+			},
+			"date": "2025-10-01T05:49:07.562Z",
+			"content": "<p>oh dairy me</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jm2nvnufwpuwo7t623iplui7/app.bsky.feed.post/3m24hvqwlq22i",
+			"parentId": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3m24dqosfkk2m",
+			"url": "https://bsky.app/profile/orangetronic.bsky.social/post/3m24hvqwlq22i",
+			"author": {
+				"name": "Orangetronic",
+				"url": "https://bsky.app/profile/orangetronic.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm2nvnufwpuwo7t623iplui7/bafkreifbnoa4fym7msqj76dxx4ozgxn5fbwr65h6m26p5wfaxdvjsyww2e"
+			},
+			"date": "2025-10-01T07:03:32.537Z",
+			"content": "<p>watch us just milk this bit for all it’s worth</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:d6p2jrbterkgnavwl334q7qf/app.bsky.feed.post/3m24nvbofpk2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/silvenon.com/post/3m24nvbofpk2f",
+			"author": {
+				"name": "Matija Marohnić",
+				"url": "https://bsky.app/profile/silvenon.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:d6p2jrbterkgnavwl334q7qf/bafkreic5zt75ozknkftex5ulpqgrfv6poc55so2pwqxxkqq3odqz6o7fqu"
+			},
+			"date": "2025-10-01T08:50:38.991Z",
+			"content": "<p>It’s so full of itself</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m256qi7ef22p",
+			"parentId": "at://did:plc:xcqhk7rsguwook626u555bv2/app.bsky.feed.post/3m23tjacc722f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m256qi7ef22p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-01T13:52:11.676Z",
+			"content": "<p>look, as a fellow Zach I think we both know what’s happening here</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m25lxvcuhs2h",
+			"parentId": "at://did:plc:jm2nvnufwpuwo7t623iplui7/app.bsky.feed.post/3m24hvqwlq22i",
+			"url": "https://bsky.app/profile/scott.is/post/3m25lxvcuhs2h",
+			"private": true,
+			"date": "2025-10-01T17:48:58.948Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m25nja464c2r",
+			"parentId": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m25lxvcuhs2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m25nja464c2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-01T18:16:34.429Z",
+			"content": "<p>I won’t let this yoghurt my feelings</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m25pk4xvzk2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m25nja464c2r",
+			"url": "https://bsky.app/profile/scott.is/post/3m25pk4xvzk2i",
+			"private": true,
+			"date": "2025-10-01T18:52:52.183Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jm2nvnufwpuwo7t623iplui7/app.bsky.feed.post/3m27jis2rsc2f",
+			"parentId": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m25pk4xvzk2i",
+			"url": "https://bsky.app/profile/orangetronic.bsky.social/post/3m27jis2rsc2f",
+			"author": {
+				"name": "Orangetronic",
+				"url": "https://bsky.app/profile/orangetronic.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm2nvnufwpuwo7t623iplui7/bafkreifbnoa4fym7msqj76dxx4ozgxn5fbwr65h6m26p5wfaxdvjsyww2e"
+			},
+			"date": "2025-10-02T12:10:04.214Z",
+			"content": "<p>casein point</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m27jktvsm224",
+			"parentId": "at://did:plc:jm2nvnufwpuwo7t623iplui7/app.bsky.feed.post/3m27jis2rsc2f",
+			"url": "https://bsky.app/profile/scott.is/post/3m27jktvsm224",
+			"private": true,
+			"date": "2025-10-02T12:11:13.257Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3m27l5qmzzs2c",
+			"parentId": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m27jktvsm224",
+			"url": "https://bsky.app/profile/whitep4nth3r.com/post/3m27l5qmzzs2c",
+			"author": {
+				"name": "⭑ salma",
+				"url": "https://bsky.app/profile/whitep4nth3r.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qcxqtc2yzznbaazu7egncqqx/bafkreicsdkgurugcpgvgeityusm25cdkm45pobfzqinryah2uztjhqjikm"
+			},
+			"date": "2025-10-02T12:39:41.100Z",
+			"content": "<p>do not uddermine david’s brain, I hear it is legendairy</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m27ljjbom22i",
+			"parentId": "at://did:plc:qcxqtc2yzznbaazu7egncqqx/app.bsky.feed.post/3m27l5qmzzs2c",
+			"url": "https://bsky.app/profile/scott.is/post/3m27ljjbom22i",
+			"private": true,
+			"date": "2025-10-02T12:46:16.040Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3m27ly3j6gk27",
+			"parentId": "at://did:plc:onnqk5n3i5arwdfxuzipayzr/app.bsky.feed.post/3m27ljjbom22i",
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3m27ly3j6gk27",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2025-10-02T12:54:24.922Z",
+			"content": "<p>alright i was down with the first few puns but this thread is getting too cheesy</p>",
+			"via": "bluesky"
+		}
+	]
+}

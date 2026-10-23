@@ -1,0 +1,173 @@
+{
+	"comments": [
+		{
+			"id": "112197332044579436",
+			"parentId": 0,
+			"url": "https://mastodon.social/@zastrow/112197331950777918",
+			"author": {
+				"name": "Philip Zastrow",
+				"url": "https://mastodon.social/@zastrow",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/545/865/069/891/766/original/dbe5df1b7ce6d1d0.jpeg"
+			},
+			"date": "2024-04-01T18:17:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> These aren’t the analytics you’re looking for.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112197349420689663",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Chris/112197347227896969",
+			"author": {
+				"name": "Chris Coleman",
+				"url": "https://mastodon.social/@Chris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/357/120/282/113/original/e6b14bf4e06f7c03.jpg"
+			},
+			"date": "2024-04-01T18:20:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “With the launch of Google Analytics 4, we’ve made improvements to your experience. All scum and villainy can now be conveniently accessed through Looker Studio.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112197367361971725",
+			"parentId": "112197332044579436",
+			"url": "https://fediverse.zachleat.com/@zachleat/112197367361971725",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-01T18:26:01.945Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@zastrow\" class=\"u-url mention\">@<span>zastrow</span></a></span> these aren’t the analytics I’m looking for</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112197373741711141",
+			"parentId": "112197349420689663",
+			"url": "https://fediverse.zachleat.com/@zachleat/112197373741711141",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-01T18:27:39.292Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Chris\" class=\"u-url mention\">@<span>Chris</span></a></span> everything is fine<br />everything is fine<br />everything is fine<br />everything is fine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112197478484231796",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/112197474572396468",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-04-01T18:53:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> modern startups will put bunch of analytics, telemetry, trackers and session replay in their website and then question why people are not approving their \"UX\"</p><p>Also, can you recommend some open source, lightweight analytics tool that doesn't behave like spying on users?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112197729694076244",
+			"parentId": "112197478484231796",
+			"url": "https://fosstodon.org/@ttntm/112197729656117402",
+			"author": {
+				"name": "Tom",
+				"url": "https://fosstodon.org/@ttntm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/757/543/218/928/648/original/fc6107a3063f13c6.jpg"
+			},
+			"date": "2024-04-01T19:58:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>nrk9819</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've got a DIY approach (<a href=\"https://github.com/sbstjn/serverless-analytics\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sbstjn/serverless-a</span><span class=\"invisible\">nalytics</span></a>) on my list. But I've also read positive things about plausible and fathom.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112197882000381082",
+			"parentId": 0,
+			"url": "https://mastodon.online/@macdonst/112197881963683108",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-04-01T20:36:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we stopped using it as it is useless.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112197966728768503",
+			"parentId": "112197882000381082",
+			"url": "https://mastodon.xyz/@remotesynth/112197966691710622",
+			"author": {
+				"name": "Brian Rinaldi",
+				"url": "https://mastodon.xyz/@remotesynth",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/454/870/726/204/original/b2591f5bf2bcee44.jpg"
+			},
+			"date": "2024-04-01T20:58:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> They made changes that made it completely useless to me. My numbers one day to the next switching to GA4 dropped by about 80%. I have tested some other solutions to know that the GA numbers were inaccurate so I just gave up. Right now I am using Cloudflare's free analytics which doesn't have anywhere near as much detail but enough for me.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112198034610246262",
+			"parentId": 0,
+			"url": "https://aus.social/@alansuspect/112198034525710102",
+			"author": {
+				"name": "Alan",
+				"url": "https://aus.social/@alansuspect",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/966/108/265/470/446/original/2403d3db2d3700e6.png"
+			},
+			"date": "2024-04-01T21:15:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I use it so infrequently that when a client asks me to fix something with it (when they've forgotten they have it as well) it needs to be updated to the Latest And Greatest™ version that replaces all others. Waste of time.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112198047495360455",
+			"parentId": "112197966728768503",
+			"url": "https://mastodon.online/@macdonst/112198047456469110",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-04-01T21:18:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>remotesynth</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah, we are reading our traffic in the AWS console.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112198095851686275",
+			"parentId": 0,
+			"url": "https://mastodon.social/@KeithPurtell/112198095813416626",
+			"author": {
+				"name": "Keith Purtell",
+				"url": "https://mastodon.social/@KeithPurtell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/605/132/826/966/789/original/c3e0200ccb1a7f1e.jpg"
+			},
+			"date": "2024-04-01T21:31:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the software or the SEO practitioners?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112198187781979777",
+			"parentId": "112198095851686275",
+			"url": "https://fediverse.zachleat.com/@zachleat/112198187781979777",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-01T21:54:40.559Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@KeithPurtell\" class=\"u-url mention\">@<span>KeithPurtell</span></a></span> the software—it’s always the software 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112214484555462169",
+			"parentId": "112198187781979777",
+			"url": "https://mastodon.social/@KeithPurtell/112214484368298083",
+			"author": {
+				"name": "Keith Purtell",
+				"url": "https://mastodon.social/@KeithPurtell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/605/132/826/966/789/original/c3e0200ccb1a7f1e.jpg"
+			},
+			"date": "2024-04-04T18:59:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>At first, I thought the latest Google Analytics was so difficult to navigate because it introduced new concepts. I finally realized it has a bad UI. Disappointed that Google execs won't pay good techs to do their jobs.</p>",
+			"via": "fediverse"
+		}
+	]
+}

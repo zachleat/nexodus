@@ -1,0 +1,272 @@
+{
+	"comments": [
+		{
+			"id": "113209875145211530",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/113209875046692471",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2024-09-27T14:00:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It all starts from realizing they're not something you can \"work around\", they're a thing you \"work with\" (like events, or promises, or &lt;select&gt; elements) and if you're not or can't then it could be says that your abstraction might just be wrong...</p><p>Just sayin. 😏</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113209893909566872",
+			"parentId": "113209875145211530",
+			"url": "https://fediverse.zachleat.com/@zachleat/113209893909566872",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-27T14:04:50.956Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> *exactly* web primitives don’t have to be a burden if you work with the grain of the web</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113209898009070692",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@fvsch/113209897971382106",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://hachyderm.io/@fvsch",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/834/091/035/043/627/original/4367bd08dd68da57.jpg"
+			},
+			"date": "2024-09-27T14:05:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Facts.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113210043960425808",
+			"parentId": "113209893909566872",
+			"url": "https://ruby.social/@konnorrogers/113210043869872635",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-09-27T14:42:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> </p><p>Yea, but how do you expect my compiler default event delegated frontend framework with partial prerendering hydration hubbabaloo to work if my assumptions of the platform are no longer true?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113210102891006636",
+			"parentId": "113210043960425808",
+			"url": "https://toot.wales/@Lukew/113210102857550314",
+			"author": {
+				"name": "Luke",
+				"url": "https://toot.wales/@Lukew",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/107/164/987/417/242/original/cb553420c43fa577.jpeg"
+			},
+			"date": "2024-09-27T14:57:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>konnorrogers</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> But my synthetic performance benchmarks show I can get more bigger numbers by breaking how events work!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113210159780611999",
+			"parentId": 0,
+			"url": "https://mastodon.social/@asuh/113210159726631603",
+			"author": {
+				"name": "Micah",
+				"url": "https://mastodon.social/@asuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/987/473/110/360/original/93cc2a41bb557ba4.jpg"
+			},
+			"date": "2024-09-27T15:12:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wonder if there's a truth to the paradigm of compilers being too [critical, necessary, vital, ???] for web developers to avoid using the DOM directly?</p><p>Using Custom Elements as Web Components inside of the popular libraries, almost all of which rely on a compilation step to convert everything to HTML, CSS, and JS, doesn't seem to provide enough benefits in those paradigms.</p><p>What incentives do JS library  focused developers have to use WCs in a compile-necessary language?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113210174660040127",
+			"parentId": "113210159780611999",
+			"url": "https://mastodon.social/@asuh/113210174571561604",
+			"author": {
+				"name": "Micah",
+				"url": "https://mastodon.social/@asuh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/987/473/110/360/original/93cc2a41bb557ba4.jpg"
+			},
+			"date": "2024-09-27T15:16:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Said in another way, React provides everything developers need in a React environment to create custom elements, and all of that code will be compiled down to a snapshot to diff.</p><p>Trying to get in the head of devs loyal to their JS libraries and frameworks, I'm struggling to make enough arguments for Web Components for any compiled language.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113210198426726998",
+			"parentId": "113210174660040127",
+			"url": "https://fediverse.zachleat.com/@zachleat/113210198426726998",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-27T15:22:17.518Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@asuh\" class=\"u-url mention\">@<span>asuh</span></a></span> it’s a good thought experiment! I consider it a limitation when when a compiler is required to own everything. Especially if the goal is to accommodate use cases with limited capability for build steps (which exist whether a framework supports them or not)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113213565939181953",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@emilis/113213565908137232",
+			"author": {
+				"name": "Emilis 🇺🇦",
+				"url": "https://fosstodon.org/@emilis",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-28T05:38:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wake me up when web components start working without javascript instead of breaking the website for visitors with JS off.<br>Also can you have multiple different versions of the same custom element on a page?<br>IMO web components should have never got the full browser support.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113213694413810067",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pierstoval/113213694390057923",
+			"author": {
+				"name": "pierstoval",
+				"url": "https://mastodon.social/@pierstoval",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/844/347/164/041/397/original/3a4a248c27b20e43.jpg"
+			},
+			"date": "2024-09-28T06:11:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> years ago I was like \"Web components are the future!\", now I see the clumsy API, the time it took for browsers to adapt...</p><p>I mean, I can compile a Svelte component into JS with zero harm and it's compatible with any web browser already, even old ones if I want, and the flexibility I have while coding it is immense, and more user-friendly than Web Components 😞</p><p>It's sad to me, but so far, it's still harder to work with Web Components than Svelte 😕</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113214355411396653",
+			"parentId": 0,
+			"url": "https://mastodon.social/@joegaffey/113214355380605776",
+			"author": {
+				"name": "Joe Gaffey",
+				"url": "https://mastodon.social/@joegaffey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/202/847/234/717/original/982bdf6da0121c84.jpg"
+			},
+			"date": "2024-09-28T08:59:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Then it's not a web framework.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113216540321520383",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@mb21/113216540293131688",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-28T18:15:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Strong “If your web framework doesn’t support XHTML and XSLT, it doesn’t support the web platform” vibes here.</p><p>I’m usually all for using web-native tech without intermediary tools. But that’s because it brings me benefits like easier debuggability, better performance, more control, etc. As much as I’d like to say that of web components unfortunately I can’t…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113216963525996036",
+			"parentId": "113216540321520383",
+			"url": "https://fediverse.zachleat.com/@zachleat/113216963525996036",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T20:02:44.739Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\">@<span>mb21</span></a></span> you took a thing I said and changed it to be a different thing 🫠 Do you want to talk about XSLT? I have a fair bit of experience with it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217123089016282",
+			"parentId": "113216963525996036",
+			"url": "https://hachyderm.io/@mb21/113217123046752355",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-28T20:43:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve had my share of experience with XSLT as well. I liked XQuery better, but that never made it into browsers. Anyway, my point was more that just because something is built into all browsers doesn’t necessarily mean it’s a good idea to use it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113217133532860743",
+			"parentId": "113217123089016282",
+			"url": "https://fediverse.zachleat.com/@zachleat/113217133532860743",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-28T20:45:58.839Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\">@<span>mb21</span></a></span> whew, XSLT might be the wrong tree to be barking up on this point specifically 😅. It was wicked fast in IE8 for templating—way speedier than DOM methods. Used to love it for that 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113219310073247473",
+			"parentId": "113217133532860743",
+			"url": "https://hachyderm.io/@mb21/113219309931508594",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-29T05:59:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Exactly. And I think we’ll see whether web components are going to feel stale like XSLT in &gt;10 years.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113219667949800653",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@rileytaylor/113219667814391345",
+			"private": true,
+			"date": "2024-09-29T07:30:28.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113221074195116902",
+			"parentId": "113219310073247473",
+			"url": "https://fediverse.zachleat.com/@zachleat/113221074195116902",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-29T13:28:08.574Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\">@<span>mb21</span></a></span> Maybe that’s the root of the issue here. Folks are so tied up in how something *feels* (easily influenced by blog posts) and not the value it brings to real production use cases</p><p>anyway XSLT is still working fine for real use cases—eleventy-base-blog has one for Atom feed styling: <a href=\"https://eleventy-base-blog-git-v9-11ty.vercel.app/feed/feed.xml\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eleventy-base-blog-git-v9-11ty</span><span class=\"invisible\">.vercel.app/feed/feed.xml</span></a></p><p>Related: <a href=\"https://rknight.me/blog/styling-rss-and-atom-feeds/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rknight.me/blog/styling-rss-an</span><span class=\"invisible\">d-atom-feeds/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113221514998401270",
+			"parentId": "113221074195116902",
+			"url": "https://hachyderm.io/@mb21/113221514959855878",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-29T15:20:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Haha, well… beyond that one use-case, do you feel XSLT brings value to real production use cases?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113221544761695165",
+			"parentId": "113221514998401270",
+			"url": "https://fediverse.zachleat.com/@zachleat/113221544761695165",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-29T15:27:48.850Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@mb21\" class=\"u-url mention\">@<span>mb21</span></a></span> do we acknowledge the goal posts moving here or no 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113222101495719611",
+			"parentId": "113221544761695165",
+			"url": "https://hachyderm.io/@mb21/113222101452461328",
+			"author": {
+				"name": "mb21",
+				"url": "https://hachyderm.io/@mb21",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-29T17:49:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no, I was saying that just because something is a native web tech doesn’t guarantee that it will be used forever, by drawing an analogy from web components to xslt and you responded with that perhaps people should worry about use-cases more, seemingly implying that xslt still has use-cases.</p>",
+			"via": "fediverse"
+		}
+	]
+}

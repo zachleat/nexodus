@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "109949914244819273",
+			"parentId": 0,
+			"url": "https://w3c.social/@dbaron/109949914211822116",
+			"author": {
+				"name": "L. David Baron",
+				"url": "https://w3c.social/@dbaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/020/837/438/878/original/91f919884e62ec17.jpg"
+			},
+			"date": "2023-03-01T20:29:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I suppose that also depends on whether what you're doing works with both the non-streaming (old) and streaming (new) declarative shadow dom implementations.  (I think at least part of the reason for the rename was to match substantial changes in how the feature worked.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109949922550121954",
+			"parentId": "109949914244819273",
+			"url": "https://fediverse.zachleat.com/@zachleat/109949922550121954",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-01T20:31:15.633Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://w3c.social/@dbaron\" class=\"u-url mention\">@<span>dbaron</span></a></span> Great point, yes!</p>",
+			"via": "fediverse"
+		}
+	]
+}

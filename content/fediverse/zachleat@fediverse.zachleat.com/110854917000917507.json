@@ -1,0 +1,85 @@
+{
+	"comments": [
+		{
+			"id": "110854925260240505",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/110854925238008911",
+			"private": true,
+			"date": "2023-08-08T16:25:20.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110854932377906533",
+			"parentId": "110854925260240505",
+			"url": "https://fediverse.zachleat.com/@zachleat/110854932377906533",
+			"private": true,
+			"date": "2023-08-08T16:27:09.690Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110854943572417709",
+			"parentId": 0,
+			"url": "https://t00t.cloud/@mattrambles/110854942880271763",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-08-08T16:29:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This! Every time I’m answering questions to verify my identity on a call, I wonder when it’s the other person’s turn.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110854963810081383",
+			"parentId": "110854943572417709",
+			"url": "https://fediverse.zachleat.com/@zachleat/110854963810081383",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-08T16:35:09.312Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://t00t.cloud/@mattrambles\" class=\"u-url mention\">@<span>mattrambles</span></a></span> yeah! I’ve been thinking about this—how do you verify that a caller is with the service they claim to be representing? The safest thing is for me to call in to an official verified phone number</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110855004240963393",
+			"parentId": "110854963810081383",
+			"url": "https://t00t.cloud/@mattrambles/110855004115426474",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-08-08T16:45:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Best model I’ve seen for this is with city employees in a few places I’ve lived, who offer a badge or ID number as part of a fresh call or visit—which the diligent googler can verify on the city’s website.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110855036072005711",
+			"parentId": "110855004240963393",
+			"url": "https://fediverse.zachleat.com/@zachleat/110855036072005711",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-08T16:53:31.936Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://t00t.cloud/@mattrambles\" class=\"u-url mention\">@<span>mattrambles</span></a></span> even then you have to evaluate the way that information is divulged. If anyone can lookup an ID number via a name: 🚩</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110855047569271253",
+			"parentId": "110855036072005711",
+			"url": "https://t00t.cloud/@mattrambles/110855047463890851",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-08-08T16:56:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> True. It’d be nice to exchange public keys but I can’t imagine that happening.</p><p>I assume at some point I’ll be living in the woods contemplating my identity misstep. 🤷‍♂️</p>",
+			"via": "fediverse"
+		}
+	]
+}

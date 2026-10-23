@@ -1,0 +1,124 @@
+{
+	"comments": [
+		{
+			"id": "110346643362126155",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110346643362126155",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-10T22:02:34.815Z",
+			"content": "<p>I can (on rare occasion) retoot things I posted on twitter, I’ve decided</p><p>(<a href=\"https://www.zachleat.com/twitter/1539332322549538816/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/twitter/153933232</span><span class=\"invisible\">2549538816/</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110346719051991607",
+			"parentId": "110346643362126155",
+			"url": "https://dym.sh/@dym/statuses/01H03W358B63XYGTQTGTJ5VWTN",
+			"author": {
+				"name": "Dym Sohin",
+				"url": "https://dym.sh/@dym",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-05-10T22:21:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> might as well manually set (directly in the DB) initial counters to the same ones as on twitter-post.<br>also prob backlink to it, to keep continuity?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110346762913641902",
+			"parentId": "110346643362126155",
+			"url": "https://toot.cat/@theadmiral/110346762856048745",
+			"author": {
+				"name": "Ian B",
+				"url": "https://toot.cat/@theadmiral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/783/986/673/486/original/8cb08d27498ffa87.png"
+			},
+			"date": "2023-05-10T22:32:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> as a treat</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110346767887461020",
+			"parentId": "110346719051991607",
+			"url": "https://fediverse.zachleat.com/@zachleat/110346767887461020",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-10T22:34:14.921Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://dym.sh/@dym\" class=\"u-url mention\">@<span>dym</span></a></span> I edited with a backlink! thanks!</p><p>for the first part, are you telling me that I can just edit my own popularity counts 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110347177091569830",
+			"parentId": "110346767887461020",
+			"url": "https://dym.sh/@dym/statuses/01H042RFP9NC4A7KYDW3PFTR3E",
+			"author": {
+				"name": "Dym Sohin",
+				"url": "https://dym.sh/@dym",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-05-11T00:18:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i've seen custom profiles hardcoded with funny numbers, including negative followers' amount</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110349597751708542",
+			"parentId": 0,
+			"url": "https://front-end.social/@mxbck/110349597711696106",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://front-end.social/@mxbck",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/056/493/159/698/original/45a5e18ac98225c0.jpg"
+			},
+			"date": "2023-05-11T10:33:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> motorbikes are faster than trucks<br>yeah but only because they weigh less<br>yup<br>and trucks have to transport a lot of cargo<br>yes<br>so it's not fair to compare them<br>why?<br>I want to ship a bunch of heavy cargo<br>...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110350219968614361",
+			"parentId": 0,
+			"url": "https://social.ericwbailey.website/@eric/110350219942760469",
+			"private": true,
+			"date": "2023-05-11T13:12:09.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110350351579108939",
+			"parentId": "110350219968614361",
+			"url": "https://fediverse.zachleat.com/@zachleat/110350351579108939",
+			"private": true,
+			"date": "2023-05-11T13:45:37.717Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110350615062474980",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/110350614918256594",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2023-05-11T14:52:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> maybe relatedly I’ve been having a “look at our perfect lighthouse scores!” - “but the html you render is really bad and you move everything into place with JS after the dom load” - “that doesn’t matter, lighthouse!” Argument for a while now.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110350745135918975",
+			"parentId": "110350615062474980",
+			"url": "https://fediverse.zachleat.com/@zachleat/110350745135918975",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-11T15:25:42.917Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> oof, exhausting</p>",
+			"via": "fediverse"
+		}
+	]
+}

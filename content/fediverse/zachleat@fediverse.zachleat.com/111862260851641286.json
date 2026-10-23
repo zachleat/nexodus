@@ -1,0 +1,631 @@
+{
+	"comments": [
+		{
+			"id": "111862274753819806",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/111862274681613182",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T14:07:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The “h-i” slide cracks me up. 🤣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862276793859949",
+			"parentId": "111862274753819806",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862276793859949",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T14:08:05.649Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> we do what we must 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862308327997831",
+			"parentId": "111862276793859949",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111862308143449242",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T14:16:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great post. I’d like to see the aspirational idea you have come to fruition. </p><p>The biggest issue with web component approaches, even the good ones like WebC, is that they still require a build step. This limits them to folks who are comfortable with JS build chains.</p><p>I want to spread the love to Django, ASP.NET, Laravel, Rails, and all future web frameworks.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862313197798899",
+			"parentId": "111862308327997831",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862313197798899",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T14:17:21.129Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> 100% agree—and I’m hopeful we’ll get there!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862343964212434",
+			"parentId": "111862308327997831",
+			"url": "https://mastodon.online/@macdonst/111862343408176427",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-02T14:25:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the aspirational ideal is literally how Enhance works. You define your template in a function and then it is expanded into light DOM custom elements by the SSR piece.</p><p>We’d love to bring Enhance SSR to other languages so if you are interested in submitting PR’s we’d be happy to work on that with you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862346363299651",
+			"parentId": "111862343964212434",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862346363299651",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T14:25:47.195Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> ah to be clear I mean that I want the aspirational idea to be a first-party platform feature.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862371114154558",
+			"parentId": "111862308327997831",
+			"url": "https://mstdn.social/@mattwilcox/111862370994465702",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2024-02-02T14:32:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> Won't lie... it's what keeps me from investigating them any further than \"the theory\". I don't want node/npm on a live server. I have and trust PHP/Composer. Mostly because those are already my dependencies, and I don't want new ones with new exposure surfaces. <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862383571355986",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/111862383450700187",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-02-02T14:35:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great write up as always. I've been following your blog and <span class=\"h-card\" translate=\"no\"><a href=\"https://jakelazaroff.com/ap/blog\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>blog</span></a></span> for a while for web components related articles.</p><p>Also Vercel.js was funny (how we reached from Facebook.js to this point lmao 🤣🤣😸)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862389288744579",
+			"parentId": "111862371114154558",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862389288744579",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T14:36:42.188Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\">@<span>mattwilcox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> sure, but the repetition issue can be “poorly” hacked together via other mechanisms in your server-rendered stack: <a href=\"https://www.zachleat.com/web/webc-in-eleventy/#a-history-of-component-like-things\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/webc-in-eleve</span><span class=\"invisible\">nty/#a-history-of-component-like-things</span></a> (PHP include comes to mind)</p><p>But, yeah. It’s interesting that non-JS server environments are almost their own slower pace layer in web development. (Ref to <span class=\"h-card\" translate=\"no\"><a href=\"https://fed.brid.gy/r/https://adactio.com/\" class=\"u-url mention\">@<span>adactio.com</span></a></span>’s <a href=\"https://adactio.com/journal/19104\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">adactio.com/journal/19104</span><span class=\"invisible\"></span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862398003922520",
+			"parentId": "111862383571355986",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862398003922520",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T14:38:55.168Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> thank you! 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862403736835085",
+			"parentId": "111862346363299651",
+			"url": "https://mastodon.online/@macdonst/111862403643677254",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-02T14:40:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> Same! I think we need to rally around declarative custom elements since it is too late to change the web component apis.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862420152841571",
+			"parentId": "111862403736835085",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111862419945554238",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T14:44:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I work with <a href=\"https://mastodon.social/tags/dotnet\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>dotnet</span></a> and I don't expect MS to give folks a build-step that would allow you to process HTML before the final artifacts are built any time soon :(</p><p>There is a way to possibly do it, but I think it wouldn't be ideal.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862435496350548",
+			"parentId": "111862420152841571",
+			"url": "https://mastodon.online/@macdonst/111862435380189236",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-02T14:48:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> Is there no render step on the server you can tap into?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862451060839294",
+			"parentId": "111862389288744579",
+			"url": "https://mstdn.social/@mattwilcox/111862450384768839",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2024-02-02T14:52:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I actually find that slower pace a feature not a bug, is the thing. I *trust* PHP much more than I do Node. I *trust* Composer more than I do npm.</p><p>Is that rational? No and yes. I'm sure there are shoddy packages and all the same vectors for bad actors in Composer packages as for npm... but one has the reuptation of dodgy packages littered with dependencies, and actively abused ones, and the other doesn't.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fed.brid.gy/r/https://adactio.com/\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>adactio.com</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862459905007242",
+			"parentId": "111862451060839294",
+			"url": "https://mstdn.social/@mattwilcox/111862459379401841",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2024-02-02T14:54:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (Which is why I'm happy playing with 11ty locally, but do not use node on live servers) <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fed.brid.gy/r/https://adactio.com/\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>adactio.com</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862468277979424",
+			"parentId": "111862459905007242",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111862468107205781",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T14:56:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😅 Yeah, I wouldn't dream of it. Any viable use of a Web Component framework or SSR with an SSR stack (Laravel and ASP.NET Core) would have to be a build step.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862530495013628",
+			"parentId": 0,
+			"url": "https://social.worgames.com/@tomwor/111862530475509638",
+			"author": {
+				"name": "tomwor",
+				"url": "https://social.worgames.com/@tomwor",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-02-02T15:12:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Vercel.js - love it. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862608792651600",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@hasanhaja/111862608776283971",
+			"author": {
+				"name": "Hasan Ali",
+				"url": "https://fosstodon.org/@hasanhaja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/698/107/255/349/105/original/a8b5515bdc4a7805.png"
+			},
+			"date": "2024-02-02T15:32:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Loved the talk when I first saw it and I’m really glad there’s a written version of it 🙌🏾</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862613530534598",
+			"parentId": "111862608792651600",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862613530534598",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T15:33:43.843Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hasanhaja\" class=\"u-url mention\">@<span>hasanhaja</span></a></span> it only took me 7 or 8 months to get it on the web site 😅 (thank you!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862708710662538",
+			"parentId": "111862613530534598",
+			"url": "https://fosstodon.org/@hasanhaja/111862708689906218",
+			"author": {
+				"name": "Hasan Ali",
+				"url": "https://fosstodon.org/@hasanhaja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/698/107/255/349/105/original/a8b5515bdc4a7805.png"
+			},
+			"date": "2024-02-02T15:57:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😂</p><p>I’m happy it’s there now!</p><p>If it’s any consolation, I’ve been working on part 2 of my web components fundamentals post for nearly 6 months now… actually the problem is that I haven’t been working on it 😅 Coincidentally, I picked it up again this morning and have made good progress on it. Just need to stop procrastinating and finally finish it</p><p><a href=\"https://fosstodon.org/@hasanhaja/110887451942339673\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@hasanhaja/11088</span><span class=\"invisible\">7451942339673</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862868377866490",
+			"parentId": "111862468277979424",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111862867870278485",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T16:38:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Welp… I got nerd-sniped. I hope you are happy now! <a href=\"https://mastodon.social/tags/dotnet\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>dotnet</span></a> <a href=\"https://mastodon.social/tags/aspnetcore\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>aspnetcore</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862876060591036",
+			"parentId": "111862868377866490",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862876060591036",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T16:40:29.735Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\">@<span>mattwilcox</span></a></span> ahaha 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862974845441398",
+			"parentId": "111862343964212434",
+			"url": "https://indieweb.social/@brianleroux/111862974789611111",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2024-02-02T17:05:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> kinda weirdly absent again. :/</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111862980380618195",
+			"parentId": "111862974845441398",
+			"url": "https://fediverse.zachleat.com/@zachleat/111862980380618195",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T17:07:01.534Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> this is the same talk I gave last year, Enhance is in the call-to-action section: <a href=\"https://www.zachleat.com/web/good-bad-web-components/#framework-tension\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/good-bad-web-</span><span class=\"invisible\">components/#framework-tension</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863016952526547",
+			"parentId": "111862468277979424",
+			"url": "https://ruby.social/@konnorrogers/111863016530453101",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-02-02T17:16:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My current explorations into this have landed on creating isomorphic templates using a \"universal template language\" like Liquid</p><p>(Most languages seem to support Liquid in some form, but isn't quite as ubiquitous as Mustache.)</p><p>Dotnet has \"fluid\" I found: <a href=\"https://github.com/sebastienros/fluid\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sebastienros/fluid</span><span class=\"invisible\"></span></a></p><p>I come from Rails land so my ideal SSR would look like this:</p><p>&lt;%= liquid_render \"my-component\", { attributes: {}} %&gt;</p><p>The hardest part is having predefined \"partials\" for expansion</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863027043555649",
+			"parentId": "111863016952526547",
+			"url": "https://ruby.social/@konnorrogers/111863026980246507",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2024-02-02T17:18:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The current prototype I have does have a build step by the \"library\" of components to produce a `.liquid` file on disk, but for first-party components you author, you can easily have them live in a \"definitions\" file, and directly read the template into your component and expand it.</p><p>It's a hard problem and why I feel like the browser having a first party template language could alleviate a lot of this. Though I'm sure it comes with other concerns.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863105706352409",
+			"parentId": "111862974845441398",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111863105111944747",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T17:38:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863170670477868",
+			"parentId": "111863105706352409",
+			"url": "https://mastodon.online/@macdonst/111863170633006893",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-02T17:55:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> he missed the Enhance mentions on his read-through. I already mentioned it to him.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863174671514673",
+			"parentId": "111862876060591036",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111863174556113267",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T17:56:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> There is a second level here that I’m not ready to go down, but I’ll write a blog post for the adventurous among us.</p><p>But I have to ask. Can the WebC toolchain process HTML fragments one at a time?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863285295402684",
+			"parentId": "111863170670477868",
+			"url": "https://indieweb.social/@brianleroux/111863284929180585",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2024-02-02T18:24:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yea sorry, missed the single bullet footnote mention there</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863506462674106",
+			"parentId": "111863174671514673",
+			"url": "https://fediverse.zachleat.com/@zachleat/111863506462674106",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T19:20:48.907Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\">@<span>mattwilcox</span></a></span> For sure, it can parse fragments, that’s the example on the README: <a href=\"https://github.com/11ty/webc?tab=readme-ov-file#javascript-api\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/webc?tab=readm</span><span class=\"invisible\">e-ov-file#javascript-api</span></a></p><p>Might be worth looking at the test suite for more examples too:<br /><a href=\"https://github.com/11ty/webc/blob/main/test/parserTest.js\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/webc/blob/main</span><span class=\"invisible\">/test/parserTest.js</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863539180985571",
+			"parentId": "111863285295402684",
+			"url": "https://fediverse.zachleat.com/@zachleat/111863539180985571",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T19:29:08.150Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> everything okay?</p><p>I do try to mention Enhance whenever I talk about WebC e.g. <a href=\"https://github.com/11ty/webc#similar-works\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/webc#similar-w</span><span class=\"invisible\">orks</span></a></p><p>I don’t see any mentions of WebC on enhance.dev though (which is fine!)—but I’m sensing a little passive aggressiveness here which in the larger picture seems a little unfair (same team!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863615071877179",
+			"parentId": "111863506462674106",
+			"url": "https://mastodon.social/@khalidabuhakmeh/111863614991568058",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-02-02T19:48:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> Well… I was hoping you would say no. 😅</p><p>I might have to implement this then.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863873921770276",
+			"parentId": "111863539180985571",
+			"url": "https://indieweb.social/@brianleroux/111863873615019831",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2024-02-02T20:54:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> not super great tbh. thx! sorry for making you feel that way. (we do mention 11ty a lot on our blog and even had support for it in Enhance pre-webc)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863901351867499",
+			"parentId": "111863873921770276",
+			"url": "https://fediverse.zachleat.com/@zachleat/111863901351867499",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T21:01:14.439Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> dang, man—really sorry to hear it.</p><p>If y’all want—we could rekindle our collab—I’d love to get Enhance SSR as a plugin for 11ty!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111864336690079299",
+			"parentId": "111863901351867499",
+			"url": "https://indieweb.social/@brianleroux/111864336628155810",
+			"author": {
+				"name": "Brian LeRoux 💚",
+				"url": "https://indieweb.social/@brianleroux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/763/370/860/389/original/b7637f3827245164.jpg"
+			},
+			"date": "2024-02-02T22:51:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> we figured it was less confusing but if you don't think so I'm into it. we should have some ssg option to point folks at.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111867653267067743",
+			"parentId": "111862868377866490",
+			"url": "https://fosstodon.org/@pauleveritt/111867653235824710",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2024-02-03T12:55:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Khalid gave me a walk-through on this yesterday. His nerd-snipe then nerd-sniped me. Interesting where this pattern could go next.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111868990300099128",
+			"parentId": "111863016952526547",
+			"url": "https://indieweb.social/@mariohamann/111868990279240298",
+			"author": {
+				"name": "Mario",
+				"url": "https://indieweb.social/@mariohamann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/639/115/399/589/709/original/d197f81dc69d59be.png"
+			},
+			"date": "2024-02-03T18:35:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>konnorrogers</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@mattwilcox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mattwilcox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So exciting to see so many people raving on this topic.</p><p>I enjoy Enhance Custom Element in combination with Enhance SSR: The first allows to use slots without (!) ShadowDOM, the second makes it feel like a universal templating engine which is super close to the platform.</p><p>I'm experimenting with doing SSR in combination with Laravel and Lambda/Node server - blog post will follow!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111869033984399590",
+			"parentId": "111862343964212434",
+			"url": "https://indieweb.social/@mariohamann/111869033962771164",
+			"author": {
+				"name": "Mario",
+				"url": "https://indieweb.social/@mariohamann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/639/115/399/589/709/original/d197f81dc69d59be.png"
+			},
+			"date": "2024-02-03T18:46:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Could you give me a hint how this could work, as the whole definition of the Web Component is still... JS? Wouldn't this expect something like a... JS to PHP transpiler or something? Or do I have a misconception here?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111869191054364021",
+			"parentId": "111869033984399590",
+			"url": "https://mastodon.online/@macdonst/111869191017886605",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-03T19:26:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mariohamann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mariohamann</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what we do with Enhance is expand the custom element on the server and send it down to the browser so it arrives as working HTML. Then the script tag is loaded with \"enhances\" the custom element to a full web component with the call to customElement.define(). We see two benefits to this approach:</p><p>1/2</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111869195349047037",
+			"parentId": "111869191054364021",
+			"url": "https://mastodon.online/@macdonst/111869195302144971",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-03T19:27:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mariohamann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mariohamann</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>1. A lot of components don't need interactivity so client side rendering is overkill for them. These are the components that never upgrade to full web components.<br>2. Working HTML arrives on the client so if JS doesn't work for some reason your app still works.</p><p>We'd love to port the SSR portion to other languages someday. So it would be deciding on a way to write custom element templates in PHP and writing the SSR package in PHP or some cross language.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111869240521381983",
+			"parentId": "111869195349047037",
+			"url": "https://indieweb.social/@mariohamann/111869240395741745",
+			"author": {
+				"name": "Mario",
+				"url": "https://indieweb.social/@mariohamann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/639/115/399/589/709/original/d197f81dc69d59be.png"
+			},
+			"date": "2024-02-03T19:39:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So something like an enhance/custom-element-php composer package, which allows to describe render etc. with PHP, having some kind of feature parity regarding slots, attributes etc. Of course this wouldn't allow to hydrate it on the client, but the templating part could somehow work. Do I get this right?</p><p>I love the possibility with enhance to decide to render on server or client... that would go away. 🫤</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111873279848766657",
+			"parentId": 0,
+			"url": "https://mastodon.social/@stuffbreaker/111873279801549917",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://mastodon.social/@stuffbreaker",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/205/514/208/956/530/original/481cc1c3320f9ba8.jpg"
+			},
+			"date": "2024-02-04T12:46:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great post! I'm not super keen on the DSD (Declarative Shadow DOM) API because of the fact you have to define the template for each component instance, but the DCE (Declarative Custom Elements) API seems promising for scalably SSRing custom elements.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111879705354098615",
+			"parentId": "111873279848766657",
+			"url": "https://fediverse.zachleat.com/@zachleat/111879705354098615",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-05T16:00:24.372Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@stuffbreaker\" class=\"u-url mention\">@<span>stuffbreaker</span></a></span> thanks! Yeah I’m hoping that can be a solved problem!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111879926287973240",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dracos/111879925957408290",
+			"private": true,
+			"date": "2024-02-05T16:56:30.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111880914061931558",
+			"parentId": "111869240521381983",
+			"url": "https://mastodon.online/@macdonst/111880913998487239",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-05T21:07:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mariohamann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mariohamann</span></a></span> I don't think it would as you would just load the script tag to the web component in your PHP page to get client side rendering.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111881180674257071",
+			"parentId": "111880914061931558",
+			"url": "https://indieweb.social/@mariohamann/111881180664287554",
+			"author": {
+				"name": "Mario",
+				"url": "https://indieweb.social/@mariohamann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/639/115/399/589/709/original/d197f81dc69d59be.png"
+			},
+			"date": "2024-02-05T22:15:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> Hm, but if the templating is using PHP on server side and JS on client side, these are actually two components. From their usage (tags with attributes and slots), of course they could behave the same, but the initial implementation effort is doubled.</p><p>My personal aim is more to write components once and then re-use them in every stack (PHP, JS, Plain HTML) or target (client, server).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111881297175969655",
+			"parentId": "111881180674257071",
+			"url": "https://mastodon.online/@macdonst/111881297128591774",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-02-05T22:45:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mariohamann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mariohamann</span></a></span> in the case of other languages we'd have to separate the template from the JS side of things. That's something we do support already.</p><p>I think you have a very worthy goal there.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111885067412671199",
+			"parentId": "111879926287973240",
+			"url": "https://fediverse.zachleat.com/@zachleat/111885067412671199",
+			"private": true,
+			"date": "2024-02-06T14:44:02.895Z",
+			"via": "fediverse"
+		}
+	]
+}

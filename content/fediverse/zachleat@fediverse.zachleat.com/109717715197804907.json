@@ -1,0 +1,184 @@
+{
+	"comments": [
+		{
+			"id": "109717798936601185",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/109717798936601185",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-19T20:39:10.374Z",
+			"content": "<p><a href=\"https://fosstodon.org/@webpro/109717768907972230\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@webpro/10971776</span><span class=\"invisible\">8907972230</span></a> has informed me that comparing two distinct pre-release tags is… alphabetic.</p><p>I don’t agree with this but at least I understand it now 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717815666862164",
+			"parentId": "109717798936601185",
+			"url": "https://infosec.exchange/@AlesandroOrtiz/109717815639894842",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2023-01-19T20:43:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Time to use xray, yankee, zulu as early release stages.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717837688248707",
+			"parentId": "109717798936601185",
+			"url": "https://mastodon.ml/@bano/109717837620480632",
+			"private": true,
+			"date": "2023-01-19T20:49:00.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717841488025514",
+			"parentId": "109717837688248707",
+			"url": "https://mastodon.ml/@bano/109717841323999627",
+			"private": true,
+			"date": "2023-01-19T20:49:57.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717859555442293",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/109717859463363436",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2023-01-19T20:54:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've made the same mistake. I still argue prereleases should be incomparable. The semantics of a prerelease should not be mixed with it's alphabetical ordering.</p><p><a href=\"https://tweets.dwac.dev/1486031288872030209/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tweets.dwac.dev/14860312888720</span><span class=\"invisible\">30209/</span></a><br><a href=\"https://tweets.dwac.dev/1486106892401213440/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tweets.dwac.dev/14861068924012</span><span class=\"invisible\">13440/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109718021530242896",
+			"parentId": "109717798936601185",
+			"url": "https://mastodon.social/@lihbr/109717874606009780",
+			"author": {
+				"name": "Lucie",
+				"url": "https://mastodon.social/@lihbr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/146/386/811/346/original/fd800a8e46ca5501.png"
+			},
+			"date": "2023-01-19T20:58:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Time for some good old `.replace(\"canary\", \"acanary\")`</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717895689833230",
+			"parentId": "109717859555442293",
+			"url": "https://fediverse.zachleat.com/@zachleat/109717895689833230",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-19T21:03:46.714Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> yeah, that’s what I expected too! That the pre-release tags would be distinct and both would return `false`</p><p>also 😍 to see you linking to your tweetback archive!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717901470484180",
+			"parentId": "109717841488025514",
+			"url": "https://fediverse.zachleat.com/@zachleat/109717901470484180",
+			"private": true,
+			"date": "2023-01-19T21:05:14.917Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717911870931943",
+			"parentId": "109717815666862164",
+			"url": "https://fediverse.zachleat.com/@zachleat/109717911870931943",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-19T21:07:53.614Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\">@<span>AlesandroOrtiz</span></a></span> haha—I like this “make it work” attitude</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717955432073529",
+			"parentId": "109717911870931943",
+			"url": "https://infosec.exchange/@AlesandroOrtiz/109717955403005911",
+			"author": {
+				"name": "Alesandro Ortiz 🇵🇷🏳️‍🌈",
+				"url": "https://infosec.exchange/@AlesandroOrtiz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/149/453/262/611/original/23dac2fa9079ea5a.png"
+			},
+			"date": "2023-01-19T21:18:57.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's either that or throwing a wrench at ~the cloud~ in frustration, which would just hit me back on the way down.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109717997903347946",
+			"parentId": "109717895689833230",
+			"url": "https://techhub.social/@develwithoutacause/109717997862868284",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2023-01-19T21:29:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I finally suspended the Twitter account so that's what I'm using. 😍 that you helped make it happen 😅. I don't know that I would have had the follow-through to build it from scratch.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109718046757612083",
+			"parentId": "109718021530242896",
+			"url": "https://fediverse.zachleat.com/@zachleat/109718046757612083",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-19T21:42:11.827Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lihbr\" class=\"u-url mention\">@<span>lihbr</span></a></span> are you watching me code 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109718046920668036",
+			"parentId": "109718021530242896",
+			"url": "https://mas.to/@snugug/109718046837660367",
+			"author": {
+				"name": "Snugug",
+				"url": "https://mas.to/@snugug",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/362/296/905/498/284/original/4ea29a625c38b349.jpeg"
+			},
+			"date": "2023-01-19T21:42:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lihbr\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lihbr</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I read that as \"arcane\" and I'm totally OK with that too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109721261719380041",
+			"parentId": "109717798936601185",
+			"url": "https://fosstodon.org/@tigersway/109721261699694012",
+			"author": {
+				"name": "tigersway 🇫🇷 🇹🇭",
+				"url": "https://fosstodon.org/@tigersway",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/358/305/193/507/original/78d03de63ca034e5.png"
+			},
+			"date": "2023-01-20T11:19:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've read somewhere that canary is supposed to be a totally different chanel than alpha/beta... I guess it's right... Sorry, true!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109722041571224406",
+			"parentId": "109721261719380041",
+			"url": "https://fediverse.zachleat.com/@zachleat/109722041571224406",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-20T14:38:07.845Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@tigersway\" class=\"u-url mention\">@<span>tigersway</span></a></span> yeah the channel can be @canary but the *version* should be `-alpha.`. I think I will use that convention moving forward!</p>",
+			"via": "fediverse"
+		}
+	]
+}

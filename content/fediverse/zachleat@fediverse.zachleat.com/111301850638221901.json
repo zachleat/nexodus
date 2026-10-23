@@ -1,0 +1,368 @@
+{
+	"comments": [
+		{
+			"id": "111301915410396735",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@hasanhaja/111301915395908814",
+			"author": {
+				"name": "Hasan Ali",
+				"url": "https://fosstodon.org/@hasanhaja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/698/107/255/349/105/original/a8b5515bdc4a7805.png"
+			},
+			"date": "2023-10-26T15:00:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This looks really cool 🙌🏾</p><p>I really appreciate how readable the code for it is. I've been using your web components (e.g. details-utils, resize-asaurus) to learn how to build them from scratch</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111301923531919552",
+			"parentId": 0,
+			"url": "https://mastodon.social/@schneyra/111301923376418132",
+			"author": {
+				"name": "Martin Schneider",
+				"url": "https://mastodon.social/@schneyra",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/541/793/105/707/original/bb6e80a70d2c0f26.jpeg"
+			},
+			"date": "2023-10-26T15:02:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's a pretty fancy iframe, Zach.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111301950692259164",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@carlton/111301950616665664",
+			"author": {
+				"name": "Carlton Gibson 🇪🇺",
+				"url": "https://fosstodon.org/@carlton",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-26T15:09:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh that’s wonderful! 🤩</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111301996245998803",
+			"parentId": 0,
+			"url": "https://mastodon.social/@chriskirknielsen/111301996084560544",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://mastodon.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/992/721/652/871/original/a9e8f3a8153833bc.jpg"
+			},
+			"date": "2023-10-26T15:21:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I don't need this, but I want to use it regardless because it's such a cool lil' tool. Nice work!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302029655994783",
+			"parentId": 0,
+			"url": "https://mastodon.social/@raymondcamden/111302028618661921",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2023-10-26T15:29:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is a damn good idea</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302037440082232",
+			"parentId": "111301915410396735",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302037440082232",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T15:31:51.524Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hasanhaja\" class=\"u-url mention\">@<span>hasanhaja</span></a></span> Thank you Hasan! I just re-read the code after your comment and noticed/fixed a few issues 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302040190312031",
+			"parentId": "111301923531919552",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302040190312031",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T15:32:33.490Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schneyra\" class=\"u-url mention\">@<span>schneyra</span></a></span> WKWebView could never!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302041558365805",
+			"parentId": "111301950692259164",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302041558365805",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T15:32:54.365Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@carlton\" class=\"u-url mention\">@<span>carlton</span></a></span> thank you Carlton!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302046267538711",
+			"parentId": "111301996245998803",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302046267538711",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T15:34:06.221Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> well, wait 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302047216040720",
+			"parentId": "111301950692259164",
+			"url": "https://fosstodon.org/@carlton/111302047012020813",
+			"author": {
+				"name": "Carlton Gibson 🇪🇺",
+				"url": "https://fosstodon.org/@carlton",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-26T15:34:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (update: DISASTER emoji typo 🤦‍♀️ FIXED)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302047102590924",
+			"parentId": "111302029655994783",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302047102590924",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T15:34:18.963Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\">@<span>raymondcamden</span></a></span> Thanks Raymond!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302049485509876",
+			"parentId": "111302047216040720",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302049485509876",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T15:34:55.324Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@carlton\" class=\"u-url mention\">@<span>carlton</span></a></span> I knew what you meant 😃</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302082691263401",
+			"parentId": "111302049485509876",
+			"url": "https://fosstodon.org/@carlton/111302082546249543",
+			"author": {
+				"name": "Carlton Gibson 🇪🇺",
+				"url": "https://fosstodon.org/@carlton",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-10-26T15:43:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> phew.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302158114404281",
+			"parentId": "111302047102590924",
+			"url": "https://mastodon.social/@raymondcamden/111302143591863330",
+			"author": {
+				"name": "Raymond Camden",
+				"url": "https://mastodon.social/@raymondcamden",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/656/530/857/114/original/4fc284b6dd95594a.jpg"
+			},
+			"date": "2023-10-26T15:58:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> when i got past the initial learnings on WC, i realized it was tempting to build comps that were DX at the expense of perf for users - so examples like this - i just freaking love. gonna start calling em Guilt Free Web Components ;)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111302178995099260",
+			"parentId": "111302158114404281",
+			"url": "https://fediverse.zachleat.com/@zachleat/111302178995099260",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T16:07:51.482Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\">@<span>raymondcamden</span></a></span> guilt free until you hit that next.js 200 KB performance budget (the bar is so low here 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111303708839912982",
+			"parentId": 0,
+			"url": "https://ruby.social/@konnorrogers/111303708811744505",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2023-10-26T22:36:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wait... I actually have a use case for this...</p><p>I'm working on building a \"code pen like\" editor using &lt;textarea&gt; + &lt;pre&gt;</p><p> <a href=\"https://twitter.com/RogersKonnor/status/1717661084692221982\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/RogersKonnor/statu</span><span class=\"invisible\">s/1717661084692221982</span></a></p><p>This should pair perfectly for full page examples!!</p><p>(Still a WIP)</p><p><a href=\"https://konnorrogers.github.io/light-pen/components/light-pen/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">konnorrogers.github.io/light-p</span><span class=\"invisible\">en/components/light-pen/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111303970299314295",
+			"parentId": "111303708839912982",
+			"url": "https://fediverse.zachleat.com/@zachleat/111303970299314295",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-26T23:43:24.617Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@konnorrogers\" class=\"u-url mention\">@<span>konnorrogers</span></a></span> awesome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308379092389519",
+			"parentId": 0,
+			"url": "https://mastodon.social/@passle/111308378760472745",
+			"author": {
+				"name": "passle",
+				"url": "https://mastodon.social/@passle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/997/878/636/465/original/baa0a02938be73f6.jpeg"
+			},
+			"date": "2023-10-27T18:24:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Neat :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308718066381597",
+			"parentId": "111302037440082232",
+			"url": "https://fosstodon.org/@hasanhaja/111308718054174710",
+			"author": {
+				"name": "Hasan Ali",
+				"url": "https://fosstodon.org/@hasanhaja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/698/107/255/349/105/original/a8b5515bdc4a7805.png"
+			},
+			"date": "2023-10-27T19:50:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😂</p><p>I appreciate it more now! Thank you 🙌🏾</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111311640393091778",
+			"parentId": 0,
+			"url": "https://techhub.social/@lucienimmink/111311640362742829",
+			"author": {
+				"name": "Lucien Immink",
+				"url": "https://techhub.social/@lucienimmink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/582/545/050/026/222/original/1e70fbe21f9a481d.jpg"
+			},
+			"date": "2023-10-28T08:14:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Very cool, if I get the time I'll add the os=\"windows\" property to it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111314300015812856",
+			"parentId": "111311640393091778",
+			"url": "https://fediverse.zachleat.com/@zachleat/111314300015812856",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-28T19:30:23.595Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@lucienimmink\" class=\"u-url mention\">@<span>lucienimmink</span></a></span> ha, and make it automatically switch based on user OS? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111314408827379691",
+			"parentId": "111314300015812856",
+			"url": "https://techhub.social/@lucienimmink/111314408797719456",
+			"author": {
+				"name": "Lucien Immink",
+				"url": "https://techhub.social/@lucienimmink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/582/545/050/026/222/original/1e70fbe21f9a481d.jpg"
+			},
+			"date": "2023-10-28T19:58:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The default of the os property should do that. But in that case forget about Linux and the 1000+ window managers</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111314579240981934",
+			"parentId": "111314408827379691",
+			"url": "https://techhub.social/@lucienimmink/111314579052334045",
+			"author": {
+				"name": "Lucien Immink",
+				"url": "https://techhub.social/@lucienimmink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/582/545/050/026/222/original/1e70fbe21f9a481d.jpg"
+			},
+			"date": "2023-10-28T20:41:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111314597077722033",
+			"parentId": "111314579240981934",
+			"url": "https://techhub.social/@lucienimmink/111314597042722691",
+			"author": {
+				"name": "Lucien Immink",
+				"url": "https://techhub.social/@lucienimmink",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/582/545/050/026/222/original/1e70fbe21f9a481d.jpg"
+			},
+			"date": "2023-10-28T20:45:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> and the PR <a href=\"https://github.com/zachleat/browser-window/pull/4\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/browser-wi</span><span class=\"invisible\">ndow/pull/4</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111315468748002181",
+			"parentId": "111314597077722033",
+			"url": "https://fediverse.zachleat.com/@zachleat/111315468748002181",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-29T00:27:37.019Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@lucienimmink\" class=\"u-url mention\">@<span>lucienimmink</span></a></span> (amazing!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111327130657258514",
+			"parentId": 0,
+			"url": "https://mastodon.nz/@mez/111327130441628591",
+			"author": {
+				"name": "Philip (is looking for work)",
+				"url": "https://mastodon.nz/@mez",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/213/008/546/280/original/716603c4d65ea709.jpeg"
+			},
+			"date": "2023-10-31T01:53:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I haven’t delved into Shadow DOM’d custom elements yet (aka, Real Custom Elements by Real Developers™️) is it possible for the consumer site of this to change, say, the colours of the OS X icon circles? Or when a shadow root is used, is that it and you're restricted to the API (css custom properties) the author has created?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111405628224270160",
+			"parentId": "111308718066381597",
+			"url": "https://fosstodon.org/@hasanhaja/111405628168476919",
+			"author": {
+				"name": "Hasan Ali",
+				"url": "https://fosstodon.org/@hasanhaja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/698/107/255/349/105/original/a8b5515bdc4a7805.png"
+			},
+			"date": "2023-11-13T22:36:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Inspired by your code and post, I gave writing and publishing my own web component a shot</p><p>🎪 Demo: <a href=\"https://hasancruk.github.io/cruk-carousel/demo.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hasancruk.github.io/cruk-carou</span><span class=\"invisible\">sel/demo.html</span></a><br>💾 Code: <a href=\"https://github.com/hasancruk/cruk-carousel\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hasancruk/cruk-caro</span><span class=\"invisible\">usel</span></a></p><p>In its current state, it's more of a toy project than something that's ready for production. I've learned so much putting that simple component together, and my understanding of the web component spec (mainly Shadow DOM) is getting more and more nuanced</p><p><a href=\"https://fosstodon.org/tags/webcomponents\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>webcomponents</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111405667907875204",
+			"parentId": "111405628224270160",
+			"url": "https://fediverse.zachleat.com/@zachleat/111405667907875204",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-13T22:46:26.974Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@hasanhaja\" class=\"u-url mention\">@<span>hasanhaja</span></a></span> looks great! Carousel is a great use case!</p>",
+			"via": "fediverse"
+		}
+	]
+}

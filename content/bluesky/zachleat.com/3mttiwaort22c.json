@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttkmajz5s2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mttkmajz5s2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-24T14:52:59.260Z",
+			"content": "<p>This version takes great care to maintain backwards compatibility with any existing &lt;speedlify-score&gt; components using <a href=\"https://speedlify.dev\">speedlify.dev</a> as their upstream data source. Let me know if you see issues!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mttmtagbec2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttkmajz5s2w",
+			"url": "https://bsky.app/profile/tunetheweb.com/post/3mttmtagbec2g",
+			"author": {
+				"name": "Barry Pollard",
+				"url": "https://bsky.app/profile/tunetheweb.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ilj6i6evo5xxl5iixp2y76nt/bafkreibuvkjedijpuyongathjpsslib3hz6hf5fh3gbydrfvtiqeqtiuwe"
+			},
+			"date": "2026-08-24T15:32:41.502Z",
+			"content": "<p>Show an average score per technology and/or host you coward! You know you want to rile up the keyboard warriors... 😉</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttnqo7psc2b",
+			"parentId": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mttmtagbec2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mttnqo7psc2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-24T15:49:09.045Z",
+			"content": "<p>well the existing data set is almost all Build Awesome (11ty) sites so it doesn’t really have the data for that (yet?)</p>\n<p>but I did publish this category <a href=\"https://www.speedlify.dev/group/ssg/\">www.speedlify.dev/group/ssg/</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i4ichiot767r3h5gvezwt2hr/app.bsky.feed.post/3mttp5z6wms2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jakob-e.bsky.social/post/3mttp5z6wms2d",
+			"author": {
+				"name": "Jakob E",
+				"url": "https://bsky.app/profile/jakob-e.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i4ichiot767r3h5gvezwt2hr/bafkreigl3a2qplenywwoxeglw4lxb3blwpngj4rofm36izcsp5ffaldtlm"
+			},
+			"date": "2026-08-24T16:14:30.504Z",
+			"content": "<p>I like this idea of measuring over time. A11y scores might be a bit confusing  being flipped (0 is best on axe) maybe make it a percentage of the total amount (passing and not passing)… but I guess that could get skewed too based on how many were tested (one fail on 100 tests vs. 1000) - good job👍🏻</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttptcjq3c2y",
+			"parentId": "at://did:plc:i4ichiot767r3h5gvezwt2hr/app.bsky.feed.post/3mttp5z6wms2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mttptcjq3c2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-24T16:26:24.937Z",
+			"content": "<p>oh, hmm — good feedback. I could just swap the visuals to be to pass/warn/fail instead of a number</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttrfcdcg22f",
+			"parentId": "at://did:plc:i4ichiot767r3h5gvezwt2hr/app.bsky.feed.post/3mttp5z6wms2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mttrfcdcg22f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-24T16:54:22.449Z",
+			"content": "<p>(I changed it!)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttrfumb622f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mttrfumb622f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-24T16:54:41.616Z",
+			"content": "<p>One more fun bit here: speedlify measures speedlify (and measured it before and after the move to speedlify2!)</p>\n<p><a href=\"https://www.speedlify.dev/site/www-speedlify-dev/\">www.speedlify.dev/site/www-spe...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3mttv2skbck2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3mttv2skbck2a",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2026-08-24T18:00:05.322Z",
+			"content": "<p>Wait, how am I 10th!!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttvq4atpk2z",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3mttv2skbck2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mttvq4atpk2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-24T18:12:00.143Z",
+			"content": "<p>uh… because your website is one of the best websites?!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3mttx7gepoc2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttvq4atpk2z",
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3mttx7gepoc2k",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2026-08-24T18:38:27.813Z",
+			"content": "<p>😭</p>",
+			"via": "bluesky"
+		}
+	]
+}

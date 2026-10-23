@@ -1,0 +1,332 @@
+{
+	"comments": [
+		{
+			"id": "112722795030349836",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/112722794863954120",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-03T13:29:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> go full old car grille and normalise typing +=+ which is basically OK always</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722798334691839",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112722798334691839",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T13:30:02.323Z",
+			"content": "<p>oh! eslint has `space-unary-ops` which would have alerted me—wonder if I’m missing that in my config</p><p><a href=\"https://eslint.org/docs/latest/rules/space-unary-ops\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eslint.org/docs/latest/rules/s</span><span class=\"invisible\">pace-unary-ops</span></a></p><p>(and `space-infix-ops` too! <a href=\"https://eslint.org/docs/latest/rules/space-infix-ops\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eslint.org/docs/latest/rules/s</span><span class=\"invisible\">pace-infix-ops</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722808305175432",
+			"parentId": 0,
+			"url": "https://mathstodon.xyz/@andrewt/112722808114752704",
+			"author": {
+				"name": "Andrew",
+				"url": "https://mathstodon.xyz/@andrewt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/439/751/581/978/143/original/491d1621f13efafd.jpeg"
+			},
+			"date": "2024-07-03T13:32:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh yeah, they seem to have a rule to forbid a++ but not one to forbid +a (as far as I can see) when unary plus is exclusively used for terrible cursed type munging and should be binned off along with the comma operator</p><p>that wouldn't help with -= but i mean it's something</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722809202854901",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@llimllib/112722808795657492",
+			"author": {
+				"name": "Bill Mill",
+				"url": "https://hachyderm.io/@llimllib",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/155/231/444/558/679/original/99f46c7755c32d46.jpg"
+			},
+			"date": "2024-07-03T13:32:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> From an AST perspective, it's code that humans might write; `x = +string_or_number` will coerce `string_or_number` to a number. The d3 source code uses this idiom a lot, for example.</p><p>(Obviously you might still want an eslint rule that disallows this idiom, but typescript definitely shouldn't/can't flag it imo)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722809283411131",
+			"parentId": "112722795030349836",
+			"url": "https://fediverse.zachleat.com/@zachleat/112722809283411131",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T13:32:49.388Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> done. I also added you as the primary support point of contact for all of my repositories moving forward</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722811135439534",
+			"parentId": "112722798334691839",
+			"url": "https://yatil.social/@yatil/112722811114963120",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2024-07-03T13:33:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> should really be space-unary-oops</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722820746255175",
+			"parentId": "112722809202854901",
+			"url": "https://fediverse.zachleat.com/@zachleat/112722820746255175",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T13:35:44.299Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@llimllib\" class=\"u-url mention\">@<span>llimllib</span></a></span> yeah, for sure. Unit tests caught the issue but it would have been nice to see an error in my editor—I don’t use that pattern in my code 👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722830532761687",
+			"parentId": "112722811135439534",
+			"url": "https://fediverse.zachleat.com/@zachleat/112722830532761687",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T13:38:13.628Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\">@<span>yatil</span></a></span> I literally can’t disagree</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722838469835565",
+			"parentId": "112722809283411131",
+			"url": "https://mastodon.social/@sil/112722838375077421",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-03T13:40:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I am perfectly fine with this. I believe that maintainers of rival static site generators are so fine with that that they’re throwing a party</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722849018945424",
+			"parentId": "112722838469835565",
+			"url": "https://fediverse.zachleat.com/@zachleat/112722849018945424",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T13:42:55.706Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> *immediate regrets*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722868490950769",
+			"parentId": "112722849018945424",
+			"url": "https://mastodon.social/@sil/112722868352279706",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-03T13:47:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> in breaking news (for me alone), += works on strings, it turns out. Does anybody do that? Nobody does that, right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722871051229868",
+			"parentId": "112722820746255175",
+			"url": "https://hachyderm.io/@llimllib/112722871018166210",
+			"author": {
+				"name": "Bill Mill",
+				"url": "https://hachyderm.io/@llimllib",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/155/231/444/558/679/original/99f46c7755c32d46.jpg"
+			},
+			"date": "2024-07-03T13:48:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Agreed, and the formatting is a dead giveaway that you didn't intend the coersion idiom.</p><p>Just tested in my editor/eslint setup, and eslint doesn't notice/flag it but prettier moves the + to the proper spot, which makes it clearer what's happening, as long as you happen to notice it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722879420988757",
+			"parentId": "112722868490950769",
+			"url": "https://hachyderm.io/@llimllib/112722879348549060",
+			"author": {
+				"name": "Bill Mill",
+				"url": "https://hachyderm.io/@llimllib",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/155/231/444/558/679/original/99f46c7755c32d46.jpg"
+			},
+			"date": "2024-07-03T13:50:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I do it all the time, why not?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722914795870151",
+			"parentId": "112722868490950769",
+			"url": "https://fediverse.zachleat.com/@zachleat/112722914795870151",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T13:59:39.381Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> yeah I used to see that pattern a lot (especially before template literals) but I see it less now</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722926586244754",
+			"parentId": "112722871051229868",
+			"url": "https://fediverse.zachleat.com/@zachleat/112722926586244754",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T14:02:39.289Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@llimllib\" class=\"u-url mention\">@<span>llimllib</span></a></span> prettier moving the + so that the eslint rule I added doesn’t catch it would be a gnarly combo <a href=\"https://fediverse.zachleat.com/@zachleat/112722798334691839\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/112722798334691839</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722960987745368",
+			"parentId": "112722879420988757",
+			"url": "https://mastodon.social/@sil/112722960842607096",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2024-07-03T14:11:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@llimllib\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>llimllib</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> After a certain amount of investigation of my own psyche, basically I don't because I have internalised the idea \"don't build up strings bit by bit by appending to an existing string\" so hard that I don't do it even if there are only two bits to build up.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722975646473390",
+			"parentId": "112722868490950769",
+			"url": "https://indieweb.social/@paulfreeman/112722975623993183",
+			"author": {
+				"name": "paulfreeman",
+				"url": "https://indieweb.social/@paulfreeman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/610/715/138/135/411/original/38d48708a7324c78.jpg"
+			},
+			"date": "2024-07-03T14:15:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> all the time Aq!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112722993490204445",
+			"parentId": "112722960987745368",
+			"url": "https://hachyderm.io/@llimllib/112722993340044854",
+			"author": {
+				"name": "Bill Mill",
+				"url": "https://hachyderm.io/@llimllib",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/155/231/444/558/679/original/99f46c7755c32d46.jpg"
+			},
+			"date": "2024-07-03T14:19:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it used to be such a huge python antipattern! In JS, the join still does a bit better but it will never matter except in a very hot loop.</p><p>It's 29% faster in this microbenchmark</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723039082358165",
+			"parentId": "112722993490204445",
+			"url": "https://hachyderm.io/@llimllib/112723039056197520",
+			"author": {
+				"name": "Bill Mill",
+				"url": "https://hachyderm.io/@llimllib",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/155/231/444/558/679/original/99f46c7755c32d46.jpg"
+			},
+			"date": "2024-07-03T14:31:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And, to satisfy my own curiousity, I tested a template string with \"x = `${x} ${parts[i%3]}`\", and that was quite a bit slower</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723113590377959",
+			"parentId": "112722830532761687",
+			"url": "https://yatil.social/@yatil/112723113571846655",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2024-07-03T14:50:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It’s really hard to.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112723856460877309",
+			"parentId": 0,
+			"url": "https://floss.social/@webbureaucrat/112723856437547847",
+			"author": {
+				"name": "webbureaucrat",
+				"url": "https://floss.social/@webbureaucrat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/470/005/055/358/994/original/9d33992f38e0fb47.png"
+			},
+			"date": "2024-07-03T17:59:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>tf does =+ do?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112724020193145213",
+			"parentId": "112723856460877309",
+			"url": "https://fediverse.zachleat.com/@zachleat/112724020193145213",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-03T18:40:46.404Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://floss.social/@webbureaucrat\" class=\"u-url mention\">@<span>webbureaucrat</span></a></span> like = but also coerce to a number</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112724118401532627",
+			"parentId": "112724020193145213",
+			"url": "https://floss.social/@webbureaucrat/112724118375858283",
+			"author": {
+				"name": "webbureaucrat",
+				"url": "https://floss.social/@webbureaucrat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/470/005/055/358/994/original/9d33992f38e0fb47.png"
+			},
+			"date": "2024-07-03T19:05:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> JavaScript was a mistake.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112724334379125654",
+			"parentId": "112722798334691839",
+			"url": "https://social.polotek.net/@polotek/112724326660877214",
+			"author": {
+				"name": "Marco Rogers",
+				"url": "https://social.polotek.net/@polotek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/715/173/239/699/307/original/6ecf56a4023201fa.jpg"
+			},
+			"date": "2024-07-03T19:58:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> fascinating.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112724941748643252",
+			"parentId": "112722795030349836",
+			"url": "https://fosstodon.org/@faassen/112724941722878292",
+			"private": true,
+			"date": "2024-07-03T22:35:07.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112724967932293207",
+			"parentId": "112722960987745368",
+			"url": "https://fosstodon.org/@faassen/112724967898989769",
+			"private": true,
+			"date": "2024-07-03T22:41:47.000Z",
+			"via": "fediverse"
+		}
+	]
+}

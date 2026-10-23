@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "113047271611513993",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/113047271453666955",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-08-29T20:47:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ambrwlsn</span></a></span> oh nice! Will have to check this out when I’m back in the saddle. Just so you know, the latest version of my component has the links as siblings. I did a bunch of accessibility improvements from <span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span>’s suggestions</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113047288738356058",
+			"parentId": "113047271611513993",
+			"url": "https://fediverse.zachleat.com/@zachleat/113047288738356058",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-29T20:52:12.945Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\">@<span>ambrwlsn</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\">@<span>cwilcox808</span></a></span> oh no! I did look through before and just now and still don’t see it though—are we talking about different things? 😭</p><p>specifically I mean siblings in the DOM (not visual placement)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113047313878195103",
+			"parentId": "113047288738356058",
+			"url": "https://mastodon.design/@DavidDarnes/113047313849426026",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-08-29T20:58:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ambrwlsn</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> v2 adds the anchor link just after the heading, is that what we mean? There’s now a `position` option to place it inside or at the start if you want to change it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113047368556980228",
+			"parentId": "113047313878195103",
+			"url": "https://fediverse.zachleat.com/@zachleat/113047368556980228",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-29T21:12:30.880Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\">@<span>ambrwlsn</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\">@<span>cwilcox808</span></a></span> ah yeah! I see what you mean—yeah, `position=&quot;afterend&quot;` is what my version only uses (but it visually positions the link for you as if it were &quot;beforeend&quot;`)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113047466722654393",
+			"parentId": "113047368556980228",
+			"url": "https://mastodon.design/@DavidDarnes/113047466693480058",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-08-29T21:37:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> gotcha! Great work. Just wanted to clear things up as mine does that by default too. Not the visually positioning though!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113047509781379607",
+			"parentId": "113047466722654393",
+			"url": "https://fediverse.zachleat.com/@zachleat/113047509781379607",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-29T21:48:25.792Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> ah yeah—no worries! Your component is clearly more versatile there—mine scratches a very specific itch 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113050519974013236",
+			"parentId": 0,
+			"url": "https://m.webtoo.ls/@erika/113050519921718059",
+			"author": {
+				"name": "Erika",
+				"url": "https://m.webtoo.ls/@erika",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/414/129/250/264/845/original/c7777d300ebee70b.jpeg"
+			},
+			"date": "2024-08-30T10:33:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ambrwlsn</span></a></span> That Chrome inspector bug is hilarious</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113051154484662252",
+			"parentId": "113050519974013236",
+			"url": "https://fediverse.zachleat.com/@zachleat/113051154484662252",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-30T13:15:19.553Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@erika\" class=\"u-url mention\">@<span>erika</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ambrwlsn\" class=\"u-url mention\">@<span>ambrwlsn</span></a></span> they’re already moving quickly to fix!</p>",
+			"via": "fediverse"
+		}
+	]
+}

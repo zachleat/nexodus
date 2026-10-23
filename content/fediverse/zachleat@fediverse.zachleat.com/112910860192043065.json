@@ -1,0 +1,189 @@
+{
+	"comments": [
+		{
+			"id": "112910896204568615",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112910896136957358",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-05T18:45:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Huh.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112910916060484514",
+			"parentId": "112910896204568615",
+			"url": "https://fediverse.zachleat.com/@zachleat/112910916060484514",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T18:50:51.020Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> I didn’t stop to think about it much so maybe that’s on me?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112910932801258798",
+			"parentId": "112910916060484514",
+			"url": "https://mastodon.cthos.dev/@cthos/112910932753590933",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-05T18:55:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I haven't gone to poke at their pricing tiers but as you've described it that does feel like a dark pattern to me - the \"default\" will generate overages.</p><p>Compare this to fly.io where the default is higher than you probably need, but doing that once will still keep you well under the \"free tier\" which is really just \"we don't charge for anything under $5\".</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112910957163142653",
+			"parentId": "112910932801258798",
+			"url": "https://fediverse.zachleat.com/@zachleat/112910957163142653",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T19:01:18.197Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> yeah I think this “lesson” will probably end up costing me about $80 this month 😬 would have been $200 if I hadn’t emergency ejected the screenshots service last week</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112910966050076547",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112910966050076547",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T19:03:33.799Z",
+			"content": "<p>Looks like the default changed in April of this year: <a href=\"https://vercel.com/changelog/faster-defaults-for-vercel-function-cpu-and-memory\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vercel.com/changelog/faster-de</span><span class=\"invisible\">faults-for-vercel-function-cpu-and-memory</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112910983928519967",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@mdh/112910983915542408",
+			"private": true,
+			"date": "2024-08-05T19:08:06.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911041621325164",
+			"parentId": "112910983928519967",
+			"url": "https://fediverse.zachleat.com/@zachleat/112911041621325164",
+			"private": true,
+			"date": "2024-08-05T19:22:46.926Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911107885179645",
+			"parentId": "112910966050076547",
+			"url": "https://mastodon.cthos.dev/@cthos/112911107827867310",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-05T19:39:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> uhhhhhh “sure more cpu means more money but faster execution time eh eh?” Sure seems like a dark pattern when they round the execution times up, right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911117030782135",
+			"parentId": 0,
+			"url": "https://mastodon.social/@nrk9819/112911112606382362",
+			"author": {
+				"name": "nrk",
+				"url": "https://mastodon.social/@nrk9819",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/783/049/648/378/256/original/737d5ad723162d0b.png"
+			},
+			"date": "2024-08-05T19:40:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> dark pattern or not, they are pretty expensive anyway. Hetzner gives me 2vCPU, 4GB ram VM at 4$/month. Now \"DX\" can be compensated with coolify 😀<br><a href=\"https://github.com/coollabsio/coolify\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/coollabsio/coolify</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911150710331292",
+			"parentId": "112911117030782135",
+			"url": "https://fediverse.zachleat.com/@zachleat/112911150710331292",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T19:50:31.493Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@nrk9819\" class=\"u-url mention\">@<span>nrk9819</span></a></span> very cool!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911156978018046",
+			"parentId": "112911107885179645",
+			"url": "https://fediverse.zachleat.com/@zachleat/112911156978018046",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T19:52:07.130Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> yeah, that part but also these are maximums—it’d be nice to see CPU or memory utilization metrics at the current vCPU setting</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911182269398409",
+			"parentId": "112911156978018046",
+			"url": "https://mastodon.cthos.dev/@cthos/112911182212783565",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-05T19:58:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The math does get a little fuzzy, even AWS has some \"interesting\" guidance for this: <a href=\"https://docs.aws.amazon.com/lambda/latest/operatorguide/computing-power.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.aws.amazon.com/lambda/lat</span><span class=\"invisible\">est/operatorguide/computing-power.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911571148898807",
+			"parentId": "112910966050076547",
+			"url": "https://fediverse.zachleat.com/@zachleat/112911571148898807",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T21:37:26.874Z",
+			"content": "<p>I made a little chart comparing how a few different hosts charge for serverless execution time (normalized to hours of usage) and the vCPU default can cost you a lot of unnecessary money if you’re not paying attention!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112913489253147724",
+			"parentId": "112911571148898807",
+			"url": "https://dementedandsadbut.social/@genehack/112913489199968552",
+			"author": {
+				"name": "genehack",
+				"url": "https://dementedandsadbut.social/@genehack",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/430/998/101/369/980/original/51e7fa7171386411.jpg"
+			},
+			"date": "2024-08-06T05:45:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks for putting together! this is a nitpick,  but your legend would be easier to read sorted by service, then size, versus the current pseudo random order.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112915637074926183",
+			"parentId": "112913489253147724",
+			"url": "https://fediverse.zachleat.com/@zachleat/112915637074926183",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T14:51:27.988Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://dementedandsadbut.social/@genehack\" class=\"u-url mention\">@<span>genehack</span></a></span> yeah, 100%.</p>",
+			"via": "fediverse"
+		}
+	]
+}

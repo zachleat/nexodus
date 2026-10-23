@@ -1,0 +1,77 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mlvmr6pwgk2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3mlvmr6pwgk2k",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-05-15T15:15:19.067Z",
+			"content": "<p>Hey man, AI's already coming for my job, I don't need normies doing it too! 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvmxsxw6k2q",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mlvmr6pwgk2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlvmxsxw6k2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-15T15:19:01.627Z",
+			"content": "<p>everybody wants to build and I’ll be happy to do maintenance (for a fee)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4ro56gbge42enizovzvvw5sn/app.bsky.feed.post/3mlvu7igusk2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/programmerman.net/post/3mlvu7igusk2d",
+			"private": true,
+			"date": "2026-05-15T17:28:35.211Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3mm2pegd7v22d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/g12n.de/post/3mm2pegd7v22d",
+			"author": {
+				"name": "Michael G",
+				"url": "https://bsky.app/profile/g12n.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gilu7o4lu2uhhh2sztjeo47i/bafkreiduwoybgec263zc4ti4226xdjt25gw5ooorl34kh36rqg6lzhrytm"
+			},
+			"date": "2026-05-17T15:45:10.748Z",
+			"content": "<p>😅 coding isn’t much of a problem. But if owning contains hosting it, this is astoundingly complex. <br>\nI should acctually simply be a feature of your internet router defaulting to your landlines or mobile phone number. A simple box like fax machine. Sadly the web went quite a different route.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm53jgvlyc2l",
+			"parentId": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3mm2pegd7v22d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mm53jgvlyc2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-18T14:28:03.501Z",
+			"content": "<p>love this perspective. Super curious if we can get there some day</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3mm53u2gom224",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mm53jgvlyc2l",
+			"url": "https://bsky.app/profile/g12n.de/post/3mm53u2gom224",
+			"author": {
+				"name": "Michael G",
+				"url": "https://bsky.app/profile/g12n.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gilu7o4lu2uhhh2sztjeo47i/bafkreiduwoybgec263zc4ti4226xdjt25gw5ooorl34kh36rqg6lzhrytm"
+			},
+			"date": "2026-05-18T14:33:59.529Z",
+			"content": "<p>Well, up and downstream would have to at least be comparable for private lines as well. And if not a fixed IP adress is possible (still wondering why we keep this historic restriction up) dyn DNS and a server at home needs to become as simple as connecting a fax or answering machine used t be.</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmc253ctvc2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3mmc253ctvc2d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2026-05-20T13:46:33.649Z",
+			"content": "<p>Our blog on the topic is still very relevant: <a href=\"https://openjsf.org/blog/publishing-securely-on-npm\">openjsf.org/blog/publish...</a></p>\n<p>And each publishing method links to an example repo.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmc27k2lq22d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmc253ctvc2d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3mmc27k2lq22d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2026-05-20T13:47:56.216Z",
+			"content": "<p>The repos are here: <a href=\"https://github.com/npm-pub-2025\">github.com/npm-pub-2025</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmc2bhhyck2d",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmc27k2lq22d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3mmc2bhhyck2d",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2026-05-20T13:49:00.619Z",
+			"content": "<p>Although I did recently run into an issue with the method used in the local publishing example. This is a good reminder that I might need to go fix that.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:auv6l5k2f2sc5e5zsr2wd4u4/app.bsky.feed.post/3mmc7ogbmzk2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zearin.bsky.social/post/3mmc7ogbmzk2z",
+			"author": {
+				"name": "zearin.bsky.social",
+				"url": "https://bsky.app/profile/zearin.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:auv6l5k2f2sc5e5zsr2wd4u4/bafkreifusixp7utbp4svfedpj27oksif7c63n27jemaofe464rkkp23xwi"
+			},
+			"date": "2026-05-20T15:25:44.278Z",
+			"content": "<p><a href=\"https://bsky.app/hashtag/PSA\">#PSA</a> <a href=\"https://bsky.app/hashtag/security\">#security</a> <a href=\"https://bsky.app/hashtag/OSS\">#OSS</a> <a href=\"https://bsky.app/hashtag/bestpractice\">#bestpractice</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmce4l35rk2p",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmc2bhhyck2d",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3mmce4l35rk2p",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2026-05-20T16:45:14.039Z",
+			"content": "<p>It's a small fix luckily: <a href=\"https://github.com/npm-pub-2025/local-publish/pull/2\">github.com/npm-pub-2025...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmcfr7i5sk2s",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mmc253ctvc2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mmcfr7i5sk2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-20T17:14:40.267Z",
+			"content": "<p>Appreciate y’all pushing for more changes!</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "109314735246007531",
+			"parentId": 0,
+			"url": "https://mas.to/@patak/109314722416314532",
+			"author": {
+				"name": "patak",
+				"url": "https://mas.to/@patak",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/527/393/902/135/original/b698674a8671219e.jpg"
+			},
+			"date": "2022-11-09T16:11:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love the future of the web that's being built, such a richer and more colorful path. FWIW, I think the panel discussion communicated this idea without you even having to spell it out.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109314750611325839",
+			"parentId": "109314735246007531",
+			"url": "https://mas.to/@patak/109314731869283479",
+			"author": {
+				"name": "patak",
+				"url": "https://mas.to/@patak",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/527/393/902/135/original/b698674a8671219e.jpg"
+			},
+			"date": "2022-11-09T16:13:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would add that it would be great if not only we have plenty of successful frameworks to choose from, but also that we enter an era where we don't have a winner-take-all on building tools either. The webpack monopoly demiss shouldn't lead to another king being crowned. And we are good here too, with Vite, Rollup, and esbuild all growing strongly. Hopefully, we will see Parcel getting a lot more deserved usage. And even Turbopack playing along side the others.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109314745353310940",
+			"parentId": "109314735246007531",
+			"url": "https://fediverse.zachleat.com/@zachleat/109314745353310940",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-09T16:17:20.766Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> that is lovely to hear and I completely agree 🙌🏻🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109314884819958319",
+			"parentId": "109314750611325839",
+			"url": "https://mastodon.social/@khalidabuhakmeh/109314884578871714",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2022-11-09T16:52:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mas.to/@patak\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patak</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> from a developers perspective, a lot of teams are looking for the \"right\" answer. It's a internal challenge to not want your tech choice to dominate and validate your ego (right or wrong).</p><p>You folks are right in the sense that given better interoperability and lower barriers to switching between choices we'll have a healthier ecosystem.</p><p>The choices and conversations in the <a href=\"https://mastodon.social/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>JavaScript</span></a> community are great and refreshing. Thank you two for being champions.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109314942896307768",
+			"parentId": "109314750611325839",
+			"url": "https://fosstodon.org/@justinfagnani/109314940783625703",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://fosstodon.org/@justinfagnani",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/676/088/719/526/original/1402f1c70ff2119d.jpg"
+			},
+			"date": "2022-11-09T17:07:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mas.to/@patak\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patak</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I push for interoperable web components and using standard languages and semantics so that tools are fully optional for this exact reason.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109315293984185236",
+			"parentId": "109314884819958319",
+			"url": "https://fediverse.zachleat.com/@zachleat/109315293984185236",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-09T18:36:52.218Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> I think you make a great point about ego, validation, and the social dynamics of tool selection. Appreciate you carrying the torch too!</p>",
+			"via": "fediverse"
+		}
+	]
+}

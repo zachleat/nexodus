@@ -1,0 +1,72 @@
+{
+	"comments": [
+		{
+			"id": "109923380017348619",
+			"parentId": 0,
+			"url": "https://mastodon.online/@escarpment/109923379962946135",
+			"author": {
+				"name": "Escarpment",
+				"url": "https://mastodon.online/@escarpment",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/311/695/592/644/540/original/7f014c34121eda4c.jpeg"
+			},
+			"date": "2023-02-25T04:01:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I wonder if we can coalesce around using bazel in JS. Bazel currently has a lot of warts/not quite ready for primetime.</p><p>But the promise is a language for building, testing, and running all programming languages correctly and efficiently.</p><p>I use esbuild + bazel, for example.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109923391037065028",
+			"parentId": "109923380017348619",
+			"url": "https://mastodon.online/@escarpment/109923390990073101",
+			"author": {
+				"name": "Escarpment",
+				"url": "https://mastodon.online/@escarpment",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/311/695/592/644/540/original/7f014c34121eda4c.jpeg"
+			},
+			"date": "2023-02-25T04:03:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> In a slogan: \"learn once, build anything.\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109923864680023613",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/109923864660606682",
+			"private": true,
+			"date": "2023-02-25T06:04:23.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109924918887594779",
+			"parentId": "109923864680023613",
+			"url": "https://hachyderm.io/@mgol/109924918850769642",
+			"private": true,
+			"date": "2023-02-25T10:32:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109924934571678203",
+			"parentId": "109923391037065028",
+			"url": "https://mstdn.social/@techytacos/109924934533165699",
+			"author": {
+				"name": "Elliott",
+				"url": "https://mstdn.social/@techytacos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/806/622/792/047/original/0f743cd0ccc6472a.jpg"
+			},
+			"date": "2023-02-25T10:36:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@escarpment\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>escarpment</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> As a googler who has to use internal Bazel, I wish it return to it's 2010s cave.</p><p>I can see the use for it in a company of 10k+, but it really hampers development speed, and the DX just aint there. Maybe something else that iterates on its values, though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109925836220558006",
+			"parentId": "109924934571678203",
+			"url": "https://mastodon.online/@escarpment/109925836119251196",
+			"author": {
+				"name": "Escarpment",
+				"url": "https://mastodon.online/@escarpment",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/311/695/592/644/540/original/7f014c34121eda4c.jpeg"
+			},
+			"date": "2023-02-25T14:25:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@techytacos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>techytacos</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> What do you think causes the hampering of developer speed? Gazelle can automate much of the management of bazel build files. You could imagine getting to a place where you write your source files and bazel pretty much knows how to build them automatically.</p>",
+			"via": "fediverse"
+		}
+	]
+}

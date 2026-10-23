@@ -1,0 +1,64 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzjdyj434k2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lzjdyj434k2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-23T16:32:54.994Z",
+			"content": "<p>why weren’t any of my npm packages taken in the rapture</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xybzbr52ulelhjwj4usgxutc/app.bsky.feed.post/3lzjegy6nhc2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzjdyj434k2q",
+			"url": "https://bsky.app/profile/william-oconnell.bsky.social/post/3lzjegy6nhc2s",
+			"private": true,
+			"date": "2025-09-23T16:41:00.570Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3lzjel5cqp22u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzjdyj434k2q",
+			"url": "https://bsky.app/profile/ericportis.com/post/3lzjel5cqp22u",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://bsky.app/profile/ericportis.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:554zgjahdelvrbspjpeofd2o/bafkreih65ewisfijncanen7pvwi4bf3x2qzqfrekssqw7uko5g6yw7rlhm"
+			},
+			"date": "2025-09-23T16:43:20.163Z",
+			"content": "<p>From left-pad to Left Behind</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzjeo5lbts2y",
+			"parentId": "at://did:plc:xybzbr52ulelhjwj4usgxutc/app.bsky.feed.post/3lzjegy6nhc2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lzjeo5lbts2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-23T16:45:01.108Z",
+			"content": "<p>whomsoever is without types cast the first phishing email</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzjephesms2m",
+			"parentId": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3lzjel5cqp22u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lzjephesms2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-23T16:45:44.935Z",
+			"content": "<p>ahahahahahahahaha pack it all up for the day, folks — we have a winner here</p>",
+			"via": "bluesky"
+		}
+	]
+}

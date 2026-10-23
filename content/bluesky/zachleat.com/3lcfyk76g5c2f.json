@@ -1,0 +1,303 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:wt4xba7ghlm3up5buwjglzb6/app.bsky.feed.post/3lcfymlavhk2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mark.ie/post/3lcfymlavhk2z",
+			"author": {
+				"name": "Mark Conroy",
+				"url": "https://bsky.app/profile/mark.ie",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wt4xba7ghlm3up5buwjglzb6/bafkreif4lzabajildt5nldpcbvrlv7lne3j2ogoed6uqk3qfrkkjnuo7ve"
+			},
+			"date": "2024-12-03T15:51:56.782Z",
+			"content": "<p>Oh man, this is so cool.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcfyqykkt22q",
+			"parentId": "at://did:plc:wt4xba7ghlm3up5buwjglzb6/app.bsky.feed.post/3lcfymlavhk2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcfyqykkt22q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T15:54:24.949Z",
+			"content": "<p>web components are cool 👍</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wt4xba7ghlm3up5buwjglzb6/app.bsky.feed.post/3lcfyt6ak722z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcfyqykkt22q",
+			"url": "https://bsky.app/profile/mark.ie/post/3lcfyt6ak722z",
+			"author": {
+				"name": "Mark Conroy",
+				"url": "https://bsky.app/profile/mark.ie",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wt4xba7ghlm3up5buwjglzb6/bafkreif4lzabajildt5nldpcbvrlv7lne3j2ogoed6uqk3qfrkkjnuo7ve"
+			},
+			"date": "2024-12-03T15:55:38.021Z",
+			"content": "<p>I know, I built a proof of concept design system with them over only two days last Christmas.</p>\n<p><a href=\"https://web-components-design-system.mark.ie/\">web-components-design-system.mark.ie</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcfyvp6nyc2q",
+			"parentId": "at://did:plc:wt4xba7ghlm3up5buwjglzb6/app.bsky.feed.post/3lcfyt6ak722z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcfyvp6nyc2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T15:57:02.894Z",
+			"content": "<p>hell yeah, love that you’re using subdomains too</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wt4xba7ghlm3up5buwjglzb6/app.bsky.feed.post/3lcfyxw52dc2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcfyvp6nyc2q",
+			"url": "https://bsky.app/profile/mark.ie/post/3lcfyxw52dc2z",
+			"author": {
+				"name": "Mark Conroy",
+				"url": "https://bsky.app/profile/mark.ie",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wt4xba7ghlm3up5buwjglzb6/bafkreif4lzabajildt5nldpcbvrlv7lne3j2ogoed6uqk3qfrkkjnuo7ve"
+			},
+			"date": "2024-12-03T15:58:17.290Z",
+			"content": "<p>I bought too many domains over the years that never saw the light of day. Now I'm a subdomain-first dev.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcfyzzcz5s2z",
+			"parentId": "at://did:plc:wt4xba7ghlm3up5buwjglzb6/app.bsky.feed.post/3lcfyxw52dc2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcfyzzcz5s2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T15:59:27.740Z",
+			"content": "<p>_yes_—much easier to maintain long-term too</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jm3bwl5hjjaohbs7ckcbbroy/app.bsky.feed.post/3lcfzmcjxu222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dgrammatiko.dev/post/3lcfzmcjxu222",
+			"author": {
+				"name": "dgrammatiko",
+				"url": "https://bsky.app/profile/dgrammatiko.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm3bwl5hjjaohbs7ckcbbroy/bafkreicajgq6itwomehalxeedff3wizhuw2owqwyggospt5jw6ho2h6sje"
+			},
+			"date": "2024-12-03T16:09:41.383Z",
+			"content": "<p>Let it snow ❄️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg67ccpw22q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcg67ccpw22q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T17:31:53.649Z",
+			"content": "<p>don’t tell anyone that this is a web component—I heard they weren’t the future</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2cpnrefqsfucl4lvo3h2yzfh/app.bsky.feed.post/3lcg6bgyizc2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg67ccpw22q",
+			"url": "https://bsky.app/profile/michaelwarren.dev/post/3lcg6bgyizc2o",
+			"author": {
+				"name": "Michael Warren",
+				"url": "https://bsky.app/profile/michaelwarren.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2cpnrefqsfucl4lvo3h2yzfh/bafkreihjas7hxnl55jz5wyra5qsv5ynmy2ewk7i3d66jolpljzf3pnu5ce"
+			},
+			"date": "2024-12-03T17:33:05.665Z",
+			"content": "<p>shhhhh gotta keep those biggest mistakes on the web a secret!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg6husxmk2t",
+			"parentId": "at://did:plc:2cpnrefqsfucl4lvo3h2yzfh/app.bsky.feed.post/3lcg6bgyizc2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcg6husxmk2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T17:36:41.490Z",
+			"content": "<p>nobody’s gonna know</p>\n<p>…how would they know?</p>\n<p>…how would they know?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3lcg6islf5s2p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg67ccpw22q",
+			"url": "https://bsky.app/profile/jakelazaroff.com/post/3lcg6islf5s2p",
+			"author": {
+				"name": "Jake Lazaroff",
+				"url": "https://bsky.app/profile/jakelazaroff.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrrdgcidwpvn4omvn7uuufoo/bafkreihwaff3ctjdb5uq2p7r4yenu3uvkbuzgazvlzavumvzgy2gdtjhje"
+			},
+			"date": "2024-12-03T17:37:12.700Z",
+			"content": "<p>that’s okay, snowfall might not be in our future either 🥲</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3lcg6occ6ts27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg67ccpw22q",
+			"url": "https://bsky.app/profile/duffeh.bsky.social/post/3lcg6occ6ts27",
+			"author": {
+				"name": "Duffeh",
+				"url": "https://bsky.app/profile/duffeh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spulgjrl7sactd23bgqv6jen/bafkreihf42m7kegjr2iu7zucmfcby4dqblokuc7ii3nomjtfv7tod5m6la"
+			},
+			"date": "2024-12-03T17:40:16.947Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg6vl25sk25",
+			"parentId": "at://did:plc:vrrdgcidwpvn4omvn7uuufoo/app.bsky.feed.post/3lcg6islf5s2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcg6vl25sk25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T17:44:21.002Z",
+			"content": "<p>we’ll always have the metaverse</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:54qfb6zcixqg5a2xxoawa5g3/app.bsky.feed.post/3lcg6x33adc2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/heltweg.org/post/3lcg6x33adc2b",
+			"author": {
+				"name": "philip",
+				"url": "https://bsky.app/profile/heltweg.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:54qfb6zcixqg5a2xxoawa5g3/bafkreiaohjvhxmkcraatcqbnthcbc7b7xe7c34ldnfvslzs23lsvfmhcu4"
+			},
+			"date": "2024-12-03T17:45:11.370Z",
+			"content": "<p>Haha that is great, web components rock :). Is there a better way than StencilJS nowadays? I used to use that to build some components for my master thesis back in the day.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hvsyvsc3kpfa6x45d7wpmg52/app.bsky.feed.post/3lcg75cycf22a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/elaina.bsky.social/post/3lcg75cycf22a",
+			"author": {
+				"name": "Elaina",
+				"url": "https://bsky.app/profile/elaina.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hvsyvsc3kpfa6x45d7wpmg52/bafkreibmezjfonrsfj4tzmzohwzkhmu47nyc5uq5sqgitdcjex2sbyyeee"
+			},
+			"date": "2024-12-03T17:48:40.988Z",
+			"content": "<p>My first thought was that this was some reproduction of the NYT feature. But this is much cozier :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3lcg7fqy5xs2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg67ccpw22q",
+			"url": "https://bsky.app/profile/g12n.de/post/3lcg7fqy5xs2k",
+			"author": {
+				"name": "Michael G",
+				"url": "https://bsky.app/profile/g12n.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gilu7o4lu2uhhh2sztjeo47i/bafkreiduwoybgec263zc4ti4226xdjt25gw5ooorl34kh36rqg6lzhrytm"
+			},
+			"date": "2024-12-03T17:53:24.098Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg7rxbj5k2d",
+			"parentId": "at://did:plc:54qfb6zcixqg5a2xxoawa5g3/app.bsky.feed.post/3lcg6x33adc2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcg7rxbj5k2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T18:00:13.351Z",
+			"content": "<p>I promised myself I wouldn’t ever use “raw dog” earnestly</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:54qfb6zcixqg5a2xxoawa5g3/app.bsky.feed.post/3lcgag4z7gk2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcg7rxbj5k2d",
+			"url": "https://bsky.app/profile/heltweg.org/post/3lcgag4z7gk2t",
+			"author": {
+				"name": "philip",
+				"url": "https://bsky.app/profile/heltweg.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:54qfb6zcixqg5a2xxoawa5g3/bafkreiaohjvhxmkcraatcqbnthcbc7b7xe7c34ldnfvslzs23lsvfmhcu4"
+			},
+			"date": "2024-12-03T18:11:30.458Z",
+			"content": "<p>I hear I'm too English-as-a-second-language to understand that, does that mean you create them without a tool/framework?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:54qfb6zcixqg5a2xxoawa5g3/app.bsky.feed.post/3lcgagsyff22t",
+			"parentId": "at://did:plc:54qfb6zcixqg5a2xxoawa5g3/app.bsky.feed.post/3lcgag4z7gk2t",
+			"url": "https://bsky.app/profile/heltweg.org/post/3lcgagsyff22t",
+			"author": {
+				"name": "philip",
+				"url": "https://bsky.app/profile/heltweg.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:54qfb6zcixqg5a2xxoawa5g3/bafkreiaohjvhxmkcraatcqbnthcbc7b7xe7c34ldnfvslzs23lsvfmhcu4"
+			},
+			"date": "2024-12-03T18:11:53.501Z",
+			"content": "<p>Speaking of: I fear*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcgalidnvs2y",
+			"parentId": "at://did:plc:54qfb6zcixqg5a2xxoawa5g3/app.bsky.feed.post/3lcgagsyff22t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcgalidnvs2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T18:14:30.107Z",
+			"content": "<p>(my apologies!)</p>\n<p>this is my preference for independent one-off components—if I were doing a full-blown app I’d probably use something like <a href=\"https://bsky.app/profile/did:plc:y3d2xrkz26jcdbg4odxazvsh\">@lit.dev</a>!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:54qfb6zcixqg5a2xxoawa5g3/app.bsky.feed.post/3lcgbsyolhc2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcgalidnvs2y",
+			"url": "https://bsky.app/profile/heltweg.org/post/3lcgbsyolhc2t",
+			"author": {
+				"name": "philip",
+				"url": "https://bsky.app/profile/heltweg.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:54qfb6zcixqg5a2xxoawa5g3/bafkreiaohjvhxmkcraatcqbnthcbc7b7xe7c34ldnfvslzs23lsvfmhcu4"
+			},
+			"date": "2024-12-03T18:36:35.865Z",
+			"content": "<p>Ah cool, thank you! I'm going to have to explore this, the whole PWA/Web component stuff is balsam on my frontend framework churned soul 😌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5czzc7t22byxqjsm4k536zrt/app.bsky.feed.post/3lcgkej7t2s2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/loilo.de/post/3lcgkej7t2s2o",
+			"author": {
+				"name": "Florian Reuschel",
+				"url": "https://bsky.app/profile/loilo.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5czzc7t22byxqjsm4k536zrt/bafkreialmtf2ob3376t4ugyebog4bvkp7zhdf4ezdtolhvwrw5kiv6bada"
+			},
+			"date": "2024-12-03T21:09:33.568Z",
+			"content": "<p>Bavarian Christmas fair approves.<br>\n<a href=\"https://weihnachtsmarkt-chiemsee.de/\">weihnachtsmarkt-chiemsee.de</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcgkrlceds2x",
+			"parentId": "at://did:plc:5czzc7t22byxqjsm4k536zrt/app.bsky.feed.post/3lcgkej7t2s2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcgkrlceds2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-03T21:16:51.955Z",
+			"content": "<p>looks great!</p>",
+			"via": "bluesky"
+		}
+	]
+}

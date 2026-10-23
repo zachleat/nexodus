@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydnedte3c2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydnedte3c2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T16:39:25.738Z",
+			"content": "<p>cc <a href=\"https://bsky.app/profile/did:plc:uwbl4k3tza7eyjv3morkrld2\">@mk.gg</a>!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uwbl4k3tza7eyjv3morkrld2/app.bsky.feed.post/3lydohzimjs2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydnedte3c2s",
+			"url": "https://bsky.app/profile/mk.gg/post/3lydohzimjs2w",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://bsky.app/profile/mk.gg",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwbl4k3tza7eyjv3morkrld2/bafkreic4mwsbm2tmuonamj4jq4kcjofk35bwics2f4oorp57f3cdfusjwu"
+			},
+			"date": "2025-09-08T16:59:22.860Z",
+			"content": "<p>Thanks!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydu6lv5vs24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lydu6lv5vs24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-09-08T18:41:29.050Z",
+			"content": "<p>The affected package has been removed from npm, over 5 hours after it was published. Whew, what a ride.</p>",
+			"via": "bluesky"
+		}
+	]
+}

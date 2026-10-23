@@ -1,0 +1,192 @@
+{
+	"comments": [
+		{
+			"id": "111376522882533738",
+			"parentId": 0,
+			"url": "https://ruby.social/@konnorrogers/111376522866745695",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://ruby.social/@konnorrogers",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/194/727/800/237/original/c5edef7eca753a07.jpeg"
+			},
+			"date": "2023-11-08T19:14:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> *glares at RSCs*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376539747927585",
+			"parentId": 0,
+			"url": "https://t00t.cloud/@mattrambles/111376539700194007",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-11-08T19:18:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> weird that’s the title of my kubernetes book</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376549053897838",
+			"parentId": "111376539747927585",
+			"url": "https://fediverse.zachleat.com/@zachleat/111376549053897838",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-08T19:21:08.523Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://t00t.cloud/@mattrambles\" class=\"u-url mention\">@<span>mattrambles</span></a></span> do you need my address for the residuals or</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376562490881277",
+			"parentId": "111376549053897838",
+			"url": "https://t00t.cloud/@mattrambles/111376562373786828",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-11-08T19:24:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Let’s cross that bridge when we get there. Test readers said “... the author was not qualified to write this book and it’s one of very few that should definitely be burned.”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376563900287773",
+			"parentId": 0,
+			"url": "https://social.ericwbailey.website/@eric/111376563766908617",
+			"private": true,
+			"date": "2023-11-08T19:24:53.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376588245224112",
+			"parentId": "111376563900287773",
+			"url": "https://fediverse.zachleat.com/@zachleat/111376588245224112",
+			"private": true,
+			"date": "2023-11-08T19:31:06.535Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376591002341666",
+			"parentId": "111376562490881277",
+			"url": "https://fediverse.zachleat.com/@zachleat/111376591002341666",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-08T19:31:48.606Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://t00t.cloud/@mattrambles\" class=\"u-url mention\">@<span>mattrambles</span></a></span> is the paper at least septic safe or</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376600489521270",
+			"parentId": "111376563900287773",
+			"url": "https://mastodon.social/@cferdinandi/111376600074278050",
+			"private": true,
+			"date": "2023-11-08T19:34:07.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376615054906309",
+			"parentId": "111376563900287773",
+			"url": "https://ruby.social/@konnorrogers/111376615012993672",
+			"private": true,
+			"date": "2023-11-08T19:37:54.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376692531375068",
+			"parentId": "111376591002341666",
+			"url": "https://t00t.cloud/@mattrambles/111376692392876874",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-11-08T19:57:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh publisher reviews were similar so it is only an ebook at this time</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376703860650918",
+			"parentId": "111376692531375068",
+			"url": "https://fediverse.zachleat.com/@zachleat/111376703860650918",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-08T20:00:30.687Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://t00t.cloud/@mattrambles\" class=\"u-url mention\">@<span>mattrambles</span></a></span> inspired by you 👀 <a href=\"https://fediverse.zachleat.com/@zachleat/111376701581059981\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/111376701581059981</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376769047602084",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/111376768909728380",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-11-08T20:17:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you can have a little abstraction, as a treat</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376778025254785",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@daz/111376777988637694",
+			"author": {
+				"name": "Daz",
+				"url": "https://fosstodon.org/@daz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/180/435/123/154/799/original/88a0b415dcc981a7.jpg"
+			},
+			"date": "2023-11-08T20:19:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I look at marketing for React conferences/events and see big budgets pushing overly complex solutions to problems you probably don’t really have. Compare to something like <a href=\"https://hypermedia.systems/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">hypermedia.systems/</span><span class=\"invisible\"></span></a> that got dropped by their publisher because they didn’t think the market was big enough and so have to self-publish. Such a shame when it has potential for building much simpler systems.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376859044125278",
+			"parentId": "111376778025254785",
+			"url": "https://fediverse.zachleat.com/@zachleat/111376859044125278",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-08T20:39:58.599Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@daz\" class=\"u-url mention\">@<span>daz</span></a></span> it seems we are too loosely organized, HMMMMM</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376897970804317",
+			"parentId": "111376703860650918",
+			"url": "https://t00t.cloud/@mattrambles/111376897893950881",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2023-11-08T20:49:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> What an honor! 🧻 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111376979618467252",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/111376978625727306",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-11-08T21:10:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> i’m having a strong REACTion to this toot zach</p>",
+			"via": "fediverse"
+		}
+	]
+}

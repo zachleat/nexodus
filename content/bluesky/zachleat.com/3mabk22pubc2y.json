@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3madw3pw2ec2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/collinsworth.dev/post/3madw3pw2ec2r",
+			"author": {
+				"name": "Josh Collinsworth",
+				"url": "https://bsky.app/profile/collinsworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr7ktxokjqc2suwnook4k73h/bafkreigotpy47tpnxj2sptza4bsjtdebl4dqyfk6ovvrb26prjpytiinjq"
+			},
+			"date": "2025-12-19T14:37:13.117Z",
+			"content": "<p>Firefox is still my ride or die at this point</p>\n<p>(Disclaimer: I may be too old to use that phrase appropriately)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mae32h5oyc2d",
+			"parentId": "at://did:plc:dr7ktxokjqc2suwnook4k73h/app.bsky.feed.post/3madw3pw2ec2r",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mae32h5oyc2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-19T16:05:59.082Z",
+			"content": "<p>Look, you’re asking the wrong guy. Makes me think of:</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mcsj4svo5xra4unizye72d4o/app.bsky.feed.post/3mae3eanens2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mae32h5oyc2d",
+			"url": "https://bsky.app/profile/cobrawinfrey.dev/post/3mae3eanens2m",
+			"author": {
+				"name": "Adam Kuhn",
+				"url": "https://bsky.app/profile/cobrawinfrey.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mcsj4svo5xra4unizye72d4o/bafkreihu7oc34yitu5kzdwmo64sz7gh2p4qajsxalob3f6sfzmjwibu74q"
+			},
+			"date": "2025-12-19T16:11:27.803Z",
+			"content": "<p>again I'm reminded of this absolute banger<br>\n<a href=\"https://www.youtube.com/watch?v=X8TmIxHSBcU\">www.youtube.com/watch?v=X8Tm...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mae3gh2l722d",
+			"parentId": "at://did:plc:mcsj4svo5xra4unizye72d4o/app.bsky.feed.post/3mae3eanens2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mae3gh2l722d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-19T16:12:41.637Z",
+			"content": "<p>hell yeah</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "113035908734045329",
+			"parentId": 0,
+			"url": "https://social.polotek.net/@polotek/113035904265636902",
+			"author": {
+				"name": "Marco Rogers",
+				"url": "https://social.polotek.net/@polotek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/715/173/239/699/307/original/6ecf56a4023201fa.jpg"
+			},
+			"date": "2024-08-27T20:36:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@feross\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>feross</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@cfedev\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cfedev</span></a></span> I don't think it's extreme at all. Feels like it would have a lot of benefits.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113036025937654422",
+			"parentId": "113035908734045329",
+			"url": "https://mastodon.cthos.dev/@cthos/113036025892317605",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-27T21:07:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.polotek.net/@polotek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>polotek</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@feross\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>feross</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@cfedev\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cfedev</span></a></span> +1 especially since we now live in a world where a bunch of OSS projects are one malicious maintainer change away from a severe supply chain attack.</p>",
+			"via": "fediverse"
+		}
+	]
+}

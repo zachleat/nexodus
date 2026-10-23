@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3mcxplt5tls2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jim-nielsen.com/post/3mcxplt5tls2e",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://bsky.app/profile/jim-nielsen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln6p42mckoylrkcd3ds6b7vv/bafkreib6r6i4pyodvm7i4t6e55efj23vbtwrmp5iljqrmoev5jovtqrkue"
+			},
+			"date": "2026-01-21T22:24:35.219Z",
+			"content": "<p>but Zach, when does hyperbole cross the line into falsehoods?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mcxptzyi7s2y",
+			"parentId": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3mcxplt5tls2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mcxptzyi7s2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-21T22:29:10.820Z",
+			"content": "<p>when it’s someone on my team it’s hyperbole and when it’s someone on the other team it’s falsehood</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3mcxr4ydpzk2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mcxptzyi7s2y",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3mcxr4ydpzk2k",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-01-21T22:52:04.823Z",
+			"content": "<p>And if it's a salesperson it's a promise and you'd better figure out how to deliver it. Aren't you a developer? Develop!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mcxrd5jdas2w",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3mcxr4ydpzk2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mcxrd5jdas2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-21T22:55:31.576Z",
+			"content": "<p>only through async/await will promises be resolved</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3mcy6npy7gc2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mcxrd5jdas2w",
+			"url": "https://bsky.app/profile/jim-nielsen.com/post/3mcy6npy7gc2g",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://bsky.app/profile/jim-nielsen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln6p42mckoylrkcd3ds6b7vv/bafkreib6r6i4pyodvm7i4t6e55efj23vbtwrmp5iljqrmoev5jovtqrkue"
+			},
+			"date": "2026-01-22T02:54:05.123Z",
+			"content": "<p>await pinkyPromise()<br>\n  .then(closeDeal)<br>\n  .catch(liar)</p>",
+			"via": "bluesky"
+		}
+	]
+}

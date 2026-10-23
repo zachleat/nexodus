@@ -1,0 +1,98 @@
+{
+	"comments": [
+		{
+			"id": "112831526181679853",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/112831526120272292",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2024-07-22T18:20:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> +1</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112831527223212973",
+			"parentId": "112831526181679853",
+			"url": "https://fediverse.zachleat.com/@zachleat/112831527223212973",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-22T18:21:13.499Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> I see what you’ve done here and I respect it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112831528760343973",
+			"parentId": 0,
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J3DTTPSD4HKM8R05YPJ1GKHN",
+			"private": true,
+			"date": "2024-07-22T18:21:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112831960770068640",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@uncenter/112831960751243725",
+			"author": {
+				"name": "uncenter",
+				"url": "https://fosstodon.org/@uncenter",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/792/094/176/764/079/original/ef375a085dcf85d5.png"
+			},
+			"date": "2024-07-22T20:11:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> bump!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112832137273612584",
+			"parentId": 0,
+			"url": "https://akko.wtf/objects/dc365187-e38e-4c94-868d-d1542a4d5795",
+			"private": true,
+			"date": "2024-07-22T20:56:16.702Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112832139580410100",
+			"parentId": "112831960770068640",
+			"url": "https://fediverse.zachleat.com/@zachleat/112832139580410100",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-22T20:56:57.329Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@uncenter\" class=\"u-url mention\">@<span>uncenter</span></a></span> LGTM</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112832694357215087",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/112832694323226501",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2024-07-22T23:18:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I keep wanting a \"filter to maintainer comments\" option. It's so easy to find a high traffic issue and have the most important comments get buried under tons of noise.</p><p>I want to answer questions like \"Is this going to be fixed, or is the maintainer pushing back for whatever reason?\" \"Is there a workaround?\" \"Is there a suggested alternative?\" The maintainer will answer those questions, everything else tends to be garbage.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112836021935823886",
+			"parentId": "112832694357215087",
+			"url": "https://fediverse.zachleat.com/@zachleat/112836021935823886",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-23T13:24:17.372Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> yeah! even a manual option to pin a comment would be nice</p>",
+			"via": "fediverse"
+		}
+	]
+}

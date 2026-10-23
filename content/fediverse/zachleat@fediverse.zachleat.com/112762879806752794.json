@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "112762940514027581",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/112762937730108941",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-07-10T15:38:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So the “incremental” part is driven by the use of CSS classes and their font? Am I understanding this correctly?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112763039704661478",
+			"parentId": "112762940514027581",
+			"url": "https://fediverse.zachleat.com/@zachleat/112763039704661478",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-10T16:03:56.900Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> I don’t think CSS classes is the accurate lever there. Font loading is already driven by code points in use on an HTML page</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112763147118479969",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/112763147078617920",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2024-07-10T16:31:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Cautiously excited.</p><p>Now to hope that this doesn't also mean a vector for spying/tracking somehow.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112766703521928057",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Schepp/112766703439168521",
+			"author": {
+				"name": "Christian \"Schepp\" Schaefer",
+				"url": "https://mastodon.social/@Schepp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/814/597/449/022/original/cc8d1c1e842b92c6.jpg"
+			},
+			"date": "2024-07-11T07:35:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> finally! Remembering discussing this with you back in 2018 at performance.now(): <a href=\"https://workingdraft.de/on-tour-perfnow-zach-leatherman/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">workingdraft.de/on-tour-perfno</span><span class=\"invisible\">w-zach-leatherman/</span></a> (amongst other things)</p>",
+			"via": "fediverse"
+		}
+	]
+}

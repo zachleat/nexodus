@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "110029042993139645",
+			"parentId": 0,
+			"url": "https://types.pl/@mvsamuel/110029042954389546",
+			"author": {
+				"name": "Mike Samuel",
+				"url": "https://types.pl/@mvsamuel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/627/153/354/001/664/original/da583777c8d19f6b.jpeg"
+			},
+			"date": "2023-03-15T19:52:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Doesn't it need to bootstrap a whole new Realm with its own copy of the intrinsics?</p><pre><code>$ node<br>Welcome to Node.js v19.6.0.<br>Type \".help\" for more information.<br>&gt; let otherArray = vm.runInContext('Array', vm.createContext())<br>undefined<br>&gt; Array === otherArray<br>false<br>&gt;<br></code></pre>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029111250271775",
+			"parentId": "110029042993139645",
+			"url": "https://types.pl/@mvsamuel/110029111215945301",
+			"author": {
+				"name": "Mike Samuel",
+				"url": "https://types.pl/@mvsamuel",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/627/153/354/001/664/original/da583777c8d19f6b.jpeg"
+			},
+			"date": "2023-03-15T20:09:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If you need a way to create a light-weight scope to prevent unintentional bleed of \"global\" assignments, you can do tricks via <code>with</code> over a Proxy over globals.  </p><pre><code>globalThis.x = 'global.x';<br><br>let localGlobal = Object.create(globalThis);<br><br>let p = new Proxy(<br>    localGlobal,<br>    {<br>        has(obj, prop) {<br>            return true;<br>        },<br>        get(obj, prop) {<br>            if (prop === 'globalThis') { return localGlobal }<br>            return obj[prop];<br>        },<br>    }<br>);<br><br><br>with (p) {<br>    console.log('x before assignment', x);     // =&gt; global.x<br>    x = 'local-this';<br>    console.log('x after assignment', x);      // =&gt; local-this<br>    console.log('globalThis.x', globalThis.x); // =&gt; local-this<br>}<br>console.log('x outside `with`', x);            // =&gt; global.x<br><br></code></pre><p>Doesn't provide mutual suspicion and doesn't solve functions that return the global scope but keeps a lid on unintentional interference.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029138848009662",
+			"parentId": "110029042993139645",
+			"url": "https://fediverse.zachleat.com/@zachleat/110029138848009662",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T20:17:00.408Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://types.pl/@mvsamuel\" class=\"u-url mention\">@<span>mvsamuel</span></a></span> Yeah, I believe so!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029147453608709",
+			"parentId": "110029111250271775",
+			"url": "https://fediverse.zachleat.com/@zachleat/110029147453608709",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T20:19:11.725Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://types.pl/@mvsamuel\" class=\"u-url mention\">@<span>mvsamuel</span></a></span> yeah! I did something similar, though with a scoped object that I could blow away for a cheap clean slate</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029521619609179",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110029521619609179",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-15T21:54:21.040Z",
+			"content": "<p>Here it is!</p><p><a href=\"https://fosstodon.org/@eleventy/110029514364983609\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@eleventy/110029</span><span class=\"invisible\">514364983609</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110029604210628281",
+			"parentId": "110029521619609179",
+			"url": "https://indieweb.social/@sealfur/110029604188850571",
+			"author": {
+				"name": "Joshua Kinal",
+				"url": "https://indieweb.social/@sealfur",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/396/510/865/749/319/original/3b8a741f5b3218a0.png"
+			},
+			"date": "2023-03-15T22:15:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> get out of town! 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼</p>",
+			"via": "fediverse"
+		}
+	]
+}

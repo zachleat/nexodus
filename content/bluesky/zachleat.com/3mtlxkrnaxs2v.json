@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:i46llqdekf5kgugiizrar7jv/app.bsky.feed.post/3mtlysmxvfk2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/deanleigh.bsky.social/post/3mtlysmxvfk2k",
+			"author": {
+				"name": "Dean Leigh",
+				"url": "https://bsky.app/profile/deanleigh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i46llqdekf5kgugiizrar7jv/bafkreian47ugj4hcrvneefheqkpj57jckvcitvsixlwruu7br5sfvtgbeu"
+			},
+			"date": "2026-08-21T14:45:48.102Z",
+			"content": "<p>Hi <a href=\"https://bsky.app/profile/did:plc:xpchjovbk6sxl3bv74z7cs54\">@zachleat.com</a> - I noticed these word breaks and wondered if hyphens: auto; reduce readability in certain contexts? No criticism, just curios if it's accessibly has been documented for it's use in paragraph text.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtlzkzmch22r",
+			"parentId": "at://did:plc:i46llqdekf5kgugiizrar7jv/app.bsky.feed.post/3mtlysmxvfk2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtlzkzmch22r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-21T14:59:26.661Z",
+			"content": "<p>Oh, huh, after git blaming that it’s about 9 years old (we may never know what user was responsible for it though *ahem*)</p>\n<p>Agree though that it feels aggressive! Gonna revert it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i46llqdekf5kgugiizrar7jv/app.bsky.feed.post/3mtm4lj4eyc2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtlzkzmch22r",
+			"url": "https://bsky.app/profile/deanleigh.bsky.social/post/3mtm4lj4eyc2k",
+			"author": {
+				"name": "Dean Leigh",
+				"url": "https://bsky.app/profile/deanleigh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i46llqdekf5kgugiizrar7jv/bafkreian47ugj4hcrvneefheqkpj57jckvcitvsixlwruu7br5sfvtgbeu"
+			},
+			"date": "2026-08-21T15:53:24.142Z",
+			"content": "<p>Hehe I have thought about it for headings in the past but modern CSS and fluid typography seems to address most cases now.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:a64baelxsmvy6aonnbfhbirv/app.bsky.feed.post/3mtnschvq2s2p",
+			"parentId": "at://did:plc:i46llqdekf5kgugiizrar7jv/app.bsky.feed.post/3mtm4lj4eyc2k",
+			"url": "https://bsky.app/profile/tfedder.de/post/3mtnschvq2s2p",
+			"author": {
+				"name": "Tobias Fedder",
+				"url": "https://bsky.app/profile/tfedder.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:a64baelxsmvy6aonnbfhbirv/bafkreigcjhsxk6uz4plibvdto6t23vicadmispnvgq2hlpj23x2fyilngy"
+			},
+			"date": "2026-08-22T07:54:42.944Z",
+			"content": "<p>Hyphenation is needed, especially for German writing. But when it comes to headings, it's a balancing act. I agree, modern CSS helps avoid it.<br>\nStill, can't wait for baseline `hyphenate-limit-chars`.<br>\nI have headings with `text-wrap:balance`, I need to pair them with `hyphens:manual` most of the time.</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "111494509948175043",
+			"parentId": 0,
+			"url": "https://mstdn.io/@toby3d/111494506480932827",
+			"author": {
+				"name": "Maxim Lebedev",
+				"url": "https://mstdn.io/@toby3d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/364/336/094/151/646/original/f2a1804aa03d6f8b.png"
+			},
+			"date": "2023-11-29T15:19:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's all great, but it seems a bit redundant to use API of WebComponents for something simple that can be implemented on bare HTML + CSS. Besides, components don't work with JavaScript turned off, which is bad for HTML + CSS-only components.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111494519003604126",
+			"parentId": "111494509948175043",
+			"url": "https://fediverse.zachleat.com/@zachleat/111494519003604126",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-29T15:22:27.100Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.io/@toby3d\" class=\"u-url mention\">@<span>toby3d</span></a></span> Yep—you’re right. This is a JS component! I do include an example in the README that can show fallback text if you want that.</p><p>I did write a whole blog post on this exact topic recently: <a href=\"https://www.zachleat.com/web/a-taxonomy-of-web-component-types/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/a-taxonomy-of</span><span class=\"invisible\">-web-component-types/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111494610314758200",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Kilian/111494610102452268",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://mastodon.social/@Kilian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/567/080/777/595/original/3126534d0903d30f.jpg"
+			},
+			"date": "2023-11-29T15:45:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm not saying I'm disappointed but I clicked the link expecting one of those \"xhtml 1.0\" style badges..</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111494637533242293",
+			"parentId": "111494610314758200",
+			"url": "https://fediverse.zachleat.com/@zachleat/111494637533242293",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-29T15:52:35.719Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Kilian\" class=\"u-url mention\">@<span>Kilian</span></a></span> 👀👀👀👀👀👀👀👀👀👀 someone should make this</p><p>88×31 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111494645624210624",
+			"parentId": "111494637533242293",
+			"url": "https://fediverse.zachleat.com/@zachleat/111494645624210624",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-29T15:54:39.178Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Kilian\" class=\"u-url mention\">@<span>Kilian</span></a></span> oh my god don’t click this link <a href=\"https://cyber.dabamos.de/88x31/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">cyber.dabamos.de/88x31/</span><span class=\"invisible\"></span></a> the bandwidth costs 😬</p>",
+			"via": "fediverse"
+		}
+	]
+}

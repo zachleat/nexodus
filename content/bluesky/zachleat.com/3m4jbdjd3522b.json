@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:bl4vbc4br3oynfgqf7igp2c4/app.bsky.feed.post/3m4jbkx7cwk2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jaapstronks.nl/post/3m4jbkx7cwk2u",
+			"author": {
+				"name": "Jaap Stronks",
+				"url": "https://bsky.app/profile/jaapstronks.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bl4vbc4br3oynfgqf7igp2c4/bafkreicuofmivbm5z54jp4zb7doge3czbl3qldcvuehbwstub25xcgiqki"
+			},
+			"date": "2025-10-31T20:05:07.417Z",
+			"content": "<p>I’m confused, I interpret ‘auto’ as ‘changing automatically based on whether the sun is up’ but I would expect that only as an OS setting. I expect applications to offer options light/dark/system (as in fallback to OS setting).</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4jbsi6plc2e",
+			"parentId": "at://did:plc:bl4vbc4br3oynfgqf7igp2c4/app.bsky.feed.post/3m4jbkx7cwk2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4jbsi6plc2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-31T20:09:20.106Z",
+			"content": "<p>yeah, I’m not sure most folks would understand the practical distinction between those options. Developers, sure.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rlwgbwqdknilpxxep5gvzc3y/app.bsky.feed.post/3m4jbxty5kc2l",
+			"parentId": "at://did:plc:bl4vbc4br3oynfgqf7igp2c4/app.bsky.feed.post/3m4jbkx7cwk2u",
+			"url": "https://bsky.app/profile/jbwharr.is/post/3m4jbxty5kc2l",
+			"author": {
+				"name": "James Harris",
+				"url": "https://bsky.app/profile/jbwharr.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rlwgbwqdknilpxxep5gvzc3y/bafkreicdekrc7dwecizxztd333nlu2rok3mlbqk4yoy4qif6xstyratbke"
+			},
+			"date": "2025-10-31T20:12:20.246Z",
+			"content": "<p>Auto would just mean always adhering to the users OS preferences. So if it did automatically change based on time of day, it would respect that. Or if they’re like me and it’s always dark, it would always adhere to my preference even though it doesn’t change.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ualrddnru7vctveuus62nkmu/app.bsky.feed.post/3m4k7fbv6b22c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/matthewcolwell.com/post/3m4k7fbv6b22c",
+			"author": {
+				"name": "Matthew Colwell",
+				"url": "https://bsky.app/profile/matthewcolwell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ualrddnru7vctveuus62nkmu/bafkreiex6hcdkrsvubptm222ongw3h7tsezenafv4re5eyxvv25pj7624u"
+			},
+			"date": "2025-11-01T04:58:49.545Z",
+			"content": "<p>I may be a particular type of weird, but I do do this! I often set appearance to explicitly dark in apps/websites even if my system setting is dark. No real justification it just makes me feel better bc it convinces me less things can go wrong.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3m4khnu2duk2c",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4jbsi6plc2e",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3m4khnu2duk2c",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2025-11-01T07:26:46.944Z",
+			"content": "<p>It’s been like that in macOS for a while? But indeed, in iOS they simplified/dumbed it down to:</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3m4kkbfgoqk2c",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3m4khnu2duk2c",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3m4kkbfgoqk2c",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2025-11-01T08:13:30.211Z",
+			"content": "<p>I think in a web GUI you can treat selecting the “system” setting analogous to how macOS treats the “automatic” (day/night) setting.</p>",
+			"via": "bluesky"
+		}
+	]
+}

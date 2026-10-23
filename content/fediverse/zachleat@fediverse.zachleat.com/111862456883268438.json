@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "111863129186745862",
+			"parentId": 0,
+			"url": "https://mastodon.social/@simevidas/111863128609408020",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2024-02-02T17:44:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@jensimmons\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jensimmons</span></a></span> The WebKit bugs: <a href=\"https://bugs.webkit.org/showdependencytree.cgi?id=201556&amp;hide_resolved=1\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bugs.webkit.org/showdependency</span><span class=\"invisible\">tree.cgi?id=201556&amp;hide_resolved=1</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111863490051554449",
+			"parentId": "111863129186745862",
+			"url": "https://fediverse.zachleat.com/@zachleat/111863490051554449",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-02T19:16:38.493Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@simevidas\" class=\"u-url mention\">@<span>simevidas</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@jensimmons\" class=\"u-url mention\">@<span>jensimmons</span></a></span> thank you!</p>",
+			"via": "fediverse"
+		}
+	]
+}

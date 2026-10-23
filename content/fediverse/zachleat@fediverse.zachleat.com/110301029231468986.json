@@ -1,0 +1,228 @@
+{
+	"comments": [
+		{
+			"id": "110301072340165473",
+			"parentId": 0,
+			"url": "https://home.social/@philsherry/110301072314273476",
+			"author": {
+				"name": "Phil Sherry",
+				"url": "https://home.social/@philsherry",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/756/027/207/070/695/original/e0ee9589a8d46c11.png"
+			},
+			"date": "2023-05-02T20:53:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Fyrd</span></a></span> Some people still have to support them, meaning they’re still valid content.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301090054674181",
+			"parentId": "110301072340165473",
+			"url": "https://fediverse.zachleat.com/@zachleat/110301090054674181",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-02T20:57:46.506Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://home.social/@philsherry\" class=\"u-url mention\">@<span>philsherry</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\">@<span>Fyrd</span></a></span> is this a firsthand account?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301105546107607",
+			"parentId": 0,
+			"url": "https://metalhead.club/@flori/110301105521117093",
+			"author": {
+				"name": "Florian Schroiff :damnified:",
+				"url": "https://metalhead.club/@flori",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/966/866/711/677/639/original/2b84ef05e4cd4a5b.jpeg"
+			},
+			"date": "2023-05-02T21:01:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> caniuse.com has a little gear symbol that lets you tweak what gets displayed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301121743844793",
+			"parentId": "110301105546107607",
+			"url": "https://fediverse.zachleat.com/@zachleat/110301121743844793",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-02T21:05:50.045Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@flori\" class=\"u-url mention\">@<span>flori</span></a></span> nice! It didn’t seem to work to hide IE but I like it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301124993634782",
+			"parentId": 0,
+			"url": "https://front-end.social/@Fyrd/110301124955219308",
+			"author": {
+				"name": "Alexis Deveria",
+				"url": "https://front-end.social/@Fyrd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/502/817/699/134/original/0d08d4f26d5ff9ba.jpg"
+			},
+			"date": "2023-05-02T21:06:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No plans right now, though I know MDN BCD is thinking about it.</p><p>From experience there'll be a number of poor souls to whom the information will still be valuable for some time to come so that's why I'm not in a hurry to do so, might switch to hiding by default first.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301136256417623",
+			"parentId": "110301124993634782",
+			"url": "https://front-end.social/@ppk/110301136192886929",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://front-end.social/@ppk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/034/668/175/414/original/c0d4895d91ab41e8.jpg"
+			},
+			"date": "2023-05-02T21:09:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Fyrd</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Four years ago someone thanked me for the IE5.5 coverage on my site. She worked on some godawful SAP system where IE5.5 was still the default browser. In 2019. And no one else had any info about it.</p><p>There are niche markets for which access to ancient browser info is important. And it doesn't hurt anyone to keep the info in place.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301155429577505",
+			"parentId": "110301136256417623",
+			"url": "https://pleroma.envs.net/objects/426d433d-b223-48ee-8afa-e182aa35e057",
+			"private": true,
+			"date": "2023-05-02T21:14:18.498Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301155916850835",
+			"parentId": "110301136256417623",
+			"url": "https://front-end.social/@Fyrd/110301155814678520",
+			"author": {
+				"name": "Alexis Deveria",
+				"url": "https://front-end.social/@Fyrd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/502/817/699/134/original/0d08d4f26d5ff9ba.jpg"
+			},
+			"date": "2023-05-02T21:14:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@ppk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ppk</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wow. But yeah, that's basically my thoughts too. I do get that people would appreciate a stance that no devs should have to worry about supporting IE anymore, but it'd also be nice to keep around for the rare edge case here and there.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301167485284205",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tomw/110301167415434005",
+			"author": {
+				"name": "Tom Walker",
+				"url": "https://mastodon.social/@tomw",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/338/280/995/838/214/original/fbcf1ae1c2f82118.jpg"
+			},
+			"date": "2023-05-02T21:17:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> In principle I'm in favour of not supporting IE, in practice I did it for a site a couple of years ago and quickly received \"site doesn't work\" support emails from... you guessed it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301181279962447",
+			"parentId": "110301121743844793",
+			"url": "https://front-end.social/@Fyrd/110301181250660851",
+			"author": {
+				"name": "Alexis Deveria",
+				"url": "https://front-end.social/@Fyrd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/502/817/699/134/original/0d08d4f26d5ff9ba.jpg"
+			},
+			"date": "2023-05-02T21:20:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://metalhead.club/@flori\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>flori</span></a></span> Yeah if you go to <a href=\"https://caniuse.com/ciu/settings#display\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">caniuse.com/ciu/settings#displ</span><span class=\"invisible\">ay</span></a> and select \"Filtered\" all tables will default to 0.5%+ usage which will also hide IE.</p><p>Further customization possible by adding a new browser set under <a href=\"https://caniuse.com/ciu/settings#browsers\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">caniuse.com/ciu/settings#brows</span><span class=\"invisible\">ers</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301185473289615",
+			"parentId": "110301124993634782",
+			"url": "https://fediverse.zachleat.com/@zachleat/110301185473289615",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-02T21:22:02.479Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\">@<span>Fyrd</span></a></span> seems like a good compromise!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301195175713940",
+			"parentId": "110301155429577505",
+			"url": "https://fediverse.zachleat.com/@zachleat/110301195175713940",
+			"private": true,
+			"date": "2023-05-02T21:24:30.526Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301199108975686",
+			"parentId": "110301181279962447",
+			"url": "https://fediverse.zachleat.com/@zachleat/110301199108975686",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-02T21:25:30.542Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\">@<span>Fyrd</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@flori\" class=\"u-url mention\">@<span>flori</span></a></span> A ha! I had to create a new Browser Set *and* select the filtered view. Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301217251511376",
+			"parentId": "110301090054674181",
+			"url": "https://home.social/@philsherry/110301217176980059",
+			"author": {
+				"name": "Phil Sherry",
+				"url": "https://home.social/@philsherry",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/756/027/207/070/695/original/e0ee9589a8d46c11.png"
+			},
+			"date": "2023-05-02T21:30:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Fyrd</span></a></span> Just speculation based on having worked on some old clunkers in my time. Legacy systems in government departments will always need maintaining and updating, but there isn’t always a budget for rebuilding. Healthcare, financial, and so on. We should help those developers keep things as accessible and secure as possible, it’s the least the community can offer.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301227728992220",
+			"parentId": "110301217251511376",
+			"url": "https://home.social/@philsherry/110301227405046494",
+			"author": {
+				"name": "Phil Sherry",
+				"url": "https://home.social/@philsherry",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/756/027/207/070/695/original/e0ee9589a8d46c11.png"
+			},
+			"date": "2023-05-02T21:32:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Fyrd</span></a></span> Think intranet more than public-facing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301834196197882",
+			"parentId": "110301185473289615",
+			"url": "https://front-end.social/@jensimmons/110301834122705625",
+			"author": {
+				"name": "Jen Simmons",
+				"url": "https://front-end.social/@jensimmons",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/328/303/420/000/054/original/15e19b82c93ddd7a.jpg"
+			},
+			"date": "2023-05-03T00:07:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Fyrd</span></a></span> I don’t want the data to be removed for historical reasons. Not on MDN either. Hiding it by default makes far more sense to me. Deleting it all erases the past and makes writing/researching/teaching about the web far harder.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110305304507764672",
+			"parentId": "110301090054674181",
+			"url": "https://mastodon.online/@mr_hedgehog/110305304474964296",
+			"author": {
+				"name": "mr_hedgehog",
+				"url": "https://mastodon.online/@mr_hedgehog",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-05-03T14:49:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://home.social/@philsherry\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>philsherry</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Fyrd</span></a></span> </p><p>If you want firsthand account, I have to support users with IE11, Edge (before chromium) and other old versions of browsers. And I'm looking up stuff on caniuse almost everyday specifically to check if something will work in IE and old Safari</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110305466122280783",
+			"parentId": "110305304507764672",
+			"url": "https://fediverse.zachleat.com/@zachleat/110305466122280783",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-03T15:30:39.999Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mr_hedgehog\" class=\"u-url mention\">@<span>mr_hedgehog</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://home.social/@philsherry\" class=\"u-url mention\">@<span>philsherry</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\">@<span>Fyrd</span></a></span> appreciate it! 🙌🏻</p>",
+			"via": "fediverse"
+		}
+	]
+}

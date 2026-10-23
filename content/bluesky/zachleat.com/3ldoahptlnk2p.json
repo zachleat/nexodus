@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3ldobbyzwek2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/darn.es/post/3ldobbyzwek2n",
+			"author": {
+				"name": "David Darnes",
+				"url": "https://bsky.app/profile/darn.es",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bb34ozcdu5lm3ogte3gq433/bafkreieludkddmtzyhsba5xddcrjpaegp2zcokrr4sudtzhtg6zh5hmjeq"
+			},
+			"date": "2024-12-19T16:13:35.345Z",
+			"content": "<p><a href=\"https://bsky.app/profile/did:plc:arc2fdisqfdowq675dkndl6d\">@lurkmoophy.bsky.social</a> just added it to one of our blog posts on <a href=\"https://bsky.app/profile/did:plc:xoxychgdqbq2wgekq4mczd3m\">@zeroheight.com</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldobohmopk2w",
+			"parentId": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3ldobbyzwek2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldobohmopk2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-19T16:20:33.295Z",
+			"content": "<p>hell yeah I boosted it or whatever its called here</p>\n<p>I blue it sky high</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3ldobsv44nc2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldobohmopk2w",
+			"url": "https://bsky.app/profile/darn.es/post/3ldobsv44nc2n",
+			"author": {
+				"name": "David Darnes",
+				"url": "https://bsky.app/profile/darn.es",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bb34ozcdu5lm3ogte3gq433/bafkreieludkddmtzyhsba5xddcrjpaegp2zcokrr4sudtzhtg6zh5hmjeq"
+			},
+			"date": "2024-12-19T16:23:01.649Z",
+			"content": "<p>Literally just talking with <a href=\"https://bsky.app/profile/did:plc:arc2fdisqfdowq675dkndl6d\">@lurkmoophy.bsky.social</a> about the same thing, it's all boosts in my mind 😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

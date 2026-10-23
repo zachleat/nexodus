@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "111621404550264237",
+			"parentId": 0,
+			"url": "https://front-end.social/@brian/111621404458227752",
+			"author": {
+				"name": "Brian Muenzenmeyer",
+				"url": "https://front-end.social/@brian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/173/124/104/641/original/94ea44043710ebca.jpg"
+			},
+			"date": "2023-12-22T01:11:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Just want to add, as someone helping out where I can on the node project, and also deeply interested in the health of the web and OSS, that the folks on Node.js, in general care deeply about their project, their ecosystem, and their community. </p><p>At the collab summit this summer, I saw them celebrating 10 years, AND planning for the next 10.</p><p>Node.js may not have the alacrity or flash of bun...etc, because they have the burden of momentum.</p><p>Glad you reached out!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111624987486169564",
+			"parentId": "111621404550264237",
+			"url": "https://fediverse.zachleat.com/@zachleat/111624987486169564",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-22T16:22:18.155Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@brian\" class=\"u-url mention\">@<span>brian</span></a></span> well said! Node.js has staying power—I’d kinda be surprised if Bun is still around in 5 years</p>",
+			"via": "fediverse"
+		}
+	]
+}

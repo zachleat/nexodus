@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:bzmib6u26x26hdfoab4feqst/app.bsky.feed.post/3lcxn4jen3s23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rusticola.co.uk/post/3lcxn4jen3s23",
+			"author": {
+				"name": "Rustie",
+				"url": "https://bsky.app/profile/rusticola.co.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmib6u26x26hdfoab4feqst/bafkreic2jcxpdzxyuh4rxzfe75o5bi77f6wlm5gmik7mowckj7skju4vn4"
+			},
+			"date": "2024-12-10T16:14:02.068Z",
+			"content": "<p>🤯 didn’t know this was possible!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcxnie3oo227",
+			"parentId": "at://did:plc:bzmib6u26x26hdfoab4feqst/app.bsky.feed.post/3lcxn4jen3s23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcxnie3oo227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-10T16:20:39.184Z",
+			"content": "<p>they’re slowly moving in this direction with <a href=\"https://docs.astro.build/en/reference/container-reference/\">docs.astro.build/en/reference...</a> but I don’t think it is possible yet?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bzmib6u26x26hdfoab4feqst/app.bsky.feed.post/3lcxohnogos23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcxnie3oo227",
+			"url": "https://bsky.app/profile/rusticola.co.uk/post/3lcxohnogos23",
+			"author": {
+				"name": "Rustie",
+				"url": "https://bsky.app/profile/rusticola.co.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmib6u26x26hdfoab4feqst/bafkreic2jcxpdzxyuh4rxzfe75o5bi77f6wlm5gmik7mowckj7skju4vn4"
+			},
+			"date": "2024-12-10T16:38:09.424Z",
+			"content": "<p>Ooooh, looks like it’s got potential!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcxonfsxac2d",
+			"parentId": "at://did:plc:bzmib6u26x26hdfoab4feqst/app.bsky.feed.post/3lcxohnogos23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcxonfsxac2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-10T16:41:22.510Z",
+			"content": "<p>Maybe! Would be a great step though</p>",
+			"via": "bluesky"
+		}
+	]
+}

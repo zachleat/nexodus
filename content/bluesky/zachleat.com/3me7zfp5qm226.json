@@ -1,0 +1,434 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:2xau7wbgdq4phuou2ypwuen7/app.bsky.feed.post/3me7zxt3ah2s3",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tom.sherman.is/post/3me7zxt3ah2s3",
+			"author": {
+				"name": "Tom Sherman",
+				"url": "https://bsky.app/profile/tom.sherman.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xau7wbgdq4phuou2ypwuen7/bafkreifcim7hogwvk3psc2sruudhdnwckmgjn3idnrvk2zorps3xajnd3a"
+			},
+			"date": "2026-02-06T23:16:44.000Z",
+			"content": "<p>How would you solve it?</p>\n<p>Worth noting a link like this is not possible to create in bsky.app</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mea22rqg2223",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3mea22rqg2223",
+			"private": true,
+			"date": "2026-02-06T23:18:24.000Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3mea2352wms23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mayank.co/post/3mea2352wms23",
+			"private": true,
+			"date": "2026-02-06T23:18:35.879Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rzf7l6olyl67yfy2jwufdq7f/app.bsky.feed.post/3mea23gl6xc2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/humanwhocodes.com/post/3mea23gl6xc2w",
+			"author": {
+				"name": "Nicholas C. Zakas",
+				"url": "https://bsky.app/profile/humanwhocodes.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rzf7l6olyl67yfy2jwufdq7f/bafkreibbsrcnu4eml6civfhrgbmfanj3xy7gztrjsp2klrhdgfe3obp4he"
+			},
+			"date": "2026-02-06T23:18:45.850Z",
+			"content": "<p>Totally agree. I think the ability to hyperlink any text in a post is a bug, not a feature, of Bluesky. Too easy to get people to click on things, thus we need a modal to explain where you're really going.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mea26kacpk23",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mea22rqg2223",
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3mea26kacpk23",
+			"private": true,
+			"date": "2026-02-06T23:20:30.350Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3mea2apjkuc2y",
+			"parentId": "at://did:plc:2xau7wbgdq4phuou2ypwuen7/app.bsky.feed.post/3me7zxt3ah2s3",
+			"url": "https://bsky.app/profile/keithjgrant.com/post/3mea2apjkuc2y",
+			"author": {
+				"name": "Keith J. Grant",
+				"url": "https://bsky.app/profile/keithjgrant.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dx7vvynq7d4cwhxd4k4gesck/bafkreigpjsbjaogf4jwwelrxdt4c5t3jbotfh7eynlqvugf5iwk2sbcbpq"
+			},
+			"date": "2026-02-06T23:21:43.005Z",
+			"content": "<p>This was solved in 1993 with the invention of the html hyperlink. That’s still how I’d solve it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2xau7wbgdq4phuou2ypwuen7/app.bsky.feed.post/3mea2jr45522e",
+			"parentId": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3mea2apjkuc2y",
+			"url": "https://bsky.app/profile/tom.sherman.is/post/3mea2jr45522e",
+			"author": {
+				"name": "Tom Sherman",
+				"url": "https://bsky.app/profile/tom.sherman.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xau7wbgdq4phuou2ypwuen7/bafkreifcim7hogwvk3psc2sruudhdnwckmgjn3idnrvk2zorps3xajnd3a"
+			},
+			"date": "2026-02-06T23:26:46.648Z",
+			"content": "<p>That was the introduction of the problem of &lt;a href=evil.com&gt;example.com&lt;/a&gt;</p>\n<p>The solution is much more nuanced with many trade offs</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mea2vxl5xc25",
+			"parentId": "at://did:plc:rzf7l6olyl67yfy2jwufdq7f/app.bsky.feed.post/3mea23gl6xc2w",
+			"url": "https://bsky.app/profile/notwes.bsky.social/post/3mea2vxl5xc25",
+			"author": {
+				"name": "Wes",
+				"url": "https://bsky.app/profile/notwes.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5vv2f7a4huhkcqy6b4fp5ge/bafkreiebj773g2oa6omrxl5awgjk2yuegy4c6dwy3725lig5aok7rkib7y"
+			},
+			"date": "2026-02-06T23:33:36.088Z",
+			"content": "<p>Seems reasonable to keep that feature but also display the full URL in a less disruptive way. The web is *full* of linked text, so this is not \"a bluesky problem\" right?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mea2xnnkys24",
+			"parentId": "at://did:plc:2xau7wbgdq4phuou2ypwuen7/app.bsky.feed.post/3me7zxt3ah2s3",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mea2xnnkys24",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-06T23:34:32.792Z",
+			"content": "<p>should at least involve a risk profile of the URL before popping this.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meahhrppb22l",
+			"parentId": "at://did:plc:f5vv2f7a4huhkcqy6b4fp5ge/app.bsky.feed.post/3mea2vxl5xc25",
+			"url": "https://bsky.app/profile/danabra.mov/post/3meahhrppb22l",
+			"author": {
+				"name": "dan",
+				"url": "https://bsky.app/profile/danabra.mov",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fpruhuo22xkm5o7ttr2ktxdo/bafkreif43mhqajnbnl62u3ezf37g6x22nd762im54thxbil4ga46eugcga"
+			},
+			"date": "2026-02-07T03:18:18.829Z",
+			"content": "<p>i think it's tricky, if 99.9% links in this context are completely predictable about where they're going, it can be easy to trust it too much. i don't think it's about being anti-web, just tricky design area unless they're completely forbidden</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meahlxtdc22l",
+			"parentId": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meahhrppb22l",
+			"url": "https://bsky.app/profile/danabra.mov/post/3meahlxtdc22l",
+			"author": {
+				"name": "dan",
+				"url": "https://bsky.app/profile/danabra.mov",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fpruhuo22xkm5o7ttr2ktxdo/bafkreif43mhqajnbnl62u3ezf37g6x22nd762im54thxbil4ga46eugcga"
+			},
+			"date": "2026-02-07T03:20:39.456Z",
+			"content": "<p>this is the current logic, i think the warning only shows if the link text actually looks like a domain — to catch cases where it could be confusing. it doesn't activate for all external links afaik</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meahnrx7vc2l",
+			"parentId": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meahlxtdc22l",
+			"url": "https://bsky.app/profile/danabra.mov/post/3meahnrx7vc2l",
+			"author": {
+				"name": "dan",
+				"url": "https://bsky.app/profile/danabra.mov",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fpruhuo22xkm5o7ttr2ktxdo/bafkreif43mhqajnbnl62u3ezf37g6x22nd762im54thxbil4ga46eugcga"
+			},
+			"date": "2026-02-07T03:21:40.401Z",
+			"content": "<p>so if the link goes to <a href=\"https://foo.com\">foo.com</a> but this function extracts <a href=\"https://bar.com\">bar.com</a> from the text of the link, then it would show a warning. i don't think it would warn if it's just an external link with \"bar\" as text.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:q7suwaz53ztc4mbiqyygbn43/app.bsky.feed.post/3meamfmuddc2i",
+			"parentId": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meahnrx7vc2l",
+			"url": "https://bsky.app/profile/xan.lol/post/3meamfmuddc2i",
+			"author": {
+				"name": "xan",
+				"url": "https://bsky.app/profile/xan.lol",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:q7suwaz53ztc4mbiqyygbn43/bafkreide4caxnl4swwdjsnshaxhvvzlf3qrifpohmwk3l5zgpegmxt75yi"
+			},
+			"date": "2026-02-07T04:46:35.337Z",
+			"content": "<p><a href=\"https://foo.com\">bar</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:q7suwaz53ztc4mbiqyygbn43/app.bsky.feed.post/3meamiuefns2i",
+			"parentId": "at://did:plc:q7suwaz53ztc4mbiqyygbn43/app.bsky.feed.post/3meamfmuddc2i",
+			"url": "https://bsky.app/profile/xan.lol/post/3meamiuefns2i",
+			"author": {
+				"name": "xan",
+				"url": "https://bsky.app/profile/xan.lol",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:q7suwaz53ztc4mbiqyygbn43/bafkreide4caxnl4swwdjsnshaxhvvzlf3qrifpohmwk3l5zgpegmxt75yi"
+			},
+			"date": "2026-02-07T04:48:23.868Z",
+			"content": "<p>it's any link on text that isn't the same as the link. I used markdown syntax for that masked link on <a href=\"https://witchsky.app\">witchsky.app</a>, but you can also see the prompt in action on that site with the Feedback and other right navbar links.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meamizivdc2l",
+			"parentId": "at://did:plc:q7suwaz53ztc4mbiqyygbn43/app.bsky.feed.post/3meamfmuddc2i",
+			"url": "https://bsky.app/profile/danabra.mov/post/3meamizivdc2l",
+			"author": {
+				"name": "dan",
+				"url": "https://bsky.app/profile/danabra.mov",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fpruhuo22xkm5o7ttr2ktxdo/bafkreif43mhqajnbnl62u3ezf37g6x22nd762im54thxbil4ga46eugcga"
+			},
+			"date": "2026-02-07T04:48:29.258Z",
+			"content": "<p>hmm interesting, that's not how i thought the code works</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meamoepsjk2n",
+			"parentId": "at://did:plc:q7suwaz53ztc4mbiqyygbn43/app.bsky.feed.post/3meamiuefns2i",
+			"url": "https://bsky.app/profile/danabra.mov/post/3meamoepsjk2n",
+			"author": {
+				"name": "dan",
+				"url": "https://bsky.app/profile/danabra.mov",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fpruhuo22xkm5o7ttr2ktxdo/bafkreif43mhqajnbnl62u3ezf37g6x22nd762im54thxbil4ga46eugcga"
+			},
+			"date": "2026-02-07T04:51:28.790Z",
+			"content": "<p>hm okay but it doesn't seem like the intent of the code, according to the comment and the function name. is this just a bug? i guess <a href=\"https://bar\">bar</a> is valid but why is it. browser wouldn't open it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3mean52jvds2n",
+			"parentId": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meamoepsjk2n",
+			"url": "https://bsky.app/profile/danabra.mov/post/3mean52jvds2n",
+			"author": {
+				"name": "dan",
+				"url": "https://bsky.app/profile/danabra.mov",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fpruhuo22xkm5o7ttr2ktxdo/bafkreif43mhqajnbnl62u3ezf37g6x22nd762im54thxbil4ga46eugcga"
+			},
+			"date": "2026-02-07T04:59:41.427Z",
+			"content": "<p>maybe worth digging into git blame</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:r2bjwiwlhmo26hh2sz27fqf3/app.bsky.feed.post/3meaphel6ms2z",
+			"parentId": "at://did:plc:7g6egal4g5xxyndeeltr5oss/app.bsky.feed.post/3mea2352wms23",
+			"url": "https://bsky.app/profile/agnoster.net/post/3meaphel6ms2z",
+			"author": {
+				"name": "the fool (cachinnatory)",
+				"url": "https://bsky.app/profile/agnoster.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:r2bjwiwlhmo26hh2sz27fqf3/bafkreic4xufsyvy4k4bqzi6uwoyzpifdciidjl6rnyezsetl6ouodgz7bu"
+			},
+			"date": "2026-02-07T05:41:14.984Z",
+			"content": "<p>Why won’t you stay and play with us</p>\n<p>Forever</p>\n<p>And ever</p>\n<p>And ever</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yjdjd5ffu5pdlf5kv5andiej/app.bsky.feed.post/3meaq3qxtec2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/0xsunil.bsky.social/post/3meaq3qxtec2b",
+			"author": {
+				"name": "sunil",
+				"url": "https://bsky.app/profile/0xsunil.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yjdjd5ffu5pdlf5kv5andiej/bafkreich2x3y35xilqt5xoqlkzn75ce2gvxjzsnljwjoarjqtfixwgz2wy"
+			},
+			"date": "2026-02-07T05:52:39.069Z",
+			"content": "<p>How about we replace \"Leaving Bluesky\" with \"Abandoning Bluesky\"?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:web:didd.uk/app.bsky.feed.post/3meblbmpuwk2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ducky.ws/post/3meblbmpuwk2u",
+			"author": {
+				"name": "Ducky 🦆",
+				"url": "https://bsky.app/profile/ducky.ws",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:web:didd.uk/bafkreibr5q2zthn3acjixunlnzuuoopsmcoxvn6vv7oid5t7fqlngnvn2y"
+			},
+			"date": "2026-02-07T13:59:06.971Z",
+			"content": "<p>I mean, this is to mitigate the usual hack of people doing this:</p>\n<p><a href=\"https://example.com\">google.com</a></p>\n<p>The modal only pops up if the domain in the hyperlink facet doesn't match the text its decorating. Its a fairly usual mitigation against such an attack, and I've seen it in a few other apps (Telegram springs to mind too)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ch3e5fezzpnwteny3fv5kdkv/app.bsky.feed.post/3meblity6is2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/auxilit.com/post/3meblity6is2d",
+			"author": {
+				"name": "Daniel Feichtinger",
+				"url": "https://bsky.app/profile/auxilit.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ch3e5fezzpnwteny3fv5kdkv/bafkreic7fiawlda2bguzo274pxmfuafouakansswjydhkdf6n3yy4mobry"
+			},
+			"date": "2026-02-07T14:03:09.462Z",
+			"content": "<p>The <a href=\"https://go.bsky.app\">go.bsky.app</a> link shortener is also hostile, they need to get rid of it asap. Honestly, with the recent changes X is the better hyperlink handler which is a real shame.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:btew3ykib7reol7ipkmxvf27/app.bsky.feed.post/3mec5v3ohds2y",
+			"parentId": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3mean52jvds2n",
+			"url": "https://bsky.app/profile/dev.zilahi.fi/post/3mec5v3ohds2y",
+			"private": true,
+			"date": "2026-02-07T19:32:07.540Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3mec6mht6uc2j",
+			"parentId": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3meamoepsjk2n",
+			"url": "https://bsky.app/profile/danabra.mov/post/3mec6mht6uc2j",
+			"author": {
+				"name": "dan",
+				"url": "https://bsky.app/profile/danabra.mov",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fpruhuo22xkm5o7ttr2ktxdo/bafkreif43mhqajnbnl62u3ezf37g6x22nd762im54thxbil4ga46eugcga"
+			},
+			"date": "2026-02-07T19:45:12.029Z",
+			"content": "<p>cc <a href=\"https://bsky.app/profile/did:plc:p2cp5gopk7mgjegy6wadk3ep\">@samuel.fm</a> do you know if this is working correctly?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3mec7ndqb5s2j",
+			"parentId": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3mec6mht6uc2j",
+			"url": "https://bsky.app/profile/samuel.fm/post/3mec7ndqb5s2j",
+			"author": {
+				"name": "Samuel",
+				"url": "https://bsky.app/profile/samuel.fm",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:p2cp5gopk7mgjegy6wadk3ep/bafkreihrdgva6ebn3vmjb4qww3yqozf4eoq26mmraouegpawhr5mo5pnxu"
+			},
+			"date": "2026-02-07T20:03:35.036Z",
+			"content": "<p>hmm saving this to look at next week. should probably show the warning</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ah3j3in4wblokt7fjmuckomu/app.bsky.feed.post/3mecaywmbp227",
+			"parentId": "at://did:plc:rzf7l6olyl67yfy2jwufdq7f/app.bsky.feed.post/3mea23gl6xc2w",
+			"url": "https://bsky.app/profile/slime.bsky.social/post/3mecaywmbp227",
+			"private": true,
+			"date": "2026-02-07T20:27:57.668Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5mc2q3skmot36nn47wb4cmhg/app.bsky.feed.post/3mecevzpfl22w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/creatuluw.bsky.social/post/3mecevzpfl22w",
+			"author": {
+				"name": "Patrick Tehubijuluw",
+				"url": "https://bsky.app/profile/creatuluw.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mc2q3skmot36nn47wb4cmhg/bafkreigjh2rreaosahrwu3dlwekfv6inatinykanfvxs4zafujaasj2bu4"
+			},
+			"date": "2026-02-07T21:37:55.221Z",
+			"content": "<p>You should be able to set the disclosure method.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megrceg4ss2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3megrceg4ss2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-09T15:30:12.960Z",
+			"content": "<p>Follow up here: thankful to folks educating in the replies, I’ve learned that the hyperlink text *shown* on Bluesky (similar to Fedi, too) can differ from the target URL and this modal is only shown when they differ.</p>\n<p>(for even more nuance: the post I encountered was a truncated link 🫣)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3megta4owuk2w",
+			"parentId": "at://did:web:didd.uk/app.bsky.feed.post/3meblbmpuwk2u",
+			"url": "https://bsky.app/profile/lukewarlow.dev/post/3megta4owuk2w",
+			"author": {
+				"name": "Luke",
+				"url": "https://bsky.app/profile/lukewarlow.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uthwv2jcpcccf4ec2bzsavg7/bafkreia3pmnk72btquz6ufuupstzrg7tb23smpinwmfntnk7lfl2gj7xae"
+			},
+			"date": "2026-02-09T16:04:45.215Z",
+			"content": "<p>The mobile popup feels like a better UI, it at least explains it's because the link text is misleading.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megthdypcs2n",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3megta4owuk2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3megthdypcs2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-09T16:08:47.776Z",
+			"content": "<p>for disclosure, here is the original post (which has a truncated link): <a href=\"https://bsky.app/profile/humanwhocodes.com/post/3me7you7jan2k\">bsky.app/profile/huma...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3megtoss5ok2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megthdypcs2n",
+			"url": "https://bsky.app/profile/lukewarlow.dev/post/3megtoss5ok2q",
+			"author": {
+				"name": "Luke",
+				"url": "https://bsky.app/profile/lukewarlow.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uthwv2jcpcccf4ec2bzsavg7/bafkreia3pmnk72btquz6ufuupstzrg7tb23smpinwmfntnk7lfl2gj7xae"
+			},
+			"date": "2026-02-09T16:12:58.164Z",
+			"content": "<p>Oh interesting, there's two types of modal one is \"Leaving Bluesky\" one is the misleading link one. I think a popup when the URL is mismatched is fair. I think more generic one is odd, maybe it's because it's truncated?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:web:didd.uk/app.bsky.feed.post/3megvcb7bj22s",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3megtoss5ok2q",
+			"url": "https://bsky.app/profile/ducky.ws/post/3megvcb7bj22s",
+			"author": {
+				"name": "Ducky 🦆",
+				"url": "https://bsky.app/profile/ducky.ws",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:web:didd.uk/bafkreibr5q2zthn3acjixunlnzuuoopsmcoxvn6vv7oid5t7fqlngnvn2y"
+			},
+			"date": "2026-02-09T16:41:44.549Z",
+			"content": "<p>Yeah, it's because of the truncation. The code tries to find the domain in the text and see if it matches the domain in the link facet.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wwv7b2hkcaghqlyy4mew2tzs/app.bsky.feed.post/3megvdbfdgc2b",
+			"parentId": "at://did:plc:uthwv2jcpcccf4ec2bzsavg7/app.bsky.feed.post/3megtoss5ok2q",
+			"url": "https://bsky.app/profile/tbroyer.ltgt.net/post/3megvdbfdgc2b",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://bsky.app/profile/tbroyer.ltgt.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wwv7b2hkcaghqlyy4mew2tzs/bafkreihrqndj2znuvrww4i6apcquaupotcyo74imlxzlb7kihndwf7xhsy"
+			},
+			"date": "2026-02-09T16:42:18.308Z",
+			"content": "<p>because <a href=\"https://humanwhocodes.co\">humanwhocodes.co</a> is a registrable domain on its own, so indeed the truncation makes the link misleading.</p>\n<p>And I suppose the truncation is due to <a href=\"https://github.com/humanwhocodes/crosspost\">github.com/humanwhocode...</a>, so Bluesky likely is not to blame here.<br>\n(can't check, github's having troubles 😅)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wwv7b2hkcaghqlyy4mew2tzs/app.bsky.feed.post/3megw62c2cs2b",
+			"parentId": "at://did:plc:wwv7b2hkcaghqlyy4mew2tzs/app.bsky.feed.post/3megvdbfdgc2b",
+			"url": "https://bsky.app/profile/tbroyer.ltgt.net/post/3megw62c2cs2b",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://bsky.app/profile/tbroyer.ltgt.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wwv7b2hkcaghqlyy4mew2tzs/bafkreihrqndj2znuvrww4i6apcquaupotcyo74imlxzlb7kihndwf7xhsy"
+			},
+			"date": "2026-02-09T16:57:16.831Z",
+			"content": "<p>And here it is: <a href=\"https://github.com/humanwhocodes/crosspost/blob/main/src/util/bluesky-facets.js#L199\">github.com/humanwhocode...</a></p>\n<p>All links to <a href=\"https://humanwhocodes.com/…\">humanwhocodes.com/%E2%80%A6</a> will be turned into <a href=\"https://humanwhocodes.co..\">humanwhocodes.co..</a>.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megxfs2hhs27",
+			"parentId": "at://did:plc:wwv7b2hkcaghqlyy4mew2tzs/app.bsky.feed.post/3megw62c2cs2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3megxfs2hhs27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-09T17:19:30.372Z",
+			"content": "<p>oh dang, nice sleuthing! the truncation happened upstream!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megy35pjus2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megrceg4ss2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3megy35pjus2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-09T17:31:27.240Z",
+			"content": "<p>Another follow up here: <a href=\"https://bsky.app/profile/did:plc:wwv7b2hkcaghqlyy4mew2tzs\">@tbroyer.ltgt.net</a> found the offending truncation code and it is not on <a href=\"https://bsky.app/profile/did:plc:z72i7hdynmk6r22z27h6tvur\">@bsky.app</a>’s part here. I’m sorry folks — I was far too harsh in my original post!</p>\n<p><a href=\"https://bsky.app/profile/tbroyer.ltgt.net/post/3megw62c2cs2b\">bsky.app/profile/tbro...</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

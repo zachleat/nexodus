@@ -1,0 +1,116 @@
+{
+	"comments": [
+		{
+			"id": "111025053560688259",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111025053560688259",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-07T17:31:12.932Z",
+			"content": "<p>There are new Set methods coming for `intersection`,  `difference`, `isSubsetOf`, `union`!</p><p>Not yet available anywhere yet but I am so ready for these 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025059950719712",
+			"parentId": "111025053560688259",
+			"url": "https://fediverse.zachleat.com/@zachleat/111025059950719712",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-07T17:32:50.436Z",
+			"content": "<p>ShadowRealm for sandboxed JavaScript execution will be very helpful in WebC too 👍🏻</p><p><a href=\"https://github.com/tc39/proposal-shadowrealm\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tc39/proposal-shado</span><span class=\"invisible\">wrealm</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025070985751414",
+			"parentId": "111025053560688259",
+			"url": "https://fosstodon.org/@deadwisdom/111025070911784810",
+			"author": {
+				"name": "Brantley Harris",
+				"url": "https://fosstodon.org/@deadwisdom",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/010/643/324/801/original/df82a992afce0684.jpg"
+			},
+			"date": "2023-09-07T17:35:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh that's super nice.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025077370679107",
+			"parentId": "111025053560688259",
+			"url": "https://mastodon.guerilla.studio/@tixie/111025077263131932",
+			"private": true,
+			"date": "2023-09-07T17:37:14.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025155635661856",
+			"parentId": "111025053560688259",
+			"url": "https://hachyderm.io/@papayaga/111025155600302410",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2023-09-07T17:57:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> omfg.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025156639951254",
+			"parentId": 0,
+			"url": "https://mastodon.world/@erikras/111025156608673752",
+			"author": {
+				"name": "Erik Rasmussen ☑️",
+				"url": "https://mastodon.world/@erikras",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/405/967/042/830/153/original/98858968cf540109.jpg"
+			},
+			"date": "2023-09-07T17:57:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> toSorta feels like they should have dummies of the existing non-mutating ones, for \"consistency”. e.g. toSlice(), toConcat(), etc.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025359686251746",
+			"parentId": "111025156639951254",
+			"url": "https://fediverse.zachleat.com/@zachleat/111025359686251746",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-07T18:49:04.047Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@erikras\" class=\"u-url mention\">@<span>erikras</span></a></span> seems logical to me!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111025862462510043",
+			"parentId": 0,
+			"url": "https://piaille.fr/@porteneuve/111025862422029402",
+			"author": {
+				"name": "Christophe Porteneuve",
+				"url": "https://piaille.fr/@porteneuve",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-09-07T20:56:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> .with() is by far the greatest DX upgrade of that gang. </p><p>Also this is in Cr/Edge 110+, Fx 115+, Deno too. All modern browsers have it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111030503171622162",
+			"parentId": "111025053560688259",
+			"url": "https://tech.lgbt/@alex/111030498441505945",
+			"author": {
+				"name": "Alex R",
+				"url": "https://tech.lgbt/@alex",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/413/080/530/662/original/168d48023fe8b55f.png"
+			},
+			"date": "2023-09-08T16:35:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I always forget those aren’t there already – it’s sort of like having numbers but no arithmetic operations</p>",
+			"via": "fediverse"
+		}
+	]
+}

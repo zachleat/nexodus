@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "113234822429145876",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@d3v1an7/113234822398056076",
+			"author": {
+				"name": "d3v1an7",
+				"url": "https://infosec.exchange/@d3v1an7",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/991/051/044/602/132/original/da2a25d00cb13c69.png"
+			},
+			"date": "2024-10-01T23:44:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ahhh spagett!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113234884302738849",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/113234883617462680",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2024-10-02T00:00:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> slaps roof i can fit so many blog posts in this baby</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113268353541096014",
+			"parentId": 0,
+			"url": "https://xoxo.zone/@shellen/113268353494555306",
+			"author": {
+				"name": "Jason Shellen",
+				"url": "https://xoxo.zone/@shellen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/355/007/022/053/281/original/6c22428e936fa72b.png"
+			},
+			"date": "2024-10-07T21:51:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hah! Eleventy is good, congratulations on v3! </p><p>I don't know if this is the place to ask but I'm having issues migrating a bunch of old md files like YYYY-MM-DD-title-of-post.md to be at a path like domain.com/title-of-post is there a way to do this in Eleventy? Seems like I would need to strip dates out of the actual filename to make this work. Am I missing an easy setting somewhere? Thanks in advance.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113274575854543473",
+			"parentId": "113268353541096014",
+			"url": "https://indieweb.social/@bobmonsour/113274575817037330",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2024-10-09T00:14:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://xoxo.zone/@shellen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>shellen</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> One thought would be to use js front matter for those files in a directory data file and use a regex to set the permalink based on the filename, but removing the up-front date part. You might consider asking this in the <a href=\"https://indieweb.social/tags/11ty\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>11ty</span></a> Discord. There's a lot of great help there. <a href=\"https://www.11ty.dev/blog/discord/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/blog/discord/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113312245311938273",
+			"parentId": "113268353541096014",
+			"url": "https://fediverse.zachleat.com/@zachleat/113312245311938273",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-15T15:54:09.415Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://xoxo.zone/@shellen\" class=\"u-url mention\">@<span>shellen</span></a></span> sorry for the late reply but this behavior is enabled by default in Eleventy!</p><p>&gt; If a date key is omitted from the file, we then look for a YYYY-MM-DD format anywhere in the file path (even folders).</p><p><a href=\"https://www.11ty.dev/docs/dates/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/dates/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113313885239824356",
+			"parentId": "113312245311938273",
+			"url": "https://xoxo.zone/@shellen/113313885208423130",
+			"author": {
+				"name": "Jason Shellen",
+				"url": "https://xoxo.zone/@shellen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/355/007/022/053/281/original/6c22428e936fa72b.png"
+			},
+			"date": "2024-10-15T22:51:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks for the pointer and trying to wrap my head around this so bear with me. </p><p>What I want: example.com/this-is-a-post-title</p><p>What I'm getting: example.com/2018-10-22-this-is-a-post-title</p><p>I have dates in frontmatter and in the filename. Can I say \"don't use dates in path at all\"?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113317680392884098",
+			"parentId": "113313885239824356",
+			"url": "https://fediverse.zachleat.com/@zachleat/113317680392884098",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-16T14:56:22.167Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://xoxo.zone/@shellen\" class=\"u-url mention\">@<span>shellen</span></a></span> ah, my apologies—I got my wires crossed a little bit. The date in your file path can inform the `page.date` for the page but won’t (by default) influence the permalink output location.</p><p>You can use `page.filePathStem` to do this, though (and the file path date will be stripped out).</p><p>Consider this config, modified from <a href=\"https://www.11ty.dev/docs/permalinks/#remove-trailing-slashes\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/permalinks/#remo</span><span class=\"invisible\">ve-trailing-slashes</span></a></p><p>eleventyConfig.addGlobalData(&quot;permalink&quot;, () =&gt; {<br />\treturn (data) =&gt; `${data.page.filePathStem}/`;<br />})</p><p>Thus, 2001-01-01-test.md -&gt; test/index.html</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113325838737832246",
+			"parentId": "113317680392884098",
+			"url": "https://xoxo.zone/@shellen/113325838657238744",
+			"author": {
+				"name": "Jason Shellen",
+				"url": "https://xoxo.zone/@shellen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/355/007/022/053/281/original/6c22428e936fa72b.png"
+			},
+			"date": "2024-10-18T01:31:07.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Excellent! That's exactly what I was looking for -- thank you!</p>",
+			"via": "fediverse"
+		}
+	]
+}

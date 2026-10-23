@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "111506221185099148",
+			"parentId": 0,
+			"url": "https://mastodon.social/@aerotwist/111506220967944099",
+			"author": {
+				"name": "Paul Lewis",
+				"url": "https://mastodon.social/@aerotwist",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/670/317/279/537/505/original/2b18afd04ac01d67.jpg"
+			},
+			"date": "2023-12-01T16:58:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Are you referring to the blog post I wrote that you didn't believe I wrote? 😁</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111506230748556480",
+			"parentId": "111506221185099148",
+			"url": "https://fediverse.zachleat.com/@zachleat/111506230748556480",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-01T17:00:54.147Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@aerotwist\" class=\"u-url mention\">@<span>aerotwist</span></a></span> well wait—I’m now realizing that your mastodon account isn’t verified to your web site</p><p>but if your web site is hacked you could verify it as a falsified identity</p><p>…say something only paul would say</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111506251638269675",
+			"parentId": "111506230748556480",
+			"url": "https://mastodon.social/@aerotwist/111506250263306751",
+			"author": {
+				"name": "Paul Lewis",
+				"url": "https://mastodon.social/@aerotwist",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/670/317/279/537/505/original/2b18afd04ac01d67.jpg"
+			},
+			"date": "2023-12-01T17:05:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> err... Web performance... Frameworks... Err...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111506289391135802",
+			"parentId": "111506251638269675",
+			"url": "https://fediverse.zachleat.com/@zachleat/111506289391135802",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-01T17:15:48.962Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@aerotwist\" class=\"u-url mention\">@<span>aerotwist</span></a></span> please fill out this form</p>",
+			"via": "fediverse"
+		}
+	]
+}

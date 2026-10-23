@@ -1,0 +1,946 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:go53xbllmkjw3vp65vmrcjol/app.bsky.feed.post/3lahkippsrj2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/matthiasott.com/post/3lahkippsrj2f",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://bsky.app/profile/matthiasott.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:go53xbllmkjw3vp65vmrcjol/bafkreieo5fnndyymyv3oatblyfrlnsz5ubl2jpyk6yj3qc6hab2i5pinri"
+			},
+			"date": "2024-11-08T19:54:10.970Z",
+			"content": "<p>the future!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lahkk4o4yo23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lahkk4o4yo23",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2024-11-08T19:54:56.712Z",
+			"content": "<p>HTML to build websites? 🌶️🌶️🌶️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahkly4wsc2w",
+			"parentId": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lahkk4o4yo23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahkly4wsc2w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T19:56:00.565Z",
+			"content": "<p>we are so brave 🏅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lahkojxll223",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahkly4wsc2w",
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lahkojxll223",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2024-11-08T19:57:25.567Z",
+			"content": "<p>just lazy mostly 💤</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nlvnr63jmz3v6eozqq2hx2hz/app.bsky.feed.post/3lahkqmg2of2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/soufianee.com/post/3lahkqmg2of2j",
+			"author": {
+				"name": "Soufiane",
+				"url": "https://bsky.app/profile/soufianee.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nlvnr63jmz3v6eozqq2hx2hz/bafkreielxi2psc3rjheaego47nqiritvecu6aafs466c4hhrbcjxcn6dyq"
+			},
+			"date": "2024-11-08T19:58:36.028Z",
+			"content": "<p>Can we have web components with a functional writing style. My brain can’t go back to classes</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vf7tv7uq23avbpzkjswlv273/app.bsky.feed.post/3lahku2bgqc2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rikschennink.com/post/3lahku2bgqc2o",
+			"author": {
+				"name": "Rik Schennink",
+				"url": "https://bsky.app/profile/rikschennink.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vf7tv7uq23avbpzkjswlv273/bafkreibge5qwgjyraqbzudhxnjchx2ie3uxysxmubn5urzhykv3hhlvtyq"
+			},
+			"date": "2024-11-08T20:00:31.245Z",
+			"content": "<p>they're really quite something aren't they</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahkud255s2b",
+			"parentId": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lahkojxll223",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahkud255s2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T20:00:40.444Z",
+			"content": "<p>shhh keep that quiet (though true)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahkvpo4hs2b",
+			"parentId": "at://did:plc:nlvnr63jmz3v6eozqq2hx2hz/app.bsky.feed.post/3lahkqmg2of2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahkvpo4hs2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T20:01:27.235Z",
+			"content": "<p>sugar it however you want</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7n2l5ays7rawgavn7kmukqlw/app.bsky.feed.post/3lahlahdn5i2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/reaper.is/post/3lahlahdn5i2o",
+			"author": {
+				"name": "reaper",
+				"url": "https://bsky.app/profile/reaper.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7n2l5ays7rawgavn7kmukqlw/bafkreibxynvyrsx3lvwn7d575uhhdqcv6ls3hgbb3mtbubqdej7lsegypa"
+			},
+			"date": "2024-11-08T20:07:27.437Z",
+			"content": "<p>Using wc to create a mount point/island for preact to write preact to create isolated and reactive islands was a good idea.</p>\n<p>I just like complicating things 😬</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahlccyyy22a",
+			"parentId": "at://did:plc:7n2l5ays7rawgavn7kmukqlw/app.bsky.feed.post/3lahlahdn5i2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahlccyyy22a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T20:08:30.169Z",
+			"content": "<p>I’ve done something similar with Vue before! (and <a href=\"https://github.com/11ty/is-land\">github.com/11ty/is-land</a> of course)</p>\n<p>it’s a good idea</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7n2l5ays7rawgavn7kmukqlw/app.bsky.feed.post/3lahlqgesb42b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahlccyyy22a",
+			"url": "https://bsky.app/profile/reaper.is/post/3lahlqgesb42b",
+			"author": {
+				"name": "reaper",
+				"url": "https://bsky.app/profile/reaper.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7n2l5ays7rawgavn7kmukqlw/bafkreibxynvyrsx3lvwn7d575uhhdqcv6ls3hgbb3mtbubqdej7lsegypa"
+			},
+			"date": "2024-11-08T20:16:23.295Z",
+			"content": "<p>Oh I know about 11ty and it’s island implementation, that was the inspiration 😂 (Thanks for making it)</p>\n<p><a href=\"https://github.com/dumbjs/preland/blob/13b65096ab763873af7926682ab406d559827330/src/index.js#L248\">github.com/dumbjs/prela...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6gazj26ncqzycz6ysqspxses/app.bsky.feed.post/3lahltihk5l2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/robincsl.dev/post/3lahltihk5l2f",
+			"author": {
+				"name": "Robin Cussol",
+				"url": "https://bsky.app/profile/robincsl.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6gazj26ncqzycz6ysqspxses/bafkreidiwjsgdeesm4avcmurqebdsmkx53nnmmuv2t3lctz4djzglacz64"
+			},
+			"date": "2024-11-08T20:18:06.123Z",
+			"content": "<p>Why is WebC/Enhance possible when other fw authors seem so adverse to web components?</p>\n<p>I just re-read your post <a href=\"https://www.zachleat.com/web/good-bad-web-components/\">www.zachleat.com/web/good-bad...</a>, and would need to re-read Rich Harris’s and Ryan Carniato’s.</p>\n<p>I find this debate confusing. Is it just that the platform is catching up for better DX?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:m7exwqay2yxrlalefmnsvylm/app.bsky.feed.post/3lahlzlaves2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/marwil.bsky.social/post/3lahlzlaves2v",
+			"author": {
+				"name": "marwil.bsky.social",
+				"url": "https://bsky.app/profile/marwil.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:m7exwqay2yxrlalefmnsvylm/bafkreigg7wsdyxfvak4zzxtruqa4ow45jurr4uugjpdhcpdv44dh2bsnvm"
+			},
+			"date": "2024-11-08T20:21:30.567Z",
+			"content": "<p>Ketzer.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahm32qffk2p",
+			"parentId": "at://did:plc:6gazj26ncqzycz6ysqspxses/app.bsky.feed.post/3lahltihk5l2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahm32qffk2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T20:22:20.359Z",
+			"content": "<p>I don’t think that question is quite the framing I’ve seen. The complaints I’ve seen is that framework folks want web components to either do more or go away altogether. My experience is that web components do quite a bit and don’t get in my way 🤷</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahm662rfs2p",
+			"parentId": "at://did:plc:m7exwqay2yxrlalefmnsvylm/app.bsky.feed.post/3lahlzlaves2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahm662rfs2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T20:24:04.508Z",
+			"content": "<p>do you have a moment to talk about our lord and savior web components</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3lahmp7n3gc2m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahkvpo4hs2b",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3lahmp7n3gc2m",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2024-11-08T20:33:36.582Z",
+			"content": "<p>But also... classes are good.</p>\n<p>They declaratively combine state and behavior, which is exactly what you need for UI components.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lahmtrzj3l2j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahkud255s2b",
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lahmtrzj3l2j",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2024-11-08T20:36:09.592Z",
+			"content": "<p>Oh right!</p>\n<p>gives me more space to deliver more value instead of spinning my tires chasing upgrades 🚀📈💰</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahna274ok27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahm32qffk2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahna274ok27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T20:43:01.307Z",
+			"content": "<p>*are</p>\n<p>(ugh)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6gazj26ncqzycz6ysqspxses/app.bsky.feed.post/3lahnc2qyq42i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahm32qffk2p",
+			"url": "https://bsky.app/profile/robincsl.dev/post/3lahnc2qyq42i",
+			"author": {
+				"name": "Robin Cussol",
+				"url": "https://bsky.app/profile/robincsl.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6gazj26ncqzycz6ysqspxses/bafkreidiwjsgdeesm4avcmurqebdsmkx53nnmmuv2t3lctz4djzglacz64"
+			},
+			"date": "2024-11-08T20:44:08.933Z",
+			"content": "<p>And being a web standard, there's a guarantee they'll be supported for a very long time, right?</p>\n<p>Definitely need to study and play with them more.</p>\n<p>WebC rekindled my interest in them, so did Chris Ferdinandi's videos on his channel.</p>\n<p>Thank you Zach!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahndqzgj227",
+			"parentId": "at://did:plc:6gazj26ncqzycz6ysqspxses/app.bsky.feed.post/3lahnc2qyq42i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahndqzgj227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T20:45:05.900Z",
+			"content": "<p>absolutely 🙌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:d6p2jrbterkgnavwl334q7qf/app.bsky.feed.post/3lahnlsrm5d2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/silvenon.com/post/3lahnlsrm5d2b",
+			"author": {
+				"name": "Matija Marohnić",
+				"url": "https://bsky.app/profile/silvenon.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:d6p2jrbterkgnavwl334q7qf/bafkreic5zt75ozknkftex5ulpqgrfv6poc55so2pwqxxkqq3odqz6o7fqu"
+			},
+			"date": "2024-11-08T20:49:35.800Z",
+			"content": "<p>They seem to fulfill my styling scoping and isolation needs so far. But I only scratched the surface.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4uffegxrrkc4ftb6r3w63gpe/app.bsky.feed.post/3lahnxaowtm2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/adamriha.com/post/3lahnxaowtm2v",
+			"author": {
+				"name": "Adam Riha",
+				"url": "https://bsky.app/profile/adamriha.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4uffegxrrkc4ftb6r3w63gpe/bafkreifxzwqhpf2r6qtl5vb7ui5hbbsdjeco2j3h72sggjgiw6nigxyu54"
+			},
+			"date": "2024-11-08T20:55:59.716Z",
+			"content": "<p>I built a whole ui library 6 years ago using Stencil JS and it was great.</p>\n<p>At that time I thought web components would take off really quickly…. But the reality is very different.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fxipo3ogt5nrxjddervd4hxa/app.bsky.feed.post/3lahobb7ny22j",
+			"parentId": "at://did:plc:nlvnr63jmz3v6eozqq2hx2hz/app.bsky.feed.post/3lahkqmg2of2j",
+			"url": "https://bsky.app/profile/hawkticehurst.com/post/3lahobb7ny22j",
+			"author": {
+				"name": "Hawk Ticehurst",
+				"url": "https://bsky.app/profile/hawkticehurst.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fxipo3ogt5nrxjddervd4hxa/bafkreicq5mpnkdm576nxqobz2ij4uxqpf4zdg24u5vpli227noejxszy6u"
+			},
+			"date": "2024-11-08T21:01:35.958Z",
+			"content": "<p>Give Haunted (by <a href=\"https://bsky.app/profile/did:plc:eu6cezqsf5yocjsyc7mgkued\">@xn--6j8haa.ws</a>) a peek</p>\n<p><a href=\"https://hauntedhooks.netlify.app/\">hauntedhooks.netlify.app</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jbeaa5kdaladzwq3r7f5xgwe/app.bsky.feed.post/3lahokh2vcc2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/danielroe.dev/post/3lahokh2vcc2y",
+			"author": {
+				"name": "daniel r(ooooooh) in nyc 🇺🇸",
+				"url": "https://bsky.app/profile/danielroe.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jbeaa5kdaladzwq3r7f5xgwe/bafkreif4d7wtmzqppbpnwhjulf3d36ltbeg5wzu3i2mhq6wxb4f6nh5uo4"
+			},
+			"date": "2024-11-08T21:06:44.085Z",
+			"content": "<p>are you testing the vibes, or what?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fxipo3ogt5nrxjddervd4hxa/app.bsky.feed.post/3lahomm652s2j",
+			"parentId": "at://did:plc:7n2l5ays7rawgavn7kmukqlw/app.bsky.feed.post/3lahlahdn5i2o",
+			"url": "https://bsky.app/profile/hawkticehurst.com/post/3lahomm652s2j",
+			"author": {
+				"name": "Hawk Ticehurst",
+				"url": "https://bsky.app/profile/hawkticehurst.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fxipo3ogt5nrxjddervd4hxa/bafkreicq5mpnkdm576nxqobz2ij4uxqpf4zdg24u5vpli227noejxszy6u"
+			},
+			"date": "2024-11-08T21:07:56.543Z",
+			"content": "<p>Also worth mentioning is <a href=\"https://bsky.app/profile/did:plc:6kf6jxl44h34mprhykvqljcx\">@astro.build</a>’s support for rendering other web frameworks is implemented as an islands-architecture-based web component</p>\n<p><a href=\"https://github.com/withastro/astro/blob/main/packages/astro/src/runtime/server/astro-island.ts\">github.com/withastro/as...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahorgj2xk2r",
+			"parentId": "at://did:plc:jbeaa5kdaladzwq3r7f5xgwe/app.bsky.feed.post/3lahokh2vcc2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahorgj2xk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T21:10:38.382Z",
+			"content": "<p>I’m just out here, living my life, man… 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mwjvf2zeosmkm4374ec7pw72/app.bsky.feed.post/3lahox7zcnq2l",
+			"parentId": "at://did:plc:nlvnr63jmz3v6eozqq2hx2hz/app.bsky.feed.post/3lahkqmg2of2j",
+			"url": "https://bsky.app/profile/hlimas.com/post/3lahox7zcnq2l",
+			"private": true,
+			"date": "2024-11-08T21:13:52.823Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3lahpl3kuok2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/scottjehl.com/post/3lahpl3kuok2e",
+			"author": {
+				"name": "Scott Jehl",
+				"url": "https://bsky.app/profile/scottjehl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f64vb5rx6mqokvtn3gbgtnkv/bafkreicwirkhki6y6iujb4eszhob5bfr3plqwlksspvfunewlv7p6djwwi"
+			},
+			"date": "2024-11-08T21:24:59.323Z",
+			"content": "<p>so mystified tho</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lahpm6vw222v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3lahpm6vw222v",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2024-11-08T21:25:36.385Z",
+			"content": "<p>heard otherwise</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lahpqbzdx223",
+			"parentId": "at://did:plc:4uffegxrrkc4ftb6r3w63gpe/app.bsky.feed.post/3lahnxaowtm2v",
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3lahpqbzdx223",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2024-11-08T21:27:53.860Z",
+			"content": "<p>Really sad GitHub's <a href=\"https://catalyst.rocks/\">catalyst.rocks</a> is defunct. Really liked the target/action declarativeness right in the HTML.</p>\n<p>Really want to envision a future where the page bindings (&amp; ideally data) are all visible on the page. Catalyst for very close.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3lahpsyiv622d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/duffeh.bsky.social/post/3lahpsyiv622d",
+			"author": {
+				"name": "Duffeh",
+				"url": "https://bsky.app/profile/duffeh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spulgjrl7sactd23bgqv6jen/bafkreihf42m7kegjr2iu7zucmfcby4dqblokuc7ii3nomjtfv7tod5m6la"
+			},
+			"date": "2024-11-08T21:29:25.701Z",
+			"content": "<p>I use them for wrappers, but accessibility wise do you add roles  and other accessibility tags, say it was a button that did a API request.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lahpubokj223",
+			"parentId": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lahpqbzdx223",
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3lahpubokj223",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2024-11-08T21:30:07.724Z",
+			"content": "<p>Oh sorry, catalyst was highly inspired by Stencil, that's why I mention it here.</p>\n<p>I toy with trying to fork &amp; update, maintain, but I feel like not-the-dude what feels like very deliberate carefully planned librarying.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahq4nliik23",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lahpm6vw222v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahq4nliik23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T21:34:48.642Z",
+			"content": "<p>time for an ol’ fashioned twitter pile-on</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ej4vbhrcmi6em257zszwnxd7/app.bsky.feed.post/3lahrbkao3f25",
+			"parentId": "at://did:plc:fxipo3ogt5nrxjddervd4hxa/app.bsky.feed.post/3lahobb7ny22j",
+			"url": "https://bsky.app/profile/tonyward.dev/post/3lahrbkao3f25",
+			"private": true,
+			"date": "2024-11-08T21:55:26.453Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3lahrwuq2ll2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/darn.es/post/3lahrwuq2ll2h",
+			"author": {
+				"name": "David Darnes",
+				"url": "https://bsky.app/profile/darn.es",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bb34ozcdu5lm3ogte3gq433/bafkreieludkddmtzyhsba5xddcrjpaegp2zcokrr4sudtzhtg6zh5hmjeq"
+			},
+			"date": "2024-11-08T22:07:22.136Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahseushyk2h",
+			"parentId": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3lahrwuq2ll2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahseushyk2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T22:15:12.131Z",
+			"content": "<p>this is what founders do when they’re in founder mode</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahsi2e2d22h",
+			"parentId": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3lahpl3kuok2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahsi2e2d22h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T22:16:58.613Z",
+			"content": "<p>have I got a course for you <a href=\"https://scottjehl.com/learn/webcomponentsdemystified/\">scottjehl.com/learn/webcom...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7snhsby5f5a376a7vxkuagl3/app.bsky.feed.post/3lahsksqnx22x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/outamygaminmind.bsky.social/post/3lahsksqnx22x",
+			"author": {
+				"name": "OUTAmygaminmind",
+				"url": "https://bsky.app/profile/outamygaminmind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7snhsby5f5a376a7vxkuagl3/bafkreihg5qlf3rbt77vxsfobs7tc2sacsdz6lrrf5lxxwqsznkfwrd7urm"
+			},
+			"date": "2024-11-08T22:18:31.300Z",
+			"content": "<p>🫡</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ywpfbao467ds3p26cvcaukyk/app.bsky.feed.post/3laht4dmc622b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bretlittle.com/post/3laht4dmc622b",
+			"author": {
+				"name": "Bret Little",
+				"url": "https://bsky.app/profile/bretlittle.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywpfbao467ds3p26cvcaukyk/bafkreiecgmjyr7xiqwxli5qkxq4awob7c76kzuagyhwhzjiymyiicjwz5q"
+			},
+			"date": "2024-11-08T22:28:19.407Z",
+			"content": "<p>Great for some usecases. Horrible for others. IMHO.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahtz542ks2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahtz542ks2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T22:44:25.664Z",
+			"content": "<p>any good web components starter packs yet?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahuj6cvss2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahtz542ks2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahuj6cvss2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T22:53:23.808Z",
+			"content": "<p>well, I know of at least one, now: <a href=\"https://go.bsky.app/KvgKwov\">go.bsky.app/KvgKwov</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lahuj7dyfs2v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahtz542ks2n",
+			"url": "https://bsky.app/profile/davatron5000.bsky.social/post/3lahuj7dyfs2v",
+			"author": {
+				"name": "Dave Rupert",
+				"url": "https://bsky.app/profile/davatron5000.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjrpkham2fhwlxkthcch2sc2/bafkreig6jdzydan5pi5yieyq3nr4rcdepek63fr4izloda3c3nunf63spe"
+			},
+			"date": "2024-11-08T22:53:24.891Z",
+			"content": "<p><a href=\"https://go.bsky.app/3nDP8iq\">go.bsky.app/3nDP8iq</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahujyleds2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahuj6cvss2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahujyleds2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T22:53:51.347Z",
+			"content": "<p>(recommendations welcome)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3lahunhji4d2k",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lahuj7dyfs2v",
+			"url": "https://bsky.app/profile/darn.es/post/3lahunhji4d2k",
+			"author": {
+				"name": "David Darnes",
+				"url": "https://bsky.app/profile/darn.es",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bb34ozcdu5lm3ogte3gq433/bafkreieludkddmtzyhsba5xddcrjpaegp2zcokrr4sudtzhtg6zh5hmjeq"
+			},
+			"date": "2024-11-08T22:55:47.593Z",
+			"content": "<p>Had to double check I added you zach 😂</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahuwhkozs26",
+			"parentId": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3lahunhji4d2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahuwhkozs26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T23:00:49.708Z",
+			"content": "<p>an eventual consistency bug I’m sure 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7mtwqwynqlclmx7xgjxn3yja/app.bsky.feed.post/3lahuxbznsd2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nate.social/post/3lahuxbznsd2c",
+			"author": {
+				"name": "ñate",
+				"url": "https://bsky.app/profile/nate.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7mtwqwynqlclmx7xgjxn3yja/bafkreieczcezcshqbo2l6whkflx3deix33jwgrjijhsiacjugyayx6ixgy"
+			},
+			"date": "2024-11-08T23:01:17.397Z",
+			"content": "<p>I would *love* to believe that</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lahv6dv4w32u",
+			"parentId": "at://did:plc:nlvnr63jmz3v6eozqq2hx2hz/app.bsky.feed.post/3lahkqmg2of2j",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lahv6dv4w32u",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-08T23:05:15.984Z",
+			"content": "<p>Hey yes we can</p>\n<p><a href=\"https://thunderous.dev\">thunderous.dev</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:e2mc2tmqpkgrvrtr2qkwnnus/app.bsky.feed.post/3lahw4hb7vc2m",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lahpm6vw222v",
+			"url": "https://bsky.app/profile/diana2.bsky.social/post/3lahw4hb7vc2m",
+			"author": {
+				"name": "DIANA",
+				"url": "https://bsky.app/profile/diana2.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2mc2tmqpkgrvrtr2qkwnnus/bafkreigbin2cyyox6xokjdw63lm5mgts7paecquxwfyr3awpjzqgu5fhye"
+			},
+			"date": "2024-11-08T23:22:04.465Z",
+			"content": "<p>I'm taking your course on them now!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahwgkwjic2t",
+			"parentId": "at://did:plc:7mtwqwynqlclmx7xgjxn3yja/app.bsky.feed.post/3lahuxbznsd2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lahwgkwjic2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-08T23:27:43.854Z",
+			"content": "<p>crawl into my brain</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3lahwn5ficf2u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahuj6cvss2z",
+			"url": "https://bsky.app/profile/43081j.com/post/3lahwn5ficf2u",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2024-11-08T23:31:24.592Z",
+			"content": "<p>Just what I've been looking for! Good list so far 🙏</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lahyaps2xs2n",
+			"parentId": "at://did:plc:wjrpkham2fhwlxkthcch2sc2/app.bsky.feed.post/3lahuj7dyfs2v",
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3lahyaps2xs2n",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2024-11-09T00:00:15.108Z",
+			"content": "<p>I want to be here so bad. Someday I will have a real claim. But hopefully the list is full, teaming with brilliance, before my slow ass has any claim.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lahydj6wt22n",
+			"parentId": "at://did:plc:zjbq26wybii5ojoypkso2mso/app.bsky.feed.post/3lahyaps2xs2n",
+			"url": "https://bsky.app/profile/jauntywunderkind.bsky.social/post/3lahydj6wt22n",
+			"author": {
+				"name": "JauntyWunderKind",
+				"url": "https://bsky.app/profile/jauntywunderkind.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjbq26wybii5ojoypkso2mso/bafkreigma5nlttj6wbqvoiobpvqhztjf34w4jyv2qv2vzmqfrv4pzzeedu"
+			},
+			"date": "2024-11-09T00:01:48.852Z",
+			"content": "<p>I have like ~ 15 components I've made! That are probably a decade old now. Lol,<br>\n<a href=\"https://github.com/x-tag/x-tag\">github.com/x-tag/x-tag</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lahz3zajz22j",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3lahmp7n3gc2m",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lahz3zajz22j",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T00:15:30.988Z",
+			"content": "<p>You know I love you Justin but we may never see eye-to-eye on this one. :)</p>\n<p><a href=\"https://codepen.io/Jon-DeWitt/pen/oNKQpWw\">codepen.io/Jon-DeWitt/p...</a></p>\n<p>I tried making the class small and used the same helpers but I still can't find any advantage the class might have over a good ol function</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3lahzrt2wbk2l",
+			"parentId": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lahz3zajz22j",
+			"url": "https://bsky.app/profile/justinfagnani.com/post/3lahzrt2wbk2l",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://bsky.app/profile/justinfagnani.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ec64xv7n5dszeizw56yr6b5h/bafkreif2i73jwfh77gngf3yitfvlhceke4xruijblwxcg7e2m4wxin37q4"
+			},
+			"date": "2024-11-09T00:27:42.710Z",
+			"content": "<p>Now define public properties and methods. You end up having to re-invent some very class-like syntax.</p>\n<p>I also personally much prefer class fields to hold instance state. Much easier to scan than imperative hooks. Also much easier to inspect in the debugger.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3lai2addu5k2m",
+			"parentId": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lahz3zajz22j",
+			"url": "https://bsky.app/profile/43081j.com/post/3lai2addu5k2m",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2024-11-09T00:35:49.543Z",
+			"content": "<p>That's an odd comparison</p>\n<p>In your function component, you use helpers to define the element and the template (`customElement` and `html`). But you don't in the class, so it misleadingly looks more complex. <br>\nIf you did the same with the class, you'd greatly simplify the code</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai3i2rh5e2t",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3lai2addu5k2m",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lai3i2rh5e2t",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T00:58:04.593Z",
+			"content": "<p>I do use helpers in the class actually?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nxlvhnvp2lcii63qasl2dafg/app.bsky.feed.post/3lai3qzpzek26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chriscanal.bsky.social/post/3lai3qzpzek26",
+			"private": true,
+			"date": "2024-11-09T01:03:05.067Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai4ce52c22j",
+			"parentId": "at://did:plc:ec64xv7n5dszeizw56yr6b5h/app.bsky.feed.post/3lahzrt2wbk2l",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lai4ce52c22j",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T01:12:44.961Z",
+			"content": "<p>Here's the props! I'll be honest, I hadn't really considered public methods until just now. I wonder if that's a common enough use case...</p>\n<p><a href=\"https://codepen.io/Jon-DeWitt/pen/XWvyVwM\">codepen.io/Jon-DeWitt/p...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai4npvs7224",
+			"parentId": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai4ce52c22j",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lai4npvs7224",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T01:19:06.405Z",
+			"content": "<p>To be sure, it's not perfect just yet, but it's still early, version 0. The goal is to make this better for typescript...</p>\n<p>I guess the idea behind it is the important part.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3lai4zwc34s2g",
+			"parentId": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai3i2rh5e2t",
+			"url": "https://bsky.app/profile/43081j.com/post/3lai4zwc34s2g",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2024-11-09T01:25:55.751Z",
+			"content": "<p>Sorry I missed the `html` usage. You generally wouldn't be creating the shadow root yourself, or appending dom directly. Similar, the whole getRootNode expression wouldn't be a thing. Presumably your `customElement` helper does the first two in the function component</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai5mk7mg323",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3lai4zwc34s2g",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lai5mk7mg323",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T01:36:22.540Z",
+			"content": "<p>re: shadowRoot - That depends how conscientious you are. If you don't define it yourself, it will either be inaccessible or public.</p>\n<p>on getRootNode - I could recreate a similar customCallback helper, but that makes very little difference. That's what it sugars down to either way.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai5udq3tc2q",
+			"parentId": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai5mk7mg323",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lai5udq3tc2q",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T01:40:44.181Z",
+			"content": "<p>But the comparison isn't just verbosity (although even with helpers a class is still more verbose.)</p>\n<p>It's having everything available in the same procedural scope. No reliance on the `this` binding or implicit typing. Etc...</p>\n<p>private props = closure variables</p>\n<p>FP is turing-complete. That kinda thing</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai5wf6oun2t",
+			"parentId": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai5udq3tc2q",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3lai5wf6oun2t",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T01:41:52.717Z",
+			"content": "<p>anything classes can achieve, functions can too, but differently. And the comparison is intended to highlight that. What advantage does the class have here?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3lai76wsshs2g",
+			"parentId": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3lai5mk7mg323",
+			"url": "https://bsky.app/profile/43081j.com/post/3lai76wsshs2g",
+			"author": {
+				"name": "James",
+				"url": "https://bsky.app/profile/43081j.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7kxnbhtvb5cltkh6gaolfodf/bafkreidb2e2xl5e5tx3nxjctk3jqoq67lpeh56sgvoozgla3o5pqaezutm"
+			},
+			"date": "2024-11-09T02:04:31.556Z",
+			"content": "<p>I more meant that your helper is creating the root for you. Whereas in the class component, you do it yourself (which isn't what's common in the real world - usually a library or helper is used)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kwuy34nqosx7elsx2e42jlsf/app.bsky.feed.post/3laia3g3qqu2j",
+			"parentId": "at://did:plc:7kxnbhtvb5cltkh6gaolfodf/app.bsky.feed.post/3lai76wsshs2g",
+			"url": "https://bsky.app/profile/code-e-pendant.bsky.social/post/3laia3g3qqu2j",
+			"author": {
+				"name": "Code_E_Pendant",
+				"url": "https://bsky.app/profile/code-e-pendant.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwuy34nqosx7elsx2e42jlsf/bafkreiaytlgkuebmirvn2htiixijesdvyijklayxnwoqypx3eqgtjnohr4"
+			},
+			"date": "2024-11-09T02:20:29.088Z",
+			"content": "<p>You're not wrong, though I didn't want to build a framework just for the demonstration, lol. I didn't want to use Lit either or it would feel too much like I was dissing it in comparison to my own, and I don't wanna do that either, I respect Justin a lot</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u6cuniwisqpvc366qgchridm/app.bsky.feed.post/3laietsnd7a2u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lahujyleds2z",
+			"url": "https://bsky.app/profile/jameslandrum.com/post/3laietsnd7a2u",
+			"author": {
+				"name": "James Landrum",
+				"url": "https://bsky.app/profile/jameslandrum.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u6cuniwisqpvc366qgchridm/bafkreibmmflgiucplhdkhm6a4swjrvgniztdk4j44xgp54imosizr6t6fi"
+			},
+			"date": "2024-11-09T03:45:40.352Z",
+			"content": "<p>I got into heated fights defending them that got Vercel employees cussing me out and built a web version of Mac OS 9 using them does that count? 🤷</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:glanyz77dzd7frlnz7bqvdiv/app.bsky.feed.post/3laiiw6mgwi2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/shakesfirst.bsky.social/post/3laiiw6mgwi2q",
+			"private": true,
+			"date": "2024-11-09T04:58:35.733Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:im7qguaz7qgtcshl7wutkzkq/app.bsky.feed.post/3laisonkv4t2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/xdder.bsky.social/post/3laisonkv4t2l",
+			"author": {
+				"name": "xdder (xdding)",
+				"url": "https://bsky.app/profile/xdder.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:im7qguaz7qgtcshl7wutkzkq/bafkreiaaqc67m4ey4ymtuo6lhlmqj6f7azqihdhe4xmanomjsyoj6xqhae"
+			},
+			"date": "2024-11-09T07:53:19.220Z",
+			"content": "<p>Although I, as a backend dev, disagree, I have to admit that this is a based take</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:jrfasgrfx46fby4mn5qskd4k/app.bsky.feed.post/3laiwuusikz2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/andreasmoller.dk/post/3laiwuusikz2z",
+			"author": {
+				"name": "Andreas Møller",
+				"url": "https://bsky.app/profile/andreasmoller.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jrfasgrfx46fby4mn5qskd4k/bafkreicpp4yxuei4wbe44klmbfmihaftwvbi6o6ti3jok74ozvvhfxjmbq"
+			},
+			"date": "2024-11-09T09:08:23.566Z",
+			"content": "<p>They are great for somethings and WAY underused.</p>\n<p>Every company that offer us components as part of their offering should almost certainly be using web-components</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vce56kmbz2n3363unhk2t2tt/app.bsky.feed.post/3lau5lwu6zc2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/munawwar.bsky.social/post/3lau5lwu6zc2d",
+			"author": {
+				"name": "Munawwar Firoz",
+				"url": "https://bsky.app/profile/munawwar.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vce56kmbz2n3363unhk2t2tt/bafkreicqen3qokkhhgbfebxwkcngb7to6usbitr7ceoxhrefjt4hxiga3e"
+			},
+			"date": "2024-11-13T20:07:57.186Z",
+			"content": "<p>And you the only person I know who writes vanilla web components like a boss! 🔥</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lau5sgbwak2j",
+			"parentId": "at://did:plc:vce56kmbz2n3363unhk2t2tt/app.bsky.feed.post/3lau5lwu6zc2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lau5sgbwak2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-13T20:11:34.690Z",
+			"content": "<p>haha, thank you 🙌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lau5t77jok2j",
+			"parentId": "at://did:plc:vce56kmbz2n3363unhk2t2tt/app.bsky.feed.post/3lau5lwu6zc2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lau5t77jok2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-13T20:12:00.826Z",
+			"content": "<p>a few more folks here: <a href=\"https://bsky.app/starter-pack/zachleat.com/3lahui7zefw2s\">bsky.app/starter-pack...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3laujc5lttc2v",
+			"parentId": "at://did:plc:vce56kmbz2n3363unhk2t2tt/app.bsky.feed.post/3lau5lwu6zc2d",
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3laujc5lttc2v",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2024-11-13T23:37:13.608Z",
+			"content": "<p>You write vanilla web components... like some kind of psychopath???</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vce56kmbz2n3363unhk2t2tt/app.bsky.feed.post/3lausicll5k2p",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3laujc5lttc2v",
+			"url": "https://bsky.app/profile/munawwar.bsky.social/post/3lausicll5k2p",
+			"author": {
+				"name": "Munawwar Firoz",
+				"url": "https://bsky.app/profile/munawwar.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vce56kmbz2n3363unhk2t2tt/bafkreicqen3qokkhhgbfebxwkcngb7to6usbitr7ceoxhrefjt4hxiga3e"
+			},
+			"date": "2024-11-14T02:21:43.844Z",
+			"content": "<p>He didn't have to upgrade lit from v1 to v2 to v3 because he kept it vanilla ... big brain move!</p>\n<p>*But*, he doesn't have software upgrade stories to tell his grandkids about. Sad, eh?</p>",
+			"via": "bluesky"
+		}
+	]
+}

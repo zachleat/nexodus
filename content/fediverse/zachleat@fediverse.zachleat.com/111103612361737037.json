@@ -1,0 +1,72 @@
+{
+	"comments": [
+		{
+			"id": "111103627564432822",
+			"parentId": 0,
+			"url": "https://mastodon.social/@autiomaa/111103627521498279",
+			"private": true,
+			"date": "2023-09-21T14:33:36.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103640640210143",
+			"parentId": 0,
+			"url": "https://mastodon.social/@marcus/111103640595753157",
+			"author": {
+				"name": "Marcus Herrmann",
+				"url": "https://mastodon.social/@marcus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/546/229/731/829/original/8054698f9ae8b918.jpeg"
+			},
+			"date": "2023-09-21T14:36:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It’s kind of like a community of butchers saying “It's so fun to make the sausage, we don’t care if it is edible, someone will fix that”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103650724349398",
+			"parentId": "111103640640210143",
+			"url": "https://fediverse.zachleat.com/@zachleat/111103650724349398",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T14:39:30.475Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@marcus\" class=\"u-url mention\">@<span>marcus</span></a></span> it’s a very Silicon Valley mentality, I think—unsurprisingly popularized by Facebook!</p><p>Move fast and break things, indeed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111103678862641605",
+			"parentId": 0,
+			"url": "https://masto.ai/@p4/111103678798377734",
+			"author": {
+				"name": "P4",
+				"url": "https://masto.ai/@p4",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/470/808/221/262/660/original/16c8aa861e7dcd85.jpg"
+			},
+			"date": "2023-09-21T14:46:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"we don't need to think about performance, the JIT will just magic all of the problems away and make it fast for us.\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111108583698497049",
+			"parentId": "111103650724349398",
+			"url": "https://mastodon.social/@ollicle/111108583665255859",
+			"private": true,
+			"date": "2023-09-22T11:34:01.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111108855670726399",
+			"parentId": 0,
+			"url": "https://indieweb.social/@nachtfunke/111108855621700027",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-09-22T12:43:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes it absolutely does. The blatant arrogance and ignorance is really the thing that makes me so furious</p>",
+			"via": "fediverse"
+		}
+	]
+}

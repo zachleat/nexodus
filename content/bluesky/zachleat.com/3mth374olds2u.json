@@ -1,0 +1,103 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mth3esnt3s2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/knowler.dev/post/3mth3esnt3s2b",
+			"private": true,
+			"date": "2026-08-19T15:48:26.836Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mth3hvns3s2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mth3hvns3s2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T15:50:10.644Z",
+			"content": "<p>I do really appreciate author attribution links though, Mastodon does that nicely: <a href=\"https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/\">blog.joinmastodon.org/2024/07/high...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mth3iof3f22d",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mth3esnt3s2b",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3mth3iof3f22d",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2026-08-19T15:50:36.573Z",
+			"content": "<p>I agree but also it took me a boatload of work to fully replicate for the preview in Polypane so please nobody change anything.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mth3jmwye22h",
+			"parentId": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3mth3esnt3s2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mth3jmwye22h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T15:51:08.616Z",
+			"content": "<p>yes! way too visually prominent</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mth3kalwdc2h",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mth3iof3f22d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mth3kalwdc2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T15:51:29.226Z",
+			"content": "<p>…oh no</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3mth44jpuds2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/richholman.com/post/3mth44jpuds2t",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://bsky.app/profile/richholman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fsgldxdhhtceel4mzjwko3ta/bafkreiewi2ur6qxzco7yrgr6h2saxguk4566paaicw23ijgc5oti2iq4du"
+			},
+			"date": "2026-08-19T16:01:42.771Z",
+			"content": "<p>Yeah. I rushed to add one to my sites and then realised the link works quite well in the post. Nice concept, low utility.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mth6bvfqfk2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3mth6bvfqfk2m",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-08-19T16:40:30.279Z",
+			"content": "<p>there should be a user setting to conditionally remove it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mth6qmdxhs2f",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mth6bvfqfk2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mth6qmdxhs2f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-19T16:48:44.100Z",
+			"content": "<p>they should add one user setting that I can set and apply it to the entire platform *runs away*</p>",
+			"via": "bluesky"
+		}
+	]
+}

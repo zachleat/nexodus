@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mhbqrblees26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cthos.dev/post/3mhbqrblees26",
+			"author": {
+				"name": "Cthos",
+				"url": "https://bsky.app/profile/cthos.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4o6o6re5hrzy4v5acedmufj4/bafkreicm4q4nnexbtsyym466ur5g2merz74is6z7emgtf7yiyld7r3cg34"
+			},
+			"date": "2026-03-17T19:52:55.751Z",
+			"content": "<p>But have you considered: interpretive dance?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3w3ryyaiyrmo6ffwztlkxwma/app.bsky.feed.post/3mhbsblxpfk24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/karks.com/post/3mhbsblxpfk24",
+			"author": {
+				"name": "Eric Karkovack",
+				"url": "https://bsky.app/profile/karks.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3w3ryyaiyrmo6ffwztlkxwma/bafkreigsearg4egeqny3q4rw5chscjidooqvtwhr43s7marthzzdib77va"
+			},
+			"date": "2026-03-17T20:19:57.255Z",
+			"content": "<p>Try receiving all feedback in a haptic format - it's like getting a massage!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhbsmkib3k26",
+			"parentId": "at://did:plc:4o6o6re5hrzy4v5acedmufj4/app.bsky.feed.post/3mhbqrblees26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mhbsmkib3k26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-17T20:26:04.799Z",
+			"content": "<p>I’m open to pivoting, let’s log this in a ticket and add it to our next strategic discussion action items</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhbsoa3lpk26",
+			"parentId": "at://did:plc:3w3ryyaiyrmo6ffwztlkxwma/app.bsky.feed.post/3mhbsblxpfk24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mhbsoa3lpk26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-17T20:27:01.007Z",
+			"content": "<p>boxers also receive haptic-based feedback from their opponents</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3w3ryyaiyrmo6ffwztlkxwma/app.bsky.feed.post/3mhbu5uvnuk25",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhbsoa3lpk26",
+			"url": "https://bsky.app/profile/karks.com/post/3mhbu5uvnuk25",
+			"author": {
+				"name": "Eric Karkovack",
+				"url": "https://bsky.app/profile/karks.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3w3ryyaiyrmo6ffwztlkxwma/bafkreigsearg4egeqny3q4rw5chscjidooqvtwhr43s7marthzzdib77va"
+			},
+			"date": "2026-03-17T20:53:39.890Z",
+			"content": "<p>Good point!</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ntaodgsfp5jeeagaqolnr2dp/app.bsky.feed.post/3lpryokorys2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nerdcowboy.bsky.social/post/3lpryokorys2i",
+			"author": {
+				"name": "Brent Larson",
+				"url": "https://bsky.app/profile/nerdcowboy.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ntaodgsfp5jeeagaqolnr2dp/bafkreihqyebit7juuzz3xiqn7to4wadmkrg2x5y7wralkguhnkucgummiu"
+			},
+			"date": "2025-05-22T20:52:31.319Z",
+			"content": "<p>wasn't it security issues?<br>\n<a href=\"https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched\">www.theverge.com/2024/9/20/24...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lprysd4fgk2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lprysd4fgk2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-22T20:54:37.593Z",
+			"content": "<p>Thank you to <a href=\"https://bsky.app/profile/did:plc:ntaodgsfp5jeeagaqolnr2dp\">@nerdcowboy.bsky.social</a>:</p>\n<p><a href=\"https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched\">www.theverge.com/2024/9/20/24...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lps3ct3dhs2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3lps3ct3dhs2i",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-05-22T21:39:38.692Z",
+			"content": "<p>They realised it was maybe a bad idea when the CEOs account was the one that got popped</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lps4ijlmcs2j",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lps3ct3dhs2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lps4ijlmcs2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-22T22:00:43.807Z",
+			"content": "<p>whoa — what</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lpsanwhaps2x",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lps4ijlmcs2j",
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3lpsanwhaps2x",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-05-22T23:15:20.035Z",
+			"content": "<p><a href=\"https://kibty.town/blog/arc/\">kibty.town/blog/arc/</a> write up of the hole 🕳️ that allowed any account to be exploited</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lptnm5r2wk2m",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lpsanwhaps2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lptnm5r2wk2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T12:39:38.970Z",
+			"content": "<p>ahh yeah I did read that but I didn’t see any reference to the CEO’s account being compromised (though it very easily *could* have)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lptp3kxbes2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lptnm5r2wk2m",
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3lptp3kxbes2s",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-05-23T13:06:09.863Z",
+			"content": "<p>I don’t remember where that tidbit of info came from 🧠 but as I recall the exploit demo used the ceos account in a non threatening manner as a high impact case</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lptp5u2fw222",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3lptp3kxbes2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lptp5u2fw222",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-05-23T13:07:26.512Z",
+			"content": "<p>they rolled back the whole feature 😅😅😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

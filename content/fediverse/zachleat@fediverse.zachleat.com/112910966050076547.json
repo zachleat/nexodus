@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "112911107885179645",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112911107827867310",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-05T19:39:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> uhhhhhh “sure more cpu means more money but faster execution time eh eh?” Sure seems like a dark pattern when they round the execution times up, right?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911156978018046",
+			"parentId": "112911107885179645",
+			"url": "https://fediverse.zachleat.com/@zachleat/112911156978018046",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T19:52:07.130Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> yeah, that part but also these are maximums—it’d be nice to see CPU or memory utilization metrics at the current vCPU setting</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911182269398409",
+			"parentId": "112911156978018046",
+			"url": "https://mastodon.cthos.dev/@cthos/112911182212783565",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-08-05T19:58:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The math does get a little fuzzy, even AWS has some \"interesting\" guidance for this: <a href=\"https://docs.aws.amazon.com/lambda/latest/operatorguide/computing-power.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.aws.amazon.com/lambda/lat</span><span class=\"invisible\">est/operatorguide/computing-power.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112911571148898807",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112911571148898807",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-05T21:37:26.874Z",
+			"content": "<p>I made a little chart comparing how a few different hosts charge for serverless execution time (normalized to hours of usage) and the vCPU default can cost you a lot of unnecessary money if you’re not paying attention!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112913489253147724",
+			"parentId": "112911571148898807",
+			"url": "https://dementedandsadbut.social/@genehack/112913489199968552",
+			"author": {
+				"name": "genehack",
+				"url": "https://dementedandsadbut.social/@genehack",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/430/998/101/369/980/original/51e7fa7171386411.jpg"
+			},
+			"date": "2024-08-06T05:45:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> thanks for putting together! this is a nitpick,  but your legend would be easier to read sorted by service, then size, versus the current pseudo random order.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112915637074926183",
+			"parentId": "112913489253147724",
+			"url": "https://fediverse.zachleat.com/@zachleat/112915637074926183",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-06T14:51:27.988Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://dementedandsadbut.social/@genehack\" class=\"u-url mention\">@<span>genehack</span></a></span> yeah, 100%.</p>",
+			"via": "fediverse"
+		}
+	]
+}

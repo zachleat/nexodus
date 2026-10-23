@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "109394775350148931",
+			"parentId": 0,
+			"url": "https://mastodon.social/@matuzo/109394775240410765",
+			"author": {
+				"name": "Manuel Matuzović",
+				"url": "https://mastodon.social/@matuzo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/289/645/066/172/057/original/623c5bdd26bdbd0e.png"
+			},
+			"date": "2022-11-23T19:29:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> haha yeah but I don't believe that anyone could've predicted just how bad it  would get.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109394779597527450",
+			"parentId": "109394775350148931",
+			"url": "https://fediverse.zachleat.com/@zachleat/109394779597527450",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-11-23T19:31:06.416Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matuzo\" class=\"u-url mention\">@<span>matuzo</span></a></span> whew, absolutely right.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109395252456859061",
+			"parentId": 0,
+			"url": "https://front-end.social/@mike/109395252433439974",
+			"author": {
+				"name": "Mike",
+				"url": "https://front-end.social/@mike",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/368/545/643/992/816/original/63fa9ee632b37669.jpg"
+			},
+			"date": "2022-11-23T21:31:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@matuzo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matuzo</span></a></span> he's our canary.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,168 @@
+{
+	"comments": [
+		{
+			"id": "111364628158153653",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@papayaga/111364628010722100",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2023-11-06T16:49:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@zkat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zkat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ollicle</span></a></span> I may already have a little project that uses KDL with 11ty.</p><p>And I may need to clean it up and get it out in the world.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364630851933348",
+			"parentId": 0,
+			"url": "https://indieweb.social/@tbeseda/111364628797899440",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2023-11-06T16:49:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> very rarely am I on board with another file doc lang, but I'm hopeful for KDL. TOML is the worst, YAML is all over the place. And I think JSON should be the default, but it can be too strict and not expressive enough. Ain't no way I’m writing XML as config.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111364672275317378",
+			"parentId": "111364628158153653",
+			"url": "https://toot.cat/@zkat/111364672032098981",
+			"author": {
+				"name": "Katerina Marchán",
+				"url": "https://toot.cat/@zkat",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-06T17:00:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@papayaga\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>papayaga</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ollicle</span></a></span> 👀👀👀👀👀👀👀</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111365181706665472",
+			"parentId": 0,
+			"url": "https://alpha.polymaths.social/@roguefoam/statuses/01HEK0NTA3S2WGH9XKBFZZRJ31",
+			"author": {
+				"name": "CJ",
+				"url": "https://alpha.polymaths.social/@roguefoam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/087/790/880/860/235/original/059113c51f27f89f.jpg"
+			},
+			"date": "2023-11-06T19:10:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://toot.cat/@zkat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zkat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ollicle</span></a></span> Any chance it ends up as a potential contender for replacing YAML front-matter in 11ty?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111365220685966925",
+			"parentId": "111365181706665472",
+			"url": "https://fediverse.zachleat.com/@zachleat/111365220685966925",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-06T19:20:11.347Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://alpha.polymaths.social/@roguefoam\" class=\"u-url mention\">@<span>roguefoam</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@zkat\" class=\"u-url mention\">@<span>zkat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\">@<span>ollicle</span></a></span> I believe it’d be pretty straightforward to change this today in any Eleventy project. Unlikely we’ll change the Eleventy-wide default though, that’d be too much of a breaking change</p><p><a href=\"https://www.11ty.dev/docs/data-frontmatter-customize/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/data-frontmatter</span><span class=\"invisible\">-customize/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111365227849337225",
+			"parentId": "111365220685966925",
+			"url": "https://toot.cat/@zkat/111365227221867013",
+			"author": {
+				"name": "Katerina Marchán",
+				"url": "https://toot.cat/@zkat",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-06T19:21:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://alpha.polymaths.social/@roguefoam\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roguefoam</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ollicle</span></a></span> the biggest challenge for anyone trying to replace yaml with KDL is that KDL isn't a JSON-style data representation format. It's node-based, like XML, so you need to handle your data a little differently</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111366314878762543",
+			"parentId": "111364672275317378",
+			"url": "https://hachyderm.io/@papayaga/111366314846749977",
+			"author": {
+				"name": "vincent",
+				"url": "https://hachyderm.io/@papayaga",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/772/102/774/585/original/1aa37fcd9aa49e65.jpg"
+			},
+			"date": "2023-11-06T23:58:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@zkat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zkat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ollicle</span></a></span> ...and i'm back!</p><p>here is JALD, a web dashboard/launcher i've been tinkering with off-and-on this year: <a href=\"https://github.com/vfalconi/jald\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vfalconi/jald</span><span class=\"invisible\"></span></a></p><p>i use KDL to define the content in each dashboard.</p><p>and while we're at it, it doesn't include 11ty, but i also made a KDL-driven scraper for weather data: <a href=\"https://github.com/vfalconi/weather-mon\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vfalconi/weather-mo</span><span class=\"invisible\">n</span></a></p><p>straight up, slowly but surely, i'm putting KDL into every fun project of mine that has a config more complex than key-pair. love it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111366956245089190",
+			"parentId": "111365227849337225",
+			"url": "https://mastodon.social/@ollicle/111366956226452411",
+			"private": true,
+			"date": "2023-11-07T02:41:33.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113745120558407472",
+			"parentId": "111365227849337225",
+			"url": "https://mastodon.social/@ollicle/113745120500780533",
+			"author": {
+				"name": "Ollie Boermans",
+				"url": "https://mastodon.social/@ollicle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/494/731/887/601/original/cd153c11973efda8.png"
+			},
+			"date": "2024-12-31T02:40:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@zkat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zkat</span></a></span> I got into this and discovered exactly what you meant here. Was indeed kinda awkward using an informal subset of KDL. JiK is the medicine!</p><p>I revisited KDL in 11ty post 2.0.0 and can report progress:<br><a href=\"https://ollicle.com/2024/dec/31/11ty-kdl/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ollicle.com/2024/dec/31/11ty-k</span><span class=\"invisible\">dl/</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://alpha.polymaths.social/@roguefoam\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roguefoam</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113745175699349555",
+			"parentId": "113745120558407472",
+			"url": "https://toot.cat/@zkat/113745175378174312",
+			"author": {
+				"name": "Katerina Marchán",
+				"url": "https://toot.cat/@zkat",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-12-31T02:53:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ollicle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://alpha.polymaths.social/@roguefoam\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roguefoam</span></a></span> this is really nice!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113745188081176647",
+			"parentId": "113745175699349555",
+			"url": "https://toot.cat/@zkat/113745187992359318",
+			"author": {
+				"name": "Katerina Marchán",
+				"url": "https://toot.cat/@zkat",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-12-31T02:57:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ollicle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ollicle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://alpha.polymaths.social/@roguefoam\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roguefoam</span></a></span> oh and, you should also be able to do: <code>(array) tags foo</code> instead of having to create children. Idk if  that’s js parser handles that case though</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113745207105487377",
+			"parentId": "113745188081176647",
+			"url": "https://mastodon.social/@ollicle/113745207008423880",
+			"author": {
+				"name": "Ollie Boermans",
+				"url": "https://mastodon.social/@ollicle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/494/731/887/601/original/cd153c11973efda8.png"
+			},
+			"date": "2024-12-31T03:02:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@zkat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zkat</span></a></span> ooh, I just tried it. `(array)` indeed works 👏<br>Thanks, I’ll make an update.<br><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://alpha.polymaths.social/@roguefoam\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roguefoam</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113745215007205486",
+			"parentId": "113745175699349555",
+			"url": "https://mastodon.social/@ollicle/113745214898341127",
+			"author": {
+				"name": "Ollie Boermans",
+				"url": "https://mastodon.social/@ollicle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/494/731/887/601/original/cd153c11973efda8.png"
+			},
+			"date": "2024-12-31T03:04:01.000Z",
+			"content": "<p>@zkat@toot.catI Yay! I just want the nice things to be friends together. Like fan-fiction for open source.<br> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  <span class=\"h-card\" translate=\"no\"><a href=\"https://alpha.polymaths.social/@roguefoam\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roguefoam</span></a></span></p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "110159383023236310",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/110159382975907218",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-04-07T20:19:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was thinking, what the hell is this webc thing? Browsers do this now? And then I realised what it is :) Maybe the pros and cons section should have “requires a build step” item and maybe a “requires 11ty” item? But that aside, this is neat and a really useful summary, thank you. I didn’t realise that the declarative shadow root stuff is pretty much usable now!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110159413615298458",
+			"parentId": "110159383023236310",
+			"url": "https://fediverse.zachleat.com/@zachleat/110159413615298458",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-07T20:27:35.608Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> Good feedback, thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110163338028860666",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/110163337994023186",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-04-08T13:05:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’d love to know more about the actual time difference to go from three starts to one in the performance section for DSD to CSSD. I get the star cost of requiring JS, but for such a trivial component, I’d say the difference would be negligible and for more complex components I’ve seen, with out numbers to share right now 😓, CSSD be as fast or faster than DSD. </p><p>As in all things, the “it depends” is strong with this one, I know.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110163348555155680",
+			"parentId": "110163338028860666",
+			"url": "https://mastodon.social/@westbrook/110163348465864042",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2023-04-08T13:08:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It would also be cool to see if the duplication costs you‘ve listed are dev time or view time expenses. With a tool, like 11ty, you’re not quoted to duplicate that data yourself and with gzip/brotli the actual file size costs of that duplication seem to be mostly nullified?</p><p>I’m definitely pushing for shareable stylesheets in this area, the new @​sheets proposal should help here, but there may still one piece of API missing if you want those @​sheets to be in an inline &lt;style&gt; tag.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110163866046476147",
+			"parentId": "110163348555155680",
+			"url": "https://fediverse.zachleat.com/@zachleat/110163866046476147",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-08T15:19:54.316Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> I would really love an old fashioned blog-off on this one! I think there is plenty of nuance to be had here!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdysdz622u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/splitinfinities.com/post/3mvrdysdz622u",
+			"author": {
+				"name": "William Allyn Nova (he/they)",
+				"url": "https://bsky.app/profile/splitinfinities.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kw25jotasurb5wwnqnvotxm3/bafkreifyf34l6afpd2k5f6lm6pucogs6y34gjckmzlyvhgqx7z5iwqyhqy"
+			},
+			"date": "2026-09-18T04:39:48.170Z",
+			"content": "<p>With the recalcs I’m also curious if css containment has any positive impact. That was a thing I wanted to see stencil have back in the day since adding the style tag would trigger expensive recalcs but using the constructae/adoptedStylesheets significantly improved recalc/restyles.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdzs7hac2u",
+			"parentId": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdysdz622u",
+			"url": "https://bsky.app/profile/splitinfinities.com/post/3mvrdzs7hac2u",
+			"author": {
+				"name": "William Allyn Nova (he/they)",
+				"url": "https://bsky.app/profile/splitinfinities.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kw25jotasurb5wwnqnvotxm3/bafkreifyf34l6afpd2k5f6lm6pucogs6y34gjckmzlyvhgqx7z5iwqyhqy"
+			},
+			"date": "2026-09-18T04:40:21.582Z",
+			"content": "<p>Constructible* lol</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvzzek5yxc2k",
+			"parentId": "at://did:plc:kw25jotasurb5wwnqnvotxm3/app.bsky.feed.post/3mvrdysdz622u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mvzzek5yxc2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-21T15:23:28.730Z",
+			"content": "<p>that would be interesting to test!</p>",
+			"via": "bluesky"
+		}
+	]
+}

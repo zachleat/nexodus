@@ -1,0 +1,103 @@
+{
+	"comments": [
+		{
+			"id": "111308599052629171",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sobral/111308597268959008",
+			"author": {
+				"name": "Sobral",
+				"url": "https://mastodon.social/@sobral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/388/467/164/418/768/original/5fc8a2ab5e13c58e.png"
+			},
+			"date": "2023-10-27T19:20:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>, what they did?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308607427910013",
+			"parentId": "111308599052629171",
+			"url": "https://fediverse.zachleat.com/@zachleat/111308607427910013",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-27T19:22:41.585Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sobral\" class=\"u-url mention\">@<span>sobral</span></a></span> who is “they” in this question? The take I read was not from an official company representative (if that helps)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308659746982006",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/111308659416431050",
+			"private": true,
+			"date": "2023-10-27T19:35:54.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308687307204486",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/111308687270086147",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-10-27T19:42:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> someone warming up for their political career</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308752390704550",
+			"parentId": 0,
+			"url": "https://mone.dev/@matt/111308752336635424",
+			"author": {
+				"name": "Matthew Mone",
+				"url": "https://mone.dev/@matt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/474/476/684/145/798/original/0f165886c3a40594.jpg"
+			},
+			"date": "2023-10-27T19:59:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>In a time when we still hear \"Apple's iOS browser monopoly is good actually\" I can't say I'm surprised.<br>People will convince themselves of anything to not feel wrong.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308945277607900",
+			"parentId": 0,
+			"url": "https://ruby.social/@Kowfm/111308945245851014",
+			"author": {
+				"name": "Karl Oscar Weber",
+				"url": "https://ruby.social/@Kowfm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/179/437/243/965/original/3149424c6c3b6da4.png"
+			},
+			"date": "2023-10-27T20:48:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> DUDE! I built a small site using a similar speedy framework with the intent to deploy to netlify. I found that I could only deploy to their proprietary host or AWS, and IMMEDIATELY converted it to be static. Not messing with that shit anymore.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308948830316233",
+			"parentId": "111308945277607900",
+			"url": "https://fediverse.zachleat.com/@zachleat/111308948830316233",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-27T20:49:30.970Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ruby.social/@Kowfm\" class=\"u-url mention\">@<span>Kowfm</span></a></span> Static is the safest bet, 100%.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111309052115394392",
+			"parentId": "111308607427910013",
+			"url": "https://mastodon.social/@sobral/111309052080639668",
+			"author": {
+				"name": "Sobral",
+				"url": "https://mastodon.social/@sobral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/388/467/164/418/768/original/5fc8a2ab5e13c58e.png"
+			},
+			"date": "2023-10-27T21:15:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>, Vercel. Yeah, that helps. Thank you!</p>",
+			"via": "fediverse"
+		}
+	]
+}

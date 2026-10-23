@@ -1,0 +1,376 @@
+{
+	"comments": [
+		{
+			"id": "111383004141378116",
+			"parentId": 0,
+			"url": "https://toot.cafe/@_web_/111383004065861007",
+			"author": {
+				"name": "Sascha Karnatz",
+				"url": "https://toot.cafe/@_web_",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/550/537/794/748/264/original/7aa36a3cda3e12e8.png"
+			},
+			"date": "2023-11-09T22:42:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> at the moment Web Components are my silver bullet.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383056611490011",
+			"parentId": "111383004141378116",
+			"url": "https://fediverse.zachleat.com/@zachleat/111383056611490011",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-09T22:56:05.972Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@_web_\" class=\"u-url mention\">@<span>_web_</span></a></span> glad you’re getting mileage out of them!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383166619530431",
+			"parentId": 0,
+			"url": "https://toot.cafe/@bkardell/111383166331246557",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2023-11-09T23:24:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383169104300887",
+			"parentId": "111383166619530431",
+			"url": "https://toot.cafe/@bkardell/111383169029186653",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2023-11-09T23:24:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Jk this is a perfect and nuanced twoot. A+ <br>10/10</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383176792146470",
+			"parentId": "111383169104300887",
+			"url": "https://fediverse.zachleat.com/@zachleat/111383176792146470",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-09T23:26:39.782Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> feel the shadow dom flow through you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383361480901913",
+			"parentId": "111383176792146470",
+			"url": "https://mastodon.social/@sil/111383361374255340",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-11-10T00:13:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bkardell</span></a></span> \"this is how it feels to be Anakin Skywalker, forever: the light DOM burns you. It will always burn you\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383513691411458",
+			"parentId": 0,
+			"url": "https://front-end.social/@chriscoyier/111383513656341191",
+			"author": {
+				"name": "Chris Coyier",
+				"url": "https://front-end.social/@chriscoyier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/727/940/072/717/original/3ab3da2cd9d6bdda.jpg"
+			},
+			"date": "2023-11-10T00:52:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm super down with \"Shadow DOM is not a good default\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383590519534868",
+			"parentId": 0,
+			"url": "https://mastodon.cloud/@paddy/111383590489387975",
+			"author": {
+				"name": "Paddy",
+				"url": "https://mastodon.cloud/@paddy",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-10T01:11:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is there a write-up you recommend (offhand, I can Google myself if you don't have one in mind) of the trade-offs?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383889744608437",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@hi_mayank/111383889706708552",
+			"author": {
+				"name": "Mayank",
+				"url": "https://hachyderm.io/@hi_mayank",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/537/854/661/930/239/original/b8baffd372e33aa8.jpeg"
+			},
+			"date": "2023-11-10T02:27:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there are many good use cases for shadow dom!</p><p>ultra isolated content like data visualization, animated illustrations, ads, third-party widgets, video players, 3D objects…</p><p>these use cases are very specialized, and will only form a small percentage of most websites consist of</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383895955472648",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/111383895890975567",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-11-10T02:29:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Good to know as I have yet to start the journey.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111383918073720249",
+			"parentId": "111383513691411458",
+			"url": "https://techhub.social/@develwithoutacause/111383918022315878",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2023-11-10T02:35:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm curious to hear what you both think are the common \"default\" problems Shadow DOM fails to solve?</p><p>Are there any specific shortcomings where you think there are better alternatives?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111384016407886999",
+			"parentId": "111383918073720249",
+			"url": "https://front-end.social/@chriscoyier/111384016119647621",
+			"author": {
+				"name": "Chris Coyier",
+				"url": "https://front-end.social/@chriscoyier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/727/940/072/717/original/3ab3da2cd9d6bdda.jpg"
+			},
+			"date": "2023-11-10T03:00:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's styling for me. ::part and custom properties sneaking through are not real styling solutions. Plopping a chunk of CSS into a template literal I think is clunky and weird. Adopted stylesheets are another request and also weird. So just screw it. Light DOM. I want to use my regular CSS to style things. *generally*.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111384227259073455",
+			"parentId": "111383176792146470",
+			"url": "https://mastodon.social/@ollicle/111384227229043389",
+			"private": true,
+			"date": "2023-11-10T03:53:48.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111384700596604076",
+			"parentId": "111383513691411458",
+			"url": "https://mastodon.social/@xro/111384700563701836",
+			"author": {
+				"name": "Raphael",
+				"url": "https://mastodon.social/@xro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/140/932/964/665/original/44eb3ac301f13a36.jpeg"
+			},
+			"date": "2023-11-10T05:54:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>I think context is important here regarding defaults. For my personal components I‘d rarely use Shadow DOM, but for a lib with a lot of uncertaint usage scenarios and distribution on a per-component basis, Shadow DOM seems like a reasonable default in a lot of cases.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111384988232526720",
+			"parentId": "111384016407886999",
+			"url": "https://mastodon.social/@jakelazaroff/111384988177631235",
+			"author": {
+				"name": "jake lazaroff",
+				"url": "https://mastodon.social/@jakelazaroff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/829/533/556/740/279/original/69a92e79689324bc.png"
+			},
+			"date": "2023-11-10T07:07:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> i’m also in this camp, but slots are only usable with shadow DOM. <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justinfagnani</span></a></span> proposed “open-stylable” shadow roots which seem like the best of both worlds: <a href=\"https://github.com/WICG/webcomponents/issues/909\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WICG/webcomponents/</span><span class=\"invisible\">issues/909</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111385094289961434",
+			"parentId": "111384988232526720",
+			"url": "https://techhub.social/@develwithoutacause/111385094252600996",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2023-11-10T07:34:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justinfagnani</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I get the need, but I feel like open-styleable is a nuclear option.</p><p>I'm all for improvements to APIs like CSS parts, and I'd rather fix those than throw away style isolation altogether.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387206434526682",
+			"parentId": "111385094289961434",
+			"url": "https://fediverse.zachleat.com/@zachleat/111387206434526682",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-10T16:31:27.248Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\">@<span>justinfagnani</span></a></span> I love the style isolation too but requiring shadow DOM for this jumps ahead a few steps for me! Is it future-feasible to get slots and style isolation with light DOM?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387229624565890",
+			"parentId": "111383918073720249",
+			"url": "https://fediverse.zachleat.com/@zachleat/111387229624565890",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-10T16:37:21.099Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\">@<span>chriscoyier</span></a></span> ah I did a whole talk on this! 😅</p><p><a href=\"https://www.zachleat.com/web/jsheroes/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/jsheroes/</span><span class=\"invisible\"></span></a> is probably the best video of it—I wish I had a blog post representing the thoughts in the talk, hmm</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387236985520893",
+			"parentId": "111383590519534868",
+			"url": "https://fediverse.zachleat.com/@zachleat/111387236985520893",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-10T16:39:13.418Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@paddy\" class=\"u-url mention\">@<span>paddy</span></a></span> I did a talk on this topic! <a href=\"https://www.zachleat.com/web/jsheroes/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/jsheroes/</span><span class=\"invisible\"></span></a> (I need to write a blog post too 😭)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387255876311073",
+			"parentId": "111383889744608437",
+			"url": "https://mastodon.design/@DavidDarnes/111387255797407239",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2023-11-10T16:44:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@hi_mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>hi_mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> would you say Shadow DOM is good for obscuring complexity that isn't needed for the user?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387260595568939",
+			"parentId": "111387255876311073",
+			"url": "https://fediverse.zachleat.com/@zachleat/111387260595568939",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-10T16:45:13.679Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@hi_mayank\" class=\"u-url mention\">@<span>hi_mayank</span></a></span> it’s the DOM we pile into the closet and say our room is clean</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387759197542137",
+			"parentId": "111387206434526682",
+			"url": "https://piaille.fr/@tbroyer/111387759177160703",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-11-10T18:52:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justinfagnani</span></a></span> </p><p>It makes no sense to me to use slots without shadow DOM.<br>How do you envision this being used and how it would work?</p><p>I mean, if you're \"just\" cloning a template to replace the initial light DOM, it's 10 lines to `querySelector` the initial children and move them to the cloned template &amp; replace children.<br>→ <a href=\"https://codepen.io/tbroyer/details/vYbmbXx\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/tbroyer/details/vYb</span><span class=\"invisible\">mbXx</span></a></p><p>But that's not really \"slotting\" for me: you lose dynamic manipulation of slots/slottables.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111387787059304311",
+			"parentId": "111387759197542137",
+			"url": "https://piaille.fr/@tbroyer/111387787020288435",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-11-10T18:59:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justinfagnani</span></a></span> <br>Wrt style isolation, would a CSS reset within @scope (with a lower bound) work?<br>(I did use CSS scoping in the above pen, but didn't add a CSS reset)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111388308411772581",
+			"parentId": "111387759197542137",
+			"url": "https://mastodon.social/@jakelazaroff/111388308362558927",
+			"author": {
+				"name": "jake lazaroff",
+				"url": "https://mastodon.social/@jakelazaroff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/829/533/556/740/279/original/69a92e79689324bc.png"
+			},
+			"date": "2023-11-10T21:11:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbroyer</span></a></span> it would just transclude the slotted content in place of the &lt;slot /&gt; element, no? basically the same as react children/svelte slots/etc</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justinfagnani</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111388347843896928",
+			"parentId": "111388308411772581",
+			"url": "https://piaille.fr/@tbroyer/111388347813360262",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-11-10T21:21:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justinfagnani</span></a></span> Show me some code 😉</p><p>(what you write in the HTML and JS, and what the final DOM looks like: because without shadow dom, the light dom is modified, how could you have transclusion rather than moving nodes around? react/svelte are different, they create the DOM from scratch whereas WCs start with DOM children already)</p><p>How different would it be from what I did in this pen?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111388561932955942",
+			"parentId": "111387236985520893",
+			"url": "https://mastodon.cloud/@paddy/111388561910469145",
+			"author": {
+				"name": "Paddy",
+				"url": "https://mastodon.cloud/@paddy",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-10T22:16:10.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'll take it, thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111389152397818788",
+			"parentId": "111388347843896928",
+			"url": "https://mastodon.social/@jakelazaroff/111389152276905881",
+			"author": {
+				"name": "jake lazaroff",
+				"url": "https://mastodon.social/@jakelazaroff",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/829/533/556/740/279/original/69a92e79689324bc.png"
+			},
+			"date": "2023-11-11T00:46:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbroyer</span></a></span> haven’t been at a computer all day so can’t inspect the resulting DOM tree in your pen, but i think i’m describing what you seem to be doing. tbh i’m not really opinionated about the implementation; i just think this particular cow path is extremely well traveled, so we should pave it. it’s nice that it can be done in userland but imo the platform should provide a solution too.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@justinfagnani\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>justinfagnani</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111390018306706684",
+			"parentId": "111389152397818788",
+			"url": "https://fosstodon.org/@justinfagnani/111390018278059420",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://fosstodon.org/@justinfagnani",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/676/088/719/526/original/1402f1c70ff2119d.jpg"
+			},
+			"date": "2023-11-11T04:26:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> light DOM slots just aren't really possible.</p><p>Any proposal would have to describe the assignment algorithm: what nodes are slotted where. I haven't seen anyone do this, because... there's no way to tell what element any slot actually belongs too, so what elements are potentially slottable, and then how to avoid circularity issues.</p><p>Shadow DOM solves this with two trees, and I think two trees are just necessary.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111390027269094353",
+			"parentId": "111390018306706684",
+			"url": "https://fosstodon.org/@justinfagnani/111390027242623966",
+			"author": {
+				"name": "Justin Fagnani",
+				"url": "https://fosstodon.org/@justinfagnani",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/676/088/719/526/original/1402f1c70ff2119d.jpg"
+			},
+			"date": "2023-11-11T04:28:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> this is why I think the solution to a few shadow DOM problems is to decouple the encapsulation features, because slots are the most fundamental thing that SD does, and you can't get interoperable composition other ways.</p>",
+			"via": "fediverse"
+		}
+	]
+}

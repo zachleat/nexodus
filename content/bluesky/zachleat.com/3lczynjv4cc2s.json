@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lczynklny22s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lczynklny22s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-11T14:45:43.670Z",
+			"content": "<p>I wrote about trailing slashes here: <a href=\"https://www.zachleat.com/web/trailing-slash/\">www.zachleat.com/web/trailing...</a></p>\n<p>Doesn’t seem like things have improved much 😱</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3lczzhrqzls24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3lczzhrqzls24",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2024-12-11T15:00:24.340Z",
+			"content": "<p>ya know, the presence of a trailing slash on a URL could technically be seen as a 1, and the lack of one a 0, so we could totally make a trailing slash-based programming language please enjoy this incredibly cursed thought forever, ty</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld24755f6k2n",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3lczzhrqzls24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ld24755f6k2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-11T15:49:15.515Z",
+			"content": "<p>are we enemies</p>\n<p>when did we become enemies</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3ld24yf7m322b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld24755f6k2n",
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3ld24yf7m322b",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2024-12-11T16:03:22.837Z",
+			"content": "<p>embrace your supervillain era is all I’m sayin’</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bxuncred3t7neoojsbsbljio/app.bsky.feed.post/3ld26csljc22e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sia.codes/post/3ld26csljc22e",
+			"author": {
+				"name": "Sia Karamalegos",
+				"url": "https://bsky.app/profile/sia.codes",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bxuncred3t7neoojsbsbljio/bafkreieth7wmpg7vgiragypoxluona3vstnywugdlqrvd6fexjonh6z3ty"
+			},
+			"date": "2024-12-11T16:27:06.144Z",
+			"content": "<p>OMG I've been struggling with this lately. It's the SEO aspect that's killing me</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld26iaftgk2o",
+			"parentId": "at://did:plc:bxuncred3t7neoojsbsbljio/app.bsky.feed.post/3ld26csljc22e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ld26iaftgk2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-11T16:30:08.410Z",
+			"content": "<p>each framework/host does it a little differently so 😱</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3ld26tkmbxk23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fvsch.com/post/3ld26tkmbxk23",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2024-12-11T16:36:28.207Z",
+			"content": "<p>Looks like I have one more thing to work on :P<br>\n<a href=\"https://github.com/fvsch/servitsy/issues/52\">github.com/fvsch/servit...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld26zsy7m22j",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3ld26tkmbxk23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ld26zsy7m22j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-11T16:39:58.313Z",
+			"content": "<p>I like your option values!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2gkh62xvzokhlf6li4ol3b3d/app.bsky.feed.post/3ld2regoq7k24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/patak.cat/post/3ld2regoq7k24",
+			"author": {
+				"name": "patak",
+				"url": "https://bsky.app/profile/patak.cat",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2gkh62xvzokhlf6li4ol3b3d/bafkreibi7rw745tbcea7ljrpbkkkoragy2xa5a2lrxhdb3m23s7n3wkv3q"
+			},
+			"date": "2024-12-11T22:08:01.870Z",
+			"content": "<p>while you were reading this today</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld2riwj6js2c",
+			"parentId": "at://did:plc:2gkh62xvzokhlf6li4ol3b3d/app.bsky.feed.post/3ld2regoq7k24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ld2riwj6js2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-11T22:10:32.683Z",
+			"content": "<p>it’s a small world, after all!</p>",
+			"via": "bluesky"
+		}
+	]
+}

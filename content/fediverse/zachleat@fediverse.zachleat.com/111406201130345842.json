@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "111406217959165884",
+			"parentId": 0,
+			"url": "https://front-end.social/@ksylor/111406217883315773",
+			"author": {
+				"name": "Katie Sylor-Miller",
+				"url": "https://front-end.social/@ksylor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/471/071/573/638/266/original/d3aed4bfb5277c5c.jpg"
+			},
+			"date": "2023-11-14T01:06:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh no who had layoffs? I haven’t seen anything other than this toot</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111406484205161629",
+			"parentId": "111406217959165884",
+			"url": "https://toot.cafe/@reconbot/111406484073929657",
+			"author": {
+				"name": "Francis 🏴‍☠️ Gulotta",
+				"url": "https://toot.cafe/@reconbot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/376/052/418/189/original/b24ed2bdf8f16f68.png"
+			},
+			"date": "2023-11-14T02:14:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://layoffs.fyi\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">layoffs.fyi</span><span class=\"invisible\"></span></a> pointed me to amazon gaming division =|</p><p><a href=\"https://www.cnbc.com/2023/11/13/amazon-cuts-more-than-180-jobs-in-gaming-division.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnbc.com/2023/11/13/amazon-cut</span><span class=\"invisible\">s-more-than-180-jobs-in-gaming-division.html</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111406492133007824",
+			"parentId": "111406484205161629",
+			"url": "https://mastodon.social/@cferdinandi/111406492093684300",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-11-14T02:16:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@reconbot\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>reconbot</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> also apparently Google and Solera and Snap</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111408933279644529",
+			"parentId": "111406484205161629",
+			"url": "https://mastodon.social/@scrwd/111408933216149473",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-11-14T12:36:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@reconbot\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>reconbot</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that sounds like it's bad news for Amazon Luna too - after watching Stadia crash I was surprised to see Amazon ok up the mantle in the first place.</p><p>Here's hoping nobody is out of work for long.</p>",
+			"via": "fediverse"
+		}
+	]
+}

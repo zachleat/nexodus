@@ -1,0 +1,73 @@
+{
+	"comments": [
+		{
+			"id": "113318115265270776",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/113318114780106400",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2024-10-16T16:46:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I can’t wait for it to strip JavaScript too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113318117758112835",
+			"parentId": 0,
+			"url": "https://mathstodon.xyz/@andrewt/113318117534250625",
+			"private": true,
+			"date": "2024-10-16T16:47:32.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113318122233218265",
+			"parentId": "113318117758112835",
+			"url": "https://fediverse.zachleat.com/@zachleat/113318122233218265",
+			"private": true,
+			"date": "2024-10-16T16:48:44.117Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113318138420798405",
+			"parentId": "113318122233218265",
+			"url": "https://mastodon.social/@ardouglass/113318138366480257",
+			"private": true,
+			"date": "2024-10-16T16:52:50.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113318146698148410",
+			"parentId": "113318122233218265",
+			"url": "https://mathstodon.xyz/@andrewt/113318146579138716",
+			"private": true,
+			"date": "2024-10-16T16:54:55.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113318340856446184",
+			"parentId": "113318146698148410",
+			"url": "https://fediverse.zachleat.com/@zachleat/113318340856446184",
+			"private": true,
+			"date": "2024-10-16T17:44:20.041Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113333635441217818",
+			"parentId": "113318115265270776",
+			"url": "https://cr8r.gg/@ohmrun/113333635396811637",
+			"private": true,
+			"date": "2024-10-19T10:33:56.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113333658194340497",
+			"parentId": "113318117758112835",
+			"url": "https://cr8r.gg/@ohmrun/113333658083420637",
+			"private": true,
+			"date": "2024-10-19T10:39:42.000Z",
+			"via": "fediverse"
+		}
+	]
+}

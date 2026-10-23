@@ -1,0 +1,332 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lus4w7sgvk23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lus4w7sgvk23",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2025-07-25T13:14:21.446Z",
+			"content": "<p>This one never got much attention but maybe useful reference. I think it's ok to write code if you're a programmer but I'm a weirdo that way.</p>\n<p><a href=\"https://www.npmjs.com/package/spacetime\">www.npmjs.com/package/spac...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lus5m5vxtk2r",
+			"parentId": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lus4w7sgvk23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lus5m5vxtk2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T13:26:37.663Z",
+			"content": "<p>nice! I hadn’t seen this one before either!</p>\n<p>I too think it’s okay to write code (and by hand even)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zcdo6qoltjzdtr267g2ipv4l/app.bsky.feed.post/3lus7j4jwcs2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/gryphonmyers.dev/post/3lus7j4jwcs2f",
+			"author": {
+				"name": "Gryphon",
+				"url": "https://bsky.app/profile/gryphonmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zcdo6qoltjzdtr267g2ipv4l/bafkreibsujizy7kdeexqqtv7w2kl6qsvmlgdmao67ktr7l6ge44y7ykaou"
+			},
+			"date": "2025-07-25T14:00:43.039Z",
+			"content": "<p>Intl gets me most of the way there these days</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lus7nlxsc22d",
+			"parentId": "at://did:plc:zcdo6qoltjzdtr267g2ipv4l/app.bsky.feed.post/3lus7j4jwcs2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lus7nlxsc22d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T14:03:13.441Z",
+			"content": "<p>well wait — I don’t see any date parsing things in those APIs — only formatting/display</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:derdua4mnjknb3t5pskwbqx3/app.bsky.feed.post/3lusjl5cvzc2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dwkns.bsky.social/post/3lusjl5cvzc2f",
+			"author": {
+				"name": "dwkns.bsky.social",
+				"url": "https://bsky.app/profile/dwkns.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:derdua4mnjknb3t5pskwbqx3/bafkreiczi2whi5yh5zef6lq4bjyj2kbhsznbee5e533wk4lfpjv2pihvqu"
+			},
+			"date": "2025-07-25T17:00:48.385Z",
+			"content": "<p>\"As an aside, this search has made me tempted to ask: do we need to keep Dual publishing packages? I prefer ESM over CJS but maybe just pick one?\"</p>\n<p>Could this mean you'll drop support for CJS config in Eleventy v4? Would mean we wouldn't have to Dual publish plugins.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lusm3opvos2o",
+			"parentId": "at://did:plc:derdua4mnjknb3t5pskwbqx3/app.bsky.feed.post/3lusjl5cvzc2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lusm3opvos2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T17:45:50.992Z",
+			"content": "<p>naw, there’s no reason to drop CJS config/data/template file support in Eleventy. It’s written in ESM but works with CJS (in Node 18 too)</p>\n<p>None of the official Eleventy plugins are dual published either, fwiw — if they need to support core &lt; 3, they’ll stay as CJS. If core &gt;=3, they can be ESM-only</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lusm4ynv2c2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lusm3opvos2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lusm4ynv2c2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T17:46:34.966Z",
+			"content": "<p>to be clear, CJS configs can import ESM plugins with `await import`</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusn6khu2k2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mxdvl.com/post/3lusn6khu2k2q",
+			"author": {
+				"name": "Max Duval",
+				"url": "https://bsky.app/profile/mxdvl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ragnyp2umnktcv2krif4lhvs/bafkreic4bp7eqwo24hvcmjzs4hpqt24lvd4qbhay5l3b2t5ody46gyvlyu"
+			},
+			"date": "2025-07-25T18:05:20.939Z",
+			"content": "<p>Nice! Seeing as smol size is a prime feature of this lib, are you open to contributions that reduce the number of minified bytes at the expense of some readability?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusnahpe5s2q",
+			"parentId": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusn6khu2k2q",
+			"url": "https://bsky.app/profile/mxdvl.com/post/3lusnahpe5s2q",
+			"author": {
+				"name": "Max Duval",
+				"url": "https://bsky.app/profile/mxdvl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ragnyp2umnktcv2krif4lhvs/bafkreic4bp7eqwo24hvcmjzs4hpqt24lvd4qbhay5l3b2t5ody46gyvlyu"
+			},
+			"date": "2025-07-25T18:06:25.148Z",
+			"content": "<p>And how important is it that errors are specific, for example regarding fractional hours &amp; minutes? I can see the test don’t currently capture that distinction.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lusnem65r22p",
+			"parentId": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusnahpe5s2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lusnem65r22p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T18:08:44.044Z",
+			"content": "<p>I would say not very open to readability tradeoffs but also you’re right — the error messaging here is not specific: just invalid or valid</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusnibz6mc2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lusnem65r22p",
+			"url": "https://bsky.app/profile/mxdvl.com/post/3lusnibz6mc2q",
+			"author": {
+				"name": "Max Duval",
+				"url": "https://bsky.app/profile/mxdvl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ragnyp2umnktcv2krif4lhvs/bafkreic4bp7eqwo24hvcmjzs4hpqt24lvd4qbhay5l3b2t5ody46gyvlyu"
+			},
+			"date": "2025-07-25T18:10:47.614Z",
+			"content": "<p>Ok, I’ll raise a PR or two, but feel free to reject ‘em!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lusx3ay7cs2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3lusx3ay7cs2s",
+			"private": true,
+			"date": "2025-07-25T21:02:27.743Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lusxfo6ojs2u",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lusx3ay7cs2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lusxfo6ojs2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T21:08:17.132Z",
+			"content": "<p>only general zod can judge me</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusxybmuvs2c",
+			"parentId": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusnibz6mc2q",
+			"url": "https://bsky.app/profile/mxdvl.com/post/3lusxybmuvs2c",
+			"author": {
+				"name": "Max Duval",
+				"url": "https://bsky.app/profile/mxdvl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ragnyp2umnktcv2krif4lhvs/bafkreic4bp7eqwo24hvcmjzs4hpqt24lvd4qbhay5l3b2t5ody46gyvlyu"
+			},
+			"date": "2025-07-25T21:18:41.498Z",
+			"content": "<p>I’ve got <a href=\"https://github.com/11ty/parse-date-strings/pull/4\">github.com/11ty/parse-d...</a> and <a href=\"https://github.com/11ty/parse-date-strings/pull/5\">github.com/11ty/parse-d...</a> – curious to see if you find them helpful :)</p>\n<p>Of course all the tests still pass!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lusysq6bb22i",
+			"parentId": "at://did:plc:ragnyp2umnktcv2krif4lhvs/app.bsky.feed.post/3lusxybmuvs2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lusysq6bb22i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T21:33:29.164Z",
+			"content": "<p>Thanks! They look good on first glance!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zcdo6qoltjzdtr267g2ipv4l/app.bsky.feed.post/3lut3334qy22a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lus7nlxsc22d",
+			"url": "https://bsky.app/profile/gryphonmyers.dev/post/3lut3334qy22a",
+			"author": {
+				"name": "Gryphon",
+				"url": "https://bsky.app/profile/gryphonmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zcdo6qoltjzdtr267g2ipv4l/bafkreibsujizy7kdeexqqtv7w2kl6qsvmlgdmao67ktr7l6ge44y7ykaou"
+			},
+			"date": "2025-07-25T22:13:56.568Z",
+			"content": "<p>No sorry I didn't mean to suggest I was using it for parsing. I meant for formatting. For parsing I try to avoid needing anything other than Date's quirky implementation (not always an option, I know). Kinda hoping Temporal will solve this (do you know if it will?)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lut3gp74v22b",
+			"parentId": "at://did:plc:zcdo6qoltjzdtr267g2ipv4l/app.bsky.feed.post/3lut3334qy22a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lut3gp74v22b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T22:20:26.717Z",
+			"content": "<p>I do know the answer to this and wrote a blog post about it linked above 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zcdo6qoltjzdtr267g2ipv4l/app.bsky.feed.post/3lut3npmeos2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lut3gp74v22b",
+			"url": "https://bsky.app/profile/gryphonmyers.dev/post/3lut3npmeos2a",
+			"author": {
+				"name": "Gryphon",
+				"url": "https://bsky.app/profile/gryphonmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zcdo6qoltjzdtr267g2ipv4l/bafkreibsujizy7kdeexqqtv7w2kl6qsvmlgdmao67ktr7l6ge44y7ykaou"
+			},
+			"date": "2025-07-25T22:24:22.031Z",
+			"content": "<p>🤦‍♂️ I only skimmed</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lut3qxieu22j",
+			"parentId": "at://did:plc:zcdo6qoltjzdtr267g2ipv4l/app.bsky.feed.post/3lut3npmeos2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lut3qxieu22j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-25T22:26:10.953Z",
+			"content": "<p>we’ve all been there 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xeeqdo7lwavq2laubdcd27py/app.bsky.feed.post/3lut6e6z44k2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ryantrimble.com/post/3lut6e6z44k2s",
+			"author": {
+				"name": "Ryan Trimble",
+				"url": "https://bsky.app/profile/ryantrimble.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xeeqdo7lwavq2laubdcd27py/bafkreidirjmlcodc4vkxxivdngr4v2zwpe3vet7kho7k7nbzmooex5rjqi"
+			},
+			"date": "2025-07-25T23:12:43.858Z",
+			"content": "<p>ok yeah, but what is your quiz score: <br>\n<a href=\"https://jsdate.wtf/\">jsdate.wtf</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lux6m7is5c2o",
+			"parentId": "at://did:plc:xeeqdo7lwavq2laubdcd27py/app.bsky.feed.post/3lut6e6z44k2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lux6m7is5c2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-27T13:27:51.762Z",
+			"content": "<p>I don’t know her!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:e2lcgwxhymx3q6u7blziecdr/app.bsky.feed.post/3luzmyrikis2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/anthonycregan.dev/post/3luzmyrikis2u",
+			"author": {
+				"name": "Anthony Cregan",
+				"url": "https://bsky.app/profile/anthonycregan.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2lcgwxhymx3q6u7blziecdr/bafkreifjdpztgp5stmnkrxajjeodrpaaub7c3zbiof36n2ce6t36szfmlm"
+			},
+			"date": "2025-07-28T12:50:45.144Z",
+			"content": "<p>Can we get a prequel? Might i suggest \"Several reasons why I think it would be a good idea to write a Date Parsing Library\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qzpyq5hmbufqxjn2yj5eahfd/app.bsky.feed.post/3luzp6oedac2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chris.zahller.me/post/3luzp6oedac2w",
+			"private": true,
+			"date": "2025-07-28T13:29:50.670Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luzpzzaxss2q",
+			"parentId": "at://did:plc:qzpyq5hmbufqxjn2yj5eahfd/app.bsky.feed.post/3luzp6oedac2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3luzpzzaxss2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-28T13:45:08.063Z",
+			"content": "<p>with Eleventy v4, yeah</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luzq3drsos2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3luzpzzaxss2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3luzq3drsos2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-28T13:45:52.656Z",
+			"content": "<p>we’ll make it part of the upgrade plugin and provide guidance about how to keep using luxon, for the record!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zruchcbocjbljydola4caqhj/app.bsky.feed.post/3lvj5ct6c7c2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nemonisimors.bsky.social/post/3lvj5ct6c7c2d",
+			"author": {
+				"name": "Anders Gustafson",
+				"url": "https://bsky.app/profile/nemonisimors.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zruchcbocjbljydola4caqhj/bafkreihrsklxcj2bmva5onrxykauqceuem6zvv6arjk3tu2ke2oworx6cu"
+			},
+			"date": "2025-08-03T16:52:38.394Z",
+			"content": "<p>I totally agree that ambiguity and too many formats are some of the hardest problems with date parsing solutions.</p>\n<p>Thanks for trying to solve the (impossible?) task to create a Date Parsing Library.</p>",
+			"via": "bluesky"
+		}
+	]
+}

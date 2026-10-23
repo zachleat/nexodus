@@ -1,0 +1,160 @@
+{
+	"comments": [
+		{
+			"id": "109559431847896226",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/109559431749373509",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2022-12-22T21:24:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oooof</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109559436087086109",
+			"parentId": "109559431847896226",
+			"url": "https://fediverse.zachleat.com/@zachleat/109559436087086109",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-22T21:25:25.058Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> is this a good oof 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109559441613497513",
+			"parentId": "109559436087086109",
+			"url": "https://mastodon.design/@DavidDarnes/109559441561588847",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2022-12-22T21:26:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> a *very good* oooof</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109559763671705768",
+			"parentId": 0,
+			"url": "https://mastodon.nz/@mez/109559763511858326",
+			"author": {
+				"name": "Philip (is looking for work)",
+				"url": "https://mastodon.nz/@mez",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/213/008/546/280/original/716603c4d65ea709.jpeg"
+			},
+			"date": "2022-12-22T22:48:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The magic here is that rather than having to remember to explicitly compile each SCSS file (à la <a href=\"https://github.com/philiprenich/philiprenich.com/blob/main/.eleventy.js#L17\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/philiprenich/philip</span><span class=\"invisible\">renich.com/blob/main/.eleventy.js#L17</span></a> ) 11ty instead handles all that file gathering for you behind the scenes?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109559779792394483",
+			"parentId": "109559763671705768",
+			"url": "https://fediverse.zachleat.com/@zachleat/109559779792394483",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-22T22:52:49.592Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@mez\" class=\"u-url mention\">@<span>mez</span></a></span> yeah, exactly. Any .scss file that doesn’t start with an underscore is compiled to your output folder via standard Eleventy file routing rules.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109590823818922434",
+			"parentId": 0,
+			"url": "https://indieweb.social/@mehulkar/109590823779355750",
+			"author": {
+				"name": "mehulkar",
+				"url": "https://indieweb.social/@mehulkar",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/540/497/281/965/original/5861d033e445bb17.jpeg"
+			},
+			"date": "2022-12-28T10:27:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I guess this is the answer to how to do JS bundling then? Looks pretty convenient!<br><a href=\"https://github.com/11ty/eleventy/issues/2490\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/2490</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109592358657164210",
+			"parentId": "109590823818922434",
+			"url": "https://fediverse.zachleat.com/@zachleat/109592358657164210",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-28T16:58:03.610Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mehulkar\" class=\"u-url mention\">@<span>mehulkar</span></a></span> hmmm, I wouldn’t use *the answer* but hooking a bundler to this API is one answer to that question, yeah!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109592442308501583",
+			"parentId": "109592358657164210",
+			"url": "https://indieweb.social/@mehulkar/109592442251706149",
+			"author": {
+				"name": "mehulkar",
+				"url": "https://indieweb.social/@mehulkar",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/540/497/281/965/original/5861d033e445bb17.jpeg"
+			},
+			"date": "2022-12-28T17:19:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> are there any docs/guides I’m missing? Or did you have a preferred strategy?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109625930021773673",
+			"parentId": "109592442308501583",
+			"url": "https://fediverse.zachleat.com/@zachleat/109625930021773673",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-03T15:15:41.986Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mehulkar\" class=\"u-url mention\">@<span>mehulkar</span></a></span> this is a userland-ish thing now, I’ve talked a bit historically about how tightly coupling to a bundler limits the lifespan of projects but I don’t know that I’ve ever written those thoughts up.</p><p>Historically folks have used Webpack, Parcel, Vite (and we do have a vite plugin) <a href=\"https://www.11ty.dev/docs/server-vite/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/server-vite/</span><span class=\"invisible\"></span></a></p><p>My even spicier opinion is that JS bundlers are one of the main reasons we have so many slow sites but that might be a little bit much for day 1 back from holiday break 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111416974833185979",
+			"parentId": "109625930021773673",
+			"url": "https://fediverse.zachleat.com/@zachleat/111416974833185979",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-15T22:41:56.961Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mehulkar\" class=\"u-url mention\">@<span>mehulkar</span></a></span> Don’t ask me how I stumbled back into this thread but <a href=\"https://www.11ty.dev/docs/assets/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/assets/</span><span class=\"invisible\"></span></a> has docs on this now</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111626343994386845",
+			"parentId": "111416974833185979",
+			"url": "https://indieweb.social/@mehulkar/111626343979910267",
+			"author": {
+				"name": "mehulkar",
+				"url": "https://indieweb.social/@mehulkar",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/540/497/281/965/original/5861d033e445bb17.jpeg"
+			},
+			"date": "2023-12-22T22:07:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hmm,  do you mean the Custom Templates part of that page? Glad to see there's  a page on it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111627152145271545",
+			"parentId": "111626343994386845",
+			"url": "https://fediverse.zachleat.com/@zachleat/111627152145271545",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-23T01:32:48.232Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mehulkar\" class=\"u-url mention\">@<span>mehulkar</span></a></span> yeah part #3!</p>",
+			"via": "fediverse"
+		}
+	]
+}

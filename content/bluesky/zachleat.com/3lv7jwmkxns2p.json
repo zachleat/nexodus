@@ -1,0 +1,64 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lv7kdaop3k2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lv7kdaop3k2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-30T21:18:53.822Z",
+			"content": "<p>I was brave and shipped <a href=\"https://www.zachleat.com/\">www.zachleat.com</a> building with Eleventy v4.0.0!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lv7knpac6s2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lv7knpac6s2d",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-07-30T21:24:44.624Z",
+			"content": "<p>Is it time to freak out and scramble to build in-browser page previews yet?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lv7kuzif6s2u",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lv7knpac6s2d",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lv7kuzif6s2u",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-30T21:28:50.256Z",
+			"content": "<p>keep calm 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lva7tqqcgc2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3lva7tqqcgc2p",
+			"private": true,
+			"date": "2025-07-31T03:43:56.101Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvbbf26xh22e",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3lva7tqqcgc2p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lvbbf26xh22e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-07-31T13:44:09.924Z",
+			"content": "<p>it’s way worse than workin’ in a coal mine<br>\nit’s more dangerous than workin’ in a coal mine<br>\nwe would love to be workin’ in a coal mine ♪♫</p>",
+			"via": "bluesky"
+		}
+	]
+}

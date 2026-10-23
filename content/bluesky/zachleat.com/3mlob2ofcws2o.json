@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mlobb5v6jk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3mlobb5v6jk2t",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2026-05-12T17:00:51.990Z",
+			"content": "<p>Be the change you want to see in the world Zach</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5qartdsce62n2wfyvtocmoob/app.bsky.feed.post/3mlobcfs3u22i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/keithlaugh.love/post/3mlobcfs3u22i",
+			"author": {
+				"name": "Keith Kurson",
+				"url": "https://bsky.app/profile/keithlaugh.love",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5qartdsce62n2wfyvtocmoob/bafkreifst7tgth72uanpn27dwy7idu3aiwivj2avtsyxvo54dxir2ofgei"
+			},
+			"date": "2026-05-12T17:01:33.833Z",
+			"content": "<p>zach no</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlobfi4ejc2z",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mlobb5v6jk2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlobfi4ejc2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-12T17:03:16.929Z",
+			"content": "<p>I have $0.07 in change, if that’s what you’re getting at</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlobge7zlc2z",
+			"parentId": "at://did:plc:5qartdsce62n2wfyvtocmoob/app.bsky.feed.post/3mlobcfs3u22i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mlobge7zlc2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-12T17:03:46.410Z",
+			"content": "<p>look, I agree</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mloewlsuos2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mloewlsuos2r",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-12T18:06:32.464Z",
+			"content": "<p>Something something <a href=\"https://en.wikipedia.org/wiki/Goodhart's_law\">en.wikipedia.org/wiki/Goodhar...</a></p>",
+			"via": "bluesky"
+		}
+	]
+}

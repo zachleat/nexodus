@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3ljauxacsc227",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/eaton.fyi/post/3ljauxacsc227",
+			"author": {
+				"name": "‮Jeff Eaton",
+				"url": "https://bsky.app/profile/eaton.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qia4bnapnogunf7jjl5fopac/bafkreihzpxhdag6tw63ghft655jxz7u6ahxvkzm4lnhp3m7amgubqudihi"
+			},
+			"date": "2025-02-28T16:59:22.145Z",
+			"content": "<p>Interesting! We’ve seen similar conversations around the idea of “content engineering” in orgs with a large comms/content-product footprint, and similar challenges. Communicating and creating is a distinct and different pursuit than “building SYSTEMS that facilitate communicating and creating”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljavearoas25",
+			"parentId": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3ljauxacsc227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljavearoas25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-28T17:06:38.838Z",
+			"content": "<p>wow — fascinating that an org can grow to a size where it needs content ops engineering folks!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3ljavjhnm6k27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljavearoas25",
+			"url": "https://bsky.app/profile/eaton.fyi/post/3ljavjhnm6k27",
+			"author": {
+				"name": "‮Jeff Eaton",
+				"url": "https://bsky.app/profile/eaton.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qia4bnapnogunf7jjl5fopac/bafkreihzpxhdag6tw63ghft655jxz7u6ahxvkzm4lnhp3m7amgubqudihi"
+			},
+			"date": "2025-02-28T17:09:33.819Z",
+			"content": "<p>One client we worked with recently was staring down the barrel of 250,000+ pieces of content, with thousands of new product sheets, legal docs, support materials, marketing assets, etc rolling out each month… it’s a bit like the “how many kinds of buttons do we have, product-family wide?”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljaw7sccz22k",
+			"parentId": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3ljavjhnm6k27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ljaw7sccz22k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-28T17:22:03.180Z",
+			"content": "<p>I’m assuming the answer was 250,000+ 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qia4bnapnogunf7jjl5fopac/app.bsky.feed.post/3ljawnb4q2c27",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljaw7sccz22k",
+			"url": "https://bsky.app/profile/eaton.fyi/post/3ljawnb4q2c27",
+			"author": {
+				"name": "‮Jeff Eaton",
+				"url": "https://bsky.app/profile/eaton.fyi",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qia4bnapnogunf7jjl5fopac/bafkreihzpxhdag6tw63ghft655jxz7u6ahxvkzm4lnhp3m7amgubqudihi"
+			},
+			"date": "2025-02-28T17:29:34.934Z",
+			"content": "<p>Always 😂</p>",
+			"via": "bluesky"
+		}
+	]
+}

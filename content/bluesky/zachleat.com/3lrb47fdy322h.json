@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:7i34ggpub4gpsrizmqs75g7v/app.bsky.feed.post/3lrbxmoljac2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/craig.patik.com/post/3lrbxmoljac2k",
+			"author": {
+				"name": "Craig Patik",
+				"url": "https://bsky.app/profile/craig.patik.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7i34ggpub4gpsrizmqs75g7v/bafkreichppd5w6unzzpsel42cap2m7rmkhyzfejh3j7uahjkuzuvfztply"
+			},
+			"date": "2025-06-10T22:41:21.998Z",
+			"content": "<p>Is this safer than eval() ?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrbz3cccvs2z",
+			"parentId": "at://did:plc:7i34ggpub4gpsrizmqs75g7v/app.bsky.feed.post/3lrbxmoljac2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrbz3cccvs2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-10T23:07:26.172Z",
+			"content": "<p>if by safer you mean as a security mechanism, no!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lrcwtq7zds2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nicr.dev/post/3lrcwtq7zds2q",
+			"author": {
+				"name": "Nicolò Ribaudo",
+				"url": "https://bsky.app/profile/nicr.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:diblntoainoud2g6qk5bawks/bafkreid6uky7ac46qwmxlk7bllgnolzlgs7qyfkt24tdyscqpf6u7ehu5a"
+			},
+			"date": "2025-06-11T08:00:04.596Z",
+			"content": "<p>Why did you choose to inline dependency imports as data URLs, rather than replacing relative specifiers with absolute specifiers?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrdmdb5zck2r",
+			"parentId": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lrcwtq7zds2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lrdmdb5zck2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T14:24:34.249Z",
+			"content": "<p>Huh… looks like I got lost somewhere in there. I was under the impression that absolute specifiers that contained imports with relative specifiers would fail but it looks like it works fine!</p>\n<p>I’ll make some updates — thank you!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lreflpwu4c2m",
+			"parentId": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lrcwtq7zds2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lreflpwu4c2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-06-11T21:56:41.723Z",
+			"content": "<p>I rethought a bunch of stuff because of this question and it ended up being a lovely simplification of some of the gnarly bits — so I really appreciate that you asked, thank you!</p>\n<p><a href=\"https://github.com/zachleat/import-module-string/issues/1\">github.com/zachleat/imp...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:diblntoainoud2g6qk5bawks/app.bsky.feed.post/3lrefzwcwdk2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lreflpwu4c2m",
+			"url": "https://bsky.app/profile/nicr.dev/post/3lrefzwcwdk2h",
+			"author": {
+				"name": "Nicolò Ribaudo",
+				"url": "https://bsky.app/profile/nicr.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:diblntoainoud2g6qk5bawks/bafkreid6uky7ac46qwmxlk7bllgnolzlgs7qyfkt24tdyscqpf6u7ehu5a"
+			},
+			"date": "2025-06-11T22:04:38.174Z",
+			"content": "<p>Awesome :)</p>",
+			"via": "bluesky"
+		}
+	]
+}

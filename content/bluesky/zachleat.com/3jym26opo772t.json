@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ny4wl2lgdvgej5rzaxk45ccn/app.bsky.feed.post/3jym3fhj5g22s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jonkuperman.com/post/3jym3fhj5g22s",
+			"author": {
+				"name": "Jon Kuperman",
+				"url": "https://bsky.app/profile/jonkuperman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ny4wl2lgdvgej5rzaxk45ccn/bafkreibcqknirreict4rvopgwy2irmaqjavazdnpdbo5l5p2oqjhrmvtrm"
+			},
+			"date": "2023-06-20T14:19:29.175Z",
+			"content": "<p>💜</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lopqc5qlyamugbxdujsojdhb/app.bsky.feed.post/3jymfgkopqi2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/philhawksworth.dev/post/3jymfgkopqi2h",
+			"author": {
+				"name": "Phil Hawksworth",
+				"url": "https://bsky.app/profile/philhawksworth.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lopqc5qlyamugbxdujsojdhb/bafkreig24xocd4zwmwfuqk6bm6z6qxx7wwfov7pmwn4cunlwsdvdhkipsa"
+			},
+			"date": "2023-06-20T17:19:03.523Z",
+			"content": "<p>❤️ Hoping that you can maintain balance, energy, and enough hours of sleep.</p>\n<p>From an immensely grateful and satisfied customer.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3jzbarvlqbw2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3jzbarvlqbw2m",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2023-06-29T00:21:49.868Z",
+			"content": "<p>Eleventy is my first choice for new projects. You do good work, Zach.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3jzcjzinpzb22",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3jzbarvlqbw2m",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3jzcjzinpzb22",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2023-06-29T12:39:48.082Z",
+			"content": "<p>Here is a video of Eleventy vs adversity.</p>\n<p><a href=\"https://www.tiktok.com/t/ZT8erKGwL/\">https://www.tiktok.com/t/ZT8erKGwL/</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jzcvtl3vo42w",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3jzcjzinpzb22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jzcvtl3vo42w",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-06-29T16:11:14.185Z",
+			"content": "<p>(amazing! go possum go!)</p>",
+			"via": "bluesky"
+		}
+	]
+}

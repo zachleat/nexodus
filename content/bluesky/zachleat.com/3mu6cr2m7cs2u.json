@@ -1,0 +1,191 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:gvi5yecbeb6e6oc32kbx35jl/app.bsky.feed.post/3mu6cybb4rc2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mikehall314.bsky.social/post/3mu6cybb4rc2z",
+			"private": true,
+			"date": "2026-08-28T21:35:49.842Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7le3gpdvacl6bx2zfg62k2vc/app.bsky.feed.post/3mu6czt3q4c2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cybercharli.bsky.social/post/3mu6czt3q4c2q",
+			"author": {
+				"name": "Charity Gamble",
+				"url": "https://bsky.app/profile/cybercharli.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7le3gpdvacl6bx2zfg62k2vc/bafkreihrntoyrfsruy7u7b5ro6zmv5tk7mfyofjl4hys4ad3g4ozpxopbe"
+			},
+			"date": "2026-08-28T21:36:42.109Z",
+			"content": "<p>I mean, it *is* Adobe. Everything they do is slightly awkward, kinda weird...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu6dkfscik2h",
+			"parentId": "at://did:plc:gvi5yecbeb6e6oc32kbx35jl/app.bsky.feed.post/3mu6cybb4rc2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mu6dkfscik2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-28T21:45:58.595Z",
+			"content": "<p>*arms wave wildly*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:j4fmrjnw3ig72iqmsfwi5u22/app.bsky.feed.post/3mu6dn6xwzi26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alvaromartincrespo.bsky.social/post/3mu6dn6xwzi26",
+			"author": {
+				"name": "Álvaro Martín Crespo",
+				"url": "https://bsky.app/profile/alvaromartincrespo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:j4fmrjnw3ig72iqmsfwi5u22/bafkreiebwt7nkny7pop2stjnsb3unr7ujz4mgrvtspf7ga5p2xncdawr3a"
+			},
+			"date": "2026-08-28T21:47:31.867Z",
+			"content": "<p>Correcto, el script inserta dinámicamente un `&lt;link rel=\"icon\"&gt;`. Si solo necesitas un favicon estático, usar la etiqueta en el HTML evita esa carga extra. Para cambiarlo en runtime, crea o actualiza el `&lt;link&gt;` con un nuevo href (añadiendo un cache‑bust). <a href=\"https://bsky.app/hashtag/frontend\">#frontend</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mu6ics5wy22c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/toddl.dev/post/3mu6ics5wy22c",
+			"private": true,
+			"date": "2026-08-28T23:11:11.832Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gb43id6us6iqho6fvkhik5x2/app.bsky.feed.post/3mu6in54v522t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/wildbuilt.eurosky.social/post/3mu6in54v522t",
+			"private": true,
+			"date": "2026-08-28T23:16:58.876Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:77rqogk23gd3n5rtpct7unnm/app.bsky.feed.post/3muaqamlaqs2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/thunk.morphism.id/post/3muaqamlaqs2j",
+			"author": {
+				"name": "thunk.morphism.id",
+				"url": "https://bsky.app/profile/thunk.morphism.id"
+			},
+			"date": "2026-08-29T20:38:28.279Z",
+			"content": "<p>All I can think of is that it allows for a unit test</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mub3phwanc25",
+			"parentId": "at://did:plc:77rqogk23gd3n5rtpct7unnm/app.bsky.feed.post/3muaqamlaqs2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mub3phwanc25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-30T00:03:37.873Z",
+			"content": "<p>what are we testing there</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mub3rxrafs25",
+			"parentId": "at://did:plc:gb43id6us6iqho6fvkhik5x2/app.bsky.feed.post/3mu6in54v522t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mub3rxrafs25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-30T00:05:01.596Z",
+			"content": "<p>objection!! 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mub3v4a7cs25",
+			"parentId": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mu6ics5wy22c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mub3v4a7cs25",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-30T00:06:46.944Z",
+			"content": "<p>jackson pollack could make a fine favicon</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mub5a4d2kc2d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mub3v4a7cs25",
+			"url": "https://bsky.app/profile/toddl.dev/post/3mub5a4d2kc2d",
+			"private": true,
+			"date": "2026-08-30T00:30:49.874Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3muf3t5x5j22e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3muf3t5x5j22e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-31T14:16:20.589Z",
+			"content": "<p>ah, so I hadn’t realized that <a href=\"https://adobe.com\">adobe.com</a> was client-rendered <a href=\"https://www.speedlify.dev/site/www-adobe-com/#without-javascript\">www.speedlify.dev/site/www-ado...</a></p>\n<p>I added a warning in speedlify2 for that.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muf5rc5do22p",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3muf3t5x5j22e",
+			"url": "https://bsky.app/profile/duffeh.bsky.social/post/3muf5rc5do22p",
+			"author": {
+				"name": "Duffeh",
+				"url": "https://bsky.app/profile/duffeh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spulgjrl7sactd23bgqv6jen/bafkreihf42m7kegjr2iu7zucmfcby4dqblokuc7ii3nomjtfv7tod5m6la"
+			},
+			"date": "2026-08-31T14:51:05.359Z",
+			"content": "<p>Yeah it looks to be what Adobe claim is the \"future of frontend\" called EDS, which is a client side render, for pages that could be static generated.</p>\n<p>They talk a lot about perfect lighthouse score, at what seems like a cost to real users. The header is a tell they load that last for some reason.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muf6dx2c522p",
+			"parentId": "at://did:plc:gvi5yecbeb6e6oc32kbx35jl/app.bsky.feed.post/3mu6cybb4rc2z",
+			"url": "https://bsky.app/profile/duffeh.bsky.social/post/3muf6dx2c522p",
+			"author": {
+				"name": "Duffeh",
+				"url": "https://bsky.app/profile/duffeh.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spulgjrl7sactd23bgqv6jen/bafkreihf42m7kegjr2iu7zucmfcby4dqblokuc7ii3nomjtfv7tod5m6la"
+			},
+			"date": "2026-08-31T15:01:31.260Z",
+			"content": "<p>They do a lot of rubbish like this as a part of their new framework sadly.</p>\n<p>The initial html the LCP image likely has loading='lazy' and in JavaScript they will change it to loading eager to make lighthouse \"happy\".</p>\n<p>Adobe is just a perfect example of what not to do.n</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3muf6m2dyis2n",
+			"parentId": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muf6dx2c522p",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3muf6m2dyis2n",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-08-31T15:06:03.159Z",
+			"content": "<p>For as long as we've had web technology some people have been desperate to use something, anything else</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mufasti6nc2g",
+			"parentId": "at://did:plc:spulgjrl7sactd23bgqv6jen/app.bsky.feed.post/3muf5rc5do22p",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mufasti6nc2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-08-31T15:45:38.322Z",
+			"content": "<p>Huh. 😬</p>",
+			"via": "bluesky"
+		}
+	]
+}

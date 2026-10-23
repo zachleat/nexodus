@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "110056245046992315",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/110056245004144008",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-03-20T15:10:27.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I unfortunately have several dependencies pinned to previous major releases because of that. Is there a good way to deal with a mix of modern ESM and old school dependancies (in Eleventy at least)?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110056376319929480",
+			"parentId": "110056245046992315",
+			"url": "https://fediverse.zachleat.com/@zachleat/110056376319929480",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-20T15:43:51.247Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> dynamic import `import()` is the option (via an async friendly option like events <a href=\"https://www.11ty.dev/docs/events/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/events/</span><span class=\"invisible\"></span></a> or or custom init <a href=\"https://www.11ty.dev/docs/languages/custom/#init\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/languages/custom</span><span class=\"invisible\">/#init</span></a>) until ESM support ships which will include top-level async for everything</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110056517427928372",
+			"parentId": "110056376319929480",
+			"url": "https://mamot.fr/@nhoizey/110056517364518234",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-03-20T16:19:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'll have to dive into this, thanks.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110056518973031175",
+			"parentId": "110056517427928372",
+			"url": "https://fediverse.zachleat.com/@zachleat/110056518973031175",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-20T16:20:07.960Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> (this will be much easier in 3.0, fwiw)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110056525845452884",
+			"parentId": "110056518973031175",
+			"url": "https://mamot.fr/@nhoizey/110056525499833026",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-03-20T16:21:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I know you plan for this, indeed. 👍</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110056659243317224",
+			"parentId": "110056376319929480",
+			"url": "https://mamot.fr/@nhoizey/110056659199307012",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-03-20T16:55:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I don't understand how I can import `@sindresorhus/slugify` 2.x in my plugin with events or init… I'll wait for Eleventy 3! 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110058113434684520",
+			"parentId": "110056518973031175",
+			"url": "https://social.webcoven.com/@higby/110058113415187596",
+			"author": {
+				"name": "higby",
+				"url": "https://social.webcoven.com/@higby",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/747/727/241/156/264/original/d5af38a2410f5aae.jpeg"
+			},
+			"date": "2023-03-20T23:05:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> when 11ty 3 drops, the 3 should be rainbow colored</p>",
+			"via": "fediverse"
+		}
+	]
+}

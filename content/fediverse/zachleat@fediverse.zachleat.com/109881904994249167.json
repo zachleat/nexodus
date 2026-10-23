@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "109882052840463912",
+			"parentId": 0,
+			"url": "https://techhub.social/@develwithoutacause/109882052136206513",
+			"author": {
+				"name": "Doug Parker 🕸️",
+				"url": "https://techhub.social/@develwithoutacause",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/518/937/677/894/original/e1e878ed6a905b12.jpg"
+			},
+			"date": "2023-02-17T20:50:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We should always keep in mind that 90% of users won't change the default in just about any capacity. We have a responsibility to pick the best defaults we can and think critically about them.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109882052866251799",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@ericcarlisle/109882052502557826",
+			"author": {
+				"name": "Eric Carlisle",
+				"url": "https://fosstodon.org/@ericcarlisle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/310/162/045/975/533/original/d6baf7dd32f355b6.png"
+			},
+			"date": "2023-02-17T20:51:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> : That's definitely a can of worms! I'm thinking about all the prompts where we're asked to opt one way or another:<br>1. User agreements for software installation.<br>2. Permission prompts, largely for mobile apps.<br>3. GDPR privacy prompts for EU sites.<br>4. Login to unsubscribe. 🤦‍♂️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109882064619894028",
+			"parentId": "109882052866251799",
+			"url": "https://fediverse.zachleat.com/@zachleat/109882064619894028",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-17T20:54:05.785Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@ericcarlisle\" class=\"u-url mention\">@<span>ericcarlisle</span></a></span> oof yeah, framework telemetry opt-out is another one that I thought of</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109882092070710358",
+			"parentId": 0,
+			"url": "https://front-end.social/@leaverou/109882089270824262",
+			"author": {
+				"name": "Lea Verou, PhD",
+				"url": "https://front-end.social/@leaverou",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/949/173/613/152/original/4544b9a1d901ce42.png"
+			},
+			"date": "2023-02-17T21:00:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes!! I've been saying this FOR YEARS. If it takes effort to donate, most people just keep postponing it forever — or never think about it. And one day, it's too late. And relatives are usually too heartbroken to donate.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109882152014613352",
+			"parentId": "109882052840463912",
+			"url": "https://ruby.social/@redknitin/109882151942247759",
+			"author": {
+				"name": "Nitin",
+				"url": "https://ruby.social/@redknitin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/631/753/547/550/276/original/ae5ee582b7596d8d.png"
+			},
+			"date": "2023-02-17T21:16:18.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A couple of years ago, the default on installing software was to have no authentication &amp; to listen for network connections to make it easy for someone to try it. Turns out they didn’t change the defaults when going into a production environment &amp; then they complained about getting hacked. Media firms would write in headlines, “Software X was hacked,” as though trying to say burglars hacked a door when instead the door was wide open.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109882741860007534",
+			"parentId": 0,
+			"url": "https://front-end.social/@lonekorean/109882741835552888",
+			"author": {
+				"name": "Will Boyd",
+				"url": "https://front-end.social/@lonekorean",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/336/055/750/724/original/e577b97891570e9e.png"
+			},
+			"date": "2023-02-17T23:46:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> haha this struck a nerve in me I haven't thought about in years.</p><p>When I was a teen and got my driver's license, my mom told me not to be an organ donor because she felt weird about it.</p><p>Then my mom renewed hers a few weeks later and became an organ donor when she realized you got a discount for it.</p><p>She laughed it off but I was so pissed that me wanting to do the right thing was worth less than her $10 discount.</p><p>Sorry, venting, tangent, I agree with your point. 😄</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109882754573519644",
+			"parentId": "109882741860007534",
+			"url": "https://fediverse.zachleat.com/@zachleat/109882754573519644",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-17T23:49:33.647Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@lonekorean\" class=\"u-url mention\">@<span>lonekorean</span></a></span> parents say the wildest things 🫣</p>",
+			"via": "fediverse"
+		}
+	]
+}

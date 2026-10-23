@@ -1,0 +1,46 @@
+{
+	"comments": [
+		{
+			"id": "110549131652310303",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/110549131556752076",
+			"private": true,
+			"date": "2023-06-15T16:17:59.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110549154113939986",
+			"parentId": "110549131652310303",
+			"url": "https://fediverse.zachleat.com/@zachleat/110549154113939986",
+			"private": true,
+			"date": "2023-06-15T16:23:43.661Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110558235051175395",
+			"parentId": 0,
+			"url": "https://m.webtoo.ls/@patak/110558234991944650",
+			"author": {
+				"name": "patak",
+				"url": "https://m.webtoo.ls/@patak",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/467/347/427/647/201/original/3506ee2939de8823.jpeg"
+			},
+			"date": "2023-06-17T06:53:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@vite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>vite</span></a></span> Still hard to believe. Vite did a 5x this past year... at this trend, it will surpass webpack's npm downloads next year. I think it should slow down a bit from now on though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110560519933024456",
+			"parentId": "110558235051175395",
+			"url": "https://fediverse.zachleat.com/@zachleat/110560519933024456",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-17T16:34:12.297Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@vite\" class=\"u-url mention\">@<span>vite</span></a></span> keep going!! 🏆🏆🏆</p>",
+			"via": "fediverse"
+		}
+	]
+}

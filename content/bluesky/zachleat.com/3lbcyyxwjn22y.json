@@ -1,0 +1,116 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbcz5b6nic2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbcz5b6nic2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-19T17:58:05.806Z",
+			"content": "<p>even our UI has trouble with optimism nowadays</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3lbd262hv622v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbcz5b6nic2e",
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3lbd262hv622v",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2024-11-19T18:16:26.064Z",
+			"content": "<p>I mean</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lbd2673bxk2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lbd2673bxk2g",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2024-11-19T18:16:30.894Z",
+			"content": "<p>Oont hghow doez zat maek hyou feeel?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:undiklyk2gorajm3rq3ejyns/app.bsky.feed.post/3lbd46edi5c2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bebraw.bsky.social/post/3lbd46edi5c2o",
+			"author": {
+				"name": "Juho Vepsäläinen",
+				"url": "https://bsky.app/profile/bebraw.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:undiklyk2gorajm3rq3ejyns/bafkreihaux42ggt2yek4y4nnbehxj46gkon2srdlo7g3fbafkbsvppface"
+			},
+			"date": "2024-11-19T18:52:23.889Z",
+			"content": "<p>I wonder what a pessimistic UI would look like.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbd4o5z2os2r",
+			"parentId": "at://did:plc:undiklyk2gorajm3rq3ejyns/app.bsky.feed.post/3lbd46edi5c2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbd4o5z2os2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-19T19:01:14.128Z",
+			"content": "<p>Good question!</p>\n<p>“Sorry I can’t do that, I’m betting the database is down—I didn’t check, but I’m just assuming”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hewhabm3uw73cbz27uwuydcg/app.bsky.feed.post/3lbd5m6ccms22",
+			"parentId": "at://did:plc:undiklyk2gorajm3rq3ejyns/app.bsky.feed.post/3lbd46edi5c2o",
+			"url": "https://bsky.app/profile/knowler.dev/post/3lbd5m6ccms22",
+			"private": true,
+			"date": "2024-11-19T19:18:01.063Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbdam2dofs2l",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lbd2673bxk2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbdam2dofs2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-19T20:11:38.140Z",
+			"content": "<p>gesundheit</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbdantbp3s2l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbcz5b6nic2e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbdantbp3s2l",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-19T20:12:37.844Z",
+			"content": "<p>vindicated <a href=\"https://bsky.app/profile/pfrazee.com/post/3lbd5uyzdj22e\">bsky.app/profile/pfra...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbdcll34xk2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbdantbp3s2l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbdcll34xk2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-19T20:47:09.615Z",
+			"content": "<p>I definitely prefer error messages over whatever happened on bluesky today—a bunch of likes and boosts just *never happened* which will have me doubting the reliability of every action I do on this site for a day or two</p>",
+			"via": "bluesky"
+		}
+	]
+}

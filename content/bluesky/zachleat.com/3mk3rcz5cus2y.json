@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3mk3ryggq3k2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericportis.com/post/3mk3ryggq3k2o",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://bsky.app/profile/ericportis.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:554zgjahdelvrbspjpeofd2o/bafkreih65ewisfijncanen7pvwi4bf3x2qzqfrekssqw7uko5g6yw7rlhm"
+			},
+			"date": "2026-04-22T15:14:25.915Z",
+			"content": "<p>On the “””plus””” side, we are unearthing some random SaaS dependencies that nobody at the company still has admin credentials for. We’re turning unknown unknowns into known unknowns and ya know—that’s progress 🙃</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mk3sh56rvc23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mk3sh56rvc23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-22T15:22:39.538Z",
+			"content": "<p>anyway, <a href=\"https://www.infostealers.com/article/breaking-vercel-breach-linked-to-infostealer-infection-at-context-ai/\">www.infostealers.com/article/brea...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mk3shydkoc23",
+			"parentId": "at://did:plc:554zgjahdelvrbspjpeofd2o/app.bsky.feed.post/3mk3ryggq3k2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mk3shydkoc23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-04-22T15:23:08.005Z",
+			"content": "<p>yay! …wait</p>",
+			"via": "bluesky"
+		}
+	]
+}

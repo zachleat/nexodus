@@ -1,0 +1,251 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mabqon3r6c2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mabqon3r6c2d",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2025-12-18T17:55:05.765Z",
+			"content": "<p>The fact that I cannot tell whether this is a joke or not says a lot about the JS ecosystem 🫠</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mabsoxbu3k2y",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mabqon3r6c2d",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mabsoxbu3k2y",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2025-12-18T18:31:03.934Z",
+			"content": "<p>I feel like it says more about you. The README is very clear that this is an experiment</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:v7szyhjg6teo6ny5axf35h6y/app.bsky.feed.post/3mabtr3tz5k24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/twnsnd.com/post/3mabtr3tz5k24",
+			"author": {
+				"name": "Ryan Townsend",
+				"url": "https://bsky.app/profile/twnsnd.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:v7szyhjg6teo6ny5axf35h6y/bafkreich352dj4tkq5tsbhytybfa5d3emyyoadvqjfrrmzy46fimvddkpa"
+			},
+			"date": "2025-12-18T18:50:09.574Z",
+			"content": "<p>The only commit checks out.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mabup2nsjs2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mabup2nsjs2c",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2025-12-18T19:06:54.956Z",
+			"content": "<p>Relieved (but not much) to see it's actually BEMSQL, and not TailwindSQL.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xfqqhzj5bkeann55ujkoxpjm/app.bsky.feed.post/3mabupevops2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/aqandrew.com/post/3mabupevops2q",
+			"author": {
+				"name": "Andrew Aquino",
+				"url": "https://bsky.app/profile/aqandrew.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xfqqhzj5bkeann55ujkoxpjm/bafkreidnuv7vig7ezdwmbzpw2mt3efkc5pcpqn5g5f6cm6ycwejfzcitha"
+			},
+			"date": "2025-12-18T19:07:05.700Z",
+			"content": "<p>&lt;DB className=\"robert db-students-drop\" /&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mabv3z4rl22c",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mabup2nsjs2c",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mabv3z4rl22c",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2025-12-18T19:14:09.556Z",
+			"content": "<p>Although, from a technical perspective, TailwindSQL notation would make more sense here imho...</p>\n<p>&lt;DB class=\"database-[mydb] table-[users] field-[fname] limit-5 order-desc\" as=\"li\"/&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mabvaaazkc2c",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mabv3z4rl22c",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mabvaaazkc2c",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2025-12-18T19:16:31.254Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mabwi5rlbs2e",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mabvaaazkc2c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mabwi5rlbs2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-18T19:38:50.827Z",
+			"content": "<p>Keep going 😈</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3mac3kinqvk2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3mac3kinqvk2w",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-12-18T21:09:38.054Z",
+			"content": "<p>I usually refrain from shitting on people’s work, but this is legitimately the worst fucking idea. Omg, what a laugh.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mac3nx3e3s23",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3mac3kinqvk2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mac3nx3e3s23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-18T21:11:33.844Z",
+			"content": "<p>😅 I believe that it’s satire</p>\n<p>…wait — it’s satire, right?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mac3piyaok2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mac3piyaok2j",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2025-12-18T21:12:26.171Z",
+			"content": "<p>Psshhhhh don't even need Tailwind for this.</p>\n<p><a href=\"https://bsky.app/profile/did:plc:xhhcrzsilpamjmz4dvrpt7df\">@chriscoyier.net</a> shows us how ;)</p>\n<p><a href=\"https://css-tricks.com/css-database-queries/\">css-tricks.com/css-database...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:syq6rmmuepxy7vmd572bwyfu/app.bsky.feed.post/3mac3vhqqgk2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mac3nx3e3s23",
+			"url": "https://bsky.app/profile/johnfallsopp.com/post/3mac3vhqqgk2g",
+			"author": {
+				"name": "John Allsopp",
+				"url": "https://bsky.app/profile/johnfallsopp.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:syq6rmmuepxy7vmd572bwyfu/bafkreiedz2afwulqhjlcyjzeg62dfu4zqwhyd7aznv6hpduxnxvtqb26ym"
+			},
+			"date": "2025-12-18T21:15:46.193Z",
+			"content": "<p>I needed to check the date. Either very early or very late April fools joke?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mac3y23toc2m",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mac3piyaok2j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mac3y23toc2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-18T21:17:12.550Z",
+			"content": "<p>as an HTML programmer I command the respect of real developers everywhere and will not sully myself by learning CSS</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mac3zz7mic2m",
+			"parentId": "at://did:plc:syq6rmmuepxy7vmd572bwyfu/app.bsky.feed.post/3mac3vhqqgk2g",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mac3zz7mic2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-18T21:18:18.733Z",
+			"content": "<p>look, gregorian isn’t the only calendaring system</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3mac6eueia22w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mac3nx3e3s23",
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3mac6eueia22w",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-12-18T22:00:10.233Z",
+			"content": "<p>Not satire, just a goofy project. Good on them—but also, cursed idea</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mac6mlv2ac27",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3mac6eueia22w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mac6mlv2ac27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-12-18T22:04:29.774Z",
+			"content": "<p>having real trouble not seeing this as satire 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cjinybngj7dlvspewakwjab2/app.bsky.feed.post/3maczun6shk26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mindplay.dk/post/3maczun6shk26",
+			"author": {
+				"name": "Rasmus Schultz",
+				"url": "https://bsky.app/profile/mindplay.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cjinybngj7dlvspewakwjab2/bafkreibqgovup3fiqtxmawik2bcsdeap4os7bz7mubvpeg6mmsbokcurve"
+			},
+			"date": "2025-12-19T06:12:10.607Z",
+			"content": "<p>but is it optimized for AI?</p>\n<p>don't want to get left behind!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:t4q2vzcyi5qjmevioyukkmwp/app.bsky.feed.post/3mad452auc22e",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mabv3z4rl22c",
+			"url": "https://bsky.app/profile/chrizzdf.dev/post/3mad452auc22e",
+			"author": {
+				"name": "ChrizzDF",
+				"url": "https://bsky.app/profile/chrizzdf.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:t4q2vzcyi5qjmevioyukkmwp/bafkreic6nyqytt5lrpj53pskqkgyhurub4zojij44jgnun2cryyxzupkkm"
+			},
+			"date": "2025-12-19T06:52:40.225Z",
+			"content": "<p>limit-[n] oder-[desc]</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3madf4vl4uk23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mac6mlv2ac27",
+			"url": "https://bsky.app/profile/benschwarz.bsky.social/post/3madf4vl4uk23",
+			"author": {
+				"name": "Ben Schwarz",
+				"url": "https://bsky.app/profile/benschwarz.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz53vdkjqexeqipseg7xfxoj/bafkreic2cqn2cbledmqm5rnjfxkvgxnd2dh4bsnrpbsowdvtjsyrkpdzjy"
+			},
+			"date": "2025-12-19T09:33:38.993Z",
+			"content": "<p>I love how hard they committed to it, it’s perfect 😍 and horrible, I hate them, and love them.</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "111592376912426710",
+			"parentId": 0,
+			"url": "https://hyem.tech/@rob/111592376815886580",
+			"author": {
+				"name": "Rob Anderson",
+				"url": "https://hyem.tech/@rob",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/433/670/204/849/335/original/0ba9ba70b91f576c.jpeg"
+			},
+			"date": "2023-12-16T22:08:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was wondering if ESM was going to be in v3! I was thinking it would make sharing code between eleventy and browser super easy for my Rebrew thing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111592407924385409",
+			"parentId": "111592376912426710",
+			"url": "https://fediverse.zachleat.com/@zachleat/111592407924385409",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-16T22:16:53.494Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hyem.tech/@rob\" class=\"u-url mention\">@<span>rob</span></a></span> yeah! It’s the “flagship” feature for the release 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596098217947359",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111596098217947359",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-17T13:55:22.905Z",
+			"content": "<p><a href=\"https://www.11ty.dev/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/</span><span class=\"invisible\"></span></a> is now built with Eleventy v3 *exclusively* using ESM (no CommonJS)</p><p>View the final PR <a href=\"https://github.com/11ty/11ty-website/pull/1636\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/11ty-website/p</span><span class=\"invisible\">ull/1636</span></a></p><p>(Please let me know if you see anything… weird 😅)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596144807358514",
+			"parentId": "111596098217947359",
+			"url": "https://fosstodon.org/@pauleveritt/111596144786711753",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-12-17T14:07:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If you started this after doing zachleat.com yesterday, then that’s...comforting. 1d is fast.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596175921045459",
+			"parentId": "111596144807358514",
+			"url": "https://fediverse.zachleat.com/@zachleat/111596175921045459",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-17T14:15:08.561Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> just changing require to import and  `module.exports` to `export default` 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596180184575233",
+			"parentId": "111596175921045459",
+			"url": "https://fediverse.zachleat.com/@zachleat/111596180184575233",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-17T14:16:13.618Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> I should also note that none of that work is required. I could have just used CJS with Eleventy 3 (or even incremental conversion using .cjs)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596641578387691",
+			"parentId": "111596098217947359",
+			"url": "https://indieweb.social/@iamschulz/111596641553046504",
+			"author": {
+				"name": "Daniel Schulz",
+				"url": "https://indieweb.social/@iamschulz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/471/918/137/259/856/original/1d929841798fadb9.png"
+			},
+			"date": "2023-12-17T16:13:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Anything weird? Your button seems too small.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111596663847102201",
+			"parentId": "111596098217947359",
+			"url": "https://mastodon.cc/@jgarber/111596663626079521",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-12-17T16:19:10.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111598484175065196",
+			"parentId": "111596641578387691",
+			"url": "https://fediverse.zachleat.com/@zachleat/111598484175065196",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T00:02:09.722Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@iamschulz\" class=\"u-url mention\">@<span>iamschulz</span></a></span> haha my button size integration test is passing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599892621527411",
+			"parentId": "111596098217947359",
+			"url": "https://indieweb.social/@dmc/111599892548561547",
+			"author": {
+				"name": "David McCormick",
+				"url": "https://indieweb.social/@dmc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/120/362/328/540/original/7ddc9f83a1d2778b.png"
+			},
+			"date": "2023-12-18T06:00:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 💯</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601983288915647",
+			"parentId": "111596098217947359",
+			"url": "https://fediverse.zachleat.com/@zachleat/111601983288915647",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T14:52:01.961Z",
+			"content": "<p>If you want to try out the new Eleventy v3 alpha releases, read this:</p><p><a href=\"https://www.11ty.dev/blog/canary-eleventy-v3/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/blog/canary-eleventy-</span><span class=\"invisible\">v3/</span></a></p><p>(via <a href=\"https://fosstodon.org/@eleventy/111601879131651531\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@eleventy/111601</span><span class=\"invisible\">879131651531</span></a>)</p>",
+			"via": "fediverse"
+		}
+	]
+}

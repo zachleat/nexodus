@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kmxpm6a4gw2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3kmxpm6a4gw2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-03-05T17:44:18.815Z",
+			"content": "<p>A few samples:</p>\n<p>1️⃣ <a href=\"https://nextjs.org\">nextjs.org</a>: FID 19ms ✅ is now INP 363ms ⚠️<br>\n2️⃣ <a href=\"https://react.dev\">react.dev</a>: FID 18ms ✅ is now INP 408ms ⚠️<br>\n3️⃣ <a href=\"https://vercel.com\">vercel.com</a>: FID 135ms ⚠️ is now INP 975ms ⛔</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3kmxpzsl33l2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3kmxpzsl33l2m",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2024-03-05T17:51:56.439Z",
+			"content": "<p>People seem spend a lot of time avoiding writing HTML. Not a criticism, I guess?</p>",
+			"via": "bluesky"
+		}
+	]
+}

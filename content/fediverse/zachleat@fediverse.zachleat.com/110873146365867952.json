@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "110873167865616927",
+			"parentId": 0,
+			"url": "https://mastodon.cc/@jgarber/110873167733007353",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://mastodon.cc/@jgarber",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
+			},
+			"date": "2023-08-11T21:44:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110873299479155512",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@pauleveritt/110873299432257966",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2023-08-11T22:18:08.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> This brings me joy. I know exactly what I'll do with this in our gigantic 11ty+Vite+TSX thingy. </p><p>Overhaul our test structure to piss off <span class=\"h-card\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110873317415734875",
+			"parentId": "110873299479155512",
+			"url": "https://mastodon.social/@khalidabuhakmeh/110873317370859954",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-08-11T22:22:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>pauleveritt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> I love good tests. We disagree on what a good test is. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110873603494878568",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@drsensor/110873603464223999",
+			"author": {
+				"name": "૮༼⚆︿⚆༽つ / Wildan",
+				"url": "https://fosstodon.org/@drsensor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/309/258/761/047/158/original/702a04c0baca27e5.png"
+			},
+			"date": "2023-08-11T23:35:27.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Yay!! Is it part of the grand plan to fully migrate from CJS to ESM?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110873648983549928",
+			"parentId": "110873603494878568",
+			"url": "https://fediverse.zachleat.com/@zachleat/110873648983549928",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-11T23:47:02.432Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@drsensor\" class=\"u-url mention\">@<span>drsensor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> yeah, I think so! We just want to make sure to support both ESM and CJS projects moving forward</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110873891475030482",
+			"parentId": 0,
+			"url": "https://mastodon.social/@tinynow/110873891331242112",
+			"author": {
+				"name": "tinynow",
+				"url": "https://mastodon.social/@tinynow",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/143/532/238/772/828/original/a0f9d27d518e1e44.jpg"
+			},
+			"date": "2023-08-12T00:48:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> Great because...</p>",
+			"via": "fediverse"
+		}
+	]
+}

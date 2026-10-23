@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "111105245509002056",
+			"parentId": 0,
+			"url": "https://mastodon.social/@chriskirknielsen/111105245471885866",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://mastodon.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/992/721/652/871/original/a9e8f3a8153833bc.jpg"
+			},
+			"date": "2023-09-21T21:25:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Hi, hope you can help me find a bit of a underground blog post. I'm looking for a post about CSS, the page has a purple pixel somewhere and the author's name had an L in it. It was published on a Tuesday sometime between 1999 and 2022, can you find that in the next five minutes please?\"</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111105281398128591",
+			"parentId": "111105245509002056",
+			"url": "https://fediverse.zachleat.com/@zachleat/111105281398128591",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T21:34:12.583Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> no problem let me consult my dewey hexadecimal card design system</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111105365108353228",
+			"parentId": "111105281398128591",
+			"url": "https://front-end.social/@mia/111105365087031583",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2023-09-21T21:55:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriskirknielsen</span></a></span> Eckles has an L, just saying.</p><p>So do Manuel, Michelle, and Rachel. I think that's pretty much it, tho. I can't think of any other L names. Should narrow your search significantly. Cheers.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111105402646245537",
+			"parentId": "111105365108353228",
+			"url": "https://fediverse.zachleat.com/@zachleat/111105402646245537",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T22:05:02.684Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> and Bu$ine$$-Bu$ine$$ Dot Bu$ine$$ contains no L’s—interesting</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111105617213021512",
+			"parentId": "111105402646245537",
+			"url": "https://front-end.social/@eeeps/111105617192880453",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-09-21T22:59:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mia</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriskirknielsen</span></a></span> “You must be mistaken. The WWW contains no Ls, it’s undefeated, all dubs baby!!!” *airhorn* [immediately fired for airhorning in the library]</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111105657779816978",
+			"parentId": "111105402646245537",
+			"url": "https://notacult.social/@fimion/111105657751650858",
+			"author": {
+				"name": "Alex Riviere",
+				"url": "https://notacult.social/@fimion",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/790/722/650/886/original/6fb0d70ec027352a.jpg"
+			},
+			"date": "2023-09-21T23:09:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mia</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriskirknielsen</span></a></span> nor does app-app.app or Party-Party.party</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111105762036610780",
+			"parentId": "111105617213021512",
+			"url": "https://fediverse.zachleat.com/@zachleat/111105762036610780",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-21T23:36:26.545Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> all I do is WWW no matter what—DJ Khalid, probably</p>",
+			"via": "fediverse"
+		}
+	]
+}

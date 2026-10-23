@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ny4wl2lgdvgej5rzaxk45ccn/app.bsky.feed.post/3jwfw3eudp22j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jonkuperman.com/post/3jwfw3eudp22j",
+			"author": {
+				"name": "Jon Kuperman",
+				"url": "https://bsky.app/profile/jonkuperman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ny4wl2lgdvgej5rzaxk45ccn/bafkreibcqknirreict4rvopgwy2irmaqjavazdnpdbo5l5p2oqjhrmvtrm"
+			},
+			"date": "2023-05-23T16:38:00.389Z",
+			"content": "<p>I need to do this but also don’t want to lose jkup@</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwfwbrycl32o",
+			"parentId": "at://did:plc:ny4wl2lgdvgej5rzaxk45ccn/app.bsky.feed.post/3jwfw3eudp22j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwfwbrycl32o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-23T16:41:36.154Z",
+			"content": "<p>what goes jkup must come jkdown</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dfffydq7eqa5yof4cfeh23vh/app.bsky.feed.post/3jwfz7yvg5k2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lindsaykwardell.com/post/3jwfz7yvg5k2k",
+			"author": {
+				"name": "Lindsay Wardell",
+				"url": "https://bsky.app/profile/lindsaykwardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dfffydq7eqa5yof4cfeh23vh/bafkreia4l2wui5ltcfte7amtxs2xvx37pwhbr3vfq2cm23o3iyr24jb7dm"
+			},
+			"date": "2023-05-23T17:34:16.801Z",
+			"content": "<p>How does one do that?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwfzbn2o622v",
+			"parentId": "at://did:plc:dfffydq7eqa5yof4cfeh23vh/app.bsky.feed.post/3jwfz7yvg5k2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwfzbn2o622v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-23T17:35:12.043Z",
+			"content": "<p>Settings -&gt; Change Handle!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dfffydq7eqa5yof4cfeh23vh/app.bsky.feed.post/3jwfznajvrc2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwfzbn2o622v",
+			"url": "https://bsky.app/profile/lindsaykwardell.com/post/3jwfznajvrc2q",
+			"author": {
+				"name": "Lindsay Wardell",
+				"url": "https://bsky.app/profile/lindsaykwardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dfffydq7eqa5yof4cfeh23vh/bafkreia4l2wui5ltcfte7amtxs2xvx37pwhbr3vfq2cm23o3iyr24jb7dm"
+			},
+			"date": "2023-05-23T17:41:41.058Z",
+			"content": "<p>Neat! Do you know if there's a way to set a name for it too? Feels weird that my handle is the domain name, not a person at that domain.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwg2dhqdcc26",
+			"parentId": "at://did:plc:dfffydq7eqa5yof4cfeh23vh/app.bsky.feed.post/3jwfznajvrc2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwg2dhqdcc26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-23T17:54:06.925Z",
+			"content": "<p>I don’t think so, but I’m kinda new around here 🫠</p>",
+			"via": "bluesky"
+		}
+	]
+}

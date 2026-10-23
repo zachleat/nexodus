@@ -1,0 +1,358 @@
+{
+	"comments": [
+		{
+			"id": "111417009666977726",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/111417009537927902",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2023-11-15T22:50:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Been debating this all year, and checking caniuse, and debating, and checking. I think it’s safe. But I still haven’t removed those JPG “fallbacks” yet.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417040227441265",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/111417040145172024",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-11-15T22:58:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not sure what \"baseline\" means. If it's &lt;img src=\"thing.webp\"&gt; then ahahaha no chance.<br>If &lt;picture&gt;&lt;source srcset=\"thing.webp\" type=\"image/webp\"&gt;&lt;img src=\"thing.png\"&gt;&lt;/picture&gt; counts as \"using webp as a baseline\" then totally, no problem with that. (Although if you're doing that anyway, then might as well add avif, etc, etc.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417055482755666",
+			"parentId": 0,
+			"url": "https://pdx.social/@evanleck/111417055365886668",
+			"author": {
+				"name": "Evan",
+				"url": "https://pdx.social/@evanleck",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/437/287/412/946/038/original/d2b2ac651bc17bfb.png"
+			},
+			"date": "2023-11-15T23:02:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> given Safari 16 - 17 (with full support) released just over a year ago, no, at least not without fallback formats.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417063337806664",
+			"parentId": "111417040227441265",
+			"url": "https://fediverse.zachleat.com/@zachleat/111417063337806664",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-15T23:04:27.433Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> I meant baseline as in &lt;img src=&quot;thing.webp&quot; alt=&quot;…&quot;&gt;, yep!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417065327604244",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@jgamble/111417065280911090",
+			"author": {
+				"name": "John M. Gamble",
+				"url": "https://fosstodon.org/@jgamble",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-15T23:04:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>\"Never\" is a bit much, so it's not my choice, but currently? Nope.</p><p>But in as little as ten years? Maybe so.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417071133677561",
+			"parentId": "111417065327604244",
+			"url": "https://fediverse.zachleat.com/@zachleat/111417071133677561",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-15T23:06:26.389Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@jgamble\" class=\"u-url mention\">@<span>jgamble</span></a></span> whew, you’re right that copy is bad—I edited the options</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417075941106641",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111417075941106641",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-15T23:07:39.745Z",
+			"content": "<p>as <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@jgamble\" class=\"u-url mention\">@<span>jgamble</span></a></span> noted, the use of &quot;Never&quot; in the first poll option was not quite good enough—I’ve edited the options which means y’all get to vote again 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417116704960706",
+			"parentId": 0,
+			"url": "https://pleroma.envs.net/objects/4d2bd38b-51ce-4d2c-b476-d3b295d1f80f",
+			"author": {
+				"name": "Seirdy",
+				"url": "https://pleroma.envs.net/users/Seirdy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/507/110/256/734/original/763ba80184ca4e95.png"
+			},
+			"date": "2023-11-15T23:16:46.126Z",
+			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not all clients are browsers, so no. Then there’s not just image viewing programs, but also image thumbnailers, messaging apps…</p><p>If you sent an image to get printed on an ID card, how likely do you think it is to work with WebP? Hell, Bing can barely handle PNG favicons.</p><p>I wouldn’t expect WebP to be supported by default.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417119240306693",
+			"parentId": 0,
+			"url": "https://front-end.social/@Fyrd/111417118938612515",
+			"author": {
+				"name": "Alexis Deveria",
+				"url": "https://front-end.social/@Fyrd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/502/817/699/134/original/0d08d4f26d5ff9ba.jpg"
+			},
+			"date": "2023-11-15T23:18:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is funny to me because I recently added a few images to the caniuse site and I only used webp 😅 Fairly comfortable with that given the audience.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417127761285371",
+			"parentId": "111417063337806664",
+			"url": "https://mastodon.social/@sil/111417127471902562",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-11-15T23:20:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> voted for \"I would not currently do this\" :-) On the grounds that there's very little reason to do it; if you're switched-on enough to know about webp then you can write &lt;picture&gt; instead of &lt;img&gt;, and making multiple versions of your images is a one-time-only effort.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417167636200411",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cbirdsong/111417167322277451",
+			"author": {
+				"name": "Cory Birdsong",
+				"url": "https://mastodon.social/@cbirdsong",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/543/551/045/998/536/original/e10f042a7b2e4a2e.jpg"
+			},
+			"date": "2023-11-15T23:30:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have been advising to keep JPEG as the canonical copy and generate webp/avif from that since you can generate a JPEG XL version from it losslessly, unlike webp</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417185661401606",
+			"parentId": 0,
+			"url": "https://mastodon.gamedev.place/@samf/111417185546551887",
+			"author": {
+				"name": "samf",
+				"url": "https://mastodon.gamedev.place/@samf",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-15T23:35:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the secret true answer here is “it’s already the baseline because any website at CDN scale (Cloudflare, etc) is already likely automatically converting images to WebP if there’s a significant file size improvement” 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111417346716712830",
+			"parentId": 0,
+			"url": "https://mastodon.social/@muan/111417346634034897",
+			"author": {
+				"name": "Mu-An",
+				"url": "https://mastodon.social/@muan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/399/214/134/125/634/original/4207c4c92001e33f.png"
+			},
+			"date": "2023-11-16T00:16:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the cost for graceful degradation on this is too high imo.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111418040206065288",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@webaware/111418040169973568",
+			"private": true,
+			"date": "2023-11-16T03:12:52.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111418250003976833",
+			"parentId": 0,
+			"url": "https://mastodon.world/@exchgr/111418249911482550",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-11-16T04:06:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it might be just slightly early, but i’d go with it, depending on the audience. if ~100% compatibility and/or support for older devices is a goal, perhaps offering a fallback to jpeg with a &lt;picture&gt; tag might cover it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111418472767107219",
+			"parentId": "111417127761285371",
+			"url": "https://platopunk.com/@khoi/statuses/01HFB85E68FZR7V2ZV8FENDMM5",
+			"author": {
+				"name": "Khoi :platopunk:",
+				"url": "https://platopunk.com/@khoi",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-16T05:02:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> why?</p><p>My blog (<a href=\"https://blog.imkhoi.com\" rel=\"nofollow noopener\" target=\"_blank\">https://blog.imkhoi.com</a>) current uses .WEBP and has had no issues. Most browsers support .WEBP nowadays.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111419373216020045",
+			"parentId": "111418472767107219",
+			"url": "https://mastodon.social/@sil/111419373141298457",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-11-16T08:51:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://platopunk.com/@khoi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khoi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ...exactly because you used the word \"most\" there, is why :) I agree; it'd probably be fine to use webp alone everywhere, but being sure of that is hard. I am sure of it for pngs and jpegs. So, if I put any effort into thinking about this question whatsoever, I might as well put that effort into using both inside a &lt;picture&gt;, and that's what I do.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111419803969864049",
+			"parentId": 0,
+			"url": "https://moth.zone/objects/176cfd38-be1c-439d-bf23-00793a17bd05",
+			"author": {
+				"name": "moth",
+				"url": "https://moth.zone/users/moth",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-16T10:41:21.918Z",
+			"content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> webp is barely supported at all outside of browsers; there's a reason people hate it",
+			"via": "fediverse"
+		},
+		{
+			"id": "111419918795339018",
+			"parentId": 0,
+			"url": "https://corteximplant.com/@kaiserkiwi/111419918633731492",
+			"author": {
+				"name": "kaiserkiwi :kiwibird:",
+				"url": "https://corteximplant.com/@kaiserkiwi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/456/449/592/494/865/original/1cf4b0eb55610054.jpeg"
+			},
+			"date": "2023-11-16T11:10:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Depends on the target group. But in most cases it should be definitely safe.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111420056781399289",
+			"parentId": 0,
+			"url": "https://types.pl/@toastal/111420056709853564",
+			"author": {
+				"name": "ｔｏ⟁ｓｔ⟁ｌ",
+				"url": "https://types.pl/@toastal",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-16T11:45:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I choose JPG/PNG as a base but also ship JPEG XL</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111420063043130490",
+			"parentId": "111419373216020045",
+			"url": "https://toot.cafe/@aardrian/111420062857628902",
+			"author": {
+				"name": "Adrian Roselli",
+				"url": "https://toot.cafe/@aardrian",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/545/392/399/405/original/dd521c9d2f72660c.jpg"
+			},
+			"date": "2023-11-16T11:47:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://platopunk.com/@khoi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khoi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This (for why I voted no on WebP).</p><p>I also have learned Can I Use is not guaranteed to be accurate and browser vendors (Safari) actively tweak support charts via PRs to make their support for a technology look better than it is. I no longer decide based on its charts.</p><p>Also also, lack of support outside browsers given the images I use sometimes get pulled into non-web contexts.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111420252930877983",
+			"parentId": "111420063043130490",
+			"url": "https://metalhead.club/@flori/111420252914088079",
+			"author": {
+				"name": "Florian Schroiff :damnified:",
+				"url": "https://metalhead.club/@flori",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/966/866/711/677/639/original/2b84ef05e4cd4a5b.jpeg"
+			},
+			"date": "2023-11-16T12:35:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@aardrian\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aardrian</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://platopunk.com/@khoi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khoi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> avif is “kinda” supported on iOS. I see it in the browser, I can save it to the photos app, but when I share it in messages it displays as a data file. Very irritating.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111420442212458980",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@chris_hayes/111420441883421006",
+			"private": true,
+			"date": "2023-11-16T13:23:39.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111422858911969374",
+			"parentId": 0,
+			"url": "https://mastodon.social/@knaackbuilt/111422858724163410",
+			"author": {
+				"name": "knaaaaaack",
+				"url": "https://mastodon.social/@knaackbuilt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/929/989/207/421/original/24d790cc88e81ae0.png"
+			},
+			"date": "2023-11-16T23:38:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  mastodon polls are very energetic</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111424796262319064",
+			"parentId": 0,
+			"url": "https://indieweb.social/@ascorbic/111424796234493580",
+			"author": {
+				"name": "Matt Kane",
+				"url": "https://indieweb.social/@ascorbic",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/634/288/725/547/original/9edf996d097c19fa.jpg"
+			},
+			"date": "2023-11-17T07:51:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Really it's there same question as \"am I ok with this site only targeting modern browsers\". For a personal project, or something where the audience will be likely to have that then sure. If it's a business thing then so way. Of course the real answer is use a CDN or picture tag.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111461706052911134",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@dpom/111461706037860387",
+			"author": {
+				"name": "Dusty Pomerleau",
+				"url": "https://fosstodon.org/@dpom",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/236/949/771/783/169/original/b24293c1c7d961e3.jpeg"
+			},
+			"date": "2023-11-23T20:17:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I use AVIF with WebP fallback. I think the more interesting debate is about the future of JXL:</p><p><a href=\"https://dev.to/jonarnes/get-ready-for-jpeg-xl-today-204j\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dev.to/jonarnes/get-ready-for-</span><span class=\"invisible\">jpeg-xl-today-204j</span></a></p><p><a href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bugs.chromium.org/p/chromium/i</span><span class=\"invisible\">ssues/detail?id=1178058#c84</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111576268527747793",
+			"parentId": 0,
+			"url": "https://social.treehouse.systems/@lonjil/111576267559054643",
+			"author": {
+				"name": "lonjil",
+				"url": "https://social.treehouse.systems/@lonjil",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-12-14T01:52:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> apologies for barging in on an old post like this, but I believe jpegli, a new jpeg encoder from the JXL people, will be released next year. In what testing I've done and seen from other people, the JPEGs it produces are smaller and higher quality than what cwebp can do. So to me even if webp is a safe choice, I see little reason to use it when legacy jpeg continues to improve year after year.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111579448441744335",
+			"parentId": "111576268527747793",
+			"url": "https://fediverse.zachleat.com/@zachleat/111579448441744335",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-14T15:21:07.482Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.treehouse.systems/@lonjil\" class=\"u-url mention\">@<span>lonjil</span></a></span> it does seem to be between a rock and a hard place right now</p>",
+			"via": "fediverse"
+		}
+	]
+}

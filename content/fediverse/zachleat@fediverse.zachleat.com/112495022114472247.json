@@ -1,0 +1,59 @@
+{
+	"comments": [
+		{
+			"id": "112495114142114228",
+			"parentId": 0,
+			"url": "https://typo.social/@pixelambacht/112495114095421869",
+			"author": {
+				"name": "Roel Nieskens",
+				"url": "https://typo.social/@pixelambacht",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/505/915/707/163/original/d678aba486dd1b29.png"
+			},
+			"date": "2024-05-24T08:26:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I hope it blows over, no pun intended.</p><p>(Sorry, I intended).</p><p>But seriously, hope you're all safe!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112495136578229632",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112495136578229632",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-24T08:32:39.604Z",
+			"content": "<p>All clear! ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112496520418792247",
+			"parentId": "112495136578229632",
+			"url": "https://fosstodon.org/@robcee/112496520385265190",
+			"private": true,
+			"date": "2024-05-24T14:24:34.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112496613101290633",
+			"parentId": "112496520418792247",
+			"url": "https://fediverse.zachleat.com/@zachleat/112496613101290633",
+			"private": true,
+			"date": "2024-05-24T14:48:09.560Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112496618420716530",
+			"parentId": "112495114142114228",
+			"url": "https://fediverse.zachleat.com/@zachleat/112496618420716530",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-24T14:49:30.728Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@pixelambacht\" class=\"u-url mention\">@<span>pixelambacht</span></a></span> haha — thank you! everyone is safe!</p>",
+			"via": "fediverse"
+		}
+	]
+}

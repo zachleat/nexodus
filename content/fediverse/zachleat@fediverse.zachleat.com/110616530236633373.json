@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "110616558904589822",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@martycoote/110616558874149971",
+			"author": {
+				"name": "Marty Party",
+				"url": "https://hachyderm.io/@martycoote",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/381/596/224/030/734/original/1e80e68348dc8861.jpg"
+			},
+			"date": "2023-06-27T14:05:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> interesting. I looked at app router a few weeks ago and deemed it to be too big a port to take on at this time. Glad I did I shall pump the breaks harder on us using it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110616564912649942",
+			"parentId": "110616558904589822",
+			"url": "https://fediverse.zachleat.com/@zachleat/110616564912649942",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-27T14:07:10.819Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@martycoote\" class=\"u-url mention\">@<span>martycoote</span></a></span> so many weird choices happening there</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110616586477047556",
+			"parentId": 0,
+			"url": "https://mastodon.world/@kevtiq/110616586451280110",
+			"author": {
+				"name": "Kevin Pennekamp",
+				"url": "https://mastodon.world/@kevtiq",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/699/443/557/348/571/original/513cb4910afdd828.jpeg"
+			},
+			"date": "2023-06-27T14:12:39.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh lord… this is really going downhills. Just looking at the react of Mark on this gives me the creeps. React says use with caution, but vercel basically says: “trust us, we tested it, react is wrong, it is stable”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110616600064848998",
+			"parentId": "110616586477047556",
+			"url": "https://fediverse.zachleat.com/@zachleat/110616600064848998",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-27T14:16:07.204Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@kevtiq\" class=\"u-url mention\">@<span>kevtiq</span></a></span> yeah, it isn’t rigorous.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110616959541754357",
+			"parentId": "110616600064848998",
+			"url": "https://indieweb.social/@mikamtb/110616959527628971",
+			"author": {
+				"name": "Mikael Gramont",
+				"url": "https://indieweb.social/@mikamtb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/290/730/898/587/original/4ca00ac51750a776.jpeg"
+			},
+			"date": "2023-06-27T15:47:32.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.world/@kevtiq\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kevtiq</span></a></span> “trust us, we tested it, react is wrong, it is stable” is exactly what I gathered too, but kept thinking that was too crazy, so I must have misunderstood.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110617104465955348",
+			"parentId": "110616959541754357",
+			"url": "https://mastodon.world/@kevtiq/110617104440733924",
+			"author": {
+				"name": "Kevin Pennekamp",
+				"url": "https://mastodon.world/@kevtiq",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/699/443/557/348/571/original/513cb4910afdd828.jpeg"
+			},
+			"date": "2023-06-27T16:24:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@mikamtb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mikamtb</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the messaging is inconsistent from React’s side. </p><p>- The canary version is “ready for adoption for frameworks”, <br>- but it had “near to finish” features (so they can change). <br>- A core member stated the current canary version does not follow the new process yet.<br>- They say they cannot release “stable features” to the stable channel as new features are dependent on each other. But they are good enough for frameworks?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110618260603846220",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@ematipico/110618260582441136",
+			"author": {
+				"name": "Emanuele Stoppa",
+				"url": "https://fosstodon.org/@ematipico",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/529/543/013/765/525/original/531b26a595823c68.png"
+			},
+			"date": "2023-06-27T21:18:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah, Next.js isn't handling their versioning very well, especially this app dir.</p><p>To be honest it's a framework that I don't trust anymore. They deprecated and removed features without a particular reason, only to push their Vercel products.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110618538032485916",
+			"parentId": "110618260603846220",
+			"url": "https://fediverse.zachleat.com/@zachleat/110618538032485916",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-27T22:28:58.242Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@ematipico\" class=\"u-url mention\">@<span>ematipico</span></a></span> what features?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110619939465687751",
+			"parentId": "110617104465955348",
+			"url": "https://indieweb.social/@mikamtb/110619939438588246",
+			"author": {
+				"name": "Mikael Gramont",
+				"url": "https://indieweb.social/@mikamtb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/290/730/898/587/original/4ca00ac51750a776.jpeg"
+			},
+			"date": "2023-06-28T04:25:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.world/@kevtiq\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kevtiq</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Best to stick to the next-to-latest version then. <a href=\"https://indieweb.social/tags/NextToLatest\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>NextToLatest</span></a>.js</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110620219411716491",
+			"parentId": "110618538032485916",
+			"url": "https://fosstodon.org/@ematipico/110620219393483327",
+			"author": {
+				"name": "Emanuele Stoppa",
+				"url": "https://fosstodon.org/@ematipico",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/529/543/013/765/525/original/531b26a595823c68.png"
+			},
+			"date": "2023-06-28T05:36:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there was this feature called `target: serverless` that would allow to emit pages as artefacts for serverless environments. It was deprecated and removed without explanation</p>",
+			"via": "fediverse"
+		}
+	]
+}

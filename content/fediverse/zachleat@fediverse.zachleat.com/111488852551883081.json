@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "111488885503868055",
+			"parentId": 0,
+			"url": "https://bell.bz/@andy/111488885467359541",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bell.bz/@andy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/871/123/336/966/original/e6a047a53e9b945e.jpg"
+			},
+			"date": "2023-11-28T15:29:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lmao</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111488897313397170",
+			"parentId": "111488885503868055",
+			"url": "https://fediverse.zachleat.com/@zachleat/111488897313397170",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-28T15:32:46.916Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\">@<span>andy</span></a></span> is this art? it feels like art</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111489106754253818",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pepelsbey/111489100278129250",
+			"author": {
+				"name": "Vadim Makeev",
+				"url": "https://mastodon.social/@pepelsbey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/028/383/987/770/original/20d02d904ee275c0.png"
+			},
+			"date": "2023-11-28T16:24:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I don’t know, it doesn’t look well made in general. Here’s the button:</p><p>&lt;svg _=\"on click toggle .show on <a href=\"https://mastodon.social/tags/nav\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>nav</span></a>\" class=\"hamburger\"&gt;&lt;/svg&gt;</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111489130485067001",
+			"parentId": "111489106754253818",
+			"url": "https://fediverse.zachleat.com/@zachleat/111489130485067001",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-28T16:32:04.834Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pepelsbey\" class=\"u-url mention\">@<span>pepelsbey</span></a></span> I spy a DSL! I still think it should have a doctype 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111489219644724653",
+			"parentId": "111489130485067001",
+			"url": "https://parens.social/@luciano/111489219501869378",
+			"author": {
+				"name": "luciano",
+				"url": "https://parens.social/@luciano",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/142/410/272/287/955/original/efe4a6bd1fd2b34b.jpeg"
+			},
+			"date": "2023-11-28T16:54:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@pepelsbey\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>pepelsbey</span></a></span> that’s right — it’s hyperscript [0] from the same folks as HTMX</p><p>[0]: <a href=\"http://hyperscript.org\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">hyperscript.org</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111489225203447721",
+			"parentId": "111489219644724653",
+			"url": "https://fediverse.zachleat.com/@zachleat/111489225203447721",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-28T16:56:10.121Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://parens.social/@luciano\" class=\"u-url mention\">@<span>luciano</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pepelsbey\" class=\"u-url mention\">@<span>pepelsbey</span></a></span> well wait that web site has a doctype</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111489398868944720",
+			"parentId": "111489225203447721",
+			"url": "https://parens.social/@luciano/111489396955828202",
+			"author": {
+				"name": "luciano",
+				"url": "https://parens.social/@luciano",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/142/410/272/287/955/original/efe4a6bd1fd2b34b.jpeg"
+			},
+			"date": "2023-11-28T17:39:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the plot thickens</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111489574763309131",
+			"parentId": 0,
+			"url": "https://front-end.social/@kizu/111489574699875733",
+			"author": {
+				"name": "Roma Komarov",
+				"url": "https://front-end.social/@kizu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/898/091/525/884/original/7bbd1d13a426e1ee.png"
+			},
+			"date": "2023-11-28T18:25:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I just had to, for science, look up if you can add a doctype via js.</p><p>You can: </p><p>    document.prepend(document.implementation.createDocumentType('html', '', ''))</p><p>Not sure what to do with this knowledge now.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111489641605978679",
+			"parentId": "111489574763309131",
+			"url": "https://fediverse.zachleat.com/@zachleat/111489641605978679",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-28T18:42:03.919Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@kizu\" class=\"u-url mention\">@<span>kizu</span></a></span> surely that won’t swap compatMode—does it? 😅</p><p>Update: it does not!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111495104028843182",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111495104028843182",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-29T17:51:13.877Z",
+			"content": "<p>Looks like @morganm@subdued.social showed what you’re supposed to do in this situation and filed an issue:</p><p><a href=\"https://github.com/bigskysoftware/htmx/issues/2055\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bigskysoftware/htmx</span><span class=\"invisible\">/issues/2055</span></a></p><p>Thank you!</p><p>And I guess I can’t wear this shirt any more <a href=\"https://www.zachleat.com/twitter/1096922195044036609\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/twitter/109692219</span><span class=\"invisible\">5044036609</span></a></p>",
+			"via": "fediverse"
+		}
+	]
+}

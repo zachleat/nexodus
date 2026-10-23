@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "112615326656835435",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mvsde/112615326593656296",
+			"author": {
+				"name": "Fynn Ellie Becker",
+				"url": "https://mastodon.social/@mvsde",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/289/744/030/118/387/original/32d2e8d7c2de2a8e.jpg"
+			},
+			"date": "2024-06-14T13:58:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not yet available in Safari unfortunately, but a good progressive enhancement property: `scrollbar-gutter: stable`.</p><p><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-gutter\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">developer.mozilla.org/en-US/do</span><span class=\"invisible\">cs/Web/CSS/scrollbar-gutter</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112615379456153446",
+			"parentId": "112615326656835435",
+			"url": "https://fediverse.zachleat.com/@zachleat/112615379456153446",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-06-14T14:12:00.316Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mvsde\" class=\"u-url mention\">@<span>mvsde</span></a></span> ooh yeah this is best with overflow: auto; <a href=\"https://codepen.io/zachleat/pen/mdYqYMe/aaebd6a8bcd54884c3bc395e6ac73240\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/zachleat/pen/mdYqYM</span><span class=\"invisible\">e/aaebd6a8bcd54884c3bc395e6ac73240</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112615416918745537",
+			"parentId": "112615326656835435",
+			"url": "https://mas.to/@patrickbrosset/112615416809438716",
+			"author": {
+				"name": "Patrick Brosset",
+				"url": "https://mas.to/@patrickbrosset",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/405/152/889/389/original/2d4debc603fb9a7d.jpeg"
+			},
+			"date": "2024-06-14T14:21:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mvsde\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mvsde</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I agree this is one of the important missing pieces for layout on the web.</p><p>WebKit is interested in it <a href=\"https://github.com/w3c/csswg-drafts/issues/4674\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/w3c/csswg-drafts/is</span><span class=\"invisible\">sues/4674</span></a><br>Implementation tracked here <a href=\"https://bugs.webkit.org/show_bug.cgi?id=167335\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bugs.webkit.org/show_bug.cgi?i</span><span class=\"invisible\">d=167335</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112616084847186111",
+			"parentId": "112615379456153446",
+			"url": "https://mastodon.social/@simevidas/112616084754642471",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2024-06-14T17:11:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mvsde\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mvsde</span></a></span> With overflow: scroll, the classic scrollbar track is always present, so the gutter where the track is placed into is also always present, and that’s why scrollbar-gutter: stable is not necessary. The gutter is already stable.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113124254551852933",
+			"parentId": "112615416918745537",
+			"url": "https://toot.wales/@Lukew/113124254521087064",
+			"author": {
+				"name": "Luke",
+				"url": "https://toot.wales/@Lukew",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/107/164/987/417/242/original/cb553420c43fa577.jpeg"
+			},
+			"date": "2024-09-12T11:05:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@patrickbrosset\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patrickbrosset</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mvsde\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mvsde</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (sorry for replying to an old thread) this should now be supported in Safari TP 203!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113124292236678973",
+			"parentId": "113124254551852933",
+			"url": "https://mastodon.social/@mvsde/113124292170955869",
+			"author": {
+				"name": "Fynn Ellie Becker",
+				"url": "https://mastodon.social/@mvsde",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/289/744/030/118/387/original/32d2e8d7c2de2a8e.jpg"
+			},
+			"date": "2024-09-12T11:15:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.wales/@Lukew\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Lukew</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@patrickbrosset\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patrickbrosset</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Read that announcement today too, really nice.</p><p><a href=\"https://webkit.org/blog/15860/release-notes-for-safari-technology-preview-203/#:~:text=Added%20support%20for%20scrollbar%2Dgutter\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webkit.org/blog/15860/release-</span><span class=\"invisible\">notes-for-safari-technology-preview-203/#:~:text=Added%20support%20for%20scrollbar%2Dgutter</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113124663620638033",
+			"parentId": "113124254551852933",
+			"url": "https://fediverse.zachleat.com/@zachleat/113124663620638033",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-12T12:49:39.956Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.wales/@Lukew\" class=\"u-url mention\">@<span>Lukew</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@patrickbrosset\" class=\"u-url mention\">@<span>patrickbrosset</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mvsde\" class=\"u-url mention\">@<span>mvsde</span></a></span> yay!!!</p>",
+			"via": "fediverse"
+		}
+	]
+}

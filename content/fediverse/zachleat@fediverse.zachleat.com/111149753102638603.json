@@ -1,0 +1,197 @@
+{
+	"comments": [
+		{
+			"id": "111149793602643738",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dogwonder/111149793401428242",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://mastodon.social/@dogwonder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/152/600/207/219/original/e686dc812114bb2e.jpeg"
+			},
+			"date": "2023-09-29T18:14:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes! Easy to forget. I remember seeing flexbox proposed, had a little cry and carried on using float for 5 years.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149823150740281",
+			"parentId": "111149793602643738",
+			"url": "https://fediverse.zachleat.com/@zachleat/111149823150740281",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-29T18:21:45.790Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\">@<span>dogwonder</span></a></span> somehow I blinked and container queries were supported in all the evergreens 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149831243400534",
+			"parentId": "111149823150740281",
+			"url": "https://mastodon.social/@dogwonder/111149830034017337",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://mastodon.social/@dogwonder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/152/600/207/219/original/e686dc812114bb2e.jpeg"
+			},
+			"date": "2023-09-29T18:23:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 👀😍</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149850815276206",
+			"parentId": 0,
+			"url": "https://front-end.social/@Robb/111149850793521037",
+			"author": {
+				"name": "Robb",
+				"url": "https://front-end.social/@Robb",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/073/855/400/201/original/c914640b5b0e6f46.jpg"
+			},
+			"date": "2023-09-29T18:28:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> To think that future gerations of web developers may never know the joy and calm relief that .clearfix brought</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149866958882486",
+			"parentId": "111149850815276206",
+			"url": "https://fediverse.zachleat.com/@zachleat/111149866958882486",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-29T18:32:54.249Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Robb\" class=\"u-url mention\">@<span>Robb</span></a></span> to think I’ve been using .clearbroke all this time</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149868107299573",
+			"parentId": 0,
+			"url": "https://indieweb.social/@tbeseda/111149868023288825",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2023-09-29T18:33:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah I was thinking about that this AM. These days the worst case is usually a user hasn't restarted Chrome.app in a month or so.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149872636709811",
+			"parentId": "111149868107299573",
+			"url": "https://indieweb.social/@tbeseda/111149872567753926",
+			"author": {
+				"name": "tbeseda",
+				"url": "https://indieweb.social/@tbeseda",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/553/200/066/437/original/d08f162c7c5b47f5.jpg"
+			},
+			"date": "2023-09-29T18:34:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Even Safari gets updated out-of-band of the OS now. Finally</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149887231394593",
+			"parentId": "111149872636709811",
+			"url": "https://fediverse.zachleat.com/@zachleat/111149887231394593",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-09-29T18:38:03.583Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\">@<span>tbeseda</span></a></span> 🎉🎉🎉🎉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149923050214213",
+			"parentId": 0,
+			"url": "https://front-end.social/@keithjgrant/111149923024937481",
+			"private": true,
+			"date": "2023-09-29T18:47:09.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111149937414888040",
+			"parentId": "111149793602643738",
+			"url": "https://mastodon.social/@cferdinandi/111149937342740322",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://mastodon.social/@cferdinandi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/986/829/446/527/original/19e80d64c6e713e0.jpg"
+			},
+			"date": "2023-09-29T18:50:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dogwonder</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> OMG YES THIS!</p><p>I ended up skipping flexbox altogether for a while and jumped right into CSS Grid before I realized they do two different things.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111150004471947114",
+			"parentId": "111149937414888040",
+			"url": "https://mastodon.social/@dogwonder/111150004350098317",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://mastodon.social/@dogwonder",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/152/600/207/219/original/e686dc812114bb2e.jpeg"
+			},
+			"date": "2023-09-29T19:07:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@cferdinandi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cferdinandi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 😀 I still feel they might take CSS grid away from us. It’s too good.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111150104179091525",
+			"parentId": "111149872636709811",
+			"url": "https://piaille.fr/@tbroyer/111150104155909866",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-09-29T19:33:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbeseda</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Even on iOS? 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111150109611490335",
+			"parentId": 0,
+			"url": "https://piaille.fr/@tbroyer/111150109587040410",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-09-29T19:34:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Except for Firefox ESR… (still quicker than Internet Explorer though 😂)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111151150389338287",
+			"parentId": "111149823150740281",
+			"url": "https://mstdn.social/@techytacos/111151150363274693",
+			"author": {
+				"name": "Elliott",
+				"url": "https://mstdn.social/@techytacos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/806/622/792/047/original/0f743cd0ccc6472a.jpg"
+			},
+			"date": "2023-09-29T23:59:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dogwonder</span></a></span> I'm on the fence on CQs. Maybe I just need to really lock down my patterns because it's very easy to make a page that has a jumpy layout every time you resize the window a pixel</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111151487077351410",
+			"parentId": "111149923050214213",
+			"url": "https://indieweb.social/@nmn/111151487065108269",
+			"private": true,
+			"date": "2023-09-30T01:24:55.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111152466570763156",
+			"parentId": "111151487077351410",
+			"url": "https://front-end.social/@keithjgrant/111152466554702442",
+			"private": true,
+			"date": "2023-09-30T05:34:00.000Z",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"comments": [
+		{
+			"id": "111520938071710206",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@sachagreif/111520938018114837",
+			"author": {
+				"name": "Sacha Greif",
+				"url": "https://hachyderm.io/@sachagreif",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/538/977/667/146/397/original/f6d20b9b5b62de0a.jpg"
+			},
+			"date": "2023-12-04T07:21:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> well it would depend on the reason, usually I try to make decisions about including/excluding items based on some kind of objective criteria such as github stars, past results, npm downloads, etc.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111520970134251152",
+			"parentId": "111520938071710206",
+			"url": "https://hachyderm.io/@sachagreif/111520970100127555",
+			"author": {
+				"name": "Sacha Greif",
+				"url": "https://hachyderm.io/@sachagreif",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/538/977/667/146/397/original/f6d20b9b5b62de0a.jpg"
+			},
+			"date": "2023-12-04T07:29:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that being said its usage was pretty low in 2022 (haven't checked 2023 data yet) so I think it's probably ok?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111522698924196640",
+			"parentId": "111520970134251152",
+			"url": "https://fediverse.zachleat.com/@zachleat/111522698924196640",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-04T14:48:58.566Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@sachagreif\" class=\"u-url mention\">@<span>sachagreif</span></a></span> appreciate it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111524593939852529",
+			"parentId": "111522698924196640",
+			"url": "https://hachyderm.io/@sachagreif/111524593865195589",
+			"author": {
+				"name": "Sacha Greif",
+				"url": "https://hachyderm.io/@sachagreif",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/538/977/667/146/397/original/f6d20b9b5b62de0a.jpg"
+			},
+			"date": "2023-12-04T22:50:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would still like to know the reason though? You can also post in this thread: <a href=\"https://github.com/Devographics/surveys/issues/227\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Devographics/survey</span><span class=\"invisible\">s/issues/227</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111524610242459588",
+			"parentId": "111524593939852529",
+			"url": "https://fediverse.zachleat.com/@zachleat/111524610242459588",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-04T22:55:02.967Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@sachagreif\" class=\"u-url mention\">@<span>sachagreif</span></a></span> happy to have a private conversation about it!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111559550337991948",
+			"parentId": "111524610242459588",
+			"url": "https://hachyderm.io/@sachagreif/111559550284101266",
+			"author": {
+				"name": "Sacha Greif",
+				"url": "https://hachyderm.io/@sachagreif",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/538/977/667/146/397/original/f6d20b9b5b62de0a.jpg"
+			},
+			"date": "2023-12-11T03:00:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> just wanted to follow up on this. what's the best place?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111562475179415645",
+			"parentId": "111559550337991948",
+			"url": "https://fediverse.zachleat.com/@zachleat/111562475179415645",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-11T15:24:36.052Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@sachagreif\" class=\"u-url mention\">@<span>sachagreif</span></a></span> ah sorry about that—I just sent you a DM</p>",
+			"via": "fediverse"
+		}
+	]
+}

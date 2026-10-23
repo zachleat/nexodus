@@ -1,0 +1,402 @@
+{
+	"comments": [
+		{
+			"id": "110278828731921781",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110278828731921781",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-28T22:36:25.677Z",
+			"content": "<p>any pressing questions about web components that you’d like to see answered?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110278866509813491",
+			"parentId": 0,
+			"url": "https://vickerson.me/@josh/110278866487625832",
+			"author": {
+				"name": "Josh “Yoshi” Vickerson",
+				"url": "https://vickerson.me/@josh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/017/460/209/559/248/original/19901369730a3977.png"
+			},
+			"date": "2023-04-28T22:46:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the Wild West Web? Yeehaw! 🤠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110278888304167492",
+			"parentId": 0,
+			"url": "https://mastodon.social/@patrickfulton/110278888262190961",
+			"author": {
+				"name": "Patrick Fulton",
+				"url": "https://mastodon.social/@patrickfulton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/995/308/676/811/original/7964663418ceb366.png"
+			},
+			"date": "2023-04-28T22:51:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> WHAT in .tar nation?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110278908970629638",
+			"parentId": 0,
+			"url": "https://social.rdl.ph/@rockerest/110278908677495193",
+			"author": {
+				"name": "Thomas Randolph :thomas:",
+				"url": "https://social.rdl.ph/@rockerest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/398/490/419/631/931/original/c94c96a76812b1ff.jpg"
+			},
+			"date": "2023-04-28T22:56:45.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110278959665433370",
+			"parentId": "110278828731921781",
+			"url": "https://sunny.garden/@knowler/110278959625392309",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2023-04-28T23:09:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> How do you wrangle web components? Do I need a specific lasso for that?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110278993873265183",
+			"parentId": "110278828731921781",
+			"url": "https://mastodon.cloud/@maxfenton/110278993839848156",
+			"author": {
+				"name": "maxfenton",
+				"url": "https://mastodon.cloud/@maxfenton",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-04-28T23:18:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I still don’t get what they *are* and a year from now I’ll regret not trying to learn sooner.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279058003195326",
+			"parentId": "110278828731921781",
+			"url": "https://mastodon.social/@clarkgunn/110279057973480132",
+			"author": {
+				"name": "Avalynn Gunn 🇵🇸",
+				"url": "https://mastodon.social/@clarkgunn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/141/753/189/084/original/4cbe1e4a70428f97.jpg"
+			},
+			"date": "2023-04-28T23:34:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I want to see reactive properties. I've been thinking of trying this with proxies or preact signals.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279058216537386",
+			"parentId": "110278828731921781",
+			"url": "https://front-end.social/@castastrophe/110279058161326114",
+			"author": {
+				"name": "castastrophe",
+				"url": "https://front-end.social/@castastrophe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/726/682/716/503/original/2540022fe51ce2f7.png"
+			},
+			"date": "2023-04-28T23:34:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>- How can they be used to create a more accessible web? <br>- What are the most common mistakes made when building web components? <br>- What performance costs do they come with and how do you weigh those pros and cons?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279108569079386",
+			"parentId": "110279058216537386",
+			"url": "https://fediverse.zachleat.com/@zachleat/110279108569079386",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-28T23:47:35.659Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@castastrophe\" class=\"u-url mention\">@<span>castastrophe</span></a></span> excellent, thank you!! 🙌🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279109449675718",
+			"parentId": "110279058003195326",
+			"url": "https://fediverse.zachleat.com/@zachleat/110279109449675718",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-28T23:47:49.091Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@clarkgunn\" class=\"u-url mention\">@<span>clarkgunn</span></a></span> yes!! 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279111639969532",
+			"parentId": "110278959665433370",
+			"url": "https://fediverse.zachleat.com/@zachleat/110279111639969532",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-28T23:48:22.512Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sunny.garden/@knowler\" class=\"u-url mention\">@<span>knowler</span></a></span> a Ted lasso I think</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279113017913763",
+			"parentId": "110278993873265183",
+			"url": "https://fediverse.zachleat.com/@zachleat/110279113017913763",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-28T23:48:43.538Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@maxfenton\" class=\"u-url mention\">@<span>maxfenton</span></a></span> you should catch this talk when it comes out!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279114770692004",
+			"parentId": "110278908970629638",
+			"url": "https://fediverse.zachleat.com/@zachleat/110279114770692004",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-28T23:49:10.284Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.rdl.ph/@rockerest\" class=\"u-url mention\">@<span>rockerest</span></a></span> whoop, there it is</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279115731916484",
+			"parentId": "110278888304167492",
+			"url": "https://fediverse.zachleat.com/@zachleat/110279115731916484",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-28T23:49:24.950Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@patrickfulton\" class=\"u-url mention\">@<span>patrickfulton</span></a></span> -xvf I think</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279153695683059",
+			"parentId": "110278828731921781",
+			"url": "https://piaille.fr/@tbroyer/110279153640788165",
+			"author": {
+				"name": "Thomas Broyer",
+				"url": "https://piaille.fr/@tbroyer",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/342/716/921/240/219/original/2039b34c330e245c.png"
+			},
+			"date": "2023-04-28T23:59:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Would you say WebC components *are* web components? How would you describe the relationship between WebC (and <span class=\"h-card\"><a href=\"https://fosstodon.org/@enhance_dev\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>enhance_dev</span></a></span>) and web components?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279188507452521",
+			"parentId": "110278828731921781",
+			"url": "https://mastodon.social/@scrwd/110279188476070545",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-04-29T00:07:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'd like to understand more about a strategy for web components within a design system and how styles can be shared and also how to communicate between components effectively.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279197082006095",
+			"parentId": "110278828731921781",
+			"url": "https://mastodon.social/@peruvianidol/110279196960490310",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-04-29T00:10:04.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> why</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279206748128954",
+			"parentId": "110279108569079386",
+			"url": "https://front-end.social/@castastrophe/110279206718205550",
+			"author": {
+				"name": "castastrophe",
+				"url": "https://front-end.social/@castastrophe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/726/682/716/503/original/2540022fe51ce2f7.png"
+			},
+			"date": "2023-04-29T00:12:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you know where you might be giving this presentation?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279210515275736",
+			"parentId": "110278828731921781",
+			"url": "https://social.rdl.ph/@rockerest/110279210354443169",
+			"author": {
+				"name": "Thomas Randolph :thomas:",
+				"url": "https://social.rdl.ph/@rockerest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/398/490/419/631/931/original/c94c96a76812b1ff.jpg"
+			},
+			"date": "2023-04-29T00:13:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (I am a huge WC booster) I already have framework X. Why would I add WC to my stack when X also does that, and my design system is in X?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279215947054461",
+			"parentId": "110279210515275736",
+			"url": "https://social.rdl.ph/@rockerest/110279215872087012",
+			"author": {
+				"name": "Thomas Randolph :thomas:",
+				"url": "https://social.rdl.ph/@rockerest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/398/490/419/631/931/original/c94c96a76812b1ff.jpg"
+			},
+			"date": "2023-04-29T00:14:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> this is probably too broad of a question, granted. But \"use the platform, first\" tends to get zero traction. What are the compelling reasons for WC at large software orgs?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279410593270094",
+			"parentId": 0,
+			"url": "https://masto.jln.io/@jeremy/110279410573664863",
+			"author": {
+				"name": "Jeremy Neander",
+				"url": "https://masto.jln.io/@jeremy",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/898/561/568/638/603/original/53070f48b56aa731.jpeg"
+			},
+			"date": "2023-04-29T01:04:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This has \"screaming cowboy\" written all over it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110279483196717481",
+			"parentId": "110278828731921781",
+			"url": "https://mastodon.cthos.dev/@cthos/110279483138810229",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2023-04-29T01:22:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> as a web component fanatic, no, but I sure as hell want to see this thematic talk.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110281368436410108",
+			"parentId": "110278828731921781",
+			"url": "https://mas.to/@iamdtms/110281368392367501",
+			"private": true,
+			"date": "2023-04-29T09:22:17.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110282370743547838",
+			"parentId": "110278828731921781",
+			"url": "https://mastodon.social/@simevidas/110282370682194744",
+			"author": {
+				"name": "Šime Vidas",
+				"url": "https://mastodon.social/@simevidas",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/269/911/252/050/original/3be48f420d9991d3.jpeg"
+			},
+			"date": "2023-04-29T13:37:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://twitter.com/raymondcamden/status/1525534538738319360\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/raymondcamden/stat</span><span class=\"invisible\">us/1525534538738319360</span></a> <span class=\"h-card\"><a href=\"https://mastodon.social/@raymondcamden\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>raymondcamden</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110283167279782246",
+			"parentId": "110278828731921781",
+			"url": "https://social.spicyweb.dev/@vanilla/110283167256545134",
+			"author": {
+				"name": "The Spicy Web",
+				"url": "https://social.spicyweb.dev/@vanilla",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/439/954/069/427/539/original/2d6a2804a1453462.png"
+			},
+			"date": "2023-04-29T16:59:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what (if any) difference might there be between \"leaf\" components (UI atoms, etc.) and \"branch\" components (more app-specific stuff, layouts, etc.)?</p><p>What are some ways we can think about and communicate the value of \"split\" components (aka templates live only in SSG/SSR world, then extra client-side behavior gets sprinkled on top)?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110287852816514647",
+			"parentId": "110278828731921781",
+			"url": "https://front-end.social/@elly/110287852787288069",
+			"author": {
+				"name": "Elly Loel",
+				"url": "https://front-end.social/@elly",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/446/932/953/258/362/original/1f113f0d3227c3fb.png"
+			},
+			"date": "2023-04-30T12:51:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> HTML imports please? 🥺<br>Or like declarative shadow-dom without the shadow-dom? 🙃<br>I just want web components without the need for JS.</p><p>... Maybe the real question to be asking is more plugins for tools to use WebC, alas I can't yet have the joy of working with eleventy on every project 🥲</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110288087455565089",
+			"parentId": "110278828731921781",
+			"url": "https://fosstodon.org/@hasanhaja/110288087438017749",
+			"author": {
+				"name": "Hasan Ali",
+				"url": "https://fosstodon.org/@hasanhaja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/698/107/255/349/105/original/a8b5515bdc4a7805.png"
+			},
+			"date": "2023-04-30T13:51:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what is the abstraction that web components are trying to solve? Is it to organize markup, behavior and styles for developers? If so, what benefits does it offer over a UI framework like SolidJS? Lastly, what is its overhead and how does it scale compared to something like SolidJS?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110293721808793193",
+			"parentId": "110279410593270094",
+			"url": "https://fediverse.zachleat.com/@zachleat/110293721808793193",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-01T13:43:55.997Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.jln.io/@jeremy\" class=\"u-url mention\">@<span>jeremy</span></a></span> TIL screaming cowboy 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110293814130135833",
+			"parentId": "110279153695683059",
+			"url": "https://fediverse.zachleat.com/@zachleat/110293814130135833",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-01T14:07:24.709Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@enhance_dev\" class=\"u-url mention\">@<span>enhance_dev</span></a></span> I don’t want to go too far into tooling around web components in this talk but it’s probably most accurate to say that WebC (and others!) use conventions for server side rendering set forth by web components standards. Some overlap with how I think of SCSS -&gt; CSS</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110293815896119943",
+			"parentId": "110279206748128954",
+			"url": "https://fediverse.zachleat.com/@zachleat/110293815896119943",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-01T14:07:51.656Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@castastrophe\" class=\"u-url mention\">@<span>castastrophe</span></a></span> A few upcoming places! <a href=\"https://www.zachleat.com/web/speaking/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/speaking/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110301468674095499",
+			"parentId": "110278828731921781",
+			"url": "https://mastodon.social/@Wubbels/110301468647479197",
+			"author": {
+				"name": "Wubbels",
+				"url": "https://mastodon.social/@Wubbels",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-05-02T22:34:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is there such a thing as too big to be a web component?</p>",
+			"via": "fediverse"
+		}
+	]
+}

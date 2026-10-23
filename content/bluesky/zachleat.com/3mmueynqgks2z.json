@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:sttgf52vkk46f6yuknvqxvgh/app.bsky.feed.post/3mmufjun6au22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/coryd.dev/post/3mmufjun6au22",
+			"author": {
+				"name": "Cory Dransfeldt",
+				"url": "https://bsky.app/profile/coryd.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:sttgf52vkk46f6yuknvqxvgh/bafkreibcmy5qz6bq64oq2awoi66f6u5qcshdq7jqlxonyjlb3ilc6udaee"
+			},
+			"date": "2026-05-27T20:58:28.238Z",
+			"content": "<p>If you unroll the bottom of the lowercase g and flip it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmufv3ygbc2r",
+			"parentId": "at://did:plc:sttgf52vkk46f6yuknvqxvgh/app.bsky.feed.post/3mmufjun6au22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mmufv3ygbc2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-27T21:04:46.114Z",
+			"content": "<p>look, I do love a two-story g but there is no two-story p afaik</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:sttgf52vkk46f6yuknvqxvgh/app.bsky.feed.post/3mmug7dxod22g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmufv3ygbc2r",
+			"url": "https://bsky.app/profile/coryd.dev/post/3mmug7dxod22g",
+			"author": {
+				"name": "Cory Dransfeldt",
+				"url": "https://bsky.app/profile/coryd.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:sttgf52vkk46f6yuknvqxvgh/bafkreibcmy5qz6bq64oq2awoi66f6u5qcshdq7jqlxonyjlb3ilc6udaee"
+			},
+			"date": "2026-05-27T21:10:21.544Z",
+			"content": "<p>You just have to squint until they feel less bad about their sunk costs</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qxuflxqeogfamceqw5szcdl3/app.bsky.feed.post/3lc6g525rk22n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/handle.invalid/post/3lc6g525rk22n",
+			"author": {
+				"name": "Alan Torn",
+				"url": "https://bsky.app/profile/handle.invalid",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qxuflxqeogfamceqw5szcdl3/bafkreie7ktkco3j6dp4fnnmcdz67idmsjvb6ahogd7f5m63k3gv7nossom"
+			},
+			"date": "2024-11-30T15:32:30.017Z",
+			"content": "<p>glad i’m not the only one</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wkd374xinxaugweumwpw3pdn/app.bsky.feed.post/3lc6gij5v2s2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chriscoleman.name/post/3lc6gij5v2s2j",
+			"author": {
+				"name": "Chris Coleman",
+				"url": "https://bsky.app/profile/chriscoleman.name",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkd374xinxaugweumwpw3pdn/bafkreifwptpdw3ke4vsuzewislydexhwm335vlngjme2ukas6xb4cf6fu4"
+			},
+			"date": "2024-11-30T15:38:54.848Z",
+			"content": "<p>I’m finding some rough edges, like GitHub prompting me in Chrome to scan the QR code for my passkey saved on another device — except it’s not on another device — I just created it with Safari. But overall, yeah I agree. I wish I could replace all of my passwords with passkeys today.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pgjpl4opnmqxxpb74n4vuabv/app.bsky.feed.post/3lc6kh7eju62l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zeldman.bsky.social/post/3lc6kh7eju62l",
+			"author": {
+				"name": "zeldman",
+				"url": "https://bsky.app/profile/zeldman.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pgjpl4opnmqxxpb74n4vuabv/bafkreias77or65bvt3l476755u2g6vy47rfwk6jkt7xumowlzpfasw5lly"
+			},
+			"date": "2024-11-30T16:49:45.993Z",
+			"content": "<p>Yes!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:evnrfkwac7nlpo4gemqfwp4g/app.bsky.feed.post/3lc7pmyrfw22c",
+			"parentId": "at://did:plc:wkd374xinxaugweumwpw3pdn/app.bsky.feed.post/3lc6gij5v2s2j",
+			"url": "https://bsky.app/profile/rwxbss.bsky.social/post/3lc7pmyrfw22c",
+			"author": {
+				"name": "Trump/GOP=N@zis. Stand w🇺🇦🏳️‍🌈🇬🇪🇵🇸🇨🇦🇪🇺🇨🇭",
+				"url": "https://bsky.app/profile/rwxbss.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:evnrfkwac7nlpo4gemqfwp4g/bafkreibe5eibnfdapiammq4idmj7js7z3hqrk7lvvk73y3rr5juaezgee4"
+			},
+			"date": "2024-12-01T03:55:08.848Z",
+			"content": "<p>Once Apple launched their Passwords app with built in Passkey management, I converted all possible accounts for self and family to use Passkeys.</p>\n<p>And am very glad I have.</p>\n<p>V much looking forward to more and more sites moving off passwords and various crap 2fa solutions.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wkd374xinxaugweumwpw3pdn/app.bsky.feed.post/3lc7ufuglgs2k",
+			"parentId": "at://did:plc:evnrfkwac7nlpo4gemqfwp4g/app.bsky.feed.post/3lc7pmyrfw22c",
+			"url": "https://bsky.app/profile/chriscoleman.name/post/3lc7ufuglgs2k",
+			"author": {
+				"name": "Chris Coleman",
+				"url": "https://bsky.app/profile/chriscoleman.name",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkd374xinxaugweumwpw3pdn/bafkreifwptpdw3ke4vsuzewislydexhwm335vlngjme2ukas6xb4cf6fu4"
+			},
+			"date": "2024-12-01T05:20:38.127Z",
+			"content": "<p>I’ve been doing that all day. Tedious stuff, but nearly done. For what it’s worth, Arc refuses to properly work with the iCloud passwords browser extension and Passkeys. Chrome works, but is flaky, with the built-in password manager randomly turning back on at the same time as the iCloud extension.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:evnrfkwac7nlpo4gemqfwp4g/app.bsky.feed.post/3lcaob7rv5s2c",
+			"parentId": "at://did:plc:wkd374xinxaugweumwpw3pdn/app.bsky.feed.post/3lc7ufuglgs2k",
+			"url": "https://bsky.app/profile/rwxbss.bsky.social/post/3lcaob7rv5s2c",
+			"author": {
+				"name": "Trump/GOP=N@zis. Stand w🇺🇦🏳️‍🌈🇬🇪🇵🇸🇨🇦🇪🇺🇨🇭",
+				"url": "https://bsky.app/profile/rwxbss.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:evnrfkwac7nlpo4gemqfwp4g/bafkreibe5eibnfdapiammq4idmj7js7z3hqrk7lvvk73y3rr5juaezgee4"
+			},
+			"date": "2024-12-01T13:03:19.547Z",
+			"content": "<p>Can’t comment on extensions or alternative p/w managers as I’m on all Apple gear using Safari and Passwords app.</p>\n<p>The all Apple constellation has been very functional and near seamless.</p>\n<p>Out of 517 sites saved, 31 offer passkeys.  A small number of others offer non PK biometric authentication.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:d255bmzb4v2zavqjp65oa7ss/app.bsky.feed.post/3lci37f3t7s2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/creativenavy.bsky.social/post/3lci37f3t7s2q",
+			"author": {
+				"name": "Creative Navy - UX Agency",
+				"url": "https://bsky.app/profile/creativenavy.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:d255bmzb4v2zavqjp65oa7ss/bafkreidpu7eh2xgkdqaxjrq2s6kv6w74dfmisvm7ibar5eiftd4jv4fqhy"
+			},
+			"date": "2024-12-04T11:43:34.820Z",
+			"content": "<p>The beauty of passkeys is that they're actually designed with better security than traditional passwords. The user experience is smooth, but behind the scenes, they're using strong cryptographic methods to keep everything secure. It just works, even if it doesn’t feel like it’s working.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:64zungdcsn4vvycpjqllqj5k/app.bsky.feed.post/3lcibgtiy3m2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bradyux.bsky.social/post/3lcibgtiy3m2o",
+			"author": {
+				"name": "Brady UX",
+				"url": "https://bsky.app/profile/bradyux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:64zungdcsn4vvycpjqllqj5k/bafkreibe7sdsdqsvy5xwbkeetrlqug4rqsw22cnnsgv7fkpuefnm4puvji"
+			},
+			"date": "2024-12-04T13:35:07.263Z",
+			"content": "<p>Passkeys: so intuitive it’s scary. But isn’t that the dream for every UX designer? Seamless, second nature, and just a little magic. 🪄🔐 <a href=\"https://bsky.app/hashtag/UXWin\">#UXWin</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcidv6hrxs2v",
+			"parentId": "at://did:plc:64zungdcsn4vvycpjqllqj5k/app.bsky.feed.post/3lcibgtiy3m2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcidv6hrxs2v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-04T14:18:56.000Z",
+			"content": "<p>yeah! they’re working great for me so far</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcidy6mi322v",
+			"parentId": "at://did:plc:d255bmzb4v2zavqjp65oa7ss/app.bsky.feed.post/3lci37f3t7s2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lcidy6mi322v",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-04T14:20:36.820Z",
+			"content": "<p>We’re loving them but I almost wonder if some artificial friction security theater would help adoption 😅</p>",
+			"via": "bluesky"
+		}
+	]
+}

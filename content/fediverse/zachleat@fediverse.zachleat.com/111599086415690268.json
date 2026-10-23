@@ -1,0 +1,311 @@
+{
+	"comments": [
+		{
+			"id": "111599139817087063",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/111599139817087063",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T02:48:54.024Z",
+			"content": "<p>Importantly: Eleventy is *still* punching far above its weight despite the Netlify-induced setbacks we faced this year.</p><p>Many of the frameworks listed are VC-funded with multiple full-time developers. We don’t have that—intentionally. Our project goals are different.</p><p>As I’ve said before: Eleventy and Astro are allies in the web development framework melee. When Astro wins, Eleventy wins too. It isn’t a zero-sum game.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599146900387265",
+			"parentId": "111599139817087063",
+			"url": "https://fediverse.zachleat.com/@zachleat/111599146900387265",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T02:50:42.106Z",
+			"content": "<p>(and I hope Astro dethrones Next.js too)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599196094258090",
+			"parentId": "111599139817087063",
+			"url": "https://mastodon.social/@xavdid/111599195994182764",
+			"author": {
+				"name": "David Brownman",
+				"url": "https://mastodon.social/@xavdid",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/468/640/675/880/436/original/c528d64f07d58b0b.jpeg"
+			},
+			"date": "2023-12-18T03:03:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> can you expand on that point? Are Astro and Eleventy related?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599228046256657",
+			"parentId": "111599139817087063",
+			"url": "https://social.dryan.com/@d/111599228032618639",
+			"author": {
+				"name": "Dan Ryan :dryan:",
+				"url": "https://social.dryan.com/@d",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/804/817/015/572/original/b93ef5db0503b13f.jpeg"
+			},
+			"date": "2023-12-18T03:11:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> almost nothing is a zero-sum game. The faster we all figure that out the better.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599233455589542",
+			"parentId": "111599196094258090",
+			"url": "https://fediverse.zachleat.com/@zachleat/111599233455589542",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T03:12:42.836Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@xavdid\" class=\"u-url mention\">@<span>xavdid</span></a></span> Astro and Eleventy share the same zero JavaScript footprint vision for the web. Astro devs have said that Eleventy inspired their project from the beginning!</p><p>A few key differentiators:<br />1. We didn’t take VC funding: we’re in it for the long haul.<br />2. They are bundler-first and Vite-based, which is great but has build performance costs. Eleventy is faster because we don’t bundle a bundler.</p><p>A few more:<br />* <a href=\"https://www.zachleat.com/web/site-generator-review/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/site-generato</span><span class=\"invisible\">r-review/</span></a><br />* <a href=\"https://www.11ty.dev/docs/performance/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/performance/</span><span class=\"invisible\"></span></a><br />* <a href=\"https://www.11ty.dev/blog/newstack/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/blog/newstack/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599248716665841",
+			"parentId": "111599228046256657",
+			"url": "https://fediverse.zachleat.com/@zachleat/111599248716665841",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T03:16:35.703Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.dryan.com/@d\" class=\"u-url mention\">@<span>d</span></a></span> well said</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599324382287587",
+			"parentId": "111599146900387265",
+			"url": "https://front-end.social/@benschwarz/111599324358397346",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2023-12-18T03:35:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Next.js is only ‘at the top’ if you’re on Twitter or believe the marketing. It’s far from the most popular framework</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599348682236864",
+			"parentId": "111599146900387265",
+			"url": "https://fediverse.zachleat.com/@zachleat/111599348682236864",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T03:42:01.056Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\">@<span>zachleat</span></a></span> One more thought before I sign off: I’m very interested to read the (afaict) absent methodology document that was historically included alongside the survey, documenting sources of data and margins of error.</p><p>Here’s the one from 2022: <a href=\"https://jamstack.org/survey/2022/community-survey-2022-methodology.pdf\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jamstack.org/survey/2022/commu</span><span class=\"invisible\">nity-survey-2022-methodology.pdf</span></a></p><p>I’m sure it will arrive shortly!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599356553669965",
+			"parentId": "111599324382287587",
+			"url": "https://fediverse.zachleat.com/@zachleat/111599356553669965",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T03:44:01.164Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\">@<span>benschwarz</span></a></span> yeah, absolutely.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111599888241840557",
+			"parentId": "111599356553669965",
+			"url": "https://front-end.social/@benschwarz/111599888186011862",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2023-12-18T05:59:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> sorry, I know you know that and I was speaking at you—feverishly in agreement 😜</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601118137552133",
+			"parentId": "111599139817087063",
+			"url": "https://vis.social/@lofi/111601118117443695",
+			"author": {
+				"name": "David Fitzgibbon",
+				"url": "https://vis.social/@lofi",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/344/176/077/370/287/original/dc44577a58d02666.png"
+			},
+			"date": "2023-12-18T11:12:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I love how you think about this stuff. Thanks for being such a positive force, it cant be easy. ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601679208866459",
+			"parentId": "111601118137552133",
+			"url": "https://fediverse.zachleat.com/@zachleat/111601679208866459",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T13:34:42.069Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://vis.social/@lofi\" class=\"u-url mention\">@<span>lofi</span></a></span> appreciate you! I’m really just trying to do the right thing even when it’s the hard thing ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601811596483259",
+			"parentId": "111599348682236864",
+			"url": "https://fediverse.zachleat.com/@zachleat/111601811596483259",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T14:08:22.141Z",
+			"content": "<p>Am I done with this thread? Apparently not. 😅</p><p>Here’s what an intellectually honest version of the Netlify State of the Web chart looks like (and this one doesn’t obscure Gatsby)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601919596758966",
+			"parentId": "111601811596483259",
+			"url": "https://mastodon.social/@scrwd/111601919559887244",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-12-18T14:35:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's hard to see what argument is the best to convince enterprise away from Next.js :/</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111601928711988482",
+			"parentId": "111601919596758966",
+			"url": "https://fediverse.zachleat.com/@zachleat/111601928711988482",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T14:38:09.184Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\">@<span>scrwd</span></a></span> enterprises are often the slowest movers in the space, the ever given still obstructing the suez canal 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602335104360785",
+			"parentId": "111601919596758966",
+			"url": "https://fediverse.zachleat.com/@zachleat/111602335104360785",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T16:21:30.240Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\">@<span>scrwd</span></a></span> one more thought here: the best evidence is *Gatsby* and the very risky, tenuous relationship that frameworks have with VC investment. Enterprises hate risk—and not even Next’s success can survive the end of the runway</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602414293759885",
+			"parentId": "111601811596483259",
+			"url": "https://social.ericwbailey.website/@eric/111602414274608275",
+			"private": true,
+			"date": "2023-12-18T16:41:38.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602421400671765",
+			"parentId": "111601811596483259",
+			"url": "https://mas.to/@nmoo/111602421322194691",
+			"author": {
+				"name": "nate",
+				"url": "https://mas.to/@nmoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/195/614/148/293/original/d5e5c7732ffbde1c.jpg"
+			},
+			"date": "2023-12-18T16:43:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The fact that the original report didn't even include a chart like this is wild. Year-to-year growth is a very different metric than overall usage/satisfaction. Younger projects will inherently see more initial growth. A more objective framing would have contextualized the original chart against the absolute numbers.</p><p>I'm sorry folks are drawing the wrong conclusions about Eleventy from the report. This isn't a competition—framework monoculture is *always* bad for the web.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602453273019402",
+			"parentId": "111602421400671765",
+			"url": "https://fediverse.zachleat.com/@zachleat/111602453273019402",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-18T16:51:33.351Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@nmoo\" class=\"u-url mention\">@<span>nmoo</span></a></span> Page 10 (of 13) of the primary report had the original chart (alone). The second chart showing absolute numbers for sentiment was buried in the appendices on Page 32 (of 39).</p><p>(And I *really* appreciate you for saying this)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111602621529293792",
+			"parentId": "111602453273019402",
+			"url": "https://mas.to/@nmoo/111602621483114923",
+			"author": {
+				"name": "nate",
+				"url": "https://mas.to/@nmoo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/365/195/614/148/293/original/d5e5c7732ffbde1c.jpg"
+			},
+			"date": "2023-12-18T17:34:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah yes, internet users famously love to check page 32 of the appendices before drawing conclusions!</p><p>Of course man. Not a fight I'm interested in fighting and not a narrative I feel the need to participate in ✊</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111603979839401906",
+			"parentId": "111599139817087063",
+			"url": "https://mastodon.social/@wonkeythemonkey/111603979776498994",
+			"author": {
+				"name": "Jesse Janowiak",
+				"url": "https://mastodon.social/@wonkeythemonkey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/523/216/844/600/113/original/b6f11b26943d4e54.png"
+			},
+			"date": "2023-12-18T23:19:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m out of the loop, and a search was no help — what were the Netlify-induced setbacks?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111604182356829546",
+			"parentId": "111603979839401906",
+			"url": "https://fediverse.zachleat.com/@zachleat/111604182356829546",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-12-19T00:11:17.076Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@wonkeythemonkey\" class=\"u-url mention\">@<span>wonkeythemonkey</span></a></span> <a href=\"https://www.zachleat.com/web/eleventy-side-project/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zachleat.com/web/eleventy-side</span><span class=\"invisible\">-project/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111604775707116988",
+			"parentId": "111601811596483259",
+			"url": "https://front-end.social/@AmeliaBR/111604775670440566",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2023-12-19T02:42:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh yeah, that's a very different story. Showing only annual % change in a popularity contest is very unusual choice indeed.</p><p>If they wanted to show change while also respecting actual values, each of those bubbles in your chart could have a tail extending from last year's position.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111606495645145232",
+			"parentId": 0,
+			"url": "https://mastodon.social/@erikKroes/111606495611134339",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2023-12-19T09:59:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> TIL solidstart is a thing.</p><p>Welcoming offers on <a href=\"https://www.solidstart.info/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">solidstart.info/</span><span class=\"invisible\"></span></a>!</p>",
+			"via": "fediverse"
+		}
+	]
+}

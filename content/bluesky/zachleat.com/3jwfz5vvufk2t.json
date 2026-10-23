@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:hzng64yln7ld7dr647prborw/app.bsky.feed.post/3jwg5lanild2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/forresto.bsky.social/post/3jwg5lanild2m",
+			"author": {
+				"name": "Forrest O.",
+				"url": "https://bsky.app/profile/forresto.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hzng64yln7ld7dr647prborw/bafkreigb6aqk6gtte2ex2syjnolut7epi2ly3veynyhzx7fxfiaabjc46e"
+			},
+			"date": "2023-05-23T18:52:09.420Z",
+			"content": "<p>I think it's just a beta thing. <br>\nYou don't need auth to get content, here's a firehose app example: <a href=\"https://glitch.com/~blue-skies-ahead-search\">https://glitch.com/~blue-skies-ahead-search</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwg6ehkqu224",
+			"parentId": "at://did:plc:hzng64yln7ld7dr647prborw/app.bsky.feed.post/3jwg5lanild2m",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwg6ehkqu224",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-23T19:06:15.166Z",
+			"content": "<p>That’d be good!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hzng64yln7ld7dr647prborw/app.bsky.feed.post/3jwiqobs6pl24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwg6ehkqu224",
+			"url": "https://bsky.app/profile/forresto.bsky.social/post/3jwiqobs6pl24",
+			"author": {
+				"name": "Forrest O.",
+				"url": "https://bsky.app/profile/forresto.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hzng64yln7ld7dr647prborw/bafkreigb6aqk6gtte2ex2syjnolut7epi2ly3veynyhzx7fxfiaabjc46e"
+			},
+			"date": "2023-05-24T19:39:11.023Z",
+			"content": "<p>I should remove all the create-react-app bloat there and try that Strawberry lib you linked.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwiscm36lc2k",
+			"parentId": "at://did:plc:hzng64yln7ld7dr647prborw/app.bsky.feed.post/3jwiqobs6pl24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwiscm36lc2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-24T20:08:27.047Z",
+			"content": "<p>caveat that strawberry doesn’t seem to have a server rendering story but it does look cool!</p>",
+			"via": "bluesky"
+		}
+	]
+}

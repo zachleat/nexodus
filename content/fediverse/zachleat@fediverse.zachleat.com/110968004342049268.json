@@ -1,0 +1,689 @@
+{
+	"comments": [
+		{
+			"id": "110968012104388814",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110968012104388814",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T15:44:49.383Z",
+			"content": "<p>Certainly not claiming that Eleventy’s problems or risks are better, just different.</p><p>We’ve taken $0 from investors, which is definitely easier for me to manage long-term (what I’m optimizing for).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968036479326383",
+			"parentId": "110968012104388814",
+			"url": "https://mastodon.social/@bastianallgeier/110968036422722148",
+			"author": {
+				"name": "Bastian Allgeier",
+				"url": "https://mastodon.social/@bastianallgeier",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/225/968/517/429/original/30c7078b2f8c4d75.jpg"
+			},
+			"date": "2023-08-28T15:51:00.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> In my experience, 95% of all VC funded competitors in our areas will vanish when you are playing the long-term game and just wait long enough. The other 5% will become so expensive that they end up as enterprise systems for a very exclusive audience.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968038929860767",
+			"parentId": 0,
+			"url": "https://mstdn.social/@kixxauth/110968038841719622",
+			"author": {
+				"name": "Kris Walker",
+				"url": "https://mstdn.social/@kixxauth",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/835/981/042/973/496/original/832faf6af375b9a6.jpg"
+			},
+			"date": "2023-08-28T15:51:37.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>I guess I'm old school, but it twists my brain into a knot trying to understand the ecosystem around venture funded open source projects.</p><p>It's so counter to ... everything I've known about software up until 2019.</p><p>I guess, 20 years into the future, we'll see this as a strange blip.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968041350429730",
+			"parentId": "110968038929860767",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968041350429730",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T15:52:15.647Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@kixxauth\" class=\"u-url mention\">@<span>kixxauth</span></a></span> would you call it a zero interest rate phenomenon</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968044127812430",
+			"parentId": "110968012104388814",
+			"url": "https://cosocial.ca/@boris/110968044060931634",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-08-28T15:52:57.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I think “more well understood” would be fair. It’s an open source framework with an MIT license.</p><p>I assume you own some domain names and graphics and such, and otherwise it can be endlessly remixed for people to try alternate paths.</p><p>The hard work of maintenance and compatibility, never mind new features, docs, community management, gets done as much as people volunteer or are paid to do it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968053860102039",
+			"parentId": 0,
+			"url": "https://mastodon.social/@lekoarts/110968053756496102",
+			"author": {
+				"name": "Lennart",
+				"url": "https://mastodon.social/@lekoarts",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
+			},
+			"date": "2023-08-28T15:55:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Maybe I'm out of the loop but I'd also like to know how they want to earn money, the initial post didn’t say <a href=\"https://astro.build/blog/the-astro-technology-company/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">astro.build/blog/the-astro-tec</span><span class=\"invisible\">hnology-company/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968065525440217",
+			"parentId": "110968044127812430",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968065525440217",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T15:58:24.524Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\">@<span>boris</span></a></span> I think the same could be said of Astro too, no? The framework is also open source/open licensed.</p><p>The nuance I’ve been thinking about is more FTE =&gt; biting off larger problems =&gt; larger code base =&gt; more maintenance risk when the company is sold.</p><p>Just for comparison I don’t think volunteers will maintain Gatsby given that the framework is owned by Netlify (and Netlify is laying off folks that used to do the job of maintaining Gatsby)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968067170837681",
+			"parentId": "110968041350429730",
+			"url": "https://mstdn.social/@kixxauth/110968067134531479",
+			"author": {
+				"name": "Kris Walker",
+				"url": "https://mstdn.social/@kixxauth",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/835/981/042/973/496/original/832faf6af375b9a6.jpg"
+			},
+			"date": "2023-08-28T15:58:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ha! Yeah, I guess from a capital and finance perspective it is very reflective of a zero interest rate era :D</p><p>Never would have guessed it would impact open source web development frameworks ;-p</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968069319227963",
+			"parentId": "110968053860102039",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968069319227963",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T15:59:22.412Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\">@<span>lekoarts</span></a></span> I haven’t heard anything about it either, fwiw</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968078575500381",
+			"parentId": "110968036479326383",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968078575500381",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T16:01:43.652Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\">@<span>bastianallgeier</span></a></span> whew!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968104570310319",
+			"parentId": 0,
+			"url": "https://indieweb.social/@nachtfunke/110968104545052166",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-08-28T16:08:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that is 100% why I will not use it. Because it is not upfront with how they intend to monetise.</p><p>It is so clear that they are intending to sell it to someone else. This feels extremely sour to me, because especially with these types of technologies, you are selling a community, or access to a community.</p><p>I didn't say anything because I thought I was just paranoid, but that is just how venture capitalism works, and they very much participate.</p><p>No shade to the devs, but it is a reality.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968111876157611",
+			"parentId": "110968036479326383",
+			"url": "https://social.bennypowers.dev/@bp/110968111851712203",
+			"author": {
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-08-28T16:10:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is that what they call becoming a \"lifestyle company\"?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968119453160364",
+			"parentId": "110968041350429730",
+			"url": "https://indieweb.social/@nachtfunke/110968119421214249",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-08-28T16:12:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@kixxauth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kixxauth</span></a></span> lol good one! :D</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968119914711501",
+			"parentId": "110968041350429730",
+			"url": "https://indieweb.social/@nachtfunke/110968119854154242",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-08-28T16:12:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@kixxauth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kixxauth</span></a></span> deep lore meme</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968122660202353",
+			"parentId": "110968065525440217",
+			"url": "https://cosocial.ca/@boris/110968122588329508",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-08-28T16:12:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes the attendant dedicated entity with funding makes it muddier. For GPL (for instance), having an entity hold all the copyrights gives only it the ability to re-license. </p><p>Now that we know they won’t pursue hosting, what larger codebase features and thus services might they offer.</p><p>Potentially parallels Gatsby -&gt; Gatsby Cloud entanglement. </p><p>Something something “maintainer deficit”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968126826304639",
+			"parentId": "110968038929860767",
+			"url": "https://indieweb.social/@nachtfunke/110968126776874042",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-08-28T16:13:59.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@kixxauth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kixxauth</span></a></span> I can very much recommend this episode from Tech Won't Save Us: <a href=\"https://techwontsave.us/episode/180_abolish_venture_capital_w_edward_ongweso_jr\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">techwontsave.us/episode/180_ab</span><span class=\"invisible\">olish_venture_capital_w_edward_ongweso_jr</span></a></p><p>TLDR; Venture Capital is a plague on society that keeps on festering and intends to infiltrate all parts of human living, to commodify the most mundane parts of it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968130201144246",
+			"parentId": "110968122660202353",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968130201144246",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T16:14:51.407Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://cosocial.ca/@boris\" class=\"u-url mention\">@<span>boris</span></a></span> ah just for the record I don’t think this *changes* their stance on whether or not they will pursue hosting—previously Netlify was the official hosting partner.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968178778429855",
+			"parentId": 0,
+			"url": "https://noodle.social/@lobau/110968178757982761",
+			"private": true,
+			"date": "2023-08-28T16:27:12.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968185653743698",
+			"parentId": "110968130201144246",
+			"url": "https://cosocial.ca/@boris/110968185570454166",
+			"author": {
+				"name": "Boris Mann",
+				"url": "https://cosocial.ca/@boris",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/118/955/928/962/297/original/35ae22c59e006661.jpg"
+			},
+			"date": "2023-08-28T16:28:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> for sure, it just means that there’s a blank space that isn’t hosting where we need to imagine paid services. </p><p>Having already switched official partners, we know that hosting isn’t tightly coupled in the open source framework.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968196997268445",
+			"parentId": "110968178778429855",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968196997268445",
+			"private": true,
+			"date": "2023-08-28T16:31:50.625Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968205940877618",
+			"parentId": "110968038929860767",
+			"url": "https://noodle.social/@lobau/110968205890872238",
+			"private": true,
+			"date": "2023-08-28T16:34:06.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968207913436476",
+			"parentId": "110968205940877618",
+			"url": "https://noodle.social/@lobau/110968205911862682",
+			"private": true,
+			"date": "2023-08-28T16:34:06.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968219304263212",
+			"parentId": 0,
+			"url": "https://mstdn.social/@mattwilcox/110968219245111407",
+			"author": {
+				"name": "Matt Wilcox",
+				"url": "https://mstdn.social/@mattwilcox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/949/593/182/322/original/ea34d8a24964f103.png"
+			},
+			"date": "2023-08-28T16:37:30.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is exactly why I ditched any interest in it the moment VC funding was announced.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968234389248587",
+			"parentId": "110968207913436476",
+			"url": "https://mstdn.social/@kixxauth/110968234252140626",
+			"private": true,
+			"date": "2023-08-28T16:41:19.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968277597240572",
+			"parentId": "110968234389248587",
+			"url": "https://noodle.social/@lobau/110968277570957025",
+			"private": true,
+			"date": "2023-08-28T16:52:20.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968313745955296",
+			"parentId": "110968012104388814",
+			"url": "https://mastodon.social/@jkohlmann/110968313644562517",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-08-28T17:01:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Dang, well, guess I might be moving my hastily ported personal site from Astro to…something else</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968323311224935",
+			"parentId": "110968313745955296",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968323311224935",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T17:03:58.023Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\">@<span>jkohlmann</span></a></span> I don’t think I’d recommend that—port when porting is needed, I think!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968334071462368",
+			"parentId": "110968323311224935",
+			"url": "https://mastodon.social/@jkohlmann/110968333930950392",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-08-28T17:06:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Touché 🙇🏼‍♂️ I chose Astro since it made it easy to incrementally move my old PHP and Sass site to something a bit more modern. In my case, that also means, if I ever do anything more with it, it’ll be a more elaborate rewrite. Thus I’d consider switching libraries / static site generators.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968603258638938",
+			"parentId": 0,
+			"url": "https://metalhead.club/@flori/110968603233366164",
+			"author": {
+				"name": "Florian Schroiff :damnified:",
+				"url": "https://metalhead.club/@flori",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/966/866/711/677/639/original/2b84ef05e4cd4a5b.jpeg"
+			},
+			"date": "2023-08-28T18:15:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> everybody wants to crack the WordPress hegemony. They just haven’t found the right combination of frontend/backend/cms yet. </p><p>No monetization strategy we know of is a bad look for Astro. Sad, because their community and contributors are great. Their Discord is super lively but moderated really well and very helpful. Their docs are super helpful and thorough.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968678046273786",
+			"parentId": "110968603258638938",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968678046273786",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T18:34:10.849Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@flori\" class=\"u-url mention\">@<span>flori</span></a></span> yeah, well said—the whole team is awesome</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968811390469789",
+			"parentId": 0,
+			"url": "https://m.webtoo.ls/@eliancodes/110968811363358002",
+			"author": {
+				"name": "Elian Van Cutsem",
+				"url": "https://m.webtoo.ls/@eliancodes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/691/567/525/949/238/original/e00db7a2182ef285.jpg"
+			},
+			"date": "2023-08-28T19:08:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We'll see about that 🤷🤷</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968818496169491",
+			"parentId": "110968053860102039",
+			"url": "https://m.webtoo.ls/@eliancodes/110968818466752233",
+			"author": {
+				"name": "Elian Van Cutsem",
+				"url": "https://m.webtoo.ls/@eliancodes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/691/567/525/949/238/original/e00db7a2182ef285.jpg"
+			},
+			"date": "2023-08-28T19:09:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We don't 💪</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968845489353426",
+			"parentId": "110968818496169491",
+			"url": "https://fediverse.zachleat.com/@zachleat/110968845489353426",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-28T19:16:45.828Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\">@<span>eliancodes</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\">@<span>lekoarts</span></a></span> I think the concern here is that folks are worried that a VC-backed company without a monetization strategy is a pretty risky thing to bet on</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110968953662674971",
+			"parentId": "110968845489353426",
+			"url": "https://c.im/@matthewp/110968953631849390",
+			"author": {
+				"name": "Matthew Phillips",
+				"url": "https://c.im/@matthewp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
+			},
+			"date": "2023-08-28T19:44:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> Everything's perishable, right? With companies you worry that they might fail. With BDFL you worry about bus factor. A foundation is probably the safest place for a project, but even those seem to take on more than they can maintain. Good thing about SSG is that once you deploy you can throw away the framework you used to build it, if you want.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969353695427411",
+			"parentId": "110968953662674971",
+			"url": "https://mastodon.social/@lekoarts/110969353540826638",
+			"author": {
+				"name": "Lennart",
+				"url": "https://mastodon.social/@lekoarts",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
+			},
+			"date": "2023-08-28T21:25:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@matthewp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matthewp</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> For my hobby projects I wouldn’t care, for my business I would care a lot.</p><p>Bit surprised to hear that there are no concrete plans, normally no one just gives money away for free.</p><p>Projects like Next, Astro, Gatsby, etc. are so complex, once no one gets paid anymore to work on them it’s impossible for the community to immediately pick it up unless preparations were made and non-company core contributors were taught.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969400292083270",
+			"parentId": "110969353695427411",
+			"url": "https://c.im/@matthewp/110969400256566337",
+			"author": {
+				"name": "Matthew Phillips",
+				"url": "https://c.im/@matthewp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
+			},
+			"date": "2023-08-28T21:37:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> There are concrete plans, but not ones I can share here now. Stay tuned.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969416063986638",
+			"parentId": 0,
+			"url": "https://front-end.social/@benschwarz/110969415757872915",
+			"author": {
+				"name": "benschwarz",
+				"url": "https://front-end.social/@benschwarz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
+			},
+			"date": "2023-08-28T21:41:47.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve lamented similar previously too (<a href=\"https://twitter.com/benschwarz/status/1585482090971136001\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/benschwarz/status/</span><span class=\"invisible\">1585482090971136001</span></a>). Gatsby’s seed was $5m at a time when that was described by some as a “mango” seed round (yes, I know 🤮). </p><p>It sounds weird, but you can raise a bunch of money to get 3-5 years down the line, then side step to actual adults take over when it’s probably too late anyway. Tech never learns.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969682037944437",
+			"parentId": "110968012104388814",
+			"url": "https://mastodon.social/@voxpelli/110969682007345189",
+			"author": {
+				"name": "Pelle Wessman",
+				"url": "https://mastodon.social/@voxpelli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/782/009/996/943/original/7631cc5a4e9dde08.png"
+			},
+			"date": "2023-08-28T22:49:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Eleventy is for sure more of a community project than these VC infused projects.</p><p>One reason I eg have staid away from Prisma, Rome, Deno and similar.</p><p>When the VC money runs out there will be no one left to maintain them.</p><p>And VC:s sacrifices most companies in the hunt for the truly massive ones, so it’s always more likely that a VC-funded startup will fail than that it will succeed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969715709847068",
+			"parentId": "110968334071462368",
+			"url": "https://mastodon.social/@developit/110969715634777018",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2023-08-28T22:58:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jkohlmann</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> have you thought about porting it to PHP</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969719036141488",
+			"parentId": "110969715709847068",
+			"url": "https://mastodon.social/@jkohlmann/110969718970283172",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-08-28T22:58:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I mean…I’d consider it, tbh (for this kind of site, anyway)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969726234284797",
+			"parentId": "110969715709847068",
+			"url": "https://front-end.social/@ksylor/110969726200506945",
+			"author": {
+				"name": "Katie Sylor-Miller",
+				"url": "https://front-end.social/@ksylor",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/471/071/573/638/266/original/d3aed4bfb5277c5c.jpg"
+			},
+			"date": "2023-08-28T23:00:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jkohlmann</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hey there is nothing wrong with PHP! (Says the person who works with the dude who wrote PHP)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969732013971221",
+			"parentId": "110969726234284797",
+			"url": "https://mastodon.social/@developit/110969731948954507",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2023-08-28T23:02:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jkohlmann</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> lol oh I agree, was a genuine suggestion :P</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969732502280831",
+			"parentId": "110969726234284797",
+			"url": "https://mastodon.social/@jkohlmann/110969732438476169",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-08-28T23:02:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Legitimately “the best kind of static site generator is no static site generator”</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969733435013228",
+			"parentId": "110969732013971221",
+			"url": "https://mastodon.social/@jkohlmann/110969733366007789",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-08-28T23:02:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah, I took it as such, don’t worry</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969737408444458",
+			"parentId": "110969732502280831",
+			"url": "https://mastodon.social/@developit/110969737045187213",
+			"author": {
+				"name": "Jason Miller 🦊⚛️",
+				"url": "https://mastodon.social/@developit",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/692/419/589/274/original/faf39d313e67c52d.jpg"
+			},
+			"date": "2023-08-28T23:03:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jkohlmann</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>function* generator() {<br>  yield 'static site'<br>}</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969799271323383",
+			"parentId": "110969737408444458",
+			"url": "https://mastodon.social/@jkohlmann/110969798978216536",
+			"author": {
+				"name": "Joseph Kohlmann",
+				"url": "https://mastodon.social/@jkohlmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/981/287/019/846/original/7798508a7228bcc3.png"
+			},
+			"date": "2023-08-28T23:19:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>developit</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Dang, all this time, I could’ve gone frameworkless</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110969975431692057",
+			"parentId": "110969732502280831",
+			"url": "https://fediverse.zachleat.com/@zachleat/110969975431692057",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-29T00:04:07.386Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jkohlmann\" class=\"u-url mention\">@<span>jkohlmann</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@ksylor\" class=\"u-url mention\">@<span>ksylor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@developit\" class=\"u-url mention\">@<span>developit</span></a></span> objection!!! Permission to treat as a hostile witness 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110972815410810078",
+			"parentId": "110968012104388814",
+			"url": "https://mastodon.xyz/@remotesynth/110972815372249352",
+			"author": {
+				"name": "Brian Rinaldi",
+				"url": "https://mastodon.xyz/@remotesynth",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/454/870/726/204/original/b2591f5bf2bcee44.jpg"
+			},
+			"date": "2023-08-29T12:06:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Right, both options have risks. I think many framework authors moved in the funded direction because of the risks of being independent (i.e. minimal funding combined with high demand for resources). Funding solves the resources issue, but adds the risk of return on investment (i.e. monetize, get bought or go out of business). I'm obviously not saying anything you don't know, but, point is, the risk from an end user's perspective is probably similar (the project is no longer maintained)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110972837833622090",
+			"parentId": "110972815410810078",
+			"url": "https://mastodon.xyz/@remotesynth/110972837779394674",
+			"author": {
+				"name": "Brian Rinaldi",
+				"url": "https://mastodon.xyz/@remotesynth",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/454/870/726/204/original/b2591f5bf2bcee44.jpg"
+			},
+			"date": "2023-08-29T12:12:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The problem for end-users right now is there are few alternatives. Eleventy is independent, but Next/Svelte are under Vercel (I know the structure is different), Gatsby is Netlify, Astro is VC funded. Essentially these all come with \"preferred vendors\" whether it's acknowledged or not. Not that end users are innocent in the equation. The demands we've put on framework authors have, in my opinion, almost forced them to seek funding.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110972987229111896",
+			"parentId": "110968012104388814",
+			"url": "https://mastodon.scot/@ben_seven/110972987214026975",
+			"author": {
+				"name": "Ben Seven",
+				"url": "https://mastodon.scot/@ben_seven",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/427/266/070/079/139/original/00febc4a02e8d001.jpeg"
+			},
+			"date": "2023-08-29T12:50:03.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I know about the $16B Zach. Pepperidge farm remembers.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110973066160356436",
+			"parentId": "110972837833622090",
+			"url": "https://m.nintendojo.fr/@meduz/110973066075884576",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2023-08-29T13:10:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>remotesynth</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If I’m correct, Vercel owns and maintains Next, but Svelte is “owned” 100% by <span class=\"h-card\"><a href=\"https://toot.cafe/@rich_harris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rich_harris</span></a></span>.</p><p>Vue/Nuxt are not “belonging” to any other corpo.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110973085394392988",
+			"parentId": "110973066160356436",
+			"url": "https://mastodon.xyz/@remotesynth/110973085327027590",
+			"author": {
+				"name": "Brian Rinaldi",
+				"url": "https://mastodon.xyz/@remotesynth",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/454/870/726/204/original/b2591f5bf2bcee44.jpg"
+			},
+			"date": "2023-08-29T13:15:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://m.nintendojo.fr/@meduz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>meduz</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://toot.cafe/@rich_harris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rich_harris</span></a></span> I noted that the structure of Svelte under Vercel is different. As I understand it, Rich is paid full time by Vercel to work on it but it isn't owned by Vercel. And, yes, Vue is afaik funded through sponsorships.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110973170983949033",
+			"parentId": "110972987229111896",
+			"url": "https://fediverse.zachleat.com/@zachleat/110973170983949033",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-29T13:36:47.638Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.scot/@ben_seven\" class=\"u-url mention\">@<span>ben_seven</span></a></span> the <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@davatron5000\" class=\"u-url mention\">@<span>davatron5000</span></a></span> check never cleared!!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110973173377776067",
+			"parentId": "110973170983949033",
+			"url": "https://mastodon.scot/@ben_seven/110973173344348287",
+			"author": {
+				"name": "Ben Seven",
+				"url": "https://mastodon.scot/@ben_seven",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/427/266/070/079/139/original/00febc4a02e8d001.jpeg"
+			},
+			"date": "2023-08-29T13:37:23.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@davatron5000\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>davatron5000</span></a></span> rogue banking error, surely he’s good for it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110973184436776911",
+			"parentId": "110972837833622090",
+			"url": "https://fediverse.zachleat.com/@zachleat/110973184436776911",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-08-29T13:40:12.911Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\">@<span>remotesynth</span></a></span> Yeah, this all seems accurate to me. The one weird piece is that the risk to authors is fairly well known (to authors) but the risk to app developers (end users/framework consumers) is not.</p>",
+			"via": "fediverse"
+		}
+	]
+}

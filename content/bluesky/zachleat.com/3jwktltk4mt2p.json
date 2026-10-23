@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ka6432pfe364n2kjrfhi7aro/app.bsky.feed.post/3jwktq5ojqs22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chance.dev/post/3jwktq5ojqs22",
+			"author": {
+				"name": "Chance",
+				"url": "https://bsky.app/profile/chance.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ka6432pfe364n2kjrfhi7aro/bafkreihpirsrdqzw4bcqsekfuzo6xh3aienjl57iggo2dbze7nttp573iu"
+			},
+			"date": "2023-05-25T15:39:15.049Z",
+			"content": "<p>No but you can talk about the Frediverse, which is what I like to call Astro</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yjpusf2kbwemp7bo3yofihu3/app.bsky.feed.post/3jwktrzrrp22a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/furioursus.dev/post/3jwktrzrrp22a",
+			"author": {
+				"name": "Spooky Mana Screw",
+				"url": "https://bsky.app/profile/furioursus.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yjpusf2kbwemp7bo3yofihu3/bafkreieqhgk23xj76vsxqttqtwrsfgw7hhqudylhaoqjqt3yf7hqek5rhi"
+			},
+			"date": "2023-05-25T15:40:18.016Z",
+			"content": "<p>No but you _will_ summon people to talk about how bad it is much in the same way discussing Bsky will summon people on the Fediverse to tell you how bad Bsky is.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yjpusf2kbwemp7bo3yofihu3/app.bsky.feed.post/3jwktxss4uk22",
+			"parentId": "at://did:plc:yjpusf2kbwemp7bo3yofihu3/app.bsky.feed.post/3jwktrzrrp22a",
+			"url": "https://bsky.app/profile/furioursus.dev/post/3jwktxss4uk22",
+			"author": {
+				"name": "Spooky Mana Screw",
+				"url": "https://bsky.app/profile/furioursus.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yjpusf2kbwemp7bo3yofihu3/bafkreieqhgk23xj76vsxqttqtwrsfgw7hhqudylhaoqjqt3yf7hqek5rhi"
+			},
+			"date": "2023-05-25T15:43:32.003Z",
+			"content": "<p>Sorry, somehow went bizarro-improv and “No but” instead of “Yes and”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwkuhkkaml2c",
+			"parentId": "at://did:plc:ka6432pfe364n2kjrfhi7aro/app.bsky.feed.post/3jwktq5ojqs22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwkuhkkaml2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-25T15:52:20.163Z",
+			"content": "<p>not to be confused with the breadiverse, which was sourdough’s moment in 2020</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwkuizrotd2c",
+			"parentId": "at://did:plc:yjpusf2kbwemp7bo3yofihu3/app.bsky.feed.post/3jwktxss4uk22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3jwkuizrotd2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2023-05-25T15:53:09.689Z",
+			"content": "<p>what are walled gardens but fences making good neighbors 😭</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:httl4meeb5mx5767hike2t4q/app.bsky.feed.post/3jwoaem72ek2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jwkuizrotd2c",
+			"url": "https://bsky.app/profile/bkardell.com/post/3jwoaem72ek2g",
+			"author": {
+				"name": "Brian Kardell",
+				"url": "https://bsky.app/profile/bkardell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:httl4meeb5mx5767hike2t4q/bafkreiduzv2xwkhuudncicmqday73trtdnqedafwezzlojhio57wu4jhwi"
+			},
+			"date": "2023-05-27T00:03:27.562Z",
+			"content": "<p>Fenciverse</p>",
+			"via": "bluesky"
+		}
+	]
+}

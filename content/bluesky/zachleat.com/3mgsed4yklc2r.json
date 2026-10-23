@@ -1,0 +1,207 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mgseefkgsk2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brob.dev/post/3mgseefkgsk2b",
+			"author": {
+				"name": "Bryan Robinson",
+				"url": "https://bsky.app/profile/brob.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
+			},
+			"date": "2026-03-11T17:01:02.731Z",
+			"content": "<p>Only the most important things, Zach!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mgsefmfuts2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3mgsefmfuts2g",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2026-03-11T17:01:43.475Z",
+			"content": "<p>What store?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3mgsej7d4ps24",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mgsefmfuts2g",
+			"url": "https://bsky.app/profile/sturobson.com/post/3mgsej7d4ps24",
+			"author": {
+				"name": "Stuart Robson",
+				"url": "https://bsky.app/profile/sturobson.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnut7bswvnl54dhflb4qofss/bafkreiedtdfrl3m5r2ghf2uayx3h35ktub2udzshrtfa5atvb35ntmp5ee"
+			},
+			"date": "2026-03-11T17:03:43.970Z",
+			"content": "<p>have you tried looking at it on a desktop browser</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgseltz7es2o",
+			"parentId": "at://did:plc:mnut7bswvnl54dhflb4qofss/app.bsky.feed.post/3mgsej7d4ps24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mgseltz7es2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-11T17:05:12.776Z",
+			"content": "<p>try landscape orientation</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3mgsenkohws2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/richholman.com/post/3mgsenkohws2q",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://bsky.app/profile/richholman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fsgldxdhhtceel4mzjwko3ta/bafkreiewi2ur6qxzco7yrgr6h2saxguk4566paaicw23ijgc5oti2iq4du"
+			},
+			"date": "2026-03-11T17:06:10.095Z",
+			"content": "<p>There is no data to support any reduced usage of this store. Studies show people continue to use the space above the store.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qzqjeysuvjsg7hsttruz2j47/app.bsky.feed.post/3mgseovwrs22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jeroen.wtf/post/3mgseovwrs22o",
+			"author": {
+				"name": "Jeroen ✦ 167→",
+				"url": "https://bsky.app/profile/jeroen.wtf",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzqjeysuvjsg7hsttruz2j47/bafkreihdl2p6ajjmj2vyvkkdiqjujd2upcymzku4rgjzhdfn5ubmsvvahm"
+			},
+			"date": "2026-03-11T17:06:55.457Z",
+			"content": "<p>A few other stores, called “GDPR Consent Blocking Banner”, “Newsletter Sign Up Blocking Modal”, “Allow Notifications Unwanted Alert” and the huge “Ad Banner With Sound” store.</p>\n<p>Nobody wants them but there they are.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgset7y6ac2s",
+			"parentId": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3mgsenkohws2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mgset7y6ac2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-11T17:09:20.206Z",
+			"content": "<p>air traffic control has classified this as restricted airspace</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3mgseyfv6vs2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/benbrignell.com/post/3mgseyfv6vs2v",
+			"author": {
+				"name": "Ben Brignell",
+				"url": "https://bsky.app/profile/benbrignell.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:edojrnxw5whxhwigzdw7csrb/bafkreidw4foei4keimmt2g3x7ygw47htx5hxpghg2om4u445mvcy6thp6a"
+			},
+			"date": "2026-03-11T17:12:14.172Z",
+			"content": "<p>Were there people walking around aimlessly unable to find the door?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vih52wbw6xldmkcpjlizjcsw/app.bsky.feed.post/3mgsf4ieo5c2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/joshuaiz.com/post/3mgsf4ieo5c2k",
+			"author": {
+				"name": "Joshua Iz",
+				"url": "https://bsky.app/profile/joshuaiz.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vih52wbw6xldmkcpjlizjcsw/bafkreid35htabr53a2orzaex4olc2k442vmkk5gm7fhpqhnrd3twrniyha"
+			},
+			"date": "2026-03-11T17:14:30.993Z",
+			"content": "<p>Don't forget what's underneath. Maybe not prime real estate but still important.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3droyvhoctevdqkqej6ypll3/app.bsky.feed.post/3mgsfgwawk32j",
+			"parentId": "at://did:plc:qzqjeysuvjsg7hsttruz2j47/app.bsky.feed.post/3mgseovwrs22o",
+			"url": "https://bsky.app/profile/tradeapollo.bsky.social/post/3mgsfgwawk32j",
+			"author": {
+				"name": "tradeapollo.bsky.social",
+				"url": "https://bsky.app/profile/tradeapollo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3droyvhoctevdqkqej6ypll3/bafkreig3qo7wdvsc22sxfg4nnzxqmqj4hfuwlqhzrdmq7yjqphw2co4ory"
+			},
+			"date": "2026-03-11T17:20:20.015Z",
+			"content": "<p>I totally get your frustration! As someone who's been studying DevSecOps, I've built a local scanner that can map these unwanted exposure points without sending any telemetry. It's a powerful tool to help you regain control over your digita</p>\n<p>https://www.tradeapollo.co/demo</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgsfj7rzhc2o",
+			"parentId": "at://did:plc:edojrnxw5whxhwigzdw7csrb/app.bsky.feed.post/3mgseyfv6vs2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mgsfj7rzhc2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-11T17:21:38.202Z",
+			"content": "<p>you must be signed in to use Door feature</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgsfkd3g3c2o",
+			"parentId": "at://did:plc:vih52wbw6xldmkcpjlizjcsw/app.bsky.feed.post/3mgsf4ieo5c2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mgsfkd3g3c2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-11T17:22:15.210Z",
+			"content": "<p>I don’t think anyone goes into the basement</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:elgpq54atp2vwclmazjq656c/app.bsky.feed.post/3mgsfnq56wk2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/codeadrian.github.io/post/3mgsfnq56wk2g",
+			"author": {
+				"name": "Adrian Bece",
+				"url": "https://bsky.app/profile/codeadrian.github.io",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:elgpq54atp2vwclmazjq656c/bafkreigfbacwle4jqjx5gzl6ewi5bs5pv2lm45sszleneuo2y2yuw2yvoi"
+			},
+			"date": "2026-03-11T17:24:09.563Z",
+			"content": "<p>&lt;div style=\"min-height: 100dvh; background-color: blue;\"&gt;&lt;/div&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2d2qpuuyarvyfl5tcvhmdtim/app.bsky.feed.post/3mgsgm6cfvk2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/neckam.nl/post/3mgsgm6cfvk2g",
+			"private": true,
+			"date": "2026-03-11T17:41:11.045Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vih52wbw6xldmkcpjlizjcsw/app.bsky.feed.post/3mgshpx2u6k2k",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgsfkd3g3c2o",
+			"url": "https://bsky.app/profile/joshuaiz.com/post/3mgshpx2u6k2k",
+			"author": {
+				"name": "Joshua Iz",
+				"url": "https://bsky.app/profile/joshuaiz.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vih52wbw6xldmkcpjlizjcsw/bafkreid35htabr53a2orzaex4olc2k442vmkk5gm7fhpqhnrd3twrniyha"
+			},
+			"date": "2026-03-11T18:01:11.418Z",
+			"content": "<p>Marketing and merchandising would like a word.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3droyvhoctevdqkqej6ypll3/app.bsky.feed.post/3mgsinnirxe2w",
+			"parentId": "at://did:plc:3droyvhoctevdqkqej6ypll3/app.bsky.feed.post/3mgsfgwawk32j",
+			"url": "https://bsky.app/profile/tradeapollo.bsky.social/post/3mgsinnirxe2w",
+			"author": {
+				"name": "tradeapollo.bsky.social",
+				"url": "https://bsky.app/profile/tradeapollo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3droyvhoctevdqkqej6ypll3/bafkreig3qo7wdvsc22sxfg4nnzxqmqj4hfuwlqhzrdmq7yjqphw2co4ory"
+			},
+			"date": "2026-03-11T18:17:46.953Z",
+			"content": "<p>\"I totally understand your frustration! I've built a local scanner that maps these unwanted exposure points without sending any telemetry, giving you control over your digital footprint.\"</p>\n<p>https://www.tradeapollo.co/demo</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"comments": [
+		{
+			"id": "111721322059331286",
+			"parentId": 0,
+			"url": "https://layer8.space/@RyunoKi/111721321491076346",
+			"private": true,
+			"date": "2024-01-08T16:41:18.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111721428313268390",
+			"parentId": "111721322059331286",
+			"url": "https://fediverse.zachleat.com/@zachleat/111721428313268390",
+			"private": true,
+			"date": "2024-01-08T17:08:28.394Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111721489683198595",
+			"parentId": "111721428313268390",
+			"url": "https://layer8.space/@RyunoKi/111721489437160078",
+			"private": true,
+			"date": "2024-01-08T17:24:01.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111721499785720508",
+			"parentId": "111721489683198595",
+			"url": "https://fediverse.zachleat.com/@zachleat/111721499785720508",
+			"private": true,
+			"date": "2024-01-08T17:26:38.978Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111721562392883591",
+			"parentId": "111721499785720508",
+			"url": "https://layer8.space/@RyunoKi/111721562071031501",
+			"private": true,
+			"date": "2024-01-08T17:42:29.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111722356273948038",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sphars/111722352910357191",
+			"author": {
+				"name": "Spencer",
+				"url": "https://mastodon.social/@sphars",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/698/669/726/197/046/original/9539c0407b4e5cc6.jpg"
+			},
+			"date": "2024-01-08T21:03:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not exactly in the devtools, but Vivaldi allows you to view EXIF metadata via right-click -&gt; Image Properties</p><p>See <a href=\"https://help.vivaldi.com/desktop/tools/image-properties/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">help.vivaldi.com/desktop/tools</span><span class=\"invisible\">/image-properties/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111722396389898897",
+			"parentId": "111722356273948038",
+			"url": "https://fediverse.zachleat.com/@zachleat/111722396389898897",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-01-08T21:14:40.071Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sphars\" class=\"u-url mention\">@<span>sphars</span></a></span> I like it—thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111722480592199086",
+			"parentId": "111722356273948038",
+			"url": "https://noc.social/@dkbgeek/111722480454080936",
+			"author": {
+				"name": "Angry Centrist",
+				"url": "https://noc.social/@dkbgeek",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-01-08T21:36:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@sphars\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sphars</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Arezzo, eh?  Ho studiato a Castiglion Fiorentino, molti hanni fa.</p>",
+			"via": "fediverse"
+		}
+	]
+}

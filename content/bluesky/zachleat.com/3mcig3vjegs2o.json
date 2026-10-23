@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3mcigwypdhk2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jim-nielsen.com/post/3mcigwypdhk2y",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://bsky.app/profile/jim-nielsen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln6p42mckoylrkcd3ds6b7vv/bafkreib6r6i4pyodvm7i4t6e55efj23vbtwrmp5iljqrmoev5jovtqrkue"
+			},
+			"date": "2026-01-15T20:39:50.382Z",
+			"content": "<p>...in JS</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mcigyfpjfk2x",
+			"parentId": "at://did:plc:ln6p42mckoylrkcd3ds6b7vv/app.bsky.feed.post/3mcigwypdhk2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mcigyfpjfk2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-01-15T20:40:37.575Z",
+			"content": "<p>go straight to javascript jail; do not collect $200B investment; do not rewrite in go (or rust)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gm4rwo263ej2dj3hu2njaosx/app.bsky.feed.post/3mcihu7xtes2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/haul-pebert.bsky.social/post/3mcihu7xtes2j",
+			"author": {
+				"name": "Paul Hebert",
+				"url": "https://bsky.app/profile/haul-pebert.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gm4rwo263ej2dj3hu2njaosx/bafkreidimjuraiqbhpzapm2fzd2l7yk42f2efgumlskwlma4daeactm6w4"
+			},
+			"date": "2026-01-15T20:56:11.080Z",
+			"content": "<p>I'm in the middle of writing a blog post that feels very relevant to this... (Shadcn and Radix UI recreate radio buttons with JS instead of using CSS to style and it is... a lot.)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rfp2zkaswyhiqiz6dknuguhz/app.bsky.feed.post/3mck6mt3vh22p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cjaythecreator.bsky.social/post/3mck6mt3vh22p",
+			"author": {
+				"name": "Cj",
+				"url": "https://bsky.app/profile/cjaythecreator.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rfp2zkaswyhiqiz6dknuguhz/bafkreickgsb2grxaalloc5gchx65fuytlnmwbv3jtiyuuen75nxte25xma"
+			},
+			"date": "2026-01-16T13:16:18.501Z",
+			"content": "<p>Build tools come and go. CSS? It's the bedrock. It was here before the SPA, and it'll be here after. It always wins 🙏</p>",
+			"via": "bluesky"
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:mlmtsmr3fcbhffjoydyg3663/app.bsky.feed.post/3me2td4llks2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/wil.to/post/3me2td4llks2y",
+			"author": {
+				"name": "Mat “Wilto” Marquis",
+				"url": "https://bsky.app/profile/wil.to",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mlmtsmr3fcbhffjoydyg3663/bafkreiftcm5ozxsalnx2n32ljouso4i4c2jcau4f2rgzqn2lfs6cetnegy"
+			},
+			"date": "2026-02-04T21:34:28.927Z",
+			"content": "<p>zach</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me2th4ysok2m",
+			"parentId": "at://did:plc:mlmtsmr3fcbhffjoydyg3663/app.bsky.feed.post/3me2td4llks2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3me2th4ysok2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-04T21:36:43.578Z",
+			"content": "<p>okay, I am actually sorry for this one</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gimav74bq5zm6kfa5pt35ro5/app.bsky.feed.post/3me2u7zr3k22t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/develwithoutacause.dwac.dev/post/3me2u7zr3k22t",
+			"author": {
+				"name": "Doug Parker",
+				"url": "https://bsky.app/profile/develwithoutacause.dwac.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gimav74bq5zm6kfa5pt35ro5/bafkreidky2h6ylbg6w6hhuz5jmbamgnzv4672kle2x3ki4ou3syctwudja"
+			},
+			"date": "2026-02-04T21:50:39.041Z",
+			"content": "<p>`__proto__` isn't standard and vulnerable to prototype pollution.</p>\n<p>TC39 should consider my proposal for a new syntax inspired by `#` private variables:</p>\n<p>`foo.@proto.bar`</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me2un4rppk2x",
+			"parentId": "at://did:plc:gimav74bq5zm6kfa5pt35ro5/app.bsky.feed.post/3me2u7zr3k22t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3me2un4rppk2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-04T21:57:58.415Z",
+			"content": "<p>I…&nbsp;I am just making a quip about bsky atproto I am sorry</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:e7a22esv2knusm7myyeyjdhf/app.bsky.feed.post/3me2v7fustq2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me2un4rppk2x",
+			"url": "https://bsky.app/profile/jaredwhite.com/post/3me2v7fustq2o",
+			"author": {
+				"name": "Jared White",
+				"url": "https://bsky.app/profile/jaredwhite.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:e7a22esv2knusm7myyeyjdhf/bafkreidd4hsj5dby5gsuxakf7xsw5j4y724hca3tlef6mwybzvtalcrgee"
+			},
+			"date": "2026-02-04T22:08:11.876Z",
+			"content": "<p>At this point I assume it's always another Zach shitpost unless you say otherwise. 😜</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mlmtsmr3fcbhffjoydyg3663/app.bsky.feed.post/3me2xkmqsz22v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me2th4ysok2m",
+			"url": "https://bsky.app/profile/wil.to/post/3me2xkmqsz22v",
+			"author": {
+				"name": "Mat “Wilto” Marquis",
+				"url": "https://bsky.app/profile/wil.to",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mlmtsmr3fcbhffjoydyg3663/bafkreiftcm5ozxsalnx2n32ljouso4i4c2jcau4f2rgzqn2lfs6cetnegy"
+			},
+			"date": "2026-02-04T22:50:15.724Z",
+			"content": "<p>so you will learn a lesson from this experience, you’re saying</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me2xq47fys2o",
+			"parentId": "at://did:plc:mlmtsmr3fcbhffjoydyg3663/app.bsky.feed.post/3me2xkmqsz22v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3me2xq47fys2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-04T22:53:19.703Z",
+			"content": "<p>I have learned that nojs and node.js can be made to sound very similar, with the right motivation</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gimav74bq5zm6kfa5pt35ro5/app.bsky.feed.post/3me36kufr4s2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me2un4rppk2x",
+			"url": "https://bsky.app/profile/develwithoutacause.dwac.dev/post/3me36kufr4s2h",
+			"author": {
+				"name": "Doug Parker",
+				"url": "https://bsky.app/profile/develwithoutacause.dwac.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gimav74bq5zm6kfa5pt35ro5/bafkreidky2h6ylbg6w6hhuz5jmbamgnzv4672kle2x3ki4ou3syctwudja"
+			},
+			"date": "2026-02-05T00:55:39.939Z",
+			"content": "<p>Sorry, maybe I came off too serious 😅, I just thought @proto was cleaner than atproto for the joke and connecting it to # syntax for privates.</p>\n<p>I got your joke, clearly mine didn't land. 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me4nflruh227",
+			"parentId": "at://did:plc:gimav74bq5zm6kfa5pt35ro5/app.bsky.feed.post/3me36kufr4s2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3me4nflruh227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-02-05T14:53:48.997Z",
+			"content": "<p>ahaha you beat me at my own game Doug, and I respect it</p>",
+			"via": "bluesky"
+		}
+	]
+}

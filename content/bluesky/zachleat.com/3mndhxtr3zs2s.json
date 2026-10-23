@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:jv3j4ccoxsvp53lqfnp3inmj/app.bsky.feed.post/3mndjdt36u22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/thebethanyann.bsky.social/post/3mndjdt36u22o",
+			"author": {
+				"name": "bethany",
+				"url": "https://bsky.app/profile/thebethanyann.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:jv3j4ccoxsvp53lqfnp3inmj/bafkreiaql2p44n5x5eniqp67rjdx2ioakbcnnxobmnc5r5ngdslea2aln4"
+			},
+			"date": "2026-06-02T21:16:37.385Z",
+			"content": "<p>can’t be relatable without a Carhartt.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mndjjrmea22q",
+			"parentId": "at://did:plc:jv3j4ccoxsvp53lqfnp3inmj/app.bsky.feed.post/3mndjdt36u22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mndjjrmea22q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-02T21:19:57.176Z",
+			"content": "<p><a href=\"https://www.youtube.com/watch?v=R8rL5bTZpes\">www.youtube.com/watch?v=R8rL...</a> (pejorative)</p>",
+			"via": "bluesky"
+		}
+	]
+}

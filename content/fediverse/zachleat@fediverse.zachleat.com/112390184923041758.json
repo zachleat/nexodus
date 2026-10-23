@@ -1,0 +1,147 @@
+{
+	"comments": [
+		{
+			"id": "112390204945489220",
+			"parentId": 0,
+			"url": "https://social.polotek.net/@polotek/112390204917797859",
+			"author": {
+				"name": "Marco Rogers",
+				"url": "https://social.polotek.net/@polotek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/715/173/239/699/307/original/6ecf56a4023201fa.jpg"
+			},
+			"date": "2024-05-05T19:47:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> if only string templates had dropped before jsx appeared. We could've avoided the whole thing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112390252970478406",
+			"parentId": 0,
+			"url": "https://mastodon.social/@jimniels/112390252880146094",
+			"author": {
+				"name": "Jim Nielsen",
+				"url": "https://mastodon.social/@jimniels",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/524/723/264/449/500/original/c38868fb7e6df44b.jpeg"
+			},
+			"date": "2024-05-05T19:59:21.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> use this all the time in lots of personal projects <a href=\"https://github.com/jimniels/html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jimniels/html</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112390297464405539",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/112390297208903523",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2024-05-05T20:10:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112390376512315673",
+			"parentId": "112390204945489220",
+			"url": "https://fediverse.zachleat.com/@zachleat/112390376512315673",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-05T20:30:47.856Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.polotek.net/@polotek\" class=\"u-url mention\">@<span>polotek</span></a></span> whew, could’ve saved a lot of tooling complexity!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112390408752023675",
+			"parentId": "112390252970478406",
+			"url": "https://fediverse.zachleat.com/@zachleat/112390408752023675",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-05T20:38:59.796Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jimniels\" class=\"u-url mention\">@<span>jimniels</span></a></span> this would have been much more compatible with the web platform!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112393196643726294",
+			"parentId": "112390204945489220",
+			"url": "https://indieweb.social/@asci/112393196549511176",
+			"author": {
+				"name": "Artem R 🇺🇦",
+				"url": "https://indieweb.social/@asci",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/857/480/476/504/original/f75ef56e68804531.jpg"
+			},
+			"date": "2024-05-06T08:27:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.polotek.net/@polotek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>polotek</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what about sanitizing? In jsx you have clear separation between code level and user level html, and I am trying to imagine how that could be solved with string literals 🤔</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112395852168715015",
+			"parentId": "112393196643726294",
+			"url": "https://social.polotek.net/@polotek/112395844341444633",
+			"author": {
+				"name": "Marco Rogers",
+				"url": "https://social.polotek.net/@polotek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/715/173/239/699/307/original/6ecf56a4023201fa.jpg"
+			},
+			"date": "2024-05-06T19:41:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@asci\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>asci</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I'm not sure what \"code level\" vs \"user level\" html means. But you can definitely sanitize inputs with string template literals.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112409970261222812",
+			"parentId": "112395852168715015",
+			"url": "https://indieweb.social/@asci/112409970227025703",
+			"author": {
+				"name": "Artem R 🇺🇦",
+				"url": "https://indieweb.social/@asci",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/857/480/476/504/original/f75ef56e68804531.jpg"
+			},
+			"date": "2024-05-09T07:33:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.polotek.net/@polotek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>polotek</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I mean I am trying to imagine how components usage will look like in tempales. I just remember all that pain with Handlebars and EJS and how much of a fresh air was JSX</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112411775338213656",
+			"parentId": "112409970261222812",
+			"url": "https://social.polotek.net/@polotek/112411773192669377",
+			"author": {
+				"name": "Marco Rogers",
+				"url": "https://social.polotek.net/@polotek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/715/173/239/699/307/original/6ecf56a4023201fa.jpg"
+			},
+			"date": "2024-05-09T15:12:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@asci\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>asci</span></a></span> have you used any framework besides react? You know they've all solved these problems without jsx right? You may be making some assumptions about what I'm saying. I'm not suggesting that template literals is a complete solution. I am saying that if we had template strings, the solution would've been simpler and more compatible with JavaScript.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112415375300160051",
+			"parentId": "112411775338213656",
+			"url": "https://indieweb.social/@asci/112415375297520001",
+			"author": {
+				"name": "Artem R 🇺🇦",
+				"url": "https://indieweb.social/@asci",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/363/857/480/476/504/original/f75ef56e68804531.jpg"
+			},
+			"date": "2024-05-10T06:28:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.polotek.net/@polotek\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>polotek</span></a></span> yea, I’ve been using Backbone (also w/ Marionette), Knockout and a bit of Angular. They all suffered from rigid composition issues with templates. I also tried Solid, but with manually manipulating DOM elements (may not be the best practice, it was an interview requirement) and had a side project on Elm. I not saying that it is not possible to make good solution using templates strings, but I can’t imagine that. An example may help, otherwise it seems like a hot take</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112417277599862154",
+			"parentId": "112415375300160051",
+			"url": "https://social.polotek.net/@polotek/112417274964757223",
+			"author": {
+				"name": "Marco Rogers",
+				"url": "https://social.polotek.net/@polotek",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/715/173/239/699/307/original/6ecf56a4023201fa.jpg"
+			},
+			"date": "2024-05-10T14:31:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@asci\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>asci</span></a></span> I'm sorry you have such a poor imagination. Feel free to keep preferring react and jsx. You're allowed to do that, and it's not a big issue for me. Thanks for stopping by.</p>",
+			"via": "fediverse"
+		}
+	]
+}

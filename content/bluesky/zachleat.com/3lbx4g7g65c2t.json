@@ -1,0 +1,90 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx4wnpsr22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbx4wnpsr22o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-27T17:59:13.805Z",
+			"content": "<p>(addendum: more online stuff should cost money)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lbx5cl2e7c2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lbx5cl2e7c2t",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2024-11-27T18:05:53.657Z",
+			"content": "<p>Hackers are bypassing news websites' monetization schemes with this one weird trick</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lbx5ekvf5s2t",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lbx5cl2e7c2t",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lbx5ekvf5s2t",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2024-11-27T18:07:00.604Z",
+			"content": "<p>Or is this a \"wired trick\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2t6u7zm2pfsnfruihbcwoyb4/app.bsky.feed.post/3lbx7g7vjuk2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/groenoranjerood.bsky.social/post/3lbx7g7vjuk2w",
+			"private": true,
+			"date": "2024-11-27T18:43:43.666Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rr7gzjfskh7zov4lig5gegoz/app.bsky.feed.post/3lbxn46m7fc25",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbx4wnpsr22o",
+			"url": "https://bsky.app/profile/tcurdt.bsky.social/post/3lbxn46m7fc25",
+			"author": {
+				"name": "Torsten Curdt",
+				"url": "https://bsky.app/profile/tcurdt.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rr7gzjfskh7zov4lig5gegoz/bafkreifsqqhbrqwm4rv6alptn4ab6uef6jorhep2vxtpf77h74fzmkzhvm"
+			},
+			"date": "2024-11-27T22:48:39.153Z",
+			"content": "<p>I will never understand why micropayments failed as much as ideas like <a href=\"https://flattr.com\">flattr.com</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zgmkyovxmeeyv2ht54equpsq/app.bsky.feed.post/3lbxn5uu75k2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/paralogical.dev/post/3lbxn5uu75k2h",
+			"author": {
+				"name": "Paralogical",
+				"url": "https://bsky.app/profile/paralogical.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zgmkyovxmeeyv2ht54equpsq/bafkreia2hvqpqveway2lhflsxzrws436ra4shmsemoenedywwduzcjfsky"
+			},
+			"date": "2024-11-27T22:49:36.039Z",
+			"content": "<p>I propose we monetize flexbox next</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbxojxe4r22g",
+			"parentId": "at://did:plc:zgmkyovxmeeyv2ht54equpsq/app.bsky.feed.post/3lbxn5uu75k2h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lbxojxe4r22g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-27T23:14:15.052Z",
+			"content": "<p>now you’re talking</p>\n<p>or flexbox is free, grid $$$</p>",
+			"via": "bluesky"
+		}
+	]
+}

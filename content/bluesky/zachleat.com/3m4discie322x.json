@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3m4dkf4rbnc2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/engelman.nl/post/3m4dkf4rbnc2v",
+			"author": {
+				"name": "Danny Engelman 🌷🏍️🛥️",
+				"url": "https://bsky.app/profile/engelman.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
+			},
+			"date": "2025-10-29T13:26:57.169Z",
+			"content": "<p>Why?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4dljdbtvs2a",
+			"parentId": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3m4dkf4rbnc2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m4dljdbtvs2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-10-29T13:47:11.963Z",
+			"content": "<p>I think <a href=\"https://webawesome.com/docs/components/copy-button/#dependencies\">webawesome.com/docs/compone...</a> and <a href=\"https://webawesome.com/docs/#the-difference-between-dist-and-dist-cdn\">webawesome.com/docs/#the-di...</a> are probably the relevant parts of the docs for that question (but on the 11ty implementation we bundle to a single file, as noted in the blog post)</p>",
+			"via": "bluesky"
+		}
+	]
+}

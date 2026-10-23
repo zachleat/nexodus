@@ -1,0 +1,317 @@
+{
+	"comments": [
+		{
+			"id": "112853562340782511",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/112853562340782511",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T15:45:02.708Z",
+			"content": "<p>make it work<br />make it ~~right~~ the same<br />make it ~~fast~~ slower</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853566250260208",
+			"parentId": 0,
+			"url": "https://mastodon.social/@loucyx/112853566000306579",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2024-07-26T15:45:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Is it open-source? I might be able to help. I've been doing TS for almost 12 years, so maybe I can help you find a way to keep your JS code and still use TS ^_^</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853575591524906",
+			"parentId": "112853566250260208",
+			"url": "https://fediverse.zachleat.com/@zachleat/112853575591524906",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T15:48:24.900Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\">@<span>loucyx</span></a></span> I may take you up on that if I get too far gone! For now I’m venting 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853594189177310",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@pauleveritt/112853594162949835",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2024-07-26T15:53:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> FTR, I hit that this week trying to get `new Eleventy()` and `eleventy.config.*s` working in Vitest. Some of your code really wants `.js` as suffix. But more likely...it's my stack.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853601880334430",
+			"parentId": "112853594189177310",
+			"url": "https://fediverse.zachleat.com/@zachleat/112853601880334430",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T15:55:06.037Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> I’m refactoring Eleventy.js and the Configuration API right now to work better with TypeScript, fwiw</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853613522709114",
+			"parentId": "112853601880334430",
+			"url": "https://fosstodon.org/@pauleveritt/112853613168938043",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2024-07-26T15:57:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Lovely. I am really, really excited about the possibility and documenting it. I just worry the issue is one-step-too-obscure.</p><p>If I made a tiny reproducible repo, would that be good or bad? (Bad because I'm making you look at something.)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853617209878569",
+			"parentId": "112853566250260208",
+			"url": "https://fosstodon.org/@pauleveritt/112853617175504004",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2024-07-26T15:58:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@loucyx\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>loucyx</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've been interested in getting some TS eyeballs on stuff to publish, like a plugin. Interested in jumping in?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853617269992181",
+			"parentId": "112853613522709114",
+			"url": "https://fediverse.zachleat.com/@zachleat/112853617269992181",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T15:59:00.862Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> Happy to have a look!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853723059772334",
+			"parentId": "112853617209878569",
+			"url": "https://mastodon.social/@loucyx/112853723005146566",
+			"author": {
+				"name": "Lou Cyx",
+				"url": "https://mastodon.social/@loucyx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/269/831/992/438/037/original/7daf75da2c4f3371.png"
+			},
+			"date": "2024-07-26T16:25:54.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>pauleveritt</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sure, if it's an open-source thing, I don't mind taking a look. I don't take responsibility in my reaction if I spot `any`s in said code 🤣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853732995635662",
+			"parentId": "112853562340782511",
+			"url": "https://toot.cafe/@dotproto/112853732917218074",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2024-07-26T16:28:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Slower?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853753427687773",
+			"parentId": "112853732995635662",
+			"url": "https://fediverse.zachleat.com/@zachleat/112853753427687773",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T16:33:38.464Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@dotproto\" class=\"u-url mention\">@<span>dotproto</span></a></span> overhead is overhead 😬</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853756794158393",
+			"parentId": "112853753427687773",
+			"url": "https://toot.cafe/@dotproto/112853756654211009",
+			"author": {
+				"name": "Simeon.__proto__",
+				"url": "https://toot.cafe/@dotproto",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/542/330/533/715/original/a68efb8b36d9d9c9.png"
+			},
+			"date": "2024-07-26T16:34:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sorry, do you mean runtime overhead or dev time? Either one is not ideal, just not quite following</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112853800197332879",
+			"parentId": "112853756794158393",
+			"url": "https://fediverse.zachleat.com/@zachleat/112853800197332879",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T16:45:32.112Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@dotproto\" class=\"u-url mention\">@<span>dotproto</span></a></span> A weak case can be made for the former—I’ve added some more JS to make TS happy. A strong case can be made for the latter 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854226541937703",
+			"parentId": 0,
+			"url": "https://front-end.social/@mxbck/112854226515095950",
+			"private": true,
+			"date": "2024-07-26T18:33:57.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854233087298337",
+			"parentId": "112854226541937703",
+			"url": "https://mastodon.social/@pcdevil/112854232798656166",
+			"private": true,
+			"date": "2024-07-26T18:35:33.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854241420229894",
+			"parentId": "112854226541937703",
+			"url": "https://front-end.social/@matuzo/112854241350787787",
+			"private": true,
+			"date": "2024-07-26T18:37:43.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854255908689313",
+			"parentId": "112854226541937703",
+			"url": "https://fediverse.zachleat.com/@zachleat/112854255908689313",
+			"private": true,
+			"date": "2024-07-26T18:41:25.716Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854259375276182",
+			"parentId": 0,
+			"url": "https://mstdn.social/@brawaru/112854259282366027",
+			"author": {
+				"name": "Braw ☕🏳️‍🌈",
+				"url": "https://mstdn.social/@brawaru",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/380/201/982/554/664/original/4cd79a5fec5ff5fb.jpg"
+			},
+			"date": "2024-07-26T18:42:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> to be honest, doing this opened a new perspective of how much overcomplicated stuff JS allows you to do without thinking, which is not a great thing... regular solutions are usually covered by TS, and in other cases you can always use an escape hatch of ts-expect-error or type casting...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854422725452567",
+			"parentId": "112854259375276182",
+			"url": "https://fediverse.zachleat.com/@zachleat/112854422725452567",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T19:23:51.138Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@brawaru\" class=\"u-url mention\">@<span>brawaru</span></a></span> I get it but it’s failing on pretty basic JS patterns so far. If I change the Array type to object, it passes without error.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854453715246084",
+			"parentId": "112854422725452567",
+			"url": "https://mstdn.social/@brawaru/112854453687127028",
+			"author": {
+				"name": "Braw ☕🏳️‍🌈",
+				"url": "https://mstdn.social/@brawaru",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/380/201/982/554/664/original/4cd79a5fec5ff5fb.jpg"
+			},
+			"date": "2024-07-26T19:31:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is this VS Code? I noticed a completely different error in TypeScript playground, which I also spotted on the screenie: you forgot the generic type parameter for Array. Seems to work for me like this: <a href=\"https://www.typescriptlang.org/play/?filetype=js#code/MYGwhgzhAEAqCmEAu0DeBYAUASGAewDtkAnAV2CT2IAoBKNLbbJACwEsIA6YxeJOgNyMAvlkY8IfOgxzYA9ACoF0AAJIAngAd4aAILFiYdQB5U0AmAC28AFzQSbAgHNowgHzDoCuY2bsumiCkTo4wALzQANoAukI4ophY0MnQigpJKV6qmmCGlmgOzp4W1hkp3oxgACZVAApBIQTUJfD0GLI8SKTEBNCsHJyBwaGDpBAs1GYtrrRx2AkJWPAAHppUKGYIyK4CQA\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">typescriptlang.org/play/?filet</span><span class=\"invisible\">ype=js#code/MYGwhgzhAEAqCmEAu0DeBYAUASGAewDtkAnAV2CT2IAoBKNLbbJACwEsIA6YxeJOgNyMAvlkY8IfOgxzYA9ACoF0AAJIAngAd4aAILFiYdQB5U0AmAC28AFzQSbAgHNowgHzDoCuY2bsumiCkTo4wALzQANoAukI4ophY0MnQigpJKV6qmmCGlmgOzp4W1hkp3oxgACZVAApBIQTUJfD0GLI8SKTEBNCsHJyBwaGDpBAs1GYtrrRx2AkJWPAAHppUKGYIyK4CQA</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854565891344064",
+			"parentId": "112853562340782511",
+			"url": "https://mastodon.cloud/@spaceninja/112854565830135878",
+			"author": {
+				"name": "Old Man Vandehey (HAS MOVED)",
+				"url": "https://mastodon.cloud/@spaceninja",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/475/043/518/956/924/original/fbdc8f2c54e3a3f8.png"
+			},
+			"date": "2024-07-26T20:00:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's my favorite Daft Punk song</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112854602955453396",
+			"parentId": "112854453715246084",
+			"url": "https://fediverse.zachleat.com/@zachleat/112854602955453396",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-26T20:09:41.230Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@brawaru\" class=\"u-url mention\">@<span>brawaru</span></a></span> Using TypeScript v5.5.4 in VS Code yeah.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112855245066453960",
+			"parentId": "112853617269992181",
+			"url": "https://fosstodon.org/@pauleveritt/112855245039069642",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2024-07-26T22:52:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Here's a repo. If you'd like, I can make a quick video walkthrough if that's more efficient. <a href=\"https://github.com/pauleveritt/eleventy-test-config\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pauleveritt/elevent</span><span class=\"invisible\">y-test-config</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112858081725791673",
+			"parentId": "112854602955453396",
+			"url": "https://mstdn.social/@brawaru/112858081486705979",
+			"author": {
+				"name": "Braw ☕🏳️‍🌈",
+				"url": "https://mstdn.social/@brawaru",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/380/201/982/554/664/original/4cd79a5fec5ff5fb.jpg"
+			},
+			"date": "2024-07-27T10:54:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh I see the the error locally, exactly what I suspected: TypeScript cannot really do magic of analysing the code flow deeply so it sees that `this.plugins` is not initialised in the constructor, but that you also define `this.plugins` in other place, so it consider it potentially `undefined`. You can simply initialise `plugins` at the top of the class to tell TS ‘trust me bro, it's there and it's never `undefined`’ (even though if forget to call `reset` in constructor, it will be 💀)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112858249513387813",
+			"parentId": "112854565891344064",
+			"url": "https://hachyderm.io/@EndlessMason/112858249478552900",
+			"private": true,
+			"date": "2024-07-27T11:37:02.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "112858976011207836",
+			"parentId": "112858081725791673",
+			"url": "https://fediverse.zachleat.com/@zachleat/112858976011207836",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-27T14:41:48.766Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@brawaru\" class=\"u-url mention\">@<span>brawaru</span></a></span> yeah, that’s basically the approach I ended up with. This style of unnecessary code modification is what I’m now referring to as TypeScript slop 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

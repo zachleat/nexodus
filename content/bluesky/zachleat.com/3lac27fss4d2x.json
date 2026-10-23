@@ -1,0 +1,368 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lac2gjdhd42o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lac2gjdhd42o",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-06T15:23:18.661Z",
+			"content": "<p>I’d start a blog.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:etets3mgjcnqvap6tnyjgkss/app.bsky.feed.post/3lac2gwoqft2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/griff.dev/post/3lac2gwoqft2x",
+			"author": {
+				"name": "Griffin Wiebel",
+				"url": "https://bsky.app/profile/griff.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:etets3mgjcnqvap6tnyjgkss/bafkreidcnpt2hlr2f357gre5a3toqhb2nljwz2cyowetsoxdyou3owjdxq"
+			},
+			"date": "2024-11-06T15:23:34.103Z",
+			"content": "<p><a href=\"https://bsky.app/profile/pfrazee.com/post/3la3o3c5l4j2y\">bsky.app/profile/pfra...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6jr3ezep42u4hena5exqtfsp/app.bsky.feed.post/3lac2j4yqnp2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kuldar.com/post/3lac2j4yqnp2q",
+			"author": {
+				"name": "Kuldar",
+				"url": "https://bsky.app/profile/kuldar.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6jr3ezep42u4hena5exqtfsp/bafkreihin4ffyzxquwh6bvvpxbs4cxmqxx7tqbueltpeqw2g6unzicwycq"
+			},
+			"date": "2024-11-06T15:24:46.258Z",
+			"content": "<p>Trying to think what's the most vulnerable aspect of it. The protocol is open and technically anyone can fork the app and spin up their own version, right?</p>\n<p>I guess loosing access to the Bluesky hosted Personal Data Server would be the main risk?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3igpi3ld7xp7qghifa4frpq6/app.bsky.feed.post/3lac2qp4foc2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cferdinandi.bsky.social/post/3lac2qp4foc2w",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://bsky.app/profile/cferdinandi.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3igpi3ld7xp7qghifa4frpq6/bafkreigesw6pqw7k4vdepohvqgy5ej3vuz2m23mhhmbs3d7bhkapuxqg2e"
+			},
+			"date": "2024-11-06T15:29:00.272Z",
+			"content": "<p>It's inevitable, despite what a lot of folks want to believe</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2tymobv2g",
+			"parentId": "at://did:plc:etets3mgjcnqvap6tnyjgkss/app.bsky.feed.post/3lac2gwoqft2x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac2tymobv2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T15:30:50.920Z",
+			"content": "<p>Nice to see someone talking about it but *whew* that’s a lot of pieces someone will have to set up, develop, and maintain (for just the server piece)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2we5bvf2s",
+			"parentId": "at://did:plc:6jr3ezep42u4hena5exqtfsp/app.bsky.feed.post/3lac2j4yqnp2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac2we5bvf2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T15:32:10.109Z",
+			"content": "<p>The connections are the value—it’s rarely the content. Where’s the escape hatch for the connections?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2xrdbpc2p",
+			"parentId": "at://did:plc:3igpi3ld7xp7qghifa4frpq6/app.bsky.feed.post/3lac2qp4foc2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac2xrdbpc2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T15:32:57.492Z",
+			"content": "<p>100%—lucy is holding the football, let’s kick it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2z2txne2f",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lac2gjdhd42o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac2z2txne2f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T15:33:41.033Z",
+			"content": "<p>excuse me, you have a blog</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3lac2zmgch62c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brob.dev/post/3lac2zmgch62c",
+			"author": {
+				"name": "Bryan Robinson",
+				"url": "https://bsky.app/profile/brob.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
+			},
+			"date": "2024-11-06T15:33:59.452Z",
+			"content": "<p>There's always a critical mass in the \"engagement economy\" and that will always make it come crashing down :(</p>\n<p>It's not valuable enough when it's small, but to get big enough to truly be valuable to us, takes it VERY close to that critical mass</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3igpi3ld7xp7qghifa4frpq6/app.bsky.feed.post/3lac2zsndwf2z",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2xrdbpc2p",
+			"url": "https://bsky.app/profile/cferdinandi.bsky.social/post/3lac2zsndwf2z",
+			"author": {
+				"name": "Chris Ferdinandi",
+				"url": "https://bsky.app/profile/cferdinandi.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3igpi3ld7xp7qghifa4frpq6/bafkreigesw6pqw7k4vdepohvqgy5ej3vuz2m23mhhmbs3d7bhkapuxqg2e"
+			},
+			"date": "2024-11-06T15:34:05.972Z",
+			"content": "<p>TBF, I think Mastodon has a similar danger profile, despite being disparate instances. It's still mostly controlled by one person who manages the largest and most popular instances on the platform.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac33lhdpc2r",
+			"parentId": "at://did:plc:3igpi3ld7xp7qghifa4frpq6/app.bsky.feed.post/3lac2zsndwf2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac33lhdpc2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T15:35:05.547Z",
+			"content": "<p>Naw—I could block <a href=\"https://mastodon.social\">mastodon.social</a> today and still get a ton of value out of Mastodon generally</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac36egioz2j",
+			"parentId": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3lac2zmgch62c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac36egioz2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T15:36:38.845Z",
+			"content": "<p>I mean, that’s what we’re used to but it doesn’t have to be this way</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3lac3cnopfa2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac36egioz2j",
+			"url": "https://bsky.app/profile/brob.dev/post/3lac3cnopfa2w",
+			"author": {
+				"name": "Bryan Robinson",
+				"url": "https://bsky.app/profile/brob.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
+			},
+			"date": "2024-11-06T15:39:02.769Z",
+			"content": "<p>Dismantling late-stage capitalism would work... though that might be extreme for keeping my social feed intact (though it has merits for other reasons, too)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:etets3mgjcnqvap6tnyjgkss/app.bsky.feed.post/3lac4giwkzw2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2tymobv2g",
+			"url": "https://bsky.app/profile/griff.dev/post/3lac4giwkzw2a",
+			"author": {
+				"name": "Griffin Wiebel",
+				"url": "https://bsky.app/profile/griff.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:etets3mgjcnqvap6tnyjgkss/bafkreidcnpt2hlr2f357gre5a3toqhb2nljwz2cyowetsoxdyou3owjdxq"
+			},
+			"date": "2024-11-06T15:59:07.205Z",
+			"content": "<p>For sure. Not trying to invalidate your concern, just seems this place could overall use hope where needed today.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac4iizmnj2n",
+			"parentId": "at://did:plc:etets3mgjcnqvap6tnyjgkss/app.bsky.feed.post/3lac4giwkzw2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac4iizmnj2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T16:00:12.956Z",
+			"content": "<p>Very fair</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lac4r67xby2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2z2txne2f",
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lac4r67xby2t",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-06T16:05:03.626Z",
+			"content": "<p>And I am working through as I type how to parse my BS rss into notes on that there blog. Original idea was just parse at build, now leaning towards an action that checks for new posts and commits markdown files. Better archiving &amp; a cheat for a gui posting interface.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lac4zqnjzn2j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac2we5bvf2s",
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lac4zqnjzn2j",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-06T16:09:51.371Z",
+			"content": "<p>Webmentions</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lac577naz323",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lac577naz323",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2024-11-06T16:12:57.005Z",
+			"content": "<p>some kind of federation perhaps</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lac5n6fh3x2w",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3lac4r67xby2t",
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3lac5n6fh3x2w",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2024-11-06T16:20:43.325Z",
+			"content": "<p>If I was normal I’d just set up at <a href=\"https://micro.blog\">micro.blog</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac5oeo4bz2j",
+			"parentId": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lac577naz323",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac5oeo4bz2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T16:21:23.404Z",
+			"content": "<p>the perhapsiverse</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lac5zjqdvy2n",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac5oeo4bz2j",
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lac5zjqdvy2n",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2024-11-06T16:27:39.973Z",
+			"content": "<p>I definitely don't see how the incentives create a different outcome</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac6dkgbfo2d",
+			"parentId": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lac5zjqdvy2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac6dkgbfo2d",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T16:33:14.043Z",
+			"content": "<p>for Bluesky? yeah—absolutely. We’ll repeat the same Twitter song and dance (and that’s the best case scenario for this place)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lac7esabhh23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac6dkgbfo2d",
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lac7esabhh23",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2024-11-06T16:51:49.374Z",
+			"content": "<p>by the time its obvious everyone will act like it was always obvious and the gas lighting open washers will have moved on and cashed out (but i'm not cynical ! love this place !!!1!)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac7gmxiqk2f",
+			"parentId": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lac7esabhh23",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lac7gmxiqk2f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-11-06T16:52:51.169Z",
+			"content": "<p>💜 we’ve seen (and remember) too much 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ln5noi7iwtx2ysgcwuoruiys/app.bsky.feed.post/3lac7rrftbl2h",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lac7gmxiqk2f",
+			"url": "https://bsky.app/profile/brianleroux.bsky.social/post/3lac7rrftbl2h",
+			"author": {
+				"name": "Brian LeRoux",
+				"url": "https://bsky.app/profile/brianleroux.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln5noi7iwtx2ysgcwuoruiys/bafkreifw5ni4oxjm2wukibrv7hund6jkjxzw5iscb4ityws52fammzzxyu"
+			},
+			"date": "2024-11-06T16:59:07.069Z",
+			"content": "<p>there's gotta be a name for this phenomenon. it's like the Cassandra curse but not really a prediction so much as history annoyingly repeating itself in an industry which grows so fast it almost completely refreshes every 3 years.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:axeym7d7tmkknjnufsvaiykp/app.bsky.feed.post/3laca2u2rdr2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ayo.run/post/3laca2u2rdr2j",
+			"author": {
+				"name": "AyooOo 🎃",
+				"url": "https://bsky.app/profile/ayo.run",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:axeym7d7tmkknjnufsvaiykp/bafkreidkfjcnsrc34dqxqnxk5ubv5aw5rkqunrdpu5c6xzwt3e5n5peqwe"
+			},
+			"date": "2024-11-06T17:04:09.697Z",
+			"content": "<p>Finally somebody said it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:a64baelxsmvy6aonnbfhbirv/app.bsky.feed.post/3lacbol6dam2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tfedder.de/post/3lacbol6dam2a",
+			"author": {
+				"name": "Tobias Fedder",
+				"url": "https://bsky.app/profile/tfedder.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:a64baelxsmvy6aonnbfhbirv/bafkreigcjhsxk6uz4plibvdto6t23vicadmispnvgq2hlpj23x2fyilngy"
+			},
+			"date": "2024-11-06T17:33:03.200Z",
+			"content": "<p>Well, we leave. Like when Musk or a Musk-type buys a country, everyone just gives up and leaves, right? Right?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dswost6ddhndyaylitrcwzjj/app.bsky.feed.post/3ladsxmjcnl26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konasov.space/post/3ladsxmjcnl26",
+			"author": {
+				"name": "Dmitrii Konasov",
+				"url": "https://bsky.app/profile/konasov.space",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dswost6ddhndyaylitrcwzjj/bafkreic5w6hbyiijmxuas5filxz2ukykbzejavbtzh7cvxfisw36m6z6vu"
+			},
+			"date": "2024-11-07T08:15:01.949Z",
+			"content": "<p>If Bluesky will be truly decentralized by that moment, what will he actually buy?</p>",
+			"via": "bluesky"
+		}
+	]
+}

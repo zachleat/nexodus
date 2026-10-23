@@ -1,0 +1,186 @@
+{
+	"comments": [
+		{
+			"id": "112497711335372929",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/112497711234863229",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-05-24T19:27:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A piece of toast, strapped to a cat's back (butter side up) which is then dropped from a counter.</p><p>We wire the cat to a gyroscope and boom, perpetual motion machine.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497713340609067",
+			"parentId": "112497711335372929",
+			"url": "https://fediverse.zachleat.com/@zachleat/112497713340609067",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-24T19:27:57.877Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> now you’re on to something</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497724891119603",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/112497724817917641",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-05-24T19:30:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> using the Google bot to generate new, more dangerous, TikTok challenges</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497742179520152",
+			"parentId": "112497724891119603",
+			"url": "https://fediverse.zachleat.com/@zachleat/112497742179520152",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-24T19:35:17.924Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> mr beast I dare you to fund 11ty</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497769825104674",
+			"parentId": "112497742179520152",
+			"url": "https://mastodon.design/@DavidDarnes/112497769793547704",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-05-24T19:42:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I can already imagine the thumbnail</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497849808397997",
+			"parentId": 0,
+			"url": "https://front-end.social/@mayank/112497849785511955",
+			"author": {
+				"name": "Mayank",
+				"url": "https://front-end.social/@mayank",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/462/864/608/665/271/original/8b5dc61c243a9498.jpg"
+			},
+			"date": "2024-05-24T20:02:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Here's how you can make your own password manager for free:</p><p>1. Create a `passwords.csv` file containing usernames, passwords, and site URLs (comma-separated and one account per line).<br>2. Serve it from the root of your website! Now you can access all your passwords on any device at `&lt;your-website&gt;/passwords.csv`<br>3. (Optional) Add the following line to your `robots.txt` file to let password crawlers know where your passwords file is located: `Passwords: /passwords.csv`</p><p>Done!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497896447450433",
+			"parentId": "112497849808397997",
+			"url": "https://fediverse.zachleat.com/@zachleat/112497896447450433",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-24T20:14:31.866Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\">@<span>mayank</span></a></span> I’m having some regrets about this plan 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497908703982138",
+			"parentId": "112497849808397997",
+			"url": "https://mastodon.cthos.dev/@cthos/112497908643984569",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2024-05-24T20:17:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This one wins. Oh my gods.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497920861260080",
+			"parentId": "112497849808397997",
+			"url": "https://a11y.info/@ben/112497920755996395",
+			"author": {
+				"name": "Ben Myers 🦖",
+				"url": "https://a11y.info/@ben",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/850/606/919/513/original/60b6c78eb03590ac.jpg"
+			},
+			"date": "2024-05-24T20:20:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is secure, because browsers replace all passwords with asterisks.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497931621956498",
+			"parentId": "112497920861260080",
+			"url": "https://front-end.social/@mrtrimble/112497931378633408",
+			"author": {
+				"name": "Ryan Trimble",
+				"url": "https://front-end.social/@mrtrimble",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/956/299/485/277/original/4615d2872ec5b4ec.jpg"
+			},
+			"date": "2024-05-24T20:23:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ben</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hunter2</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497932841718914",
+			"parentId": "112497931621956498",
+			"url": "https://front-end.social/@mrtrimble/112497932821108821",
+			"author": {
+				"name": "Ryan Trimble",
+				"url": "https://front-end.social/@mrtrimble",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/956/299/485/277/original/4615d2872ec5b4ec.jpg"
+			},
+			"date": "2024-05-24T20:23:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ben</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> did it work</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497940307368790",
+			"parentId": "112497932841718914",
+			"url": "https://a11y.info/@ben/112497940189699135",
+			"author": {
+				"name": "Ben Myers 🦖",
+				"url": "https://a11y.info/@ben",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/850/606/919/513/original/60b6c78eb03590ac.jpg"
+			},
+			"date": "2024-05-24T20:25:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mrtrimble\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mrtrimble</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Works for me! 👍🏻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497968077734413",
+			"parentId": "112497849808397997",
+			"url": "https://mastodon.online/@shaedrich/112497968046531059",
+			"author": {
+				"name": "Zuri (he/him) ❌️👑 | 🕐 CET",
+				"url": "https://mastodon.online/@shaedrich",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/680/775/061/608/346/original/d9330fd77f1c54d4.jpg"
+			},
+			"date": "2024-05-24T20:32:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@haveibeenpwned\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>haveibeenpwned</span></a></span> loved this!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112497990856662940",
+			"parentId": "112497940307368790",
+			"url": "https://front-end.social/@mrtrimble/112497990838704426",
+			"author": {
+				"name": "Ryan Trimble",
+				"url": "https://front-end.social/@mrtrimble",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/956/299/485/277/original/4615d2872ec5b4ec.jpg"
+			},
+			"date": "2024-05-24T20:38:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ben</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mayank</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh good, for a moment I thought I lost everything</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "111448881318427625",
+			"parentId": 0,
+			"url": "https://toot.cafe/@bkardell/111448881200347881",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2023-11-21T13:56:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> &gt; The CSS is only necessary for the JS enhanced experience.</p><p>I am having trouble parsing this... Can you clarify?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111448900376150748",
+			"parentId": "111448881318427625",
+			"url": "https://fediverse.zachleat.com/@zachleat/111448900376150748",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-21T14:01:02.089Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> As an example, for &lt;squirm-inal&gt; the CSS is related to the JavaScript-enhanced animation behavior: <a href=\"https://github.com/zachleat/squirminal/blob/8a0c5567c81f3082118d07f28c7228c51ec4db24/squirminal.js#L24-L49\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/squirminal</span><span class=\"invisible\">/blob/8a0c5567c81f3082118d07f28c7228c51ec4db24/squirminal.js#L24-L49</span></a> (cursor blinking, etc)</p><p>The fallback is the default slot HTML which doesn’t need any CSS from the component.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111448912051992238",
+			"parentId": "111448900376150748",
+			"url": "https://toot.cafe/@bkardell/111448911782542475",
+			"author": {
+				"name": "bkardell",
+				"url": "https://toot.cafe/@bkardell",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/565/409/427/409/original/27c5979b96ec51b3.jpg"
+			},
+			"date": "2023-11-21T14:03:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah gotcha. Yeah makes sense, thx</p>",
+			"via": "fediverse"
+		}
+	]
+}

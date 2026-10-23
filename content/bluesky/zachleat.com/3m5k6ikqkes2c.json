@@ -1,0 +1,160 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:4ug4zefdc7ll77reridekvob/app.bsky.feed.post/3m5k75tx25222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/geoffrich.net/post/3m5k75tx25222",
+			"author": {
+				"name": "Geoff Rich",
+				"url": "https://bsky.app/profile/geoffrich.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ug4zefdc7ll77reridekvob/bafkreic5ynvjzjnlxqma6v2vyoq3x7khglhcye4xv5yjmlylfw4ypttzpi"
+			},
+			"date": "2025-11-13T22:19:51.676Z",
+			"content": "<p>like this? <a href=\"https://majors.nullvoxpopuli.com/q?minors=false&amp;old=false&amp;packages=%4011ty%2Feleventy\">majors.nullvoxpopuli.com/q?minors=fal...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5ka2fyfms2p",
+			"parentId": "at://did:plc:4ug4zefdc7ll77reridekvob/app.bsky.feed.post/3m5k75tx25222",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5ka2fyfms2p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-13T22:35:50.120Z",
+			"content": "<p>Beautiful, yes! Thank you!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iwkvahan3unjojnoh7jhwmjm/app.bsky.feed.post/3m5kacyaljc2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/reinhold.is/post/3m5kacyaljc2t",
+			"author": {
+				"name": "Jeppe Reinhold 🇩🇰",
+				"url": "https://bsky.app/profile/reinhold.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwkvahan3unjojnoh7jhwmjm/bafkreif4k5u5dblj75awlzj54x4bcyqnfapwcclbzsjza75ddjltky3zlm"
+			},
+			"date": "2025-11-13T22:40:37.694Z",
+			"content": "<p>NpmBurst by <a href=\"https://bsky.app/profile/did:plc:ubrbqrtd5c6ir43mqm5wbwan\">@craigory.dev</a> is great for this!</p>\n<p><a href=\"https://craigory.dev/npm-burst/?package=storybook\">craigory.dev/npm-burst/?p...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5kah5vbz22p",
+			"parentId": "at://did:plc:4ug4zefdc7ll77reridekvob/app.bsky.feed.post/3m5k75tx25222",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5kah5vbz22p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-13T22:42:57.836Z",
+			"content": "<p>On closer inspection I have more questions! 😅</p>\n<p>If a package has a v1, stable with no updates; then v2 ships ~40 patch versions, wouldn’t that bias cumulative counts to v2? A project using v2 could download up to 40 different versions but a project using v1 would have 1!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5kalquc422p",
+			"parentId": "at://did:plc:iwkvahan3unjojnoh7jhwmjm/app.bsky.feed.post/3m5kacyaljc2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5kalquc422p",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-13T22:45:31.945Z",
+			"content": "<p>oooh I love a good pie chart</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ubrbqrtd5c6ir43mqm5wbwan/app.bsky.feed.post/3m5kapijdfk22",
+			"parentId": "at://did:plc:iwkvahan3unjojnoh7jhwmjm/app.bsky.feed.post/3m5kacyaljc2t",
+			"url": "https://bsky.app/profile/craigory.dev/post/3m5kapijdfk22",
+			"author": {
+				"name": "Craigory Coppola",
+				"url": "https://bsky.app/profile/craigory.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubrbqrtd5c6ir43mqm5wbwan/bafkreihstfrezzhmuvt2tny4z6iu5glu4bjixnpzrmwatlb6jd5nguceui"
+			},
+			"date": "2025-11-13T22:47:37.414Z",
+			"content": "<p>Oh! Neat, I wasn't sure this had gained any traction outside of my colleagues</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iwkvahan3unjojnoh7jhwmjm/app.bsky.feed.post/3m5kb3t3dms2t",
+			"parentId": "at://did:plc:ubrbqrtd5c6ir43mqm5wbwan/app.bsky.feed.post/3m5kapijdfk22",
+			"url": "https://bsky.app/profile/reinhold.is/post/3m5kb3t3dms2t",
+			"author": {
+				"name": "Jeppe Reinhold 🇩🇰",
+				"url": "https://bsky.app/profile/reinhold.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwkvahan3unjojnoh7jhwmjm/bafkreif4k5u5dblj75awlzj54x4bcyqnfapwcclbzsjza75ddjltky3zlm"
+			},
+			"date": "2025-11-13T22:54:31.143Z",
+			"content": "<p>The only problem I have is that on mobile I can't change the package, I have to change the package name via the query param.<br>\nIs that just me.?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ubrbqrtd5c6ir43mqm5wbwan/app.bsky.feed.post/3m5kb5u44lk22",
+			"parentId": "at://did:plc:iwkvahan3unjojnoh7jhwmjm/app.bsky.feed.post/3m5kb3t3dms2t",
+			"url": "https://bsky.app/profile/craigory.dev/post/3m5kb5u44lk22",
+			"author": {
+				"name": "Craigory Coppola",
+				"url": "https://bsky.app/profile/craigory.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubrbqrtd5c6ir43mqm5wbwan/bafkreihstfrezzhmuvt2tny4z6iu5glu4bjixnpzrmwatlb6jd5nguceui"
+			},
+			"date": "2025-11-13T22:55:39.327Z",
+			"content": "<p>Oh, interesting 🤔. I'll throw a fix up</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ubrbqrtd5c6ir43mqm5wbwan/app.bsky.feed.post/3m5kbdjks2s22",
+			"parentId": "at://did:plc:ubrbqrtd5c6ir43mqm5wbwan/app.bsky.feed.post/3m5kb5u44lk22",
+			"url": "https://bsky.app/profile/craigory.dev/post/3m5kbdjks2s22",
+			"author": {
+				"name": "Craigory Coppola",
+				"url": "https://bsky.app/profile/craigory.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubrbqrtd5c6ir43mqm5wbwan/bafkreihstfrezzhmuvt2tny4z6iu5glu4bjixnpzrmwatlb6jd5nguceui"
+			},
+			"date": "2025-11-13T22:58:49.599Z",
+			"content": "<p><a href=\"https://bsky.app/profile/did:plc:iwkvahan3unjojnoh7jhwmjm\">@reinhold.is</a> should be fixed now. It only listened to enter keypress there.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4ug4zefdc7ll77reridekvob/app.bsky.feed.post/3m5kbwvgags2w",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5kah5vbz22p",
+			"url": "https://bsky.app/profile/geoffrich.net/post/3m5kbwvgags2w",
+			"author": {
+				"name": "Geoff Rich",
+				"url": "https://bsky.app/profile/geoffrich.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ug4zefdc7ll77reridekvob/bafkreic5ynvjzjnlxqma6v2vyoq3x7khglhcye4xv5yjmlylfw4ypttzpi"
+			},
+			"date": "2025-11-13T23:09:39.567Z",
+			"content": "<p>hm, not sure I follow - how does the number of versions a project _could_ download influence the cumulative number of downloads for that major?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ubrbqrtd5c6ir43mqm5wbwan/app.bsky.feed.post/3m5kfqqbxvc26",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5kalquc422p",
+			"url": "https://bsky.app/profile/craigory.dev/post/3m5kfqqbxvc26",
+			"author": {
+				"name": "Craigory Coppola",
+				"url": "https://bsky.app/profile/craigory.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubrbqrtd5c6ir43mqm5wbwan/bafkreihstfrezzhmuvt2tny4z6iu5glu4bjixnpzrmwatlb6jd5nguceui"
+			},
+			"date": "2025-11-14T00:17:47.825Z",
+			"content": "<p>I really believe a sunburst is the ideal diagram for this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m5ltupants2m",
+			"parentId": "at://did:plc:4ug4zefdc7ll77reridekvob/app.bsky.feed.post/3m5kbwvgags2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3m5ltupants2m",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-11-14T14:03:13.076Z",
+			"content": "<p>thinking about this a bit more — limiting the results to the most recent 7 day window mitigates most of my concerns (I think!). But without that recency I would assume that a package with more versions will see more cumulative downloads over time</p>",
+			"via": "bluesky"
+		}
+	]
+}

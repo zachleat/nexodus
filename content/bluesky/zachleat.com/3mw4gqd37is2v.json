@@ -1,0 +1,311 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mw4hrwmlx22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3mw4hrwmlx22f",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-09-22T14:46:49.861Z",
+			"content": "<p>wow the thing that defaults to additive behavior makes bloat you don't say</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4hwpxocs2q",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mw4hrwmlx22f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw4hwpxocs2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-22T14:49:30.656Z",
+			"content": "<p>at least we’re adding faster than ever</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vci7sleblpvmylipoa4awcff/app.bsky.feed.post/3mw4isjtrzj2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/slop-machine.bsky.social/post/3mw4isjtrzj2j",
+			"author": {
+				"name": "Slop Machine (slopmachine.dev)",
+				"url": "https://bsky.app/profile/slop-machine.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vci7sleblpvmylipoa4awcff/bafkreiatpmyry7xxvxa4tb2ewmn4dscmkrva7gp2osypla7xg5k2ssshp4"
+			},
+			"date": "2026-09-22T15:05:03.461Z",
+			"content": "<p>AI: *replaces four lines of semantic HTML with 80 megabytes of div soup, three hallucinated npm packages, and a loader that spins forever*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mw4jok3xc22y",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4hwpxocs2q",
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3mw4jok3xc22y",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-09-22T15:20:43.552Z",
+			"content": "<p>truly, number go up at historically unprecedented levels</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:v5xyyrzvybdewa2pjqnkem7v/app.bsky.feed.post/3mw4k7g5lyc2w",
+			"parentId": "at://did:plc:vci7sleblpvmylipoa4awcff/app.bsky.feed.post/3mw4isjtrzj2j",
+			"url": "https://bsky.app/profile/niceday42.bsky.social/post/3mw4k7g5lyc2w",
+			"private": true,
+			"date": "2026-09-22T15:30:09.838Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mvy6jvolas42qzt6yezkyzou/app.bsky.feed.post/3mw4laatlck2f",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mw4jok3xc22y",
+			"url": "https://bsky.app/profile/eatyourgreens.org.uk/post/3mw4laatlck2f",
+			"author": {
+				"name": "Evil Jim O’Donnell",
+				"url": "https://bsky.app/profile/eatyourgreens.org.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mvy6jvolas42qzt6yezkyzou/bafkreihrtr3s3bwdrhsmqfbdxhki3ycpmvpyq74rx6o7sc26khjxjrt5qu"
+			},
+			"date": "2026-09-22T15:48:31.562Z",
+			"content": "<p>\"Claude, make number go up.\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:l4oopsoxraqat2yc4a74f7mi/app.bsky.feed.post/3mw4mnoxfuc26",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3mw4jok3xc22y",
+			"url": "https://bsky.app/profile/tonjohn.bsky.social/post/3mw4mnoxfuc26",
+			"author": {
+				"name": "BurtonJ",
+				"url": "https://bsky.app/profile/tonjohn.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4oopsoxraqat2yc4a74f7mi/bafkreih23c43zc2hikxvgkcbfqpri5yy4hyymuq77ipoqeqtkn2vw37g3a"
+			},
+			"date": "2026-09-22T16:13:56.318Z",
+			"content": "<p>Including bugs and outages 😭</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:eyzzcmlcbxsil637pzxurefj/app.bsky.feed.post/3mw4mntcmws2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/christopherbroome.com/post/3mw4mntcmws2y",
+			"author": {
+				"name": "Chris",
+				"url": "https://bsky.app/profile/christopherbroome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eyzzcmlcbxsil637pzxurefj/bafkreihmrgiaxspivha3fmmnhvacvuw4x2g23zhpygblmttorslx3hyqku"
+			},
+			"date": "2026-09-22T16:14:00.879Z",
+			"content": "<p>The tell that AI is ultimately another automation tool is that to the end user, nothing much has changed. The user experience of five years ago is similar than to today. We had online chat back then too. A regular person wouldn’t perceive any difference now that AI is doing whatever it’s doing</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4mvsn4yk2j",
+			"parentId": "at://did:plc:eyzzcmlcbxsil637pzxurefj/app.bsky.feed.post/3mw4mntcmws2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw4mvsn4yk2j",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-22T16:18:28.611Z",
+			"content": "<p>I think we should raise our standards</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mw4tkgwnlc2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3mw4tkgwnlc2z",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-09-22T18:17:23.434Z",
+			"content": "<p>I checked with the AI and it said, “NO”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mw4wiqvf6k2k",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mw4tkgwnlc2z",
+			"url": "https://bsky.app/profile/alvaromontoro.com/post/3mw4wiqvf6k2k",
+			"author": {
+				"name": "Álvaro Montoro",
+				"url": "https://bsky.app/profile/alvaromontoro.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
+			},
+			"date": "2026-09-22T19:10:07.970Z",
+			"content": "<p>AI or Al?<br>\n(It doesn't matter, we both said \"no\")</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mw4zwvpyw22z",
+			"parentId": "at://did:plc:xei4kpuuaogvgnvufre7wvjm/app.bsky.feed.post/3mw4wiqvf6k2k",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3mw4zwvpyw22z",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-09-22T20:11:44.048Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3mw525jj4422v",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mw4zwvpyw22z",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3mw525jj4422v",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-09-22T20:15:26.110Z",
+			"content": "<p>🤖Weird AI: bad<br>\n🪗Weird Al: good</p>\n<p>It’s a confusing system.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mw52wgifl22e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mw52wgifl22e",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-09-22T20:29:21.809Z",
+			"content": "<p>Imagine the typo</p>\n<p>„AI, make the website god“</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw52zazohk2y",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mw52wgifl22e",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw52zazohk2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-22T20:30:56.751Z",
+			"content": "<p>AI, go ahead and do the singularity!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mw536xcpos2e",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw52zazohk2y",
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mw536xcpos2e",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-09-22T20:34:07.888Z",
+			"content": "<p><a href=\"https://youtu.be/SFzMs2SN--s\">youtu.be/SFzMs2SN--s</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3mw6ydmvtvs2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/shaw.city/post/3mw6ydmvtvs2z",
+			"author": {
+				"name": "Shaw",
+				"url": "https://bsky.app/profile/shaw.city",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfzewyyzcr75z4t3vhew6o7g/bafkreicvtneuyuqc6j64n67w423d2zsu2iu44rytxwyjnnkqbnhvql7s4a"
+			},
+			"date": "2026-09-23T14:48:23.002Z",
+			"content": "<p>Curation and quality assurance are more crucial than ever. <br>\nIs it important?<br>\nDoes it work?<br>\nDoes it make sense?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw6yvsk4ok2s",
+			"parentId": "at://did:plc:cfzewyyzcr75z4t3vhew6o7g/app.bsky.feed.post/3mw6ydmvtvs2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mw6yvsk4ok2s",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-23T14:58:32.891Z",
+			"content": "<p>100%</p>\n<p>I would also explicitly add: “Can we do without it?” 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xn2qgs4cqoakflnlzlvgsmzw/app.bsky.feed.post/3mwa7fd3ajk25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jmhobbs.dev/post/3mwa7fd3ajk25",
+			"author": {
+				"name": "Hobbs",
+				"url": "https://bsky.app/profile/jmhobbs.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xn2qgs4cqoakflnlzlvgsmzw/bafkreibp53s7cqgjgtaxdlrs7kstmtgfxzxcm4kusfkosx5kv7lu6uonmi"
+			},
+			"date": "2026-09-24T02:27:15.733Z",
+			"content": "<p>The interspersed performance filmstrips in this post are savage.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mwbdotdy2c2h",
+			"parentId": "at://did:plc:xn2qgs4cqoakflnlzlvgsmzw/app.bsky.feed.post/3mwa7fd3ajk25",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mwbdotdy2c2h",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-24T13:16:49.494Z",
+			"content": "<p>we are making commentary! commentary is happening!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mwdxazylls2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mwdxazylls2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-09-25T14:12:21.012Z",
+			"content": "<p>the awkward part of this post is that if these companies improve the performance of their websites it will change the meaning of the post (the filmstrips update over time)</p>\n<p>so far I’m about 5% worried about it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kpc5tukpvvbvy556u4ltdltl/app.bsky.feed.post/3mxf5bcn26s26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/columk.bsky.social/post/3mxf5bcn26s26",
+			"author": {
+				"name": "Colum Kelly",
+				"url": "https://bsky.app/profile/columk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kpc5tukpvvbvy556u4ltdltl/bafkreickkzruzj4bskoex2tovm636cxuo7lfsvty5rsc6y3whcvhmwilkm"
+			},
+			"date": "2026-10-08T18:57:43.887Z",
+			"content": "<p>I was going to make the counter argument that throttled Lighthouse scores aren't at all representative of the users of these products but the X example is actually bonkers, even on CrUX. Perf has degraded almost every single week since May for real users (by up to 500ms per week).</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mxraptjm422f",
+			"parentId": "at://did:plc:kpc5tukpvvbvy556u4ltdltl/app.bsky.feed.post/3mxf5bcn26s26",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mxraptjm422f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-13T14:31:29.449Z",
+			"content": "<p>CrUX shows you the users you have, Lighthouse shows you the users you want</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kpc5tukpvvbvy556u4ltdltl/app.bsky.feed.post/3mxrgurxods2d",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mxraptjm422f",
+			"url": "https://bsky.app/profile/columk.bsky.social/post/3mxrgurxods2d",
+			"author": {
+				"name": "Colum Kelly",
+				"url": "https://bsky.app/profile/columk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kpc5tukpvvbvy556u4ltdltl/bafkreickkzruzj4bskoex2tovm636cxuo7lfsvty5rsc6y3whcvhmwilkm"
+			},
+			"date": "2026-10-13T16:21:38.026Z",
+			"content": "<p>The CrUX link on Speedlify showed the origin scores, which scored pretty well. Took me a minute to notice the missing /.</p>",
+			"via": "bluesky"
+		}
+	]
+}

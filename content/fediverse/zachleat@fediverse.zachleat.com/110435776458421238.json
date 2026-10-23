@@ -1,0 +1,88 @@
+{
+	"comments": [
+		{
+			"id": "110435785344348821",
+			"parentId": 0,
+			"url": "https://social.ericwbailey.website/@eric/110435785276299284",
+			"private": true,
+			"date": "2023-05-26T15:52:32.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110435787524726027",
+			"parentId": 0,
+			"url": "https://mastodon.social/@chriskirknielsen/110435787447888310",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://mastodon.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/992/721/652/871/original/a9e8f3a8153833bc.jpg"
+			},
+			"date": "2023-05-26T15:53:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wow. What an incredibly cursed sentence. 🫠</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110435799181002857",
+			"parentId": "110435785344348821",
+			"url": "https://fediverse.zachleat.com/@zachleat/110435799181002857",
+			"private": true,
+			"date": "2023-05-26T15:56:04.657Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110435800033985794",
+			"parentId": "110435787524726027",
+			"url": "https://fediverse.zachleat.com/@zachleat/110435800033985794",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-26T15:56:17.667Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> my job here is done</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110435801668006100",
+			"parentId": 0,
+			"url": "https://mastodon.online/@sarcevic/110435801607913481",
+			"author": {
+				"name": "Toni / Link",
+				"url": "https://mastodon.online/@sarcevic",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/323/575/893/189/223/original/ca389bab27472e12.png"
+			},
+			"date": "2023-05-26T15:56:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If you are bad engineer, best practices won't save you.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110435807335639101",
+			"parentId": "110435799181002857",
+			"url": "https://social.ericwbailey.website/@eric/110435807299286914",
+			"private": true,
+			"date": "2023-05-26T15:58:08.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110435808512864401",
+			"parentId": "110435807335639101",
+			"url": "https://mstdn.social/@philsherry/110435808420712891",
+			"private": true,
+			"date": "2023-05-26T15:58:25.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110481927171962367",
+			"parentId": "110435801668006100",
+			"url": "https://home.social/@nice2meatu/110481927133182552",
+			"author": {
+				"name": "Marco Hengstenberg",
+				"url": "https://home.social/@nice2meatu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/025/924/712/498/original/991334626fb9267b.jpeg"
+			},
+			"date": "2023-06-03T19:27:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@sarcevic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarcevic</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I just came here for all the references and not the frameworks❤️❤️</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,101 @@
+{
+	"comments": [
+		{
+			"id": "113170237038173325",
+			"parentId": 0,
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J87VP02GJSJH957FGV9HA2QZ",
+			"private": true,
+			"date": "2024-09-20T13:59:26.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170239723487304",
+			"parentId": "113170237038173325",
+			"url": "https://fediverse.zachleat.com/@zachleat/113170239723487304",
+			"private": true,
+			"date": "2024-09-20T14:00:16.094Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170251364428795",
+			"parentId": "113170239723487304",
+			"url": "https://fedi.jaenis.ch/@andre/statuses/01J87VWPXDZQ1BKSN9PB9B48BX",
+			"private": true,
+			"date": "2024-09-20T14:03:06.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170268402796669",
+			"parentId": "113170251364428795",
+			"url": "https://fediverse.zachleat.com/@zachleat/113170268402796669",
+			"private": true,
+			"date": "2024-09-20T14:07:33.705Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170280072073891",
+			"parentId": 0,
+			"url": "https://mastodon.social/@cheeaun/113170278203768813",
+			"author": {
+				"name": "Chee Aun 🤔",
+				"url": "https://mastodon.social/@cheeaun",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/577/128/986/273/original/c63b298bc57a27ae.jpeg"
+			},
+			"date": "2024-09-20T14:10:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> for some reason, I remember I learned this from jQuery source code <a href=\"https://javascript.info/new-function\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">javascript.info/new-function</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170414550307160",
+			"parentId": 0,
+			"url": "https://mastodon.cloud/@maxfenton/113170414503782774",
+			"author": {
+				"name": "maxfenton",
+				"url": "https://mastodon.cloud/@maxfenton",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-20T14:44:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's beyond my understanding, but AlpineJS does _something_ that's not actually eval()</p><p><a href=\"https://alpinejs.dev/advanced/csp\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alpinejs.dev/advanced/csp</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170512483900985",
+			"parentId": "113170414550307160",
+			"url": "https://fediverse.zachleat.com/@zachleat/113170512483900985",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-20T15:09:38.087Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@maxfenton\" class=\"u-url mention\">@<span>maxfenton</span></a></span> ah yes! Thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170682095418849",
+			"parentId": "113170512483900985",
+			"url": "https://mastodon.cloud/@maxfenton/113170681975057395",
+			"author": {
+				"name": "maxfenton",
+				"url": "https://mastodon.cloud/@maxfenton",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-20T15:52:44.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I mean, I read your readme but I still wasn't sure if I was saying “hey here's this thing you already described\" :blob_laughing:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113170690049648510",
+			"parentId": "113170682095418849",
+			"url": "https://fediverse.zachleat.com/@zachleat/113170690049648510",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-20T15:54:47.526Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@maxfenton\" class=\"u-url mention\">@<span>maxfenton</span></a></span> yeah, sorry about that—definitely helpful!</p>",
+			"via": "fediverse"
+		}
+	]
+}

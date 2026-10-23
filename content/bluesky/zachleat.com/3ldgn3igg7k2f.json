@@ -1,0 +1,454 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgn6u6i422f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldgn6u6i422f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-16T15:25:16.584Z",
+			"content": "<p>We can save the optics of using the term “mind virus” for another time (but, gross)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:giyymvrv6yjipdxvlatenrnd/app.bsky.feed.post/3ldgnamyops23",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgn6u6i422f",
+			"url": "https://bsky.app/profile/deebloo.bsky.social/post/3ldgnamyops23",
+			"author": {
+				"name": "Danny Blue",
+				"url": "https://bsky.app/profile/deebloo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:giyymvrv6yjipdxvlatenrnd/bafkreidvuo2ocjjf2lin5d2q2ro53n5j4yedywi4vtkbkvoygtakpvpou4"
+			},
+			"date": "2024-12-16T15:26:16.163Z",
+			"content": "<p>I was about to say, that term tell you everything you need to know</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:giyymvrv6yjipdxvlatenrnd/app.bsky.feed.post/3ldgnd243qs23",
+			"parentId": "at://did:plc:giyymvrv6yjipdxvlatenrnd/app.bsky.feed.post/3ldgnamyops23",
+			"url": "https://bsky.app/profile/deebloo.bsky.social/post/3ldgnd243qs23",
+			"author": {
+				"name": "Danny Blue",
+				"url": "https://bsky.app/profile/deebloo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:giyymvrv6yjipdxvlatenrnd/bafkreidvuo2ocjjf2lin5d2q2ro53n5j4yedywi4vtkbkvoygtakpvpou4"
+			},
+			"date": "2024-12-16T15:27:37.016Z",
+			"content": "<p>also its very hard to sell someone vanilla HTML...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3ldgndaon2k24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3ldgndaon2k24",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2024-12-16T15:27:43.915Z",
+			"content": "<p>At the brochure-site level everything is design driven. Progressive enhancement means that sometimes it won't look like what we sold the client. That's a tough thing to explain up.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3ldgniigy622h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/scottjehl.com/post/3ldgniigy622h",
+			"author": {
+				"name": "Scott Jehl",
+				"url": "https://bsky.app/profile/scottjehl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f64vb5rx6mqokvtn3gbgtnkv/bafkreicwirkhki6y6iujb4eszhob5bfr3plqwlksspvfunewlv7p6djwwi"
+			},
+			"date": "2024-12-16T15:30:39.824Z",
+			"content": "<p>Summarizing folks' well-informed sentiments about the measurably poor user experience of react sites as a whole as 'don't use JS' is a pretty lazy read. 🙄</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wjzw74n44kuehrcwoqerbuvn/app.bsky.feed.post/3ldgnnbntrc2o",
+			"parentId": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3ldgniigy622h",
+			"url": "https://bsky.app/profile/heydonworks.com/post/3ldgnnbntrc2o",
+			"author": {
+				"name": "Large Heydon Collider",
+				"url": "https://bsky.app/profile/heydonworks.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjzw74n44kuehrcwoqerbuvn/bafkreifxvjlj3ymm4p7tfugtjnylsepgvflqzwa347mx3abzogtqs4lfaq"
+			},
+			"date": "2024-12-16T15:33:20.482Z",
+			"content": "<p>They think \"don’t use React\" means \"don’t use JavaScript\" because they never learned or they forgot how to do JS without React. They think React == JS.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgnnojvcs2b",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3ldgndaon2k24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldgnnojvcs2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-16T15:33:33.984Z",
+			"content": "<p>Yeah—but folks aren’t arguing for HTML *only* as that quote suggested</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3ldgnpss3ts24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgnnojvcs2b",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3ldgnpss3ts24",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2024-12-16T15:34:45.556Z",
+			"content": "<p>Oh for sure. Everything in moderation. That's why we have all three languages to use.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgns2hx622b",
+			"parentId": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3ldgniigy622h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldgns2hx622b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-16T15:36:00.721Z",
+			"content": "<p>100% 🫠</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7bb34ozcdu5lm3ogte3gq433/app.bsky.feed.post/3ldgo6rzjak26",
+			"parentId": "at://did:plc:wjzw74n44kuehrcwoqerbuvn/app.bsky.feed.post/3ldgnnbntrc2o",
+			"url": "https://bsky.app/profile/darn.es/post/3ldgo6rzjak26",
+			"author": {
+				"name": "David Darnes",
+				"url": "https://bsky.app/profile/darn.es",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bb34ozcdu5lm3ogte3gq433/bafkreieludkddmtzyhsba5xddcrjpaegp2zcokrr4sudtzhtg6zh5hmjeq"
+			},
+			"date": "2024-12-16T15:43:08.067Z",
+			"content": "<p>I am once again reminded about your sentiments about binary thinking</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3ldgomsahu22x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bell.bz/post/3ldgomsahu22x",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2024-12-16T15:50:58.057Z",
+			"content": "<p>i think they do but it puts their business model at risk, so they gaslight instead</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgopk4has2k",
+			"parentId": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3ldgomsahu22x",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldgopk4has2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-16T15:52:30.200Z",
+			"content": "<p>I’m sure it’s unrelated to some survey results that came out today (though I have complicated opinions about those too)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3ldgorcnku22x",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgopk4has2k",
+			"url": "https://bsky.app/profile/bell.bz/post/3ldgorcnku22x",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2024-12-16T15:53:29.481Z",
+			"content": "<p>i have not yet looked at the state of the fellas results yet</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3ldgp76an222s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgns2hx622b",
+			"url": "https://bsky.app/profile/scottjehl.com/post/3ldgp76an222s",
+			"author": {
+				"name": "Scott Jehl",
+				"url": "https://bsky.app/profile/scottjehl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f64vb5rx6mqokvtn3gbgtnkv/bafkreicwirkhki6y6iujb4eszhob5bfr3plqwlksspvfunewlv7p6djwwi"
+			},
+			"date": "2024-12-16T16:01:14.624Z",
+			"content": "<p>same tweet rephrased every day 😅 <a href=\"https://bsky.app/profile/scottjehl.com/post/3ldgp3wpjj22b\">bsky.app/profile/scot...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgpfwomus22",
+			"parentId": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3ldgp76an222s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldgpfwomus22",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-16T16:05:01.576Z",
+			"content": "<p>it’s only been 15+ years of saying the same thing (correctly) 🫠</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:f64vb5rx6mqokvtn3gbgtnkv/app.bsky.feed.post/3ldgpvnymi227",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgpfwomus22",
+			"url": "https://bsky.app/profile/scottjehl.com/post/3ldgpvnymi227",
+			"author": {
+				"name": "Scott Jehl",
+				"url": "https://bsky.app/profile/scottjehl.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:f64vb5rx6mqokvtn3gbgtnkv/bafkreicwirkhki6y6iujb4eszhob5bfr3plqwlksspvfunewlv7p6djwwi"
+			},
+			"date": "2024-12-16T16:13:49.337Z",
+			"content": "<p>Well, the recent changes to popularly prioritize server-rendering tells me the work is working! It's just slow because the message runs counter to so many business and developer conveniences, and genuinely a lot of our industry isn't familiar with working any other way now.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldgrcht3qc2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/keithjgrant.com/post/3ldgrcht3qc2o",
+			"author": {
+				"name": "Keith J. Grant",
+				"url": "https://bsky.app/profile/keithjgrant.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dx7vvynq7d4cwhxd4k4gesck/bafkreigpjsbjaogf4jwwelrxdt4c5t3jbotfh7eynlqvugf5iwk2sbcbpq"
+			},
+			"date": "2024-12-16T16:38:52.813Z",
+			"content": "<p>I’d go further and say there’s a contingent that doesn’t really understand the grain of the web at all. I think there’s a chunk of the industry that came in several years ago from more conventional software backgrounds and never really gained that understanding</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yxpwvgsc62rj6xfo34gd4fo2/app.bsky.feed.post/3ldgrs3h6us2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jimmyjazzesq.bsky.social/post/3ldgrs3h6us2y",
+			"private": true,
+			"date": "2024-12-16T16:47:36.709Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dlavmrxl5yzs2ads7dsrsovg/app.bsky.feed.post/3ldgruyy2ec2c",
+			"parentId": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldgrcht3qc2o",
+			"url": "https://bsky.app/profile/adamz.one/post/3ldgruyy2ec2c",
+			"author": {
+				"name": "Adam Ziolkowski",
+				"url": "https://bsky.app/profile/adamz.one",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlavmrxl5yzs2ads7dsrsovg/bafkreifeyh3qq5siyq7fq5dbprn5cc3zpouwblh4ticrko3dqkts2526cu"
+			},
+			"date": "2024-12-16T16:49:14.782Z",
+			"content": "<p>What is the grain of the web in 2024? I ask because I want to know if might need to update my definition which I aquired in early 2000. As for that cohort, I won't deny that there is a large pool of developers that don't have that background and to them React is JS, the web is React...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dlavmrxl5yzs2ads7dsrsovg/app.bsky.feed.post/3ldgry4oox22c",
+			"parentId": "at://did:plc:dlavmrxl5yzs2ads7dsrsovg/app.bsky.feed.post/3ldgruyy2ec2c",
+			"url": "https://bsky.app/profile/adamz.one/post/3ldgry4oox22c",
+			"author": {
+				"name": "Adam Ziolkowski",
+				"url": "https://bsky.app/profile/adamz.one",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlavmrxl5yzs2ads7dsrsovg/bafkreifeyh3qq5siyq7fq5dbprn5cc3zpouwblh4ticrko3dqkts2526cu"
+			},
+			"date": "2024-12-16T16:50:59.333Z",
+			"content": "<p>but some are seasoned application developers and they find the 'document-based' web lacking in that context... they think in apps, big, fat apps and not just islands of interactivity.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:god7lmgkgqlybavtrf2clc2h/app.bsky.feed.post/3ldgv7v3whk2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/quirksmode.org/post/3ldgv7v3whk2v",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://bsky.app/profile/quirksmode.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:god7lmgkgqlybavtrf2clc2h/bafkreibp3m2ycs66haihiby2qli3qajkjabg2ahmz7o2ni5wl5p377q7oa"
+			},
+			"date": "2024-12-16T17:49:01.038Z",
+			"content": "<p>My question: have these people in power ever before openly acknowledged there is a theory of web development other than their own React/whatever one?</p>\n<p>Is this sort of snipe at normal web dev new? Or are such snipes becoming more common?</p>\n<p>If so ... we're getting somewhere. They're on the defensive.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgwhotg6c2z",
+			"parentId": "at://did:plc:god7lmgkgqlybavtrf2clc2h/app.bsky.feed.post/3ldgv7v3whk2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3ldgwhotg6c2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2024-12-16T18:11:16.646Z",
+			"content": "<p>yeah, definitely has the air of losing control of the narrative</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:god7lmgkgqlybavtrf2clc2h/app.bsky.feed.post/3ldgx5h5vac2v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgwhotg6c2z",
+			"url": "https://bsky.app/profile/quirksmode.org/post/3ldgx5h5vac2v",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://bsky.app/profile/quirksmode.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:god7lmgkgqlybavtrf2clc2h/bafkreibp3m2ycs66haihiby2qli3qajkjabg2ahmz7o2ni5wl5p377q7oa"
+			},
+			"date": "2024-12-16T18:23:26.798Z",
+			"content": "<p>I am getting the same feeling from other things I'm seeing. So ... yay, I guess?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3ldgyx2ujc22l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ldgn6u6i422f",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3ldgyx2ujc22l",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2024-12-16T18:55:40.065Z",
+			"content": "<p>if that's who I think it is, it's a great example of a CEO managing to *un*evangelise their service</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ark7nxcfhgxp4gwdsbzcpnoo/app.bsky.feed.post/3ldh2gzqj7c26",
+			"parentId": "at://did:plc:giyymvrv6yjipdxvlatenrnd/app.bsky.feed.post/3ldgnd243qs23",
+			"url": "https://bsky.app/profile/autiomaa.org/post/3ldh2gzqj7c26",
+			"author": {
+				"name": "Daniel Schildt",
+				"url": "https://bsky.app/profile/autiomaa.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ark7nxcfhgxp4gwdsbzcpnoo/bafkreidrkmxmq7bqxl6sf2hezydqndwqdtbutmilm7s4mz3a7m2tnlabmi"
+			},
+			"date": "2024-12-16T19:22:29.497Z",
+			"content": "<p>HTML is so enterprise scalable that it would win awards. 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldh2zwtejs2f",
+			"parentId": "at://did:plc:dlavmrxl5yzs2ads7dsrsovg/app.bsky.feed.post/3ldgruyy2ec2c",
+			"url": "https://bsky.app/profile/keithjgrant.com/post/3ldh2zwtejs2f",
+			"author": {
+				"name": "Keith J. Grant",
+				"url": "https://bsky.app/profile/keithjgrant.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dx7vvynq7d4cwhxd4k4gesck/bafkreigpjsbjaogf4jwwelrxdt4c5t3jbotfh7eynlqvugf5iwk2sbcbpq"
+			},
+			"date": "2024-12-16T19:33:03.979Z",
+			"content": "<p>I don't really think the grain of the web has changed in any significant ways... it's still progressive enhancement, URL behavior (e.g. using links vs buttons), etc.</p>\n<p>In many ways, it's an understanding that HTML+CSS+JS+SVG is itself a framework and how to work idiomatically within that framework.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dlavmrxl5yzs2ads7dsrsovg/app.bsky.feed.post/3ldh3jfyz3c2c",
+			"parentId": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldh2zwtejs2f",
+			"url": "https://bsky.app/profile/adamz.one/post/3ldh3jfyz3c2c",
+			"author": {
+				"name": "Adam Ziolkowski",
+				"url": "https://bsky.app/profile/adamz.one",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlavmrxl5yzs2ads7dsrsovg/bafkreifeyh3qq5siyq7fq5dbprn5cc3zpouwblh4ticrko3dqkts2526cu"
+			},
+			"date": "2024-12-16T19:41:43.210Z",
+			"content": "<p>In the context of working in larger organizations that create a lot of apps (B2B) there is a LOT of value in using a popular web framework. If an organization doesn't use one, someone will create their own and at that point, more often than not, you'd want to run for the hills.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldh4oktzzs2j",
+			"parentId": "at://did:plc:dlavmrxl5yzs2ads7dsrsovg/app.bsky.feed.post/3ldh3jfyz3c2c",
+			"url": "https://bsky.app/profile/keithjgrant.com/post/3ldh4oktzzs2j",
+			"author": {
+				"name": "Keith J. Grant",
+				"url": "https://bsky.app/profile/keithjgrant.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dx7vvynq7d4cwhxd4k4gesck/bafkreigpjsbjaogf4jwwelrxdt4c5t3jbotfh7eynlqvugf5iwk2sbcbpq"
+			},
+			"date": "2024-12-16T20:02:29.804Z",
+			"content": "<p>Oh I definitely agree.</p>\n<p>There is a lot of value in using a popular web framework, but I think part of that *should* be understanding the underlying web framework it’s built on top of as well.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldh4olciwc2j",
+			"parentId": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldh4oktzzs2j",
+			"url": "https://bsky.app/profile/keithjgrant.com/post/3ldh4olciwc2j",
+			"author": {
+				"name": "Keith J. Grant",
+				"url": "https://bsky.app/profile/keithjgrant.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dx7vvynq7d4cwhxd4k4gesck/bafkreigpjsbjaogf4jwwelrxdt4c5t3jbotfh7eynlqvugf5iwk2sbcbpq"
+			},
+			"date": "2024-12-16T20:02:29.805Z",
+			"content": "<p>Some (though not necessarily all) of the ire aimed at React, for instance, is really a gripe with devs who use React but don’t fully understand the web framework. These are not strictly problems with React at all, but React becomes a lightning rod for those frustrations.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dlavmrxl5yzs2ads7dsrsovg/app.bsky.feed.post/3ldh4qyqwik2c",
+			"parentId": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldh4olciwc2j",
+			"url": "https://bsky.app/profile/adamz.one/post/3ldh4qyqwik2c",
+			"author": {
+				"name": "Adam Ziolkowski",
+				"url": "https://bsky.app/profile/adamz.one",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlavmrxl5yzs2ads7dsrsovg/bafkreifeyh3qq5siyq7fq5dbprn5cc3zpouwblh4ticrko3dqkts2526cu"
+			},
+			"date": "2024-12-16T20:03:51.490Z",
+			"content": "<p>Yeah, it's the same on the backend side... \"hey, I know Django, I must be a great Python developer\" :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vkvvhl5sit6ub7qwixxg2m42/app.bsky.feed.post/3ldhow4f3cc2m",
+			"parentId": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldh4olciwc2j",
+			"url": "https://bsky.app/profile/stcbus.bsky.social/post/3ldhow4f3cc2m",
+			"author": {
+				"name": "Steven",
+				"url": "https://bsky.app/profile/stcbus.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vkvvhl5sit6ub7qwixxg2m42/bafkreifeqdbyouyor4hn3ttq5gh2oxxfjyfjgrg7homeqbatngxomr3k34"
+			},
+			"date": "2024-12-17T01:28:50.422Z",
+			"content": "<p>Well and all the broken middle clock because the framework is creating links through JavaScript. Oh and it’s slow af.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldhrj6xyr22s",
+			"parentId": "at://did:plc:vkvvhl5sit6ub7qwixxg2m42/app.bsky.feed.post/3ldhow4f3cc2m",
+			"url": "https://bsky.app/profile/keithjgrant.com/post/3ldhrj6xyr22s",
+			"author": {
+				"name": "Keith J. Grant",
+				"url": "https://bsky.app/profile/keithjgrant.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dx7vvynq7d4cwhxd4k4gesck/bafkreigpjsbjaogf4jwwelrxdt4c5t3jbotfh7eynlqvugf5iwk2sbcbpq"
+			},
+			"date": "2024-12-17T02:15:18.156Z",
+			"content": "<p>The framework doesn’t “make links through JavaScript”. It renders whatever HTML the developer tells it to. If the dev is using event handlers instead of native links, the dev’s own fault</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:vkvvhl5sit6ub7qwixxg2m42/app.bsky.feed.post/3ldhrlhx5ek2j",
+			"parentId": "at://did:plc:dx7vvynq7d4cwhxd4k4gesck/app.bsky.feed.post/3ldhrj6xyr22s",
+			"url": "https://bsky.app/profile/stcbus.bsky.social/post/3ldhrlhx5ek2j",
+			"author": {
+				"name": "Steven",
+				"url": "https://bsky.app/profile/stcbus.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vkvvhl5sit6ub7qwixxg2m42/bafkreifeqdbyouyor4hn3ttq5gh2oxxfjyfjgrg7homeqbatngxomr3k34"
+			},
+			"date": "2024-12-17T02:16:34.674Z",
+			"content": "<p>It’s what the docs (at least previously) showed in tutorials and made the easiest.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3ldrgnnpxws2p",
+			"parentId": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3ldgyx2ujc22l",
+			"url": "https://bsky.app/profile/infrequently.org/post/3ldrgnnpxws2p",
+			"author": {
+				"name": "Alex Russell",
+				"url": "https://bsky.app/profile/infrequently.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:iagspo44enzkxp5y53cyfezm/bafkreiczpn6ws3t77xb2te2ptg5mcxs33mf6lsvnl7pyz6muu3lhk4udse"
+			},
+			"date": "2024-12-20T22:27:34.063Z",
+			"content": "<p>You get the sense that the austerity he's worried about might be in the area of overpriced cloudflare resellers and their slow, proprietary APIs.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nejscld5zlavytijxz27qhvj/app.bsky.feed.post/3ldsuxheiy22d",
+			"parentId": "at://did:plc:iagspo44enzkxp5y53cyfezm/app.bsky.feed.post/3ldrgnnpxws2p",
+			"url": "https://bsky.app/profile/marypcbuk.bsky.social/post/3ldsuxheiy22d",
+			"author": {
+				"name": "Mary Branscombe",
+				"url": "https://bsky.app/profile/marypcbuk.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nejscld5zlavytijxz27qhvj/bafkreid62dpuwwlmnj2tqgbhpsnsmvchj6tfcetdqm2wu55zbuwm7zpacu"
+			},
+			"date": "2024-12-21T12:16:15.064Z",
+			"content": "<p>Maybe he’s excited for someone’s approach for dealing with the competition by rabble rousing</p>",
+			"via": "bluesky"
+		}
+	]
+}

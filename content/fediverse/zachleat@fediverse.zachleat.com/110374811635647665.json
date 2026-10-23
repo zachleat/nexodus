@@ -1,0 +1,701 @@
+{
+	"comments": [
+		{
+			"id": "110374875009012690",
+			"parentId": 0,
+			"url": "https://mastodon.social/@devolute/110374874708221432",
+			"author": {
+				"name": "devolute",
+				"url": "https://mastodon.social/@devolute",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/142/474/609/017/original/b1af8b9e7c70331a.jpg"
+			},
+			"date": "2023-05-15T21:42:10.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This would be nice. Think of an unnecessarily obscure name for this approach and we might be on.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374882163425468",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/110374882163425468",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T21:44:04.728Z",
+			"content": "<p>Time to brand this method, y’all: what do you got?</p><p><a href=\"https://mastodon.social/@devolute/110374874708221432\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@devolute/1103</span><span class=\"invisible\">74874708221432</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374904752884257",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.social/@matthiasott/110374904712425564",
+			"author": {
+				"name": "Matthias Ott",
+				"url": "https://mastodon.social/@matthiasott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/233/828/237/636/original/edbf5b5a1043a195.png"
+			},
+			"date": "2023-05-15T21:49:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> BestPractices3</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374914948612630",
+			"parentId": 0,
+			"url": "https://mastodon.cloud/@maxfenton/110374914920141984",
+			"author": {
+				"name": "maxfenton",
+				"url": "https://mastodon.cloud/@maxfenton",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-05-15T21:52:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Static-first</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374915273490641",
+			"parentId": "110374882163425468",
+			"url": "https://front-end.social/@Aaron/110374915209811804",
+			"author": {
+				"name": "Aaron Gustafson",
+				"url": "https://front-end.social/@Aaron",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/796/791/117/808/original/53fbc0e189286ec0.png"
+			},
+			"date": "2023-05-15T21:52:28.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Making<br>Adaptive<br>Components<br>&amp;<br>Creating<br>Healthy<br>Engineering<br>Ecosystems<br>Saves<br>Everyone</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374919660183940",
+			"parentId": "110374875009012690",
+			"url": "https://home.social/@philsherry/110374919484413042",
+			"author": {
+				"name": "Phil Sherry",
+				"url": "https://home.social/@philsherry",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/756/027/207/070/695/original/e0ee9589a8d46c11.png"
+			},
+			"date": "2023-05-15T21:53:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@devolute\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>devolute</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Spurtleclean? H/t <span class=\"h-card\"><a href=\"https://toot.cafe/@rich_harris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rich_harris</span></a></span></p><p><a href=\"https://home.social/@philsherry/110230958904146456\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">home.social/@philsherry/110230</span><span class=\"invisible\">958904146456</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374923508189209",
+			"parentId": "110374882163425468",
+			"url": "https://yatil.social/@yatil/110374923393446041",
+			"author": {
+				"name": "Eric Eggert",
+				"url": "https://yatil.social/@yatil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/079/623/377/683/254/original/c3fbc6cf02b4fb89.jpeg"
+			},
+			"date": "2023-05-15T21:54:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> web4</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374938872810331",
+			"parentId": 0,
+			"url": "https://front-end.social/@5t3ph/110374938840892304",
+			"author": {
+				"name": "Stephanie Eckles",
+				"url": "https://front-end.social/@5t3ph",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/732/343/824/585/original/67fb609275980a3e.png"
+			},
+			"date": "2023-05-15T21:58:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes pleeeasseeeee</p><p>It's past time to value and promote IC who are uniquely skilled at this.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374944856433980",
+			"parentId": "110374882163425468",
+			"url": "https://indieweb.social/@bobmonsour/110374944822471310",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-05-15T22:00:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ummmmmm, WebC?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374961405249555",
+			"parentId": 0,
+			"url": "https://mastodon.ie/@coogie/110374961342957812",
+			"author": {
+				"name": "👻 coogie",
+				"url": "https://mastodon.ie/@coogie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/386/608/445/184/original/1210795d979c50a1.png"
+			},
+			"date": "2023-05-15T22:04:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Slow down there, Zach. If I do this, how am I going to rebuild my component library in `n` years?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374961867936892",
+			"parentId": "110374915273490641",
+			"url": "https://fediverse.zachleat.com/@zachleat/110374961867936892",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T22:04:20.923Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Aaron\" class=\"u-url mention\">@<span>Aaron</span></a></span> incredible</p><p>my kids like it too</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374962172601621",
+			"parentId": "110374882163425468",
+			"url": "https://front-end.social/@eeeps/110374962130869903",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-05-15T22:04:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The PaCStack (Pasteurized Components Stack)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374967878514113",
+			"parentId": "110374961405249555",
+			"url": "https://fediverse.zachleat.com/@zachleat/110374967878514113",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T22:05:52.636Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.ie/@coogie\" class=\"u-url mention\">@<span>coogie</span></a></span> *backs away slowly*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374969015333345",
+			"parentId": "110374962172601621",
+			"url": "https://fediverse.zachleat.com/@zachleat/110374969015333345",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T22:06:09.982Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> super PaC stack wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110374997080025224",
+			"parentId": 0,
+			"url": "https://mastodon.cthos.dev/@cthos/110374997025610588",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2023-05-15T22:13:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I appreciate that you added the “unpasteurized” qualifier.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375000497107441",
+			"parentId": "110374997080025224",
+			"url": "https://fediverse.zachleat.com/@zachleat/110375000497107441",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T22:14:10.361Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\">@<span>cthos</span></a></span> super pasteurized milk actually lasts a pretty long time 😎</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375002657240429",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.social/@sil/110375002600372411",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2023-05-15T22:14:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's a band and roadies model, isn't it? The band make something amazing and long-lasting, the performance and the music which is what people see and hear, but you also need the roadies who come along afterwards and plug everything in and scurry about invisibly backstage.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375009649976878",
+			"parentId": "110375000497107441",
+			"url": "https://mastodon.cthos.dev/@cthos/110375009592838367",
+			"author": {
+				"name": "cthos 🐱",
+				"url": "https://mastodon.cthos.dev/@cthos",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/322/028/040/622/495/original/af321586b1f6cd2d.webp"
+			},
+			"date": "2023-05-15T22:16:29.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I know! And it is shelf stable.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375016291715776",
+			"parentId": "110374969015333345",
+			"url": "https://front-end.social/@eeeps/110375016263540490",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-05-15T22:18:10.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Good point, what about WebPaC—ok nope</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375034394495846",
+			"parentId": "110375016291715776",
+			"url": "https://fediverse.zachleat.com/@zachleat/110375034394495846",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T22:22:47.590Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\">@<span>eeeps</span></a></span> first of all, how dare you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375037306899777",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.social/@chriskirknielsen/110375037256417659",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://mastodon.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/992/721/652/871/original/a9e8f3a8153833bc.jpg"
+			},
+			"date": "2023-05-15T22:23:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If you're not giving it a milk-adjacent name after that analogy… (Cross-Boundairy Component Development, or CBCD?)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375047050787695",
+			"parentId": "110375037306899777",
+			"url": "https://fediverse.zachleat.com/@zachleat/110375047050787695",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T22:26:00.709Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span><br />Whole Components<br />2% Components<br />Skim Components<br />Lactose-free Components</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375052616381753",
+			"parentId": "110375002657240429",
+			"url": "https://front-end.social/@ppk/110375052524608857",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://front-end.social/@ppk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/034/668/175/414/original/c0d4895d91ab41e8.jpg"
+			},
+			"date": "2023-05-15T22:27:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yes, I'd be fine with JS frameworks being called \"roadies\" from now on, doing their invisible DOM work backstage in support of the greater good.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375076351299673",
+			"parentId": "110374882163425468",
+			"url": "https://mamot.fr/@nhoizey/110375076272706973",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/230/453/300/889/original/b21203c65dbd197c.jpg"
+			},
+			"date": "2023-05-15T22:33:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> WebC-4, an explosive new way to develop for the Web, difficult to master, not for the faint of heart.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375093376459215",
+			"parentId": "110374882163425468",
+			"url": "https://front-end.social/@rem/110375093312888114",
+			"author": {
+				"name": "rem",
+				"url": "https://front-end.social/@rem",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/337/799/327/859/909/original/4c7ca13f121949ca.jpg"
+			},
+			"date": "2023-05-15T22:37:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"A Foundation Architect\"</p><p>Suitably wanky name for HR and bizdev to get excited about.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375097912364142",
+			"parentId": 0,
+			"url": "https://social.lol/@cory/110375097832789619",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2023-05-15T22:38:55.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> you're the gift that keeps on giving Zach</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375109681791283",
+			"parentId": "110375097912364142",
+			"url": "https://fediverse.zachleat.com/@zachleat/110375109681791283",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-15T22:41:56.386Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@cory\" class=\"u-url mention\">@<span>cory</span></a></span> just between us I regifted this from myself</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375124073969607",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.social/@scrwd/110375124039783652",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/800/888/003/612/original/077abb41498548b0.png"
+			},
+			"date": "2023-05-15T22:45:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 11x</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375157193669635",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.design/@danleatherman/110375157174707754",
+			"author": {
+				"name": "dan leatherman",
+				"url": "https://mastodon.design/@danleatherman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/781/646/560/519/original/ca6c534a23687a31.jpeg"
+			},
+			"date": "2023-05-15T22:54:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> base jumping</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375189904261075",
+			"parentId": 0,
+			"url": "https://indieweb.social/@charlesroper/110375189868510238",
+			"author": {
+				"name": "Charles Roper",
+				"url": "https://indieweb.social/@charlesroper",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/316/292/879/484/524/original/0e3287f51d9644ee.webp"
+			},
+			"date": "2023-05-15T23:02:19.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Long-life components.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375214499921016",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@hexagoncircle/110375214476296754",
+			"author": {
+				"name": "Ryan Mulligan",
+				"url": "https://fosstodon.org/@hexagoncircle",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/348/282/587/430/600/original/25cefa80851591f6.jpeg"
+			},
+			"date": "2023-05-15T23:08:35.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> HTMilk and CookieSS, hi I would like to apply</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375370468022961",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.social/@peruvianidol/110375370436852867",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://mastodon.social/@peruvianidol",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
+			},
+			"date": "2023-05-15T23:48:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The peruvianidol Method. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375372555517621",
+			"parentId": 0,
+			"url": "https://indieweb.social/@motionsuggests/110375372508775239",
+			"author": {
+				"name": "motionsuggests",
+				"url": "https://indieweb.social/@motionsuggests",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/452/399/409/838/177/original/57fc12c7f8a7af80.png"
+			},
+			"date": "2023-05-15T23:48:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>Call it Web Development 😉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375501762818417",
+			"parentId": 0,
+			"url": "https://ruby.social/@Kowfm/110375501695026393",
+			"author": {
+				"name": "Karl Oscar Weber",
+				"url": "https://ruby.social/@Kowfm",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/179/437/243/965/original/3149424c6c3b6da4.png"
+			},
+			"date": "2023-05-16T00:21:38.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m currently going through this exact issue my current client. It’s All React and styled components, difficult to change any thing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110375950750586289",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mikemai2awesome/110375950691820998",
+			"author": {
+				"name": "Mike-麥-Mai-v1.618 😎",
+				"url": "https://mastodon.social/@mikemai2awesome",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/255/717/578/777/original/c982163ed8b7f82a.png"
+			},
+			"date": "2023-05-16T02:15:49.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Future Funk</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110376204758260105",
+			"parentId": "110374882163425468",
+			"url": "https://hachyderm.io/@rusticola/110376204736050242",
+			"author": {
+				"name": "Rustie",
+				"url": "https://hachyderm.io/@rusticola",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/687/070/488/033/982/original/775f51f3cd789d8a.png"
+			},
+			"date": "2023-05-16T03:20:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> MinMax methodology. Minimum JS for what you are buildings. Learn to Maximise HTML and CSS for longer term reliability.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110376339821424844",
+			"parentId": "110375047050787695",
+			"url": "https://front-end.social/@elly/110376339781936907",
+			"author": {
+				"name": "Elly Loel",
+				"url": "https://front-end.social/@elly",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/446/932/953/258/362/original/1f113f0d3227c3fb.png"
+			},
+			"date": "2023-05-16T03:54:46.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriskirknielsen</span></a></span> Or if you're extra hip:<br>Oat Components<br>Almond Components<br>Soy Components</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110376582845811426",
+			"parentId": 0,
+			"url": "https://tech.lgbt/@catraxx/110376582809422921",
+			"author": {
+				"name": "catraxx :antifa:",
+				"url": "https://tech.lgbt/@catraxx",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/339/375/736/517/437/original/679c020edba1410b.png"
+			},
+			"date": "2023-05-16T04:56:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I keep saying this and it should be so easy to understand: CSS in JS means you are now tied to the framework. I still don't see the advantage either, it's two completely different things for me, they don't make sense together.</p><p>Anyway. Yes.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110376939728043420",
+			"parentId": "110374882163425468",
+			"url": "https://fosstodon.org/@dzajew/110376939710576975",
+			"private": true,
+			"date": "2023-05-16T06:27:20.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110376939802491376",
+			"parentId": "110374962172601621",
+			"url": "https://indieweb.social/@dmc/110376939771567867",
+			"author": {
+				"name": "David McCormick",
+				"url": "https://indieweb.social/@dmc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/120/362/328/540/original/7ddc9f83a1d2778b.png"
+			},
+			"date": "2023-05-16T06:27:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eeeps</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> UHTML</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110377238722356939",
+			"parentId": "110376339821424844",
+			"url": "https://toot.cafe/@oliverturner/110377238640779269",
+			"author": {
+				"name": "Oliver",
+				"url": "https://toot.cafe/@oliverturner",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/132/972/142/643/original/41dfcc1975e4e04a.jpeg"
+			},
+			"date": "2023-05-16T07:43:21.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@elly\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>elly</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@chriskirknielsen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriskirknielsen</span></a></span> hola Components</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110377263005215288",
+			"parentId": 0,
+			"url": "https://indieweb.social/@nachtfunke/110377262976016936",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-05-16T07:49:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I would love to. But how can we do that right now? How can we express components on a way that live natively on the web, as well as in spa flavored contexts?</p><p>Everything I can come up with breaks as soon as a component relies on internal state management.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110377378403635667",
+			"parentId": 0,
+			"url": "https://hci.social/@fasterandworse/110377378349081474",
+			"author": {
+				"name": "Stephen Farrugia",
+				"url": "https://hci.social/@fasterandworse",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/388/580/926/290/637/original/e055cbca44859f42.jpeg"
+			},
+			"date": "2023-05-16T08:18:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> bring back css specialists.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110377898629298604",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.social/@tripleman/110377898601905415",
+			"author": {
+				"name": "tripleman, a 🇨🇦 in 🇩🇪",
+				"url": "https://mastodon.social/@tripleman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/343/339/403/024/795/original/ed82790609264df5.jpeg"
+			},
+			"date": "2023-05-16T10:31:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ShelfLife</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110378751198341196",
+			"parentId": "110374882163425468",
+			"url": "https://mastodon.world/@exchgr/110378751169964361",
+			"author": {
+				"name": "elle mundy",
+				"url": "https://mastodon.world/@exchgr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/393/960/849/815/731/original/f7a4adecfdaf8c67.png"
+			},
+			"date": "2023-05-16T14:08:01.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://en.wikipedia.org/wiki/Progressive_enhancement\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Progress</span><span class=\"invisible\">ive_enhancement</span></a> 😎</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110378877478690674",
+			"parentId": "110374882163425468",
+			"url": "https://m.nintendojo.fr/@meduz/110378877446719210",
+			"author": {
+				"name": "meduz'",
+				"url": "https://m.nintendojo.fr/@meduz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/637/138/050/619/original/298755ab87304007.jpg"
+			},
+			"date": "2023-05-16T14:40:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My proposition for this: front-end development.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110380031293892921",
+			"parentId": "110376939802491376",
+			"url": "https://front-end.social/@AmeliaBR/110380031230536150",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2023-05-16T19:33:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@dmc\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dmc</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eeeps</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ⬆️ underrated comment</p><p>(for anyone who doesn't get it: <a href=\"https://en.wikipedia.org/wiki/Ultra-high-temperature_processing\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Ultra-hi</span><span class=\"invisible\">gh-temperature_processing</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110380464962873791",
+			"parentId": "110380031293892921",
+			"url": "https://front-end.social/@eeeps/110380464891684099",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-05-16T21:23:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@dmc\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dmc</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wow TIL!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110380486169367240",
+			"parentId": "110380464962873791",
+			"url": "https://front-end.social/@eeeps/110380486056089792",
+			"author": {
+				"name": "Eric Portis",
+				"url": "https://front-end.social/@eeeps",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/428/669/626/974/original/f87ff3e52bb789da.jpeg"
+			},
+			"date": "2023-05-16T21:29:13.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@dmc\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dmc</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> npm install a-web-component-with-no-dependencies</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110389210269787774",
+			"parentId": "110374882163425468",
+			"url": "https://icosahedron.website/@bitbear/110389210140432151",
+			"author": {
+				"name": "Asbjørn Ulsberg",
+				"url": "https://icosahedron.website/@bitbear",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/472/362/981/775/508/original/9610efd363c97890.png"
+			},
+			"date": "2023-05-18T10:27:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Coincidentally, <span class=\"h-card\"><a href=\"https://toot.cafe/@slightlyoff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>slightlyoff</span></a></span> recently linked to this blog post, which describes the method. As for a name? What about “Progressive Design System”?</p><p><a href=\"https://blog.almaer.com/building-a-modern-design-system-in-layers/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.almaer.com/building-a-mod</span><span class=\"invisible\">ern-design-system-in-layers/</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110390150847318455",
+			"parentId": 0,
+			"url": "https://attractive.space/@Setok/110390150742225578",
+			"author": {
+				"name": "Kristoffer Lawson",
+				"url": "https://attractive.space/@Setok",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/496/262/714/336/original/3d28c422a140a93f.jpeg"
+			},
+			"date": "2023-05-18T14:27:04.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@autiomaa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>autiomaa</span></a></span> I feel <a href=\"https://attractive.space/tags/Javascript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Javascript</span></a> frameworks often just don't fit into my way of thinking, forcing me to code in their style, rather than my preferred solution for the issue. In addition they become bloated with layers upon layers.</p><p>I built my own JS framework, <a href=\"https://attractive.space/tags/storkCore\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>storkCore</span></a>, to pretty much be the opposite of that. Slowly adding bits and pieces over the years.</p><p><a href=\"https://chiselapp.com/user/Setok/repository/storkCore/index\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chiselapp.com/user/Setok/repos</span><span class=\"invisible\">itory/storkCore/index</span></a></p><p>Though I guess you could see that it, too, has its own philosophy. It fits my thought model, though.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110418600900577807",
+			"parentId": "110377263005215288",
+			"url": "https://fediverse.zachleat.com/@zachleat/110418600900577807",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-23T15:02:19.719Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nachtfunke\" class=\"u-url mention\">@<span>nachtfunke</span></a></span> maybe come up with a way to use a generic adapter for state management?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110423241625243484",
+			"parentId": "110418600900577807",
+			"url": "https://indieweb.social/@nachtfunke/110423241590323770",
+			"author": {
+				"name": "Thomas Michael Semmler",
+				"url": "https://indieweb.social/@nachtfunke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+			},
+			"date": "2023-05-24T10:42:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that sounds great, though I feel like it has been possible for a long time - or no? Here's where its apparent that I am just not too JS proficient to know these things :/</p><p>I always thought though, that this topic is more about exploring why it hasn't been adapted by SPA flavours and Meta Framework companies who have a stake in lock-</p><p>oh, hm...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110424473920482230",
+			"parentId": "110423241625243484",
+			"url": "https://fediverse.zachleat.com/@zachleat/110424473920482230",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-05-24T15:55:54.890Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nachtfunke\" class=\"u-url mention\">@<span>nachtfunke</span></a></span> there is little incentive for framework authors to buy into this strategy, unfortunately 😬</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "110180753209656400",
+			"parentId": 0,
+			"url": "https://mastodon.social/@dutchcelt/110180753169697652",
+			"author": {
+				"name": "Egor Kloos",
+				"url": "https://mastodon.social/@dutchcelt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/499/993/073/139/original/eec62045874b1273.jpeg"
+			},
+			"date": "2023-04-11T14:54:31.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Finally, I might get a default Sitecore instance to play nice with a <a href=\"https://mastodon.social/tags/designsystem\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>designsystem</span></a> using its own \"component\" setup.<br><a href=\"https://codepen.io/dutchcelt/pen/YzOLprX\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/dutchcelt/pen/YzOLp</span><span class=\"invisible\">rX</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110180777992343272",
+			"parentId": "110180753209656400",
+			"url": "https://fediverse.zachleat.com/@zachleat/110180777992343272",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-04-11T15:00:50.131Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dutchcelt\" class=\"u-url mention\">@<span>dutchcelt</span></a></span> I haven’t used Sitecore but this sounds like a good thing!</p>",
+			"via": "fediverse"
+		}
+	]
+}
