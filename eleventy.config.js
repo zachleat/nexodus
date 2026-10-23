@@ -80,7 +80,7 @@ export default function(eleventyConfig) {
 
 	// Some fediverse imports store the post HTML as escaped Markdown text
 	eleventyConfig.addPreprocessor("fediverse-html", "md", (data, content) => {
-		if(data.metadata?.type !== "fediverse" || !content.trimStart().startsWith("\\<")) {
+		if(data.metadata?.type !== "fediverse" || !content.trimStart().startsWith("\\<p>")) {
 			return;
 		}
 		return content
