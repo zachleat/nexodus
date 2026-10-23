@@ -4,15 +4,15 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "import": "node import.js",
+    "import": "node --env-file-if-exists=.env import.js",
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve --quiet",
-    "production": "node import.js && npm run build"
+    "production": "npm run import && npm run build"
   },
   "license": "MIT",
-  "dependencies": {
-    "@11ty/eleventy": "^3.1.7",
+  "devDependencies": {
     "@11ty/import": "^3.0.0-beta.3",
+    "@11ty/eleventy": "4.0.0-alpha.10",
     "pagefind": "^1.5.2"
   }
 }
