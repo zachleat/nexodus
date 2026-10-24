@@ -1,6 +1,6 @@
 export default {
 	"tags": "fediverse",
-	"layout": "postlayout.njk",
+	"layout": "postlayout.vue",
 	"sectionTitle": "Fediverse",
 	"permalink": data => `/fediverse/${data.page.fileSlug}/`
 }

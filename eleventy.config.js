@@ -1,6 +1,7 @@
 import path from "node:path";
 import * as pagefind from "pagefind";
 import { HtmlBasePlugin } from "@11ty/eleventy";
+import eleventyVue from "@11ty/eleventy-plugin-vue";
 
 function cleanCustomEmoji(str) {
 	return str.replaceAll(/\:[^:]*\:/g, "").trim();
@@ -62,7 +63,15 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.ignores.add("README.md");
+	eleventyConfig.addPlugin(eleventyVue);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
+	// Vue templates can’t output a doctype
+	eleventyConfig.addTransform("doctype", function(content) {
+		if(this.page.outputPath?.endsWith(".html") && content.startsWith("<html")) {
+			return `<!doctype html>\n${content}`;
+		}
+		return content;
+	});
 	eleventyConfig.setServerOptions({ port: 8347 });
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
 	eleventyConfig.addFilter("readableDate", date => date.toLocaleString("en-US", {

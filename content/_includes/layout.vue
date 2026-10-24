@@ -1,3 +1,30 @@
+<template>
+	<html lang="en">
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>{{ fullTitle }}</title>
+			<style v-html="getBundle('css')"></style>
+			<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+			<script src="/pagefind/pagefind-ui.js" defer></script>
+			<script type="module" v-html="searchScript"></script>
+		</head>
+		<body>
+			<header class="site-header">
+				<div class="wrap">
+					<a href="/" class="site-title">{{ pageTitle }}</a>
+					<p class="site-tagline">Posts from Bluesky and the fediverse, kept in git.</p>
+					<div id="search" role="search"></div>
+				</div>
+			</header>
+			<main class="wrap" v-html="content"></main>
+			<footer class="site-footer wrap">
+				<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
+			</footer>
+		</body>
+	</html>
+</template>
+<style>
 :root {
 	color-scheme: light dark;
 	--bg: #f6f5f2;
@@ -198,3 +225,23 @@ body:has(#search .pagefind-ui__drawer:not(.pagefind-ui__hidden)) main { display:
 .post-content blockquote > p:last-child:not(:only-child) { font-size: .8rem; color: var(--muted); }
 .post-content blockquote > p:last-child:not(:only-child) a { color: inherit; }
 .post-content blockquote img { display: block; margin-top: .25rem; }
+</style>
+<script>
+export default {
+	data() {
+		return {
+			pageTitle: "Nexodus Archive",
+		};
+	},
+	computed: {
+		fullTitle() {
+			let { title } = this.$data;
+			return title ? `${title} — ${this.pageTitle}` : this.pageTitle;
+		},
+		searchScript() {
+			let options = { element: "#search", baseUrl: this.htmlBaseUrl("/"), showSubResults: false, showImages: false, resetStyles: false, openFilters: ["source"], pageSize: 20 };
+			return `window.addEventListener("DOMContentLoaded", () => { new PagefindUI(${JSON.stringify(options)}); });`;
+		},
+	},
+};
+</script>
