@@ -3,7 +3,7 @@
 		<div class="post-meta">
 			<a v-for="p in group.posts" :href="p.url" :class="['post-source', `post-source--${p.data.metadata.type}`]">{{ p.data.sectionTitle }}</a>
 			<a :href="post.url"><time :datetime="post.date.toISOString()" :title="readableDate(post.date)">{{ friendlyDate(post.date) }}</time></a>
-			<span v-if="replyParent">In reply to <a :href="replyParent.url">{{ replyParent.data.sectionTitle }} post from {{ friendlyDate(replyParent.date) }}</a></span>
+			<span v-if="replyParent">In reply to <a :href="replyParent.url">{{ replyParent.data.sectionTitle }} post</a></span>
 			<span class="post-counts">
 				<a v-if="replyCount" :href="`${post.url}#replies-title`" :title="plural(replyCount, 'reply', 'replies')"><i class="fa-regular fa-comment"></i> <span aria-hidden="true">{{ replyCount }}</span><span class="visually-hidden">{{ plural(replyCount, "reply", "replies") }}</span></a>
 				<template v-for="{ key, label, icon } in countLabels"><span v-if="counts[key]" :title="plural(counts[key], label)"><i :class="icon"></i> <span aria-hidden="true">{{ counts[key] }}</span><span class="visually-hidden">{{ plural(counts[key], label) }}</span></span></template>
