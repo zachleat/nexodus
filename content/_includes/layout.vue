@@ -16,17 +16,18 @@
 						<a href="/" class="site-title">{{ pageTitle }}</a>
 						<nav aria-label="Site"><a href="/popular/" :aria-current="page.url === '/popular/' ? 'page' : null">Popular</a></nav>
 					</div>
-					<p class="site-tagline">Posts from Bluesky and the fediverse, kept in git.</p>
+					<p class="site-tagline">A versioned archive of posts from Bluesky and Mastodon.</p>
 					<div v-if="siteStats" class="site-stats-wrap">
 						<table class="site-stats">
 							<thead>
-								<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Date range"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Date range</span></th></tr>
+								<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Since"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Since</span></th></tr>
 							</thead>
 							<tbody>
-								<tr v-for="{ key, label } in statSources" :class="`site-stats--${key}`">
-									<th scope="row">{{ label }}</th>
+								<tr v-for="{ key, label, icon } in statSources" :class="`site-stats--${key}`">
+									<th v-if="icon" scope="row" :title="label"><i :class="icon"></i><span class="visually-hidden">{{ label }}</span></th>
+									<th v-else scope="row">{{ label }}</th>
 									<td v-for="stat in statLabels">{{ siteStats[key][stat.key].toLocaleString("en-US") }}</td>
-									<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time> – <time :datetime="siteStats[key].newest.toISOString()">{{ shortDate(siteStats[key].newest) }}</time></td>
+									<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time></td>
 								</tr>
 							</tbody>
 						</table>
@@ -177,7 +178,7 @@ ol.feed { margin: 0; padding: 0; list-style: none; }
 #search .pagefind-ui__result-thumb { display: none; }
 #search .pagefind-ui__result-inner { margin: 0; }
 #search .pagefind-ui__result-title { margin: 0; font-size: .85rem; font-weight: 400; }
-#search .pagefind-ui__result-title::before { content: "Fediverse"; margin-right: 1rem; color: var(--accent); font-weight: 600; }
+#search .pagefind-ui__result-title::before { content: "Mastodon"; margin-right: 1rem; color: var(--accent); font-weight: 600; }
 #search .pagefind-ui__result:has(a[href*="/bluesky/"]) .pagefind-ui__result-title::before { content: "Bluesky"; }
 #search .pagefind-ui__result-link { color: var(--muted); }
 #search .pagefind-ui__result-link:hover { text-decoration: underline; }
@@ -275,8 +276,8 @@ export default {
 			pageTitle: "Nexodus Archive",
 			statSources: [
 				{ key: "total", label: "All" },
-				{ key: "bluesky", label: "Bluesky" },
-				{ key: "fediverse", label: "Fediverse" },
+				{ key: "bluesky", label: "Bluesky", icon: "fa-brands fa-bluesky" },
+				{ key: "fediverse", label: "Mastodon", icon: "fa-brands fa-mastodon" },
 			],
 			statLabels: [
 				{ key: "posts", label: "post", plural: "posts", icon: "fa-regular fa-message" },

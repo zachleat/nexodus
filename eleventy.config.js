@@ -104,9 +104,6 @@ export default function(eleventyConfig) {
 					if(!target.oldest || post.date < target.oldest) {
 						target.oldest = post.date;
 					}
-					if(!target.newest || post.date > target.newest) {
-						target.newest = post.date;
-					}
 				}
 				let counts = getCounts(posts);
 				for(let key in counts) {

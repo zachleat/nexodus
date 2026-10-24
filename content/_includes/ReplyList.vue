@@ -31,7 +31,7 @@ export default {
 	},
 	data() {
 		return {
-			sourceTitles: { bluesky: "Bluesky", fediverse: "Fediverse" },
+			sourceTitles: { bluesky: "Bluesky", fediverse: "Mastodon" },
 		};
 	},
 };
