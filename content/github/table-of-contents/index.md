@@ -1,0 +1,66 @@
+---
+title: table-of-contents
+authors:
+  - name: zachleat
+    url: https://github.com/zachleat
+    avatarUrl: 39355-BYqDKnzPAH8O.png
+date: 2026-09-15T01:28:10.000Z
+metadata:
+  name: zachleat/table-of-contents
+  language: HTML
+  license: MIT
+  homepage: https://zachleat.github.io/table-of-contents/demo.html
+  uuid: 11ty/import::github::zachleat/table-of-contents
+  type: github
+  url: https://github.com/zachleat/table-of-contents
+  importHash: ca717d4f66fa4d11
+---
+# `<table-of-contents>`
+
+A zero-dependency web component that progressively enhances (or optionally client renders) a table of contents from the headings on the page and highlights visible sections. This component includes no styles (all visuals are app-code controlled).
+
+## Installation
+
+```
+npm install @zachleat/table-of-contents
+```
+
+## Usage
+
+```
+<script type="module" src="table-of-contents.js"></script>
+
+<nav aria-labelledby="toc-title">
+	<table-of-contents>
+		<h2 id="toc-title">Table of Contents</h2>
+	</table-of-contents>
+</nav>
+```
+
+Child content is kept and the list is added after it. Wrap it in a labeled `<nav>` so assistive technology can find it. The element is hidden when no headings match.
+
+Entries for headings hidden by CSS (e.g. `display: none` on an ancestor) get the `hidden` attribute and update when visibility changes. The element is hidden when every heading is hidden.
+
+A child `<ol>` or `<ul>` (for example, server-rendered) is used instead of generating one, and its `#` links are highlighted for headings matching `selector`.
+
+Add `?nodefine` to skip auto-registration and define it yourself:
+
+```
+import { TableOfContents } from "./table-of-contents.js?nodefine";
+
+TableOfContents.define("my-toc");
+```
+
+`?nodefine` reads `import.meta.url`, so it only works with unbundled ES modules.
+
+## Attributes
+
+-   `selector`: headings to include (default `main :is(h2, h3, h4, h5, h6)`). Headings without an `id` are listed without a link.
+
+## Styling
+
+No styles are included. Links for sections in view get the `toc-in-view` class.
+
+# Changelog
+
+-   `v2.0.0` tracks display of heading elements (and hides links when display is toggled off)

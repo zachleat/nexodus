@@ -1,0 +1,133 @@
+---
+title: spider-pig
+description: Get a list of local URL links from a root URL.
+authors:
+  - name: zachleat
+    url: https://github.com/zachleat
+    avatarUrl: 39355-BYqDKnzPAH8O.png
+date: 2018-01-17T13:33:45.000Z
+metadata:
+  name: zachleat/spider-pig
+  language: JavaScript
+  license: MIT
+  uuid: 11ty/import::github::zachleat/spider-pig
+  type: github
+  url: https://github.com/zachleat/spider-pig
+  importHash: e6706cee9312a01b
+---
+![Homer Simpson holding the Spider Pig](spider-pig-eMfBPZOHDsvz.jpg)
+
+# spider-pig
+
+Get a list of local URL links from a root URL. Works with JavaScript generated content. Can also act as a live-DOM CSS search across multiple files (find all the templates that are using the CSS selector I want to change).
+
+```
+<a href="test.html">Test</a><!-- match -->
+<a href="test2.html">Test</a><!-- match -->
+<a href="test2.html">Duplicate Test</a><!-- do not match -->
+<a href="root.html">URL to self</a><!-- match -->
+<a href="mailto:test@example.com">Email link</a><!-- do not match -->
+<a href="http://www.google.com/">External</a><!-- do not match -->
+```
+
+Normalizes all of the matching URLs to be full absolute URLs (including host and protocol and path, etc).
+
+## Installation
+
+Available on [npm](https://www.npmjs.com/package/@zachleat/spider-pig).
+
+```
+npm install @zachleat/spider-pig
+```
+
+## Usage
+
+```
+$ spiderpig http://localhost:8080/
+http://localhost:8080/
+http://localhost:8080/about/
+http://localhost:8080/best-of/
+…
+```
+
+### Filter URLs
+
+```
+$ spiderpig http://localhost:8080/ --filter="/about/"
+http://localhost:8080/about/
+```
+
+### Show URLs that contain a CSS Selector
+
+Useful to see where CSS changes might regress on a project. This takes a bit of time. You can also mix in `--filter` here too.
+
+```
+$ spiderpig http://localhost:8080/ --selector=".header"
+Found 180 urls.
+Looking for urls with CSS selector ".header":
+http://localhost:8080/ ✅  Yes
+http://localhost:8080/about/ ✅  Yes
+http://localhost:8080/best-of/ ✅  Yes
+http://localhost:8080/projects/ ✅  Yes
+```
+
+#### Add a limit
+
+Use `--selectorlimit` to set an upper bound on the number of URLs that get spidered.
+
+```
+$ spiderpig http://localhost:8080/ --selector=".header" --selectorlimit=3
+Found 180 urls
+Looking for urls with CSS selector ".header" (limit 3):
+http://localhost:8080/ ✅  Yes
+http://localhost:8080/about/ ✅  Yes
+http://localhost:8080/best-of/ ✅  Yes
+…
+```
+
+### Debug mode
+
+```
+$ DEBUG=SpiderPig spiderpig http://localhost:8080/
+```
+
+### API
+
+#### Get URLs
+
+```
+const SpiderPig = require("@zachleat/spider-pig");
+
+(async function() {
+	let sp = new SpiderPig();
+	await sp.start();
+
+	let urls = await sp.fetchLocalUrls("http://localhost/myproject/");
+
+	// Optional, filter (case sensitive)
+	urls = sp.filterUrls(urls, "views");
+})();
+```
+
+#### Search for a selector
+
+```
+const SpiderPig = require("@zachleat/spider-pig");
+
+(async function() {
+	let sp = new SpiderPig();
+	let selector = ".test-css-selector:nth-child(2)";
+
+	await sp.start();
+
+	let urls = await sp.fetchLocalUrls("http://localhost/myproject/");
+
+	for(let url of urls) {
+		if( await sp.hasSelector(url, selector) ) {
+			// has it
+		} else {
+			// doesn’t have it
+		}
+	}
+})();
+```

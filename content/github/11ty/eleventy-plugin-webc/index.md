@@ -1,0 +1,64 @@
+---
+title: eleventy-plugin-webc
+description: Adds support for WebC *.webc files to Eleventy
+authors:
+  - name: 11ty
+    url: https://github.com/11ty
+    avatarUrl: 35147177-vF4d9OMhxrvg.png
+date: 2022-09-23T20:38:19.000Z
+metadata:
+  name: 11ty/eleventy-plugin-webc
+  language: JavaScript
+  homepage: https://www.11ty.dev/docs/languages/webc/
+  archived: true
+  tags:
+    - custom-elements
+    - eleventy
+    - web-components
+  uuid: 11ty/import::github::11ty/eleventy-plugin-webc
+  type: github
+  url: https://github.com/11ty/eleventy-plugin-webc
+  importHash: 47da9637deccc1d9
+tags:
+  - custom-elements
+  - eleventy
+  - web-components
+---
+> \[!IMPORTANT\] This repository is archived. The Eleventy WebC plugin now lives in [`11ty/plugin-template-languages`](https://github.com/11ty/plugin-template-languages), so please file plugin issues there. Issues with WebC itself go to [`11ty/webc`](https://github.com/11ty/webc).
+
+![11ty Logo](logo-github-gW5pow8pImUR.svg)
+
+# eleventy-plugin-webc 🕚⚡️🎈🐀
+
+Adds support for [WebC, the single file web component format](https://github.com/11ty/webc), to Eleventy.
+
+-   [This documentation has moved to 11ty.dev](https://www.11ty.dev/docs/languages/webc/).
+-   Watch the [crash course in Eleventy WebC on YouTube](https://www.youtube.com/watch?v=X-Bpjrkz-V8).
+-   Watch the [Interactive Components tutorial on YouTube](https://www.youtube.com/watch?v=p0wDUK0Z5Nw)
+
+[![npm Version](eleventy-plugin-webc-GOern6UN7fit.svg)](https://www.npmjs.com/package/@11ty/eleventy-plugin-webc)
+
+-   Star [Eleventy on GitHub](https://github.com/11ty/eleventy/)!
+-   Follow us on Twitter [@eleven\_ty](https://twitter.com/eleven_ty)
+-   Support [11ty on Open Collective](https://opencollective.com/11ty)
+-   Subscribe to our [YouTube channel](https://11ty.dev/youtube)
+
+## [Documentation](https://www.11ty.dev/docs/languages/webc/)
+
+This documentation has [moved to 11ty.dev](https://www.11ty.dev/docs/languages/webc/).
+
+## Features
+
+-   Brings first-class **components** to Eleventy.
+    -   Expand any HTML element (including custom elements) to HTML with defined conventions from web standards.
+    -   This means that Web Components created with WebC are compatible with server-side rendering (without duplicating author-written markup)
+    -   WebC components are [Progressive Enhancement friendly](https://www.youtube.com/watch?v=p0wDUK0Z5Nw).
+-   Get first-class **incremental builds** (for page templates, components, and Eleventy layouts) when [used with `--incremental`](https://www.11ty.dev/docs/usage/#incremental-for-partial-incremental-builds)
+-   Streaming friendly (stream on the Edge 👀)
+-   Easily scope component CSS (or use your own scoping utility).
+-   Tired of importing components? Use global or per-page no-import components.
+-   Shadow DOM friendly (works with or without Shadow DOM)
+-   All configuration extensions/hooks into WebC are async-friendly out of the box.
+-   Bundler mode: Easily roll up the CSS and JS in-use by WebC components on a page for page-specific bundles. Dirt-simple critical CSS/JS to only load the code you need.
+-   For more complex templating needs, render any existing Eleventy template syntax (Liquid, markdown, Nunjucks, etc.) inside of WebC.
+-   Works great with [is-land](https://www.11ty.dev/docs/plugins/partial-hydration/) for web component hydration.

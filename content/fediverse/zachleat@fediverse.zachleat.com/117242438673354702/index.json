@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "117242542073828118",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rest/117242541825075154",
+			"author": {
+				"name": "Troy",
+				"url": "https://fosstodon.org/@rest",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/326/253/198/897/685/original/86afdeb659581b1f.jpg"
+			},
+			"date": "2026-09-09T18:40:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> WHOA that was not intentional but I at least know what's going on and how I can address it. The woes of trying to make a progressively enhanced non-js fallback to my web component 😭 Thanks for the heads up! (And for everything you do)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117242675290645696",
+			"parentId": "117242542073828118",
+			"url": "https://fediverse.zachleat.com/@zachleat/117242675290645696",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-09-09T19:14:11.382Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rest\" class=\"u-url mention\">@<span>rest</span></a></span> no worries at all! we’ve all been there! 😅</p>",
+			"via": "fediverse"
+		}
+	]
+}

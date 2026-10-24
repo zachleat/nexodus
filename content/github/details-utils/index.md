@@ -1,0 +1,64 @@
+---
+title: details-utils
+description: A suite of utilities to add more features to the <details> element.
+authors:
+  - name: zachleat
+    url: https://github.com/zachleat
+    avatarUrl: 39355-BYqDKnzPAH8O.png
+date: 2022-01-28T23:05:04.000Z
+metadata:
+  name: zachleat/details-utils
+  language: HTML
+  license: MIT
+  homepage: https://zachleat.github.io/details-utils/demo.html
+  uuid: 11ty/import::github::zachleat/details-utils
+  type: github
+  url: https://github.com/zachleat/details-utils
+  importHash: cbc10c3f3e80febb
+---
+# `<details-utils>`
+
+-   [All Demos](https://zachleat.github.io/details-utils/demo.html)
+-   [Blog post on zachleat.com: Add Responsive-Friendly Enhancements to `<details>` with `<details-utils>`](https://www.zachleat.com/web/details-utils/)
+
+Related work elsewhere:
+
+-   [`spicy-sections`](https://github.com/tabvengers/spicy-sections)
+
+## Installation
+
+-   [Available on npm](https://www.npmjs.com/package/@zachleat/details-utils)
+
+```
+npm install @zachleat/details-utils
+```
+
+Add `details-utils.js` to your bundle.
+
+## Usage
+
+Wrap `<details-utils>` around one or more `<details>` elements to add enhancements to their behavior:
+
+-   Click outside to close (also bind an optional close button)
+-   Animate open and close (obeys `prefers-reduced-motion`)
+-   Force open/closed based on:
+    -   JavaScript
+    -   Media query
+        -   (e.g. viewport size, `prefers-reduced-motion`, even `prefers-reduced-data` if browsers ever support it 😅)
+        -   Optionally restores user state when media query does not match (use `force-restore` attribute)
+-   Close via `esc` Key
+    -   With optional Media query.
+-   Toggle Document Class (toggles a class on `<html>` when active, useful for modals to disable document overflow)
+
+## Changelog
+
+### v3.0.0
+
+-   [GitHub Milestone](https://github.com/zachleat/details-utils/milestone/1?closed=1)
+-   Browser support updated (Baseline 2020): using [matchMedia.addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/MediaQueryListEvent) — thanks @Zearin and @dleatherman!
+
+### v2.0.0
+
+-   Renamed attribute `force-closed` to `force-close`
+-   Added `force-open` to complement `force-close`
+-   Added `force-restore` to be used with `force-open` and `force-close` (restores state when media query does not match).

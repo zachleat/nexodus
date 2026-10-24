@@ -9,7 +9,9 @@
 				<template v-for="{ key, label, icon } in countLabels"><span v-if="counts[key]" :title="plural(counts[key], label)"><i :class="icon"></i> <span aria-hidden="true">{{ counts[key] }}</span><span class="visually-hidden">{{ plural(counts[key], label) }}</span></span></template>
 			</span>
 		</div>
-		<div class="post-content" :data-pagefind-body="indexBody ? '' : null" v-html="postContent || post.content"></div>
+		<h2 v-if="post.data.showTitle" class="post-title"><a :href="post.url">{{ post.data.title }}</a></h2>
+		<img v-if="post.data.metadata.media?.featuredImage" :src="post.data.metadata.media.featuredImage" class="post-image" alt="" loading="lazy" decoding="async">
+		<div class="post-content" :data-pagefind-body="indexBody ? '' : null" v-html="resolveAssets(postContent || post.content, post)"></div>
 		<div class="post-footer">
 			<span class="post-author">
 				<img v-if="avatarUrl" :src="avatarUrl" class="post-avatar" width="24" height="24" alt="" loading="lazy" decoding="async">

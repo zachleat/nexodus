@@ -25,6 +25,8 @@ jobs:
       - run: npm run import
         env:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          CODEPEN_API_KEY: ${{ secrets.CODEPEN_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - id: commit
         run: |
           git add -- content

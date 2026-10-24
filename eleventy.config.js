@@ -1,9 +1,10 @@
+import fs from "node:fs";
 import path from "node:path";
 import * as pagefind from "pagefind";
 import { HtmlBasePlugin } from "@11ty/eleventy";
 import eleventyVue from "@11ty/eleventy-plugin-vue";
 import fontAwesomePlugin from "@11ty/font-awesome";
-import { getComments, getCounts } from "./content/_includes/replies.js";
+import { getComments, getCounts, resolveAssetUrl } from "./content/_includes/replies.js";
 
 function cleanCustomEmoji(str) {
 	return str.replaceAll(/\:[^:]*\:/g, "").trim();
@@ -96,8 +97,8 @@ export default function(eleventyConfig) {
 	let statsByGroups = new WeakMap();
 	eleventyConfig.addFilter("getSiteStats", groups => {
 		if(!statsByGroups.has(groups)) {
-			let empty = () => ({ posts: 0, replies: 0, likes: 0, reposts: 0, quotes: 0 });
-			let stats = { total: empty(), bluesky: empty(), fediverse: empty() };
+			let empty = () => ({ posts: 0, replies: 0, likes: 0, reposts: 0, quotes: 0, views: 0 });
+			let stats = { total: empty() };
 			let add = (target, posts) => {
 				target.replies += getComments(posts).length;
 				for(let post of posts) {
@@ -107,14 +108,15 @@ export default function(eleventyConfig) {
 				}
 				let counts = getCounts(posts);
 				for(let key in counts) {
-					target[key] += counts[key];
+					// GitHub stars count as likes
+					target[key === "stars" ? "likes" : key] += counts[key];
 				}
 			};
 			for(let group of groups) {
 				stats.total.posts++;
 				add(stats.total, group.posts);
 				for(let post of group.posts) {
-					let source = stats[post.data.metadata.type];
+					let source = stats[post.data.metadata.type] ??= empty();
 					source.posts++;
 					add(source, [post]);
 				}
@@ -125,7 +127,10 @@ export default function(eleventyConfig) {
 	});
 	// Groups with the most likes, reposts, quotes, and replies
 	eleventyConfig.addFilter("getPopularGroups", (groups, limit) => {
-		let score = group => Object.values(getCounts(group.posts)).reduce((a, b) => a + b, 0) + getComments(group.posts).length;
+		let score = group => {
+			let { likes, reposts, quotes } = getCounts(group.posts);
+			return likes + reposts + quotes + getComments(group.posts).length;
+		};
 		return groups.map(group => ({ group, score: score(group) })).sort((a, b) => b.score - a.score).slice(0, limit).map(({ group }) => group);
 	});
 	// Archived posts that are top-level comments on another archived post (e.g. self-reply threads)
@@ -140,7 +145,7 @@ export default function(eleventyConfig) {
 	let avatarsByUrl = new WeakMap();
 	eleventyConfig.addFilter("getAvatarUrl", (items, url) => {
 		if(!avatarsByUrl.has(items)) {
-			avatarsByUrl.set(items, new Map(items.flatMap(item => (item.data.comments || []).filter(comment => comment.author?.avatarUrl).map(comment => [comment.author.url, comment.author.avatarUrl]))));
+			avatarsByUrl.set(items, new Map(items.flatMap(item => (item.data.comments || []).filter(comment => comment.author?.avatarUrl).map(comment => [comment.author.url, resolveAssetUrl(comment.author.avatarUrl, item.url)]))));
 		}
 		return avatarsByUrl.get(items).get(url);
 	});
@@ -210,8 +215,32 @@ export default function(eleventyConfig) {
 			.replaceAll(/(<\/p>)\s*(?=!\[)/g, "$1\n\n");
 	});
 
-	eleventyConfig.addPassthroughCopy({
-		"content/*/assets/*": "assets/"
+	// Imported assets live next to each post’s index.md
+	let colocatedAssets = new Map();
+	let getColocatedAssets = inputPath => {
+		let dir = path.dirname(inputPath);
+		if(!colocatedAssets.has(dir)) {
+			colocatedAssets.set(dir, fs.readdirSync(dir).filter(name => !/\.(md|json)$/.test(name) && !name.startsWith(".")));
+		}
+		return colocatedAssets.get(dir);
+	};
+	eleventyConfig.on("eleventy.beforeWatch", () => colocatedAssets.clear());
+
+	// Post HTML is also shown on listing pages, so relative asset URLs need the post URL
+	eleventyConfig.addFilter("resolveAssets", (html, post) => {
+		let names = new Set(getColocatedAssets(post.inputPath));
+		return html?.replace(/(\s(?:src|href|poster)=")([^"/:#]+)"/g, (match, attr, name) => names.has(name) ? `${attr}${resolveAssetUrl(name, post.url)}"` : match);
+	});
+
+	eleventyConfig.on("eleventy.after", async ({ results }) => {
+		for(let { inputPath, outputPath } of results) {
+			if(path.basename(inputPath) !== "index.md" || !outputPath) {
+				continue;
+			}
+			for(let name of getColocatedAssets(inputPath)) {
+				await fs.promises.cp(path.join(path.dirname(inputPath), name), path.join(path.dirname(outputPath), name), { recursive: true });
+			}
+		}
 	});
 
 }

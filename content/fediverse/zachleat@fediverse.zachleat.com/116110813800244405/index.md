@@ -1,0 +1,16 @@
+---
+title: February 21, 2026 at 9:46:55 PM UTC
+authors:
+  - name: Zach Leatherman
+    url: https://fediverse.zachleat.com/@zachleat
+date: 2026-02-21T21:46:55.652Z
+metadata:
+  slug: '116110813800244405'
+  uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116110813800244405
+  type: fediverse
+  url: https://fediverse.zachleat.com/@zachleat/116110813800244405
+  importHash: 2793f1e630a6d25a
+---
+Spent the morning packing whistles into information kits with some great folks! ☀️🧊
+
+![A zine with the title: Form a Crowd, Stay Loud!](a2eac3f857b134fd-yijClWbtqNcl.jpeg) ![A variety of information sheets laid out on a table, some in Spanish and some in English](0eed38914fd04652-HdlyX9irkq8g.jpeg)

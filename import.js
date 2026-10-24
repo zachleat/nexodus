@@ -7,8 +7,7 @@ async function runImport(type, target, output) {
 	importer.setVerbose(true);
 	importer.setSafeMode(!process.argv.includes("--overwrite"));
 	importer.setDraftsFolder("drafts");
-	importer.setAssetsFolder("assets");
-	importer.setAssetReferenceType("absolute");
+	importer.setAssetReferenceType("colocate");
 	importer.setOverwriteAllow();
 	importer.addSource(type, target);
 
@@ -19,3 +18,13 @@ async function runImport(type, target, output) {
 
 await runImport("bluesky", "@zachleat.com", "content/bluesky");
 await runImport("fediverse", "zachleat@fediverse.zachleat.com", "content/fediverse");
+await runImport("github", "zachleat", "content/github");
+// Subfolder avoids repo name collisions with zachleat/*
+await runImport("github", "11ty", "content/github/11ty");
+await runImport("npm", "zachleat", "content/npm");
+await runImport("youtubeuser", "UCMlSs0Ltg57qpYdFwUVLR2A", "content/youtube");
+await runImport("letterboxd", "zachleat", "content/letterboxd");
+
+if(process.env.CODEPEN_API_KEY) {
+	await runImport("codepen", "zachleat", "content/codepen");
+}
