@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvve4jzkgs2v
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lvve4jzkgs2v
-  importHash: a436940cb7b81849
+  importHash: 1ac1c4318aa8112f
 ---
 it is with no regrets that I must inform you that my entire personality is now [@simplebits.com](https://bsky.app/profile/did:plc:arjci2g6surkcucdpqxa5mjp) merch
 
 [simplebits.shop/collections/...](https://simplebits.shop/collections/goods)
-
-[Goods](https://simplebits.shop/collections/goods)  
-A tiny design studio, type foundry, and goods shop that makes letters and numbers (and goods with those letters and numbers on them). Founded by Dan Cederholm.

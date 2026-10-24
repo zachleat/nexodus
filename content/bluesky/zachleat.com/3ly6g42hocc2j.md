@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ly6g42hocc2j
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3ly6g42hocc2j
-  importHash: 3ab7d48baa3b1ea2
+  importHash: 7f93998d4fd2abf1
 ---
 Added a historical record of almost all of the domain names I’ve purchased, just for funsies
 
 [www.zachleat.com/domains/](https://www.zachleat.com/domains/)
-
-[I Can Stop Buying Domains Any Time I Want—zachleat.com](https://www.zachleat.com/domains/)  
-A post by Zach Leatherman (zachleat)

@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnnmljdkg22q
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lnnmljdkg22q
-  importHash: 7a5b58c43490586f
+  importHash: ebeb09d94c56f223
 ---
 This is not an easy thing to market but I do think (and sorry for the promotion of making this comparison) [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2) and the Slate Truck share a lot of the same design values: [www.theverge.com/electric-car...](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
-
-[Slate Truck is a $20,000 American-made electric pickup with no paint, no stereo, and no touchscreen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)  
-Would you buy a truck this bare-bones?

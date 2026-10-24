@@ -65,5 +65,10 @@
 			"content": "<p>await pinkyPromise()<br>\n  .then(closeDeal)<br>\n  .catch(liar)</p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 9,
+		"comments": 1,
+		"via": "bluesky"
+	}
 }

@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mttrfumb622f
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mttrfumb622f
-  importHash: 848789a2977ffddd
+  importHash: 7ffe008c3bd5fed5
 ---
 One more fun bit here: speedlify measures speedlify (and measured it before and after the move to speedlify2!)
 
 [www.speedlify.dev/site/www-spe...](https://www.speedlify.dev/site/www-speedlify-dev/)
-
-[speedlify.dev · speedlify2](https://www.speedlify.dev/site/www-speedlify-dev/)  
-Lighthouse lab metrics and Chrome UX Report field data for a list of sites, recorded on every run and compared over time.

@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lonzjlk3mk2q
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lonzjlk3mk2q
-  importHash: d93d2fe140bdbfed
+  importHash: 22c18d49a3cb847f
 ---
 just used [rainglow.zachleat.dev](https://rainglow.zachleat.dev/) this morning — there’s something warm about old demo projects dealing with colors
-
-[#3b5f3b on Rainglow](https://rainglow.zachleat.dev/)  
-Rainglow is a web site for colors.

@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtvwstg4y22t
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mtvwstg4y22t
-  importHash: fcf5671ef7f7c156
+  importHash: 7c6df58a2b099603
 ---
 anyway it should be interesting to see this category fill in with data today [www.speedlify.dev/group/builde...](https://www.speedlify.dev/group/builders/)
-
-[Website Builders · speedlify2](https://www.speedlify.dev/group/builders/)  
-Lighthouse lab metrics and Chrome UX Report field data for a list of sites, recorded on every run and compared over time.

@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kemv62olxn2x
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kemv62olxn2x
-  importHash: 8e4cf1ca287dd684
+  importHash: 0e13a31ed1528b88
 ---
 ✉️ New post:
 
 An Attempted Taxonomy of Web Components
 
 [www.zachleat.com/web/a-taxono...](https://www.zachleat.com/web/a-taxonomy-of-web-component-types/)
-
-[An Attempted Taxonomy of Web Components—zachleat.com](https://www.zachleat.com/web/a-taxonomy-of-web-component-types/)  
-A post by Zach Leatherman (zachleat)

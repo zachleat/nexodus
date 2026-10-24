@@ -117,5 +117,12 @@
 			"content": "<p>Another follow-up: the <a href=\"https://socket.dev\">socket.dev</a> folks fixed this on their end almost immediately but this has now also been fixed upstream in `grype` too: <a href=\"https://github.com/anchore/grype/issues/1701\">github.com/anchore/gryp...</a></p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 9,
+		"reposts": 1,
+		"comments": 3,
+		"quotes": 1,
+		"via": "bluesky"
+	}
 }

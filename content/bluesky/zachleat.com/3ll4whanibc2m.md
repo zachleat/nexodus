@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4whanibc2m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3ll4whanibc2m
-  importHash: efcd92175cbf528f
+  importHash: 2b46dca5a92237b6
 ---
 Update: looks like a huge flaw somewhere in the vulnerability scanner code being used by these tools (it doesn’t support namespaced packages)
 
@@ -17,6 +17,3 @@ More info:
 \- [github.com/jridgewell/g...](https://github.com/jridgewell/gen-mapping/issues/12)  
 \- [github.com/anchore/gryp...](https://github.com/anchore/grype/issues/1701)  
 \- It’s referencing this report from 2022 [github.com/advisories/G...](https://github.com/advisories/GHSA-8rmg-jf7p-4p22)
-
-[gen-mapping flagged as malware · Issue #12 · jridgewell/gen-mapping](https://github.com/jridgewell/gen-mapping/issues/12)  
-Hey @jridgewell, our build broke recently because of github is flagging your project as malware. I hope this is a false positive :) GHSA-8rmg-jf7p-4p22 Could you dispute it? There are apparently ot...

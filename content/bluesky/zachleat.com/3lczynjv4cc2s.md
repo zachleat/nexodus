@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lczynjv4cc2s
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lczynjv4cc2s
-  importHash: 16a3345566bb76b8
+  importHash: 5a89a94e35e56dda
 ---
 Another great resource on trailing slashes from [@bluwy.me](https://bsky.app/profile/did:plc:c2h6rslhnfcr566dzyzyzcvx) which continues to be one of the hardest problems in computer science: [bjornlu.com/blog/trailin...](https://bjornlu.com/blog/trailing-slash-for-frameworks)
-
-[Trailing Slash for Frameworks - Bjorn Lu](https://bjornlu.com/blog/trailing-slash-for-frameworks)  
-It turns out that putting a / at the end of a URL can be a big deal. Should you put it? Or should you not? Or should you simply make both...

@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kmxplnrkua2m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kmxplnrkua2m
-  importHash: f87c9ba35eed6550
+  importHash: 7e57981d5ef5cf4a
 ---
 One human earth week (March 12) until INP becomes a Core Web Vital—with big implications to the JS-heavy React-ecosystem.
 
 Folks hiding bad lab data (Lighthouse) behind field data (Core Web Vitals) are right to be nervous about this! Core Web Vitals affect your Google rank 👀
 
 [web.dev/blog/inp-cwv...](https://web.dev/blog/inp-cwv-march-12)
-
-[Interaction to Next Paint becomes a Core Web Vital on March 12  |  Blog  |  web.dev](https://web.dev/blog/inp-cwv-march-12)  
-Interaction to Next Paint will officially become a Core Web Vital and will replace First Input Delay on March 12

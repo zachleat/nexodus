@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mdijyjxcuc2n
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mdijyjxcuc2n
-  importHash: 8a60410dd71520a3
+  importHash: 7693f802e310ed11
 ---
 JavaScript’s \`using\` variable declaration is \*almost\* ready for primetime.
 
@@ -17,6 +17,3 @@ JavaScript’s \`using\` variable declaration is \*almost\* ready for primetime.
 ❌ Not yet in Safari 🥹
 
 [developer.mozilla.org/en-US/docs/W...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/using)
-
-[using - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/using)  
-The using declaration declares block-scoped local variables that are synchronously disposed. Like const, variables declared with using must be initialized and cannot be reassigned. The variable's valu...

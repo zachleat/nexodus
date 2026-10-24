@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mg4ai3zojk2g
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mg4ai3zojk2g
-  importHash: a7f749edbf87d9e7
+  importHash: 3081826f1ada4509
 ---
 it would be an understatement to say that tomorrow will be a very big day
 
 [www.kickstarter.com/projects/fon...](https://www.kickstarter.com/projects/fontawesome/build-awesome)
-
-[Coming soon: Build Awesome](https://www.kickstarter.com/projects/fontawesome/build-awesome)  
-Own your content, grow your audience, and build a better web!

@@ -27,27 +27,6 @@
 			"via": "bluesky"
 		},
 		{
-			"id": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mebtz2fvyk2r",
-			"parentId": "at://did:plc:ga3wlji66r5mxqch6wh7nq4v/app.bsky.feed.post/3mebtu5iqb22x",
-			"url": "https://bsky.app/profile/toddl.dev/post/3mebtz2fvyk2r",
-			"private": true,
-			"date": "2026-02-07T16:35:23.011Z",
-			"via": "bluesky"
-		},
-		{
-			"id": "at://did:plc:ga3wlji66r5mxqch6wh7nq4v/app.bsky.feed.post/3mebu5kgmj22x",
-			"parentId": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mebtz2fvyk2r",
-			"url": "https://bsky.app/profile/jason.energy/post/3mebu5kgmj22x",
-			"author": {
-				"name": "Jason Lengstorf",
-				"url": "https://bsky.app/profile/jason.energy",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga3wlji66r5mxqch6wh7nq4v/bafkreifw2utfrhh3soeve57nfezabwmqc4uexw2cyinritr26acn5dgkrq"
-			},
-			"date": "2026-02-07T16:37:54.029Z",
-			"content": "<p>opening Bluesky today was a mistake</p>",
-			"via": "bluesky"
-		},
-		{
 			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mecpwyxfj22d",
 			"parentId": "at://did:plc:ga3wlji66r5mxqch6wh7nq4v/app.bsky.feed.post/3mebtu5iqb22x",
 			"url": "https://bsky.app/profile/zachleat.com/post/3mecpwyxfj22d",
@@ -60,5 +39,10 @@
 			"content": "<p>oh… yeah, totally… I was just making sure no one did it, like, proactively</p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 11,
+		"comments": 2,
+		"via": "bluesky"
+	}
 }

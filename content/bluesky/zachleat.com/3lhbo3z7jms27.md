@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhbo3z7jms27
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lhbo3z7jms27
-  importHash: 961f55ee62b3943f
+  importHash: 6a7cdc916fad0317
 ---
 I was tagged in the Blog Questions 2025 Challenge by Anders Thoresson!
 
 [www.zachleat.com/web/blogging/](https://www.zachleat.com/web/blogging/)
-
-[Blog Questions Challenge 2025—zachleat.com](https://www.zachleat.com/web/blogging/)  
-A post by Zach Leatherman (zachleat)

@@ -70,7 +70,7 @@
 			"parentId": 0,
 			"url": "https://bsky.app/profile/jeroen.wtf/post/3mgseovwrs22o",
 			"author": {
-				"name": "Jeroen ✦ 167→",
+				"name": "Jeroen ✦ 104→",
 				"url": "https://bsky.app/profile/jeroen.wtf",
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzqjeysuvjsg7hsttruz2j47/bafkreihdl2p6ajjmj2vyvkkdiqjujd2upcymzku4rgjzhdfn5ubmsvvahm"
 			},
@@ -203,5 +203,11 @@
 			"content": "<p>\"I totally understand your frustration! I've built a local scanner that maps these unwanted exposure points without sending any telemetry, giving you control over your digital footprint.\"</p>\n<p>https://www.tradeapollo.co/demo</p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 54,
+		"reposts": 5,
+		"comments": 8,
+		"via": "bluesky"
+	}
 }

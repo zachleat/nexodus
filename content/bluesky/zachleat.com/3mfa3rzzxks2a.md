@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mfa3rzzxks2a
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mfa3rzzxks2a
-  importHash: ece3784de547a79a
+  importHash: 36f98c8b60b9d52f
 ---
 for the official record, with Sam Stephenson’s contribution — we’ve fully resolved this matter over on Mastodon: [indieweb.social/@sstephenson...](https://indieweb.social/@sstephenson/116098273597530810)
-
-[Sam Stephenson (@sstephenson@indieweb.social)](https://indieweb.social/@sstephenson/116098273597530810)  
-Attached: 1 image @zachleat@zachleat.com

@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcfyk76g5c2f
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lcfyk76g5c2f
-  importHash: e030332466036256
+  importHash: aaf08ff1758550f9
 ---
 For folks in the northern hemisphere, it’s \<snow-fall> season: [www.zachleat.com/web/snow-fall/](https://www.zachleat.com/web/snow-fall/)
-
-[snow-fall Web Component—zachleat.com](https://www.zachleat.com/web/snow-fall/)  
-A post by Zach Leatherman (zachleat)

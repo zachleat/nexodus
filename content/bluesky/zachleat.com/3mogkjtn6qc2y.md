@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mogkjtn6qc2y
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mogkjtn6qc2y
-  importHash: 69ba9d6477e66658
+  importHash: 85d5d4233d13a8c9
 ---
 The big ol’ pull request for Build Awesome (Eleventy): [github.com/11ty/elevent...](https://github.com/11ty/eleventy/pull/4294)
 
 Full compatibility with Eleventy and @11ty/eleventy! Shipping soon to a canary channel near you.
-
-[The big ol’ Build Awesome Internals Pull Request by zachleat · Pull Request #4294 · 11ty/eleventy](https://github.com/11ty/eleventy/pull/4294)  
-The GitHub repository will move from github.com/11ty/eleventy to github.com/11ty/buildawesome (redirects will work) No breaking changes. No Eleventy functionality has been removed! Adds support for...

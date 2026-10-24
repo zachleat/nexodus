@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kktqhhju4h2n
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kktqhhju4h2n
-  importHash: 33d3221e138e4ff3
+  importHash: 7213544d015a7fed
 ---
 📮 New post:
 
@@ -18,6 +18,3 @@ Lessons learned moving Eleventy ([@11ty.dev](https://bsky.app/profile/did:plc:i3
 [www.zachleat.com/web/eleventy...](https://www.zachleat.com/web/eleventy-v3-esm/)
 
 New talk video and slides from CFE’s TheJamDev event.
-
-[Lessons learned moving Eleventy from CommonJS to ESM—zachleat.com](https://www.zachleat.com/web/eleventy-v3-esm/)  
-A post by Zach Leatherman (zachleat)

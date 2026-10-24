@@ -39,5 +39,11 @@
 			"content": "<p>LLMs are deterministic. If you use one from the API or selfhost, turning the temperature to 0 yields the exact same response to the same prompt, forever</p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 60,
+		"reposts": 8,
+		"comments": 2,
+		"via": "bluesky"
+	}
 }

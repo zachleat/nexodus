@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kge7n5tgkn27
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kge7n5tgkn27
-  importHash: 9a161d3e0af58227
+  importHash: cb195e81f9f9cc82
 ---
 📮 One YouTube Embed weighs almost 1.2 MB
 
 [www.zachleat.com/web/youtube-...](https://www.zachleat.com/web/youtube-embeds/)
-
-[One YouTube Embed weighs almost 1.2 MB—zachleat.com](https://www.zachleat.com/web/youtube-embeds/)  
-A post by Zach Leatherman (zachleat)

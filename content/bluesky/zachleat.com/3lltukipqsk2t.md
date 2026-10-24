@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lltukipqsk2t
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lltukipqsk2t
-  importHash: 3a9482bb6c9b7cb0
+  importHash: 3a9f6abd79acbe14
 ---
 Something exciting is happening live now on [fontawesome.com](https://fontawesome.com/)!
-
-[Font Awesome](https://fontawesome.com/)  
-The internet's icon library + toolkit. Used by millions of designers, devs, & content creators. Open-source. Always free. Always awesome.

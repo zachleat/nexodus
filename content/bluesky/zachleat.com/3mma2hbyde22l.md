@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mma2hbyde22l
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mma2hbyde22l
-  importHash: 056f1bb85c8a5dd1
+  importHash: 83ba8fe65ce2f808
 ---
 Prompt API is Baseline Widely Available: [developer.mozilla.org/en-US/docs/W...](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
-
-[Window: prompt() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)  
-window.prompt() instructs the browser to display a dialog with an optional message prompting the user to input some text, and to wait until the user either submits the text or cancels the dialog.

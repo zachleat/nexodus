@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3md3yp2yltc2y
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3md3yp2yltc2y
-  importHash: 5e6f6f05d9ad3152
+  importHash: 818b55dfca61239d
 ---
 “I’m glad most of my projects don’t need any backend beyond static file hosting, as that significantly limits attack surface and maintenance pressure.” 🏆
 
 Having a web site shouldn’t require an ops team to monitor/update — static is a lovely alternative to complexity.
 
 [amxmln.com/blog/2026/th...](https://amxmln.com/blog/2026/that-time-i-got-hacked/)
-
-[That Time I got Hacked | Amadeus Maximilian](https://amxmln.com/blog/2026/that-time-i-got-hacked/)  
-Someone managed to get into one of my remote hosts. This delves into what I think happened, and what I took away from it to avoid similar situations in the future.

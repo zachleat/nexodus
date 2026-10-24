@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvlcgtdeps2c
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lvlcgtdeps2c
-  importHash: 180431747a8cddfb
+  importHash: e2f5bb04b5e01f17
 ---
 One weird trick to reduce [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2) Image Build Times by 60%
 
 [www.zachleat.com/web/faster-b...](https://www.zachleat.com/web/faster-builds-with-eleventy-img/)
-
-[One weird trick to reduce Eleventy Image Build Times by 60%—zachleat.com](https://www.zachleat.com/web/faster-builds-with-eleventy-img/)  
-A post by Zach Leatherman (zachleat)

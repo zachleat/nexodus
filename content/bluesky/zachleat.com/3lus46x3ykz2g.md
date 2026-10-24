@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lus46x3ykz2g
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lus46x3ykz2g
-  importHash: 5fefed846f0fff7c
+  importHash: 1a6fc4f6de442945
 ---
 Never write your own Date Parsing Library (I wrote my own Date Parsing Library)
 
 [www.zachleat.com/web/adventur...](https://www.zachleat.com/web/adventures-in-date-parsing/)
-
-[Never write your own Date Parsing Library—zachleat.com](https://www.zachleat.com/web/adventures-in-date-parsing/)  
-A post by Zach Leatherman (zachleat)

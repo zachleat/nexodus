@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lfg5vgn3nc26
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lfg5vgn3nc26
-  importHash: 4a03c8b3dd712450
+  importHash: 1d25d059e798c967
 ---
 it was this PR — some avatar image optimization tech debt with origins in the long, long ago [github.com/11ty/11ty-we...](https://github.com/11ty/11ty-website/pull/1763)
-
-[Removes Twitter and OpenCollective images from repo by zachleat · Pull Request #1763 · 11ty/11ty-website](https://github.com/11ty/11ty-website/pull/1763)  
-No more avatars in git! Fixes 11ty/11ty-community#241

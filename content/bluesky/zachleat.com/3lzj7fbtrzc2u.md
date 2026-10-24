@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lzj7fbtrzc2u
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lzj7fbtrzc2u
-  importHash: 3f0a9bcaf44b9dd7
+  importHash: 07f0be29bfb19372
 ---
 Really appreciate that steps are being taken here.
 
 [github.blog/security/sup...](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/)
-
-[Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/)  
-GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced trusted publishing.

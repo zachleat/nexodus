@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgw3tfwont2z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kgw3tfwont2z
-  importHash: 2b821987c3200ed3
+  importHash: c9bda43c87cffc9f
 ---
 📮 New on the blog:
 
 Netlify’s Disingenuous Survey-based Attack on Next.js (and Eleventy, too)
 
 [www.zachleat.com/web/netlify-...](https://www.zachleat.com/web/netlify-and-nextjs/)
-
-[Netlify’s Disingenuous Survey-based Attack on Next.js (and Eleventy, too)—zachleat.com](https://www.zachleat.com/web/netlify-and-nextjs/)  
-A post by Zach Leatherman (zachleat)

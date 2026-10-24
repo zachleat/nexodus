@@ -9,12 +9,9 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kblj6qsech26
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kblj6qsech26
-  importHash: c8f398b9f24af649
+  importHash: d0764297a7147957
 ---
 A Left That Refuses to Condemn Mass Murder Is Doomed:  
 [nymag.com/intelligence...](https://nymag.com/intelligencer/2023/10/a-left-that-refuses-to-condemn-mass-murder-is-doomed.html)
 
 (via [@joel.in](https://bsky.app/profile/did:plc:lxtoepdhl4gmc24lqf52xdzi))
-
-[A Left That Refuses to Condemn Mass Murder Is Doomed](https://nymag.com/intelligencer/2023/10/a-left-that-refuses-to-condemn-mass-murder-is-doomed.html)  
-To advocate effectively on behalf of Palestinians, progressives must not forfeit their moral authority.

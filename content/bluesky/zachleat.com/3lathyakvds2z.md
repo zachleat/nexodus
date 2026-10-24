@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lathyakvds2z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lathyakvds2z
-  importHash: 21b7665af2e9c6d2
+  importHash: 978a96988fcd9bcb
 ---
 (proper credit to [@darn.es](https://bsky.app/profile/did:plc:7bb34ozcdu5lm3ogte3gq433) who did this one first: [mastodon.design/@DavidDarnes...](https://mastodon.design/@DavidDarnes/113324399142213154))
-
-[Dave 🧱 :cursor\_pointer: (@DavidDarnes@mastodon.design)](https://mastodon.design/@DavidDarnes/113324399142213154)  
-/wp-discontent/

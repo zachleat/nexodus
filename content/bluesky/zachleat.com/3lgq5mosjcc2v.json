@@ -325,5 +325,11 @@
 			"content": "<p>Cc/ <a href=\"https://bsky.app/profile/did:plc:yvvkhbyhl2d6fk6iyzwpsufp\">@unocss.dev</a></p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 42,
+		"comments": 7,
+		"quotes": 1,
+		"via": "bluesky"
+	}
 }

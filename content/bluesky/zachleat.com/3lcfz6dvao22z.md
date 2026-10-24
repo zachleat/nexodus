@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcfz6dvao22z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lcfz6dvao22z
-  importHash: 4ebbd01221528a38
+  importHash: d61114aebf870eac
 ---
 A casual reminder that [blog.jim-nielsen.com/2023/domain-...](https://blog.jim-nielsen.com/2023/domain-sins-of-my-youth/) from [@jim-nielsen.com](https://bsky.app/profile/did:plc:ln6p42mckoylrkcd3ds6b7vv) is still great advice (and better than those .netlify.app and .vercel.app subdomains, even)
-
-[Domain Sins of My Youth](https://blog.jim-nielsen.com/2023/domain-sins-of-my-youth/)  
-Writing about the big beautiful mess that is making things for the world wide web.

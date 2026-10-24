@@ -9,10 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4vhlxchps2e
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m4vhlxchps2e
-  importHash: eae72ec96cc8b09b
+  importHash: 3baadf2c1ec68553
 ---
 Shipped some dirt-simple demo styles with \<seven-minute-tabs> while making some improvements to the 11ty docs (it’s the tabs component we use there)
 
 [zachleat.github.io/seven-minute...](https://zachleat.github.io/seven-minute-tabs/demo.html)
-
-[seven-minute-tabs Web Component Demo](https://zachleat.github.io/seven-minute-tabs/demo.html)

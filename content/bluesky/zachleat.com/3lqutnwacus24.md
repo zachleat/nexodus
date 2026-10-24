@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqutnwacus24
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lqutnwacus24
-  importHash: b106e337394bfb77
+  importHash: e1677f33c0ca1c93
 ---
 Dropping a new web component today:
 
@@ -17,6 +17,3 @@ Unencumbered \<line-numbers> will add line numbers alongside a \`\<pre>\` or \`\
 
 README: [github.com/zachleat/lin...](https://github.com/zachleat/line-numbers)  
 Demo: [zachleat.github.io/line-numbers...](https://zachleat.github.io/line-numbers/demo.html)
-
-[GitHub - zachleat/line-numbers: A web component to add line numbers next to various HTML elements](https://github.com/zachleat/line-numbers)  
-A web component to add line numbers next to various HTML elements - zachleat/line-numbers

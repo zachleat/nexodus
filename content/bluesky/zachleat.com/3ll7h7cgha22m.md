@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll7h7cgha22m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3ll7h7cgha22m
-  importHash: aa29ae5b9cd5fbdd
+  importHash: 61e14d8bd72d29b3
 ---
 the gasps I gasped when this video segued to sponsored content at the end 😅
 
 [www.youtube.com/watch?v=AaCn...](https://www.youtube.com/watch?v=AaCnBOqyvIM)
-
-[Next.js rocked by critical 9.1 level exploit...](https://www.youtube.com/watch?v=AaCnBOqyvIM)  
-YouTube video by Fireship

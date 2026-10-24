@@ -1009,5 +1009,12 @@
 			"content": "<p>I might be in an A/B test</p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 100,
+		"reposts": 2,
+		"comments": 36,
+		"quotes": 1,
+		"via": "bluesky"
+	}
 }

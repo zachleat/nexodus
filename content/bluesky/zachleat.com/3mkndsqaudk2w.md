@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mkndsqaudk2w
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mkndsqaudk2w
-  importHash: d2d05acbeb785cb1
+  importHash: 622d03386b6c651a
 ---
 Going to be SUPER CASUALLY hanging out here live in a few, discussing Build Awesome (11ty) Pro and the Kickstarter campaign.
 
 Come hang out! AMA (sure — anything, what could go wrong?)
 
 [www.youtube.com/watch?v=KkwO...](https://www.youtube.com/watch?v=KkwOTAAJ3gs)
-
-[Build Awesome Pro Kickstarter AMA](https://www.youtube.com/watch?v=KkwOTAAJ3gs)  
-YouTube video by Build Awesome (11ty)

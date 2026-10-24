@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mw4gqd37is2v
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mw4gqd37is2v
-  importHash: e1507693237c58fc
+  importHash: 6b69047dd6f8a5f4
 ---
 “AI, make the website good”
 
 [www.zachleat.com/web/ai-websi...](https://www.zachleat.com/web/ai-websites/)
-
-[“AI, make the website good”—zachleat.com](https://www.zachleat.com/web/ai-websites/)  
-A post by Zach Leatherman (zachleat)

@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3keazzsl4be25
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3keazzsl4be25
-  importHash: db915a87231b915b
+  importHash: 0d327c161cb8b0c8
 ---
 A new (experimental) technique for image optimization: SVG Short Circuiting
 
 [www.zachleat.com/web/svg-shor...](https://www.zachleat.com/web/svg-short-circuit/)
-
-[A New Technique for Image Optimization: SVG Short Circuiting—zachleat.com](https://www.zachleat.com/web/svg-short-circuit/)  
-A post by Zach Leatherman (zachleat)

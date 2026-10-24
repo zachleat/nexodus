@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lwrhthkqb22m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lwrhthkqb22m
-  importHash: 87543c1ee6ab713a
+  importHash: b099658d7927d698
 ---
 A note from my late Grandmother about Eleventy
 
 [www.zachleat.com/web/history-...](https://www.zachleat.com/web/history-of-eleventy-name/)
-
-[A Note from my Late Grandmother about Eleventy—zachleat.com](https://www.zachleat.com/web/history-of-eleventy-name/)  
-A post by Zach Leatherman (zachleat)

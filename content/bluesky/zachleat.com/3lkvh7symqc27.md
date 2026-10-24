@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lkvh7symqc27
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lkvh7symqc27
-  importHash: 3409b6ed80cfec1c
+  importHash: 1c5566107305f76e
 ---
 The video for the above talk has been posted (already!) [www.youtube.com/watch?v=O89Q...](https://www.youtube.com/watch?v=O89QIruTink)
 
 (and on my web site: [www.zachleat.com/web/blog-awe...](https://www.zachleat.com/web/blog-awesome/))
-
-[Blog Awesome, from WordPress to 11ty — walkthrough the imminently shipping Font Awesome blog](https://www.youtube.com/watch?v=O89QIruTink)  
-YouTube video by THE Eleventy Meetup

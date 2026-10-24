@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnxg4cbirc2r
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lnxg4cbirc2r
-  importHash: 1f1d5445da6c4698
+  importHash: f95952e1927b7523
 ---
 🔖 I finally finished my fancy new website. — [@johnhenrymuller.com](https://bsky.app/profile/did:plc:wld4ibpya6gf4323t2qxl6fh)
 
 [johnhenrymuller.com/fancynew](https://johnhenrymuller.com/fancynew)
-
-[I finally finished my fancy new website.](https://johnhenrymuller.com/fancynew)  
-My website is ready!

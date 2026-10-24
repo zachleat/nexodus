@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmw4cxvfe22x
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mmw4cxvfe22x
-  importHash: 1f7216f05da7f7c0
+  importHash: 5ac2fde642073f13
 ---
 if we make it to $100K before the campaign ends today I will shave my beard off on a livestream [build.awesome.me](https://build.awesome.me/)
-
-[Build Awesome Pro](https://build.awesome.me/)  
-A better way to build web sites. Fast, flexible, and built to last.

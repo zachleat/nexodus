@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhyyirgbq22p
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lhyyirgbq22p
-  importHash: bd56046bd1385542
+  importHash: 8cd9f910ca786c0a
 ---
 I still think petite-vue is good [github.com/vuejs/petite...](https://github.com/vuejs/petite-vue)
-
-[GitHub - vuejs/petite-vue: 6kb subset of Vue optimized for progressive enhancement](https://github.com/vuejs/petite-vue)  
-6kb subset of Vue optimized for progressive enhancement - vuejs/petite-vue

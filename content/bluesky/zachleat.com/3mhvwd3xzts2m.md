@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhvwd3xzts2m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mhvwd3xzts2m
-  importHash: 975794b5be150c80
+  importHash: c4ccb3cf2651d0c3
 ---
 [webawesome.com/docs/compone...](https://webawesome.com/docs/components/zoomable-frame/) is a neat little component that has an option re-use your top-level Web Awesome theme!
 
@@ -21,8 +21,5 @@ metadata:
 > 🖼️ Theme and color scheme syncing in \<wa-zoomable-frame>
 > 
 > See the full list: [webawesome.com/docs/resourc...](https://webawesome.com/docs/resources/changelog#wa_340)
-> 
-> [Changelog | Web Awesome](https://webawesome.com/docs/resources/changelog#wa_340)  
-> Changes to each version of the project are documented here.
 > 
 > — [Web Awesome](https://bsky.app/profile/webawesome.com) ([March 25, 2026 at 8:20:09 PM UTC](https://bsky.app/profile/webawesome.com/post/3mhvvzdcl222i))

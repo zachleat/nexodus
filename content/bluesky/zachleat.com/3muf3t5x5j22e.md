@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3muf3t5x5j22e
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3muf3t5x5j22e
-  importHash: 0e4f1f9852c8ed17
+  importHash: 830fbadfd2684781
 ---
 ah, so I hadn’t realized that [adobe.com](https://adobe.com) was client-rendered [www.speedlify.dev/site/www-ado...](https://www.speedlify.dev/site/www-adobe-com/#without-javascript)
 
 I added a warning in speedlify2 for that.
-
-[adobe.com · speedlify2](https://www.speedlify.dev/site/www-adobe-com/#without-javascript)  
-Lighthouse lab metrics, Axe, and Chrome UX Report field data for a list of sites recorded and compared over time.

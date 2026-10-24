@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m35v7eh5dc2m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m35v7eh5dc2m
-  importHash: a245e48674111889
+  importHash: e0a05f93f463f082
 ---
 I want to intercept Boolean coercion for objects in JavaScript: [www.zachleat.com/web/boolean-...](https://www.zachleat.com/web/boolean-coercion/)
-
-[I want to intercept Boolean Coercion for Objects in JavaScript—zachleat.com](https://www.zachleat.com/web/boolean-coercion/)  
-A post by Zach Leatherman (zachleat)

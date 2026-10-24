@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m3ngso722k2x
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m3ngso722k2x
-  importHash: ba4542b19e649281
+  importHash: a502831a66be876e
 ---
 Look, very few people will care about this but I wrote it up anyway [www.zachleat.com/web/markdown...](https://www.zachleat.com/web/markdown-code-wrapper/)
-
-[Wrapper Elements around Code Blocks in Markdown—zachleat.com](https://www.zachleat.com/web/markdown-code-wrapper/)  
-A post by Zach Leatherman (zachleat)

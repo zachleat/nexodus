@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lx2yslhngs2t
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lx2yslhngs2t
-  importHash: c5d7dd52bb568c45
+  importHash: 168ce97eb84921f3
 ---
 Added a lot more detail to my /uses/ timeline, including software/hardware/consumer gear. Interesting to see what stuff has lasted the longest.
 
 [www.zachleat.com/uses/#uses-t...](https://www.zachleat.com/uses/#uses-timeline)
-
-[Here are a Few of my Tools—zachleat.com](https://www.zachleat.com/uses/#uses-timeline)  
-A post by Zach Leatherman (zachleat)

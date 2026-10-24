@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6hjmrxmhc23
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m6hjmrxmhc23
-  importHash: 8f9b2283cb66eef7
+  importHash: 423c804ca4580560
 ---
 How to hallucinate using Web Components [www.zachleat.com/web/hallucin...](https://www.zachleat.com/web/hallucinate/)
-
-[How to Hallucinate using Web Components—zachleat.com](https://www.zachleat.com/web/hallucinate/)  
-A post by Zach Leatherman (zachleat)

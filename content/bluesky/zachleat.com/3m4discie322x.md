@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m4discie322x
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m4discie322x
-  importHash: 222da1b919b4b1c4
+  importHash: c7d4a12010dca4e0
 ---
 Copy \*and\* paste? …in this economy? [www.zachleat.com/web/copy-pas...](https://www.zachleat.com/web/copy-paste/)
-
-[Copy \*and\* Paste? …in this Economy?—zachleat.com](https://www.zachleat.com/web/copy-paste/)  
-A post by Zach Leatherman (zachleat)

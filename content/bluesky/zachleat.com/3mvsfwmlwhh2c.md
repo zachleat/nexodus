@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvsfwmlwhh2c
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mvsfwmlwhh2c
-  importHash: 42f58ee8a6896c3e
+  importHash: f23bbad0213c0b7d
 ---
 \<table-of-contents>
 
 [https://www.zachleat.com/web/table-of-contents/](https://www.zachleat.com/web/table-of-contents/)
 
 (on a packaging/releasing spree! three new-to-you web components this week 👀)
-
-[Table of Contents Web Component—zachleat.com](https://www.zachleat.com/web/table-of-contents/)  
-A post by Zach Leatherman (zachleat)

@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mfceunvekk2z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mfceunvekk2z
-  importHash: 78535eb514a2b5e1
+  importHash: bc6780d68ec648ea
 ---
 A blog post means it’s real:
 
 An official\* logo for HTML (from Sam Stephenson)
 
 [www.zachleat.com/web/html-logo/](https://www.zachleat.com/web/html-logo/)
-
-[An Official\* Logo for HTML—zachleat.com](https://www.zachleat.com/web/html-logo/)  
-A post by Zach Leatherman (zachleat)

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kgn3xpgmvd24
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kgn3xpgmvd24
-  importHash: 9dfcd8d620c6dbcc
+  importHash: 79e555c57079ee1f
 ---
 [zachleat.com](https://zachleat.com) is now building using the very first alpha release of [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2) v3.0:
 
@@ -18,6 +18,3 @@ metadata:
 You can see my upgrade PR below. It was—well—a pretty straightforward upgrade:
 
 [github.com/zachleat/zac...](https://github.com/zachleat/zachleat.com/pull/50/files)
-
-[Zach Leatherman—zachleat.com](https://zachleat.com)  
-A post by Zach Leatherman (zachleat)

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kfgdczmlf62z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kfgdczmlf62z
-  importHash: c7d3619235b34ac4
+  importHash: af4c34131a999d90
 ---
 🎥 New video:
 
@@ -18,6 +18,3 @@ Live Editing on an [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fw
 [www.youtube.com/watch?v=AsWt...](https://www.youtube.com/watch?v=AsWt6BTjzyk)
 
 My favorite part of this demo is showing live updates on the \<browser-window> web component 👀 (~1 minute in)
-
-[Live Editing an Eleventy Project in CloudCannon with Bookshop](https://www.youtube.com/watch?v=AsWt6BTjzyk)  
-Eleventy and CloudCannon CMS:https://cloudcannon.com/eleventy-cms/Docs: Introduction to Bookshop with Eleventy:https://cloudcannon.com/documentation/guides/b...

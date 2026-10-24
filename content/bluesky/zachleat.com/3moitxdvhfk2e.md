@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3moitxdvhfk2e
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3moitxdvhfk2e
-  importHash: e1abd987fecb3b8a
+  importHash: 91516c28f4772df3
 ---
 Upcoming npm v12 will disable preinstall, install, and postinstall scripts from dependencies unless allow-listed.
 
 You can prepare for this change using npm v11 now: [github.com/orgs/communi...](https://github.com/orgs/community/discussions/198547)
-
-[Preparing for npm v12: install scripts and non-registry sources become opt-in · community · Discussion #198547](https://github.com/orgs/community/discussions/198547)  
-Hi everyone — sharing this so maintainers, application developers, and CI operators have time to prepare for behavioral changes landing in npm v12 (estimated July 2026). Everything below is already...

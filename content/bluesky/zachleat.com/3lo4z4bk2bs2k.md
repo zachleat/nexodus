@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lo4z4bk2bs2k
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lo4z4bk2bs2k
-  importHash: 3e9a699ba0162d22
+  importHash: 814876704322d44f
 ---
 Working on getting the \`js\` front matter type in Eleventy working in non-Node runtimes: [github.com/zachleat/imp...](https://github.com/zachleat/import-module-string)
-
-[GitHub - zachleat/import-module-string: Use import('data:') to execute arbitrary JavaScript strings](https://github.com/zachleat/import-module-string)  
-Use import('data:') to execute arbitrary JavaScript strings - zachleat/import-module-string

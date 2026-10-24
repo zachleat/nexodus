@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7o5alodqs2o
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m7o5alodqs2o
-  importHash: 6a7fb9a3603fb1a6
+  importHash: 0b0ef03402d128ed
 ---
 TIL about Carlito, a typeface (derived from Lato) made by Łukasz Dziedzic — the same type designer that made Lato!
 
 [github.com/googlefonts/...](https://github.com/googlefonts/carlito)
-
-[GitHub - googlefonts/carlito](https://github.com/googlefonts/carlito)  
-Contribute to googlefonts/carlito development by creating an account on GitHub.

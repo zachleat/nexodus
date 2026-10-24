@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mh7ak5iwik2d
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mh7ak5iwik2d
-  importHash: 11d0183dffafc208
+  importHash: d0d263f3fd3a234e
 ---
 The 49MB Web Page [thatshubham.com/blog/news-au...](https://thatshubham.com/blog/news-audit)
-
-[The 49MB Web Page](https://thatshubham.com/blog/news-audit)  
-A look at modern news websites. How programmatic ad-tech, huge payloads and hostile architecture destroyed the reading experience.

@@ -9,8 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu6cr2m7cs2u
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mu6cr2m7cs2u
-  importHash: b34fe0bfb1a14b2b
+  importHash: 1f95c6e03d19eeed
 ---
 I… uh… think they might be loading a favicon with JavaScript? [www.adobe.com/libs/utils/f...](https://www.adobe.com/libs/utils/favicon.js)
-
-[https://www.adobe.com/libs/utils/favicon.js](https://www.adobe.com/libs/utils/favicon.js)

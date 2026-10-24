@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3karxiiab7v2a
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3karxiiab7v2a
-  importHash: e78fb23cb029b091
+  importHash: 69bf736685efae3c
 ---
 Shipped: a lightweight structural-only zero-dependency web component wrapper for \<table> to render wide tables in small viewports.
 
 [www.zachleat.com/web/table-saw/](https://www.zachleat.com/web/table-saw/)
-
-[table-saw Web Component—zachleat.com](https://www.zachleat.com/web/table-saw/)  
-A post by Zach Leatherman (zachleat)

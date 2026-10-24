@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kts5kes6722q
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kts5kes6722q
-  importHash: 7a3025a2f033f3fe
+  importHash: 22e07d08e233f078
 ---
 I was on [@changelog.com](https://bsky.app/profile/did:plc:cp2zxvvbaewrv2hb56wy4nuk)’s JS Party #325 to talk about an independent [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2)!
 
 [www.zachleat.com/web/jsparty-...](https://www.zachleat.com/web/jsparty-indie-11ty/)
 
 Thank you [@jerod.bsky.social](https://bsky.app/profile/did:plc:zi7qxelktyx6pumc7vg27xx7) and [@nicknisi.com](https://bsky.app/profile/did:plc:qcyz4wcmgnz4mzxevrsrf6j6)!
-
-[11ty Goes Fully Independent—JS Party #325—zachleat.com](https://www.zachleat.com/web/jsparty-indie-11ty/)  
-A post by Zach Leatherman (zachleat)

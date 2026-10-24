@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mrleb65suk2j
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mrleb65suk2j
-  importHash: 9b8388c4d340dbd3
+  importHash: 40a31d355c634cce
 ---
 Avatar Aang is \*well\* worth your time (even if you’re only marginally interested in the series): [boxd.it/B1BK](https://boxd.it/B1BK)
-
-[Avatar Aang: The Last Airbender (2026)](https://boxd.it/B1BK)  
-Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls i...

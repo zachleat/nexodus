@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3llguplzk6k2j
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3llguplzk6k2j
-  importHash: 27a6ac9e5f501489
+  importHash: 90aa647d2a901873
 ---
 Check the speedometer on the brand new Blog Awesome (now with [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2))
 
 [blog.fontawesome.com/blog-awesome...](https://blog.fontawesome.com/blog-awesome-to-11ty/)
-
-[Check the speedometer on the brand new Blog Awesome (now with 11ty)](https://blog.fontawesome.com/blog-awesome-to-11ty/)  
-News and information from Font Awesome – the internet’s favorite icon set; mixed with musings and nerdery from the team behind it.

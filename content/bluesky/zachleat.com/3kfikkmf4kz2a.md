@@ -9,13 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kfikkmf4kz2a
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kfikkmf4kz2a
-  importHash: 67ad1dfbce0b8263
+  importHash: c377fdd3e00c8f5d
 ---
 📮 New web component dropped:
 
 \<pagefind-search>
 
 [www.zachleat.com/web/pagefind...](https://www.zachleat.com/web/pagefind-search/)
-
-[pagefind-search Web Component—zachleat.com](https://www.zachleat.com/web/pagefind-search/)  
-A post by Zach Leatherman (zachleat)

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mfd2f2eayk2o
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mfd2f2eayk2o
-  importHash: 4488ebe5b9a88755
+  importHash: 04baed2208124983
 ---
 My personal blog turns 19 years old today
 
@@ -19,6 +19,3 @@ My personal blog turns 19 years old today
 ×3,991,865 pageviews
 
 [www.zachleat.com/uses/#site-h...](https://www.zachleat.com/uses/#site-history)
-
-[I Never Blame My Tools—zachleat.com](https://www.zachleat.com/uses/#site-history)  
-A post by Zach Leatherman (zachleat)

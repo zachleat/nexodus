@@ -1066,14 +1066,6 @@
 			"via": "bluesky"
 		},
 		{
-			"id": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3msyf5unnf22b",
-			"parentId": 0,
-			"url": "https://bsky.app/profile/toddl.dev/post/3msyf5unnf22b",
-			"private": true,
-			"date": "2026-08-13T19:33:35.373Z",
-			"via": "bluesky"
-		},
-		{
 			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3msylj7n7ok24",
 			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3msxyptatq22l",
 			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3msylj7n7ok24",
@@ -1573,5 +1565,12 @@
 			"content": "<p>Depending on your needs using HTMLUnknownElements that might be overwritten by new WHATWG tags could actually be safer, as explained with the &lt;progress&gt; tag in my 5 year old blog:</p>\n<p><a href=\"https://dev.to/dannyengelman/web-components-using-unknownhtmlelements-for-better-semantic-html-5d8c\">dev.to/dannyengelma...</a></p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 25,
+		"reposts": 5,
+		"comments": 60,
+		"quotes": 3,
+		"via": "bluesky"
+	}
 }

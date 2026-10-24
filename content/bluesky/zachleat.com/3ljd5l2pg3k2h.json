@@ -99,5 +99,10 @@
 			"content": "<p>I think the biggest takeaway for me is to make sure the queues don’t have circular references! Promise A waiting for Promise B waiting for Promise A is bad news 🫣🫣🫣</p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 8,
+		"comments": 3,
+		"via": "bluesky"
+	}
 }

@@ -9,12 +9,9 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mog6ea2my22h
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mog6ea2my22h
-  importHash: 0e10d05ed6bb0fa3
+  importHash: b8fd35e96f1633f2
 ---
 Select the text on this demo 🤯 [html-in-canvas.dev/demos/hello-...](https://html-in-canvas.dev/demos/hello-world/)
-
-[Hello World — Render HTML into \<canvas> — natively | HTML-in-Canvas](https://html-in-canvas.dev/demos/hello-world/)  
-The simplest HTML-in-Canvas demo — a styled div drawn into canvas with drawElementImage, showing the minimal boilerplate with annotated code.
 
 > 👉 HTML-in-Canvas is a bridge implementation between HTML/CSS and pixel manipulation (Canvas/WebGL).  
 > 👉 Available in Chrome behind the \`canvas-draw-element\` flag.  

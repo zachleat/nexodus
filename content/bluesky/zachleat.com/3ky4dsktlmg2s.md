@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ky4dsktlmg2s
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3ky4dsktlmg2s
-  importHash: 22af60065f3d874e
+  importHash: d2d1364bc38ca91f
 ---
 📮 A new blog post about how I used the Conditional Exports feature in Node.js to improve the error messaging when someone tries to require("@11ty/eleventy") in Eleventy 3.0 (written in ESM)
 
 [www.zachleat.com/web/future-f...](https://www.zachleat.com/web/future-friendly-esm/)
-
-[Improved error messaging for require(ESM) in Node.js—zachleat.com](https://www.zachleat.com/web/future-friendly-esm/)  
-A post by Zach Leatherman (zachleat)

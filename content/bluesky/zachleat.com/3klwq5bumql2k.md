@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3klwq5bumql2k
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3klwq5bumql2k
-  importHash: deb7827a8ab9c87f
+  importHash: 8e67eb9fc8fcfdf6
 ---
 New web component: \<hyper-card>
 
@@ -18,6 +18,3 @@ Adds a three-dimensional hover effect to any arbitrary content. (With full credi
 📮 Post: [www.zachleat.com/web/hypercard/](https://www.zachleat.com/web/hypercard/)  
 🖼️ Demo: [zachleat.github.io/hypercard/de...](https://zachleat.github.io/hypercard/demo.html)  
 ⚙️ Source code: [github.com/zachleat/hyp...](https://github.com/zachleat/hypercard)
-
-[hypercard Web Component—zachleat.com](https://www.zachleat.com/web/hypercard/)  
-A post by Zach Leatherman (zachleat)

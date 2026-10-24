@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mergchvvy22q
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mergchvvy22q
-  importHash: 899d0449332b73da
+  importHash: 83b1b31f6f38d799
 ---
 PRs… not welcome? 😅
 
 [github.blog/changelog/20...](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
-
-[New repository settings for configuring pull request access - GitHub Changelog](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)  
-Maintainers now have more control over how repositories accept contributions. Two new settings let you manage pull requests to better match your project’s needs. Disable pull requests entirely You can...

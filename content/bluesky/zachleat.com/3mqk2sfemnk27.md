@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mqk2sfemnk27
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mqk2sfemnk27
-  importHash: 91c257e8e5d36877
+  importHash: 300e1d01fa943407
 ---
 Shipped hyper-card@2.0.2 with a lovely visual improvement from [@chriskirknielsen.com](https://bsky.app/profile/did:plc:c33oawrcdpwlinunagpudznc) [github.com/zachleat/hyp...](https://github.com/zachleat/hypercard)
-
-[GitHub - zachleat/hypercard: Web component to add a three-dimensional hover effect to a card.](https://github.com/zachleat/hypercard)  
-Web component to add a three-dimensional hover effect to a card. - zachleat/hypercard

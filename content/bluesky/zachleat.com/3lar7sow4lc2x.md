@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lar7sow4lc2x
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lar7sow4lc2x
-  importHash: f13c6420b08e56d3
+  importHash: 944a3f0b048ad635
 ---
 11 year old thread continued from [www.zachleat.com/twitter/1483...](https://www.zachleat.com/twitter/1483457650239102980/)
-
-[zachleat’s Twitter Archive—№ 41,243](https://www.zachleat.com/twitter/1483457650239102980/)  
-in the year of our new zealand singer/songwriter lorde 2022, a mere 23 years after the format’s standardization, the newest version of Mac OS’ Preview​.app (Monterey) still cannot open an SVG file 👀🥸

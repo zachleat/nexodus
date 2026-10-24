@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mxtxlshcv42n
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mxtxlshcv42n
-  importHash: 7b6efcef38c81512
+  importHash: 3d1a5a25f059daff
 ---
 All of my 300+ browser tabs are beautiful
 
 [https://www.zachleat.com/web/firefox-list-all-tabs/](https://www.zachleat.com/web/firefox-list-all-tabs/)
-
-[All of my 300+ browser tabs are beautiful—zachleat.com](https://www.zachleat.com/web/firefox-list-all-tabs/)  
-A post by Zach Leatherman (zachleat)

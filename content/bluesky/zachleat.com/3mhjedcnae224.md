@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhjedcnae224
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mhjedcnae224
-  importHash: 59d5001694272283
+  importHash: 3c00a8da159eec21
 ---
 If you (like me) were attempting to npm publish via GitHub Actions using \`npm@latest\` (currently v11.12.0) and saw an error message involving \`--prefer-online\` and \`--prefer-offline\`, reverting to npm@11.11.1 fixes the issue.
 
 Related: [github.com/npm/cli/issu...](https://github.com/npm/cli/issues/9133)
-
-[\[BUG\] Exclusive configuration for \`--prefer-online\` and \`--prefer-offline\` breaks git dependency preparation flow · Issue #9133 · npm/cli](https://github.com/npm/cli/issues/9133)  
-Is there an existing issue for this? I have searched the existing issues This issue exists in the latest npm version I am using the latest npm Current Behavior In the latest version of NPM (11.12.0...

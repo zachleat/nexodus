@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mijq3pzxus2v
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mijq3pzxus2v
-  importHash: 6435cb55e834aae2
+  importHash: 5871a5bd0c4dce58
 ---
 I see that [@rknight.me](https://bsky.app/profile/did:plc:b3i7xuqiybecdpm3lkywmlwv) has added the Official\* HTML logo as an 88×31 in their page footer!
 
 [rknight.me](https://rknight.me/)
-
-[Robb Knight](https://rknight.me/)  
-Maker of web things, sticker merchant, viral toot-based business man, blogger, podcaster, and pizzaiolo. Human dad.

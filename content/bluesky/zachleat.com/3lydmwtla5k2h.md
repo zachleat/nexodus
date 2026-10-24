@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydmwtla5k2h
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lydmwtla5k2h
-  importHash: ab7e9d0ca29e5591
+  importHash: 9ff2490880931e90
 ---
 Watch very closely to see how other affected tools in the JavaScript ecosystem handle this one 👀
 
@@ -18,8 +18,5 @@ Watch very closely to see how other affected tools in the JavaScript ecosystem h
 > Notice: one of Eleventy’s dependencies was compromised a few hours ago. \`debug@4.4.2\` was the compromised version affected (it is now unpublished from npm).
 > 
 > More context: [socket.dev/blog/npm-aut...](https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack)
-> 
-> [npm Author Qix Compromised via Phishing Email in Major Suppl...](https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack)  
-> npm author Qix’s account was compromised, with malicious versions of popular packages like chalk-template, color-convert, and strip-ansi published.
 > 
 > — [Build Awesome (11ty)](https://bsky.app/profile/11ty.dev) ([September 8, 2025 at 4:18:59 PM UTC](https://bsky.app/profile/11ty.dev/post/3lydm7rwfns2c))

@@ -187,7 +187,7 @@
 			"parentId": "at://did:plc:bigekmftzgjkdp5auitu2yhs/app.bsky.feed.post/3lu4awiceu22k",
 			"url": "https://bsky.app/profile/jeroen.wtf/post/3lu4dtfgtxs24",
 			"author": {
-				"name": "Jeroen ✦ 167→",
+				"name": "Jeroen ✦ 104→",
 				"url": "https://bsky.app/profile/jeroen.wtf",
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzqjeysuvjsg7hsttruz2j47/bafkreihdl2p6ajjmj2vyvkkdiqjujd2upcymzku4rgjzhdfn5ubmsvvahm"
 			},
@@ -234,5 +234,11 @@
 			"content": "<p>nope, sorry! you could chop off an arm for an extra cash at the end of the year tho</p>",
 			"via": "bluesky"
 		}
-	]
+	],
+	"counts": {
+		"likes": 42,
+		"reposts": 1,
+		"comments": 3,
+		"via": "bluesky"
+	}
 }

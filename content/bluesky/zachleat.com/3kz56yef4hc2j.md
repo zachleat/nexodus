@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3kz56yef4hc2j
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3kz56yef4hc2j
-  importHash: 3c01bf9b61d23aa3
+  importHash: fd4131810c84a97d
 ---
 📮 New blog post:
 
@@ -18,6 +18,3 @@ The Sneaky Costs of Scaling Serverless
 [https://www.zachleat.com/web/serverless-cost/](https://www.zachleat.com/web/serverless-cost/)
 
 Chronicling a migration of the beefy 11ty Screenshots API to a new hosting provider.
-
-[The Sneaky Costs of Scaling Serverless—zachleat.com](https://www.zachleat.com/web/serverless-cost/)  
-A post by Zach Leatherman (zachleat)

@@ -9,10 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvpz77f7ls2c
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mvpz77f7ls2c
-  importHash: bf534e81b0227bdf
+  importHash: 22bab0018dee2b12
 ---
 [@bram.us](https://bsky.app/profile/did:plc:343p6xcgmvkpz5abgezlgyep) added some benchmarks: [chrome.dev/css-selector...](https://chrome.dev/css-selector-benchmark/benchmarks/light-vs-shadow/mount/)
 
 Seems like Light > Shadow > Light/Shadow 50/50 mix
-
-[Light vs. Shadow DOM: Mount & Layout Benchmark](https://chrome.dev/css-selector-benchmark/benchmarks/light-vs-shadow/mount/)

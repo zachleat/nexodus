@@ -9,9 +9,6 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maebfvmqo22k
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3maebfvmqo22k
-  importHash: 35139e0529afbb0c
+  importHash: ed5626751a3e7824
 ---
 I think [github.com/zachleat/imp...](https://github.com/zachleat/import-module-string) is one of the best things I’ve built this year (even if no one else does 😅)
-
-[GitHub - zachleat/import-module-string: Use import('data:') and import(Blob) to execute arbitrary JavaScript strings](https://github.com/zachleat/import-module-string)  
-Use import('data:') and import(Blob) to execute arbitrary JavaScript strings - zachleat/import-module-string

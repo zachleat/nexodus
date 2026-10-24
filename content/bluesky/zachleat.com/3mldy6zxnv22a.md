@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mldy6zxnv22a
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mldy6zxnv22a
-  importHash: 4d0044f37648a7bd
+  importHash: 03a05bdd6d586564
 ---
 Going to stream in about 10m to show off three Build Awesome Pro editing demos, come hang out!
 
 [www.youtube.com/watch?v=Qr-N...](https://www.youtube.com/watch?v=Qr-NLgVrsMQ)
-
-[A few demos of Editing and Collaboration in Build Awesome Pro (as always, AMA!)](https://www.youtube.com/watch?v=Qr-NLgVrsMQ)  
-YouTube video by Build Awesome (11ty)

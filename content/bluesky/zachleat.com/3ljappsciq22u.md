@@ -9,11 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ljappsciq22u
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3ljappsciq22u
-  importHash: 060ec860a356e1e1
+  importHash: 68eeb6ed1372ba49
 ---
 📮 New blog post:
 
 Extract Colors from an Image for CSS Themes: [www.zachleat.com/web/extract-...](https://www.zachleat.com/web/extract-colors/)
-
-[Extract Colors from an Image for CSS Themes—zachleat.com](https://www.zachleat.com/web/extract-colors/)  
-A post by Zach Leatherman (zachleat)
