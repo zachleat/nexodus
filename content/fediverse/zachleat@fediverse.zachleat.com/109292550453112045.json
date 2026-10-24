@@ -221,5 +221,10 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://mas.to/@patak\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>patak</span></a></span> Mastodon itself is definitely not optimized for single-user experience. (Local timeline are just your posts, you don't see most of the discussion under posts unless you follow the participants etc.)<br>Personally, I'm eyeing a solution integrating a personal website with ActivityPub similar to the link to <span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>aaronpk</span></a></span>'s site above... <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 7,
+		"via": "fediverse"
+	}
 }

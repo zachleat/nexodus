@@ -232,5 +232,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@deebloo\" class=\"u-url mention\">@<span>deebloo</span></a></span> It is a good resource!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 77,
+		"reposts": 34,
+		"comments": 6,
+		"via": "fediverse"
+	}
 }

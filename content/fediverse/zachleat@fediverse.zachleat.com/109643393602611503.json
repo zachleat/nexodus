@@ -27,19 +27,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109643404744629402",
-			"parentId": 0,
-			"url": "https://mas.to/@schizanon/109643404651520624",
-			"author": {
-				"name": "🍄🌈🎮💻🚲🥓🎃💀🏴🛻🇺🇸",
-				"url": "https://mas.to/@schizanon",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-01-06T17:19:43.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> JavaScript is corn, React is corn syrup.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "109643405970398841",
 			"parentId": 0,
 			"url": "https://infosec.exchange/@AlesandroOrtiz/109643405938338626",
@@ -65,5 +52,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@schizanon\" class=\"u-url mention\">@<span>schizanon</span></a></span> this is also very good yes</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 15,
+		"reposts": 3,
+		"comments": 3,
+		"via": "fediverse"
+	}
 }

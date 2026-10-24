@@ -27,19 +27,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109751205801112522",
-			"parentId": 0,
-			"url": "https://mas.to/@schizanon/109751205681320219",
-			"author": {
-				"name": "🍄🌈🎮💻🚲🥓🎃💀🏴🛻🇺🇸",
-				"url": "https://mas.to/@schizanon",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-01-25T18:14:56.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> never forget, M$ has no principles, except to make money. It's still a corporation; it's just a hungry one these days.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "109751256981152371",
 			"parentId": 0,
 			"url": "https://carhenge.club/@nirak/109751256924497063",
@@ -81,5 +68,11 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I luxuriate in the definition of “user agent”</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 25,
+		"reposts": 2,
+		"comments": 6,
+		"via": "fediverse"
+	}
 }

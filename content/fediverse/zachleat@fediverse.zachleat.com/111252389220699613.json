@@ -26,5 +26,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.themarkup.org/@themarkup\" class=\"u-url mention\">@<span>themarkup</span></a></span> It does remove the t.co middle-man as part of the build but I think it could absolutely do this.</p><p>This is where it’d probably happen: <a href=\"https://github.com/tweetback/tweetback/blob/c386e708453d550489404dc59a80b753a36be745/src/twitter.js#L64-L91\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/blob/c386e708453d550489404dc59a80b753a36be745/src/twitter.js#L64-L91</span></a></p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 15,
+		"reposts": 16,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

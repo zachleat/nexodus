@@ -43,32 +43,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109492762072469016",
-			"parentId": "109492694875045371",
-			"url": "https://indieweb.social/@nmn/109492762043484426",
-			"author": {
-				"name": "Naman",
-				"url": "https://indieweb.social/@nmn",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2022-12-11T02:49:19.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@coryd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>coryd</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve seen a Singer sewing machine last longer than I’ve been alive. But no guarantees that their quality is anywhere near the same level.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "109492772567916239",
-			"parentId": "109492762072469016",
-			"url": "https://indieweb.social/@nmn/109492772397915167",
-			"author": {
-				"name": "Naman",
-				"url": "https://indieweb.social/@nmn",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2022-12-11T02:51:57.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@coryd\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>coryd</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it was a “manual” machine where you had to spin a wheel (or use a back/forth pedal) to make it run. Newer machines are probably electric, and less reliable.</p><p>According to my mom, electric machines are also worse since they give you less control.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "109492811388870033",
 			"parentId": 0,
 			"url": "https://social.jacobian.org/@jacob/109492811345255397",
@@ -485,5 +459,11 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> good luck iterating then 😄</p><p>It'll be great when you do find that one shirt though!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 7,
+		"reposts": 8,
+		"comments": 11,
+		"via": "fediverse"
+	}
 }

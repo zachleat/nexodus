@@ -191,6 +191,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "111263549011579287",
+			"parentId": 0,
+			"url": "https://indieweb.social/@kristoferjoseph/111263548961687559",
+			"author": {
+				"name": "Kristofer Joseph",
+				"url": "https://indieweb.social/@kristoferjoseph",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/868/556/368/214/original/a9763cb61d94ea6b.jpg"
+			},
+			"date": "2023-10-19T20:23:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> “Using GraphQL, I feel bad for you son, I got 99 problems but Apollo ain't one.”<br>~ Snow</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "111263578733703545",
 			"parentId": 0,
 			"url": "https://toot.cafe/@reconbot/111263578470565179",
@@ -214,6 +227,19 @@
 			},
 			"date": "2023-10-19T20:32:31.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> kind of. Sanity uses their version of it and I have that on a few projects. But I won’t choose the route for anything new.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111263584808345634",
+			"parentId": "111263549011579287",
+			"url": "https://toot.cafe/@reconbot/111263584634506374",
+			"author": {
+				"name": "Francis 🏴‍☠️ Gulotta",
+				"url": "https://toot.cafe/@reconbot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/313/376/052/418/189/original/b24ed2bdf8f16f68.png"
+			},
+			"date": "2023-10-19T20:32:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@kristoferjoseph\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kristoferjoseph</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 👏</p>",
 			"via": "fediverse"
 		},
 		{
@@ -297,5 +323,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tylersticka\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tylersticka</span></a></span> maybe one day!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"reposts": 1,
+		"comments": 11,
+		"via": "fediverse"
+	}
 }

@@ -1,19 +1,6 @@
 {
 	"comments": [
 		{
-			"id": "111211214471279251",
-			"parentId": 0,
-			"url": "https://social.bennypowers.dev/@bp/111211214448622109",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-10-10T14:34:22.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"Declarative Shadow DOM\"</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111211217565376002",
 			"parentId": "111211214471279251",
 			"url": "https://fediverse.zachleat.com/@zachleat/111211217565376002",
@@ -97,19 +84,6 @@
 			},
 			"date": "2023-10-10T14:37:14.401Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cc/@jgarber\" class=\"u-url mention\">@<span>jgarber</span></a></span> Chris Farley vibes 😂</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111211227151522059",
-			"parentId": "111211217565376002",
-			"url": "https://social.bennypowers.dev/@bp/111211227123676411",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-10-10T14:37:36.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it's in the spec. ff is building it now. 5 line polyfill</p>",
 			"via": "fediverse"
 		},
 		{
@@ -399,32 +373,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111211560304497702",
-			"parentId": "111211231375442677",
-			"url": "https://social.bennypowers.dev/@bp/111211560254166007",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-10-10T16:02:19.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah I know, but like... what if we built a generation of tools that *didn't* fight against current and future standards? What if we implemented ideas like HTML progressive enhancement of web components in the way in which *browser authors have recommended*? Wouldn't that be really nice? Wouldn't that let us update our tools and projects much more smoothly in the future? Wouldn't that make it so much easier to transfer knowledge between projects and prevent name conflicts?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111211564572594584",
-			"parentId": "111211291437410860",
-			"url": "https://social.bennypowers.dev/@bp/111211564529739109",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-10-10T16:03:24.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that's an opinion. GNOME web for example doesn't even *let* you disable javascript globally, because they observed that nobody does.</p><p>A few months of waiting is worth not building a generation of tools which improperly implement spec'd behaviour</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111211571847240082",
 			"parentId": "111211564572594584",
 			"url": "https://indieweb.social/@brianleroux/111211571652696406",
@@ -448,19 +396,6 @@
 			},
 			"date": "2023-10-10T16:05:35.146Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\">@<span>bp</span></a></span> browser authors aren’t #1 on this list, which is typically what I go by <a href=\"https://www.w3.org/TR/html-design-principles/#priority-of-constituencies\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">w3.org/TR/html-design-principl</span><span class=\"invisible\">es/#priority-of-constituencies</span></a></p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111211587141355903",
-			"parentId": "111211571847240082",
-			"url": "https://social.bennypowers.dev/@bp/111211587110217199",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-10-10T16:09:09.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@brianleroux\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>brianleroux</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>```html<br>&lt;c-e&gt;<br>&lt;template shadowrootmode=\"open\"&gt;<br>  &lt;style&gt;<br>    :host:not(:defined) ::slotted(<a href=\"https://social.bennypowers.dev/tags/fallback\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>fallback</span></a>) { /* 🎉️ */ } <br>  &lt;/style&gt;<br>&lt;/template&gt;<br>&lt;div id=\"fallback\" slot=\"fallback\"&gt;<br>&lt;noscript&gt;fallback content&lt;/noscript&gt;<br>&lt;/div&gt;<br>&lt;/c-e&gt;<br>```</p><p>season to taste</p>",
 			"via": "fediverse"
 		},
 		{
@@ -513,19 +448,6 @@
 			},
 			"date": "2023-10-10T16:17:24.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.bennypowers.dev/@bp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bp</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That doesn't mean DSD is what you need every time: e.g. GitHub's relative-time element, or an element you use to wrap a table that turns it into a sortable/filterable table.<br>DSD won't help here as what you want is only progressively enhancing the light DOM (the elements could use a shadow tree, but a declarative one would buy you nothing)</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111211647860128711",
-			"parentId": "111211619712325346",
-			"url": "https://social.bennypowers.dev/@bp/111211647846970087",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-10-10T16:24:35.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> dsd would still get you fouc and cls in that case, depending on what's in the shadow root</p><p>but point taken</p>",
 			"via": "fediverse"
 		},
 		{
@@ -763,12 +685,68 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "111382062993986945",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@deadwisdom/111382062621482116",
+			"author": {
+				"name": "Brantley Harris",
+				"url": "https://fosstodon.org/@deadwisdom",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/395/010/643/324/801/original/df82a992afce0684.jpg"
+			},
+			"date": "2023-11-09T18:43:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> PNUT Components</p><p>Put onto JAMStack</p><p>Enjoy</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "111382127257484745",
 			"parentId": "111381935460876238",
 			"url": "https://fosstodon.org/@chris_hayes/111382127245737400",
 			"private": true,
 			"date": "2023-11-09T18:59:44.000Z",
 			"via": "fediverse"
+		},
+		{
+			"id": "111382127722158506",
+			"parentId": "111382127257484745",
+			"url": "https://fosstodon.org/@chris_hayes/111382127650921386",
+			"private": true,
+			"date": "2023-11-09T18:59:51.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111382166938296954",
+			"parentId": "111382127722158506",
+			"url": "https://fosstodon.org/@deadwisdom/111382166754194469",
+			"private": true,
+			"date": "2023-11-09T19:09:47.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111382196510203183",
+			"parentId": "111382166938296954",
+			"url": "https://fosstodon.org/@chris_hayes/111382196490087697",
+			"private": true,
+			"date": "2023-11-09T19:17:21.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "111452625391500694",
+			"parentId": 0,
+			"url": "https://sunny.garden/@knowler/111452625356991255",
+			"author": {
+				"name": "Nathan Knowler",
+				"url": "https://sunny.garden/@knowler",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/922/977/455/165/original/45cef936319931c4.png"
+			},
+			"date": "2023-11-22T05:48:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Daytime components <a href=\"https://youtu.be/Ln2Xq8fCNI8\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/Ln2Xq8fCNI8</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 35,
+		"reposts": 6,
+		"comments": 25,
+		"via": "fediverse"
+	}
 }

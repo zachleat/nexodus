@@ -209,19 +209,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109677448553400090",
-			"parentId": "109677093136498185",
-			"url": "https://fosstodon.org/@jakecarpenter/109677448533079332",
-			"author": {
-				"name": "Jake Carpenter",
-				"url": "https://fosstodon.org/@jakecarpenter",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-01-12T17:37:32.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I like to take it even further and stick to \"Engineer\" or \"Developer.\" Yes, the languages and frameworks are tools, but even the platform we currently specialize in is nothing more than a choice.</p><p>I'm confident that if there were a sudden paradigm shift, we would *all* feel comfortable evaluating when and how to make the change to a different language and target an entirely new platform and away from web, mobile, embedded, or whatever.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "109677537515893988",
 			"parentId": "109676919233939863",
 			"url": "https://fediverse.zachleat.com/@zachleat/109677537515893988",
@@ -758,6 +745,32 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "109682270606312413",
+			"parentId": "109682255021132560",
+			"url": "https://mastodon.social/@khalidabuhakmeh/109682270459461809",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
+			},
+			"date": "2023-01-13T14:03:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> When you want to go fast, you gotta hit the NOjS.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109682282160591671",
+			"parentId": "109682270606312413",
+			"url": "https://fediverse.zachleat.com/@zachleat/109682282160591671",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-01-13T14:06:47.386Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> oh my god</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "109684396087173935",
 			"parentId": "109679008326814881",
 			"url": "https://fediverse.zachleat.com/@zachleat/109684396087173935",
@@ -769,6 +782,142 @@
 			"date": "2023-01-13T23:04:23.340Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://merveilles.town/@thomasorus\" class=\"u-url mention\">@<span>thomasorus</span></a></span> haha I think I know who you mean 😅</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "109822240413489900",
+			"parentId": 0,
+			"url": "https://mastodon.social/@danrot/109822240383958221",
+			"author": {
+				"name": "Daniel Rotter",
+				"url": "https://mastodon.social/@danrot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/325/738/488/817/original/7e67807de621c07a.jpg"
+			},
+			"date": "2023-02-07T07:20:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Your article really resonates with me! I would also like to be \"just\" a web developer, who cares about creating the best possible experience for the user, and use the best technology for that. However, it feels to me like it is hard to find jobs this way, because certain frameworks or libraries are often a given.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109823991361915691",
+			"parentId": "109822240413489900",
+			"url": "https://fediverse.zachleat.com/@zachleat/109823991361915691",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-07T14:45:18.192Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@danrot\" class=\"u-url mention\">@<span>danrot</span></a></span> whew, yeah. It is a problem. I found some good work a few years back in Netlify’s marketing team—folks that want to build “content sites” (though I still argue that the sites/apps dichotomy is an unnecessary symptom of the divide)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109824446596594190",
+			"parentId": "109823991361915691",
+			"url": "https://mastodon.social/@danrot/109824446480444320",
+			"author": {
+				"name": "Daniel Rotter",
+				"url": "https://mastodon.social/@danrot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/325/738/488/817/original/7e67807de621c07a.jpg"
+			},
+			"date": "2023-02-07T16:41:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you really think that there is no difference between site and app? If I build a web application users spent most of their day in, then it has some requirements that are remarkably different from a site just displaying a blog IMO.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109824462560737592",
+			"parentId": "109824446596594190",
+			"url": "https://fediverse.zachleat.com/@zachleat/109824462560737592",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-07T16:45:08.119Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@danrot\" class=\"u-url mention\">@<span>danrot</span></a></span> at a project level, correct. I think its far more productive to debate about it at a lower level, like sections of a page or individual components!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109824843175648509",
+			"parentId": "109824462560737592",
+			"url": "https://mastodon.social/@danrot/109824843100077486",
+			"author": {
+				"name": "Daniel Rotter",
+				"url": "https://mastodon.social/@danrot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/325/738/488/817/original/7e67807de621c07a.jpg"
+			},
+			"date": "2023-02-07T18:21:54.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I guess our discussion is too vague right now 🙈  I think SPAs also have their right to exist, but I also agree that they are heavily overused. My distinction of site vs app is basically the same line.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109824861212927492",
+			"parentId": "109824843175648509",
+			"url": "https://fediverse.zachleat.com/@zachleat/109824861212927492",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-07T18:26:31.069Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@danrot\" class=\"u-url mention\">@<span>danrot</span></a></span> Too many leaky/overlapping definitions here 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109827701398084291",
+			"parentId": "109824861212927492",
+			"url": "https://mastodon.social/@danrot/109827701353538317",
+			"author": {
+				"name": "Daniel Rotter",
+				"url": "https://mastodon.social/@danrot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/325/738/488/817/original/7e67807de621c07a.jpg"
+			},
+			"date": "2023-02-08T06:28:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I know, that's why I am trying to be at least a bit more specific 🙈</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109827710215932352",
+			"parentId": "109827701398084291",
+			"url": "https://mastodon.social/@danrot/109827710171060084",
+			"author": {
+				"name": "Daniel Rotter",
+				"url": "https://mastodon.social/@danrot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/325/738/488/817/original/7e67807de621c07a.jpg"
+			},
+			"date": "2023-02-08T06:31:02.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So are you saying you are not against SPAs and client-side rendering in general? Is this just about using certain frameworks for it?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109829438274807519",
+			"parentId": "109827710215932352",
+			"url": "https://fediverse.zachleat.com/@zachleat/109829438274807519",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-08T13:50:31.487Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@danrot\" class=\"u-url mention\">@<span>danrot</span></a></span> the main thrust of my issue is that React frameworks really pushed on SPA as the default for many years before SSR (and it should *not* be the default choice).</p><p>Even now with SSR the performance cost of the hello world is still far too high, especially as they push for those same frameworks to be used for content sites: Next.js, Remix, and Gatsby all encourage folks to start with a blog site on their docs.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109831103439605024",
+			"parentId": "109829438274807519",
+			"url": "https://mastodon.social/@danrot/109831103338870324",
+			"author": {
+				"name": "Daniel Rotter",
+				"url": "https://mastodon.social/@danrot",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/325/738/488/817/original/7e67807de621c07a.jpg"
+			},
+			"date": "2023-02-08T20:53:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I do not disagree with anything you say here 🙂 What you framed as default choice is what I described as heavily overused.</p>",
+			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 106,
+		"reposts": 102,
+		"comments": 25,
+		"via": "fediverse"
+	}
 }

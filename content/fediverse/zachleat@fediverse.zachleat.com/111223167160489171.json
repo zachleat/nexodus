@@ -234,5 +234,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dogwonder\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>dogwonder</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it is a bit weird that there is not a profile page you can send someone to. </p><p>(also weird: you can’t edit or delete the posts it makes)</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 1,
+		"comments": 8,
+		"via": "fediverse"
+	}
 }

@@ -666,5 +666,11 @@
 			"content": "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no worries!</p><p>Meaningful because a “site” is meant for information sharing across both space and time. It’s made of URLs that represent long-lived information resources meant to be linked to. It’s the WEB, FFS.</p><p>Apps are pieces of software that use www infrastructure for deployment. Which is a cool hack but should not be confused for being a member of the web-of-URLs.</p><p>They may coexist on a domain, mind you. But usually don’t.</p><p>(I am growing to think ActivityPub heralds a third category, of conversational “social” apps.)</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 51,
+		"reposts": 12,
+		"comments": 9,
+		"via": "fediverse"
+	}
 }

@@ -170,19 +170,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110860982896793010",
-			"parentId": "110860857025038126",
-			"url": "https://c.im/@matthewp/110860982860962785",
-			"author": {
-				"name": "Matthew Phillips",
-				"url": "https://c.im/@matthewp",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
-			},
-			"date": "2023-08-09T18:05:52.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Rule 1-100 is \"Jamstack is SSG only\". I will die on this hill.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110861044514595670",
 			"parentId": "110860915381832468",
 			"url": "https://mastodon.social/@matthiasott/110861044424001884",
@@ -336,19 +323,6 @@
 			},
 			"date": "2023-08-09T19:16:39.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbeseda</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ricmac</span></a></span> I like this. Perhaps:</p><p>JAM<br>JAM+<br>JAM Ultra<br>JAM Ultra 256GB</p><p>Thoughts?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110861269103272483",
-			"parentId": "110861203954481182",
-			"url": "https://c.im/@matthewp/110861269051856904",
-			"author": {
-				"name": "Matthew Phillips",
-				"url": "https://c.im/@matthewp",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
-			},
-			"date": "2023-08-09T19:18:39.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>remotesynth</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbeseda</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ricmac</span></a></span> </p><p>It was never about performance, was always about ease of deployment. There, static is undefeated.</p>",
 			"via": "fediverse"
 		},
 		{
@@ -559,5 +533,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@timsev\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>timsev</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>remotesynth</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@tbeseda\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbeseda</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ricmac</span></a></span> Real talk.</p><p>I'm busy at my main job, but when I have prospective side work, I sometimes find myself evaluating if I should experiment with a new stack or if I should point them to Wix or some equivalent (which could save them and myself time/effort in the long run).</p><p>The first approach is so tempting due to the nerd/research appeal, experience it provides and etc.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 31,
+		"reposts": 13,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

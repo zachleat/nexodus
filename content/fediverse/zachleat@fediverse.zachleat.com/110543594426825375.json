@@ -43,19 +43,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110543617508954433",
-			"parentId": 0,
-			"url": "https://mas.to/@schizanon/110543617409981038",
-			"author": {
-				"name": "🍄🌈🎮💻🚲🥓🎃💀🏴🛻🇺🇸",
-				"url": "https://mas.to/@schizanon",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-06-14T16:55:40.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> there is no web developers, there is only zuul</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110543619256094372",
 			"parentId": "110543616276564381",
 			"url": "https://mastodon.social/@voxpelli/110543619200123391",
@@ -424,5 +411,11 @@
 			"date": "2023-06-15T23:43:51.000Z",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 8,
+		"reposts": 1,
+		"comments": 7,
+		"via": "fediverse"
+	}
 }

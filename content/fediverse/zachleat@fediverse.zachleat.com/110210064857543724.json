@@ -14,19 +14,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110210108150576599",
-			"parentId": 0,
-			"url": "https://social.bennypowers.dev/@bp/110210107696985930",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-04-16T19:19:45.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"ok I'm going to need you to sit on the other side of the room quietly and watch\"</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110210138649743668",
 			"parentId": "110210108150576599",
 			"url": "https://fediverse.zachleat.com/@zachleat/110210138649743668",
@@ -117,5 +104,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@alvaromontoro\" class=\"u-url mention\">@<span>alvaromontoro</span></a></span> ikea meal prep</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 35,
+		"comments": 6,
+		"via": "fediverse"
+	}
 }

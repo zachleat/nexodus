@@ -202,6 +202,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "110436161812131842",
+			"parentId": "110435801668006100",
+			"url": "https://indieweb.social/@kristoferjoseph/110436161782928658",
+			"author": {
+				"name": "Kristofer Joseph",
+				"url": "https://indieweb.social/@kristoferjoseph",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/868/556/368/214/original/a9763cb61d94ea6b.jpg"
+			},
+			"date": "2023-05-26T17:28:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@sarcevic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarcevic</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> %s/best practices/chat gpt/g</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "110436470029574424",
 			"parentId": "110435983176593394",
 			"url": "https://fediverse.zachleat.com/@zachleat/110436470029574424",
@@ -293,6 +306,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "110441878625508226",
+			"parentId": "110435785344348821",
+			"url": "https://front-end.social/@resource11/110441878605473388",
+			"author": {
+				"name": "Kathleen McMahon",
+				"url": "https://front-end.social/@resource11",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/774/822/618/220/original/66e0c45c26dfc261.png"
+			},
+			"date": "2023-05-27T17:42:09.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://social.ericwbailey.website/@eric\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eric</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I read this as “I do not dream of Fireworks” and was thrown back to earlier web days.</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "110458212580915737",
 			"parentId": 0,
 			"url": "https://mas.to/@iamdtms/110458212478401178",
@@ -357,5 +383,11 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@sarcevic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarcevic</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I just came here for all the references and not the frameworks❤️❤️</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 261,
+		"reposts": 135,
+		"comments": 15,
+		"via": "fediverse"
+	}
 }

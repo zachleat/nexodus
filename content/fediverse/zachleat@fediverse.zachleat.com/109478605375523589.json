@@ -1,6 +1,19 @@
 {
 	"comments": [
 		{
+			"id": "109478733622078884",
+			"parentId": 0,
+			"url": "https://indieweb.social/@charlie/109478733591394189",
+			"author": {
+				"name": "Charlie",
+				"url": "https://indieweb.social/@charlie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/112/885/295/468/original/80be47970749d56d.jpeg"
+			},
+			"date": "2022-12-08T15:21:42.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> agreed! It’s even higher on Native American reservations, too!</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "109478805556045594",
 			"parentId": 0,
 			"url": "https://pleromav2.fly.dev/objects/57f99e46-eeeb-4cdc-ae0d-3e5c337d05c7",
@@ -39,5 +52,11 @@
 			"content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://fediverse.zachleat.com/@zachleat\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> totally! Not some weird 1/2 half available internet tunnel through a corporate VPN,  but an open availability internet.",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 18,
+		"reposts": 17,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

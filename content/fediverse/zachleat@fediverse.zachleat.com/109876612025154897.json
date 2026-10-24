@@ -104,5 +104,10 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I was equally baffled by this a few days ago and I ended up finding the exact GitHub issue thread where this was discussed: <a href=\"https://github.com/whatwg/html/pull/5465#discussion_r1004046952\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/whatwg/html/pull/54</span><span class=\"invisible\">65#discussion_r1004046952</span></a></p><p>I think one of the core issues was that `HTMLTemplateElement.shadowRoot` + the `shadowroot` attribute conflicted with the existence of `Element.shadowRoot`. On template elements it would have been a `string` but everywhere else it could have been a reference to an actual shadow root, which is pretty confusing!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 6,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

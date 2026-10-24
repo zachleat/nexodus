@@ -297,5 +297,11 @@
 			"date": "2023-07-13T08:23:45.000Z",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 123,
+		"reposts": 64,
+		"comments": 10,
+		"via": "fediverse"
+	}
 }

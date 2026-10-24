@@ -52,5 +52,11 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Definitely in this area of thought!</p><p>Regardless of \"can function\" without JS, many patterns can't be accessible without JS, and if you're going to need those things you can't be sure what content to send users until the JS is for sure available. In that way, you might SSR one thing and then CSR other things, but the JS render would still happen.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 33,
+		"reposts": 3,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

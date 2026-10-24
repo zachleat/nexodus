@@ -9,19 +9,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109532687007605527",
-			"parentId": 0,
-			"url": "https://toot.cafe/@JesseSkinner/109532686913693482",
-			"author": {
-				"name": "Jesse Skinner",
-				"url": "https://toot.cafe/@JesseSkinner",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/000/012/848/580/original/a66e20087b7a3646.jpg"
-			},
-			"date": "2022-12-18T04:02:45.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> &lt;body text=white bgcolor=black&gt; is the new &lt;!DOCTYPE html&gt;</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "109534473476188562",
 			"parentId": 0,
 			"url": "https://todon.nl/@hansv/109534473279831540",
@@ -60,5 +47,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tvanantwerp\" class=\"u-url mention\">@<span>tvanantwerp</span></a></span> extensible and dynamic! Those were important milestones too!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 20,
+		"reposts": 4,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

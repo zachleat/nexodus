@@ -125,5 +125,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@TheOceanBreeze\" class=\"u-url mention\">@<span>TheOceanBreeze</span></a></span> yay!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 20,
+		"reposts": 4,
+		"comments": 7,
+		"via": "fediverse"
+	}
 }

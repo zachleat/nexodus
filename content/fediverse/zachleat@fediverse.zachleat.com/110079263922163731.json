@@ -144,19 +144,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110079411456826953",
-			"parentId": "110079330645811422",
-			"url": "https://toot.cafe/@JesseSkinner/110079411400183204",
-			"author": {
-				"name": "Jesse Skinner",
-				"url": "https://toot.cafe/@JesseSkinner",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/327/000/012/848/580/original/a66e20087b7a3646.jpg"
-			},
-			"date": "2023-03-24T17:21:58.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> JavaScript Enterprise Edition</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110079411618012544",
 			"parentId": "110079376747759414",
 			"url": "https://fediverse.zachleat.com/@zachleat/110079411618012544",
@@ -221,5 +208,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\">@<span>andydavies</span></a></span> *looks around* you’re 100% right</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 22,
+		"reposts": 2,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

@@ -597,16 +597,29 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110584198635399979",
-			"parentId": "110582529055799463",
-			"url": "https://c.im/@matthewp/110584198114828085",
+			"id": "110583078480487638",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@ericmikkelsen/110583078447155470",
 			"author": {
-				"name": "Matthew Phillips",
-				"url": "https://c.im/@matthewp",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
+				"name": "Eric",
+				"url": "https://fosstodon.org/@ericmikkelsen",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/525/585/010/329/526/original/e613c7ad639ab717.png"
 			},
-			"date": "2023-06-21T20:55:52.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> One of the biggest plus sides to the side-project route is that you are completely unencumbered by \"support X\" requests. You have more freedom to explore new ideas that haven't been tried before. Funding is a killer for originality; you are incentivized to make safe choices others have already made. In other words, I see a very bright future for Eleventy.</p>",
+			"date": "2023-06-21T16:11:07.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> This is a bummer, you've made such a great big thing. I've benefitted so much from you getting to work on it for this year, so thank's a million.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110583385408842505",
+			"parentId": 0,
+			"url": "https://higheredweb.social/@reedpiernock/110583384115066411",
+			"author": {
+				"name": "Reed Piernock",
+				"url": "https://higheredweb.social/@reedpiernock",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/394/431/422/094/821/original/dd92ff45e87ddbd4.png"
+			},
+			"date": "2023-06-21T17:28:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I appreciate everything you do with <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> ❤️ I think my coworkers are getting humorously tired of me taking about it and how much I love using it. What started as a small \"serendipity\" project became a much-loved tool. Thank you 87 times 🧑‍💻</p>",
 			"via": "fediverse"
 		},
 		{
@@ -615,6 +628,53 @@
 			"url": "https://mastodon.social/@autiomaa/110586072508877196",
 			"private": true,
 			"date": "2023-06-22T04:52:33.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110588848858158230",
+			"parentId": "110582529055799463",
+			"url": "https://toot.cafe/@tomayac/110588848629902514",
+			"author": {
+				"name": "Thomas Steiner :chrome:",
+				"url": "https://toot.cafe/@tomayac",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/136/001/410/553/original/b39518ad1807b9a8.jpeg"
+			},
+			"date": "2023-06-22T16:38:33.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thank you, Zach! You’re the hero we don’t deserve!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110588879625418443",
+			"parentId": "110588848858158230",
+			"url": "https://fediverse.zachleat.com/@zachleat/110588879625418443",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-22T16:46:26.861Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@tomayac\" class=\"u-url mention\">@<span>tomayac</span></a></span> thank you! ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110588884515454871",
+			"parentId": "110586072547645380",
+			"url": "https://fediverse.zachleat.com/@zachleat/110588884515454871",
+			"private": true,
+			"date": "2023-06-22T16:47:41.477Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110588887990482443",
+			"parentId": "110583385408842505",
+			"url": "https://fediverse.zachleat.com/@zachleat/110588887990482443",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-22T16:48:34.502Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://higheredweb.social/@reedpiernock\" class=\"u-url mention\">@<span>reedpiernock</span></a></span> haha thanks Reed 🙌🏻</p>",
 			"via": "fediverse"
 		},
 		{
@@ -628,6 +688,27 @@
 			},
 			"date": "2023-06-22T16:54:02.540Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nachtfunke\" class=\"u-url mention\">@<span>nachtfunke</span></a></span> Appreciate your support Thomas!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110588914953566895",
+			"parentId": "110588906563079133",
+			"url": "https://fediverse.zachleat.com/@zachleat/110588914953566895",
+			"private": true,
+			"date": "2023-06-22T16:55:25.926Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110588942559997874",
+			"parentId": 0,
+			"url": "https://social.lol/@cory/110588942525396243",
+			"author": {
+				"name": "Cory :prami_pride_demi:",
+				"url": "https://social.lol/@cory",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/606/268/895/857/560/original/700e8713510a4d73.jpeg"
+			},
+			"date": "2023-06-22T17:02:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> thank you for all the work that's gone into it! I'll be looking to see how else I can contribute to it and the community. 🎈</p>",
 			"via": "fediverse"
 		},
 		{
@@ -759,6 +840,38 @@
 			"date": "2023-06-23T19:45:34.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Always!</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "110624868488140744",
+			"parentId": 0,
+			"url": "https://indieweb.social/@joshcrain/110624868477576488",
+			"author": {
+				"name": "Josh Crain",
+				"url": "https://indieweb.social/@joshcrain",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/373/827/703/956/965/original/9721e5e9e2754146.png"
+			},
+			"date": "2023-06-29T01:18:53.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eleventy</span></a></span> there is no better side project</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110627858230852344",
+			"parentId": "110624868488140744",
+			"url": "https://fediverse.zachleat.com/@zachleat/110627858230852344",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-06-29T13:59:13.178Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@joshcrain\" class=\"u-url mention\">@<span>joshcrain</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> thank you Josh ❤️</p>",
+			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 159,
+		"reposts": 114,
+		"comments": 46,
+		"via": "fediverse"
+	}
 }

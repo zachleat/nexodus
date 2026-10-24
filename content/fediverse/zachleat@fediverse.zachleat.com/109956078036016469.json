@@ -78,5 +78,11 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh, I hadn't put 2+2 together on webc:import. Makes perfect sense! I do have a (non-11ty, gasp!) use case for a standalone Web Component, but maybe I can rejig it so it at least reuses the compiler outputs.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 12,
+		"reposts": 3,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

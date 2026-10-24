@@ -1,6 +1,32 @@
 {
 	"comments": [
 		{
+			"id": "111284727131458005",
+			"parentId": 0,
+			"url": "https://typo.social/@drott/111284727104357375",
+			"author": {
+				"name": "Dominik Röttsches :verified:",
+				"url": "https://typo.social/@drott",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/439/476/837/524/851/original/dfcecc05ba11bdf1.jpg"
+			},
+			"date": "2023-10-23T14:09:36.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://chaos.social/@scy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scy</span></a></span>  - Have you seen Garret's latest posts and work in a static friendly direction? <a href=\"https://lists.w3.org/Archives/Public/public-webfonts-wg/2023Sep/0003.html\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">lists.w3.org/Archives/Public/p</span><span class=\"invisible\">ublic-webfonts-wg/2023Sep/0003.html</span></a> - there's more to come.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111284758129899697",
+			"parentId": "111284727131458005",
+			"url": "https://fediverse.zachleat.com/@zachleat/111284758129899697",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-23T14:17:30.176Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@drott\" class=\"u-url mention\">@<span>drott</span></a></span> I had not, thank you! Give Garret a second Emmy! 🏆</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "111284921692033338",
 			"parentId": 0,
 			"url": "https://social.dino.icu/@reesericci/111284921663436194",
@@ -26,5 +52,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://chaos.social/@scy\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scy</span></a></span> </p><p>A bit late to the party but this is awesome (both the maps and IFT)</p><p>IFT could be a huge game changer for the CJK web since many sites avoid using fonts due to the huge file sizes</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 31,
+		"reposts": 15,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

@@ -1,0 +1,99 @@
+{
+	"comments": [
+		{
+			"id": "109948581925268616",
+			"parentId": 0,
+			"url": "https://mastodon.guerilla.studio/@tixie/109948581766529791",
+			"author": {
+				"name": "Tixie Salander",
+				"url": "https://mastodon.guerilla.studio/@tixie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/643/965/226/702/704/original/178aa8408dd7ba70.jpeg"
+			},
+			"date": "2023-03-01T14:50:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Gonna work on some Eleventy today too! With serverless, edge, img, the all plugin stack :cheer: <br>It's one page but it have to go online ASAP so I'm pretty hyped to see how fast I'm gonna be able to go with it</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109948592007124275",
+			"parentId": "109948581925268616",
+			"url": "https://fediverse.zachleat.com/@zachleat/109948592007124275",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-01T14:52:53.153Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.guerilla.studio/@tixie\" class=\"u-url mention\">@<span>tixie</span></a></span> Good luck! Let me now if I can help!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109948598010386097",
+			"parentId": "109948592007124275",
+			"url": "https://mastodon.guerilla.studio/@tixie/109948597991592107",
+			"author": {
+				"name": "Tixie Salander",
+				"url": "https://mastodon.guerilla.studio/@tixie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/643/965/226/702/704/original/178aa8408dd7ba70.jpeg"
+			},
+			"date": "2023-03-01T14:54:24.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thank you a lot, I'll reach if needed!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109952280723321016",
+			"parentId": "109948592007124275",
+			"url": "https://mastodon.guerilla.studio/@tixie/109952280692797204",
+			"author": {
+				"name": "Tixie Salander",
+				"url": "https://mastodon.guerilla.studio/@tixie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/643/965/226/702/704/original/178aa8408dd7ba70.jpeg"
+			},
+			"date": "2023-03-02T06:30:58.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The moment I've moved my page to a serverless function (instead of default static build) i have twice my page's code showing, does it ring a bell on a common pitfall?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109952442814095196",
+			"parentId": "109952280723321016",
+			"url": "https://mastodon.guerilla.studio/@tixie/109952442781443411",
+			"author": {
+				"name": "Tixie Salander",
+				"url": "https://mastodon.guerilla.studio/@tixie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/643/965/226/702/704/original/178aa8408dd7ba70.jpeg"
+			},
+			"date": "2023-03-02T07:12:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I deployed it on netlify and doesn't seems to do it there, only on the local dev serv (Eleventy 2 and using eleventy --serve as dev serv command)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109954032505012693",
+			"parentId": "109952442814095196",
+			"url": "https://fediverse.zachleat.com/@zachleat/109954032505012693",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-03-02T13:56:28.572Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.guerilla.studio/@tixie\" class=\"u-url mention\">@<span>tixie</span></a></span> Yeah, I think there might be an issue with the serverless middleware on the dev server? Can you file that here? <a href=\"https://github.com/11ty/eleventy-dev-server/issues\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-dev-s</span><span class=\"invisible\">erver/issues</span></a> it doesn’t need to be elaborate</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109954045197492792",
+			"parentId": "109954032505012693",
+			"url": "https://mastodon.guerilla.studio/@tixie/109954044668571761",
+			"author": {
+				"name": "Tixie Salander",
+				"url": "https://mastodon.guerilla.studio/@tixie",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/643/965/226/702/704/original/178aa8408dd7ba70.jpeg"
+			},
+			"date": "2023-03-02T13:59:34.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> after some sleep yeah we’ll have some feedbacks with <span class=\"h-card\"><a href=\"https://mastodon.guerilla.studio/@milia\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>milia</span></a></span> because some stuff were incomprehensibly broken or weird. It’s didn’t went all smooth</p><p>But now 💤 :laying_front:</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 16,
+		"via": "fediverse"
+	}
+}

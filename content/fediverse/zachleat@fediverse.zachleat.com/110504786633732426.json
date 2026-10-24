@@ -40,6 +40,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "110504977661377200",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ardouglass/110504977431132158",
+			"author": {
+				"name": "Andrew Douglass",
+				"url": "https://mastodon.social/@ardouglass",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/359/929/909/083/745/original/c4f67e7815b7a4b6.png"
+			},
+			"date": "2023-06-07T21:09:00.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "110505484669829849",
 			"parentId": 0,
 			"url": "https://indieweb.social/@jaredwhite/110505484635877629",
@@ -52,5 +65,10 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> An already janky ecosystem just getting that much jankier…</p><p>Kinda a real bummer to be honest…I always admired Next.js for its conceptual simplicity (React-isms aside), but simplicity seems to be out the window at this point…</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 4,
+		"comments": 3,
+		"via": "fediverse"
+	}
 }

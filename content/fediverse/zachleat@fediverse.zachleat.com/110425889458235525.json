@@ -78,5 +78,11 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> `<span class=\"h-card\"><a href=\"https://mastodon.social/@me\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>me</span></a></span> (broken) { ... }`</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 44,
+		"reposts": 12,
+		"comments": 5,
+		"via": "fediverse"
+	}
 }

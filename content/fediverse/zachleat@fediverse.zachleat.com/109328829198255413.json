@@ -130,5 +130,11 @@
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That's basically what `defer-hydration` does, it just requires the component to implement that behavior (which isn't great I admit).</p><p>I do feel like when it only applies to a specific element, it requires you to put `defer-hydration` on everything except the top-level node, which is easy to mess up. It's also implementable in userspace via `attributeChangedCallback()` like `defer-hydration` does, whereas a subtree approach can't be.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 45,
+		"reposts": 15,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

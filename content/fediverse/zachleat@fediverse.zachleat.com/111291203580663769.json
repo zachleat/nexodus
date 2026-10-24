@@ -12,14 +12,12 @@
 			"date": "2023-10-24T17:57:30.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Cleaner look, congratulations!</p>",
 			"via": "fediverse"
-		},
-		{
-			"id": "111292138715768796",
-			"parentId": 0,
-			"url": "https://indieweb.social/@nmn/111292138701339752",
-			"private": true,
-			"date": "2023-10-24T21:34:28.000Z",
-			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 11,
+		"reposts": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

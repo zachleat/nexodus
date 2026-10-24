@@ -53,6 +53,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "111245715296037767",
+			"parentId": "111245459926555472",
+			"url": "https://toot.cafe/@seaotta/111245715058916493",
+			"author": {
+				"name": "Stephanie 🔮  Web Witch",
+				"url": "https://toot.cafe/@seaotta",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/797/996/063/064/original/d9108e5e9943b221.jpeg"
+			},
+			"date": "2023-10-16T16:48:20.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>DavidDarnes</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 👀👀👀👀👀</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "111246639033061471",
 			"parentId": 0,
 			"url": "https://mastodon.social/@devolute/111246638901819540",
@@ -130,5 +143,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p><a href=\"https://fosstodon.org/tags/GoToSocial\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>GoToSocial</span></a> has a \"mutuals only\" post-visibility/privacy feature.</p><p>Documentation:<br><a href=\"https://docs.gotosocial.org/en/latest/user_guide/posts/#mutuals-only\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.gotosocial.org/en/latest/</span><span class=\"invisible\">user_guide/posts/#mutuals-only</span></a></p><p>CC <span class=\"h-card\" translate=\"no\"><a href=\"https://gts.superseriousbusiness.org/@gotosocial\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>gotosocial</span></a></span></p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 46,
+		"reposts": 8,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

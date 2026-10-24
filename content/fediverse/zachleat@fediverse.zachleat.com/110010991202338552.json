@@ -78,5 +78,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@peterwilsoncc\" class=\"u-url mention\">@<span>peterwilsoncc</span></a></span> this is the start of an open source mastodon backup project a la <a href=\"https://github.com/tweetback/tweetback\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tweetback/tweetback</span><span class=\"invisible\"></span></a></p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

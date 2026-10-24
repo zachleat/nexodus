@@ -9,6 +9,22 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "110690446877107570",
+			"parentId": "110690430942237236",
+			"url": "https://fediverse.zachleat.com/@zachleat/110690446877107570",
+			"private": true,
+			"date": "2023-07-10T15:16:20.130Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110690682928793878",
+			"parentId": "110690446877107570",
+			"url": "https://mastodon.cloud/@maxfenton/110690682884064469",
+			"private": true,
+			"date": "2023-07-10T16:16:21.000Z",
+			"via": "fediverse"
+		},
+		{
 			"id": "110694600017608861",
 			"parentId": "110690430942237236",
 			"url": "https://mastodon.social/@tripleman/110694599986305062",
@@ -23,6 +39,20 @@
 			"private": true,
 			"date": "2023-07-11T14:30:25.636Z",
 			"via": "fediverse"
+		},
+		{
+			"id": "110695934826606904",
+			"parentId": "110690682928793878",
+			"url": "https://fediverse.zachleat.com/@zachleat/110695934826606904",
+			"private": true,
+			"date": "2023-07-11T14:31:59.593Z",
+			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 4,
+		"reposts": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

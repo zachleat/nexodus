@@ -144,19 +144,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968111876157611",
-			"parentId": "110968036479326383",
-			"url": "https://social.bennypowers.dev/@bp/110968111851712203",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-08-28T16:10:11.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is that what they call becoming a \"lifestyle company\"?</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110968119453160364",
 			"parentId": "110968041350429730",
 			"url": "https://indieweb.social/@nachtfunke/110968119421214249",
@@ -400,19 +387,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968953662674971",
-			"parentId": "110968845489353426",
-			"url": "https://c.im/@matthewp/110968953631849390",
-			"author": {
-				"name": "Matthew Phillips",
-				"url": "https://c.im/@matthewp",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
-			},
-			"date": "2023-08-28T19:44:15.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> Everything's perishable, right? With companies you worry that they might fail. With BDFL you worry about bus factor. A foundation is probably the safest place for a project, but even those seem to take on more than they can maintain. Good thing about SSG is that once you deploy you can throw away the framework you used to build it, if you want.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110969353695427411",
 			"parentId": "110968953662674971",
 			"url": "https://mastodon.social/@lekoarts/110969353540826638",
@@ -423,19 +397,6 @@
 			},
 			"date": "2023-08-28T21:25:58.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@matthewp\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matthewp</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> For my hobby projects I wouldn’t care, for my business I would care a lot.</p><p>Bit surprised to hear that there are no concrete plans, normally no one just gives money away for free.</p><p>Projects like Next, Astro, Gatsby, etc. are so complex, once no one gets paid anymore to work on them it’s impossible for the community to immediately pick it up unless preparations were made and non-company core contributors were taught.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110969400292083270",
-			"parentId": "110969353695427411",
-			"url": "https://c.im/@matthewp/110969400256566337",
-			"author": {
-				"name": "Matthew Phillips",
-				"url": "https://c.im/@matthewp",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
-			},
-			"date": "2023-08-28T21:37:50.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> There are concrete plans, but not ones I can share here now. Stay tuned.</p>",
 			"via": "fediverse"
 		},
 		{
@@ -685,5 +646,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\">@<span>remotesynth</span></a></span> Yeah, this all seems accurate to me. The one weird piece is that the risk to authors is fairly well known (to authors) but the risk to app developers (end users/framework consumers) is not.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 37,
+		"reposts": 7,
+		"comments": 9,
+		"via": "fediverse"
+	}
 }

@@ -54,7 +54,7 @@
 			"author": {
 				"name": "Catherine is not complacent",
 				"url": "https://mastodon.world/@CatDragon",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/575/503/712/992/751/original/4b56a2c075ad487d.png"
 			},
 			"date": "2022-12-25T17:31:36.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> VTech is Evil incarnate.</p>",
@@ -196,5 +196,11 @@
 			"date": "2022-12-28T17:00:08.725Z",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 72,
+		"reposts": 15,
+		"comments": 10,
+		"via": "fediverse"
+	}
 }

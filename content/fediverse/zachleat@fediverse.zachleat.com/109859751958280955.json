@@ -27,14 +27,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109859793415150763",
-			"parentId": 0,
-			"url": "https://social.gabekangas.com/objects/41a50f3f-dcdf-4662-9f2d-92d9268efaa2",
-			"private": true,
-			"date": "2023-02-13T22:30:08.794Z",
-			"via": "fediverse"
-		},
-		{
 			"id": "109859801342221949",
 			"parentId": "109859793415150763",
 			"url": "https://fediverse.zachleat.com/@zachleat/109859801342221949",
@@ -43,27 +35,11 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109859805451441390",
-			"parentId": "109859801342221949",
-			"url": "https://social.gabekangas.com/objects/9a2f2106-d4f2-4925-ba56-148d94737e84",
-			"private": true,
-			"date": "2023-02-13T22:33:11.282Z",
-			"via": "fediverse"
-		},
-		{
 			"id": "109859808062729095",
 			"parentId": "109859805451441390",
 			"url": "https://fediverse.zachleat.com/@zachleat/109859808062729095",
 			"private": true,
 			"date": "2023-02-13T22:33:57.673Z",
-			"via": "fediverse"
-		},
-		{
-			"id": "109859822619057890",
-			"parentId": "109859808062729095",
-			"url": "https://social.gabekangas.com/objects/fd9ddebd-c162-4e04-b724-7c8dc33e21e4",
-			"private": true,
-			"date": "2023-02-13T22:37:35.978Z",
 			"via": "fediverse"
 		},
 		{
@@ -111,14 +87,6 @@
 			},
 			"date": "2023-02-13T22:44:45.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> what are the expectations of the role? </p><p>Does the organization doing the hiring expect you to be productive immediately or in several weeks? </p><p>Are you a contractor being hired for a specific duration?</p><p>Should you be expected to know where the foot guns are in the framework the team is using?</p><p>What level of experience?</p><p>This kinda feels like “do I want someone who speaks Latin right now or someone who knows proto-Indo-European who can learn Latin”.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "109859851466343301",
-			"parentId": "109859829976963850",
-			"url": "https://social.gabekangas.com/objects/8fd8169a-5354-4a18-aed1-67be9fa68c1e",
-			"private": true,
-			"date": "2023-02-13T22:44:55.579Z",
 			"via": "fediverse"
 		},
 		{
@@ -317,6 +285,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "109859962014778408",
+			"parentId": 0,
+			"url": "https://indieweb.social/@kristoferjoseph/109859961995280808",
+			"author": {
+				"name": "Kristofer Joseph",
+				"url": "https://indieweb.social/@kristoferjoseph",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/868/556/368/214/original/a9763cb61d94ea6b.jpg"
+			},
+			"date": "2023-02-13T23:13:06.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> or my personal favorite:</p><p>They post A, </p><p>but really mean B,</p><p>but in actual reality they are doing a never before mentioned C, </p><p>which ends in developers feeling unhappy and getting labeled as \"underperformers\"</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "109859964161336108",
 			"parentId": "109859908057171066",
 			"url": "https://mastodon.social/@mattpodwysocki/109859964127297200",
@@ -327,6 +308,19 @@
 			},
 			"date": "2023-02-13T23:13:39.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This meaning B, apologies for not being clearer</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109859964707210178",
+			"parentId": "109859962014778408",
+			"url": "https://fediverse.zachleat.com/@zachleat/109859964707210178",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-02-13T23:13:47.884Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@kristoferjoseph\" class=\"u-url mention\">@<span>kristoferjoseph</span></a></span> *yikes*</p>",
 			"via": "fediverse"
 		},
 		{
@@ -353,6 +347,19 @@
 			},
 			"date": "2023-02-13T23:18:00.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p><p>A, but set expectations in the job rec about which stack the candidate needs to ramp up on. </p><p>I’ve explained to so many people JavaScript is a pre-req to React and without a solid foundation in JS the employee won’t be able to solve problems, then be ignored because the managers were convinced they knew better. They kept pushing back saying the candidates only needed to know React. There’s a fundamental lack of understanding how the web platform works at management level.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109859984089436386",
+			"parentId": "109859964707210178",
+			"url": "https://indieweb.social/@kristoferjoseph/109859984067202002",
+			"author": {
+				"name": "Kristofer Joseph",
+				"url": "https://indieweb.social/@kristoferjoseph",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/868/556/368/214/original/a9763cb61d94ea6b.jpg"
+			},
+			"date": "2023-02-13T23:18:43.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> \"it's like react but actually it's built in knockout with jQuery but you'll be instrumental in the update to react except for when there are big fixes needed, or features added\"</p>",
 			"via": "fediverse"
 		},
 		{
@@ -655,5 +662,11 @@
 			"date": "2023-02-15T19:55:59.000Z",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 47,
+		"reposts": 14,
+		"comments": 18,
+		"via": "fediverse"
+	}
 }

@@ -1,19 +1,6 @@
 {
 	"comments": [
 		{
-			"id": "110696766452588869",
-			"parentId": 0,
-			"url": "https://social.bennypowers.dev/@bp/110696766330710476",
-			"author": {
-				"name": "Benny Powers 🇨🇦️🇮🇱️",
-				"url": "https://social.bennypowers.dev/@bp",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-07-11T18:03:27.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <a href=\"https://youtu.be/TAP7NVUPHrM\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/TAP7NVUPHrM</span><span class=\"invisible\"></span></a></p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110696780273740388",
 			"parentId": 0,
 			"url": "https://front-end.social/@mxbck/110696780134757842",
@@ -212,19 +199,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110700020681552788",
-			"parentId": 0,
-			"url": "https://mastodon.social/@ratkins/110700020592657580",
-			"author": {
-				"name": "Robert Atkins",
-				"url": "https://mastodon.social/@ratkins",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-07-12T07:51:03.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Zing! Yes, clever, funny, but… I put together my own website on my own domain. It’s a one pager with no interactive features, I happened to have hosting included with my pay-for email service (Fastmail), I’m a professional software engineer (though not web developer) and it took me over a week!</p><p>Until building a self-sovereign presence on the web is as easy as signing up for a proprietary service people will keep signing up for proprietary services. And that is entirely rational!</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110701436848859404",
 			"parentId": "110699510268692460",
 			"url": "https://fediverse.zachleat.com/@zachleat/110701436848859404",
@@ -316,19 +290,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110701814951485635",
-			"parentId": "110701745598271643",
-			"url": "https://mastodon.social/@ratkins/110701814830460769",
-			"author": {
-				"name": "Robert Atkins",
-				"url": "https://mastodon.social/@ratkins",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-07-12T15:27:21.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@smyth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>smyth</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I don’t think the analogy quite holds. It’s more like that if you just get yourself some tools you can service your own car instead of taking it to the mechanic. Except you can’t, because modern cars are incredibly sophisticated and need expensive tools that require years of training to use properly. It’s entirely rational for people to not bother.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110701839102813729",
 			"parentId": "110701814951485635",
 			"url": "https://mastodon.social/@smyth/110701839039339904",
@@ -339,19 +300,6 @@
 			},
 			"date": "2023-07-12T15:33:30.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ratkins\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ratkins</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>I honestly think that cooking and making a website are more comperable in terms of time spent. The issue is that, when you go to learn to make a site, people try to teach you React or whatever. Then it's like building a car from scratch or whatever.</p><p>People find HTML to be pretty intuitive, and cpanel is not hard once people know to look for it. But the current ecosystem is either for normie service users or full blown devs. There used to be more space in between.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110701903040952704",
-			"parentId": "110701839102813729",
-			"url": "https://mastodon.social/@ratkins/110701903006858170",
-			"author": {
-				"name": "Robert Atkins",
-				"url": "https://mastodon.social/@ratkins",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2023-07-12T15:49:46.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@smyth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>smyth</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You are *vastly* overestimating the technical competence of average human. Cpanel? Ha! I’m a professional software engineer and my life’s too short to eff about with cPanel.</p>",
 			"via": "fediverse"
 		},
 		{
@@ -518,5 +466,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh I C. hmm I am not sure that is good.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 296,
+		"reposts": 185,
+		"comments": 19,
+		"via": "fediverse"
+	}
 }
