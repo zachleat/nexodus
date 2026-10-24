@@ -66,6 +66,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "111383326799786085",
+			"parentId": 0,
+			"url": "https://mastodon.social/@marcellerusu/111383326609228202",
+			"author": {
+				"name": "Marcelle",
+				"url": "https://mastodon.social/@marcellerusu",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-11-10T00:04:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> wasn’t aware there was backlash against shadow dom. I see it in all the tutorials so assumed it was “best practices”</p><p>Can I ask when shadow dom hurts to use?</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "111383361480901913",
 			"parentId": "111383176792146470",
 			"url": "https://mastodon.social/@sil/111383361374255340",
@@ -230,6 +243,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "111387235239031715",
+			"parentId": "111383326799786085",
+			"url": "https://fediverse.zachleat.com/@zachleat/111387235239031715",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-11-10T16:38:46.769Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@marcellerusu\" class=\"u-url mention\">@<span>marcellerusu</span></a></span> I did a talk on this! <a href=\"https://www.zachleat.com/web/jsheroes/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/jsheroes/</span><span class=\"invisible\"></span></a> I need to post a blog post though</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "111387236985520893",
 			"parentId": "111383590519534868",
 			"url": "https://fediverse.zachleat.com/@zachleat/111387236985520893",
@@ -372,5 +398,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jakelazaroff\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jakelazaroff</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://piaille.fr/@tbroyer\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>tbroyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://techhub.social/@develwithoutacause\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>develwithoutacause</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> this is why I think the solution to a few shadow DOM problems is to decouple the encapsulation features, because slots are the most fundamental thing that SD does, and you can't get interoperable composition other ways.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 44,
+		"reposts": 16,
+		"comments": 7,
+		"via": "fediverse"
+	}
 }

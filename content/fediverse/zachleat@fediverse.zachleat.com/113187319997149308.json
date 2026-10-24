@@ -143,5 +143,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yep I’ve found the same, the UX of Cloudflare is all over the place, most likely due to it doing so much more than static site hosting. Fastly is the next one I want to try <a href=\"https://www.fastly.com/blog/no-origin-static-websites-at-the-edge/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">fastly.com/blog/no-origin-stat</span><span class=\"invisible\">ic-websites-at-the-edge/</span></a> though last time I tried it choked because the upload was bigger than 100mb thanks to all my images.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 23,
+		"reposts": 2,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

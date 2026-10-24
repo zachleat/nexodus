@@ -78,5 +78,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> good question! looks like the Axe run (and screenshot) returned a 403 but the Lighthouse request might have succeeded with a 200 (which you can see in the filmstrip).</p><p><a href=\"https://www.speedlify.dev/site/www-oracle-com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">speedlify.dev/site/www-oracle-</span><span class=\"invisible\">com/</span></a></p><p>I might need to handle this specific case better on my end</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 8,
+		"reposts": 1,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

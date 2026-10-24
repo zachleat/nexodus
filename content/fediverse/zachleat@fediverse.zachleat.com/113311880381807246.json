@@ -40,6 +40,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "113312135304175417",
+			"parentId": 0,
+			"url": "https://toots.inbutts.lol/@shnizmuffin/113312135232895526",
+			"author": {
+				"name": "ShnizmuffiN",
+				"url": "https://toots.inbutts.lol/@shnizmuffin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/952/635/091/269/876/original/a27991893443d005.png"
+			},
+			"date": "2024-10-15T15:26:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If they have, it better be called &lt;maybe-not&gt;</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "113315160695120018",
 			"parentId": "113311995886582093",
 			"url": "https://c.im/@cwilcox808/113315160683611939",
@@ -130,5 +143,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>I made a fancier light DOM version. Like the Shadow DOM version, you only need to use &lt;spoil-er&gt;, the rest of what is needed is automatically added.</p><p>I think how it adds the button is okay but I'm a little unsure about how it wraps the content in a span.</p><p><a href=\"https://codepen.io/ccwilcox/pen/RwXgGjz\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/ccwilcox/pen/RwXgGj</span><span class=\"invisible\">z</span></a></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@stvfrnzl\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stvfrnzl</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@scottohara\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>scottohara</span></a></span></p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 1,
+		"reposts": 1,
+		"comments": 3,
+		"via": "fediverse"
+	}
 }

@@ -598,5 +598,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> it works sometimes, every time!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 21,
+		"reposts": 5,
+		"comments": 13,
+		"via": "fediverse"
+	}
 }

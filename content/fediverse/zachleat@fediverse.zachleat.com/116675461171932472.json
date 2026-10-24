@@ -141,5 +141,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Are you thinking about storing the vectors in LCM (Large Checkbox Model)? could store text in :before and :after content, return answers using css selectors? I’m reasonably sure these words are real CSS words, but less confident it’s actually meaningful - which might just be on brand for it all. But I can promise I wrote this string of thoughts myself.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 11,
+		"reposts": 1,
+		"comments": 5,
+		"via": "fediverse"
+	}
 }

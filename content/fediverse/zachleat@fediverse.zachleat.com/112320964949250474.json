@@ -261,14 +261,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "112322636580497518",
-			"parentId": 0,
-			"url": "https://social.gabekangas.com/objects/83d51222-f500-4965-991c-c6c19957ec05",
-			"private": true,
-			"date": "2024-04-23T21:23:48.024Z",
-			"via": "fediverse"
-		},
-		{
 			"id": "112322642752443069",
 			"parentId": 0,
 			"url": "https://tane.codes/@tanepiper/112322642737076165",
@@ -346,5 +338,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@martycoote\" class=\"u-url mention\">@<span>martycoote</span></a></span> appreciate you Marty!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 25,
+		"reposts": 8,
+		"comments": 8,
+		"via": "fediverse"
+	}
 }

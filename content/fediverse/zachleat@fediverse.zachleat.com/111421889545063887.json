@@ -117,5 +117,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sorry, it got shipped but will be enabled by default only in 121 (December 19). But you can test it now by enabling layout.css.text-wrap-balance.enabled in about:config 🤓</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 33,
+		"reposts": 5,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

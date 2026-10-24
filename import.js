@@ -12,6 +12,7 @@ async function runImport(type, target, output) {
 	importer.setOverwriteAllow();
 	importer.addSource(type, target);
 
+	// I’ve imported the last 3 years
 	let entries = await importer.getEntries({ contentType: "markdown", target: "fs", within: "90d" });
 	await importer.toFiles(entries);
 	importer.logResults();

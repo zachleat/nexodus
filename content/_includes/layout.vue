@@ -14,6 +14,7 @@
 				<div class="wrap">
 					<a href="/" class="site-title">{{ pageTitle }}</a>
 					<p class="site-tagline">Posts from Bluesky and the fediverse, kept in git.</p>
+					<p v-if="dateRange" class="site-dates"><time :datetime="dateRange.oldest.toISOString()">{{ friendlyDate(dateRange.oldest) }}</time> – <time :datetime="dateRange.newest.toISOString()">{{ friendlyDate(dateRange.newest) }}</time></p>
 					<div id="search" role="search"></div>
 				</div>
 			</header>
@@ -64,6 +65,8 @@ img, video { max-width: 100%; height: auto; border-radius: 8px; }
 .site-header { padding-block: 2.5rem 1.5rem; }
 .site-title { color: var(--text); font-size: 1.6rem; font-weight: 700; letter-spacing: -.02em; text-decoration: none; }
 .site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
+.site-tagline:has(+ .site-dates) { margin-bottom: 0; }
+.site-dates { margin: 0 0 1.25rem; color: var(--muted); font-size: .9rem; }
 .summary { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
 
 .feed { display: grid; gap: 1rem; }
@@ -238,6 +241,13 @@ export default {
 		fullTitle() {
 			let { title } = this.$data;
 			return title ? `${title} — ${this.pageTitle}` : this.pageTitle;
+		},
+		dateRange() {
+			let groups = this.collections?.postGroups;
+			if(!groups?.length) {
+				return;
+			}
+			return { newest: groups[0].date, oldest: groups.at(-1).date };
 		},
 		searchScript() {
 			let options = { element: "#search", baseUrl: this.htmlBaseUrl("/"), showSubResults: false, showImages: false, resetStyles: false, openFilters: ["source"], pageSize: 20 };

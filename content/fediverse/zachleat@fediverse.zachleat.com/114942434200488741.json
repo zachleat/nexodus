@@ -65,5 +65,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh!? Interesting. Yes, you got me right. Yes, in a static site generator, just like with static linking, you need *all pieces* to be present and assembled correctly or it fails to build. While a dynamically linked application can be built with undefined references to be resolved at run time... and then just fail in production. I agree, and the analogy applies downstack too. That is to say that the act of having to assemble the whole thing statically is proxy for correctness.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 5,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

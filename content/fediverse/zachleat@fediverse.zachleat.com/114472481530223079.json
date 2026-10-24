@@ -91,5 +91,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.kinlan.me/@paul\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>paul</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Not sure about Chrome’s implementation, but Safari is picky about the colors it allows you to set both in light and dark mode (for proper contrast). It just happens to be more picky in dark mode. At least it was the case on desktop a few years ago when I tested it.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 6,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

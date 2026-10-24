@@ -65,5 +65,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@rauschma\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rauschma</span></a></span> Sure. But Platforms can still carry the responsibility to try to avoid implementing things that are known to be footgun shaped.</p><p>In my codebases, sure I can just run an eslint rule to avoid this API. Unfortunately, yes, I can’t force my third party dependencies to adopt the same eslint rule no matter how much it impacts me if they shoot themselves in the foot.</p><p>Again, I know I’m worried about a worst case scenario that bad libraries can already do with extra work today.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 18,
+		"reposts": 9,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

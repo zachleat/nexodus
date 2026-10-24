@@ -39,5 +39,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\">@<span>patak</span></a></span> in some code paths I use the weird Module#_compile trick to allow dynamic import() in CJS (I think I picked it up from Svelte at one point) <a href=\"https://github.com/zachleat/node-retrieve-globals/blob/4fbf1e474e7fedfa79f847e4ebc5d0d2075f9b27/retrieveGlobals.js#L270-L272\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/node-retri</span><span class=\"invisible\">eve-globals/blob/4fbf1e474e7fedfa79f847e4ebc5d0d2075f9b27/retrieveGlobals.js#L270-L272</span></a> (oh and <a href=\"https://github.com/zachleat/esm-import-transformer/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zachleat/esm-import</span><span class=\"invisible\">-transformer/</span></a> to transform `import` to dynamic `import` 😓)</p><p>so many tricks!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 3,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

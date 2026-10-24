@@ -1,14 +1,6 @@
 {
 	"comments": [
 		{
-			"id": "111439103236762909",
-			"parentId": 0,
-			"url": "https://indieweb.social/@nmn/111439103217412405",
-			"private": true,
-			"date": "2023-11-19T20:29:29.000Z",
-			"via": "fediverse"
-		},
-		{
 			"id": "111439317477493828",
 			"parentId": "111439103236762909",
 			"url": "https://ruby.social/@konnorrogers/111439317449109291",
@@ -25,36 +17,18 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111439324168115536",
-			"parentId": "111439320753259049",
-			"url": "https://indieweb.social/@nmn/111439324148262241",
-			"private": true,
-			"date": "2023-11-19T21:25:40.000Z",
-			"via": "fediverse"
-		},
-		{
-			"id": "111441058165976037",
-			"parentId": "111439324168115536",
-			"url": "https://indieweb.social/@nmn/111441058111965712",
-			"private": true,
-			"date": "2023-11-20T04:46:38.000Z",
-			"via": "fediverse"
-		},
-		{
 			"id": "111441813210444323",
 			"parentId": "111441058165976037",
 			"url": "https://ruby.social/@konnorrogers/111441813177335622",
 			"private": true,
 			"date": "2023-11-20T07:58:40.000Z",
 			"via": "fediverse"
-		},
-		{
-			"id": "111441825165391516",
-			"parentId": "111441813210444323",
-			"url": "https://indieweb.social/@nmn/111441821691346670",
-			"private": true,
-			"date": "2023-11-20T08:00:49.000Z",
-			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 15,
+		"reposts": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

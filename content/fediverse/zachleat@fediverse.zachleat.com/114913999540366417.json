@@ -533,5 +533,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@polx\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>polx</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Be strict for sure! This is precisely why we chose RFC 3339 over ISO 8601 for Atom (RFC 4287).</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 51,
+		"reposts": 24,
+		"comments": 9,
+		"via": "fediverse"
+	}
 }

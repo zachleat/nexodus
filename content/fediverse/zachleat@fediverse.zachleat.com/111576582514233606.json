@@ -14,19 +14,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111579323966021833",
-			"parentId": 0,
-			"url": "https://c.im/@matthewp/111579323918169847",
-			"author": {
-				"name": "Matthew Phillips",
-				"url": "https://c.im/@matthewp",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
-			},
-			"date": "2023-12-14T14:49:27.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I wouldn't count on VM / realms stuff, they've been unstable in a number of ways for 10+ years.</p><p>Do workers fulfill your needs?</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111579792986075650",
 			"parentId": "111579295195494761",
 			"url": "https://fediverse.zachleat.com/@zachleat/111579792986075650",
@@ -117,5 +104,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@brian\" class=\"u-url mention\">@<span>brian</span></a></span> well said! Node.js has staying power—I’d kinda be surprised if Bun is still around in 5 years</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 4,
+		"comments": 3,
+		"via": "fediverse"
+	}
 }

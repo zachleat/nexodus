@@ -412,19 +412,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "113085833719209464",
-			"parentId": "113080890239463869",
-			"url": "https://fosstodon.org/@zeioth/113085833697873746",
-			"author": {
-				"name": "Adrian Lopez",
-				"url": "https://fosstodon.org/@zeioth",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2024-09-05T16:14:42.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Get your fucking racism out of my mastodon feed.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "113085856615017285",
 			"parentId": "113085833719209464",
 			"url": "https://mastodon.social/@khalidabuhakmeh/113085856573582332",
@@ -463,5 +450,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> eXtra Lightweight!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 76,
+		"reposts": 24,
+		"comments": 20,
+		"via": "fediverse"
+	}
 }

@@ -130,5 +130,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sstephenson\" class=\"u-url mention\">@<span>sstephenson</span></a></span> (yes! cold c&lt;del&gt;u&lt;/del&gt;ats)</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 2,
+		"comments": 7,
+		"via": "fediverse"
+	}
 }

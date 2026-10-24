@@ -110,5 +110,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\">@<span>jaredwhite</span></a></span> I try really hard to maintain only one live/latest branch of docs—but some of this ESM stuff was too intrusive to live on `www` before `v3` shipped stable—thus the PR. Lots of v3 features are already documented on `www` right now!</p><p>I used to go nuts with versioned docs for every minor release but now I’m planning on just doing major release subdomains moving forward: <a href=\"https://www.11ty.dev/docs/versions/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/versions/</span><span class=\"invisible\"></span></a></p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 27,
+		"reposts": 1,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

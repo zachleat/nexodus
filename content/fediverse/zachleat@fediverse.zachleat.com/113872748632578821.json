@@ -164,5 +164,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kornel\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>kornel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@michelle\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>michelle</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@eeeps\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eeeps</span></a></span>  thanks for this conversation. I understand the comments about the network energy, especially for radio networks, I didn't test that segment because:</p><p>1. There's no reliable means to measure it<br>2. Network energy is (as far as I know) pretty constant <a href=\"https://fershad.com/writing/website-carbon-beyond-data-transfer/#data-transfer-network-energy-usage\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fershad.com/writing/website-ca</span><span class=\"invisible\">rbon-beyond-data-transfer/#data-transfer-network-energy-usage</span></a></p><p>Eric's points on encoding are very valid, as is Kornel's point about efficiency. Both should be measured further in a more end-to-end kinda test scenario.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 10,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

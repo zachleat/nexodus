@@ -39,5 +39,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>stefan</span></a></span> fun fact #2, the env var takes precedence above all other config:</p><p>```<br>$ sudo npm config set --location=global min-release-age=365<br>$ npm config set --location=user min-release-age=730<br>$ npm config set --location=project min-release-age=1095<br>$ export npm_config_min_release_age=1460<br>```</p><p>calling `npm config list` would show a date in 2025, overriden by 2024, overriden by 2023, overriden one last time by 2022.<br>but it's not the largest value, having `1` value would show yesterday!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 9,
+		"reposts": 4,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

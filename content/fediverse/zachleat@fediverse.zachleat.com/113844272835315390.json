@@ -91,5 +91,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yatil.social/@yatil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>yatil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Does that missing alt need alternative text 😉, e.g.</p><p>:has(img:not([alt]))::after {<br>  content: \"💩\" / \"A neat pile of soft brown feces with a smiling face (eyes contact)\";<br>}</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 37,
+		"reposts": 15,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

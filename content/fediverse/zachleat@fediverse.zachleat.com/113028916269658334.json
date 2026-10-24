@@ -52,5 +52,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> yay!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 8,
+		"reposts": 4,
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

@@ -242,5 +242,12 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://c.im/@cwilcox808\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cwilcox808</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mwichary</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Honestly, that supposed rule has never even occurred to me. The main place I see switches used is those deliberately hard-to-use \"privacy\" popups, where they're just form elements with a submit button.</p><p>My thought process on immediate vs on-submit is more like \"hmm, I can't see the Save button, so I guess I just close the window and hope it auto-saved\". Half the time, I load the page back up to check.</p><p>So yeah, if you're relying on that distinction being understood, please stop and just add a small flash message saying \"Saved\" when I tick a checkbox.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 8,
+		"reposts": 5,
+		"comments": 4,
+		"quotes": 1,
+		"via": "fediverse"
+	}
 }

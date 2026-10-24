@@ -1,19 +1,6 @@
 {
 	"comments": [
 		{
-			"id": "112044386998975042",
-			"parentId": 0,
-			"url": "https://social.cologne/@kolya/112044381650714274",
-			"author": {
-				"name": "kolya",
-				"url": "https://social.cologne/@kolya",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2024-03-05T17:59:45.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The Chrome browser extension is useful for testing: <a href=\"https://github.com/GoogleChrome/web-vitals-extension\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/GoogleChrome/web-vi</span><span class=\"invisible\">tals-extension</span></a></p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "112044432784521824",
 			"parentId": 0,
 			"url": "https://hachyderm.io/@andydavies/112044432735761212",
@@ -130,5 +117,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>simoncox</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great to hear that the March 2024 core update finally has landed.</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 26,
+		"reposts": 25,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

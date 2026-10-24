@@ -729,6 +729,90 @@
 			"date": "2024-09-03T15:43:15.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> cost them more to raise an invoice for you lol</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "113074515319529963",
+			"parentId": "113074385485415302",
+			"url": "https://fediverse.zachleat.com/@zachleat/113074515319529963",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-03T16:16:17.605Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\">@<span>andy</span></a></span> this could all be solved with an even more generous free tier 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113074583028034179",
+			"parentId": "113074172480709852",
+			"url": "https://ruby.social/@adam/113074582950755999",
+			"author": {
+				"name": "Adam Fortuna",
+				"url": "https://ruby.social/@adam",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/291/112/085/039/original/c72d66c1f23860c6.jpeg"
+			},
+			"date": "2024-09-03T16:33:29.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nice! That’s a crazy cost reduction. We moved from Vercel to Google Cloud Run last month, and it’s looking like our cost will drop from $400 -&gt; $50 too. I love their service but still don’t fully understand Vercels pricing.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113075254505871403",
+			"parentId": "113074172480709852",
+			"url": "https://mastodon.social/@erikKroes/113075254433662522",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2024-09-03T19:24:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you have a sweet sponsor for that?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113075385296439558",
+			"parentId": "113075254505871403",
+			"url": "https://fediverse.zachleat.com/@zachleat/113075385296439558",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-03T19:57:32.398Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@erikKroes\" class=\"u-url mention\">@<span>erikKroes</span></a></span> is… is that where they give you candy instead of money</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113078115877949121",
+			"parentId": "113074172480709852",
+			"url": "https://mastodon.green/@adamarmfield/113078115852604087",
+			"author": {
+				"name": "adamarmfield",
+				"url": "https://mastodon.green/@adamarmfield",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-09-04T07:31:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I had someone do an http flood attack from Germany then from the Maldives via VPN to bump up the closing bill, which he did, it cost me a dollar! about 12 hours I think, switched to a free host  after that and no further issues</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113107339171745937",
+			"parentId": "113075385296439558",
+			"url": "https://mastodon.social/@erikKroes/113107339140902814",
+			"author": {
+				"name": "Erik Kroes ✅",
+				"url": "https://mastodon.social/@erikKroes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/847/370/150/904/original/f9ce6f87adbb2d1a.png"
+			},
+			"date": "2024-09-09T11:23:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's whatever you want it to be! ✨</p>",
+			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 47,
+		"reposts": 23,
+		"comments": 16,
+		"via": "fediverse"
+	}
 }

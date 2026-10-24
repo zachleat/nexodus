@@ -312,5 +312,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ardouglass\" class=\"u-url mention\">@<span>ardouglass</span></a></span> so basically, I had the library and test suite already ready, just needed to make some small changes in the library for RFC 9557 compat (and to save ~55KB over the full Temporal polyfill lib)</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 14,
+		"comments": 6,
+		"via": "fediverse"
+	}
 }

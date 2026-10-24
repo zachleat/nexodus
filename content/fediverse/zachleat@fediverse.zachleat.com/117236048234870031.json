@@ -91,5 +91,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\">@<span>fontawesome</span></a></span> yay!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 42,
+		"reposts": 1,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

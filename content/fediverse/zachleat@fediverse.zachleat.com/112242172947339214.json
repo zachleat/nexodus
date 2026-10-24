@@ -354,5 +354,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>macdonst</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@McNeely\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>McNeely</span></a></span> ‘Your browser does not support JavaScript!’ will be the new ‘all your base are belong to us’</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 22,
+		"reposts": 10,
+		"comments": 6,
+		"via": "fediverse"
+	}
 }

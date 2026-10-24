@@ -65,5 +65,9 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cafe/@bkardell\" class=\"u-url mention\">@<span>bkardell</span></a></span> ah! (thank you!) yeah I was mostly looking to see if the browser support for those two things were bundled — hopefully so! Seeing the WebKit and Bugzilla issues listed it looks like they are being treated separately so we may need to modify browser compat to have separate entries for these at some point. cc <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@Fyrd\" class=\"u-url mention\">@<span>Fyrd</span></a></span></p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"comments": 2,
+		"via": "fediverse"
+	}
 }

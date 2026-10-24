@@ -1,6 +1,32 @@
 {
 	"comments": [
 		{
+			"id": "113391922932730191",
+			"parentId": 0,
+			"url": "https://t00t.cloud/@mattrambles/113391922925553317",
+			"author": {
+				"name": "Matt Stein",
+				"url": "https://t00t.cloud/@mattrambles",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/960/775/403/450/397/original/d2e6fe54fa928ec1.jpg"
+			},
+			"date": "2024-10-29T17:37:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Even though I’m mostly here for the jokes, I need to say just once that I admire the shit out of the way you advocate for human beings and the internet in a good-humored way that rejects exploitative attention.</p><p>I hope you’ve met or are aware of Bastian Allgeier (Kirby), because I think of the two of you as shining examples of how to manage a project with care and unflappable integrity. I am more of a shitshow so it means a lot to have better models. ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113392002194302806",
+			"parentId": "113391922932730191",
+			"url": "https://fediverse.zachleat.com/@zachleat/113392002194302806",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-10-29T17:57:22.857Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://t00t.cloud/@mattrambles\" class=\"u-url mention\">@<span>mattrambles</span></a></span> I really appreciate that Matt 🙌 It really means a lot.</p><p>I was lucky to meet Bastian at Beyond Tellerrand, yes! They’re awesome.</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "113392736523601311",
 			"parentId": 0,
 			"url": "https://mastodon.social/@tgergo/113392736440848177",
@@ -26,5 +52,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tgergo\" class=\"u-url mention\">@<span>tgergo</span></a></span> both are true (and harm has *already* been done)</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 41,
+		"reposts": 8,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

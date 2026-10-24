@@ -40,6 +40,45 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "112128500185930937",
+			"parentId": 0,
+			"url": "https://mastodon.social/@villepreux/112128500161094046",
+			"author": {
+				"name": "Antoine",
+				"url": "https://mastodon.social/@villepreux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/368/026/309/762/657/original/affbee841519a642.jpg"
+			},
+			"date": "2024-03-20T14:32:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Hello Zac.</p><p>I hope you don't mind me responding in private. I'm not a pro webdev so not so confident on thoses issues.</p><p>But, seeing</p><p>\"We strive to meet the Web Content Accessibility Guidelines (WCAG) 2.1 at the AA level.\"...</p><p>If someone or some organization is really targeting accessibility, should'nt it target APCA contrasted color scores, instead of (or as well as) AA ?</p><p>Or maybe APCA scientific studies on the subject are not valid and it does not improve things?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112128501273302814",
+			"parentId": "112128500185930937",
+			"url": "https://mastodon.social/@villepreux/112128501258518259",
+			"author": {
+				"name": "Antoine",
+				"url": "https://mastodon.social/@villepreux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/368/026/309/762/657/original/affbee841519a642.jpg"
+			},
+			"date": "2024-03-20T14:32:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>But if those studies are valid, I do not really understand why flagship structures like ClouldCanon, 11ty etc. are not advocating for it</p><p>APCA not being a standard yet does not seem to be a valid reason for me.</p><p>(And if targeting WCAG AA for some legal reason does not prevent also targeting APCA)</p><p>Let me know. There might be a turnback against APCA or issues I'm not aware of.</p><p>And since you're a web good practices advocate you must be aware of those.</p><p>Thanks</p><p>Best<br>Antoine</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112129028155854916",
+			"parentId": "112128501273302814",
+			"url": "https://fediverse.zachleat.com/@zachleat/112129028155854916",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-20T16:46:28.414Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@villepreux\" class=\"u-url mention\">@<span>villepreux</span></a></span> good feedback! I think this is worth talking about—I’ll run it by some folks internally</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "112129693956619809",
 			"parentId": "112128483826373083",
 			"url": "https://fosstodon.org/@bglw/112129693930497728",
@@ -103,6 +142,51 @@
 			"date": "2024-03-22T23:01:42.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@bglw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bglw</span></a></span> Thanks, I got it working now! Of course, now that I can actually search for stuff, that's revealing new issues, like for example I've now run into this one: <a href=\"https://github.com/tweetback/tweetback/issues/9\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">/issues/9</span></a></p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "112168635096411054",
+			"parentId": "112129028155854916",
+			"url": "https://fediverse.zachleat.com/@zachleat/112168635096411054",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-03-27T16:39:02.366Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@villepreux\" class=\"u-url mention\">@<span>villepreux</span></a></span> just dropping a note to say that we talked about this on our stream last week! <a href=\"https://youtu.be/T3D-nBsc_Sw?t=1677\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/T3D-nBsc_Sw?t=1677</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112169426150749467",
+			"parentId": "112168635096411054",
+			"url": "https://mastodon.social/@villepreux/112169425725386582",
+			"author": {
+				"name": "Antoine",
+				"url": "https://mastodon.social/@villepreux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/368/026/309/762/657/original/affbee841519a642.jpg"
+			},
+			"date": "2024-03-27T20:00:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Hi Zach !</p><p>Thanks to let me know about it!</p><p>Just watched it</p><p>I've seen you directly went to devtools to show how contrast was currently checked in it.</p><p>You should notice that today you can already have APCA checking in devtool and are already able to toggle between APCA and WCAG algorithm.</p><p>What's also to be noted with this APCA algorithm is that it natively takes text size and weight into account (whereas WCAG only has 2 setups, normal and big)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112169427807892963",
+			"parentId": "112169426150749467",
+			"url": "https://mastodon.social/@villepreux/112169427111436980",
+			"author": {
+				"name": "Antoine",
+				"url": "https://mastodon.social/@villepreux",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/368/026/309/762/657/original/affbee841519a642.jpg"
+			},
+			"date": "2024-03-27T20:00:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Also to know :</p><p>The needed JS APIs exist and can be used in your tooling</p><p>And for those who want for some reason to stay within WCAG bound and also want to be accessible for people that need it, there exist a hybrid API that validates colors against APCA and WCAG</p><p>A screenshot that illustrates pretty well the problems with current WCAG AA scoring : </p><p><a href=\"https://user-images.githubusercontent.com/42009457/56091598-c87f3b00-5e65-11e9-9399-b4a522ad8762.png\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">user-images.githubusercontent.</span><span class=\"invisible\">com/42009457/56091598-c87f3b00-5e65-11e9-9399-b4a522ad8762.png</span></a></p><p>BTW I developped a small tool you can test : <a href=\"https://villapirorum.netlify.app/web/contrasted-colors\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">villapirorum.netlify.app/web/c</span><span class=\"invisible\">ontrasted-colors</span></a></p>",
+			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 14,
+		"reposts": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }

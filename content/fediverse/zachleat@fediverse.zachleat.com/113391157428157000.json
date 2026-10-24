@@ -1,6 +1,19 @@
 {
 	"comments": [
 		{
+			"id": "113391164231036323",
+			"parentId": 0,
+			"url": "https://bzh.social/@mate/113391164027043220",
+			"author": {
+				"name": "M#althieu",
+				"url": "https://bzh.social/@mate",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/391/164/065/070/329/original/438d001a50f0b772.jpg"
+			},
+			"date": "2024-10-29T14:24:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Same for Ghost</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "113391186066811902",
 			"parentId": 0,
 			"url": "https://vickerson.me/@josh/113391186029020939",
@@ -208,5 +221,11 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://xoxo.zone/@nim\" class=\"u-url mention\">@<span>nim</span></a></span> multi author plugins everywhere!</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 7,
+		"reposts": 2,
+		"comments": 4,
+		"via": "fediverse"
+	}
 }

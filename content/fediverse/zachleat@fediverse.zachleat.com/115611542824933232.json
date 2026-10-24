@@ -39,5 +39,10 @@
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@castastrophe\" class=\"u-url mention\">@<span>castastrophe</span></a></span> ah, yeah — I am mostly thinking about security footprint here. If a token is compromised, this might help prevent malicious code (because it would need that code to exist in the repo too)</p>",
 			"via": "fediverse"
 		}
-	]
+	],
+	"counts": {
+		"likes": 3,
+		"comments": 1,
+		"via": "fediverse"
+	}
 }
