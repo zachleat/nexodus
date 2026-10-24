@@ -18,7 +18,7 @@
 				<span v-html="renderAuthors(post.data.authors)"></span>
 			</span>
 			<span class="post-links">
-				<a v-for="p in group.posts" :href="p.data.metadata.url">View on {{ p.data.sectionTitle }}</a>
+				<a v-for="p in group.posts" :href="p.data.metadata.url" :title="`View on ${p.data.sectionTitle}`"><i :class="sourceIcons[p.data.metadata.type]"></i>View original<span class="visually-hidden"> on {{ p.data.sectionTitle }}</span></a>
 			</span>
 		</div>
 	</article>
@@ -35,6 +35,15 @@ export default {
 	},
 	data() {
 		return {
+			sourceIcons: {
+				bluesky: "fa-brands fa-bluesky",
+				fediverse: "fa-brands fa-mastodon",
+				github: "fa-brands fa-github",
+				npm: "fa-brands fa-npm",
+				youtube: "fa-brands fa-youtube",
+				letterboxd: "fa-brands fa-letterboxd",
+				codepen: "fa-brands fa-codepen",
+			},
 			countLabels: [
 				{ key: "likes", label: "like", icon: "fa-regular fa-heart" },
 				{ key: "reposts", label: "repost", icon: "fa-solid fa-retweet" },
@@ -70,7 +79,8 @@ export default {
 </script>
 <style>
 .post-counts { display: inline-flex; flex-wrap: wrap; gap: .25rem .75rem; }
-.post-counts svg { height: 1em; overflow: visible; vertical-align: -.125em; }
+.post-links a { display: inline-flex; align-items: center; gap: .35em; }
+.post-counts svg, .post-links svg { height: 1em; overflow: visible; vertical-align: -.125em; }
 symbol { overflow: visible; }
 .post-author { display: inline-flex; align-items: center; gap: .5rem; }
 .post-avatar { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; background: var(--border); }

@@ -2,6 +2,7 @@
 	<span v-for="p in group.posts" hidden data-pagefind-filter="source">{{ p.data.sectionTitle }}</span>
 	<span hidden data-pagefind-sort="date">{{ page.date.toISOString() }}</span>
 	<span hidden data-pagefind-meta="title">{{ friendlyDate(page.date) }}</span>
+	<span v-if="post.data.showTitle" hidden data-pagefind-meta="heading">{{ post.data.title }}</span>
 	<Post :post="post" :group="group" :index-body="indexBody" :post-content="content" />
 	<nav class="pager" aria-label="Posts">
 		<a v-if="nextPost" :href="nextPost.url" rel="next">← Newer</a><span v-else class="pager-disabled" aria-disabled="true">← Newer</span>

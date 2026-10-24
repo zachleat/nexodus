@@ -5,8 +5,6 @@
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<title>{{ fullTitle }}</title>
 			<style v-html="getBundle('css')"></style>
-			<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
-			<script src="/pagefind/pagefind-ui.js" defer></script>
 			<script type="module" v-html="searchScript"></script>
 		</head>
 		<body>
@@ -32,7 +30,18 @@
 							</tbody>
 						</table>
 					</div>
-					<div id="search" role="search"></div>
+					<form id="search" class="search" role="search" action="javascript:void(0)">
+						<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
+						<fieldset class="search-sources">
+							<legend class="visually-hidden">Sources</legend>
+							<label v-for="{ key, label } in searchSources" :class="['search-source', `search-source--${key}`]"><input type="checkbox" name="source" :value="label"> {{ label }}</label>
+						</fieldset>
+						<div class="search-results" hidden>
+							<p class="search-message" aria-live="polite"></p>
+							<ol class="search-list"></ol>
+							<button type="button" class="search-more" hidden>Load more results</button>
+						</div>
+					</form>
 				</div>
 			</header>
 			<main class="wrap" v-html="content"></main>
@@ -183,116 +192,42 @@ ol.feed { margin: 0; padding: 0; list-style: none; }
 .pager--top > :last-child { text-align: right; }
 .site-footer { padding-block: 2rem 3rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--border); }
 
-#search {
-	--pagefind-ui-scale: .85;
-	--pagefind-ui-primary: var(--link);
-	--pagefind-ui-text: var(--text);
-	--pagefind-ui-background: var(--surface);
-	--pagefind-ui-border: var(--border);
-	--pagefind-ui-tag: var(--bg);
-	--pagefind-ui-border-radius: var(--radius);
-	--pagefind-ui-font: inherit;
-}
-
-/* Pagefind results as post cards */
-#search .pagefind-ui__results { display: grid; gap: 1rem; }
-#search .pagefind-ui__result {
-	--accent: var(--fediverse);
-	display: block;
-	margin: 0;
-	padding: 1rem 1.25rem;
-	background: var(--surface);
-	border: 1px solid var(--border);
-	border-left: 3px solid var(--accent);
-	border-radius: var(--radius);
-}
-#search .pagefind-ui__result:has(a[href*="/bluesky/"]) { --accent: var(--bluesky); }
-#search .pagefind-ui__result-thumb { display: none; }
-#search .pagefind-ui__result-inner { margin: 0; }
-#search .pagefind-ui__result-title { margin: 0; font-size: .85rem; font-weight: 400; }
-#search .pagefind-ui__result-title::before { content: "Mastodon"; margin-right: 1rem; color: var(--accent); font-weight: 600; }
-#search .pagefind-ui__result:has(a[href*="/bluesky/"]) .pagefind-ui__result-title::before { content: "Bluesky"; }
-#search .pagefind-ui__result:has(a[href*="/github/"]) { --accent: var(--github); }
-#search .pagefind-ui__result:has(a[href*="/github/"]) .pagefind-ui__result-title::before { content: "GitHub"; }
-#search .pagefind-ui__result:has(a[href*="/npm/"]) { --accent: var(--npm); }
-#search .pagefind-ui__result:has(a[href*="/npm/"]) .pagefind-ui__result-title::before { content: "npm"; }
-#search .pagefind-ui__result:has(a[href*="/youtube/"]) { --accent: var(--youtube); }
-#search .pagefind-ui__result:has(a[href*="/youtube/"]) .pagefind-ui__result-title::before { content: "YouTube"; }
-#search .pagefind-ui__result:has(a[href*="/letterboxd/"]) { --accent: var(--letterboxd); }
-#search .pagefind-ui__result:has(a[href*="/letterboxd/"]) .pagefind-ui__result-title::before { content: "Letterboxd"; }
-#search .pagefind-ui__result:has(a[href*="/codepen/"]) { --accent: var(--codepen); }
-#search .pagefind-ui__result:has(a[href*="/codepen/"]) .pagefind-ui__result-title::before { content: "CodePen"; }
-#search .pagefind-ui__result-link { color: var(--muted); }
-#search .pagefind-ui__result-link:hover { text-decoration: underline; }
-#search .pagefind-ui__result-excerpt { margin: .5rem 0 0; font-size: 1rem; color: var(--text); }
-#search .pagefind-ui__result-excerpt mark { background: color-mix(in srgb, var(--accent) 22%, transparent); color: inherit; border-radius: 3px; padding-inline: 2px; }
-#search .pagefind-ui__result-tags { display: none; }
-#search .pagefind-ui__message { padding: 0; margin-bottom: 1rem; font-size: .9rem; font-weight: 400; color: var(--muted); }
-#search .pagefind-ui__button { margin-top: 1rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); color: var(--link); font-weight: 600; }
-#search .pagefind-ui__drawer:has(.pagefind-ui__results) { margin-bottom: 2rem; }
-/* Swap page content for results while searching */
-body:has(#search .pagefind-ui__drawer:not(.pagefind-ui__hidden)) main { display: none; }
-/* Keep the source filters visible before searching */
-#search .pagefind-ui__drawer.pagefind-ui__hidden { display: flex !important; }
-
-/* Pagefind source filter as inline checkboxes */
-#search .pagefind-ui__drawer { flex-direction: column; gap: 0; }
-#search .pagefind-ui__filter-panel { margin: 1rem 0 0; padding: 0; border: 0; min-width: 0; }
-#search .pagefind-ui__filter-block { padding: 0; border: 0; }
-#search .pagefind-ui__filter-name { display: none; }
-#search .pagefind-ui__filter-group { flex-direction: row; flex-wrap: wrap; gap: .25rem 1.25rem; padding: 0; border: 0; }
-#search .pagefind-ui__filter-value { --accent: var(--fediverse); display: flex; align-items: center; gap: .35rem; }
-#search .pagefind-ui__filter-value:has(#source-Bluesky) { --accent: var(--bluesky); }
-#search .pagefind-ui__filter-value:has(#source-GitHub) { --accent: var(--github); }
-#search .pagefind-ui__filter-value:has(#source-npm) { --accent: var(--npm); }
-#search .pagefind-ui__filter-value:has(#source-YouTube) { --accent: var(--youtube); }
-#search .pagefind-ui__filter-value:has(#source-Letterboxd) { --accent: var(--letterboxd); }
-#search .pagefind-ui__filter-value:has(#source-CodePen) { --accent: var(--codepen); }
-#search .pagefind-ui__filter-value::before { display: none; }
-#search .pagefind-ui__filter-checkbox { position: static; width: auto; height: auto; margin: 0; opacity: 1; accent-color: var(--accent); }
-#search .pagefind-ui__filter-label { font-size: .85rem; font-weight: 600; color: var(--accent); cursor: pointer; }
-#search .pagefind-ui__results-area { margin-top: 1rem; }
-
-/* Pagefind search input */
-#search .pagefind-ui__search-input {
+/* Search */
+.search { display: grid; gap: .75rem; }
+.search-input {
+	width: 100%;
 	height: 3rem;
-	padding: 0 5rem 0 2.75rem;
+	padding: 0 1rem;
 	border: 1px solid var(--border);
-	font: inherit;
-	font-weight: 400;
+	border-radius: var(--radius);
+	background: var(--surface);
 	color: var(--text);
-}
-#search .pagefind-ui__search-input::placeholder { color: var(--muted); opacity: 1; }
-#search .pagefind-ui__search-input:focus { outline: 2px solid var(--link); outline-offset: 1px; border-color: transparent; }
-#search .pagefind-ui__form::before { top: 1rem; left: 1rem; opacity: .5; }
-#search .pagefind-ui__search-clear {
-	top: 1.5rem;
-	right: .5rem;
-	height: auto;
-	padding: .3rem .7rem;
-	transform: translateY(-50%);
-	border: 0;
-	border-radius: 999px;
-	background: var(--bg);
-	color: var(--muted);
 	font: inherit;
-	font-size: .8rem;
-	font-weight: 600;
 }
-#search .pagefind-ui__search-clear:hover { color: var(--text); }
-#search .pagefind-ui__search-clear:focus-visible { outline: 2px solid var(--link); outline-offset: 1px; }
-#search .pagefind-ui__filter-label { display: inline-flex; align-items: center; gap: .45rem; padding-left: .6rem; }
-/* Font Awesome Free 6.7.2 square and square-check icons, CC BY 4.0 https://fontawesome.com/license/free */
-#search .pagefind-ui__filter-value { --checkbox: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M384 80c8.8 0 16 7.2 16 16l0 320c0 8.8-7.2 16-16 16L64 432c-8.8 0-16-7.2-16-16L48 96c0-8.8 7.2-16 16-16l320 0zM64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32z'/%3E%3C/svg%3E"); }
-#search .pagefind-ui__filter-value--checked { --checkbox: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zM337 209L209 337c-9.4 9.4-24.6 9.4-33.9 0l-64-64c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l47 47L303 175c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9z'/%3E%3C/svg%3E"); }
-#search .pagefind-ui__filter-label::before {
-	content: "";
-	width: .8rem;
-	height: .9rem;
-	background: currentColor;
-	-webkit-mask: var(--checkbox) center / contain no-repeat;
-	mask: var(--checkbox) center / contain no-repeat;
-}
+.search-input::placeholder { color: var(--muted); opacity: 1; }
+.search-input:focus { outline: 2px solid var(--link); outline-offset: 1px; border-color: transparent; }
+.search-sources { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; margin: 0; padding: 0; border: 0; min-width: 0; }
+.search-source { display: inline-flex; align-items: center; gap: .35rem; font-size: .85rem; font-weight: 600; color: var(--accent); cursor: pointer; }
+.search-source input { margin: 0; accent-color: var(--accent); }
+.search-source, .search-result { --accent: var(--fediverse); }
+.search-source--bluesky, .search-result--bluesky { --accent: var(--bluesky); }
+.search-source--github, .search-result--github { --accent: var(--github); }
+.search-source--npm, .search-result--npm { --accent: var(--npm); }
+.search-source--youtube, .search-result--youtube { --accent: var(--youtube); }
+.search-source--letterboxd, .search-result--letterboxd { --accent: var(--letterboxd); }
+.search-source--codepen, .search-result--codepen { --accent: var(--codepen); }
+.search-results { margin: .25rem 0 1rem; }
+.search-message { margin: 0 0 1rem; font-size: .9rem; color: var(--muted); }
+.search-list { display: grid; gap: 1.25rem; margin: 0; padding: 0; list-style: none; }
+.search-result-meta { display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem .75rem; margin: 0; }
+.search-result-meta a { font-weight: 600; }
+.search-result-source { color: var(--accent); font-size: .85rem; font-weight: 600; }
+.search-result-date { color: var(--muted); font-size: .85rem; }
+.search-result-excerpt { margin: .25rem 0 0; color: var(--muted); }
+.search-result-excerpt mark { background: color-mix(in srgb, var(--accent) 22%, transparent); color: var(--text); border-radius: 3px; padding-inline: 2px; }
+.search-more { margin-top: 1rem; padding: .5rem 1rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); color: var(--link); font: inherit; font-weight: 600; cursor: pointer; }
+/* Swap page content for results while searching */
+body:has(.search-results:not([hidden])) main { display: none; }
 
 /* Quote posts and link cards */
 .post-content blockquote {
@@ -345,20 +280,88 @@ export default {
 				return this.getSiteStats(groups);
 			}
 		},
+		// Sources with posts, labeled by the Pagefind `source` filter value
+		searchSources() {
+			return this.statSources.filter(({ key }) => key !== "total" && this.siteStats?.[key]);
+		},
 		searchScript() {
-			let options = { element: "#search", baseUrl: this.htmlBaseUrl("/"), showSubResults: false, showImages: false, resetStyles: false, openFilters: ["source"], pageSize: 20 };
-			// Pagefind loads on input focus, so fake one to fetch the source filters up front
-			// Pagefind skips empty queries, so a blank term becomes a filter-only search when a filter is toggled
-			return `window.addEventListener("DOMContentLoaded", () => {
-	let ui = new PagefindUI({ ...${JSON.stringify(options)}, processTerm: term => term.trim() || null });
-	let search = document.querySelector("#search");
-	let input = search.querySelector("input");
-	input?.dispatchEvent(new Event("focus"));
-	search.addEventListener("change", e => {
-		if(!e.target.matches(".pagefind-ui__filter-checkbox") || input.value.trim()) return;
-		ui.triggerSearch(search.querySelector(".pagefind-ui__filter-checkbox:checked") ? " " : "");
-	});
-});`;
+			let keys = Object.fromEntries(this.searchSources.map(({ key, label }) => [label, key]));
+			return `const base = ${JSON.stringify(this.htmlBaseUrl("/"))};
+const keys = ${JSON.stringify(keys)};
+const pagefind = await import(\`\${base}pagefind/pagefind.js\`);
+await pagefind.options({ baseUrl: base });
+
+const form = document.getElementById("search");
+const input = form.querySelector(".search-input");
+const results = form.querySelector(".search-results");
+const message = form.querySelector(".search-message");
+const list = form.querySelector(".search-list");
+const more = form.querySelector(".search-more");
+const PAGE_SIZE = 20;
+let matches = [];
+let shown = 0;
+
+function renderResult(data) {
+	let source = data.filters.source?.[0];
+	let li = document.createElement("li");
+	li.className = \`search-result search-result--\${keys[source]}\`;
+	let meta = document.createElement("p");
+	meta.className = "search-result-meta";
+	let label = document.createElement("span");
+	label.className = "search-result-source";
+	label.textContent = source;
+	let link = document.createElement("a");
+	link.href = data.url;
+	link.textContent = data.meta.heading || data.meta.title;
+	meta.append(link, label);
+	if(data.meta.heading) {
+		let date = document.createElement("span");
+		date.className = "search-result-date";
+		date.textContent = data.meta.title;
+		meta.append(date);
+	}
+	let excerpt = document.createElement("p");
+	excerpt.className = "search-result-excerpt";
+	excerpt.innerHTML = data.excerpt;
+	li.append(meta, excerpt);
+	return li;
+}
+
+async function showMore() {
+	let page = await Promise.all(matches.slice(shown, shown + PAGE_SIZE).map(match => match.data()));
+	shown += page.length;
+	list.append(...page.map(renderResult));
+	more.hidden = shown >= matches.length;
+}
+
+// Checked sources match any (Pagefind UI requires all), and a source alone lists its posts newest first
+async function search() {
+	let term = input.value.trim();
+	let sources = [...form.querySelectorAll("input[name=source]:checked")].map(checkbox => checkbox.value);
+	if(!term && !sources.length) {
+		await pagefind.debouncedSearch(null, {}, 0);
+		results.hidden = true;
+		return;
+	}
+	let options = { filters: sources.length ? { source: { any: sources } } : {} };
+	if(!term) {
+		options.sort = { date: "desc" };
+	}
+	let response = await pagefind.debouncedSearch(term || null, options, 200);
+	// Superseded by a newer search
+	if(!response) {
+		return;
+	}
+	matches = response.results;
+	shown = 0;
+	list.replaceChildren();
+	message.textContent = \`\${matches.length.toLocaleString("en-US")} \${matches.length === 1 ? "result" : "results"}\`;
+	results.hidden = false;
+	await showMore();
+}
+
+form.addEventListener("input", search);
+more.addEventListener("click", showMore);`;
 		},
 	},
 };
