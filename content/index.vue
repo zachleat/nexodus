@@ -1,5 +1,5 @@
 <template>
-	<p class="summary">{{ collections.all.length }} posts (<span class="post-source post-source--bluesky">{{ collections.bluesky.length }} Bluesky</span>, <span class="post-source post-source--fediverse">{{ collections.fediverse.length }} Fediverse</span>, {{ collections.all.length - collections.postGroups.length }} cross-posted) · page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</p>
+	<p class="summary">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</p>
 	<div class="feed">
 		<Post v-for="group in groups" :post="group.primary" :group="group" />
 	</div>

@@ -12,9 +12,23 @@
 		<body>
 			<header class="site-header">
 				<div class="wrap">
-					<a href="/" class="site-title">{{ pageTitle }}</a>
+					<div class="site-nav">
+						<a href="/" class="site-title">{{ pageTitle }}</a>
+						<nav aria-label="Site"><a href="/popular/" :aria-current="page.url === '/popular/' ? 'page' : null">Popular</a></nav>
+					</div>
 					<p class="site-tagline">Posts from Bluesky and the fediverse, kept in git.</p>
 					<p v-if="dateRange" class="site-dates"><time :datetime="dateRange.oldest.toISOString()">{{ friendlyDate(dateRange.oldest) }}</time> – <time :datetime="dateRange.newest.toISOString()">{{ friendlyDate(dateRange.newest) }}</time></p>
+					<table v-if="siteStats" class="site-stats">
+						<thead>
+							<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th></tr>
+						</thead>
+						<tbody>
+							<tr v-for="{ key, label } in statSources" :class="`site-stats--${key}`">
+								<th scope="row">{{ label }}</th>
+								<td v-for="stat in statLabels">{{ siteStats[key][stat.key].toLocaleString("en-US") }}</td>
+							</tr>
+						</tbody>
+					</table>
 					<div id="search" role="search"></div>
 				</div>
 			</header>
@@ -64,9 +78,22 @@ img, video { max-width: 100%; height: auto; border-radius: 8px; }
 
 .site-header { padding-block: 2.5rem 1.5rem; }
 .site-title { color: var(--text); font-size: 1.6rem; font-weight: 700; letter-spacing: -.02em; text-decoration: none; }
+.site-nav { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1rem; }
+.site-nav nav a { font-weight: 600; }
+.site-nav nav a[aria-current] { color: var(--text); text-decoration: none; }
+.page-title { margin: 0 0 .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
+ol.feed { margin: 0; padding: 0; list-style: none; }
 .site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
 .site-tagline:has(+ .site-dates) { margin-bottom: 0; }
 .site-dates { margin: 0 0 1.25rem; color: var(--muted); font-size: .9rem; }
+.site-stats { margin: -.5rem 0 1.25rem; border-collapse: collapse; color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; }
+.site-stats :is(th, td):first-child { padding-left: 0; text-align: left; }
+.site-stats tbody th { font-weight: 600; }
+.site-stats--total th { color: var(--text); }
+.site-stats--bluesky th { color: var(--bluesky); }
+.site-stats--fediverse th { color: var(--fediverse); }
+.site-stats svg { height: 1em; overflow: visible; vertical-align: -.125em; }
 .summary { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
 
 .feed { display: grid; gap: 1rem; }
@@ -235,6 +262,18 @@ export default {
 	data() {
 		return {
 			pageTitle: "Nexodus Archive",
+			statSources: [
+				{ key: "total", label: "All" },
+				{ key: "bluesky", label: "Bluesky" },
+				{ key: "fediverse", label: "Fediverse" },
+			],
+			statLabels: [
+				{ key: "posts", label: "post", plural: "posts", icon: "fa-regular fa-message" },
+				{ key: "replies", label: "reply", plural: "replies", icon: "fa-regular fa-comment" },
+				{ key: "likes", label: "like", plural: "likes", icon: "fa-regular fa-heart" },
+				{ key: "reposts", label: "repost", plural: "reposts", icon: "fa-solid fa-retweet" },
+				{ key: "quotes", label: "quote", plural: "quotes", icon: "fa-solid fa-quote-left" },
+			],
 		};
 	},
 	computed: {
@@ -248,6 +287,12 @@ export default {
 				return;
 			}
 			return { newest: groups[0].date, oldest: groups.at(-1).date };
+		},
+		siteStats() {
+			let groups = this.collections?.postGroups;
+			if(groups?.length) {
+				return this.getSiteStats(groups);
+			}
 		},
 		searchScript() {
 			let options = { element: "#search", baseUrl: this.htmlBaseUrl("/"), showSubResults: false, showImages: false, resetStyles: false, openFilters: ["source"], pageSize: 20 };

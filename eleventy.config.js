@@ -3,6 +3,7 @@ import * as pagefind from "pagefind";
 import { HtmlBasePlugin } from "@11ty/eleventy";
 import eleventyVue from "@11ty/eleventy-plugin-vue";
 import fontAwesomePlugin from "@11ty/font-awesome";
+import { getComments, getCounts } from "./content/_includes/replies.js";
 
 function cleanCustomEmoji(str) {
 	return str.replaceAll(/\:[^:]*\:/g, "").trim();
@@ -15,9 +16,12 @@ function renderAuthors(authors) {
 }
 
 const CROSSPOST_WINDOW = 24 * 60 * 60 * 1000;
+// Share of words two posts need in common to count as a cross-post
+const CROSSPOST_SIMILARITY = .8;
+const CROSSPOST_MIN_WORDS = 5;
 
-// Post text without links, URLs, markup, or punctuation
-function getCrosspostKey(rawInput = "") {
+// Post words without links, URLs, markup, or punctuation
+function getCrosspostWords(rawInput = "") {
 	return rawInput
 		.replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
 		.replace(/\[([^\]]*)\]\([^)]*\)/g, " ")
@@ -26,22 +30,48 @@ function getCrosspostKey(rawInput = "") {
 		.replace(/https?:\/\/\S+/g, " ")
 		.replace(/\S+\.\S+\/\S*/g, " ")
 		.toLowerCase()
-		.replace(/[^\p{L}\p{N}]+/gu, "");
+		.split(/[^\p{L}\p{N}]+/u)
+		.filter(Boolean);
 }
 
-// Groups the same text posted to different networks within a day, newest first
+// Dice coefficient of two word lists, counting repeated words
+function getWordSimilarity(a, b) {
+	let counts = new Map();
+	for(let word of a) {
+		counts.set(word, (counts.get(word) || 0) + 1);
+	}
+	let shared = 0;
+	for(let word of b) {
+		if(counts.get(word) > 0) {
+			shared++;
+			counts.set(word, counts.get(word) - 1);
+		}
+	}
+	return 2 * shared / (a.length + b.length);
+}
+
+function isCrosspost(a, b) {
+	if(a.key === b.key) {
+		return a.key.length >= 20;
+	}
+	return Math.min(a.words.length, b.words.length) >= CROSSPOST_MIN_WORDS && getWordSimilarity(a.words, b.words) >= CROSSPOST_SIMILARITY;
+}
+
+// Groups the same (or nearly the same) text posted to different networks within a day, newest first
 function getPostGroups(items) {
 	let groups = [];
-	let byKey = new Map();
+	let recent = [];
 	for(let item of [...items].sort((a, b) => a.date - b.date)) {
-		let key = getCrosspostKey(item.page.rawInput);
-		let group = key.length >= 20 && byKey.get(key);
-		if(group && item.date - group.posts[0].date < CROSSPOST_WINDOW && !group.posts.some(p => p.data.metadata.type === item.data.metadata.type)) {
+		let words = getCrosspostWords(item.page.rawInput);
+		let text = { words, key: words.join("") };
+		recent = recent.filter(group => item.date - group.posts[0].date < CROSSPOST_WINDOW);
+		let group = recent.find(group => !group.posts.some(p => p.data.metadata.type === item.data.metadata.type) && isCrosspost(group.text, text));
+		if(group) {
 			group.posts.push(item);
 		} else {
-			group = { posts: [item] };
+			group = { posts: [item], text };
 			groups.push(group);
-			byKey.set(key, group);
+			recent.push(group);
 		}
 	}
 	for(let group of groups) {
@@ -61,6 +91,37 @@ export default function(eleventyConfig) {
 			groupsByUrl.set(groups, new Map(groups.flatMap(group => group.posts.map(post => [post.url, group]))));
 		}
 		return groupsByUrl.get(groups).get(url);
+	});
+	// Site-wide totals across every post group, plus per-source totals
+	let statsByGroups = new WeakMap();
+	eleventyConfig.addFilter("getSiteStats", groups => {
+		if(!statsByGroups.has(groups)) {
+			let empty = () => ({ posts: 0, replies: 0, likes: 0, reposts: 0, quotes: 0 });
+			let stats = { total: empty(), bluesky: empty(), fediverse: empty() };
+			let add = (target, posts) => {
+				target.replies += getComments(posts).length;
+				let counts = getCounts(posts);
+				for(let key in counts) {
+					target[key] += counts[key];
+				}
+			};
+			for(let group of groups) {
+				stats.total.posts++;
+				add(stats.total, group.posts);
+				for(let post of group.posts) {
+					let source = stats[post.data.metadata.type];
+					source.posts++;
+					add(source, [post]);
+				}
+			}
+			statsByGroups.set(groups, stats);
+		}
+		return statsByGroups.get(groups);
+	});
+	// Groups with the most likes, reposts, quotes, and replies
+	eleventyConfig.addFilter("getPopularGroups", (groups, limit) => {
+		let score = group => Object.values(getCounts(group.posts)).reduce((a, b) => a + b, 0) + getComments(group.posts).length;
+		return groups.map(group => ({ group, score: score(group) })).sort((a, b) => b.score - a.score).slice(0, limit).map(({ group }) => group);
 	});
 	// Archived posts that are top-level comments on another archived post (e.g. self-reply threads)
 	let parentsByUrl = new WeakMap();
