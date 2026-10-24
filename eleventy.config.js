@@ -2,6 +2,7 @@ import path from "node:path";
 import * as pagefind from "pagefind";
 import { HtmlBasePlugin } from "@11ty/eleventy";
 import eleventyVue from "@11ty/eleventy-plugin-vue";
+import fontAwesomePlugin from "@11ty/font-awesome";
 
 function cleanCustomEmoji(str) {
 	return str.replaceAll(/\:[^:]*\:/g, "").trim();
@@ -69,9 +70,18 @@ export default function(eleventyConfig) {
 		}
 		return parentsByUrl.get(items).get(url);
 	});
+	// Post authors have no avatar, so use the one from their own replies
+	let avatarsByUrl = new WeakMap();
+	eleventyConfig.addFilter("getAvatarUrl", (items, url) => {
+		if(!avatarsByUrl.has(items)) {
+			avatarsByUrl.set(items, new Map(items.flatMap(item => (item.data.comments || []).filter(comment => comment.author?.avatarUrl).map(comment => [comment.author.url, comment.author.avatarUrl]))));
+		}
+		return avatarsByUrl.get(items).get(url);
+	});
 
 	eleventyConfig.ignores.add("README.md");
 	eleventyConfig.addPlugin(eleventyVue);
+	eleventyConfig.addPlugin(fontAwesomePlugin);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	// Vue templates can’t output a doctype
 	eleventyConfig.addTransform("doctype", function(content) {

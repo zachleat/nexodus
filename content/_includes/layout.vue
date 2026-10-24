@@ -21,6 +21,7 @@
 			<footer class="site-footer wrap">
 				<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 			</footer>
+			<div v-html="getBundle('fontawesome')"></div>
 		</body>
 	</html>
 </template>
