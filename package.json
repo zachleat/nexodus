@@ -6,7 +6,7 @@
   "scripts": {
     "import": "node --env-file-if-exists=.env import.js",
     "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve --quiet",
+    "start": "npx @11ty/eleventy --serve --quiet --incremental",
     "production": "npm run import && npm run build"
   },
   "license": "MIT",

@@ -61,6 +61,14 @@ export default function(eleventyConfig) {
 		}
 		return groupsByUrl.get(groups).get(url);
 	});
+	// Archived posts that are top-level comments on another archived post (e.g. self-reply threads)
+	let parentsByUrl = new WeakMap();
+	eleventyConfig.addFilter("getReplyParent", (items, url) => {
+		if(!parentsByUrl.has(items)) {
+			parentsByUrl.set(items, new Map(items.flatMap(item => (item.data.comments || []).filter(comment => !comment.parentId).map(comment => [comment.url, item]))));
+		}
+		return parentsByUrl.get(items).get(url);
+	});
 
 	eleventyConfig.ignores.add("README.md");
 	eleventyConfig.addPlugin(eleventyVue);
@@ -79,6 +87,29 @@ export default function(eleventyConfig) {
 		timeStyle: "short",
 		timeZone: "UTC",
 	}) + " UTC");
+	eleventyConfig.addFilter("friendlyDate", date => date.toLocaleString("en-US", {
+		dateStyle: "long",
+		timeZone: "UTC",
+	}));
+	// Reply time relative to the post, e.g. “5 min later”
+	eleventyConfig.addFilter("timeAfter", (date, start) => {
+		let minutes = Math.floor((date - start) / 60000);
+		if(minutes < 1) {
+			return "moments later";
+		}
+		if(minutes < 60) {
+			return `${minutes} min later`;
+		}
+		let hours = Math.floor(minutes / 60);
+		if(hours < 24) {
+			return `${hours} hr later`;
+		}
+		let days = Math.floor(hours / 24);
+		if(days < 30) {
+			return `${days} ${days === 1 ? "day" : "days"} later`;
+		}
+		return date.toLocaleString("en-US", { dateStyle: "long", timeZone: "UTC" });
+	});
 
 	eleventyConfig.on("eleventy.after", async ({ directories }) => {
 		let { index } = await pagefind.createIndex();
