@@ -374,6 +374,45 @@
 			"date": "2022-12-13T15:32:11.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@jlengstorf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jlengstorf</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriscoyier</span></a></span> dang that's real suspect behaviour. Sort of correlates with my theory that people on GitHub are compensated for unstaring and then staring again their repo over and over so it reappears in people's dashboard feeds. Pretty sure I've seen at least one prominent Next.js user do that on the regular</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "109508219025470963",
+			"parentId": 0,
+			"url": "https://indieweb.social/@mehulkar/109508219015633146",
+			"author": {
+				"name": "mehulkar",
+				"url": "https://indieweb.social/@mehulkar",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/540/497/281/965/original/5861d033e445bb17.jpeg"
+			},
+			"date": "2022-12-13T20:20:14.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> was this from someone at Vercel?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109508302676145901",
+			"parentId": "109508219025470963",
+			"url": "https://fediverse.zachleat.com/@zachleat/109508302676145901",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2022-12-13T20:41:31.133Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@mehulkar\" class=\"u-url mention\">@<span>mehulkar</span></a></span> no, no—it was from a throwaway domain I think?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513845338879610",
+			"parentId": "109508302676145901",
+			"url": "https://indieweb.social/@mehulkar/109513845328029801",
+			"author": {
+				"name": "mehulkar",
+				"url": "https://indieweb.social/@mehulkar",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/540/497/281/965/original/5861d033e445bb17.jpeg"
+			},
+			"date": "2022-12-14T20:11:05.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> phew, ok! I was hoping we weren’t being sleazeballs!</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
