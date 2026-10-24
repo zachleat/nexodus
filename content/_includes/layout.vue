@@ -17,15 +17,15 @@
 						<nav aria-label="Site"><a href="/popular/" :aria-current="page.url === '/popular/' ? 'page' : null">Popular</a></nav>
 					</div>
 					<p class="site-tagline">Posts from Bluesky and the fediverse, kept in git.</p>
-					<p v-if="dateRange" class="site-dates"><time :datetime="dateRange.oldest.toISOString()">{{ friendlyDate(dateRange.oldest) }}</time> – <time :datetime="dateRange.newest.toISOString()">{{ friendlyDate(dateRange.newest) }}</time></p>
 					<table v-if="siteStats" class="site-stats">
 						<thead>
-							<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th></tr>
+							<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Date range"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Date range</span></th></tr>
 						</thead>
 						<tbody>
 							<tr v-for="{ key, label } in statSources" :class="`site-stats--${key}`">
 								<th scope="row">{{ label }}</th>
 								<td v-for="stat in statLabels">{{ siteStats[key][stat.key].toLocaleString("en-US") }}</td>
+								<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time> – <time :datetime="siteStats[key].newest.toISOString()">{{ shortDate(siteStats[key].newest) }}</time></td>
 							</tr>
 						</tbody>
 					</table>
@@ -84,9 +84,7 @@ img, video { max-width: 100%; height: auto; border-radius: 8px; }
 .page-title { margin: 0 0 .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
 ol.feed { margin: 0; padding: 0; list-style: none; }
 .site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
-.site-tagline:has(+ .site-dates) { margin-bottom: 0; }
-.site-dates { margin: 0 0 1.25rem; color: var(--muted); font-size: .9rem; }
-.site-stats { margin: -.5rem 0 1.25rem; border-collapse: collapse; color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.site-stats { width: 100%; margin: -.5rem 0 1.25rem; border-collapse: collapse; color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
 .site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; }
 .site-stats :is(th, td):first-child { padding-left: 0; text-align: left; }
 .site-stats tbody th { font-weight: 600; }
@@ -137,6 +135,11 @@ ol.feed { margin: 0; padding: 0; list-style: none; }
 .ellipsis::after { content: "…"; }
 
 .pager { display: flex; justify-content: space-between; margin-block: 2rem; font-weight: 600; }
+.pager-disabled { color: var(--muted); opacity: .6; cursor: default; }
+.pager--top { align-items: baseline; margin-block: 0 1rem; }
+.pager--top > * { flex: 1; }
+.pager--top > .summary { margin: 0; text-align: center; font-weight: 400; }
+.pager--top > :last-child { text-align: right; }
 .site-footer { padding-block: 2rem 3rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--border); }
 
 #search {
@@ -280,13 +283,6 @@ export default {
 		fullTitle() {
 			let { title } = this.$data;
 			return title ? `${title} — ${this.pageTitle}` : this.pageTitle;
-		},
-		dateRange() {
-			let groups = this.collections?.postGroups;
-			if(!groups?.length) {
-				return;
-			}
-			return { newest: groups[0].date, oldest: groups.at(-1).date };
 		},
 		siteStats() {
 			let groups = this.collections?.postGroups;

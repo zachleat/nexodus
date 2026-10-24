@@ -100,6 +100,14 @@ export default function(eleventyConfig) {
 			let stats = { total: empty(), bluesky: empty(), fediverse: empty() };
 			let add = (target, posts) => {
 				target.replies += getComments(posts).length;
+				for(let post of posts) {
+					if(!target.oldest || post.date < target.oldest) {
+						target.oldest = post.date;
+					}
+					if(!target.newest || post.date > target.newest) {
+						target.newest = post.date;
+					}
+				}
 				let counts = getCounts(posts);
 				for(let key in counts) {
 					target[key] += counts[key];
@@ -158,6 +166,11 @@ export default function(eleventyConfig) {
 		timeStyle: "short",
 		timeZone: "UTC",
 	}) + " UTC");
+	eleventyConfig.addFilter("shortDate", date => date.toLocaleString("en-US", {
+		month: "short",
+		year: "numeric",
+		timeZone: "UTC",
+	}));
 	eleventyConfig.addFilter("friendlyDate", date => date.toLocaleString("en-US", {
 		dateStyle: "long",
 		timeZone: "UTC",
