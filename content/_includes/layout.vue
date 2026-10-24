@@ -17,18 +17,20 @@
 						<nav aria-label="Site"><a href="/popular/" :aria-current="page.url === '/popular/' ? 'page' : null">Popular</a></nav>
 					</div>
 					<p class="site-tagline">Posts from Bluesky and the fediverse, kept in git.</p>
-					<table v-if="siteStats" class="site-stats">
-						<thead>
-							<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Date range"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Date range</span></th></tr>
-						</thead>
-						<tbody>
-							<tr v-for="{ key, label } in statSources" :class="`site-stats--${key}`">
-								<th scope="row">{{ label }}</th>
-								<td v-for="stat in statLabels">{{ siteStats[key][stat.key].toLocaleString("en-US") }}</td>
-								<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time> – <time :datetime="siteStats[key].newest.toISOString()">{{ shortDate(siteStats[key].newest) }}</time></td>
-							</tr>
-						</tbody>
-					</table>
+					<div v-if="siteStats" class="site-stats-wrap">
+						<table class="site-stats">
+							<thead>
+								<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Date range"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Date range</span></th></tr>
+							</thead>
+							<tbody>
+								<tr v-for="{ key, label } in statSources" :class="`site-stats--${key}`">
+									<th scope="row">{{ label }}</th>
+									<td v-for="stat in statLabels">{{ siteStats[key][stat.key].toLocaleString("en-US") }}</td>
+									<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time> – <time :datetime="siteStats[key].newest.toISOString()">{{ shortDate(siteStats[key].newest) }}</time></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
 					<div id="search" role="search"></div>
 				</div>
 			</header>
@@ -84,13 +86,19 @@ img, video { max-width: 100%; height: auto; border-radius: 8px; }
 .page-title { margin: 0 0 .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
 ol.feed { margin: 0; padding: 0; list-style: none; }
 .site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
-.site-stats { width: 100%; margin: -.5rem 0 1.25rem; border-collapse: collapse; color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.site-stats-wrap { margin: -.5rem 0 1.25rem; overflow-x: auto; }
+.site-stats { width: 100%; border-collapse: collapse; color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
 .site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; }
 .site-stats :is(th, td):first-child { padding-left: 0; text-align: left; }
 .site-stats tbody th { font-weight: 600; }
 .site-stats--total th { color: var(--text); }
 .site-stats--bluesky th { color: var(--bluesky); }
 .site-stats--fediverse th { color: var(--fediverse); }
+.site-stats time { white-space: nowrap; }
+@media (max-width: 40em) {
+	.site-stats { font-size: .75rem; }
+	.site-stats :is(th, td) { padding-left: .5rem; }
+}
 .site-stats svg { height: 1em; overflow: visible; vertical-align: -.125em; }
 .summary { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
 
