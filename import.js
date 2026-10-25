@@ -19,7 +19,11 @@ async function runImport(type, target, output) {
 	importer.setOverwriteAllow();
 	importer.addSource(type, target);
 
-	let entries = await importer.getEntries({ contentType: "markdown", target: "fs", within: "90d" });
+	let entries = await importer.getEntries({
+		contentType: "markdown",
+		target: "fs",
+		within: "365d"
+	});
 	await importer.toFiles(entries);
 	importer.logResults();
 }
