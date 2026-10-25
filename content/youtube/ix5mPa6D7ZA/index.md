@@ -11,6 +11,6 @@ metadata:
   uuid: 11ty/import::youtube::ix5mPa6D7ZA
   type: youtube
   url: https://www.youtube.com/watch?v=ix5mPa6D7ZA
-  importHash: 04f8a9e56728d317
+  importHash: f639848903b4503f
 ---
 A quick two minute State of the Eleventy-verse, first created as a Jamsnack for Jamstack Conf 2020.

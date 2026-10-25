@@ -11,6 +11,6 @@ metadata:
   uuid: 11ty/import::youtube::oyio-wBTRBc
   type: youtube
   url: https://www.youtube.com/watch?v=oyio-wBTRBc
-  importHash: 365e16a581d9ab8d
+  importHash: a3b39631974dcf8a
 ---
 

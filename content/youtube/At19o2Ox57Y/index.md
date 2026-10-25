@@ -13,6 +13,6 @@ metadata:
   uuid: 11ty/import::youtube::At19o2Ox57Y
   type: youtube
   url: https://www.youtube.com/watch?v=At19o2Ox57Y
-  importHash: 94c690d4368e2fc7
+  importHash: b2287e028de571a0
 ---
 

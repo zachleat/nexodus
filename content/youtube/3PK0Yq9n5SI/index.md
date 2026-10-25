@@ -11,7 +11,7 @@ metadata:
   uuid: 11ty/import::youtube::3PK0Yq9n5SI
   type: youtube
   url: https://www.youtube.com/watch?v=3PK0Yq9n5SI
-  importHash: 8dfb72bd8f92756f
+  importHash: ec8411f082157e03
 ---
 [https://your-year-on.netlify.com/](https://your-year-on.netlify.com/)
 

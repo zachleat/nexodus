@@ -11,7 +11,7 @@ metadata:
   uuid: 11ty/import::youtube::CwZniQc0zg0
   type: youtube
   url: https://www.youtube.com/watch?v=CwZniQc0zg0
-  importHash: ca4833b702ba088b
+  importHash: ac3b6c625901f512
 ---
 Selecthor on GitHub: [https://github.com/zachleat/selecthor](https://github.com/zachleat/selecthor)  
 Selecthor Live Demo: [https://www.zachleat.com/selecthor/](https://www.zachleat.com/selecthor/)
