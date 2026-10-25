@@ -157,6 +157,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "110860982896793010",
+			"parentId": 0,
+			"url": "https://c.im/@matthewp/110860982860962785",
+			"author": {
+				"name": "Matthew Phillips",
+				"url": "https://c.im/@matthewp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
+			},
+			"date": "2023-08-09T18:05:52.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Rule 1-100 is \"Jamstack is SSG only\". I will die on this hill.</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "110861044514595670",
 			"parentId": "110860915381832468",
 			"url": "https://mastodon.social/@matthiasott/110861044424001884",

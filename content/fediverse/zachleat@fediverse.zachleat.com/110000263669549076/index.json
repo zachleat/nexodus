@@ -1,6 +1,19 @@
 {
 	"comments": [
 		{
+			"id": "110000302105166196",
+			"parentId": 0,
+			"url": "https://mas.to/@schizanon/110000302053513824",
+			"author": {
+				"name": "🍄🌈🎮💻🚲🥓🎃💀🏴🛻🇺🇸",
+				"url": "https://mas.to/@schizanon",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-03-10T18:03:25.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> can't tell if trolling...<br><span class=\"h-card\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "110000306753169500",
 			"parentId": "110000302105166196",
 			"url": "https://fediverse.zachleat.com/@zachleat/110000306753169500",
@@ -24,6 +37,19 @@
 			},
 			"date": "2023-03-10T18:09:06.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://mas.to/@schizanon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>schizanon</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> nah, in the context of a static-site-generator, I'm 100% on board with that statement :D doesn't matter if your build step takes a long time or is inefficient, as long as you don't pass it on to the user 😉</p><p>my site's build code could probably use some refactoring and updates, but the frontend it generates is still fast as hell 🏎️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "110000486341395444",
+			"parentId": "110000324426382660",
+			"url": "https://mas.to/@schizanon/110000486305053790",
+			"author": {
+				"name": "🍄🌈🎮💻🚲🥓🎃💀🏴🛻🇺🇸",
+				"url": "https://mas.to/@schizanon",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2023-03-10T18:50:17.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span> so by</p><p>&gt;We can write slow and inefficient back-end code</p><p>You mean that you consider build-time code to be \"back-end\"?</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
 			"via": "fediverse"
 		},
 		{
@@ -61,6 +87,14 @@
 			"url": "https://mastodon.social/@ollicle/110001646703707133",
 			"private": true,
 			"date": "2023-03-10T23:45:23.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "110001804063033252",
+			"parentId": "110001559047708099",
+			"url": "https://mas.to/@schizanon/110001803986343881",
+			"private": true,
+			"date": "2023-03-11T00:25:23.000Z",
 			"via": "fediverse"
 		}
 	],

@@ -40,6 +40,14 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "109508621879603458",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@skinnylatte/109508621795912009",
+			"private": true,
+			"date": "2022-12-13T22:02:40.000Z",
+			"via": "fediverse"
+		},
+		{
 			"id": "109508626114394949",
 			"parentId": 0,
 			"url": "https://toot.cafe/@yatil/109508625945989640",
@@ -621,37 +629,24 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "109512800698351872",
-			"parentId": 0,
-			"url": "https://indieweb.social/@kristoferjoseph/109512800641465232",
-			"author": {
-				"name": "Kristofer Joseph",
-				"url": "https://indieweb.social/@kristoferjoseph",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/868/556/368/214/original/a9763cb61d94ea6b.jpg"
-			},
-			"date": "2022-12-14T15:45:24.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> so sorry for your loss</p><p>I can very much relate</p><p>My fur-baby of 21 years passed and not a day goes by where I don't absent-mindedly check for what's missing</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "109513069920050869",
-			"parentId": "109512800698351872",
-			"url": "https://fediverse.zachleat.com/@zachleat/109513069920050869",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2022-12-14T16:53:53.494Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@kristoferjoseph\" class=\"u-url mention\">@<span>kristoferjoseph</span></a></span> aww dang, I’m sorry that you lost a fur-baby too ❤️</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "109513076442715721",
 			"parentId": "109512493389293039",
 			"url": "https://fediverse.zachleat.com/@zachleat/109513076442715721",
 			"private": true,
 			"date": "2022-12-14T16:55:33.021Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "109513135524980780",
+			"parentId": 0,
+			"url": "https://mastodon.ar.al/@aral/109513112356713771",
+			"author": {
+				"name": "Aral Balkan",
+				"url": "https://mastodon.ar.al/@aral",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/983/165/852/161/original/c0756d3a0a63b51e.png"
+			},
+			"date": "2022-12-14T17:04:41.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m so sorry to read this, Zach. He was clearly adorable and lucky to be so loved. My condolences.</p>",
 			"via": "fediverse"
 		},
 		{

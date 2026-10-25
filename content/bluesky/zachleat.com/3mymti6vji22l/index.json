@@ -233,12 +233,25 @@
 			"date": "2026-10-25T00:05:22.396Z",
 			"content": "<p>TIL all of this</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk6oifso7jszewy53nbu2hf/app.bsky.feed.post/3myohcp2af222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/soturbulent.bsky.social/post/3myohcp2af222",
+			"author": {
+				"name": "LanternLightDevelopment",
+				"url": "https://bsky.app/profile/soturbulent.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk6oifso7jszewy53nbu2hf/bafkreid3k7lnhmxh65gbevvbpzlxjlbd3vsjf6y2pyspht6uddpq5gk6ya"
+			},
+			"date": "2026-10-25T05:16:37.145Z",
+			"content": "<p>Kinda correct though</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 33,
+		"likes": 39,
 		"reposts": 1,
-		"comments": 5,
+		"comments": 6,
 		"via": "bluesky"
 	}
 }

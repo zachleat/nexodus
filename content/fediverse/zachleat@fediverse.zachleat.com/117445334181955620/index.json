@@ -27,32 +27,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "117446365348258841",
-			"parentId": 0,
-			"url": "https://mastodon.social/@rianmurnen/117446364053048152",
-			"author": {
-				"name": "Rian",
-				"url": "https://mastodon.social/@rianmurnen",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/875/544/375/458/original/5a6cb4abf70d7c42.jpg"
-			},
-			"date": "2026-10-15T18:34:55.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> How days until this becomes a full browser fork… Tabium, Tabzilla</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "117446737415395013",
-			"parentId": "117446365348258841",
-			"url": "https://fediverse.zachleat.com/@zachleat/117446737415395013",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2026-10-15T20:09:52.303Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rianmurnen\" class=\"u-url mention\">@<span>rianmurnen</span></a></span> brb forming The Iowa Browser Company LLC</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "117449682243944343",
 			"parentId": 0,
 			"url": "https://front-end.social/@hejchristian/117449682220739143",
@@ -94,7 +68,7 @@
 	],
 	"counts": {
 		"likes": 6,
-		"comments": 3,
+		"comments": 2,
 		"via": "fediverse"
 	}
 }

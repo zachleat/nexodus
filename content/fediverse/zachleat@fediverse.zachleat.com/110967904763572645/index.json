@@ -144,6 +144,14 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "110968096023252195",
+			"parentId": 0,
+			"url": "https://social.gabekangas.com/objects/65a67c63-d37d-4ec9-ae10-639f200c6af4",
+			"private": true,
+			"date": "2023-08-28T16:06:01.441Z",
+			"via": "fediverse"
+		},
+		{
 			"id": "110968104570310319",
 			"parentId": "110968004342049268",
 			"url": "https://indieweb.social/@nachtfunke/110968104545052166",
@@ -157,16 +165,16 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968109235938666",
-			"parentId": 0,
-			"url": "https://indieweb.social/@nachtfunke/110968109200699600",
+			"id": "110968111876157611",
+			"parentId": "110968036479326383",
+			"url": "https://social.bennypowers.dev/@bp/110968111851712203",
 			"author": {
-				"name": "Thomas Michael Semmler",
-				"url": "https://indieweb.social/@nachtfunke",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
+				"name": "Benny Powers 🇨🇦️🇮🇱️",
+				"url": "https://social.bennypowers.dev/@bp",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
 			},
-			"date": "2023-08-28T16:09:30.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yikes... just.. yikes.</p><p>What was all that projected competing with next.js for then? Obviously not to make a better product, but to appeal as a competitor so that they can get bought.</p>",
+			"date": "2023-08-28T16:10:11.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@bastianallgeier\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>bastianallgeier</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is that what they call becoming a \"lifestyle company\"?</p>",
 			"via": "fediverse"
 		},
 		{
@@ -235,50 +243,11 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968145970280031",
-			"parentId": "110968109235938666",
-			"url": "https://fediverse.zachleat.com/@zachleat/110968145970280031",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-28T16:18:52.016Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nachtfunke\" class=\"u-url mention\">@<span>nachtfunke</span></a></span> ah, hmm—I don’t think I see it like that.</p><p>Vercel needs to diversify beyond Next.js long-term. And every framework (including Astro) is naturally competing for Next.js’ marketshare.</p><p>Vercel made a very smart move to diversify with Svelte. This is another example of that.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968158875761612",
-			"parentId": "110968145970280031",
-			"url": "https://indieweb.social/@nachtfunke/110968158849091466",
-			"author": {
-				"name": "Thomas Michael Semmler",
-				"url": "https://indieweb.social/@nachtfunke",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/886/080/250/362/original/533c7d9904760762.jpg"
-			},
-			"date": "2023-08-28T16:22:08.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> But to customers, it means that all products, as in services, eventually are planned to be considered obsolete or at least not profitable, is that not so?</p><p>I see why that makes sense for Vercel, but why would I convert to a customer, when the reason for why they take up this product into their portfolio is because they know the product will eventually become obsolete?</p><p>Maybe I see this way to pessimistic, but I have yet to see a business operation of this nature that is good for people</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110968178778429855",
 			"parentId": "110968004342049268",
 			"url": "https://noodle.social/@lobau/110968178757982761",
 			"private": true,
 			"date": "2023-08-28T16:27:12.000Z",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968185372907810",
-			"parentId": "110968158875761612",
-			"url": "https://fediverse.zachleat.com/@zachleat/110968185372907810",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-28T16:28:53.259Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nachtfunke\" class=\"u-url mention\">@<span>nachtfunke</span></a></span> oh, well—this is money for Astro—partnerships aren’t bad! I don’t think Vercel wants Astro to fail or become obsolete because of Next.js bias. They want a diversified portfolio of successful things.</p><p>The framework’s sustainability risk would increase dramatically when Astro sells—but this partnership is unlikely to change the equation of that much.</p>",
 			"via": "fediverse"
 		},
 		{
@@ -332,19 +301,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968231159892340",
-			"parentId": 0,
-			"url": "https://front-end.social/@sarajw/110968231119666124",
-			"author": {
-				"name": "Sara Joy :happy_pepper:",
-				"url": "https://front-end.social/@sarajw",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
-			},
-			"date": "2023-08-28T16:40:31.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh no. It's my fav problematic?</p><p>...Got any guides on porting an astro project (I don't use any other big libraries or frameworks within it) to 11ty...?</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110968234389248587",
 			"parentId": "110968207913436476",
 			"url": "https://mstdn.social/@kixxauth/110968234252140626",
@@ -353,63 +309,11 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968254930769768",
-			"parentId": "110968231159892340",
-			"url": "https://fediverse.zachleat.com/@zachleat/110968254930769768",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-28T16:46:34.620Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> ah—I certainly didn’t mean to suggest that it was problematic?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968267190766022",
-			"parentId": "110968254930769768",
-			"url": "https://front-end.social/@sarajw/110968267135741926",
-			"author": {
-				"name": "Sara Joy :happy_pepper:",
-				"url": "https://front-end.social/@sarajw",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
-			},
-			"date": "2023-08-28T16:49:40.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> well the following conversation makes it sound like it might get tricky to use at some point, for free anyway 🫠</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110968277597240572",
 			"parentId": "110968234389248587",
 			"url": "https://noodle.social/@lobau/110968277570957025",
 			"private": true,
 			"date": "2023-08-28T16:52:20.000Z",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968290319763424",
-			"parentId": "110968267190766022",
-			"url": "https://fediverse.zachleat.com/@zachleat/110968290319763424",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-28T16:55:34.618Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> ah, hmm—I don’t think they’ll bait and switch to a pay-for-use model. I’d imagine that the framework will continue to exist to use for free.</p><p>The nuance here is that when a company around a framework sells, the risk around whether or not that framework will continue to be maintained goes up quite a bit!</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968297246572017",
-			"parentId": "110968290319763424",
-			"url": "https://fediverse.zachleat.com/@zachleat/110968297246572017",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-28T16:57:20.309Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> conversely, frameworks that aren’t VC-funded have risks too (see <a href=\"https://fediverse.zachleat.com/@zachleat/110968012104388814\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/110968012104388814</span></a>)</p>",
 			"via": "fediverse"
 		},
 		{
@@ -452,50 +356,11 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968347879915895",
-			"parentId": "110968297246572017",
-			"url": "https://front-end.social/@sarajw/110968347790505948",
-			"author": {
-				"name": "Sara Joy :happy_pepper:",
-				"url": "https://front-end.social/@sarajw",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
-			},
-			"date": "2023-08-28T17:10:11.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ok that all makes more sense, thank you :)</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110968417986750454",
 			"parentId": "110968096023252195",
 			"url": "https://fediverse.zachleat.com/@zachleat/110968417986750454",
 			"private": true,
 			"date": "2023-08-28T17:28:02.662Z",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968462247485011",
-			"parentId": 0,
-			"url": "https://indieweb.social/@kristoferjoseph/110968462092989267",
-			"author": {
-				"name": "Kristofer Joseph",
-				"url": "https://indieweb.social/@kristoferjoseph",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/868/556/368/214/original/a9763cb61d94ea6b.jpg"
-			},
-			"date": "2023-08-28T17:39:15.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968583889929827",
-			"parentId": 0,
-			"url": "https://hachyderm.io/@andydavies/110968583822008694",
-			"author": {
-				"name": "Andy Davies",
-				"url": "https://hachyderm.io/@andydavies",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
-			},
-			"date": "2023-08-28T18:10:13.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Wonder what happens if / when Vercel run out of money…</p>",
 			"via": "fediverse"
 		},
 		{
@@ -522,19 +387,6 @@
 			},
 			"date": "2023-08-28T18:34:10.849Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@flori\" class=\"u-url mention\">@<span>flori</span></a></span> yeah, well said—the whole team is awesome</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968770154125056",
-			"parentId": "110968583889929827",
-			"url": "https://status.fberriman.com/@phae/110968770134306841",
-			"author": {
-				"name": "phae",
-				"url": "https://status.fberriman.com/@phae",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
-			},
-			"date": "2023-08-28T18:57:36.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> *Both* of them are giant stacks of VC money with no exit strategy.</p>",
 			"via": "fediverse"
 		},
 		{
@@ -577,29 +429,16 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110968856976063883",
-			"parentId": "110968770154125056",
-			"url": "https://status.fberriman.com/@phae/110968856954524688",
+			"id": "110968953662674971",
+			"parentId": "110968845489353426",
+			"url": "https://c.im/@matthewp/110968953631849390",
 			"author": {
-				"name": "phae",
-				"url": "https://status.fberriman.com/@phae",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
+				"name": "Matthew Phillips",
+				"url": "https://c.im/@matthewp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
 			},
-			"date": "2023-08-28T19:19:40.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And what happens? They both keep gobbling up little companies (despite Netlify once promising to want a healthy ecosystem) in a weird egg-and-spoon race until either one of the 4 companies that can afford them buys one, because I can’t see either hitting IPO. Their margins are too thin (and I doubt either is revenue+, or even close). So we’ll get one as a sub brand of something you already know, and the other gets an acqui-hire out or something.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110968982167132104",
-			"parentId": "110968856976063883",
-			"url": "https://hachyderm.io/@andydavies/110968982127220501",
-			"author": {
-				"name": "Andy Davies",
-				"url": "https://hachyderm.io/@andydavies",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
-			},
-			"date": "2023-08-28T19:51:30.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeh, can’t see how they’d be profitable on $50mn / yr revenue</p>",
+			"date": "2023-08-28T19:44:15.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> Everything's perishable, right? With companies you worry that they might fail. With BDFL you worry about bus factor. A foundation is probably the safest place for a project, but even those seem to take on more than they can maintain. Good thing about SSG is that once you deploy you can throw away the framework you used to build it, if you want.</p>",
 			"via": "fediverse"
 		},
 		{
@@ -624,6 +463,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "110969400292083270",
+			"parentId": "110969353695427411",
+			"url": "https://c.im/@matthewp/110969400256566337",
+			"author": {
+				"name": "Matthew Phillips",
+				"url": "https://c.im/@matthewp",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/319/884/743/792/129/original/97348f81981453d9.jpg"
+			},
+			"date": "2023-08-28T21:37:50.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@eliancodes\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>eliancodes</span></a></span> There are concrete plans, but not ones I can share here now. Stay tuned.</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "110969416063986638",
 			"parentId": "110968004342049268",
 			"url": "https://front-end.social/@benschwarz/110969415757872915",
@@ -634,19 +486,6 @@
 			},
 			"date": "2023-08-28T21:41:47.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ve lamented similar previously too (<a href=\"https://twitter.com/benschwarz/status/1585482090971136001\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/benschwarz/status/</span><span class=\"invisible\">1585482090971136001</span></a>). Gatsby’s seed was $5m at a time when that was described by some as a “mango” seed round (yes, I know 🤮). </p><p>It sounds weird, but you can raise a bunch of money to get 3-5 years down the line, then side step to actual adults take over when it’s probably too late anyway. Tech never learns.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110969442779668659",
-			"parentId": "110968982167132104",
-			"url": "https://front-end.social/@benschwarz/110969442699647982",
-			"author": {
-				"name": "benschwarz",
-				"url": "https://front-end.social/@benschwarz",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/713/321/949/633/original/45e52f3c0901216e.jpg"
-			},
-			"date": "2023-08-28T21:48:38.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@andydavies\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>andydavies</span></a></span> <span class=\"h-card\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> they’ve raised over $300M, even with their fairly significant headcount there’s a while to go</p>",
 			"via": "fediverse"
 		},
 		{
@@ -780,32 +619,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110970790308677300",
-			"parentId": "110968347879915895",
-			"url": "https://front-end.social/@AmeliaBR/110970790264670302",
-			"author": {
-				"name": "Amelia Bellamy-Royds",
-				"url": "https://front-end.social/@AmeliaBR",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
-			},
-			"date": "2023-08-29T03:31:20.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We still haven't found an ideal sustainable business model for giving a product/service away for free. Everything is trade-offs.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110971265794264937",
-			"parentId": "110970790308677300",
-			"url": "https://front-end.social/@sarajw/110971265583485881",
-			"author": {
-				"name": "Sara Joy :happy_pepper:",
-				"url": "https://front-end.social/@sarajw",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
-			},
-			"date": "2023-08-29T05:32:13.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah, that's true. And I'm slowly adapting to the idea of paying for stuff again, hahah.</p><p>Once you get used to using lots of different things at a low level it's so hard to choose who to pay and stick with.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110972815410810078",
 			"parentId": "110968012104388814",
 			"url": "https://mastodon.xyz/@remotesynth/110972815372249352",
@@ -845,19 +658,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110973056675726328",
-			"parentId": "110971265794264937",
-			"url": "https://front-end.social/@AmeliaBR/110973056632585301",
-			"author": {
-				"name": "Amelia Bellamy-Royds",
-				"url": "https://front-end.social/@AmeliaBR",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
-			},
-			"date": "2023-08-29T13:07:42.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And of course, the flipside is: with so many free options for software, there's no guarantee that a paid option will get a big enough customer base to be economically sustainable, either.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110973066160356436",
 			"parentId": "110972837833622090",
 			"url": "https://m.nintendojo.fr/@meduz/110973066075884576",
@@ -868,19 +668,6 @@
 			},
 			"date": "2023-08-29T13:10:06.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>remotesynth</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> If I’m correct, Vercel owns and maintains Next, but Svelte is “owned” 100% by <span class=\"h-card\"><a href=\"https://toot.cafe/@rich_harris\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rich_harris</span></a></span>.</p><p>Vue/Nuxt are not “belonging” to any other corpo.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110973075074550912",
-			"parentId": "110973056675726328",
-			"url": "https://front-end.social/@sarajw/110973075001828076",
-			"author": {
-				"name": "Sara Joy :happy_pepper:",
-				"url": "https://front-end.social/@sarajw",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
-			},
-			"date": "2023-08-29T13:12:23.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <br>And it's not just software - I have the same problem with newspapers...</p><p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
 			"via": "fediverse"
 		},
 		{
@@ -941,71 +728,6 @@
 			},
 			"date": "2023-08-29T13:40:12.911Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.xyz/@remotesynth\" class=\"u-url mention\">@<span>remotesynth</span></a></span> Yeah, this all seems accurate to me. The one weird piece is that the risk to authors is fairly well known (to authors) but the risk to app developers (end users/framework consumers) is not.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110973190465899859",
-			"parentId": "110973056675726328",
-			"url": "https://fediverse.zachleat.com/@zachleat/110973190465899859",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-29T13:41:44.909Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\">@<span>sarajw</span></a></span> the awkward variable here is that VC-funding often has much higher minimums for success than *mere* profitability</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110973204616356080",
-			"parentId": "110973190465899859",
-			"url": "https://front-end.social/@sarajw/110973204506551719",
-			"author": {
-				"name": "Sara Joy :happy_pepper:",
-				"url": "https://front-end.social/@sarajw",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
-			},
-			"date": "2023-08-29T13:45:19.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> Yeah. ROI can do one.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110973930010358524",
-			"parentId": "110973204616356080",
-			"url": "https://front-end.social/@AmeliaBR/110973929829084988",
-			"author": {
-				"name": "Amelia Bellamy-Royds",
-				"url": "https://front-end.social/@AmeliaBR",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
-			},
-			"date": "2023-08-29T16:49:46.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@sarajw\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sarajw</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've seen analyses that suggest many VCs would rather have a company they invested go bankrupt (so they could get a tax write-off against other sources of income) rather than have it be barely profitable.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110974023406607074",
-			"parentId": "110973930010358524",
-			"url": "https://front-end.social/@sarajw/110974023372887500",
-			"author": {
-				"name": "Sara Joy :happy_pepper:",
-				"url": "https://front-end.social/@sarajw",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/297/809/026/408/317/original/97d986685a3ca9d3.jpg"
-			},
-			"date": "2023-08-29T17:13:34.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh, that's sad.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111000631870037906",
-			"parentId": "110969442779668659",
-			"url": "https://hachyderm.io/@andydavies/111000631810110269",
-			"author": {
-				"name": "Andy Davies",
-				"url": "https://hachyderm.io/@andydavies",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/328/450/045/181/original/e667bcddf2c266ca.jpg"
-			},
-			"date": "2023-09-03T10:00:26.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@benschwarz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benschwarz</span></a></span> <span class=\"h-card\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Guess  how long that lasts depends on the gap between their income and expenditure</p>",
 			"via": "fediverse"
 		}
 	],

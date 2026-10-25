@@ -670,97 +670,11 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111820490505527565",
-			"parentId": 0,
-			"url": "https://mastodon.sdf.org/@wallacewords/111820488999040930",
-			"author": {
-				"name": "Rebecca Wallace",
-				"url": "https://mastodon.sdf.org/@wallacewords",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/060/841/834/770/894/original/6ee1d9ba393dc834.jpg"
-			},
-			"date": "2024-01-26T05:00:54.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> STOPPIT</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111820888897690176",
-			"parentId": 0,
-			"url": "https://hachyderm.io/@gaurav/111820888548863463",
-			"private": true,
-			"date": "2024-01-26T06:42:31.000Z",
-			"via": "fediverse"
-		},
-		{
 			"id": "111820995979617267",
 			"parentId": "111819429973418308",
 			"url": "https://tech.lgbt/@Caution/111820995929996703",
 			"private": true,
 			"date": "2024-01-26T07:09:49.000Z",
-			"via": "fediverse"
-		},
-		{
-			"id": "111821161602406123",
-			"parentId": 0,
-			"url": "https://hachyderm.io/@Rockbear/111821161432678657",
-			"author": {
-				"name": "Peter Paaske Juul",
-				"url": "https://hachyderm.io/@Rockbear",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2024-01-26T07:51:55.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Microsoft got lucky in 1995.</p><p>Before then - on windows 3.11, OS/2, MacOS 7 (I think that was the current version at the time) - you had to add tcp/ip and internet software to the OS to access the internet.</p><p>Microsoft wanted to compete against AOL, so for windows 95 they made MSN, which was supposed to be an international dialup service for accessing Microsoft infotainment services.<br>(Cont...)</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111821162767504518",
-			"parentId": "111821161602406123",
-			"url": "https://hachyderm.io/@Rockbear/111821162734734378",
-			"author": {
-				"name": "Peter Paaske Juul",
-				"url": "https://hachyderm.io/@Rockbear",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2024-01-26T07:52:14.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> (...contd) MSN tanked, but luckily it was based on tcp/ip,  so windows 95 was the first consumer OS* born internet ready. At first you still had to FTP in and download internet Explorer. It took a short while before it become bundled.</p><p>*) Linux was around, but quite a way away from user friendly at the time.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111822513841617490",
-			"parentId": 0,
-			"url": "https://mastodon.cloud/@jakerobb/111822513807716771",
-			"author": {
-				"name": "Jake Robb",
-				"url": "https://mastodon.cloud/@jakerobb",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2024-01-26T13:35:50.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@Gte\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Gte</span></a></span> <a href=\"https://www.youtube.com/watch?v=jYa1eI1hpDE\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=jYa1eI1hpD</span><span class=\"invisible\">E</span></a></p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111822996739557119",
-			"parentId": "111822513841617490",
-			"url": "https://fediverse.zachleat.com/@zachleat/111822996739557119",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-01-26T15:38:39.588Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@jakerobb\" class=\"u-url mention\">@<span>jakerobb</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Gte\" class=\"u-url mention\">@<span>Gte</span></a></span> how dare you ruthlessly swift me</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111823022023233472",
-			"parentId": "111820490505527565",
-			"url": "https://fediverse.zachleat.com/@zachleat/111823022023233472",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-01-26T15:45:05.385Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.sdf.org/@wallacewords\" class=\"u-url mention\">@<span>wallacewords</span></a></span> sry 😭</p>",
 			"via": "fediverse"
 		},
 		{
@@ -829,32 +743,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111823058285142607",
-			"parentId": "111822996739557119",
-			"url": "https://mastodon.cloud/@jakerobb/111823057890633645",
-			"author": {
-				"name": "Jake Robb",
-				"url": "https://mastodon.cloud/@jakerobb",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
-			},
-			"date": "2024-01-26T15:54:12.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@Gte\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Gte</span></a></span> it's only fair after you make me feel FREAKING ANCIENT!</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111823061991365884",
-			"parentId": "111823058285142607",
-			"url": "https://fediverse.zachleat.com/@zachleat/111823061991365884",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-01-26T15:55:15.251Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@jakerobb\" class=\"u-url mention\">@<span>jakerobb</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Gte\" class=\"u-url mention\">@<span>Gte</span></a></span> I mean, I agree that I deserved it but also how dare you</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111826815961717749",
 			"parentId": "111823031317924201",
 			"url": "https://mastodon.social/@aweatherall/111826815767743021",
@@ -865,40 +753,6 @@
 			},
 			"date": "2024-01-27T07:49:53.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I forgive you :)</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111828640453615237",
-			"parentId": 0,
-			"url": "https://eldritch.cafe/@Sylvhem/111828638333499258",
-			"private": true,
-			"date": "2024-01-27T15:33:23.000Z",
-			"via": "fediverse"
-		},
-		{
-			"id": "111840585008240385",
-			"parentId": 0,
-			"url": "https://mastodon.social/@Richr/111840584653035207",
-			"author": {
-				"name": "Richard Rutter",
-				"url": "https://mastodon.social/@Richr",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/303/661/793/823/433/original/cc3a410a6a2eb865.jpg"
-			},
-			"date": "2024-01-29T18:11:29.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I remember marking an anniversary in a similar way in 2012. The year that the first Stone Roses album was closer to the Beatle's Sgt. Pepper's than the present day. That was 11 years ago. Now who feels old?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111840902795219968",
-			"parentId": "111840585008240385",
-			"url": "https://fediverse.zachleat.com/@zachleat/111840902795219968",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-01-29T19:32:24.311Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Richr\" class=\"u-url mention\">@<span>Richr</span></a></span> that’s my secret Cap, I’ve always felt old 😅</p>",
 			"via": "fediverse"
 		}
 	],
