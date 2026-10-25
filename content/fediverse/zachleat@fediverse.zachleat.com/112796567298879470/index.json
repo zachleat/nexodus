@@ -1,0 +1,121 @@
+{
+	"comments": [
+		{
+			"id": "112796725740652934",
+			"parentId": 0,
+			"url": "https://follow.ethanmarcotte.com/@beep/112796725731337443",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-07-16T14:50:44.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh jeez zach, that is an *impossibly* kind offer. thank you.</p><p>i just added you to the repo. (apologies in advance, it is a mess in there.) and i’m just using the filter, i think!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112797580898035264",
+			"parentId": "112796725740652934",
+			"url": "https://fediverse.zachleat.com/@zachleat/112797580898035264",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-16T18:28:13.684Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> I did find a pretty big something that was solved here: <a href=\"https://github.com/11ty/eleventy/issues/840\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/840</span></a> This shipped with alpha-15 so you’ll need to upgrade!</p><p>The other change you’ll need to make is to remove the &quot;pretty&quot; option from slugify in tag-single.liquid and journal-archive.liquid. Looks like a leftover Jekyll thing anyway.</p><p>Improved your built by about 2 seconds on my machine!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112797585464058480",
+			"parentId": "112797580898035264",
+			"url": "https://fediverse.zachleat.com/@zachleat/112797585464058480",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-16T18:29:23.356Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> Here’s the diffs:</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112797598126531460",
+			"parentId": "112797585464058480",
+			"url": "https://fediverse.zachleat.com/@zachleat/112797598126531460",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-16T18:32:36.570Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> you could also try <a href=\"https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/copy/#emulate-pa</span><span class=\"invisible\">ssthrough-copy-during-serve</span></a> since you have about 185 MB of passthrough copy files!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112798429755782078",
+			"parentId": "112797598126531460",
+			"url": "https://follow.ethanmarcotte.com/@beep/112798429747284426",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-07-16T22:04:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> holy shit zach, you’re REMARKABLE. upgrading to a15 and dropping that weird slugify leftover cleaned it RIGHT up. thank you so much!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112798432526603328",
+			"parentId": "112798429755782078",
+			"url": "https://follow.ethanmarcotte.com/@beep/112798432518041495",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-07-16T22:04:48.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ll take a look at that passthrough emulation too, thank you! (had no idea i was ferrying along 185MB of files, that seems…bad!!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112798515741424421",
+			"parentId": "112798432526603328",
+			"url": "https://fediverse.zachleat.com/@zachleat/112798515741424421",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-16T22:25:58.261Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> I don’t think it’s too bad but one line of code to speed it up couldn’t hurt!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112798543672803831",
+			"parentId": "112798515741424421",
+			"url": "https://follow.ethanmarcotte.com/@beep/112798543664208882",
+			"author": {
+				"name": "Ethan Marcotte",
+				"url": "https://follow.ethanmarcotte.com/@beep",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/308/673/946/055/828/original/ba26a0081bdd8839.png"
+			},
+			"date": "2024-07-16T22:33:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I really appreciate you, Zach. Thanks so, so much for taking a look.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112798559635464762",
+			"parentId": "112798543672803831",
+			"url": "https://fediverse.zachleat.com/@zachleat/112798559635464762",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-07-16T22:37:08.030Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://follow.ethanmarcotte.com/@beep\" class=\"u-url mention\">@<span>beep</span></a></span> absolutely! Happy to help!</p>",
+			"via": "fediverse"
+		}
+	]
+}

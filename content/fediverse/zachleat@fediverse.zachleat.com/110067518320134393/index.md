@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110067518320134393
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110067518320134393
-  importHash: 7de379f0767f4ffa
+  importHash: 387abf379e16f624
 ---
 [https://docs.npmjs.com/cli/v8/configuring-npm/package-json#overrides](https://docs.npmjs.com/cli/v8/configuring-npm/package-json#overrides) to override a outdated shrinkwrapped dependency was clutch today.
 

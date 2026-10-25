@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114944259669731114
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114944259669731114
-  importHash: fea7a7607b00da9e
+  importHash: ceb9c6dbc5c7cc9f
 ---
 well, I was brave and shipped [https://www.zachleat.com/](https://www.zachleat.com/) building with Eleventy v4.0.0!
 

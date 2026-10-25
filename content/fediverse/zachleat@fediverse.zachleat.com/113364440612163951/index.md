@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113364440612163951
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113364440612163951
-  importHash: 5373afb08fa6f3a0
+  importHash: 43c54785aee45dbb
 ---
 this is validating and also what my therapist would call “negative reinforcement”—thank you [@eric](https://social.ericwbailey.website/@eric)
 

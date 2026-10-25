@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111024986238264083
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111024986238264083
-  importHash: 83c70371fd73fd0e
+  importHash: 9a32a73ed9797fe6
 ---
 Have you ever struggled with a focusable element (custom drop down menu) that disappears when you swap focus to your Developer Tools?
 

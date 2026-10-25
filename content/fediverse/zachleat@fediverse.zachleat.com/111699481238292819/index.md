@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111699481238292819
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111699481238292819
-  importHash: d7e81e8d572bb0fc
+  importHash: eee6c41bc4fa95c7
 ---
 Looks like Google Fonts placeholder text is pulling excerpts from the UN’s Universal Declaration of Human Rights 👀
 

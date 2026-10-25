@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112802520743203050
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112802520743203050
-  importHash: 2ea2b0449d7e3fe0
+  importHash: 26093054164b3587
 ---
 Very important news: [@eleventy](https://fosstodon.org/@eleventy)’s sustainability fundraising goal currently at 66.6%
 

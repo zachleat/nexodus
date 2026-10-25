@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110895824701824379
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110895824701824379
-  importHash: 3147e1f0909bd559
+  importHash: ff1b936da72c38cd
 ---
 now those letters spell ﻿NOJS on my bookshelf 😎﻿
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110873146365867952
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110873146365867952
-  importHash: 7ee879b10e8d6adb
+  importHash: 8a38445be3a49f4d
 ---
 it’s alive—phase 1 of n: [@eleventy](https://fosstodon.org/@eleventy) consuming ESM data files.
 

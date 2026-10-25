@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110278825408066993
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110278825408066993
-  importHash: c440fc50eb513992
+  importHash: b3d3b427b3387f3b
 ---
 working on a cowboy themed web components talk
 

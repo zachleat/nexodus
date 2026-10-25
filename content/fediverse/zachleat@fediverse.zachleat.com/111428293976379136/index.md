@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111428293976379136
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111428293976379136
-  importHash: edbb23a884b7154b
+  importHash: 5c4f3e9dbbdfa30c
 ---
 I guess GitHub requires JavaScript now? 🤔 I spy an empty \<react-app> 😬
 

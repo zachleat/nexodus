@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "112878157126258287",
+			"parentId": 0,
+			"url": "https://pixel.kitchen/@jenn/112878157099863342",
+			"author": {
+				"name": "jenn schiffer",
+				"url": "https://pixel.kitchen/@jenn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/374/387/859/500/403/original/934a006eeb475522.jpeg"
+			},
+			"date": "2024-07-30T23:59:48.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’ll talk to the eng team about this tomorrow!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112893276455405016",
+			"parentId": "112878157126258287",
+			"url": "https://pixel.kitchen/@jenn/112893276430187514",
+			"author": {
+				"name": "jenn schiffer",
+				"url": "https://pixel.kitchen/@jenn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/374/387/859/500/403/original/934a006eeb475522.jpeg"
+			},
+			"date": "2024-08-02T16:04:51.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Okay so we've been actively working on container updates to get Node updated as the community knows and I think we're a month or so out from that - I think the work may be worth broadly, BUT we can simply hold off on updating our starters and then when we're ready launch a whole new one with 3.0. we're used to the node update complaints (which are valid) so we don't mind handling inbounds about eleventy 3.0 support - that should be our problem not yours!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112894016600166879",
+			"parentId": "112893276455405016",
+			"url": "https://fediverse.zachleat.com/@zachleat/112894016600166879",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-08-02T19:13:05.720Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://pixel.kitchen/@jenn\" class=\"u-url mention\">@<span>jenn</span></a></span> okay thank you for checking! I will probably avoid doing it at this point but just keep in mind that if it gets to be too much it’s a lever we can pull!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112315210738970444
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112315210738970444
-  importHash: e9dbc8beb2750d51
+  importHash: ab6595d3dfe39c13
 ---
 started to get a little chunky at 40k but it’s still going 🫣 [#11ty](https://fediverse.zachleat.com/tags/11ty)
 

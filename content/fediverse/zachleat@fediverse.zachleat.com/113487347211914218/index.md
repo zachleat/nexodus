@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113487347211914218
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113487347211914218
-  importHash: eeb7e96c5a587c54
+  importHash: 1b15ed9d59b79e77
 ---
 this is what I think of when I hear bluesky
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111598996307378754
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111598996307378754
-  importHash: af75b5679c39afe2
+  importHash: 02f948092a774aa8
 ---
 Alright, this graph from Netlify’s “State of the Web” survey is… intellectually dishonest. And I have to weigh in on it now because a few folks have been making some \*specious\* assumptions and tagging me 😬
 

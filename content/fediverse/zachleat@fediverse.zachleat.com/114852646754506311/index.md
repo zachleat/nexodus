@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114852646754506311
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114852646754506311
-  importHash: 4bb6d3f8750c8087
+  importHash: 488277a98c0f7464
 ---
 Saw some wild messaging from Apple in the Software Update app on an old MacBook — in fact the system was \*not\* up-to-date. Surfaced via a Google Chrome EOL message.
 

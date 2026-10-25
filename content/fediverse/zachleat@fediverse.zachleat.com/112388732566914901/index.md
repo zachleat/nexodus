@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112388732566914901
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112388732566914901
-  importHash: 7f263a050f1e1684
+  importHash: dd0d3491c18b6c6e
 ---
 As we enter the week of [#11tyConf](https://fediverse.zachleat.com/tags/11tyConf), I must channel the great organizers of conferences past with this Jamstack Conf mug. [#iykyk](https://fediverse.zachleat.com/tags/iykyk)
 

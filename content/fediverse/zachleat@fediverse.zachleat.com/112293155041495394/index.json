@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "112293448941182030",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@pauleveritt/112293448931647573",
+			"author": {
+				"name": "Paul Everitt",
+				"url": "https://fosstodon.org/@pauleveritt",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/432/874/090/408/447/original/7ad02e12d7b76361.jpg"
+			},
+			"date": "2024-04-18T17:40:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks a bunch, looking now. A custom collection that depends on another custom collection should work?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112293755252413721",
+			"parentId": "112293448941182030",
+			"url": "https://fediverse.zachleat.com/@zachleat/112293755252413721",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-04-18T18:58:44.432Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@pauleveritt\" class=\"u-url mention\">@<span>pauleveritt</span></a></span> yeah at that point it should have full access to all collections</p>",
+			"via": "fediverse"
+		}
+	]
+}

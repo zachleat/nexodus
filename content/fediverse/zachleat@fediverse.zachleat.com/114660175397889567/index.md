@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114660175397889567
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114660175397889567
-  importHash: ecb4d7a9c563efd0
+  importHash: 133e9b962af22004
 ---
 summarizing the discourse today
 

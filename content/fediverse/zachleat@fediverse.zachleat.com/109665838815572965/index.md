@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109665838815572965
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109665838815572965
-  importHash: da82a94db02c64ef
+  importHash: 52103935c0d0b0c9
 ---
 Without exaggeration, my number one complaint (for years!) with Firefox as my daily driver was that there was no icon to show minimized windows in the Window menu on Mac. I often accidentally hide windows with ⌘+M and it was annoying to find those to reopen 😅
 

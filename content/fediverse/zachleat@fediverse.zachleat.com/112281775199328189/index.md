@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112281775199328189
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112281775199328189
-  importHash: cd9c4ddd1f4fb3ab
+  importHash: 3ede603ee4b47747
 ---
 [@BryceWrayTX](https://fosstodon.org/@BryceWrayTX) is this positive? seems positive
 

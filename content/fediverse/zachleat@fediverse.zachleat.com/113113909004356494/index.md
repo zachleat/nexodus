@@ -9,6 +9,6 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113113909004356494
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113113909004356494
-  importHash: 25e4d74c21f22293
+  importHash: 97ab6be3e76e5c47
 ---
 ![a spoof of “what we do in the shadows” but instead it’s “what we do in the shadow dom” from the creator of “flight of the javascript” three disheveled men sit in coffins in the background with their arms crossed (it’s a vampire thing)](1dbd5e3ecc788242-oZYBDqJGxvXo.png)

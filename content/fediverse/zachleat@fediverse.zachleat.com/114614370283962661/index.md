@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114614370283962661
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114614370283962661
-  importHash: e766e019332766c1
+  importHash: a817696c461f33cb
 ---
 thinking about a new 11ty mascot as I work on some slides this morning
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113806138707510277
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113806138707510277
-  importHash: c0ef4110c3451a40
+  importHash: 2f2bf6875c1f8669
 ---
 if you want one of these on your linkedin — I dub thee officially certified
 

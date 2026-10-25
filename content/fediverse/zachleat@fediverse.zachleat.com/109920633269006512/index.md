@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109920633269006512
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109920633269006512
-  importHash: 96dc38d44a18973c
+  importHash: 8f7e70ce028b76ec
 ---
 Client JavaScript Baselines
 

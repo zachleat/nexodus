@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115169986229795522
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115169986229795522
-  importHash: 9d8c83c0de5d6c2c
+  importHash: 8e26a93a940754cf
 ---
 simple-swizzle@0.2.3 is \*still\* public, active, and in the wild. You can see the malicious code on the code browser: [https://www.npmjs.com/package/simple-swizzle/v/0.2.3?activeTab=code](https://www.npmjs.com/package/simple-swizzle/v/0.2.3?activeTab=code)
 

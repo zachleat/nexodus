@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111599086415690268
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111599086415690268
-  importHash: 2b0fafaa072ede8d
+  importHash: 495b05a4ce4a316e
 ---
 This chart has the absolute numbers (conveniently unordered, though 😬)
 

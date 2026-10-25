@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115091490915810061
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115091490915810061
-  importHash: 3dfc8bee8f078b10
+  importHash: 12a42347626f984e
 ---
 🚩🚩🚩 “site recovery” is one of the highest profile features listed on wordpress.com — yikes
 

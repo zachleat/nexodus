@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109705120254319043
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109705120254319043
-  importHash: b3cf4ce447753a07
+  importHash: 1fb27372ffad8437
 ---
 Retired the aging Surface Pro graciously donated to the [#Eleventy](https://fediverse.zachleat.com/tags/Eleventy) project for Windows testing in 2019 (thank you Nick! [https://twitter.11ty.dev/1126283168288518145/](https://twitter.11ty.dev/1126283168288518145/)) and upgraded to a Surface Laptop Go 2.
 

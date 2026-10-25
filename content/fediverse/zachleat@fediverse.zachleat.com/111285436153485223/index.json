@@ -1,0 +1,290 @@
+{
+	"comments": [
+		{
+			"id": "111285873684609889",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/111285873665025602",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-23T19:01:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m definitely willing. Ability is another thing. If you could point me in the right direction on how to do this kind of thing, I’d love to. I’ll do some of my own research into it. Do you want the full firehose or the ability to choose by category?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111285893569557115",
+			"parentId": "111285873684609889",
+			"url": "https://fediverse.zachleat.com/@zachleat/111285893569557115",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-23T19:06:15.611Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> Whatever is easiest! One big JSON file would be fine as long as it had the category listed in the entries. Here’s an example of what I do on 11ty.dev to expose a JSON API for speedlify.dev: <a href=\"https://github.com/11ty/11ty-website/tree/main/src/api\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/11ty-website/t</span><span class=\"invisible\">ree/main/src/api</span></a> and then I use this URL to consume the entries: <a href=\"https://www.11ty.dev/api/urls.json\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/api/urls.json</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111285906151938068",
+			"parentId": "111285893569557115",
+			"url": "https://fediverse.zachleat.com/@zachleat/111285906151938068",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-23T19:09:27.602Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> I’d also be happy to contribute the code to do this, if that would be helpful!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111286047540479171",
+			"parentId": "111285906151938068",
+			"url": "https://indieweb.social/@bobmonsour/111286047532733182",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-23T19:45:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks . I’m traveling right now, so let me look at this tonight. Should be a fun learning experience.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111286068636366021",
+			"parentId": "111286047540479171",
+			"url": "https://fediverse.zachleat.com/@zachleat/111286068636366021",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-23T19:50:46.918Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> no rush at all!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111286088660810172",
+			"parentId": "111285893569557115",
+			"url": "https://indieweb.social/@bobmonsour/111286088519554935",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-23T19:55:50.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This look really simple. Stay tuned…</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111290844450700995",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/111290844415779758",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-24T16:05:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The posts often have multiple categories. I'll generate the json file for only those posts in the CMS category. The category name will be part of each item along with title and url. I'll include Author too. I'll make the endpoint so that it can be a model for other categories in case you want more later. Given what you've shared, I think I see a clear path forward. I'll let you know when there's something to try. Let me know how that sounds. Glad you said no rush.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111293617668693223",
+			"parentId": "111286068636366021",
+			"url": "https://indieweb.social/@bobmonsour/111293617660501821",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-25T03:50:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> For your consumption...a little more data than you want, but the same entries as on the site. Let me know if this works for you. <a href=\"https://11tybundle.dev/api/cms.json\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">11tybundle.dev/api/cms.json</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111293658088286182",
+			"parentId": "111286068636366021",
+			"url": "https://indieweb.social/@bobmonsour/111293658074386897",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-25T04:00:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Here's how I did it: <a href=\"https://github.com/bobmonsour/11tybundle.dev/blob/main/src/api/cms.11ty.js\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bobmonsour/11tybund</span><span class=\"invisible\">le.dev/blob/main/src/api/cms.11ty.js</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111295904826269197",
+			"parentId": "111293658088286182",
+			"url": "https://fediverse.zachleat.com/@zachleat/111295904826269197",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-25T13:32:15.265Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> this looks amazing—thank you so much Bob! I’ll work on adding it to 11ty.dev and let you know when it’s up</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111296053187455813",
+			"parentId": "111295904826269197",
+			"url": "https://fediverse.zachleat.com/@zachleat/111296053187455813",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-25T14:09:59.077Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> it lives!! <a href=\"https://www.11ty.dev/docs/cms/#from-the-community\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/docs/cms/#from-the-co</span><span class=\"invisible\">mmunity</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111296061329771255",
+			"parentId": "111296053187455813",
+			"url": "https://indieweb.social/@bobmonsour/111296061233214115",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-25T14:12:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That is wonderfully awesome!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111296066569303248",
+			"parentId": "111296061329771255",
+			"url": "https://fediverse.zachleat.com/@zachleat/111296066569303248",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-25T14:13:23.267Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> happy to do something similar with other categories if you see a fit on any of the other docs pages too! Just let me know!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111296067671647694",
+			"parentId": "111296053187455813",
+			"url": "https://indieweb.social/@bobmonsour/111296067637921411",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-25T14:13:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Let me know if you want to do this with any other categories.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111296068653541274",
+			"parentId": "111296067671647694",
+			"url": "https://fediverse.zachleat.com/@zachleat/111296068653541274",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-25T14:13:55.070Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> haha jinx 🏆</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111296104094030475",
+			"parentId": "111296066569303248",
+			"url": "https://indieweb.social/@bobmonsour/111296104080800386",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-25T14:22:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Great minds…I’ll take a look and let you know.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111304331778210730",
+			"parentId": "111296066569303248",
+			"url": "https://indieweb.social/@bobmonsour/111304331767814998",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-27T01:15:20.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I’m thinking that the Getting Started page might be a good fit. That said, there are 49 posts and some go back to early 2020. You might want to restrict them to early 2023 as that was when 2.0 came out (there are 15 in 2023). Also, I’m delivering these in descending date order now, so you don't have to sort. The Getting Started is available now at <a href=\"https://11tybundle.dev/api/getting-started.json\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">11tybundle.dev/api/getting-sta</span><span class=\"invisible\">rted.json</span></a> Lastly, I’m thinking of deleting the “Issue\" key from these...assuming that you are ignoring it. LMK.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308708385505357",
+			"parentId": "111304331778210730",
+			"url": "https://fediverse.zachleat.com/@zachleat/111308708385505357",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-27T19:48:22.073Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> I don’t think I’ll include the issue in the listing unless you think it might provide value? But I have no problem keeping it in the API output!</p><p>This one is shipping to <a href=\"https://www.11ty.dev/docs/getting-started/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/docs/getting-started/</span><span class=\"invisible\"></span></a> now!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308709577990494",
+			"parentId": "111308708385505357",
+			"url": "https://fediverse.zachleat.com/@zachleat/111308709577990494",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-27T19:48:40.270Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> (and thank you! These are very helpful!!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111308755739696025",
+			"parentId": "111308708385505357",
+			"url": "https://indieweb.social/@bobmonsour/111308755712772153",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-27T20:00:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have to say that it's really cool to see these on the 11ty docs site. Thanks for the idea! The Issue is just the blog post issue where the post showed up (no real value in your use case). It's easier if I just leave it in. More to come with some other categories as time permits.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111320241669957846",
+			"parentId": "111308708385505357",
+			"url": "https://indieweb.social/@bobmonsour/111320241661652079",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2023-10-29T20:41:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The Getting Started section where you had the 11tbundle.dev posts seems to have disappeared from the site.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111324128691799310",
+			"parentId": "111320241669957846",
+			"url": "https://fediverse.zachleat.com/@zachleat/111324128691799310",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2023-10-30T13:09:57.275Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> Oops, fix is deploying now! Thank you</p>",
+			"via": "fediverse"
+		}
+	]
+}

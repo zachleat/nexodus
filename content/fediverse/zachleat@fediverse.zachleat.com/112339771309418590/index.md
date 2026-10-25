@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112339771309418590
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112339771309418590
-  importHash: 71da0f8aee90af9f
+  importHash: 6b6e260252fec587
 ---
 the spreadsheet just told me about tornados.
 

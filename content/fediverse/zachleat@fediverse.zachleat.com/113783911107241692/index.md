@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113783911107241692
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113783911107241692
-  importHash: 2600fce3fbebf105
+  importHash: dede8ef0070a9678
 ---
 If you search for “Google” in Bing it shows you a page that is designed to look very similar to the Google home page…
 

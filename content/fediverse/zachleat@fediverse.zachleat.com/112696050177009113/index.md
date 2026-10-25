@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112696050177009113
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112696050177009113
-  importHash: 4abb74f9cb8d5e67
+  importHash: cb9fd7928fe8c854
 ---
 “it’s just going to ask you a few questions…”
 

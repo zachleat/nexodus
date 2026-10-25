@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111206088775186209
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111206088775186209
-  importHash: c5b85958c8dd9980
+  importHash: 0cd484c4833b64e3
 ---
 could it be real
 

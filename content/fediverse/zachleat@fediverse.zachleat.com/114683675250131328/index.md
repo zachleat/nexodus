@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114683675250131328
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114683675250131328
-  importHash: 0e47826b19cfef5b
+  importHash: 87996e43f3377c18
 ---
 I went out to try to improve society, somewhat. [#NoKings](https://fediverse.zachleat.com/tags/NoKings)
 

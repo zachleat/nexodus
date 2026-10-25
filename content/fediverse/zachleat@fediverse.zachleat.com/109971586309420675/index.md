@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109971586309420675
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109971586309420675
-  importHash: 5b1056c8f31d5015
+  importHash: 10fa9f19c32d02bf
 ---
 is it just my brain that has been holeheartedly ruined or do other folks see it too
 

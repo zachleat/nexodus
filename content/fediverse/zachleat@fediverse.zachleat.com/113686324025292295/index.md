@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113686324025292295
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113686324025292295
-  importHash: 03d9a9fee1e0ade8
+  importHash: fd5cdf2f79945531
 ---
 a reminder that \<snow-fall> can do emoji too!
 

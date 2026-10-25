@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113935932918599869
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113935932918599869
-  importHash: 8d15cb61f64c8dae
+  importHash: 15763d25fb6b957e
 ---
 Just finished up a 3D print of a chess set for my son to take to school 😍
 

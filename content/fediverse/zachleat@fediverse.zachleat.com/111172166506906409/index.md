@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111172166506906409
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111172166506906409
-  importHash: 19c6d11bf69c8b44
+  importHash: 7902814fb6872004
 ---
 New cookie consent dark pattern dropped: obtrusive popup in the corner of the page that only goes away when you hit the Accept All Cookies button
 

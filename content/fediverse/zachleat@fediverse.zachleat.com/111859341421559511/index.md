@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111859341421559511
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111859341421559511
-  importHash: a9ed8351142ee81b
+  importHash: 960a4b20ac012ead
 ---
 Wanted to make a global CSS change to my site (that wasn’t using scoped CSS) and wanted to know which pages would be affected.
 

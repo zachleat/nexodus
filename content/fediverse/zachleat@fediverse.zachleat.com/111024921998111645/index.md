@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111024921998111645
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111024921998111645
-  importHash: 74ca1ef29ed75e1d
+  importHash: a734abbafc613400
 ---
 “You can create really inaccessible experiences from accessible components.”
 

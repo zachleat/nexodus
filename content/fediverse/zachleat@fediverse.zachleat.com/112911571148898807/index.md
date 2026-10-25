@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112911571148898807
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112911571148898807
-  importHash: bae9946742e779b3
+  importHash: f33b98cf4d7694f1
 ---
 I made a little chart comparing how a few different hosts charge for serverless execution time (normalized to hours of usage) and the vCPU default can cost you a lot of unnecessary money if you’re not paying attention!
 

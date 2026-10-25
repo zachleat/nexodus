@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114072799841101889
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114072799841101889
-  importHash: aa2c86bb2829ab45
+  importHash: 729d7e1b4103ab6f
 ---
 automated themed screenshot border colors
 

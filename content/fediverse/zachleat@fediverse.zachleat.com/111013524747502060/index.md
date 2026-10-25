@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111013524747502060
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111013524747502060
-  importHash: 8f6dfb7ff2d2ce67
+  importHash: c28f371815411e3d
 ---
 Had a really lovely time at [@smashingconf](https://mastodon.social/@smashingconf) in Freiburg today! It was my great honor to be the mystery speaker as we trapped hundreds of people in a room to teach them about web components 😈😈😈
 

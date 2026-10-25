@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110992093303377046
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110992093303377046
-  importHash: 197bf69eca3c6be2
+  importHash: 236ca560221559cc
 ---
 slowly but steadily—[@eleventy](https://fosstodon.org/@eleventy) is still growing!
 

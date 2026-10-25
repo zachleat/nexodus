@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114455896746240767
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114455896746240767
-  importHash: bc490cbc46953d05
+  importHash: 94d6d5767593d8d8
 ---
 TIL Chrome and Safari support dynamic creation of Import Maps in script 👀
 

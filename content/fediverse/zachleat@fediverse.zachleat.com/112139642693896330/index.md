@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112139642693896330
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112139642693896330
-  importHash: 71d77a02afdac1ad
+  importHash: 02a84136133ddedf
 ---
 It should be fair to post screenshots like this for companies that tout “the fastest frontends” on their home page—especially notable that this is \*not\* a temporary regression. It’s been like this for a long time—why is no one talking about it?
 

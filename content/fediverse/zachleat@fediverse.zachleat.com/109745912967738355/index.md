@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109745912967738355
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109745912967738355
-  importHash: ddc99174f7fc2fb8
+  importHash: 700df5331cc80a10
 ---
 is anyone else applying \`netlify-plugin-lighthouse\` to all of your projects and setting it to fail the build if it doesn’t report a four-hundo score
 

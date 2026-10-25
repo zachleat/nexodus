@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113868720545138174
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113868720545138174
-  importHash: b936f9bc8b996372
+  importHash: f1d6d356e11eee87
 ---
 we did it, web performance folks — it’s done. time to close up shop and go home — I just loaded up a 1.3GB text-based web app
 

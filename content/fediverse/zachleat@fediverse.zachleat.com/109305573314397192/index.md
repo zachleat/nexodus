@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109305573314397192
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109305573314397192
-  importHash: b8eaf27ceb58d7d8
+  importHash: 713eeab10f538891
 ---
 [#JamstackConf](https://fediverse.zachleat.com/tags/JamstackConf) 🏆
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110214465458164387
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110214465458164387
-  importHash: fb762db099d5c584
+  importHash: 3931a2963a01053c
 ---
 tfw react finally ships support for custom elements
 

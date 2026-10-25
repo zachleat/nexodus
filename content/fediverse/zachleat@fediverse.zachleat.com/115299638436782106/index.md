@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115299638436782106
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115299638436782106
-  importHash: 2002d3e024596c11
+  importHash: b92431e112535d47
 ---
 when the paywall CSS is accessible but also inaccessible
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111025109309227455
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111025109309227455
-  importHash: 5f3a90ce5ffe9081
+  importHash: 5c38fc677b82660d
 ---
 And of course the always entertaining [@mia](https://front-end.social/@mia) made a couple of very important points at [@smashingconf](https://mastodon.social/@smashingconf) Freiburg:
 

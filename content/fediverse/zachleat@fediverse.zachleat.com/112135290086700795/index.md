@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112135290086700795
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112135290086700795
-  importHash: 14db926219bfbe50
+  importHash: add54e3b58720e5e
 ---
 Some interesting (but flawed) UX-design on the Fediverse sharing opt-in modal on threads.net.
 

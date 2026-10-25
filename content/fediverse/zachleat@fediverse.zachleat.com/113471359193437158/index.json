@@ -113,32 +113,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "113471702000822775",
-			"parentId": 0,
-			"url": "https://notacult.social/@colabottles/113471701987394875",
-			"author": {
-				"name": "colabottles",
-				"url": "https://notacult.social/@colabottles",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/328/609/890/744/671/original/df7cc6719c22530e.png"
-			},
-			"date": "2024-11-12T19:46:05.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No matter where I go, the song remains the same. Accessibility can be a great topic of discussion where adult conversation can take place, yet (proven this morning) abelism still permeates the landscape and when people are confronted, they revert back to argumentative villagers with pitchforks and torches.</p><p>The only thing that ruins \"social media\" are the people who use it.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "113471713165595759",
-			"parentId": "113471702000822775",
-			"url": "https://fediverse.zachleat.com/@zachleat/113471713165595759",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-11-12T19:48:55.754Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://notacult.social/@colabottles\" class=\"u-url mention\">@<span>colabottles</span></a></span> my cynicism is my worst enemy!</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "113471720551198045",
 			"parentId": 0,
 			"url": "https://mastodon.social/@aaadaaam/113471720518116298",
@@ -165,19 +139,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "113471809037567406",
-			"parentId": "113471713165595759",
-			"url": "https://notacult.social/@colabottles/113471809025070480",
-			"author": {
-				"name": "colabottles",
-				"url": "https://notacult.social/@colabottles",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/328/609/890/744/671/original/df7cc6719c22530e.png"
-			},
-			"date": "2024-11-12T20:13:18.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Mine too.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "113472131014647406",
 			"parentId": 0,
 			"url": "https://heads.social/@mrcompletely/113472130996267238",
@@ -200,7 +161,7 @@
 		}
 	],
 	"counts": {
-		"likes": 65,
+		"likes": 64,
 		"reposts": 9,
 		"comments": 9,
 		"via": "fediverse"

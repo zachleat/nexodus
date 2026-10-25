@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113884267018262724
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113884267018262724
-  importHash: bab5766575924770
+  importHash: 3a8fd694fd2be0f4
 ---
 Found some unnecessary twitter metadata still sitting around on my web site and it’s always a good time to delete code (\*especially\* now).
 

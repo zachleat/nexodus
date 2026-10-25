@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114638747061505194
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114638747061505194
-  importHash: a58f592031bf7452
+  importHash: 045e0bcbe0df925c
 ---
 Well — it was React: [https://html5experts.jp/shumpei-shiraishi/24538/](https://html5experts.jp/shumpei-shiraishi/24538/)
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112113098841562089
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112113098841562089
-  importHash: c93cbadab9e47166
+  importHash: 900095c5d2bb957b
 ---
 This parking lot in Omaha, NE (USA) has 22 out of 30 accessibility-friendly parking spaces (73%).
 

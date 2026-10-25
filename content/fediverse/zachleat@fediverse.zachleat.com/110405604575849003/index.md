@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110405604575849003
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110405604575849003
-  importHash: eb7781f92e1c854d
+  importHash: 5600fb4f30ea98a9
 ---
 Finishing up an energizing week with new and old friends at JSHeroes in Romania 🥰
 

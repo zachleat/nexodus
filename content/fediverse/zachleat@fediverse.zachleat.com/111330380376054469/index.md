@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111330380376054469
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111330380376054469
-  importHash: e4e02154727489ae
+  importHash: 03576ff0d49feca4
 ---
 I think GitHub wants me to Confirm my account recovery settings
 

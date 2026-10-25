@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111512249196787629
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111512249196787629
-  importHash: 10338445122442ea
+  importHash: bbd2b112941aa1ed
 ---
 company with high employee turnover, ship of theseus thought experiment
 

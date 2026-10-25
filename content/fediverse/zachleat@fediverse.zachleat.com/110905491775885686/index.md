@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110905491775885686
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110905491775885686
-  importHash: 83f17cbaea862d07
+  importHash: d204c883852befa9
 ---
 Just casually dipping into the latest industry-altering book from [@beep](https://follow.ethanmarcotte.com/@beep) which is—well, would you look at that—now conveniently available for purchase.
 

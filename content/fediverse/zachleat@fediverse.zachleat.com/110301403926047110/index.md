@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110301403926047110
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110301403926047110
-  importHash: 7c4281cb166b43d3
+  importHash: b83c095b4ac45e58
 ---
 I feel like the reported \<img> aspect ratios in this Chrome DevTools tooltip could be… improved 😅
 

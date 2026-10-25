@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110933688615133171
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110933688615133171
-  importHash: e8c2c9350408ba5b
+  importHash: 7fe7149ba95f854a
 ---
 have a look at this gem from the web site of @dantescanline@autonomous.zone
 

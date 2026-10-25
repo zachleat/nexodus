@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115191911444450653
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115191911444450653
-  importHash: d58c55b6ab97cc15
+  importHash: a477a5548a6730b2
 ---
 trying to estimate how much the saas is gonna cost
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112338405901317598
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112338405901317598
-  importHash: 99978f638a4fafe6
+  importHash: 06cb75acaa22da53
 ---
 the [@eleventy](https://fosstodon.org/@eleventy) merch bundle shirts are done! [#11tyConf](https://fediverse.zachleat.com/tags/11tyConf)
 

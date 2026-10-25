@@ -1,0 +1,82 @@
+{
+	"comments": [
+		{
+			"id": "113798731679573427",
+			"parentId": 0,
+			"url": "https://macaw.social/@sangster/113798731634273180",
+			"author": {
+				"name": "Ben",
+				"url": "https://macaw.social/@sangster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/883/755/495/625/original/9782934627613fca.jpeg"
+			},
+			"date": "2025-01-09T13:54:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> we're so behind on new things and our tech has remained static, it’s hard to motivate to learn about new things</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113798742372212385",
+			"parentId": 0,
+			"url": "https://triangletoot.party/@autumn/113798742346663051",
+			"author": {
+				"name": "autumn 🐾 hyper-fixated on dogs",
+				"url": "https://triangletoot.party/@autumn",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/352/786/368/908/original/246fad18450e5801.png"
+			},
+			"date": "2025-01-09T13:56:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> how very meta to make a survey about a survey. 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113799620218184651",
+			"parentId": "113798742372212385",
+			"url": "https://fediverse.zachleat.com/@zachleat/113799620218184651",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-09T17:40:00.303Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://triangletoot.party/@autumn\" class=\"u-url mention\">@<span>autumn</span></a></span> please take my best surveys of 2024 survey—we rate all the surveys</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113799622577032023",
+			"parentId": "113798731679573427",
+			"url": "https://fediverse.zachleat.com/@zachleat/113799622577032023",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-09T17:40:36.297Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://macaw.social/@sangster\" class=\"u-url mention\">@<span>sangster</span></a></span> what new things do you feel like you’re missing out on?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113799941341629412",
+			"parentId": "113799622577032023",
+			"url": "https://macaw.social/@sangster/113799941303969908",
+			"author": {
+				"name": "Ben",
+				"url": "https://macaw.social/@sangster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/332/883/755/495/625/original/9782934627613fca.jpeg"
+			},
+			"date": "2025-01-09T19:01:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We're *starting* to look at Web Components and Shadow DOM to replace our Preact-powered design system, which is exciting. We're currently pretty stuck in not being able to use elements like Dialog / Popover or other newer language-feature things because our polyfilling solution (an internal fork of polyfill.io) no longer gets updates and there's little engineering time available to replace it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113804331237195123",
+			"parentId": "113799941341629412",
+			"url": "https://fediverse.zachleat.com/@zachleat/113804331237195123",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2025-01-10T13:38:04.748Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://macaw.social/@sangster\" class=\"u-url mention\">@<span>sangster</span></a></span> tech debt is such an unforgiving beast!</p>",
+			"via": "fediverse"
+		}
+	]
+}

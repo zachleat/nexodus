@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111024896636345526
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111024896636345526
-  importHash: 033a116e7256b803
+  importHash: 02ea63417077d532
 ---
 At [@smashingconf](https://mastodon.social/@smashingconf) this week, Slava Shestopalov reminded us that the Russian invasion of Ukraine is creating more people that need accessible experiences—so investing in accessibility testing and improving those experiences in our work is one small way that we can do our part.
 

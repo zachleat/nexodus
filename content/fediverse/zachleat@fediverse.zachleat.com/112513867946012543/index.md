@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112513867946012543
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112513867946012543
-  importHash: 2d8c07d3ae84eaf2
+  importHash: d000a8ca87c3ddff
 ---
 Fascinated by the \`cycle-zone\` component on [https://craftcms.com/demo](https://craftcms.com/demo) (from [@craftcms](https://masto.craftcms.com/@craftcms)) that rotates through a few images as you hover over different portions of the card.
 

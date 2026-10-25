@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110181262326744689
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110181262326744689
-  importHash: 6806da98b29806e2
+  importHash: 9d2ddfc8141efd5b
 ---
 don’t mind me, just shopping around for a web framework
 

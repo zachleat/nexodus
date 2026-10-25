@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109306967822688452
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109306967822688452
-  importHash: a9b07b2cd9a22a4c
+  importHash: 627c8073119b26bf
 ---
 elon if you want to learn about mastodon hit me up—I’m outside
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110390330420613016
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110390330420613016
-  importHash: ced1c55994267cfc
+  importHash: d11e82eeaf0b42a7
 ---
 Having an incredible time at [#JSHeroes](https://fediverse.zachleat.com/tags/JSHeroes) today!
 

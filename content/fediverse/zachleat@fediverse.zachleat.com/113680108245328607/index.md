@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113680108245328607
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113680108245328607
-  importHash: 8d8599790053bb84
+  importHash: 1ac0ad61dca8418c
 ---
 new laptop sticker
 

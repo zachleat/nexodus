@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110468967083037341
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110468967083037341
-  importHash: f70c219bbce4922e
+  importHash: 658c47e3b2526d1e
 ---
 These folks stumbled into my Web Components talk at [#JSNation](https://fediverse.zachleat.com/tags/JSNation) 👀
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110493352696840389
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110493352696840389
-  importHash: db00a3fb0b666438
+  importHash: 2ad7cd0338f848aa
 ---
 when you get your height and width attributes on the \<img> wrong
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109614290211502901
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109614290211502901
-  importHash: 751e74b43ad4a761
+  importHash: a719cab4842ba811
 ---
 this kids’ book is offering a scathing critique of cryptocurrency
 

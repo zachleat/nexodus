@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109745008182183580
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109745008182183580
-  importHash: c705520ac474f2b2
+  importHash: 454c3b6634be8af1
 ---
 good morning to this [@simplebits](https://mastodon.social/@simplebits) t-shirt
 

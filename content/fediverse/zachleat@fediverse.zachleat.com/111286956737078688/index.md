@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111286956737078688
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111286956737078688
-  importHash: b9c108a7dbe5dd63
+  importHash: 58d80d74469e8ef7
 ---
 a little light reading this evening
 

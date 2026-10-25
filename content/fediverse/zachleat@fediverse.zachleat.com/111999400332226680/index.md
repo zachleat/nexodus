@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111999400332226680
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111999400332226680
-  importHash: dfec96ae92897ed7
+  importHash: 3767fc2c39d91325
 ---
 The table shows how much of the web is being broken with the release of iOS 17.4.
 

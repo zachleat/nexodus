@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114217694220675135
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114217694220675135
-  importHash: 0494430db84e2004
+  importHash: 0b6b8a10d7b046de
 ---
 Why does socket.dev report that the latest version of next.js has a malware dependency? [https://socket.dev/npm/package/next/alerts/15.2.3?tab=dependencies](https://socket.dev/npm/package/next/alerts/15.2.3?tab=dependencies)
 

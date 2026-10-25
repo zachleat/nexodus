@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112077770046986530
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112077770046986530
-  importHash: 1ed8c6895e2a1374
+  importHash: f63156fbbd204c2e
 ---
 tfw the sign-up form asks for your work email
 

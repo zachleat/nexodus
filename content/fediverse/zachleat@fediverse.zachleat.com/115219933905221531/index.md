@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115219933905221531
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115219933905221531
-  importHash: ce756ce2c4f1e1d3
+  importHash: 758b9f98936157dc
 ---
 HTML Programmer.
 

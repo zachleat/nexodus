@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109909358021273237
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109909358021273237
-  importHash: 0d3adaffa23028fe
+  importHash: ed7fee7c953edceb
 ---
 the above is the user experience, here’s what the developer experience looks like:
 

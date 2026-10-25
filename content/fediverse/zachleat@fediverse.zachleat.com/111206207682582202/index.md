@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111206207682582202
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111206207682582202
-  importHash: a75674f03cce06c9
+  importHash: cf761e0e4755f3cd
 ---
 yes it works with your existing CommonJS project too 👀
 

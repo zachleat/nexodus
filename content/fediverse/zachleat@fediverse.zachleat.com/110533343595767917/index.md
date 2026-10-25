@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110533343595767917
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110533343595767917
-  importHash: 3ce71749cfebbce5
+  importHash: 3c966e7e818776b2
 ---
 this toot is for two people and two people only
 

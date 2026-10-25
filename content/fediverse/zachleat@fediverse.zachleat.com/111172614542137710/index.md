@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111172614542137710
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111172614542137710
-  importHash: 3e7a59ee9b19848a
+  importHash: cf03be06bd54ae03
 ---
 you either die a fully rendered MPA or live long enough to white screen the SPA
 

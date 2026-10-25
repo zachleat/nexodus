@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110815306190411971
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110815306190411971
-  importHash: be5950821050c193
+  importHash: de990197c4bc4919
 ---
 and a whisper was heard from this lake michigan protector of ships, this lone building of light, this guardian of the shore:
 

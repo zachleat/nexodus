@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115170116425461061
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115170116425461061
-  importHash: 2c3dc623f785bca4
+  importHash: b2d7721b01bfad43
 ---
 whew, it’s been taken down a mere 5 hours after publish.
 

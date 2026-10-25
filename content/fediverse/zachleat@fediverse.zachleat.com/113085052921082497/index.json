@@ -1,0 +1,56 @@
+{
+	"comments": [
+		{
+			"id": "113085125033278246",
+			"parentId": 0,
+			"url": "https://mastodon.online/@macdonst/113085125010569071",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-09-05T13:14:28.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ug, I’m betting it has something to do with me switching domain providers. Will fix this morning.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113085299204049958",
+			"parentId": "113085125033278246",
+			"url": "https://mastodon.online/@macdonst/113085298831349998",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-09-05T13:58:40.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Can you give it another try from your end? I think I fixed my screw up.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113085886635431493",
+			"parentId": "113085299204049958",
+			"url": "https://fediverse.zachleat.com/@zachleat/113085886635431493",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-09-05T16:28:10.114Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> it’s workingggg!!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "113086150542706344",
+			"parentId": "113085886635431493",
+			"url": "https://mastodon.online/@macdonst/113086150243786373",
+			"author": {
+				"name": "Simon MacDonald",
+				"url": "https://mastodon.online/@macdonst",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
+			},
+			"date": "2024-09-05T17:35:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> awesome. Totally a click ops failure by me.</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113991832385124131
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113991832385124131
-  importHash: 9687697820a9d867
+  importHash: ca2820df0838b084
 ---
 Looks like using Svelte via import maps got a lot more gnarly between v4 and v5, unfortunately.
 

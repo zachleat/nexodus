@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109751096877064171
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109751096877064171
-  importHash: 1d3b752e8aada824
+  importHash: 9bac5eaea0c997dc
 ---
 Getting comfortable with this new Windows laptop—navigated over to play some music on [https://tidal.com/](https://tidal.com/) in the Edge browser and it showed me what appears to be an OS-level advertisement (?) for Spotify.
 

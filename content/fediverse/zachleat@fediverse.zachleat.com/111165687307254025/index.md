@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111165687307254025
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111165687307254025
-  importHash: ba505a7943a014d2
+  importHash: caf5fc086e8a2f1d
 ---
 Well, it’s working. Can it survive a month on FaunaDB’s free tier? Only time will tell 👀
 

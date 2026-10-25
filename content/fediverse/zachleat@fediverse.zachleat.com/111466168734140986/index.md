@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111466168734140986
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111466168734140986
-  importHash: 3d44b9ed0fe0cfba
+  importHash: 4573f7deafaf85ea
 ---
 the free covid tests from the US government \*require\* a smartphone app, internet connection, and bluetooth access for use 🫠🦠😷
 

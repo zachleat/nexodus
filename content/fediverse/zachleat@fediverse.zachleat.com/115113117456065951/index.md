@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115113117456065951
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115113117456065951
-  importHash: 843ccda270d89716
+  importHash: c6644fa55a24639d
 ---
 Looks like the above was last updated in November 2024 but links to the HTTP Archive Tech Report for newer data: [https://httparchive.org/reports/techreport/tech?good-cwv-over-time=TTFB&tech=Hostinger,SiteGround,WP+Engine,Shopify,GoDaddy+Website+Builder,Framer+Sites,GitHub+Pages,Squarespace,Vercel,Netlify,Seravo,Weebly,Pantheon,Fly.io,Kinsta&geo=ALL&rank=ALL#comparison-good-cwvs](https://httparchive.org/reports/techreport/tech?good-cwv-over-time=TTFB&tech=Hostinger,SiteGround,WP+Engine,Shopify,GoDaddy+Website+Builder,Framer+Sites,GitHub+Pages,Squarespace,Vercel,Netlify,Seravo,Weebly,Pantheon,Fly.io,Kinsta&geo=ALL&rank=ALL#comparison-good-cwvs)
 

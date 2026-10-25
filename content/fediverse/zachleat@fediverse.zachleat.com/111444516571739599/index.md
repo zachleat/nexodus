@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111444516571739599
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111444516571739599
-  importHash: 6dc9821407d76fce
+  importHash: 225e98f3b8305ef5
 ---
 minty fresh selectors
 

@@ -1,0 +1,30 @@
+{
+	"comments": [
+		{
+			"id": "111964732016802445",
+			"parentId": 0,
+			"url": "https://mastodon.design/@DavidDarnes/111964731965603076",
+			"author": {
+				"name": "Dave 🧱 :cursor_pointer:",
+				"url": "https://mastodon.design/@DavidDarnes",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/954/905/181/617/original/1276d73765f37a08.jpg"
+			},
+			"date": "2024-02-20T16:23:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> hey! We don't use any CMS for the design system site or our main site. Both are just Eleventy as is, we pull component and tokens data from our npm packages</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "111964837693737984",
+			"parentId": "111964732016802445",
+			"url": "https://fediverse.zachleat.com/@zachleat/111964837693737984",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-02-20T16:50:40.785Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@DavidDarnes\" class=\"u-url mention\">@<span>DavidDarnes</span></a></span> thanks!</p>",
+			"via": "fediverse"
+		}
+	]
+}

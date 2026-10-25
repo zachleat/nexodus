@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112394702854573032
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112394702854573032
-  importHash: aae210d6590e79f9
+  importHash: e1e124dd6967a985
 ---
 “we have static sites at home!”
 

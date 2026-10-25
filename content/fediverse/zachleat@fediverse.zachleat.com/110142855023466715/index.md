@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110142855023466715
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110142855023466715
-  importHash: 3757b89cacad083a
+  importHash: 8e4952d7b0bdb837
 ---
 no one tell the two javascript conferences I’m speaking at next month
 

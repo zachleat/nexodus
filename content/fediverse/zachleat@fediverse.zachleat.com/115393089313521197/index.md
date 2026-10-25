@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115393089313521197
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115393089313521197
-  importHash: b5642581b524321c
+  importHash: ac8507dbf2e73755
 ---
 no — \*you\* are working on the archives page on your blog on friday night — not me
 

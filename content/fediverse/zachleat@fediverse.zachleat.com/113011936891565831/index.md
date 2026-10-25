@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113011936891565831
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113011936891565831
-  importHash: 57ee6ba12979be1a
+  importHash: 6817d293d0d8b975
 ---
 Correction to this post after playing with uBlock Origin Lite for a bit—it does \*not\* require per-site opt-in, defaults to a Basic limited permissions filtering mode:
 

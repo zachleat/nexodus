@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114146003902452381
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114146003902452381
-  importHash: 31ed456a81bfab9d
+  importHash: 537fc96b90f41562
 ---
 classic wordpress.
 

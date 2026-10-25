@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113200582005463493
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113200582005463493
-  importHash: 59c95c875de35c75
+  importHash: 617d8fe76a3a81c3
 ---
 this v3 docs PR is growing in both breadth and power
 

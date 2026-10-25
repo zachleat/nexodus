@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109937673595891219
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109937673595891219
-  importHash: a1d08d2cc2ab50eb
+  importHash: 3449922bd8e33059
 ---
 A casual reminder that open sourcing things (even small things) is awesome, \`flex-luthor\` v4 now has connected separators thanks to [@chriskirknielsen](https://mastodon.social/@chriskirknielsen)!
 

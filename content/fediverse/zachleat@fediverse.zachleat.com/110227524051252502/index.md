@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110227524051252502
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110227524051252502
-  importHash: 2ac3b1572fe389ae
+  importHash: ccc4a0d926c36516
 ---
 [@rich\_harris](https://toot.cafe/@rich_harris) surprisingly (to me) this slide is the one that made me cringe the most 🫠
 

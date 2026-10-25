@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111024952111155146
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111024952111155146
-  importHash: 20cd275161c2986c
+  importHash: df88f69c59ddddd6
 ---
 Dan Donald made two very relevant points in his [@smashingconf](https://mastodon.social/@smashingconf) Freiburg talk:
 

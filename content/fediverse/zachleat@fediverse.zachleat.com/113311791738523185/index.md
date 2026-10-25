@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113311791738523185
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113311791738523185
-  importHash: b442fe9888ad2040
+  importHash: 33d45ca4b3556c20
 ---
 here, let me sum up the web components discussion for you
 

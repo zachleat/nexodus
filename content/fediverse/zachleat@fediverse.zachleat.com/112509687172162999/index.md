@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112509687172162999
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112509687172162999
-  importHash: 365a33f8935209e3
+  importHash: b963b083f64b722e
 ---
 these little dudes have been crashing with us for a bit
 

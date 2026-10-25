@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112139706471681328
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112139706471681328
-  importHash: e53fd02eda07609f
+  importHash: a94950d6a1bfe358
 ---
 Here’s the source code between the doctype and the \<title> for this site:
 

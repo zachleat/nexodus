@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111291203580663769
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111291203580663769
-  importHash: 4d9ee11bb7b4834e
+  importHash: 718a7fa04bbc3c9d
 ---
 Today in pseudo Lighthouse graphics:
 

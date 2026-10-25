@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109513422968718852
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109513422968718852
-  importHash: 2e972b4188f6633b
+  importHash: 42bb1610dc512ab2
 ---
 to follow up, I did go through the Create a Next.js app tutorial [https://nextjs.org/learn/basics/create\-nextjs-app](https://nextjs.org/learn/basics/create-nextjs-app) and it does collect telemetry by default without mention of data collection via the command line or otherwise.
 

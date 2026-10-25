@@ -66,19 +66,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "113358333463901207",
-			"parentId": 0,
-			"url": "https://indieweb.social/@websident/113358332962417748",
-			"author": {
-				"name": "Christian Niklas",
-				"url": "https://indieweb.social/@websident",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/298/552/865/910/693/original/77b843487d1f0129.jpg"
-			},
-			"date": "2024-10-23T19:14:51.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> A framework that obviously loves Flexbox very much!</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "113358356095412344",
 			"parentId": "113358298455212580",
 			"url": "https://mastodon.social/@jakelazaroff/113358355570823579",
@@ -374,7 +361,7 @@
 	"counts": {
 		"likes": 12,
 		"reposts": 6,
-		"comments": 8,
+		"comments": 7,
 		"via": "fediverse"
 	}
 }

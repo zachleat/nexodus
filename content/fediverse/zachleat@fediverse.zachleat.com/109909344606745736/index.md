@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109909344606745736
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109909344606745736
-  importHash: 4a1ea94d2a5dd055
+  importHash: 4139ea378dc46dfc
 ---
 “the web is an application platform now so you should use my application framework for your web site”
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114551965166543517
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114551965166543517
-  importHash: 0ff14cea3635d657
+  importHash: f31470611c447a2d
 ---
 I’m curious: is this chart surprising to y’all?
 

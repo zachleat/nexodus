@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110952431760860410
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110952431760860410
-  importHash: e97b7070a021ecdf
+  importHash: c9a6432f931894a8
 ---
 Project [@eleventy](https://fosstodon.org/@eleventy) Big Deal ESM update:
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114517963181361908
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114517963181361908
-  importHash: b40ebafcf2ad922c
+  importHash: d1939792f5a9395b
 ---
 I went to figure out why gatsbyjs.com’s lighthouse performance score had jumped up ~10 points in the last 24 hours and found that Google Tag Manager was 404-ing 😅
 

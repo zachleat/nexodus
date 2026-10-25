@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112605584620353721
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112605584620353721
-  importHash: 8b4b6e7c3b6d2fc6
+  importHash: f3b647a53cd8edf8
 ---
 bless you, registration form on porkbun.com
 

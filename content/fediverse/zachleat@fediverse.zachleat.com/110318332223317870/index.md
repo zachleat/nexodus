@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110318332223317870
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110318332223317870
-  importHash: 123049f5c7b44377
+  importHash: cfdc7ae56ffad922
 ---
 [@mhartington](https://mastodon.social/@mhartington) hey Mike I was just reviewing some Stencil docs for a web components talk and stumbled across this reference, which might need an update!
 

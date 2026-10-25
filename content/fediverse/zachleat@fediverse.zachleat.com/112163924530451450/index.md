@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112163924530451450
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112163924530451450
-  importHash: 1dd1f477263f6188
+  importHash: 82936ba369b9c4be
 ---
 Finally we have a CLI to definitively answer whether something is a web site or a web app: [https://github.com/Y2Z/monolith](https://github.com/Y2Z/monolith)
 

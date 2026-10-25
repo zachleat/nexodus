@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111557187764964830
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111557187764964830
-  importHash: 22ad9cf2a170d48e
+  importHash: cdec954156ff7d29
 ---
 these amateur ornithologists can’t stop looking at tweets on the bird site
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111999383574869265
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111999383574869265
-  importHash: e1e6bc6d1b8c6b21
+  importHash: 79cc675611a310ab
 ---
 (hat tip to [@knowler](https://sunny.garden/@knowler) [https://sunny.garden/@knowler/111999357409515094](https://sunny.garden/@knowler/111999357409515094))
 

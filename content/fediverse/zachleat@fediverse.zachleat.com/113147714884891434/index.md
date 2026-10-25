@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113147714884891434
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113147714884891434
-  importHash: db6f56d66835b1a1
+  importHash: bbbb90a851eeac15
 ---
 still thinking about this still from Snack Shack (2024) from yesterday
 

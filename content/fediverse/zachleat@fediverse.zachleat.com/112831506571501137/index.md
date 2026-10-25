@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112831506571501137
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112831506571501137
-  importHash: 0af55fefa0c08ff7
+  importHash: cd7c1e3c4e1bbeef
 ---
 Would be nice to have an option in GitHub Issues notification settings to know when a maintainer comments. It would allow subscribing but skip drive-by comments from everyone else.
 

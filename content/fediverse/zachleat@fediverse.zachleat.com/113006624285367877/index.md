@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113006624285367877
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113006624285367877
-  importHash: 3a33d68f18e7192a
+  importHash: c34bff1e62efccb4
 ---
 Here’s a little bit better view of the Kerið volcanic crater lake: [https://en.wikipedia.org/wiki/Keri%C3%B0](https://en.wikipedia.org/wiki/Keri%C3%B0)
 

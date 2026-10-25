@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115147365021374117
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115147365021374117
-  importHash: 49fe3a0f2bfcb9a4
+  importHash: 200134a38ea4baed
 ---
 gotta watch out for those Google Symbols icon font ligatures in Google Meet
 

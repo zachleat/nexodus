@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112815296854004199
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112815296854004199
-  importHash: 10cf59347ea5cc7e
+  importHash: 4a015bf7dc46686a
 ---
 Wow, just learned that Google Photos is actively generating \`goo.gl\` share URLs.
 

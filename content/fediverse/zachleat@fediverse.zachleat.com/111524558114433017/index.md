@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111524558114433017
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111524558114433017
-  importHash: c66148ba43bed7c0
+  importHash: a1f0c6f268bf3ab9
 ---
 Vercel’s Next.js v14 has shipped and (as one does) I had a look at the JavaScript footprint of the production build of Hello World:
 

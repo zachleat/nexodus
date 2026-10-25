@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/114434795493653605
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/114434795493653605
-  importHash: a5296f05736a15d7
+  importHash: 9b9b42f09d2a1321
 ---
 Alright, so the previous demo was a generic Eleventy project in the browser — by itself a big milestone.
 

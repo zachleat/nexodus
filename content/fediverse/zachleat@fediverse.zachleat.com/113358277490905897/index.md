@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113358277490905897
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113358277490905897
-  importHash: 04d3231183c76df7
+  importHash: a7f381dfb4e18761
 ---
 Genuine question: does anyone know what CSS tool might be generating markup like this? A curious mixture of generated classes and inline styles.
 

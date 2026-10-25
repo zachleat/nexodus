@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110860238519690771
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110860238519690771
-  importHash: b4da460e26ed146a
+  importHash: 38a1e07f471ba589
 ---
 new day, new swag
 

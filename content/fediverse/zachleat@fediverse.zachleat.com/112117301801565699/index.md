@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/112117301801565699
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/112117301801565699
-  importHash: 0d6142fb7f422871
+  importHash: 5dbdb2c1e890dce6
 ---
 Framing this Twitter exchange on my wall
 

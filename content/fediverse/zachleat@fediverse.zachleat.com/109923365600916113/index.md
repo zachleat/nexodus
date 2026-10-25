@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109923365600916113
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109923365600916113
-  importHash: cc3f9e20cfc9f28c
+  importHash: 14d4cd77e279e37f
 ---
 Experimenting with an \`esbuild\` style animated ASCII benchmark chart on the [@eleventy](https://fosstodon.org/@eleventy) home page 👀
 

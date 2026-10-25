@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111024972902995897
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111024972902995897
-  importHash: e35cdfcdbb23e6ec
+  importHash: 84e98169815aacec
 ---
 Absolutely loved that [@jecfish](https://indieweb.social/@jecfish) gave a shout out to Firefox Developer Tools in their energetic talk on Source Maps at [@smashingconf](https://mastodon.social/@smashingconf) Freiburg:
 

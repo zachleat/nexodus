@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109920653160588451
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109920653160588451
-  importHash: 191a020c709d225f
+  importHash: 63800c9ce4a0dc46
 ---
 \`npm install\` time (in seconds)
 

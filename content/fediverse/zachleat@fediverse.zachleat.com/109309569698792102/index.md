@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/109309569698792102
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/109309569698792102
-  importHash: 220aec742b61b7ab
+  importHash: 152f2e55b1248622
 ---
 At [#JamstackConf](https://fediverse.zachleat.com/tags/JamstackConf), Laurie Voss reports that the Jamstack Community Survey data reveals:
 

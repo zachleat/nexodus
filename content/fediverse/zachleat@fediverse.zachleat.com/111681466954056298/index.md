@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111681466954056298
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111681466954056298
-  importHash: be02a2514219dde7
+  importHash: b7f7fcaeba1470d4
 ---
 I am now certified on LinkedIn
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/111269406759014837
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/111269406759014837
-  importHash: 91c9952872127881
+  importHash: 96141e51a69ba76c
 ---
 I take great pride in maintaining that this error message works nicely with every major release of Eleventy and doesn’t dump a weird stack trace for folks running old Node.
 

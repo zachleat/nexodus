@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113205017386878597
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113205017386878597
-  importHash: 1a78c7aa0d2f7c55
+  importHash: 6b747e9625f1afc9
 ---
 I’ll be at Web Unleashed in Toronto in just a few short weeks (Oct 10–11)!
 

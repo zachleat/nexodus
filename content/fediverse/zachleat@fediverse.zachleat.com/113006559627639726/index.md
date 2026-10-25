@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/113006559627639726
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/113006559627639726
-  importHash: 693eb4f47a3ced75
+  importHash: 3b0773592bd81876
 ---
 Greetings from inside the crater of a dormant volcano in Iceland 🇮🇸
 

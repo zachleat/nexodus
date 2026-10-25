@@ -1,0 +1,69 @@
+{
+	"comments": [
+		{
+			"id": "112446100981029288",
+			"parentId": 0,
+			"url": "https://front-end.social/@mia/112446100973037083",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2024-05-15T16:42:15.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh wow, ok - I'll look into it and get back to you. Thanks!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112446117732493091",
+			"parentId": "112446100981029288",
+			"url": "https://fediverse.zachleat.com/@zachleat/112446117732493091",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-15T16:46:31.377Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> thank you!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112446134819539295",
+			"parentId": "112446117732493091",
+			"url": "https://front-end.social/@mia/112446134811148147",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2024-05-15T16:50:51.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It seems like collectives can only give to each other if they have the same host (and we're self-hosted).</p><p><a href=\"https://docs.opencollective.com/help/financial-contributors/financial-contributors#can-my-collective-give-to-another-collective\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.opencollective.com/help/f</span><span class=\"invisible\">inancial-contributors/financial-contributors#can-my-collective-give-to-another-collective</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112446363010305030",
+			"parentId": "112446134819539295",
+			"url": "https://fediverse.zachleat.com/@zachleat/112446363010305030",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2024-05-15T17:48:54.019Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mia\" class=\"u-url mention\">@<span>mia</span></a></span> ah, TIL—thank you—I’ll figure something out!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "112446436738947891",
+			"parentId": "112446363010305030",
+			"url": "https://front-end.social/@mia/112446436732301165",
+			"author": {
+				"name": "Mia [data-css=poetic]",
+				"url": "https://front-end.social/@mia",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/288/802/718/835/617/original/8722c4b60aec61b1.jpeg"
+			},
+			"date": "2024-05-15T18:07:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks!</p>",
+			"via": "fediverse"
+		}
+	]
+}

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/110794908987126386
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/110794908987126386
-  importHash: 11f43c358151caa8
+  importHash: 92071525ae49a35b
 ---
 giving away free [@eleventy](https://fosstodon.org/@eleventy) merch on the river today—see you out there
 
