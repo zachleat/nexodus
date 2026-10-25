@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lollery5s227
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lollery5s227
-  importHash: be37c61d702601ad
+  importHash: 2fbd69e1b10adc35
 ---
 [@danielroe.dev](https://bsky.app/profile/did:plc:jbeaa5kdaladzwq3r7f5xgwe) I’m curious if you would be interested in making the lab data on page-speed.dev more visually prominent?
 

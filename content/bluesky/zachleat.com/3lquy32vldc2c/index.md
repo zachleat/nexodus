@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lquy32vldc2c
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lquy32vldc2c
-  importHash: 23c154d098cc1bb3
+  importHash: 259543fe14e8c725
 ---
 Decoupled this one right out of [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2)’s new demo/playground component: [bsky.app/profile/11ty...](https://bsky.app/profile/11ty.dev/post/3lpcyjkim7m2l)
 

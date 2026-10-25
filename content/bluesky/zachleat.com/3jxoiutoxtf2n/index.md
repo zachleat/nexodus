@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3jxoiutoxtf2n
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3jxoiutoxtf2n
-  importHash: 54f36029ab5b8ea6
+  importHash: bcc07aa9e0db7219
 ---
 the bluesky web UI has so many double scrollbars 😬
 

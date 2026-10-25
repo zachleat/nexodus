@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lcavgix32s2e
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lcavgix32s2e
-  importHash: 074c97c7797d33ee
+  importHash: fdd5140cdcb998e7
 ---
 that thing read me for filth 🫣
 

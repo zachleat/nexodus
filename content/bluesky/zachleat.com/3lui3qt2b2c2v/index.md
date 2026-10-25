@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lui3qt2b2c2v
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lui3qt2b2c2v
-  importHash: 3f32fac4e5d5135c
+  importHash: fc379bff82f56b76
 ---
 babe wake up a new Mitt Romney Web Font Problem just dropped [www.zachleat.com/web/mitt-rom...](https://www.zachleat.com/web/mitt-romney-webfont-problem/)
 

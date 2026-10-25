@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lvgzui3iws2w
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lvgzui3iws2w
-  importHash: 4b28ac8ee8a3ac44
+  importHash: c36b568789401d8f
 ---
 just completed the official [@fontawesome.com](https://bsky.app/profile/did:plc:spcmfh6ub7op2y2rrondrfwg) LEGO logo sets!
 

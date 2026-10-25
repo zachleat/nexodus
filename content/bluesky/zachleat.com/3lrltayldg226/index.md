@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lrltayldg226
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lrltayldg226
-  importHash: b9e52c602201ecb6
+  importHash: 280986f171e5ee80
 ---
 I went out to try to improve society, somewhat. [#NoKings](https://bsky.app/hashtag/NoKings)
 

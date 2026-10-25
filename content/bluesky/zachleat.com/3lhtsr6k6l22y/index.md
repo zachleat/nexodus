@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhtsr6k6l22y
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lhtsr6k6l22y
-  importHash: b7c3d2bf5d1158fa
+  importHash: 3dac2029e2c663b0
 ---
 are… are these \<input type=range>
 

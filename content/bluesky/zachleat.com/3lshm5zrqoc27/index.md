@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lshm5zrqoc27
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lshm5zrqoc27
-  importHash: ee818ee280178606
+  importHash: c5e8311220ccc6c4
 ---
 maybe I’m being sensitive but I’m giving a bit of a side eye to [deno.com](https://deno.com) stating that it’s “Backwards compatible with Node.js”
 

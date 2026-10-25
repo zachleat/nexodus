@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnggjertpc22
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lnggjertpc22
-  importHash: 4be95dee04e0cb2e
+  importHash: 703c9b8bb242178c
 ---
 \[…many years later\]
 

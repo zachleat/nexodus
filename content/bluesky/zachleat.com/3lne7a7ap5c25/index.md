@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lne7a7ap5c25
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lne7a7ap5c25
-  importHash: a1d95fe5dc43d2e4
+  importHash: c4667cff71b294e7
 ---
 this is the only verification I will recognize on this platform
 

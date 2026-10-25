@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m25eevfpbc22
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m25eevfpbc22
-  importHash: 5d199dd6e3c7c2ed
+  importHash: 1d4847fdecb34760
 ---
 when the paywall CSS is accessible but also inaccessible
 

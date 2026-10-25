@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ld7gwcjb6226
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3ld7gwcjb6226
-  importHash: 200196129f5e454f
+  importHash: c563ce30099a0d32
 ---
 aw they deleted it, here’s a screenshot from [@michaelbishop.me](https://bsky.app/profile/did:plc:ulxk572dnu5v56yssqyupulk): [bsky.app/profile/mich...](https://bsky.app/profile/michaelbishop.me/post/3ld7echthqd2z)
 

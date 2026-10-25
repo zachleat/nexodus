@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqq3rrzhxc24
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lqq3rrzhxc24
-  importHash: fd0b70ca9987f119
+  importHash: 4bd02ea6007b3509
 ---
 When leadership (in a software company or community) shows you that it is not a welcoming space for productive and critical discussions (critique of LLMs in the flavor of today), it’s time to take some advice from [@dasharez0ne.bsky.social](https://bsky.app/profile/did:plc:sxxnhzipsapdm5inx44fr322).
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhyhdsdfjs2x
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lhyhdsdfjs2x
-  importHash: 2552c5120d96df39
+  importHash: a037bf1a36f8a184
 ---
 dril said it best
 

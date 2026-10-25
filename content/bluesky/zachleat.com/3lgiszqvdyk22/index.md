@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lgiszqvdyk22
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lgiszqvdyk22
-  importHash: 654caafd7f0c6c42
+  importHash: 346c901ac15bd72b
 ---
 Found some unnecessary twitter metadata still sitting around on my web site and it’s always a good time to delete code (\*especially\* now).
 

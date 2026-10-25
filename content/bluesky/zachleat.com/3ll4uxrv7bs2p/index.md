@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3ll4uxrv7bs2p
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3ll4uxrv7bs2p
-  importHash: 8ad1724dc8ff8dcc
+  importHash: 49893bb4f11d8d43
 ---
 Why does [socket.dev](https://socket.dev) report that the latest version of next.js has a malware dependency? [socket.dev/npm/package/...](https://socket.dev/npm/package/next/alerts/15.2.3?tab=dependencies)
 

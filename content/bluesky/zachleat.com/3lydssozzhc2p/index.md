@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydssozzhc2p
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lydssozzhc2p
-  importHash: dcf322fd795c7e1d
+  importHash: ace4b81e891de53c
 ---
 radio silence from all of these accounts is kinda wild to see too:
 

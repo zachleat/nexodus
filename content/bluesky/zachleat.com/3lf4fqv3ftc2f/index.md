@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lf4fqv3ftc2f
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lf4fqv3ftc2f
-  importHash: e477a9f7d7726338
+  importHash: cb7533df504145db
 ---
 trying out a new issue tracker this year
 

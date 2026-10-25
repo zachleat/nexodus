@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lpcadbz4ck2e
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lpcadbz4ck2e
-  importHash: 586f30e0c52ce5d3
+  importHash: f32c535ba1d14c21
 ---
 I went to figure out why the [gatsbyjs.com](https://gatsbyjs.com) lighthouse performance score had jumped up ~10 points in the last 24 hours and found that Google Tag Manager was 404-ing 😅
 

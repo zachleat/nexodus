@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lydu6lv5vs24
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lydu6lv5vs24
-  importHash: 4db6b06d3d6f1689
+  importHash: 89a30586a63ce2b2
 ---
 The affected package has been removed from npm, over 5 hours after it was published. Whew, what a ride.
 

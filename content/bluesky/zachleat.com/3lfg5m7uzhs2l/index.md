@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lfg5m7uzhs2l
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lfg5m7uzhs2l
-  importHash: d55c77aac41db3d2
+  importHash: 06c8e1b207383d1d
 ---
 mistakes were made  
 mistakes were fixed

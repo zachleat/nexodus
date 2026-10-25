@@ -22,7 +22,6 @@ async function runImport(type, target, output) {
 	let entries = await importer.getEntries({
 		contentType: "markdown",
 		target: "fs",
-		within: "365d"
 	});
 	await importer.toFiles(entries);
 	importer.logResults();

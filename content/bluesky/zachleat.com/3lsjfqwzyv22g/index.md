@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lsjfqwzyv22g
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lsjfqwzyv22g
-  importHash: d97c63de35c51774
+  importHash: f6c5baa3b08d5a54
 ---
 it would be super cool if [@npmjs.bsky.social](https://bsky.app/profile/did:plc:3urdhshc23yyxn42xtfzppkw) added this! [bsky.app/profile/tobi...](https://bsky.app/profile/tobias.bieniek.cloud/post/3lsjealy2hc2u)
 

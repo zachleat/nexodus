@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lynjmi7brk2w
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lynjmi7brk2w
-  importHash: 934555df165def4a
+  importHash: d03d42c88c26d60d
 ---
 trying to estimate how much the saas is gonna cost
 

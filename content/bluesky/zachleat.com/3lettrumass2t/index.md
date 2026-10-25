@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lettrumass2t
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lettrumass2t
-  importHash: 36555436bf094e19
+  importHash: ed9f13f73c07c862
 ---
 Any web property monetized via advertising is \*already\* primarily computer generated content—it’s been that way for at least 20 years.
 

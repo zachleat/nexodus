@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3logobmcuok2y
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3logobmcuok2y
-  importHash: 5f9f7c7c7cd8bcc9
+  importHash: 902ded477f18df0f
 ---
 TIL Chrome and Safari support dynamic creation of Import Maps in script 👀
 

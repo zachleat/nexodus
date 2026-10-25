@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lbdantbp3s2l
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lbdantbp3s2l
-  importHash: 096f8efeb4ac5c59
+  importHash: 35d82493fcf3ad65
 ---
 vindicated [bsky.app/profile/pfra...](https://bsky.app/profile/pfrazee.com/post/3lbd5uyzdj22e)
 

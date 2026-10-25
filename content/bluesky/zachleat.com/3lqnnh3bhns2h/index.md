@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lqnnh3bhns2h
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3lqnnh3bhns2h
-  importHash: 08c79a7181d95e02
+  importHash: cd00ff68fbe14b4a
 ---
 with all due respect — what the hell
 
