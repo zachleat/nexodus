@@ -51,58 +51,6 @@
 			"date": "2024-08-06T15:16:22.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> tbh, I probably already have a repo for it 😅</p>",
 			"via": "fediverse"
-		},
-		{
-			"id": "112917427876558891",
-			"parentId": 0,
-			"url": "https://toots.inbutts.lol/@shnizmuffin/112917427836905682",
-			"author": {
-				"name": "ShnizmuffiN",
-				"url": "https://toots.inbutts.lol/@shnizmuffin",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/952/635/091/269/876/original/a27991893443d005.png"
-			},
-			"date": "2024-08-06T22:26:52.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jameswragg\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jameswragg</span></a></span> Ah, I just replaced nunjucks with webc across every project we've got in active development because I thought nunjucks was cooked. 🤷‍♂️</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "112917431107092495",
-			"parentId": "112917427876558891",
-			"url": "https://fediverse.zachleat.com/@zachleat/112917431107092495",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-08-06T22:27:42.742Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toots.inbutts.lol/@shnizmuffin\" class=\"u-url mention\">@<span>shnizmuffin</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jameswragg\" class=\"u-url mention\">@<span>jameswragg</span></a></span> it’s a surprising development!</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "112919460380626085",
-			"parentId": "112917427876558891",
-			"url": "https://mastodon.social/@jameswragg/112919460295435846",
-			"author": {
-				"name": "James Wragg",
-				"url": "https://mastodon.social/@jameswragg",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/361/390/335/318/968/original/16cc6a848ba1bc22.png"
-			},
-			"date": "2024-08-07T07:03:45.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toots.inbutts.lol/@shnizmuffin\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>shnizmuffin</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> might still be the case. It’s a codebase that started 4 years ago but languished due to the single maintainer having family commitments &amp; employer not using Nunjucks so much. He’s put effort in last few months to get it to the point where he can release it, see if there’s interest &amp; ideally hand over.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "112921331317248262",
-			"parentId": "112919460380626085",
-			"url": "https://fediverse.zachleat.com/@zachleat/112921331317248262",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-08-07T14:59:35.228Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jameswragg\" class=\"u-url mention\">@<span>jameswragg</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://toots.inbutts.lol/@shnizmuffin\" class=\"u-url mention\">@<span>shnizmuffin</span></a></span> amazing! Hopefully the <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span> community can help find a match for it</p>",
-			"via": "fediverse"
 		}
 	],
 	"counts": {

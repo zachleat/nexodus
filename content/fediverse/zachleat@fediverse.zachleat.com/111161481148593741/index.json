@@ -521,58 +521,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111165699137748189",
-			"parentId": 0,
-			"url": "https://front-end.social/@mxbck/111165698857265281",
-			"author": {
-				"name": "Max Böck",
-				"url": "https://front-end.social/@mxbck",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/056/493/159/698/original/45a5e18ac98225c0.jpg"
-			},
-			"date": "2023-10-02T13:39:09.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I implemented my own analytics, even managed to get it under my performance budget of 0.0kB</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111165706108165696",
-			"parentId": "111165699137748189",
-			"url": "https://fediverse.zachleat.com/@zachleat/111165706108165696",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-10-02T13:41:00.490Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\">@<span>mxbck</span></a></span> impressive—a server side log analyzer?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111165716715322368",
-			"parentId": "111165699137748189",
-			"url": "https://mastodon.social/@chrisfinazzo/111165716460836562",
-			"author": {
-				"name": "Chris Finazzo",
-				"url": "https://mastodon.social/@chrisfinazzo",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/526/160/762/976/693/original/d4989b5b8cc742dc.jpg"
-			},
-			"date": "2023-10-02T13:43:38.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111165733113656881",
-			"parentId": "111165699137748189",
-			"url": "https://toots.dgplug.org/@saptaks/111165733025949837",
-			"author": {
-				"name": "SaptakS",
-				"url": "https://toots.dgplug.org/@saptaks",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/775/704/871/775/original/d563ec517ab752a4.png"
-			},
-			"date": "2023-10-02T13:47:51.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  I have an aggregator code to read from access log in my server.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111165815479408300",
 			"parentId": "111165687307254025",
 			"url": "https://mastodon.social/@scrwd/111165814889923916",
@@ -612,19 +560,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111165905176800496",
-			"parentId": "111165706108165696",
-			"url": "https://front-end.social/@mxbck/111165905155746081",
-			"author": {
-				"name": "Max Böck",
-				"url": "https://front-end.social/@mxbck",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/056/493/159/698/original/45a5e18ac98225c0.jpg"
-			},
-			"date": "2023-10-02T14:31:37.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no, just got rid of the whole thing 😅 </p><p>I did have some server-side metrics for a while, but it wasn't really useful info so now I'm just not tracking anything.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111165937243239490",
 			"parentId": "111165676998804034",
 			"url": "https://mastodon.social/@cferdinandi/111165937126740835",
@@ -651,19 +586,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111166028864255517",
-			"parentId": "111165905176800496",
-			"url": "https://mastodon.social/@schneyra/111166028696398878",
-			"author": {
-				"name": "Martin Schneider",
-				"url": "https://mastodon.social/@schneyra",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/541/793/105/707/original/bb6e80a70d2c0f26.jpeg"
-			},
-			"date": "2023-10-02T15:03:02.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Team Zero Tracking!</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111166041134961062",
 			"parentId": "111165815479408300",
 			"url": "https://fediverse.zachleat.com/@zachleat/111166041134961062",
@@ -677,19 +599,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111166056428430746",
-			"parentId": "111166028864255517",
-			"url": "https://fediverse.zachleat.com/@zachleat/111166056428430746",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-10-02T15:10:05.954Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schneyra\" class=\"u-url mention\">@<span>schneyra</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\">@<span>mxbck</span></a></span> For the record my goal is to keep this page accurate-ish: <a href=\"https://www.zachleat.com/web/best-of/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/best-of/</span><span class=\"invisible\"></span></a></p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111166059717032161",
 			"parentId": "111166041134961062",
 			"url": "https://mastodon.social/@scrwd/111166059563843554",
@@ -700,71 +609,6 @@
 			},
 			"date": "2023-10-02T15:10:53.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ha, I think he is long dead and past caring tbh.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111166113763902907",
-			"parentId": 0,
-			"url": "https://fosstodon.org/@konsonantenboy/111166113752150868",
-			"author": {
-				"name": "Krzysztof Jeziorny",
-				"url": "https://fosstodon.org/@konsonantenboy",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/371/413/269/452/002/original/27447a91291d82cc.jpg"
-			},
-			"date": "2023-10-02T15:24:40.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> GoAccess for server logs analysis is rather easy to install and configure. There's a terminal and a static html file dashboard, created with a cronjob regularly. Nothing fancy, but useful info.<br><a href=\"https://goaccess.io/features\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">goaccess.io/features</span><span class=\"invisible\"></span></a></p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111166120799479025",
-			"parentId": "111166056428430746",
-			"url": "https://front-end.social/@mxbck/111166120758452689",
-			"author": {
-				"name": "Max Böck",
-				"url": "https://front-end.social/@mxbck",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/353/056/493/159/698/original/45a5e18ac98225c0.jpg"
-			},
-			"date": "2023-10-02T15:26:27.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schneyra\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>schneyra</span></a></span> ah, got it! so basically just hit-counters on URLs?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111166130486924755",
-			"parentId": "111166120799479025",
-			"url": "https://fediverse.zachleat.com/@zachleat/111166130486924755",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-10-02T15:28:55.997Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\">@<span>mxbck</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schneyra\" class=\"u-url mention\">@<span>schneyra</span></a></span> yeah, exactly! The barest of bare analytics 😅</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111166145395525295",
-			"parentId": "111166130486924755",
-			"url": "https://mastodon.social/@khalidabuhakmeh/111166145122791796",
-			"author": {
-				"name": "Khalid ⚡",
-				"url": "https://mastodon.social/@khalidabuhakmeh",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/296/176/354/255/607/original/70d4899634530145.png"
-			},
-			"date": "2023-10-02T15:32:39.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mxbck\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>mxbck</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schneyra\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>schneyra</span></a></span> Now please add a MIDI player. 😅</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111166904891505608",
-			"parentId": 0,
-			"url": "https://masto.measure.chat/@dennis/111166904858351214",
-			"author": {
-				"name": "Dennis Hendricks",
-				"url": "https://masto.measure.chat/@dennis",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/565/174/636/170/242/original/e921a157cc66dba6.png"
-			},
-			"date": "2023-10-02T18:45:51.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I took a self-hosted version of Umami and integrated a server-side tracker (simple fetch request via middleware). Zero client-side JavaScript, nice data overview and a great API to further use the stats!</p>",
 			"via": "fediverse"
 		},
 		{
@@ -909,45 +753,6 @@
 			},
 			"date": "2024-08-30T20:15:19.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cthos.dev/@cthos\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>cthos</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> afaik they don't have backups readily available either (in the UI, free plan) - had to roll my own when I realized.</p><p>I used to be quite fond of their service, never ran into issues, even with multi-user production apps. I guess enshittification continues, and that we're all better off going back to mySql on our own boxes for things that matter 😢</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "113052957669113574",
-			"parentId": "113052739309127362",
-			"url": "https://fediverse.zachleat.com/@zachleat/113052957669113574",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2024-08-30T20:53:53.963Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@djwebdroid\" class=\"u-url mention\">@<span>djwebdroid</span></a></span> since it’s my personal site I’m trying out <a href=\"https://www.goatcounter.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">goatcounter.com/</span><span class=\"invisible\"></span></a> next</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "113098995347434490",
-			"parentId": "113052957669113574",
-			"url": "https://mastodon.social/@djwebdroid/113098995301065278",
-			"author": {
-				"name": "Djwebdroid",
-				"url": "https://mastodon.social/@djwebdroid",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/927/822/142/106/366/original/700f873bb605e8ea.jpg"
-			},
-			"date": "2024-09-08T00:01:52.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah, yes. Thank you. I remember stumbling on them. I went with the free tier of <a href=\"https://cronitor.io\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cronitor.io</span><span class=\"invisible\"></span></a></p><p>Used to be another name but they joined forces with other creatives … to create …</p><p>Cause not so backendy … me … </p><p>I only hack javascript but I’m big on html css … that’s how I first found 11ty … somehow. :)</p><p>Actually, it might be interesting to you the master of nodes … :)</p><p>Cheers Zak!</p><p>Hope this is helpful in some way.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "113102448119939410",
-			"parentId": "113052957669113574",
-			"url": "https://mastodon.social/@djwebdroid/113102448096642614",
-			"author": {
-				"name": "Djwebdroid",
-				"url": "https://mastodon.social/@djwebdroid",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/927/822/142/106/366/original/700f873bb605e8ea.jpg"
-			},
-			"date": "2024-09-08T14:39:57.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ah, yes. Thank you. I remember stumbling on it. I went with the free tier of <a href=\"https://cronitor.io\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cronitor.io</span><span class=\"invisible\"></span></a></p><p>Used to be another name but they joined … what was it again? Hmmm.</p><p>Actually, it might be interesting to you master of nodes … :)</p><p>Cheers Zak!</p>",
 			"via": "fediverse"
 		}
 	],

@@ -131,58 +131,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110928007878301244",
-			"parentId": 0,
-			"url": "https://mastodon.online/@macdonst/110928007833957914",
-			"author": {
-				"name": "Simon MacDonald",
-				"url": "https://mastodon.online/@macdonst",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
-			},
-			"date": "2023-08-21T14:11:12.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> from what I heard from a dev inside the company is Gatsby is in maintenance mode and only 1 person is assigned to the project. </p><p>Making this a DM since I don't want folks to reverse engineer the person I know at the company and get them in trouble.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110928012843184804",
-			"parentId": "110928007878301244",
-			"url": "https://fediverse.zachleat.com/@zachleat/110928012843184804",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-21T14:12:29.095Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> just for the record, I am formerly of the company. Kyle Mathews has said the same on a public slack too</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110928023972144300",
-			"parentId": "110928012843184804",
-			"url": "https://mastodon.online/@macdonst/110928023952073749",
-			"author": {
-				"name": "Simon MacDonald",
-				"url": "https://mastodon.online/@macdonst",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
-			},
-			"date": "2023-08-21T14:15:18.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yup, I knew you used to work there but wasn't sure when the one person working on Gatsby went into effect.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110928026097158480",
-			"parentId": "110928023972144300",
-			"url": "https://fediverse.zachleat.com/@zachleat/110928026097158480",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-21T14:15:51.339Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> yeah, at the same time I left.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110928031116605683",
 			"parentId": "110927982164109671",
 			"url": "https://indieweb.social/@jaredwhite/110928031050275726",
@@ -196,19 +144,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110928033083177062",
-			"parentId": "110928026097158480",
-			"url": "https://mastodon.online/@macdonst/110928033061412497",
-			"author": {
-				"name": "Simon MacDonald",
-				"url": "https://mastodon.online/@macdonst",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
-			},
-			"date": "2023-08-21T14:17:37.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> heh, from the outside, this looks a lot like how Adobe killed PhoneGap but didn't communicate it to the outside world for over two years. The reason being we had SLAs with some big companies, so Adobe paid lip service to the fact it was still a thing while doing nothing.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110928038648053500",
 			"parentId": "110927982164109671",
 			"url": "https://fediverse.zachleat.com/@zachleat/110928038648053500",
@@ -219,19 +154,6 @@
 			},
 			"date": "2023-08-21T14:19:02.846Z",
 			"content": "<p>“We use React. Its power seems inescapable. So did the divine right of kings.”—Ursula K. Le Guin, probably</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110928041384312395",
-			"parentId": "110928033083177062",
-			"url": "https://fediverse.zachleat.com/@zachleat/110928041384312395",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-21T14:19:44.598Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> yeahhhhhhhh that’s gross</p>",
 			"via": "fediverse"
 		},
 		{
@@ -274,19 +196,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110928054199216878",
-			"parentId": "110928041384312395",
-			"url": "https://mastodon.online/@macdonst/110928053730685871",
-			"author": {
-				"name": "Simon MacDonald",
-				"url": "https://mastodon.online/@macdonst",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
-			},
-			"date": "2023-08-21T14:22:52.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> it was not fun. Years after being moved off the project, I was running the open-source office at Adobe when the word came down we had to scrub PhoneGap from the face of the earth. It really hurt.</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110928063624979674",
 			"parentId": "110928046815983842",
 			"url": "https://fediverse.zachleat.com/@zachleat/110928063624979674",
@@ -300,19 +209,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "110928073189074863",
-			"parentId": "110928054199216878",
-			"url": "https://fediverse.zachleat.com/@zachleat/110928073189074863",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-21T14:27:49.905Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> oof, I bet. Went through something kinda similar when Netlify cut my Eleventy funding, it was a really hard spell</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "110928073758077374",
 			"parentId": "110928063624979674",
 			"url": "https://fosstodon.org/@rijk/110928073449243811",
@@ -323,19 +219,6 @@
 			},
 			"date": "2023-08-21T14:27:53.000Z",
 			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> ah yeah if the goal is growth and profit no matter what then absolutely!</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110928089145621416",
-			"parentId": "110928073189074863",
-			"url": "https://mastodon.online/@macdonst/110928089122836729",
-			"author": {
-				"name": "Simon MacDonald",
-				"url": "https://mastodon.online/@macdonst",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/294/553/613/163/555/original/64a0f385e0b9894c.png"
-			},
-			"date": "2023-08-21T14:31:53.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Yeah man, I saw that and had a drink on your behalf \"been there\" I thought. Glad you landed on your feet with 11ty at CloudCannon.</p><p>After working in the industry for 25+ years, I feel like VC-funded open source is a terrible idea. Whenever possible, we should be taking the hit and getting the projects under foundations (Apache, Open JSF). They add processes to the project which can slow things down but helps protect maintainers/users from the insanity.</p><p>Getting down off my soap-box.</p>",
 			"via": "fediverse"
 		},
 		{
@@ -362,19 +245,6 @@
 			},
 			"date": "2023-08-21T14:50:03.714Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@joshwayne\" class=\"u-url mention\">@<span>joshwayne</span></a></span> this post might have helped you! <a href=\"https://www.zachleat.com/web/monetization/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/web/monetization/</span><span class=\"invisible\"></span></a></p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110928186395088517",
-			"parentId": "110928089145621416",
-			"url": "https://fediverse.zachleat.com/@zachleat/110928186395088517",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-21T14:56:37.287Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@macdonst\" class=\"u-url mention\">@<span>macdonst</span></a></span> Thanks! (and perhaps unsurprisingly I agree)</p>",
 			"via": "fediverse"
 		},
 		{
@@ -846,162 +716,6 @@
 			},
 			"date": "2023-08-22T18:19:50.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I've managed to have a career without writing a single line of react based code.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110946774033497573",
-			"parentId": 0,
-			"url": "https://fediverse.zachleat.com/@zachleat/110946774033497573",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-24T21:43:42.139Z",
-			"content": "<p>I suppose it’s only fair to update this thread again with the official statement from Netlify: <a href=\"https://www.netlify.com/blog/gatsby-cloud-evolution/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">netlify.com/blog/gatsby-cloud-</span><span class=\"invisible\">evolution/</span></a></p><p>Lots of contradictions between things said in that blog post and the sources linked above though 😬</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110947009018672022",
-			"parentId": "110946774033497573",
-			"url": "https://mastodon.social/@peruvianidol/110947008972438388",
-			"author": {
-				"name": "Mike Aparicio",
-				"url": "https://mastodon.social/@peruvianidol",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/421/540/379/600/original/fa0833211a78cc64.jpeg"
-			},
-			"date": "2023-08-24T22:43:27.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Did Elon buy Netlify?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110947127631496000",
-			"parentId": "110946774033497573",
-			"url": "https://fosstodon.org/@dpom/110947127464748897",
-			"author": {
-				"name": "Dusty Pomerleau",
-				"url": "https://fosstodon.org/@dpom",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/236/949/771/783/169/original/b24293c1c7d961e3.jpeg"
-			},
-			"date": "2023-08-24T23:13:35.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Perhaps I'm too cynical, but it seems to me that the focus shifts to enterprise whenever a technology is past the peak of its adoption curve. This maximizes profit during the long tail of usage by users that are more locked into the technology (usually big orgs that can't turn on a dime). In this case, it's not really about Gatsby, but about React more broadly, and where people perceive it to be in the tech cycle.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110947139694009440",
-			"parentId": "110946774033497573",
-			"url": "https://status.fberriman.com/@phae/110947139677892223",
-			"author": {
-				"name": "phae",
-				"url": "https://status.fberriman.com/@phae",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/810/042/852/468/253/original/ede2fcf05920db83.jpg"
-			},
-			"date": "2023-08-24T23:16:41.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> ugh. </p><p>And \"for the Enterprise\". Why does their proper-nounification irritate me so much. They've started doing this specific one in their last few posts.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110947262693450688",
-			"parentId": "110947139694009440",
-			"url": "https://mastodon.social/@sil/110947262627856159",
-			"author": {
-				"name": "Stuart Langridge",
-				"url": "https://mastodon.social/@sil",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
-			},
-			"date": "2023-08-24T23:47:57.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> the only person who gets to do stuff for the Enterprise is Jean-Luc Picard. Not companies.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110948378178063512",
-			"parentId": "110946774033497573",
-			"url": "https://mastodon.social/@lekoarts/110948378132482412",
-			"author": {
-				"name": "Lennart",
-				"url": "https://mastodon.social/@lekoarts",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
-			},
-			"date": "2023-08-25T04:31:38.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> „Enterprise grade“ framework then probably means ignoring issues and PRs + no RSC innovation 😁</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110949056420434896",
-			"parentId": "110948378178063512",
-			"url": "https://indieweb.social/@ascorbic/110949056392208961",
-			"author": {
-				"name": "Matt Kane",
-				"url": "https://indieweb.social/@ascorbic",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/634/288/725/547/original/9edf996d097c19fa.jpg"
-			},
-			"date": "2023-08-25T07:24:08.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Do you think Gatsby should be implementing RSC?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110949131506679338",
-			"parentId": "110949056420434896",
-			"url": "https://mastodon.social/@lekoarts/110949131450822521",
-			"author": {
-				"name": "Lennart",
-				"url": "https://mastodon.social/@lekoarts",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
-			},
-			"date": "2023-08-25T07:43:13.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ascorbic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ascorbic</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Sure, that was the whole point of <a href=\"https://github.com/gatsbyjs/gatsby/discussions/36608\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gatsbyjs/gatsby/dis</span><span class=\"invisible\">cussions/36608</span></a> - achieving island architecture and doing *something* different with RSC than Next (e.g. with a data layer in the cloud). See the comments from Dan and Ward at the bottom</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110949163672060989",
-			"parentId": "110949131506679338",
-			"url": "https://indieweb.social/@ascorbic/110949163645624408",
-			"author": {
-				"name": "Matt Kane",
-				"url": "https://indieweb.social/@ascorbic",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/369/634/288/725/547/original/9edf996d097c19fa.jpg"
-			},
-			"date": "2023-08-25T07:51:24.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@lekoarts\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>lekoarts</span></a></span> <span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> OK, but as Ward says in there the goal wasn't really to implement RSC - it was to find a solution to support partial hydration. Do you think Gatsby needs full RSC support, or just fix the current implementation?</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110949207819179956",
-			"parentId": "110949163672060989",
-			"url": "https://mastodon.social/@lekoarts/110949207750796580",
-			"author": {
-				"name": "Lennart",
-				"url": "https://mastodon.social/@lekoarts",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/392/614/633/440/446/original/33add9f610e4b79c.png"
-			},
-			"date": "2023-08-25T08:02:37.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@ascorbic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ascorbic</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Ok, sorry, my answer was a bit vague. I meant: Implement RSC (but not fully) in a way that makes most sense for Gatsby to e.g. achieve island architecture and possible other improvements (innovation needed here). So short term make Partial Hydration production-ready.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110951426178782118",
-			"parentId": "110947139694009440",
-			"url": "https://fediverse.zachleat.com/@zachleat/110951426178782118",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-08-25T17:26:48.249Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\">@<span>phae</span></a></span> Yeah… whew.</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "110951499412723269",
-			"parentId": "110951426178782118",
-			"url": "https://mastodon.cc/@jgarber/110951499286880694",
-			"author": {
-				"name": "Jason Garber",
-				"url": "https://mastodon.cc/@jgarber",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/286/956/268/376/133/original/c0aca1e4fd362889.jpg"
-			},
-			"date": "2023-08-25T17:45:23.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\"><a href=\"https://status.fberriman.com/@phae\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>phae</span></a></span> “The money is _in_ the Enterprise!”</p>",
 			"via": "fediverse"
 		}
 	],

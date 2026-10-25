@@ -105,6 +105,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "113358387123089104",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@olets/113358387089768481",
+			"author": {
+				"name": "Henry Bley-Vroman",
+				"url": "https://hachyderm.io/@olets",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/811/441/260/746/867/original/e2f49b9726cb0b97.jpg"
+			},
+			"date": "2024-10-23T19:28:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Could be Tailwind/Windi/Uno/etc. They determine which classes to build by scanning the source code. For styles that are dynamic *and* not from a set known in advance, you have to use some other solution - like inline `style`.</p><p>Can imagine that forcing the `style=\"background-color:…\"`.</p><p>Harder to see it forcing `style=\"flex-direction… gap… padding\"` (sounds like known variant, typically pseudocoded `class={condition ? 'flex-direction-… gap-… padding-…')}` - cf <a href=\"https://tailwindcss.com/docs/content-configuration#dynamic-class-names\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tailwindcss.com/docs/content-c</span><span class=\"invisible\">onfiguration#dynamic-class-names</span></a>)</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "113358388617692391",
 			"parentId": "113358284447852403",
 			"url": "https://fosstodon.org/@mahryekuh/113358388493553920",

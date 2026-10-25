@@ -3,5 +3,20 @@
 		"likes": 10,
 		"comments": 1,
 		"via": "fediverse"
-	}
+	},
+	"comments": [
+		{
+			"id": "112775522184207375",
+			"parentId": 0,
+			"url": "https://evil.social/notes/9vmqv097p2a2lx3v",
+			"author": {
+				"name": "ferricoxide@evil.social",
+				"url": "https://evil.social/@ferricoxide",
+				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+			},
+			"date": "2024-07-12T20:58:21.835Z",
+			"content": "<p><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@zachleat@fediverse.zachleat.com</a><span> </span><a href=\"https://cute.is/@keith\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@keith@cute.is</a></p><blockquote><span>But the hope is that another user — a growing artificial intelligence startup, or the city government, for example — will take over the company’s excess space.</span></blockquote><span>Why would you want another financially unstable tenant like an AU startup to replace Twitter?</span><p></p>",
+			"via": "fediverse"
+		}
+	]
 }

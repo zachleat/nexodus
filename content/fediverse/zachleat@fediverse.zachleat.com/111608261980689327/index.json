@@ -218,6 +218,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "111608709075250416",
+			"parentId": 0,
+			"url": "https://mastodon.social/@biilmann/111608708779213492",
+			"author": {
+				"name": "Matt Biilmann",
+				"url": "https://mastodon.social/@biilmann",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/377/246/389/179/350/original/cc568205833e86e6.jpeg"
+			},
+			"date": "2023-12-19T19:22:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The survey reflects of what our community responded.</p><p>Next is the largest framework in usage, clearly reflected in the survey.</p><p>But for the first time Next decreased in usage year over year (from 47% to 46%).</p><p>Astro jumped from 11% to 18% with 87% responding they want to use it more.</p><p>Eleventy dropped from 19% last year to 16% this year.</p><p>None of this is an attack on anyone, just data from our survey. </p><p>The rise of Astro is one of the most newsworthy bits of data that emerged.</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "111608719817698944",
 			"parentId": 0,
 			"url": "https://mastodon.social/@akahn/111608719663561115",
@@ -387,19 +400,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "111613322081950232",
-			"parentId": 0,
-			"url": "https://notacult.social/@charlieDevs/111613322043770693",
-			"author": {
-				"name": "Charles Villard",
-				"url": "https://notacult.social/@charlieDevs",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/345/032/753/559/109/original/2727b8209b7936f3.jpg"
-			},
-			"date": "2023-12-20T14:55:37.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Love this read, Zach! Getting a drink with you in SF last year, I loved your honesty and brevity about Netlify, and this is why. Thanks for writing this!</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "111613345881082993",
 			"parentId": "111613302456815820",
 			"url": "https://a11y.info/@ben/111613345482538747",
@@ -436,19 +436,6 @@
 			},
 			"date": "2023-12-20T15:11:23.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@5t3ph\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>5t3ph</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.info/@ben\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ben</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@matuzo\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>matuzo</span></a></span> brb just looking up flights</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "111613488067502310",
-			"parentId": "111613322081950232",
-			"url": "https://fediverse.zachleat.com/@zachleat/111613488067502310",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2023-12-20T15:37:50.953Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://notacult.social/@charlieDevs\" class=\"u-url mention\">@<span>charlieDevs</span></a></span> hey Charles! That was a good time! I think a lot of us now-former Netlifiers saw the start of the writing on the wall around that time 😱 Appreciate your support!</p>",
 			"via": "fediverse"
 		},
 		{
