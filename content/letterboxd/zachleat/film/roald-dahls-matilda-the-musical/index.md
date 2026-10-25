@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-review-1487353824
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/roald-dahls-matilda-the-musical/
-  importHash: a008149afaf808c9
+  importHash: a0b8a77824f7c96f
 ---
 hell yeah

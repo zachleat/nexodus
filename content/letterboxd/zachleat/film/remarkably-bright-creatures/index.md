@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1465133313
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/remarkably-bright-creatures/
-  importHash: 857c05c62066b6f4
+  importHash: 037c29d39cd9daeb
 ---
 Watched on Saturday August 22, 2026.

@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/find-generator
   type: npm
   url: https://www.npmjs.com/package/@11ty/find-generator
-  importHash: 1a18a5a89acf3286
+  importHash: 0ce9c75772663555
 ---
 ![11ty Logo](logo-github-gW5pow8pImUR.svg)
 

@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy-fetch
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy-fetch
-  importHash: 9de0b4e013d1777c
+  importHash: 468dfbc6c4ae33a2
 tags:
   - eleventy
   - eleventy-utility

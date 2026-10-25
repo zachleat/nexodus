@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1449329980
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/the-sheep-detectives/
-  importHash: afb6cd1041b1de16
+  importHash: 2408d4a7b1dbd6bf
 ---
 Watched on Tuesday August 4, 2026.

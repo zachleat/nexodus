@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy-img
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy-img
-  importHash: 87c21f53a29dea11
+  importHash: d118e31625c29225
 tags:
   - eleventy
   - eleventy-utility

@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-review-1528245338
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/resident-evil-2026/
-  importHash: d4bf0e572b061ddc
+  importHash: e51cd4b1eec88074
 ---
 “Video games!!”

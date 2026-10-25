@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1522581205
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/the-goonies/1/
-  importHash: 8a7677112c0d6099
+  importHash: 17baa41419f683a7
 ---
 Watched on Saturday October 3, 2026.

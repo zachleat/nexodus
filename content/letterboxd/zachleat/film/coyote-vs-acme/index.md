@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1512358374
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/coyote-vs-acme/
-  importHash: ca24aedf0464f000
+  importHash: c6b5f7ceb337a671
 ---
 Watched on Saturday September 26, 2026.

@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1535301223
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/the-drama/
-  importHash: d1141c1ddd35f8c5
+  importHash: f3997f77823e87bd
 ---
 Watched on Monday October 12, 2026.

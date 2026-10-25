@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-review-1470129380
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/the-long-walk-2025/
-  importHash: 6c2ed6f6a10410d6
+  importHash: 59393fa1f38aff80
 ---
 My pattern recognition predicted the ending of this one early but the pairing of earnestness and violence provided for a unique watch!

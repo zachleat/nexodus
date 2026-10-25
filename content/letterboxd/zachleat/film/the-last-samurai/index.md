@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1551637382
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/the-last-samurai/
-  importHash: ccfabc89d22e681d
+  importHash: 9edb2e2a22f6500d
 ---
 Watched on Friday October 23, 2026.

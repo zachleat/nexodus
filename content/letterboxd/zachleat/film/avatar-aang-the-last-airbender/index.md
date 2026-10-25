@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1416308674
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/avatar-aang-the-last-airbender/
-  importHash: 34e62a98b5662783
+  importHash: e9a418cdfd5e6c3e
 ---
 Watched on Sunday July 26, 2026.

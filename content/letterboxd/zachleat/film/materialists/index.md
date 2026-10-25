@@ -18,6 +18,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1535301824
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/materialists/
-  importHash: 63fe291e8ded9d50
+  importHash: 042dd2025550a35d
 ---
 Watched on Monday October 12, 2026.

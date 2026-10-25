@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1503408836
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/
-  importHash: 4bba7b99fd095ac4
+  importHash: a0a5e40f31989676
 ---
 Watched on Sunday September 20, 2026.

@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1425169882
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/the-wild-robot/1/
-  importHash: 18bbcb1557b6b940
+  importHash: 647bdf0bef2ec077
 ---
 Watched on Friday July 31, 2026.

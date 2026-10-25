@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy-server-browsersync
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy-server-browsersync
-  importHash: 8e45522eaf1686c3
+  importHash: 31dffc80010b622a
 tags:
   - eleventy
   - server

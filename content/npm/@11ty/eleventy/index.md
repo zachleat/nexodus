@@ -31,7 +31,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy
-  importHash: d1d7f4a9b8a54775
+  importHash: 9b1d9373017881d0
 tags:
   - static-site-generator
   - static-site

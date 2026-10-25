@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1504914445
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/supergirl-2026/
-  importHash: a901eacee07abbe8
+  importHash: 0373375b49c035a9
 ---
 Watched on Sunday September 20, 2026.

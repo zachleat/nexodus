@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1512669236
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/unabomber-2026/
-  importHash: 58978328f229bfbf
+  importHash: 5570fa32f66f8963
 ---
 Watched on Saturday September 26, 2026.

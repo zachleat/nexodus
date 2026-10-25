@@ -19,6 +19,6 @@ metadata:
   uuid: 11ty/import::letterboxd::letterboxd-watch-1479061998
   type: letterboxd
   url: https://letterboxd.com/zachleat/film/dungeons-dragons-honor-among-thieves/1/
-  importHash: 183675360520c6a0
+  importHash: ed13a1b36654be0c
 ---
 Watched on Tuesday September 1, 2026.

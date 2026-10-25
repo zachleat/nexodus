@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy-plugin-rss
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy-plugin-rss
-  importHash: a655c2d12e5d5128
+  importHash: 2636481d1edb3aef
 tags:
   - eleventy
   - eleventy-plugin
