@@ -20,6 +20,7 @@ const CROSSPOST_WINDOW = 24 * 60 * 60 * 1000;
 // Share of words two posts need in common to count as a cross-post
 const CROSSPOST_SIMILARITY = .8;
 const CROSSPOST_MIN_WORDS = 5;
+const SOURCE_PAGE_SIZE = 50;
 
 // Post words without links, URLs, markup, or punctuation
 function getCrosspostWords(rawInput = "") {
@@ -86,6 +87,24 @@ function getPostGroups(items) {
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default function(eleventyConfig) {
 	eleventyConfig.addCollection("postGroups", collectionApi => getPostGroups(collectionApi.getAll().filter(item => item.data.metadata?.type)));
+	// Pages of posts for each source, newest first
+	eleventyConfig.addCollection("sourcePages", collectionApi => {
+		let postsByType = Map.groupBy(collectionApi.getAll().filter(item => item.data.metadata?.type).sort((a, b) => b.date - a.date), item => item.data.metadata.type);
+		let getUrl = (type, pageIndex) => pageIndex > 0 ? `/${type}/page/${pageIndex + 1}/` : `/${type}/`;
+		return [...postsByType].flatMap(([type, posts]) => {
+			let pageCount = Math.ceil(posts.length / SOURCE_PAGE_SIZE);
+			return Array.from({ length: pageCount }, (_, pageIndex) => ({
+				type,
+				title: posts[0].data.sectionTitle,
+				posts: posts.slice(pageIndex * SOURCE_PAGE_SIZE, (pageIndex + 1) * SOURCE_PAGE_SIZE),
+				pageNumber: pageIndex + 1,
+				pageCount,
+				url: getUrl(type, pageIndex),
+				previousUrl: pageIndex > 0 ? getUrl(type, pageIndex - 1) : undefined,
+				nextUrl: pageIndex < pageCount - 1 ? getUrl(type, pageIndex + 1) : undefined,
+			}));
+		});
+	});
 	let groupsByUrl = new WeakMap();
 	eleventyConfig.addFilter("getPostGroup", (groups, url) => {
 		if(!groupsByUrl.has(groups)) {

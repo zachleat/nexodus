@@ -1,4 +1,4 @@
-<template>
+	let response = await pagefind.debouncedSearch(term, {}, 200);<template>
 	<html lang="en">
 		<head>
 			<meta charset="utf-8">
@@ -15,12 +15,11 @@
 						<nav aria-label="Site"><a href="/popular/" :aria-current="page.url === '/popular/' ? 'page' : null">Popular</a></nav>
 					</div>
 					<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, and Letterboxd.</p>
+					<nav class="source-links" aria-label="Sources">
+						<a v-for="{ key, label } in postSources" :href="`/${key}/`" :class="['source-link', `source-link--${key}`]" :aria-current="$data.sourcePage?.type === key ? 'page' : null">{{ label }} <span class="source-link-count">{{ siteStats[key].posts.toLocaleString("en-US") }}</span></a>
+					</nav>
 					<form id="search" class="search" role="search" action="javascript:void(0)">
 						<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
-						<fieldset class="search-sources">
-							<legend class="visually-hidden">Sources</legend>
-							<label v-for="{ key, label } in searchSources" :class="['search-source', `search-source--${key}`]"><input type="checkbox" name="source" :value="label"> {{ label }}</label>
-						</fieldset>
 						<div class="search-results" hidden>
 							<p class="search-message" aria-live="polite"></p>
 							<ol class="search-list"></ol>
@@ -38,7 +37,7 @@
 						</thead>
 						<component v-for="{ tag, sources } in statSections" :is="tag">
 							<tr v-for="{ key, label, icon } in sources" :class="`site-stats--${key}`">
-								<th v-if="icon" scope="row" :title="label"><i :class="icon"></i><span class="visually-hidden">{{ label }}</span></th>
+								<th v-if="icon" scope="row" :title="label"><a :href="`/${key}/`"><i :class="icon"></i><span class="visually-hidden">{{ label }}</span></a></th>
 								<th v-else scope="row">{{ label }}</th>
 								<td v-for="stat in statLabels"><template v-if="siteStats[key][stat.key]"><i v-if="key === 'github' && stat.key === 'likes'" class="fa-regular fa-star" title="Stars"></i><i v-else-if="key === 'github' && stat.key === 'reposts'" class="fa-solid fa-code-fork" title="Forks"></i> {{ siteStats[key][stat.key].toLocaleString("en-US") }}</template></td>
 								<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time></td>
@@ -112,6 +111,7 @@ ol.feed { margin: 0; padding: 0; list-style: none; }
 .site-stats :is(th, td):first-child { padding-left: .5rem; text-align: left; }
 .site-stats :is(th, td):last-child { padding-right: .5rem; }
 .site-stats :is(tbody, tfoot) th { font-weight: 600; }
+.site-stats th a { color: inherit; }
 .site-stats--total { background: color-mix(in srgb, var(--text) 3%, transparent); }
 .site-stats--total th { color: var(--text); }
 .site-stats--bluesky th { color: var(--bluesky); }
@@ -208,16 +208,17 @@ ol.feed { margin: 0; padding: 0; list-style: none; }
 }
 .search-input::placeholder { color: var(--muted); opacity: 1; }
 .search-input:focus { outline: 2px solid var(--link); outline-offset: 1px; border-color: transparent; }
-.search-sources { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; margin: 0; padding: 0; border: 0; min-width: 0; }
-.search-source { display: inline-flex; align-items: center; gap: .35rem; font-size: .85rem; font-weight: 600; color: var(--accent); cursor: pointer; }
-.search-source input { margin: 0; accent-color: var(--accent); }
-.search-source, .search-result { --accent: var(--fediverse); }
-.search-source--bluesky, .search-result--bluesky { --accent: var(--bluesky); }
-.search-source--github, .search-result--github { --accent: var(--github); }
-.search-source--npm, .search-result--npm { --accent: var(--npm); }
-.search-source--youtube, .search-result--youtube { --accent: var(--youtube); }
-.search-source--letterboxd, .search-result--letterboxd { --accent: var(--letterboxd); }
-.search-source--codepen, .search-result--codepen { --accent: var(--codepen); }
+.source-links { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; margin-bottom: .75rem; font-size: .85rem; font-weight: 600; }
+.source-link { color: var(--accent); text-decoration: none; }
+.source-link:is(:hover, [aria-current]) { text-decoration: underline; }
+.source-link-count { color: var(--muted); font-weight: 400; }
+.source-link, .search-result { --accent: var(--fediverse); }
+.source-link--bluesky, .search-result--bluesky { --accent: var(--bluesky); }
+.source-link--github, .search-result--github { --accent: var(--github); }
+.source-link--npm, .search-result--npm { --accent: var(--npm); }
+.source-link--youtube, .search-result--youtube { --accent: var(--youtube); }
+.source-link--letterboxd, .search-result--letterboxd { --accent: var(--letterboxd); }
+.source-link--codepen, .search-result--codepen { --accent: var(--codepen); }
 .search-results { margin: .25rem 0 1rem; }
 .search-message { margin: 0 0 1rem; font-size: .9rem; color: var(--muted); }
 .search-list { display: grid; gap: 1.25rem; margin: 0; padding: 0; list-style: none; }
@@ -293,11 +294,11 @@ export default {
 			];
 		},
 		// Sources with posts, labeled by the Pagefind `source` filter value
-		searchSources() {
+		postSources() {
 			return this.statSources.filter(({ key }) => key !== "total" && this.siteStats?.[key]);
 		},
 		searchScript() {
-			let keys = Object.fromEntries(this.searchSources.map(({ key, label }) => [label, key]));
+			let keys = Object.fromEntries(this.postSources.map(({ key, label }) => [label, key]));
 			return `const base = ${JSON.stringify(this.htmlBaseUrl("/"))};
 const keys = ${JSON.stringify(keys)};
 const pagefind = await import(\`\${base}pagefind/pagefind.js\`);
@@ -346,20 +347,14 @@ async function showMore() {
 	more.hidden = shown >= matches.length;
 }
 
-// Checked sources match any (Pagefind UI requires all), and a source alone lists its posts newest first
 async function search() {
 	let term = input.value.trim();
-	let sources = [...form.querySelectorAll("input[name=source]:checked")].map(checkbox => checkbox.value);
-	if(!term && !sources.length) {
+	if(!term) {
 		await pagefind.debouncedSearch(null, {}, 0);
 		results.hidden = true;
 		return;
 	}
-	let options = { filters: sources.length ? { source: { any: sources } } : {} };
-	if(!term) {
-		options.sort = { date: "desc" };
-	}
-	let response = await pagefind.debouncedSearch(term || null, options, 200);
+	let response = await pagefind.debouncedSearch(term, {}, 200);
 	// Superseded by a newer search
 	if(!response) {
 		return;
