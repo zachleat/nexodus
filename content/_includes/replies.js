@@ -20,9 +20,9 @@ export function getComments(posts) {
 	return [...byId.values()];
 }
 
-// Native like, repost, quote, star, and view counts summed across a cross-post group
+// Native like, repost, quote, star, fork, view, issue, and pull request counts summed across a cross-post group
 export function getCounts(posts) {
-	let totals = { likes: 0, reposts: 0, quotes: 0, stars: 0, views: 0 };
+	let totals = { likes: 0, reposts: 0, quotes: 0, stars: 0, forks: 0, views: 0, issues: 0, pullRequests: 0 };
 	for(let post of posts) {
 		for(let key in totals) {
 			totals[key] += post.data.counts?.[key] || 0;

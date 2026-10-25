@@ -97,7 +97,7 @@ export default function(eleventyConfig) {
 	let statsByGroups = new WeakMap();
 	eleventyConfig.addFilter("getSiteStats", groups => {
 		if(!statsByGroups.has(groups)) {
-			let empty = () => ({ posts: 0, replies: 0, likes: 0, reposts: 0, quotes: 0, views: 0 });
+			let empty = () => ({ posts: 0, replies: 0, likes: 0, reposts: 0, quotes: 0, views: 0, issues: 0, pullRequests: 0 });
 			let stats = { total: empty() };
 			let add = (target, posts) => {
 				target.replies += getComments(posts).length;
@@ -107,9 +107,10 @@ export default function(eleventyConfig) {
 					}
 				}
 				let counts = getCounts(posts);
+				// GitHub stars count as likes and forks as reposts
+				let aliases = { stars: "likes", forks: "reposts" };
 				for(let key in counts) {
-					// GitHub stars count as likes
-					target[key === "stars" ? "likes" : key] += counts[key];
+					target[aliases[key] || key] += counts[key];
 				}
 			};
 			for(let group of groups) {

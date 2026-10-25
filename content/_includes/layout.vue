@@ -15,21 +15,6 @@
 						<nav aria-label="Site"><a href="/popular/" :aria-current="page.url === '/popular/' ? 'page' : null">Popular</a></nav>
 					</div>
 					<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, and Letterboxd.</p>
-					<div v-if="siteStats" class="site-stats-wrap">
-						<table class="site-stats">
-							<thead>
-								<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Since"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Since</span></th></tr>
-							</thead>
-							<tbody>
-								<tr v-for="{ key, label, icon } in statSources.filter(source => siteStats[source.key])" :class="`site-stats--${key}`">
-									<th v-if="icon" scope="row" :title="label"><i :class="icon"></i><span class="visually-hidden">{{ label }}</span></th>
-									<th v-else scope="row">{{ label }}</th>
-									<td v-for="stat in statLabels"><template v-if="siteStats[key][stat.key]"><i v-if="key === 'github' && stat.key === 'likes'" class="fa-regular fa-star" title="Stars"></i> {{ siteStats[key][stat.key].toLocaleString("en-US") }}</template></td>
-									<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time></td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
 					<form id="search" class="search" role="search" action="javascript:void(0)">
 						<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
 						<fieldset class="search-sources">
@@ -46,6 +31,21 @@
 			</header>
 			<main class="wrap" v-html="content"></main>
 			<footer class="site-footer wrap">
+				<div v-if="siteStats" class="site-stats-wrap">
+					<table class="site-stats">
+						<thead>
+							<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Since"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Since</span></th></tr>
+						</thead>
+						<component v-for="{ tag, sources } in statSections" :is="tag">
+							<tr v-for="{ key, label, icon } in sources" :class="`site-stats--${key}`">
+								<th v-if="icon" scope="row" :title="label"><i :class="icon"></i><span class="visually-hidden">{{ label }}</span></th>
+								<th v-else scope="row">{{ label }}</th>
+								<td v-for="stat in statLabels"><template v-if="siteStats[key][stat.key]"><i v-if="key === 'github' && stat.key === 'likes'" class="fa-regular fa-star" title="Stars"></i><i v-else-if="key === 'github' && stat.key === 'reposts'" class="fa-solid fa-code-fork" title="Forks"></i> {{ siteStats[key][stat.key].toLocaleString("en-US") }}</template></td>
+								<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time></td>
+							</tr>
+						</component>
+					</table>
+				</div>
 				<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 			</footer>
 			<div v-html="getBundle('fontawesome')"></div>
@@ -106,11 +106,13 @@ img, video { max-width: 100%; height: auto; border-radius: 8px; }
 .page-title { margin: 0 0 .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
 ol.feed { margin: 0; padding: 0; list-style: none; }
 .site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
-.site-stats-wrap { margin: -.5rem 0 1.25rem; overflow-x: auto; }
-.site-stats { width: 100%; border-collapse: collapse; color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.site-stats-wrap { margin-bottom: 1.5rem; overflow-x: auto; }
+.site-stats { width: 100%; border-collapse: collapse; color: var(--muted); font-variant-numeric: tabular-nums; }
 .site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; }
-.site-stats :is(th, td):first-child { padding-left: 0; text-align: left; }
-.site-stats tbody th { font-weight: 600; }
+.site-stats :is(th, td):first-child { padding-left: .5rem; text-align: left; }
+.site-stats :is(th, td):last-child { padding-right: .5rem; }
+.site-stats :is(tbody, tfoot) th { font-weight: 600; }
+.site-stats--total { background: color-mix(in srgb, var(--text) 3%, transparent); }
 .site-stats--total th { color: var(--text); }
 .site-stats--bluesky th { color: var(--bluesky); }
 .site-stats--fediverse th { color: var(--fediverse); }
@@ -250,7 +252,6 @@ export default {
 		return {
 			pageTitle: "Nexodus Archive",
 			statSources: [
-				{ key: "total", label: "All" },
 				{ key: "bluesky", label: "Bluesky", icon: "fa-brands fa-bluesky" },
 				{ key: "fediverse", label: "Mastodon", icon: "fa-brands fa-mastodon" },
 				{ key: "github", label: "GitHub", icon: "fa-brands fa-github" },
@@ -258,6 +259,7 @@ export default {
 				{ key: "youtube", label: "YouTube", icon: "fa-brands fa-youtube" },
 				{ key: "letterboxd", label: "Letterboxd", icon: "fa-brands fa-letterboxd" },
 				{ key: "codepen", label: "CodePen", icon: "fa-brands fa-codepen" },
+				{ key: "total", label: "All" },
 			],
 			statLabels: [
 				{ key: "posts", label: "post", plural: "posts", icon: "fa-regular fa-message" },
@@ -266,6 +268,8 @@ export default {
 				{ key: "reposts", label: "repost", plural: "reposts", icon: "fa-solid fa-retweet" },
 				{ key: "quotes", label: "quote", plural: "quotes", icon: "fa-solid fa-quote-left" },
 				{ key: "views", label: "view", plural: "views", icon: "fa-regular fa-eye" },
+				{ key: "issues", label: "issue", plural: "issues", icon: "fa-regular fa-circle-dot" },
+				{ key: "pullRequests", label: "pull request", plural: "pull requests", icon: "fa-solid fa-code-pull-request" },
 			],
 		};
 	},
@@ -279,6 +283,14 @@ export default {
 			if(groups?.length) {
 				return this.getSiteStats(groups);
 			}
+		},
+		// Per-source rows, with the All row in the table footer
+		statSections() {
+			let sources = this.statSources.filter(({ key }) => this.siteStats?.[key]);
+			return [
+				{ tag: "tbody", sources: sources.filter(({ key }) => key !== "total") },
+				{ tag: "tfoot", sources: sources.filter(({ key }) => key === "total") },
+			];
 		},
 		// Sources with posts, labeled by the Pagefind `source` filter value
 		searchSources() {
