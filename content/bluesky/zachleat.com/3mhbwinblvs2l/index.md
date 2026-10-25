@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mhbwinblvs2l
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mhbwinblvs2l
-  importHash: e5b78b1813ce723f
+  importHash: 4e6ede5ad44266e2
 ---
 is… is this good? is this software good? is this an example of good software?
 

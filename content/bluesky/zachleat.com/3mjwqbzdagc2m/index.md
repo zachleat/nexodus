@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mjwqbzdagc2m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mjwqbzdagc2m
-  importHash: 19205b3f0ddb6f5b
+  importHash: 456f0e5110b6d45c
 ---
 love the design aesthetic of ever-so-slightly-translucent paper — has anyone done this on the web?
 

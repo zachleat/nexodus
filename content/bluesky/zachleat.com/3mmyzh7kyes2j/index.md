@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmyzh7kyes2j
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mmyzh7kyes2j
-  importHash: 81dcb67b984cd59c
+  importHash: 2af553357777ad8c
 ---
 you must reply, per my settings
 

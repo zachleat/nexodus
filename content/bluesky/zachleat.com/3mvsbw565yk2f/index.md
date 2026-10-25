@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mvsbw565yk2f
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mvsbw565yk2f
-  importHash: 46becfcfd31a429c
+  importHash: 290177725e42b664
 ---
 personally I believe today’s [@fontawesome.com](https://bsky.app/profile/did:plc:spcmfh6ub7op2y2rrondrfwg) morning slack emoji kata deserves to be more widely appreciated
 

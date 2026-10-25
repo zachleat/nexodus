@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mms7tws7zc2b
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mms7tws7zc2b
-  importHash: 4b6a1a88c5ff5a09
+  importHash: 909714261fb0dd37
 ---
 The elasticity of a society’s bouncy castles has a direct parallel to the wealth mobility of said society. In this TED talk I will…
 

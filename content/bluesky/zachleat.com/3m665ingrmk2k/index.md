@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m665ingrmk2k
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m665ingrmk2k
-  importHash: 9c1cfbd005788334
+  importHash: 58a044c353287422
 ---
 I have elevated to a new plane of open source existence.
 

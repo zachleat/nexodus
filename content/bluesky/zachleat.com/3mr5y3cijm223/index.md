@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mr5y3cijm223
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mr5y3cijm223
-  importHash: 7977974d1b3576a1
+  importHash: b6fd40cc525798e3
 ---
 I was curious what the red/yellow cards used in the World Cup would look like with color vision deficiency (Protanopia shown).
 

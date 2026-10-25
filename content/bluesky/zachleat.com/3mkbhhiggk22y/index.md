@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mkbhhiggk22y
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mkbhhiggk22y
-  importHash: 0c13fa445d5fadde
+  importHash: b6fc140d6034976e
 ---
 if you see a suspicious tab on my screen, just assume it was this
 

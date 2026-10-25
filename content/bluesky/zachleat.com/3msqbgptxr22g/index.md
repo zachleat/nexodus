@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3msqbgptxr22g
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3msqbgptxr22g
-  importHash: c578c3f6d1f8ad2c
+  importHash: de88d96c991e6b83
 ---
 was on vacation last week, what did I miss
 

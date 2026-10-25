@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3moy7mc3yuk2m
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3moy7mc3yuk2m
-  importHash: ea4d47d26abf42dc
+  importHash: b16dec99a08c4191
 ---
 big tech continues their undefeated streak of shipping AR glasses that look dorky as hell and somehow hasn’t noticed the foolproof formula that’s been hiding in plain sight this entire time
 

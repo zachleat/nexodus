@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmcdugia322h
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mmcdugia322h
-  importHash: c39fd8989bc51c93
+  importHash: 3d46bfde752f4935
 ---
 TIL Lighthouse is adding an Agentic Browsing metric:
 

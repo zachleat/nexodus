@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3muibikgcns2b
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3muibikgcns2b
-  importHash: 1adb2ba9c5bd7dd5
+  importHash: 16675cbd8e5c7cab
 ---
 Perf win: [blog.fontawesome.com](https://blog.fontawesome.com) had an animated GIF poster image published recently (for an Aug 4 blog post). Changing the [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2) Image plugin formats from "avif,auto" to "avif,webp,auto" added an animated WebP to the \<picture> stack and saved 439kB of transfer weight! (nothing else changed) 🏆️
 

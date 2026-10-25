@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mointqkymk2z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mointqkymk2z
-  importHash: ce0b4c2bd45e0b06
+  importHash: 1e679294d21ac121
 ---
 Does anyone know more detail about how this was leaked, technically? Looks like the site was using Next.js and some static HTML was embedded in a static JavaScript bundle — another sourceMap leak?
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mf63nirwy22f
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mf63nirwy22f
-  importHash: bde4e38e528cbab1
+  importHash: 33e8d3f5f5bbce9a
 ---
 does HTML have a logo yet
 

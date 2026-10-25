@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mdnst4knxs2o
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mdnst4knxs2o
-  importHash: a7b11637d38ab4e4
+  importHash: fcf7a688d386ad42
 ---
 this very aptly applies to developer tools as well
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mlvxbhgajs2b
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mlvxbhgajs2b
-  importHash: 83a4ea0ceb3b0558
+  importHash: 4cfdcb285dc70308
 ---
 ![Screenshot from Network panel in Firefox dev tools: HTML, CSS, JS, Fonts, Images, Media (All and XHR tabs are crossed out)](bafkreicy2bovmr3iqj3mo7ix4le3i-svIhu7sAxGTB.webp)
 

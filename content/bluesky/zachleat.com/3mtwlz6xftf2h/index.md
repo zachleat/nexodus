@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtwlz6xftf2h
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mtwlz6xftf2h
-  importHash: 57c99c4522bc071f
+  importHash: 5c68225f4f12d3db
 ---
 tried to visit dolly’s website [https://dollyparton.com/](https://dollyparton.com/) but unfortunately it uses wordpress 🥺
 

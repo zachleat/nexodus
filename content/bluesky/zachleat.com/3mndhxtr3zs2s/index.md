@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mndhxtr3zs2s
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mndhxtr3zs2s
-  importHash: 292e732c758a39e9
+  importHash: 79b9be270bf8a9f6
 ---
 run for political office in the midwest without wearing a carhartt jacket on the campaign trail challenge (impossible)
 

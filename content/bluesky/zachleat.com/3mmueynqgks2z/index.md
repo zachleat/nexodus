@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mmueynqgks2z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mmueynqgks2z
-  importHash: 7f92417b1b9e9e0b
+  importHash: 676b46ee565f7d0b
 ---
 There is one “P” in the word Google, according to this cited [@usatoday.com](https://bsky.app/profile/did:plc:2yyvxfpy4s63ars26dzlpbf2) source with the following quote: “Google isn't ready to tell us what the ‘P’ in Android P will stand for…”
 

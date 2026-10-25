@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mnxredppw22j
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mnxredppw22j
-  importHash: 3dd6432186a0510e
+  importHash: cdb5966b7b3ae05b
 ---
 feeling a certain way after seeing [@dr-axel.de](https://bsky.app/profile/did:plc:djrbdlm3fzlz2rjtwctt52zs) cited in a package.json docs search query after they took their website down citing “AI companies stealing my work” — seems like they should be compensated for this by the search engine company, no?
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtwhoxn5cg2h
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mtwhoxn5cg2h
-  importHash: 7f098707983f0851
+  importHash: 04f8d6507d404e02
 ---
 RIP Dolly. Our family just went to Dollywood \*three weeks ago\* and we got a little first-hand taste of the impact she’s had on the world.
 

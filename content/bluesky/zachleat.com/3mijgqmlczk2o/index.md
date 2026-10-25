@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mijgqmlczk2o
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mijgqmlczk2o
-  importHash: 2a3b318a4bce7fc5
+  importHash: f36660c1be66e2d9
 ---
 mathematically speaking 89.99999% has six nines
 

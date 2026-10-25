@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3maetnsjkkk2z
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3maetnsjkkk2z
-  importHash: bd72f96820897074
+  importHash: 646a69996e1c39bb
 ---
 first draft of zero configuration typescript (with dependency mapping) in [@11ty.dev](https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2) is working — weeeeeeeeeeee
 

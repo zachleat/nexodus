@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myaiiuo6w22d
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3myaiiuo6w22d
-  importHash: 2801e0a0f0671310
+  importHash: 5fcbce31aa392cb4
 ---
 🚨 Web Component Klaxon 🚨
 

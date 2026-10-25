@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3me7zfp5qm226
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3me7zfp5qm226
-  importHash: 00e03bd3f4473da8
+  importHash: c0dcd6b06a9a6557
 ---
 a gentle criticism that modals like this are not the user experience of a social network that is friendly to hyperlinks
 

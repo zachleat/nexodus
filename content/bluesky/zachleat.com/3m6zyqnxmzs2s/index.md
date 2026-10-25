@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m6zyqnxmzs2s
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m6zyqnxmzs2s
-  importHash: e104402ceaa99bf9
+  importHash: d7d697604075f89a
 ---
 This took a lot of tedious work but I’m now npm token free, weee!
 

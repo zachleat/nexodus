@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m632hnzee22g
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m632hnzee22g
-  importHash: 153181e81933ec8d
+  importHash: c80b850ec8bf4db2
 ---
 went on a small side quest this morning and added an AI Mode toggle to my blog posts
 

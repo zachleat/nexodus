@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3m7ic55hqbk2r
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3m7ic55hqbk2r
-  importHash: f060fc781d364ca5
+  importHash: 20f812db3b6242cc
 ---
 tfw your web site is static
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3megy35pjus2n
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3megy35pjus2n
-  importHash: 07c3aaf8a8a855f6
+  importHash: 15c5074f83c4adcf
 ---
 Another follow up here: [@tbroyer.ltgt.net](https://bsky.app/profile/did:plc:wwv7b2hkcaghqlyy4mew2tzs) found the offending truncation code and it is not on [@bsky.app](https://bsky.app/profile/did:plc:z72i7hdynmk6r22z27h6tvur)’s part here. I’m sorry folks — I was far too harsh in my original post!
 

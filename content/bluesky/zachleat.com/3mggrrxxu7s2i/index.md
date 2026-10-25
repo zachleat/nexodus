@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mggrrxxu7s2i
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3mggrrxxu7s2i
-  importHash: 13d830fa2a8563a1
+  importHash: 900ea8e51ada8392
 ---
 Pretty good sticker haul from [@londonwebstandards.org](https://bsky.app/profile/did:plc:lndvlw6ga4bwq7wj7eapktjn) State of the Browser last week! [#SotB](https://bsky.app/hashtag/SotB) [#SotB26](https://bsky.app/hashtag/SotB26)
 
