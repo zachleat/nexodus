@@ -11,7 +11,8 @@
 		</div>
 		<h2 v-if="post.data.showTitle" class="post-title"><a :href="post.url">{{ post.data.title }}</a></h2>
 		<img v-if="post.data.metadata.media?.featuredImage" :src="post.data.metadata.media.featuredImage" class="post-image" alt="" loading="lazy" decoding="async">
-		<div class="post-content" :data-pagefind-body="indexBody ? '' : null" v-html="resolveAssets(postContent || post.content, post)"></div>
+		<div v-if="html?.trim() || !post.data.description" class="post-content" :data-pagefind-body="indexBody ? '' : null" v-html="html"></div>
+		<div v-else class="post-content" :data-pagefind-body="indexBody ? '' : null"><p>{{ post.data.description }}</p></div>
 		<div class="post-footer">
 			<span class="post-author">
 				<img v-if="avatarUrl" :src="avatarUrl" class="post-avatar" width="24" height="24" alt="" loading="lazy" decoding="async">
@@ -52,6 +53,10 @@ export default {
 		};
 	},
 	computed: {
+		// Posts without content (e.g. npm releases) show their description instead
+		html() {
+			return this.resolveAssets(this.postContent || this.post.content, this.post);
+		},
 		replyParent() {
 			for(let p of this.group.posts) {
 				let parent = this.getReplyParent(this.collections.all, p.data.metadata.url);

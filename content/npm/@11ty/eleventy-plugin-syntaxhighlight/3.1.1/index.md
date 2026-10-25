@@ -1,0 +1,26 @@
+---
+title: '@11ty/eleventy-plugin-syntaxhighlight@3.1.1'
+description: >-
+  A pack of Eleventy plugins for syntax highlighting for Markdown and Liquid
+  templates.
+authors:
+  - name: zachleat
+    url: https://www.npmjs.com/~zachleat
+date: 2021-05-23T19:46:03.380Z
+metadata:
+  name: '@11ty/eleventy-plugin-syntaxhighlight'
+  version: 3.1.1
+  license: MIT
+  repository: https://github.com/11ty/eleventy-plugin-syntaxhighlight
+  tags:
+    - eleventy
+    - eleventy-plugin
+  uuid: 11ty/import::npm::@11ty/eleventy-plugin-syntaxhighlight::3.1.1
+  type: npm
+  url: https://www.npmjs.com/package/@11ty/eleventy-plugin-syntaxhighlight/v/3.1.1
+  importHash: 1f6533caa5f444d0
+tags:
+  - eleventy
+  - eleventy-plugin
+---
+

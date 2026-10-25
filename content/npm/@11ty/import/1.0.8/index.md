@@ -1,0 +1,18 @@
+---
+title: '@11ty/import@1.0.8'
+description: Utility to import content from multiple services (and a CLI, too)
+authors:
+  - name: zachleat
+    url: https://www.npmjs.com/~zachleat
+date: 2024-12-13T19:51:33.567Z
+metadata:
+  name: '@11ty/import'
+  version: 1.0.8
+  license: MIT
+  repository: https://github.com/11ty/eleventy-import
+  uuid: 11ty/import::npm::@11ty/import::1.0.8
+  type: npm
+  url: https://www.npmjs.com/package/@11ty/import/v/1.0.8
+  importHash: d8d3a262d4cf9cda
+---
+
