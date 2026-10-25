@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/performance-leaderboard
   type: github
   url: https://github.com/zachleat/performance-leaderboard
-  importHash: e3c2b2c1a247159f
+  importHash: 9a1646889c00ffbe
 tags:
   - speedlify
 ---

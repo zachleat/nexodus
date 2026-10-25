@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::11ty/api-screenshot
   type: github
   url: https://github.com/11ty/api-screenshot
-  importHash: c2a0779332390d46
+  importHash: 570d4410f17bbec3
 tags:
   - eleventy
   - eleventy-api

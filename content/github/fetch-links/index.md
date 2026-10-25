@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/fetch-links
   type: github
   url: https://github.com/zachleat/fetch-links
-  importHash: c1e3797f5081b6f1
+  importHash: 848764774e15d3a9
 ---
 # Fetch Links
 

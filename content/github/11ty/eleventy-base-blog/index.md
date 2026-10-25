@@ -20,7 +20,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-base-blog
   type: github
   url: https://github.com/11ty/eleventy-base-blog
-  importHash: b2160cef0a09694d
+  importHash: c85a8f16abc4362a
 tags:
   - blog
   - eleventy

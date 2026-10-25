@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::github::11ty/plugin-rss
   type: github
   url: https://github.com/11ty/plugin-rss
-  importHash: 7fa24fcfce970663
+  importHash: deffc73f4135a0fb
 tags:
   - eleventy
   - eleventy-plugin

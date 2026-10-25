@@ -14,6 +14,6 @@ metadata:
   uuid: 11ty/import::github::zachleat/f2em.com
   type: github
   url: https://github.com/zachleat/f2em.com
-  importHash: 972c82fb1678231d
+  importHash: 401485c04d037a24
 ---
 A Front End Engineer's Manifesto

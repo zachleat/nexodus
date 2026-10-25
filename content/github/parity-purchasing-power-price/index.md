@@ -15,7 +15,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/parity-purchasing-power-price
   type: github
   url: https://github.com/zachleat/parity-purchasing-power-price
-  importHash: 14f41abc45411c32
+  importHash: 4d373dd3eab22250
 tags:
   - web-components
 ---

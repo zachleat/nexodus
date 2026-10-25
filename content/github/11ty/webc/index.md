@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/webc
   type: github
   url: https://github.com/11ty/webc
-  importHash: 3e8d4274e98c186f
+  importHash: 845d9bd959741b46
 ---
 # WebC is for Single File Web Components
 

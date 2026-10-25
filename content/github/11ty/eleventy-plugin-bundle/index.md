@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-plugin-bundle
   type: github
   url: https://github.com/11ty/eleventy-plugin-bundle
-  importHash: 8bd710b102e37581
+  importHash: 3a2f33b1973bef00
 ---
 # eleventy-plugin-bundle
 

@@ -1,6 +1,13 @@
 import { Importer } from "@11ty/import";
 
+// Optional source types to import, e.g. `npm run import -- github npm`
+const sources = process.argv.slice(2).filter(arg => !arg.startsWith("--"));
+
 async function runImport(type, target, output) {
+	if(sources.length && !sources.includes(type)) {
+		return;
+	}
+
 	let importer = new Importer();
 	importer.setOutputFolder(output);
 	importer.setCacheDuration("4h");
@@ -8,6 +15,7 @@ async function runImport(type, target, output) {
 	importer.setSafeMode(!process.argv.includes("--overwrite"));
 	importer.setDraftsFolder("drafts");
 	importer.setAssetReferenceType("colocate");
+	importer.setAvatarReferenceType("colocate");
 	importer.setOverwriteAllow();
 	importer.addSource(type, target);
 

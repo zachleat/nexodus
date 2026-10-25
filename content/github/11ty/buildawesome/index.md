@@ -23,7 +23,7 @@ metadata:
   uuid: 11ty/import::github::11ty/buildawesome
   type: github
   url: https://github.com/11ty/buildawesome
-  importHash: 59d0bdd790811be9
+  importHash: 67d56dda27e0279c
 tags:
   - blog-engine
   - documentation-tool

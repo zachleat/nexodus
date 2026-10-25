@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/image-color
   type: github
   url: https://github.com/11ty/image-color
-  importHash: b5d3ab2392960d06
+  importHash: 74a781b71a78a0c3
 ---
 # `@11ty/image-color`
 

@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/unicode-range-interchange
   type: github
   url: https://github.com/zachleat/unicode-range-interchange
-  importHash: d2ec22e42f9293dd
+  importHash: 61875027a2dce9bf
 ---
 # Unicode Range Interchange
 

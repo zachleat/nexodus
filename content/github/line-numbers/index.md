@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/line-numbers
   type: github
   url: https://github.com/zachleat/line-numbers
-  importHash: 78f49070450b321b
+  importHash: 2bf8e34a79c9b308
 ---
 # Unencumbered `<line-numbers>` Web Component
 

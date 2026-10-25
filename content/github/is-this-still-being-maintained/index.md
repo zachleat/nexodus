@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/is-this-still-being-maintained
   type: github
   url: https://github.com/zachleat/is-this-still-being-maintained
-  importHash: 6e28cf0bc6ecc2f7
+  importHash: 82804173933908ff
 ---
 # is-this-still-being-maintained
 

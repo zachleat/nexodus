@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/spider-pig
   type: github
   url: https://github.com/zachleat/spider-pig
-  importHash: e6706cee9312a01b
+  importHash: e89cdfdf068a16e2
 ---
 ![Homer Simpson holding the Spider Pig](spider-pig-eMfBPZOHDsvz.jpg)
 

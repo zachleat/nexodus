@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/package-zachleat
   type: github
   url: https://github.com/zachleat/package-zachleat
-  importHash: 6588a567496f881a
+  importHash: 75f9159fdcdc8083
 ---
 # zachleat
 

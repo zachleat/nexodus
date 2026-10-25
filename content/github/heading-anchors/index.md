@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/heading-anchors
   type: github
   url: https://github.com/zachleat/heading-anchors
-  importHash: 5085ab3a8cf5d0f7
+  importHash: f04f63bd7b98c79d
 ---
 # `<heading-anchors>` Web Component
 

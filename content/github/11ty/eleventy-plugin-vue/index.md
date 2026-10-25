@@ -18,7 +18,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-plugin-vue
   type: github
   url: https://github.com/11ty/eleventy-plugin-vue
-  importHash: e772c348ca265116
+  importHash: c385128673ed1c6f
 tags:
   - eleventy
   - eleventy-plugin

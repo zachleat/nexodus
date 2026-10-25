@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/speedlify2
   type: github
   url: https://github.com/zachleat/speedlify2
-  importHash: d89dcc263d0fab39
+  importHash: 27b5b3abf09c089f
 ---
 # speedlify2
 

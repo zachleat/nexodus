@@ -15,7 +15,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/performance-leaderboard-pagespeed-insights
   type: github
   url: https://github.com/zachleat/performance-leaderboard-pagespeed-insights
-  importHash: c61275ec2f012b7e
+  importHash: 1b62bb98541963af
 ---
 # performance-leaderboard-pagespeed-insights
 

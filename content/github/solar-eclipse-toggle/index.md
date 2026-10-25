@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/solar-eclipse-toggle
   type: github
   url: https://github.com/zachleat/solar-eclipse-toggle
-  importHash: ff8280eaf6a01e97
+  importHash: 59ffd1ecc9da3d1d
 ---
 # `<solar-eclipse-toggle>` Web Component
 

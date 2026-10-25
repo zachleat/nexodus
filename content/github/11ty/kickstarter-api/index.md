@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/kickstarter-api
   type: github
   url: https://github.com/11ty/kickstarter-api
-  importHash: ee51eac661b1e2d6
+  importHash: c47b3f22b5dbba9b
 ---
 # kickstarter-api
 

@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/web-component-star-search
   type: github
   url: https://github.com/zachleat/web-component-star-search
-  importHash: 39c282f37a81c4b8
+  importHash: 720f5eaf46306b03
 ---
 # Web Component Star Search
 

@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/filter-container
   type: github
   url: https://github.com/zachleat/filter-container
-  importHash: 6d4c00675beecaa2
+  importHash: dabfb71c7ba2002a
 tags:
   - web-components
 ---

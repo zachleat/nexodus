@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::11ty/image
   type: github
   url: https://github.com/11ty/image
-  importHash: deb2619ae5aef059
+  importHash: d8af118859a5c87d
 tags:
   - eleventy
   - eleventy-utility

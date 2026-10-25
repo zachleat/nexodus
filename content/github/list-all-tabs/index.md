@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/list-all-tabs
   type: github
   url: https://github.com/zachleat/list-all-tabs
-  importHash: 046a4e65960796b6
+  importHash: 69bccd143e0fc365
 ---
 # List All Tabs
 

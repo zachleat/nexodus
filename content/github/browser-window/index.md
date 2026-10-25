@@ -15,7 +15,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/browser-window
   type: github
   url: https://github.com/zachleat/browser-window
-  importHash: 48b3f532302bdf5a
+  importHash: 080860df4fcabf0e
 tags:
   - web-components
 ---

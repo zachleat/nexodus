@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::11ty/font-awesome-plugin
   type: github
   url: https://github.com/11ty/font-awesome-plugin
-  importHash: 501f0fe19ebf1db3
+  importHash: eb368196c621c416
 ---
 # `@11ty/font-awesome`
 

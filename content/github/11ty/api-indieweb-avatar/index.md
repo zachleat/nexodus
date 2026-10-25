@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::11ty/api-indieweb-avatar
   type: github
   url: https://github.com/11ty/api-indieweb-avatar
-  importHash: 7484c2afeec155d5
+  importHash: 001eeb2a171b2cd5
 tags:
   - eleventy
   - eleventy-api

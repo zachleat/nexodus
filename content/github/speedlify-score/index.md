@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/speedlify-score
   type: github
   url: https://github.com/zachleat/speedlify-score
-  importHash: cb18c15cc6aa0546
+  importHash: 896fae7054dea721
 tags:
   - speedlify
   - web-components

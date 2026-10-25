@@ -18,7 +18,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-dependency-tree
   type: github
   url: https://github.com/11ty/eleventy-dependency-tree
-  importHash: 7f90cb5d9a6884c9
+  importHash: ff257e30bbc0be73
 tags:
   - eleventy
 ---

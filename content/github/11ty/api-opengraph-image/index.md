@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::11ty/api-opengraph-image
   type: github
   url: https://github.com/11ty/api-opengraph-image
-  importHash: d6abb04410ea1acb
+  importHash: b9d9c3733bf68a1b
 tags:
   - eleventy
   - eleventy-api

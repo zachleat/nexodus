@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/announcement-banner
   type: github
   url: https://github.com/zachleat/announcement-banner
-  importHash: aee5d8c4c9232715
+  importHash: 1f5df4e6813ed302
 tags:
   - web-components
 ---

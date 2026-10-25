@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/infinity-burger
   type: github
   url: https://github.com/zachleat/infinity-burger
-  importHash: a7890d422b27876d
+  importHash: 2e9fc1c28d0970cc
 tags:
   - web-components
 ---

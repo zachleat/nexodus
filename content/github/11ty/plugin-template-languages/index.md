@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/plugin-template-languages
   type: github
   url: https://github.com/11ty/plugin-template-languages
-  importHash: 1ee045aec62072bd
+  importHash: 1ae86afc324f60da
 ---
 # Official Template Language Plugins for Eleventy
 

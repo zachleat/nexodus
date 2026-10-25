@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/posthtml-urls
   type: github
   url: https://github.com/11ty/posthtml-urls
-  importHash: b2478daae02a37b4
+  importHash: 7d9720210bb60c28
 ---
 # `@11ty/posthtml-urls`
 

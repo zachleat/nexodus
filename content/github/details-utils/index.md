@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/details-utils
   type: github
   url: https://github.com/zachleat/details-utils
-  importHash: cbc10c3f3e80febb
+  importHash: 714973da5f00bb9f
 ---
 # `<details-utils>`
 

@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::11ty/lodash-custom
   type: github
   url: https://github.com/11ty/lodash-custom
-  importHash: 590944ee5f28175e
+  importHash: 4c7d2aefe14b9155
 ---
 # @11ty/lodash-custom
 

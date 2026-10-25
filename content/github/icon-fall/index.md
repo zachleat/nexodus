@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/icon-fall
   type: github
   url: https://github.com/zachleat/icon-fall
-  importHash: 4e87f5d687f74c7e
+  importHash: 937b47b4f397f47f
 ---
 # `<icon-fall>`
 

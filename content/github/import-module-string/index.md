@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/import-module-string
   type: github
   url: https://github.com/zachleat/import-module-string
-  importHash: bea7fe031f949c33
+  importHash: 5034774e1bf9e3d3
 ---
 # `import-module-string`
 

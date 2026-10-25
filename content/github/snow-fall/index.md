@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/snow-fall
   type: github
   url: https://github.com/zachleat/snow-fall
-  importHash: 5e9c14f3723e89be
+  importHash: 4d094d9b4f2d5105
 ---
 # `<snow-fall>`
 

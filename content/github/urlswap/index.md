@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/urlswap
   type: github
   url: https://github.com/zachleat/urlswap
-  importHash: 9f117e1a68b9817d
+  importHash: fabb51296eb4c187
 ---
 # URLswap
 

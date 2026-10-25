@@ -18,7 +18,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-plugin-webc
   type: github
   url: https://github.com/11ty/eleventy-plugin-webc
-  importHash: 47da9637deccc1d9
+  importHash: 5d6eb7f01a795828
 tags:
   - custom-elements
   - eleventy

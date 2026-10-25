@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::11ty/11ty-community
   type: github
   url: https://github.com/11ty/11ty-community
-  importHash: 2a7260ecb9c3cb8b
+  importHash: 874e5c28b4d43cba
 ---
 # `11ty-community`
 

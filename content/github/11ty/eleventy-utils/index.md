@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-utils
   type: github
   url: https://github.com/11ty/eleventy-utils
-  importHash: df471d510643d2de
+  importHash: 5f42ba40d13e5bcc
 ---
 ![eleventy Logo](logo-github-kLfaL7otOeRT.png)
 

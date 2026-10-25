@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/bundlewhys
   type: github
   url: https://github.com/zachleat/bundlewhys
-  importHash: 2d575317051c6345
+  importHash: bc0f319744f3df74
 ---
 # Bundlewhys
 

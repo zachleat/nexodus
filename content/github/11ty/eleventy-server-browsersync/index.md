@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-server-browsersync
   type: github
   url: https://github.com/11ty/eleventy-server-browsersync
-  importHash: 96af33d3ee5488d1
+  importHash: 525b9074bde7a6a5
 ---
 ![11ty Logo](logo-github-gW5pow8pImUR.svg)
 

@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::github::11ty/fetch
   type: github
   url: https://github.com/11ty/fetch
-  importHash: fc4b13eb3fe35a0c
+  importHash: d4fd627979e6eebe
 tags:
   - cache
   - eleventy

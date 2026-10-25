@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/carouscroll
   type: github
   url: https://github.com/zachleat/carouscroll
-  importHash: 3479a10a60e17f35
+  importHash: 859aa65c5ef4bed2
 ---
 # carouscroll
 

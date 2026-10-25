@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/demo-nav
   type: github
   url: https://github.com/zachleat/demo-nav
-  importHash: f0cbce4da01d0bde
+  importHash: d26190701ca1ea80
 ---
 # Demo Navigation
 

@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/performance-sometime
   type: github
   url: https://github.com/zachleat/performance-sometime
-  importHash: d4746e419dd0fc36
+  importHash: 43bec60b6cef1407
 ---
 # Performance, Sometime
 

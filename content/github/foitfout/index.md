@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/foitfout
   type: github
   url: https://github.com/zachleat/foitfout
-  importHash: a6f7141520f69a63
+  importHash: e9215c8c20f5aabf
 tags:
   - font
   - web-fonts

@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/table-of-contents
   type: github
   url: https://github.com/zachleat/table-of-contents
-  importHash: ca717d4f66fa4d11
+  importHash: 8213eea30cf56794
 ---
 # `<table-of-contents>`
 

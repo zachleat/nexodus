@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-plugin-inclusive-language
   type: github
   url: https://github.com/11ty/eleventy-plugin-inclusive-language
-  importHash: 632054190ef70535
+  importHash: d1dbe0e8d03e646c
 tags:
   - eleventy
   - eleventy-plugin

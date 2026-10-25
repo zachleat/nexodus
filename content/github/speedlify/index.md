@@ -18,7 +18,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/speedlify
   type: github
   url: https://github.com/zachleat/speedlify
-  importHash: f8d446dea80f9f28
+  importHash: 1e20d4c1fb8a7db7
 tags:
   - eleventy
   - speedlify

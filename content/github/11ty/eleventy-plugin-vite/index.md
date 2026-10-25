@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-plugin-vite
   type: github
   url: https://github.com/11ty/eleventy-plugin-vite
-  importHash: c76382d27378b199
+  importHash: 5d4b8e148931cbc4
 ---
 ![11ty Logo](logo-github-gW5pow8pImUR.svg)  ![Vite logo](https-vite.dev-logo-feVWIzxR4tyk.svg)
 

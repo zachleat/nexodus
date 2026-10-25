@@ -21,7 +21,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/web-font-loading-recipes
   type: github
   url: https://github.com/zachleat/web-font-loading-recipes
-  importHash: bf230abde8debec5
+  importHash: 375ed3ae1d0bec31
 tags:
   - demo
   - font

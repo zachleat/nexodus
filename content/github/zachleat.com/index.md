@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/zachleat.com
   type: github
   url: https://github.com/zachleat/zachleat.com
-  importHash: fee3e8f56f58e655
+  importHash: f23e03eada6daba5
 ---
 ## Local Development Setup
 

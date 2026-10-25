@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/api-generator
   type: github
   url: https://github.com/11ty/api-generator
-  importHash: 8ca91a8bec21fb34
+  importHash: 21bc9883162f2540
 ---
 ![11ty Logo](logo-github-gW5pow8pImUR.svg)
 

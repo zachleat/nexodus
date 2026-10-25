@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/hypercard
   type: github
   url: https://github.com/zachleat/hypercard
-  importHash: b1cddd7f39b76881
+  importHash: 815f417998f2454c
 ---
 # hypercard
 

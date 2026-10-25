@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::11ty/dev-server
   type: github
   url: https://github.com/11ty/dev-server
-  importHash: 75dbde167089ae0b
+  importHash: 7f41e760999ae331
 ---
 ![11ty Logo](logo-github-gW5pow8pImUR.svg)
 

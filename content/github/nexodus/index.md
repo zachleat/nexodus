@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/nexodus
   type: github
   url: https://github.com/zachleat/nexodus
-  importHash: 3f1689773bcee4c6
+  importHash: 73401661abff806f
 ---
 # Nexodus
 

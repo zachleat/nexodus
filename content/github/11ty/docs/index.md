@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::github::11ty/docs
   type: github
   url: https://github.com/11ty/docs
-  importHash: 310260f1c1386351
+  importHash: b84b1606d6173000
 tags:
   - eleventy
   - eleventy-sample

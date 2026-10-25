@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::11ty/package-bundler
   type: github
   url: https://github.com/11ty/package-bundler
-  importHash: d81275f41f7fe1fb
+  importHash: 2e4cda529d659654
 ---
 # @11ty/package-bundler
 
