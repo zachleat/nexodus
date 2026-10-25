@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116246659394235226
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116246659394235226
-  importHash: 9525e6b338a16e6a
+  importHash: aa1940482a846787
 ---
 is… is this good? is this software good? is this a good example of good software?
 

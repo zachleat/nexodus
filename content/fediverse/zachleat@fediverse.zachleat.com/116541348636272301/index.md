@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116541348636272301
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116541348636272301
-  importHash: c4834050ece6c3b7
+  importHash: e7a4b40364127770
 ---
 Cloudflare stock down 23.83% after announcing layoffs yesterday.
 

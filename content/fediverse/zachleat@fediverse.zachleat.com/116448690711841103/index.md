@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116448690711841103
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116448690711841103
-  importHash: 54887cceba085147
+  importHash: 60e6d8c3ccdf5f42
 ---
 Marginally annoyed that Intl.RelativeTimeFormat#format doesn’t support "millisecond" as a unit.
 

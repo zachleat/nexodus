@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116094027579527469
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116094027579527469
-  importHash: 796e0148cf658118
+  importHash: e77471288e388366
 ---
 look, I’m not a designer but [@digitalwire](https://swiss.social/@digitalwire) inspired something
 

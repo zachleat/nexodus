@@ -9,6 +9,6 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117214556601663159
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117214556601663159
-  importHash: 9090cd5ef800d5c7
+  importHash: 7182db36780c6f6a
 ---
 ![kim kardashian says “it seems like no website wants to work these days”](00cbe31ae6f7fffe-dtwFvuKnhAxC.png)

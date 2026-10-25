@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116098218344254464
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116098218344254464
-  importHash: 9e4ae84c01eba02a
+  importHash: a0fc3a5cfcf4876b
 ---
 the corners are times angle brackets you nerd sniping weirdos
 

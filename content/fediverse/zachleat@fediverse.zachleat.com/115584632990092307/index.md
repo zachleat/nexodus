@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115584632990092307
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115584632990092307
-  importHash: f86c9149a2f84627
+  importHash: e6c8b84b0ee87f40
 ---
 we are definitely triaging like we’ve never triaged before
 

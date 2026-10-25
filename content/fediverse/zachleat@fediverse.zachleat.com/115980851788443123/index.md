@@ -9,6 +9,6 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115980851788443123
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115980851788443123
-  importHash: 74415579f4baf484
+  importHash: 40273954449967d8
 ---
 ![Manuel Matuzović’s smiling face is on an old cathode ray TV on the sidewalk next to a brick wall and a building stoop](bc71d53a22d2a26b-s7HV2KhUzlpd.png)

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115589609490208622
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115589609490208622
-  importHash: 47b33a76f6ff4c99
+  importHash: 0f8d05379603593a
 ---
 I have elevated to a new plane of open source existence
 

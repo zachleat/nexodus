@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116077295346564387
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116077295346564387
-  importHash: 690757044a7fe604
+  importHash: dac165ab7d6ccd8b
 ---
 went back and added a Like™ to [@johnallsopp](https://indieweb.social/@johnallsopp)’s 2000 seminal, instrumental, universally revered, and timeless blog post on the site’s wordpress social widget
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116047706145072723
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116047706145072723
-  importHash: 112605fefa934b2b
+  importHash: 7a51dc7dc749290f
 ---
 look, this is a pretty esoteric wrinkle but let’s see what the LLM would have said
 

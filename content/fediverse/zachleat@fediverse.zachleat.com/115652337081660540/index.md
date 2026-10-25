@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115652337081660540
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115652337081660540
-  importHash: 069afac2b93264ae
+  importHash: 27c2040c352db6fc
 ---
 This took a lot of tedious work but I’m now npm token free, weee!
 

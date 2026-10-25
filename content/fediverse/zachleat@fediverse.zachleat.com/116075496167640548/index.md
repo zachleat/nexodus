@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116075496167640548
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116075496167640548
-  importHash: f6618791c474d516
+  importHash: 4d037788cdd61c26
 ---
 I’ve been testing 3d-printed whistle variations; preparing a batch for drop-off to some local helpers for distribution.
 

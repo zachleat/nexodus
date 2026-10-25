@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117197690755422702
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117197690755422702
-  importHash: c6a4066cf6750c35
+  importHash: 8b70e664d7c452f1
 ---
 Perf win: blog.fontawesome.com had an animated GIF poster image published recently (for an Aug 4 blog post). Changing the [@11ty](https://neighborhood.11ty.dev/@11ty) Image plugin formats from "avif,auto" to "avif,webp,auto" added an animated WebP to the \<picture> stack and saved 439kB of transfer weight! (nothing else changed) 🏆
 

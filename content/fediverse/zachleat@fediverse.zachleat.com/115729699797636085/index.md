@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115729699797636085
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115729699797636085
-  importHash: dbb88667ec273c1d
+  importHash: 4422cb73a1c1917c
 ---
 Deno both supports and absolutely does not support CommonJS 😅
 

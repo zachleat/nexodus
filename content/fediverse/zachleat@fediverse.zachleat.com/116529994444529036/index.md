@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116529994444529036
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116529994444529036
-  importHash: cf56c56215df95b7
+  importHash: df730afc4490e6db
 ---
 chat — are we cooked
 

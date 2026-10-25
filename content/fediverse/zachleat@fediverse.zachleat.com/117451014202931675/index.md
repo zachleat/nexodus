@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117451014202931675
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117451014202931675
-  importHash: df85ebefa5c5785f
+  importHash: 78fcc081c92ec642
 ---
 this piece of npm staged publishing is not my favorite. I’m learning that 10+ minute wait times are not uncommon…
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116047804005552854
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116047804005552854
-  importHash: 10b7c62cbe5c1a8c
+  importHash: 0a0a64d013b35137
 ---
 what’s the going rate for babysitting
 

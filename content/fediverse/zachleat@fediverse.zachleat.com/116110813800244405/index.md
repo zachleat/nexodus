@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116110813800244405
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116110813800244405
-  importHash: 2793f1e630a6d25a
+  importHash: 850b0154e8a77e6d
 ---
 Spent the morning packing whistles into information kits with some great folks! ☀️🧊
 

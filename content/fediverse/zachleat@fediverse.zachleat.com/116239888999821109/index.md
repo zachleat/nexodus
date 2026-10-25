@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116239888999821109
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116239888999821109
-  importHash: 5ef624a61feaa22b
+  importHash: 5dfa0c01ce5f9449
 ---
 tfw an npm dependency goes without updates for years, then suddenly publishes a new minor version that isn’t tagged to any release or code on github…
 

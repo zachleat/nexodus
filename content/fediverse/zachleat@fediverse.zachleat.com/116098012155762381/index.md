@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116098012155762381
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116098012155762381
-  importHash: edf667c54a30aa48
+  importHash: a3acdbb45b872fdf
 ---
 alright, I take everything back — default \<h1> is what you get now
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116088942517545074
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116088942517545074
-  importHash: ffb3a89f9f4273d6
+  importHash: 8f40024c6c1cd5d4
 ---
 I have so many opinions about whistles, suddenly
 

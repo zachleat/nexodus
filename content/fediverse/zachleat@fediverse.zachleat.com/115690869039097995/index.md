@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115690869039097995
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115690869039097995
-  importHash: 4d5204076862da42
+  importHash: eff4c05ff22bcb68
 ---
 I don’t know if this is a good decision but it also feels long overdue
 

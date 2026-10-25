@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116100350401968708
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116100350401968708
-  importHash: ed7da8043bb824a8
+  importHash: 1ef552d35c1aa154
 ---
 The collection of whistles destined for anti ICE information kits grows further still
 

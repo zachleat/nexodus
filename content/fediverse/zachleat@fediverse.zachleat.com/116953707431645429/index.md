@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116953707431645429
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116953707431645429
-  importHash: 64b07f527a88757c
+  importHash: c9ddd69e38d80e3a
 ---
 found this old photo of me wearing a hypercolor tshirt and holding a bazooka — classic
 

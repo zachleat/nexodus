@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116534277384407110
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116534277384407110
-  importHash: e931a7a2a1c1e62d
+  importHash: 7debf350ae94e543
 ---
 Gemini — are you okay
 

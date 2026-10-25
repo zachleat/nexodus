@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116562081436896858
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116562081436896858
-  importHash: 50a23df8d3c1d47c
+  importHash: 774b40bf8bf8513e
 ---
 Importantly, \`pull\_request\_target\` IGNORES this GitHub security setting: [https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#controlling-changes-from-forks-to-workflows-in-public-repositories](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#controlling-changes-from-forks-to-workflows-in-public-repositories)
 

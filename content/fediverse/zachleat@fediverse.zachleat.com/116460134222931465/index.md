@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116460134222931465
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116460134222931465
-  importHash: c1204b77c7a420eb
+  importHash: 4053ab4e21140d09
 ---
 the shrimp jesus of software
 

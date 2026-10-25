@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116607896110608228
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116607896110608228
-  importHash: 4b5f3c760c07f0fb
+  importHash: d0952fc40ddf00fd
 ---
 TIL Lighthouse is adding an Agentic Browsing metric:
 

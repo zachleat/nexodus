@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116427189982602525
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116427189982602525
-  importHash: 21726a480a85c46b
+  importHash: 57cb5b57f5503b36
 ---
 holy forking shirtballs this is maybe the best ice cream flavor I’ve ever had
 

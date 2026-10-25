@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115582645206611464
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115582645206611464
-  importHash: bfc5829bca8377d0
+  importHash: 5377219e00c93b19
 ---
 went on a small side quest this morning and added an AI Mode toggle to my blog posts
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117373014010882740
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117373014010882740
-  importHash: 98ae7313345b1d04
+  importHash: c85ce65a7cd99ed4
 ---
 did anyone, uh, test it with multi-account containers before they shipped it or no
 

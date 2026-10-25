@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117343710722846008
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117343710722846008
-  importHash: e56a44aaf27f02fc
+  importHash: b60cf774f4865cdc
 ---
 printed some skulls to fill our sidelight windows. lesson learned: don’t assume the left and right windows are the same size 🫠
 

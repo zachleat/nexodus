@@ -51,6 +51,45 @@
 			"date": "2026-05-19T21:53:12.581Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://glasgow.social/@patrick\" class=\"u-url mention\">@<span>patrick</span></a></span> well it was worth it (to me, a bystander that had to pay nothing for the photographer)</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "116605520419431028",
+			"parentId": 0,
+			"url": "https://mastodon.social/@xro/116605520323982695",
+			"author": {
+				"name": "Raphael",
+				"url": "https://mastodon.social/@xro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/140/932/964/665/original/44eb3ac301f13a36.jpeg"
+			},
+			"date": "2026-05-20T06:37:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Hi Zach, as long-time 11ty user I am worried where this BA stuff is going :-) Do you know if the basic usage of 11ty will remain OSS? Cheers and thanks for your work</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116607206600479234",
+			"parentId": "116605520419431028",
+			"url": "https://fediverse.zachleat.com/@zachleat/116607206600479234",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-05-20T13:46:08.685Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@xro\" class=\"u-url mention\">@<span>xro</span></a></span> hey Raphael! I’m assuming you saw <a href=\"https://www.11ty.dev/blog/build-awesome/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">11ty.dev/blog/build-awesome/</span><span class=\"invisible\"></span></a> but I can say 10000000% that all of the steps being taken here are to keep the open source project viable!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116611203891289190",
+			"parentId": "116607206600479234",
+			"url": "https://mastodon.social/@xro/116611203864762666",
+			"author": {
+				"name": "Raphael",
+				"url": "https://mastodon.social/@xro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/301/140/932/964/665/original/44eb3ac301f13a36.jpeg"
+			},
+			"date": "2026-05-21T06:42:42.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Thanks Zach! That makes perfect sense … just hoping 11ty can keep its small tech charme in times where everything is either integrating AI and/or enshittified. <br>Thanks again mate</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {

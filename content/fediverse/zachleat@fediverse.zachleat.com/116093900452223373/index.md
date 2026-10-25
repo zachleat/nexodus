@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116093900452223373
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116093900452223373
-  importHash: b4a0de0d22efdb09
+  importHash: 9f33157ffe9d3511
 ---
 I think HTML still needs a logo
 

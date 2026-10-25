@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115748813058802852
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115748813058802852
-  importHash: 0a272eebd2072443
+  importHash: e71cb0adf6644dd6
 ---
 first draft of zero configuration typescript (with dependency mapping) in [@11ty](https://neighborhood.11ty.dev/@11ty) is working — weeeeeeeeeeee
 

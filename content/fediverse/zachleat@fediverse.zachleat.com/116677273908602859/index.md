@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116677273908602859
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116677273908602859
-  importHash: c9555b6c98f645b0
+  importHash: ef47a59af025b1bd
 ---
 Tracking demographic stats on the State of JS, CSS, HTML, React, and Devs surveys.
 

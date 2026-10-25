@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117288687276815611
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117288687276815611
-  importHash: 75282f21fe443369
+  importHash: dd0135785ab31ff4
 ---
 why can’t I approve and you validate async before publish? I’m waiting 😅
 

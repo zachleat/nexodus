@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117174626374243793
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117174626374243793
-  importHash: 2a72b80d139e8b32
+  importHash: 4600c917757ae9da
 ---
 oracle’s web site is winning on the Big Tech Website Leaderboard [https://www.speedlify.dev/group/big-tech/](https://www.speedlify.dev/group/big-tech/) but not for a good reason: the website is… uh… not working
 

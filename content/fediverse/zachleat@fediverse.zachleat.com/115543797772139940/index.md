@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115543797772139940
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115543797772139940
-  importHash: 4bb1136fc08ab09b
+  importHash: 079368f42becfb57
 ---
 haven’t been in the 200’s on Eleventy Core in \*awhile\*
 

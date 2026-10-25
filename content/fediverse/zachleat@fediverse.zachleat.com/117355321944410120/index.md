@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117355321944410120
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117355321944410120
-  importHash: 9836612434be062e
+  importHash: afeac6552c2286b9
 ---
 got a better picture of these bad boys — halloween is imminent!
 

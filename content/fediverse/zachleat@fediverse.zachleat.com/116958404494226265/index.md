@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116958404494226265
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116958404494226265
-  importHash: fc5e5b2d3b10aced
+  importHash: 7172c4236243de7c
 ---
 I was curious what the red/yellow cards used in the World Cup would look like with color vision deficiency (Protanopia shown).
 

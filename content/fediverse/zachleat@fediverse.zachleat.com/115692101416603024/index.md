@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115692101416603024
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115692101416603024
-  importHash: 196d476a427f2cc9
+  importHash: bf5378747fad74c5
 ---
 we have liftoff
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116682488310731889
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116682488310731889
-  importHash: e3e2118eabdba7df
+  importHash: 48e55820b9ad01c1
 ---
 run for political office in the midwest without wearing a carhartt jacket on the campaign trail challenge (impossible)
 

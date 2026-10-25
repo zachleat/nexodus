@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117292303120938438
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117292303120938438
-  importHash: d12769a13a8cb235
+  importHash: 84b97bd2f4fc7546
 ---
 personally I believe today’s [@fontawesome](https://mastodon.social/@fontawesome) morning slack emoji kata deserves to be more widely appreciated
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116240842031638713
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116240842031638713
-  importHash: ffe9c3e0b32f5bef
+  importHash: e7359156a6882727
 ---
 Reading through a NYTimes article on the new 2026 USMNT World Cup kit designs. Noting that the design seems to give the men credit for the USWNT’s World Cup wins by placing 4 stars above the jersey crest, hmm…
 

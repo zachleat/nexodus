@@ -9,6 +9,6 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115935512492670622
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115935512492670622
-  importHash: c0ccec51b803b11e
+  importHash: 498fdb3e1774e54b
 ---
 ![The “We should improve society, somewhat” meme but the worker says “Are you sure this is a net positive on society?” and the man in the well (face covered in AI sparkles) responds “You are right to question this. You are very intelligent.”](23c0caf619cd471e-m3TrbrHypLnZ.png)

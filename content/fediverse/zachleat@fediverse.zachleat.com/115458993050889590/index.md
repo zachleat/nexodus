@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115458993050889590
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115458993050889590
-  importHash: 3b3f68c4d98e29c1
+  importHash: a4c96b766dd6d70e
 ---
 look, my conscious brain \*knows\* that the death of google reader and the death of XSLT are unrelated…
 

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116185541944592835
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116185541944592835
-  importHash: c7d9c4d082dc4119
+  importHash: baa0c14fcd88ce19
 ---
 Pretty good sticker haul from [@webstandards](https://mastodon.world/@webstandards) State of the Browser last week! [#SotB](https://fediverse.zachleat.com/tags/SotB) [#SotB26](https://fediverse.zachleat.com/tags/SotB26)
 

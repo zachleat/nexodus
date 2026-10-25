@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117157905577727487
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117157905577727487
-  importHash: 425b4d5aaeb26ef1
+  importHash: 925201a9c413b92f
 ---
 tried to visit dolly’s website [https://dollyparton.com/](https://dollyparton.com/) but unfortunately it uses wordpress 🥺
 

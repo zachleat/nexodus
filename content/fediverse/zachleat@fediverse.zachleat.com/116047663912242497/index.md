@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116047663912242497
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/116047663912242497
-  importHash: c45fa213a85b4344
+  importHash: 5b79d3e4c80d0eef
 ---
 CSS Custom Highlight API doesn’t work on flexbox nodes in Safari 😭
 

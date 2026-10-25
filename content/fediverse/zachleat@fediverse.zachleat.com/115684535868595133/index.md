@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115684535868595133
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/115684535868595133
-  importHash: 791579760e9f7b2f
+  importHash: e30c2c363d8ab7fc
 ---
 tfw your web site is static
 

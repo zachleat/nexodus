@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117157601567546273
   type: fediverse
   url: https://fediverse.zachleat.com/@zachleat/117157601567546273
-  importHash: 3fa2b23c6ca8d648
+  importHash: 98eca5c967d01f49
 ---
 RIP Dolly. Our family just went to Dollywood \*three weeks ago\* and we got a little first-hand taste of the impact she’s had on the world.
 
