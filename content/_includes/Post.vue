@@ -5,8 +5,8 @@
 			<a :href="post.url"><time :datetime="post.date.toISOString()" :title="readableDate(post.date)">{{ friendlyDate(post.date) }}</time></a>
 			<span v-if="replyParent">In reply to <a :href="replyParent.url">{{ replyParent.data.sectionTitle }} post</a></span>
 			<span class="post-counts">
-				<a v-if="replyCount" :href="`${post.url}#replies-title`" :title="plural(replyCount, 'reply', 'replies')"><i class="fa-regular fa-comment"></i> <span aria-hidden="true">{{ replyCount }}</span><span class="visually-hidden">{{ plural(replyCount, "reply", "replies") }}</span></a>
-				<template v-for="{ key, label, icon } in countLabels"><span v-if="counts[key]" :title="plural(counts[key], label)"><i :class="icon"></i> <span aria-hidden="true">{{ counts[key] }}</span><span class="visually-hidden">{{ plural(counts[key], label) }}</span></span></template>
+				<a v-if="replyCount" :href="`${post.url}#replies-title`" :title="plural(replyCount, 'reply', 'replies')"><i class="fa-regular fa-comment"></i><span aria-hidden="true">{{ replyCount }}</span><span class="visually-hidden">{{ plural(replyCount, "reply", "replies") }}</span></a>
+				<template v-for="{ key, label, icon } in countLabels"><span v-if="counts[key]" :title="plural(counts[key], label)"><i :class="icon"></i><span aria-hidden="true">{{ counts[key] }}</span><span class="visually-hidden">{{ plural(counts[key], label) }}</span></span></template>
 			</span>
 		</div>
 		<h2 v-if="post.data.showTitle" class="post-title"><a :href="post.url">{{ post.data.title }}</a></h2>
@@ -86,6 +86,7 @@ export default {
 .post-counts { display: inline-flex; flex-wrap: wrap; gap: .25rem .75rem; }
 .post-links a { display: inline-flex; align-items: center; gap: .35em; }
 .post-counts svg, .post-links svg { height: 1em; overflow: visible; vertical-align: -.125em; }
+.post-counts svg { margin-right: .35em; }
 symbol { overflow: visible; }
 .post-author { display: inline-flex; align-items: center; gap: .5rem; }
 .post-avatar { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; background: var(--border); }

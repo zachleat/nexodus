@@ -138,6 +138,10 @@ export default function(eleventyConfig) {
 				for(let post of group.posts) {
 					let source = stats[post.data.metadata.type] ??= empty();
 					source.posts++;
+					if(post.data.metadata.type === "npm") {
+						(source.packageNames ??= new Set()).add(post.data.metadata.name);
+						source.packages = source.packageNames.size;
+					}
 					add(source, [post]);
 				}
 			}

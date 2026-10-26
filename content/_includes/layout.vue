@@ -16,7 +16,8 @@
 					</div>
 					<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, and Letterboxd.</p>
 					<nav class="source-links" aria-label="Sources">
-						<a v-for="{ key, label } in postSources" :href="`/${key}/`" :class="['source-link', `source-link--${key}`]" :aria-current="$data.sourcePage?.type === key ? 'page' : null">{{ label }} <span class="source-link-count">{{ siteStats[key].posts.toLocaleString("en-US") }}</span></a>
+						<a href="/" class="source-link source-link--all" :aria-current="page.url === '/' ? 'page' : null"><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{{ siteStats.total.posts.toLocaleString("en-US") }}</span></a>
+						<a v-for="{ key, label, icon } in postSources" :href="`/${key}/`" :class="['source-link', `source-link--${key}`]" :aria-current="$data.sourcePage?.type === key ? 'page' : null"><i :class="icon"></i>{{ label }} <span class="source-link-count">{{ siteStats[key].posts.toLocaleString("en-US") }}</span></a>
 					</nav>
 					<form id="search" class="search" role="search" action="javascript:void(0)">
 						<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
@@ -26,25 +27,12 @@
 							<button type="button" class="search-more" hidden>Load more results</button>
 						</div>
 					</form>
+					<SiteStats v-if="page.url === '/popular/'" />
 				</div>
 			</header>
 			<main class="wrap" v-html="content"></main>
 			<footer class="site-footer wrap">
-				<div v-if="siteStats" class="site-stats-wrap">
-					<table class="site-stats">
-						<thead>
-							<tr><td></td><th v-for="{ key, plural, icon } in statLabels" scope="col" :title="plural"><i :class="icon"></i><span class="visually-hidden">{{ plural }}</span></th><th scope="col" title="Since"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Since</span></th></tr>
-						</thead>
-						<component v-for="{ tag, sources } in statSections" :is="tag">
-							<tr v-for="{ key, label, icon } in sources" :class="`site-stats--${key}`">
-								<th v-if="icon" scope="row" :title="label"><a :href="`/${key}/`"><i :class="icon"></i><span class="visually-hidden">{{ label }}</span></a></th>
-								<th v-else scope="row">{{ label }}</th>
-								<td v-for="stat in statLabels"><template v-if="siteStats[key][stat.key]"><i v-if="key === 'github' && stat.key === 'likes'" class="fa-regular fa-star" title="Stars"></i><i v-else-if="key === 'github' && stat.key === 'reposts'" class="fa-solid fa-code-fork" title="Forks"></i> {{ siteStats[key][stat.key].toLocaleString("en-US") }}</template></td>
-								<td><time :datetime="siteStats[key].oldest.toISOString()">{{ shortDate(siteStats[key].oldest) }}</time></td>
-							</tr>
-						</component>
-					</table>
-				</div>
+				<SiteStats v-if="page.url !== '/popular/'" />
 				<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 			</footer>
 			<div v-html="getBundle('fontawesome')"></div>
@@ -106,8 +94,9 @@ img, video { max-width: 100%; height: auto; border-radius: 8px; }
 ol.feed { margin: 0; padding: 0; list-style: none; }
 .site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
 .site-stats-wrap { margin-bottom: 1.5rem; overflow-x: auto; }
+.site-header .site-stats-wrap { margin: 1rem 0 0; }
 .site-stats { width: 100%; border-collapse: collapse; color: var(--muted); font-variant-numeric: tabular-nums; }
-.site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; }
+.site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; vertical-align: top; }
 .site-stats :is(th, td):first-child { padding-left: .5rem; text-align: left; }
 .site-stats :is(th, td):last-child { padding-right: .5rem; }
 .site-stats :is(tbody, tfoot) th { font-weight: 600; }
@@ -126,7 +115,8 @@ ol.feed { margin: 0; padding: 0; list-style: none; }
 	.site-stats { font-size: .75rem; }
 	.site-stats :is(th, td) { padding-left: .5rem; }
 }
-.site-stats svg { height: 1em; overflow: visible; vertical-align: -.125em; }
+:is(.site-stats, .source-links) svg { height: 1em; overflow: visible; vertical-align: -.125em; }
+.source-links svg { margin-right: .35em; }
 .summary { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
 
 .feed { display: grid; gap: 1rem; }
@@ -219,6 +209,7 @@ ol.feed { margin: 0; padding: 0; list-style: none; }
 .source-link--youtube, .search-result--youtube { --accent: var(--youtube); }
 .source-link--letterboxd, .search-result--letterboxd { --accent: var(--letterboxd); }
 .source-link--codepen, .search-result--codepen { --accent: var(--codepen); }
+.source-link--all { --accent: var(--text); }
 .search-results { margin: .25rem 0 1rem; }
 .search-message { margin: 0 0 1rem; font-size: .9rem; color: var(--muted); }
 .search-list { display: grid; gap: 1.25rem; margin: 0; padding: 0; list-style: none; }
@@ -248,30 +239,14 @@ body:has(.search-results:not([hidden])) main { display: none; }
 .post-content blockquote img { display: block; margin-top: .25rem; }
 </style>
 <script>
+import SiteStats from "./SiteStats.vue";
+import { statSources } from "./sources.js";
+
 export default {
+	components: { SiteStats },
 	data() {
 		return {
 			pageTitle: "Nexodus Archive",
-			statSources: [
-				{ key: "bluesky", label: "Bluesky", icon: "fa-brands fa-bluesky" },
-				{ key: "fediverse", label: "Mastodon", icon: "fa-brands fa-mastodon" },
-				{ key: "github", label: "GitHub", icon: "fa-brands fa-github" },
-				{ key: "npm", label: "npm", icon: "fa-brands fa-npm" },
-				{ key: "youtube", label: "YouTube", icon: "fa-brands fa-youtube" },
-				{ key: "letterboxd", label: "Letterboxd", icon: "fa-brands fa-letterboxd" },
-				{ key: "codepen", label: "CodePen", icon: "fa-brands fa-codepen" },
-				{ key: "total", label: "All" },
-			],
-			statLabels: [
-				{ key: "posts", label: "post", plural: "posts", icon: "fa-regular fa-message" },
-				{ key: "replies", label: "reply", plural: "replies", icon: "fa-regular fa-comment" },
-				{ key: "likes", label: "like", plural: "likes", icon: "fa-regular fa-heart" },
-				{ key: "reposts", label: "repost", plural: "reposts", icon: "fa-solid fa-retweet" },
-				{ key: "quotes", label: "quote", plural: "quotes", icon: "fa-solid fa-quote-left" },
-				{ key: "views", label: "view", plural: "views", icon: "fa-regular fa-eye" },
-				{ key: "issues", label: "issue", plural: "issues", icon: "fa-regular fa-circle-dot" },
-				{ key: "pullRequests", label: "pull request", plural: "pull requests", icon: "fa-solid fa-code-pull-request" },
-			],
 		};
 	},
 	computed: {
@@ -285,17 +260,9 @@ export default {
 				return this.getSiteStats(groups);
 			}
 		},
-		// Per-source rows, with the All row in the table footer
-		statSections() {
-			let sources = this.statSources.filter(({ key }) => this.siteStats?.[key]);
-			return [
-				{ tag: "tbody", sources: sources.filter(({ key }) => key !== "total") },
-				{ tag: "tfoot", sources: sources.filter(({ key }) => key === "total") },
-			];
-		},
 		// Sources with posts, labeled by the Pagefind `source` filter value
 		postSources() {
-			return this.statSources.filter(({ key }) => key !== "total" && this.siteStats?.[key]);
+			return statSources.filter(({ key }) => key !== "total" && this.siteStats?.[key]);
 		},
 		searchScript() {
 			let keys = Object.fromEntries(this.postSources.map(({ key, label }) => [label, key]));
