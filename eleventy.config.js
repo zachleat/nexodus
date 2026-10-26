@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import * as pagefind from "pagefind";
 import { HtmlBasePlugin } from "@11ty/eleventy";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import eleventySvelte from "@11ty/eleventy-plugin-svelte";
 import fontAwesomePlugin from "@11ty/font-awesome";
 import { getComments, getCounts, resolveAssetUrl } from "./content/_includes/replies.js";
@@ -249,6 +250,19 @@ export default function(eleventyConfig) {
 	eleventyConfig.addFilter("resolveAssets", (html, post) => {
 		let names = new Set(getColocatedAssets(post.inputPath));
 		return html?.replace(/(\s(?:src|href|poster)=")([^"/:#]+)"/g, (match, attr, name) => names.has(name) ? `${attr}${resolveAssetUrl(name, post.url)}"` : match);
+	});
+
+	// Skip remote images (mostly reply avatars) so builds don’t fetch them
+	eleventyConfig.htmlTransformer.addPosthtmlPlugin("html", () => tree => {
+		tree.match({ tag: "img", attrs: { src: /^[a-z]+:/i } }, node => {
+			node.attrs["eleventy:ignore"] = "";
+			return node;
+		});
+		return tree;
+	});
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		formats: ["passthrough"],
+		urlPath: "/img/",
 	});
 
 	eleventyConfig.on("eleventy.after", async ({ results }) => {
