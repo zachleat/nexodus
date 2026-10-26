@@ -1,5 +1,6 @@
 <script>
 	import { getContext } from "svelte";
+	import Activity from "./Activity.svelte";
 	import SiteStats from "./SiteStats.svelte";
 	import { statSources } from "./sources.js";
 
@@ -107,7 +108,7 @@ more.addEventListener("click", showMore);`;
 					<a href="/" class="site-title">{pageTitle}</a>
 					<nav aria-label="Site"><a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>Popular</a></nav>
 				</div>
-				<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, and blogs.</p>
+				<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, Hacker News, and blogs.</p>
 				<nav class="source-links" aria-label="Sources">
 					<a href="/" class="source-link source-link--all" aria-current={page.url === "/" ? "page" : null}><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{siteStats.total.posts.toLocaleString("en-US")}</span></a>
 					{#each postSources as { key, label, icon }}<a href="/{key}/" class={["source-link", `source-link--${key}`]} aria-current={sourcePage?.type === key ? "page" : null}><i class={icon}></i>{label} <span class="source-link-count">{siteStats[key].posts.toLocaleString("en-US")}</span></a>{/each}
@@ -126,6 +127,7 @@ more.addEventListener("click", showMore);`;
 		<main class="wrap">{@html content}</main>
 		<footer class="site-footer wrap">
 			{#if page.url !== "/popular/"}<SiteStats />{/if}
+			{#if page.url === "/" || page.url === "/popular/"}<Activity groups={collections.postGroups} />{/if}
 			<p>Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
 			<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 		</footer>
@@ -150,7 +152,9 @@ more.addEventListener("click", showMore);`;
 		--youtube: #e00000;
 		--letterboxd: #00a85a;
 		--codepen: #47484a;
-		--blog: #c2410c;
+		--hackernews: #ff6600;
+		--blog: #475569;
+		--activity: #2da44e;
 		--radius: 12px;
 	}
 	@media (prefers-color-scheme: dark) {
@@ -167,7 +171,9 @@ more.addEventListener("click", showMore);`;
 			--youtube: #ff4e45;
 			--letterboxd: #40bcf4;
 			--codepen: #b7b7b7;
-			--blog: #fb8a4c;
+			--hackernews: #ff8a3d;
+			--blog: #94a3b8;
+			--activity: #39d353;
 		}
 	}
 	* { box-sizing: border-box; }
@@ -208,6 +214,7 @@ more.addEventListener("click", showMore);`;
 	.site-stats--youtube th { color: var(--youtube); }
 	.site-stats--letterboxd th { color: var(--letterboxd); }
 	.site-stats--codepen th { color: var(--codepen); }
+	.site-stats--hackernews th { color: var(--hackernews); }
 	.site-stats--blog th { color: var(--blog); }
 	.site-stats :is(time, .site-stats-value) { white-space: nowrap; }
 	.site-stats-value svg { margin-right: .25em; }
@@ -219,6 +226,21 @@ more.addEventListener("click", showMore);`;
 	@media (max-width: 474.98px) {
 		.site-stats-col--views { display: none; }
 		.site-stats-col--reposts { padding-right: .5rem; }
+	}
+	.activity { margin: 0 0 1.5rem; color: var(--muted); font-size: .75rem; font-variant-numeric: tabular-nums; }
+	.activity-years { display: grid; grid-template-columns: repeat(var(--years), 1fr); gap: 2px; margin: 0; padding: 0; list-style: none; }
+	.activity-year { min-width: 0; }
+	/* Top padding leaves room for the tallest bar’s count */
+	.activity-track { display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 7rem; padding-top: 1.25rem; }
+	.activity-bar { flex-shrink: 0; width: 100%; border-radius: 2px 2px 0 0; background: var(--activity); }
+	.activity-count { font-size: .65rem; white-space: nowrap; }
+	.activity-label { display: block; padding-top: .25rem; border-top: 1px solid var(--border); text-align: center; white-space: nowrap; }
+	.activity-label-short { display: none; }
+	.activity-caption { margin-top: .5rem; }
+	@media (max-width: 40em) {
+		.activity-count { display: none; }
+		.activity-label-full { display: none; }
+		.activity-label-short { display: inline; }
 	}
 	:is(.site-stats, .source-links) svg { height: 1em; overflow: visible; vertical-align: -.125em; }
 	.source-links svg { margin-right: .35em; }
@@ -254,6 +276,7 @@ more.addEventListener("click", showMore);`;
 	.post-source--youtube { --accent: var(--youtube); }
 	.post-source--letterboxd { --accent: var(--letterboxd); }
 	.post-source--codepen { --accent: var(--codepen); }
+	.post-source--hackernews { --accent: var(--hackernews); }
 	.post-source--blog { --accent: var(--blog); }
 	.post.post--crosspost {
 		border-left: 3px solid transparent;
@@ -267,6 +290,7 @@ more.addEventListener("click", showMore);`;
 	.post.post--youtube { border-left: 3px solid var(--youtube); }
 	.post.post--letterboxd { border-left: 3px solid var(--letterboxd); }
 	.post.post--codepen { border-left: 3px solid var(--codepen); }
+	.post.post--hackernews { border-left: 3px solid var(--hackernews); }
 	.post.post--blog { border-left: 3px solid var(--blog); }
 	.post-title { margin: .5rem 0 0; font-size: 1.1rem; }
 	.post-title a { color: inherit; text-decoration: none; }
@@ -316,6 +340,7 @@ more.addEventListener("click", showMore);`;
 	.source-link--youtube, .search-result--youtube { --accent: var(--youtube); }
 	.source-link--letterboxd, .search-result--letterboxd { --accent: var(--letterboxd); }
 	.source-link--codepen, .search-result--codepen { --accent: var(--codepen); }
+	.source-link--hackernews, .search-result--hackernews { --accent: var(--hackernews); }
 	.source-link--blog, .search-result--blog { --accent: var(--blog); }
 	.source-link--all { --accent: var(--text); }
 	.search-results { margin: .25rem 0 1rem; }

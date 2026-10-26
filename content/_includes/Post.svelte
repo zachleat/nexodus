@@ -13,13 +13,16 @@
 		npm: "fa-brands fa-npm",
 		youtube: "fa-brands fa-youtube",
 		letterboxd: "fa-brands fa-letterboxd",
-		blog: "fa-solid fa-pen-nib",
+		blog: "fa-regular fa-newspaper",
 		codepen: "fa-brands fa-codepen",
+		hackernews: "fa-brands fa-hacker-news",
 	};
 	const countLabels = [
 		{ key: "likes", label: "like", icon: "fa-regular fa-heart" },
 		{ key: "reposts", label: "repost", icon: "fa-solid fa-retweet" },
 		{ key: "quotes", label: "quote", icon: "fa-solid fa-quote-left" },
+		{ key: "points", label: "point", icon: "fa-solid fa-arrow-up" },
+		{ key: "comments", label: "comment", icon: "fa-regular fa-comments" },
 	];
 
 	// Posts without content (e.g. npm releases) show their description instead
@@ -40,10 +43,6 @@
 		{#each group.posts as p}<a href={p.url} class={["post-source", `post-source--${p.data.metadata.type}`]}>{p.data.sectionTitle}</a>{/each}
 		<a href={post.url}><time datetime={post.date.toISOString()} title={readableDate(post.date)}>{friendlyDate(post.date)}</time></a>
 		{#if replyParent}<span>In reply to <a href={replyParent.url}>{replyParent.data.sectionTitle} post</a></span>{/if}
-		<span class="post-counts">
-			{#if replyCount}<a href="{post.url}#replies-title" title={plural(replyCount, "reply", "replies")}><i class="fa-regular fa-comment"></i><span aria-hidden="true">{replyCount}</span><span class="visually-hidden">{plural(replyCount, "reply", "replies")}</span></a>{/if}
-			{#each countLabels as { key, label, icon }}{#if counts[key]}<span title={plural(counts[key], label)}><i class={icon}></i><span aria-hidden="true">{counts[key]}</span><span class="visually-hidden">{plural(counts[key], label)}</span></span>{/if}{/each}
-		</span>
 	</div>
 	{#if post.data.showTitle}<h2 class="post-title"><a href={post.url}>{post.data.title}</a></h2>{/if}
 	{#if post.data.metadata.media?.featuredImage}<img src={post.data.metadata.media.featuredImage} class="post-image" alt="" loading="lazy" decoding="async">{/if}
@@ -54,14 +53,18 @@
 			<span>{@html renderAuthors(post.data.authors)}</span>
 		</span>
 		<span class="post-links">
-			{#each group.posts as p}<a href={p.data.metadata.url} title="View on {p.data.sectionTitle}"><i class={sourceIcons[p.data.metadata.type]}></i>View original<span class="visually-hidden">{" "}on {p.data.sectionTitle}</span></a>{/each}
+			<span class="post-counts">
+				{#if replyCount}<a href="{post.url}#replies-title" title={plural(replyCount, "reply", "replies")}><i class="fa-regular fa-comment"></i><span aria-hidden="true">{replyCount}</span><span class="visually-hidden">{plural(replyCount, "reply", "replies")}</span></a>{/if}
+				{#each countLabels as { key, label, icon }}{#if counts[key]}<span title={plural(counts[key], label)}><i class={icon}></i><span aria-hidden="true">{counts[key]}</span><span class="visually-hidden">{plural(counts[key], label)}</span></span>{/if}{/each}
+			</span>
+			{#each group.posts as p}<a href={p.data.metadata.url} title="View on {p.data.sectionTitle}"><i class={sourceIcons[p.data.metadata.type]}></i>Original<span class="visually-hidden">{" "}on {p.data.sectionTitle}</span></a>{/each}
 		</span>
 	</div>
 </article>
 <style>
 :global {
 	.post-counts { display: inline-flex; flex-wrap: wrap; gap: .25rem .75rem; }
-	.post-links a { display: inline-flex; align-items: center; gap: .35em; }
+	.post-links > a { display: inline-flex; align-items: center; gap: .35em; }
 	.post-counts svg, .post-links svg { height: 1em; overflow: visible; vertical-align: -.125em; }
 	.post-counts svg { margin-right: .35em; }
 	symbol { overflow: visible; }

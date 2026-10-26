@@ -5,7 +5,8 @@ export const statSources = [
 	{ key: "npm", label: "npm", icon: "fa-brands fa-npm" },
 	{ key: "youtube", label: "YouTube", icon: "fa-brands fa-youtube" },
 	{ key: "letterboxd", label: "Letterboxd", icon: "fa-brands fa-letterboxd" },
-	{ key: "blog", label: "Blog", icon: "fa-solid fa-pen-nib" },
+	{ key: "blog", label: "Blog", icon: "fa-regular fa-newspaper" },
+	{ key: "hackernews", label: "Hacker News", icon: "fa-brands fa-hacker-news" },
 	{ key: "codepen", label: "CodePen", icon: "fa-brands fa-codepen" },
 	{ key: "total", label: "All" },
 ];

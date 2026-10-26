@@ -43,6 +43,8 @@ await runImport("youtubeuser", "UCskGTioqrMBcw8pd14_334A", "content/youtube/11ty
 await runImport("letterboxd", "zachleat", "content/letterboxd");
 await runImport("atom", "https://www.zachleat.com/web/feed/", "content/blog");
 await runImport("atom", "https://www.11ty.dev/blog/feed.xml", "content/blog/11ty");
+await runImport("hackernews", "https://www.zachleat.com", "content/hackernews");
+await runImport("hackernews", "https://www.11ty.dev", "content/hackernews/11ty");
 
 if(process.env.CODEPEN_API_KEY) {
 	await runImport("codepen", "zachleat", "content/codepen");

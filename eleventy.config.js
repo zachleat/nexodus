@@ -127,8 +127,8 @@ export default function(eleventyConfig) {
 					}
 				}
 				let counts = getCounts(posts);
-				// GitHub stars count as likes and forks as reposts
-				let aliases = { stars: "likes", forks: "reposts" };
+				// GitHub stars and Hacker News points count as likes, forks as reposts, and Hacker News comments as replies
+				let aliases = { stars: "likes", forks: "reposts", points: "likes", comments: "replies" };
 				for(let key in counts) {
 					target[aliases[key] || key] += counts[key];
 				}
@@ -149,6 +149,14 @@ export default function(eleventyConfig) {
 			statsByGroups.set(groups, stats);
 		}
 		return statsByGroups.get(groups);
+	});
+	// Post groups per UTC year, including years without posts
+	eleventyConfig.addFilter("getActivity", groups => {
+		let counts = Map.groupBy(groups, group => group.date.getUTCFullYear());
+		let first = Math.min(...counts.keys());
+		let last = Math.max(...counts.keys());
+		let years = Array.from({ length: last - first + 1 }, (_, index) => ({ year: first + index, count: counts.get(first + index)?.length || 0 }));
+		return { years, max: Math.max(...years.map(({ count }) => count)), total: groups.length };
 	});
 	// Groups with the most likes, reposts, quotes, and replies
 	eleventyConfig.addFilter("getPopularGroups", (groups, limit) => {
