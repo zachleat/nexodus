@@ -1,0 +1,47 @@
+{
+	"comments": [
+		{
+			"id": "117287189796011769",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Zearin/117287189651331962",
+			"author": {
+				"name": "Zearin",
+				"url": "https://mastodon.social/@Zearin",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/357/675/789/440/original/d7d4b5bd68dd1357.jpeg"
+			},
+			"date": "2026-09-17T15:54:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Nah. Keep promoting YYYY-MM-DD. 😉 </p><p>Works internationally, without ambiguity, and self-sorts in spreadsheets and directory listings.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117287205591060606",
+			"parentId": "117287189796011769",
+			"url": "https://mastodon.social/@Zearin/117287205425484531",
+			"author": {
+				"name": "Zearin",
+				"url": "https://mastodon.social/@Zearin",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/357/675/789/440/original/d7d4b5bd68dd1357.jpeg"
+			},
+			"date": "2026-09-17T15:58:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Whoops. Just saw the post about the js-yaml update removing support for JS-native Date. </p><p>I defer to your judgment here. Thanks 🙏🏽</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117287220402300582",
+			"parentId": "117287205591060606",
+			"url": "https://fediverse.zachleat.com/@zachleat/117287220359936573",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/306/462/599/186/original/bfb580e375edf4b0.png"
+			},
+			"date": "2026-09-17T16:02:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Zearin\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Zearin</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> a slightly different issue there! We already handle `Date` instances for the special `date` property (whether yaml parses them by default or not is the js-yaml change) and String (previous luxon, now this new package)</p><p>(Most (all, hopefully!) folks won’t even realize js-yaml changed)</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

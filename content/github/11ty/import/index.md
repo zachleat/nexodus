@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::11ty/import
   type: github
   url: https://github.com/11ty/import
-  importHash: 80184b30e34dbc2e
+  importHash: 52368ca81e72a308
 ---
 # `@11ty/import`
 
@@ -189,6 +189,7 @@ npx @11ty/import bluesky @11ty.dev
 -   `devto` (DEV username or organization)
 -   `flickr` (username, NSID, or profile URL, public photos and videos as still images, requires a `FLICKR_API_KEY` environment variable from the [Flickr App Garden](https://www.flickr.com/services/apps/create/))
 -   `ghost` (site URL)
+-   `hackernews` (origin, URL, or domain, the most popular Hacker News stories linking to it, 100 by default or `--limit` up to 500, from the [Algolia Hacker News API](https://hn.algolia.com/api))
 -   `github` (`owner/repo` or repository URL for releases, `owner` or profile URL for a user’s or organization’s repositories, an optional `GITHUB_TOKEN` environment variable raises the rate limit and includes draft releases)
 -   `github-gist` (GitHub username, public gists)
 -   `instagram` (username of a business or creator account, requires an `INSTAGRAM_ACCESS_TOKEN` environment variable for that account from the [Instagram API with Instagram Login](https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login))
@@ -200,6 +201,7 @@ npx @11ty/import bluesky @11ty.dev
 -   `substack` (publication URL, custom domains too, or a `*.substack.com` subdomain name)
 -   `typepad` (Typepad blog URL or domain, optionally with a path, from the Wayback Machine)
 -   `hobix` (Hobix blog URL or domain, from the Wayback Machine)
+-   `tumblr` (blog name, domain, or URL, public posts and reblogs, requires a `TUMBLR_API_KEY` environment variable, the OAuth consumer key from [registering an app](https://www.tumblr.com/oauth/apps), `--posttypes` filters by `text`, `photo`, `quote`, `link`, `chat`, `audio`, `video`, or `answer`)
 -   `twitter` (Twitter/X archive `.zip` file or extracted folder path)
 -   `wayback` (site URL or domain, optionally with a path, from the Internet Archive’s Wayback Machine, links to other imported pages point to their files)
 -   `webmentions` (domain or site URL, data files only, see [Webmentions](#webmentions))
@@ -294,8 +296,11 @@ Some sources also add a `counts` object (e.g. `{ "likes": 12, "reposts": 3, "com
 -   `devto`: `likes` (reactions), `comments`
 -   `substack`: `likes` (reactions), `reposts` (restacks), `comments`
 -   `instagram`: `likes` (unless hidden), `comments`
+-   `hackernews`: `points`, `comments`
+-   `tumblr`: `notes` (likes, reblogs, and replies combined)
 -   `twitter`: `likes`, `reposts` (as of the archive download)
 -   `github` (repositories): `stars`, `forks`, `issues` and `pullRequests` (all-time totals), `openIssues` and `openPullRequests` (these four require a `GITHUB_TOKEN` environment variable)
+-   `github` (releases): `reactions` (all emoji reactions), `thumbsUp`, `thumbsDown`, `laugh`, `hooray`, `confused`, `heart`, `rocket`, `eyes`
 
 Comments deleted upstream are removed when a post is reimported (`--overwrite`). If a comment request fails, existing comments are kept and fetched ones are updated.
 

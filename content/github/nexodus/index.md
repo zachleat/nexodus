@@ -7,12 +7,12 @@ authors:
 date: 2026-10-23T22:15:24.000Z
 metadata:
   name: zachleat/nexodus
-  language: Vue
+  language: Svelte
   homepage: http://zachleat.github.io/nexodus/
   uuid: 11ty/import::github::zachleat/nexodus
   type: github
   url: https://github.com/zachleat/nexodus
-  importHash: 6b103972ce958b24
+  importHash: e524455bf9454b38
 ---
 # Nexodus
 
@@ -30,7 +30,7 @@ Cross-posts of the same text are grouped together.
 
 ## Stack
 
--   Templates use [`@11ty/eleventy-plugin-vue`](https://github.com/11ty/plugin-template-languages/tree/main/vue) (Vue 3).
+-   Templates use [`@11ty/eleventy-plugin-svelte`](https://github.com/11ty/plugin-template-languages/tree/main/svelte) (Svelte 5).
 -   Search uses [Pagefind](https://pagefind.app/).
 -   A GitHub Action imports new posts regularly and deploys to GitHub Pages.
 
