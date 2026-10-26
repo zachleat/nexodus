@@ -182,6 +182,7 @@ export default function(eleventyConfig) {
 	eleventyConfig.addPlugin(fontAwesomePlugin);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.setServerOptions({ port: 8347 });
+	eleventyConfig.addGlobalData("buildTime", () => new Date());
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
 	eleventyConfig.addFilter("readableDate", date => date.toLocaleString("en-US", {
 		dateStyle: "medium",

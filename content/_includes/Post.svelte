@@ -13,6 +13,7 @@
 		npm: "fa-brands fa-npm",
 		youtube: "fa-brands fa-youtube",
 		letterboxd: "fa-brands fa-letterboxd",
+		blog: "fa-solid fa-pen-nib",
 		codepen: "fa-brands fa-codepen",
 	};
 	const countLabels = [
@@ -27,6 +28,8 @@
 	let counts = $derived(getCounts(group.posts));
 	let avatarUrl = $derived(getAvatarUrl(collections.all, post.data.authors?.[0]?.url));
 	let replyCount = $derived(getComments(group.posts).length);
+	// Blog posts link to their Open Graph image instead of showing the full post
+	let openGraphImage = $derived(post.data.metadata.type === "blog" ? `https://v1.opengraph.11ty.dev/${encodeURIComponent(post.data.metadata.url)}/medium/` : undefined);
 
 	function plural(count, singular, pluralForm = `${singular}s`) {
 		return `${count} ${count === 1 ? singular : pluralForm}`;
@@ -44,7 +47,7 @@
 	</div>
 	{#if post.data.showTitle}<h2 class="post-title"><a href={post.url}>{post.data.title}</a></h2>{/if}
 	{#if post.data.metadata.media?.featuredImage}<img src={post.data.metadata.media.featuredImage} class="post-image" alt="" loading="lazy" decoding="async">{/if}
-	<div class="post-content" data-pagefind-body={indexBody ? "" : null}>{#if html?.trim() || !post.data.description}{@html html}{:else}<p>{post.data.description}</p>{/if}</div>
+	<div class="post-content" data-pagefind-body={indexBody ? "" : null}>{#if openGraphImage}<a href={post.data.metadata.url}><img src={openGraphImage} class="post-image" width="1200" height="630" alt={post.data.title} loading="lazy" decoding="async"></a>{:else if html?.trim() || !post.data.description}{@html html}{:else}<p>{post.data.description}</p>{/if}</div>
 	<div class="post-footer">
 		<span class="post-author">
 			{#if avatarUrl}<img src={avatarUrl} class="post-avatar" width="24" height="24" alt="" loading="lazy" decoding="async">{/if}

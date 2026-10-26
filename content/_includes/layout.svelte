@@ -3,14 +3,20 @@
 	import SiteStats from "./SiteStats.svelte";
 	import { statSources } from "./sources.js";
 
-	let { title, sourcePage, page, collections, content } = $props();
-	const { getBundle, getSiteStats, htmlBaseUrl } = getContext("functions");
+	let { title, sourcePage, page, collections, content, buildTime } = $props();
+	const { getBundle, getSiteStats, htmlBaseUrl, readableDate } = getContext("functions");
 
 	const pageTitle = "Nexodus Archive";
 	let fullTitle = $derived(title ? `${title} — ${pageTitle}` : pageTitle);
 	let siteStats = $derived(collections?.postGroups?.length ? getSiteStats(collections.postGroups) : undefined);
 	// Sources with posts, labeled by the Pagefind `source` filter value
 	let postSources = $derived(statSources.filter(({ key }) => key !== "total" && siteStats?.[key]));
+	// Time since the build, e.g. “3 hours ago”
+	const buildTimeScript = `const time = document.querySelector(".build-time");
+const seconds = (new Date(time.dateTime) - Date.now()) / 1000;
+const units = [["year", 31536000], ["month", 2592000], ["day", 86400], ["hour", 3600], ["minute", 60], ["second", 1]];
+const [unit, size] = units.find(([, size]) => Math.abs(seconds) >= size) || units.at(-1);
+document.querySelector(".build-time-ago").textContent = \` (\${new Intl.RelativeTimeFormat("en-US", { numeric: "auto" }).format(Math.round(seconds / size), unit)})\`;`;
 	let searchScript = $derived.by(() => {
 		let keys = Object.fromEntries(postSources.map(({ key, label }) => [label, key]));
 		return `const base = ${JSON.stringify(htmlBaseUrl("/"))};
@@ -101,7 +107,7 @@ more.addEventListener("click", showMore);`;
 					<a href="/" class="site-title">{pageTitle}</a>
 					<nav aria-label="Site"><a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>Popular</a></nav>
 				</div>
-				<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, and Letterboxd.</p>
+				<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, and blogs.</p>
 				<nav class="source-links" aria-label="Sources">
 					<a href="/" class="source-link source-link--all" aria-current={page.url === "/" ? "page" : null}><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{siteStats.total.posts.toLocaleString("en-US")}</span></a>
 					{#each postSources as { key, label, icon }}<a href="/{key}/" class={["source-link", `source-link--${key}`]} aria-current={sourcePage?.type === key ? "page" : null}><i class={icon}></i>{label} <span class="source-link-count">{siteStats[key].posts.toLocaleString("en-US")}</span></a>{/each}
@@ -120,9 +126,11 @@ more.addEventListener("click", showMore);`;
 		<main class="wrap">{@html content}</main>
 		<footer class="site-footer wrap">
 			{#if page.url !== "/popular/"}<SiteStats />{/if}
+			<p>Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
 			<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 		</footer>
 		<div>{@html getBundle("fontawesome")}</div>
+		{@html `<script type="module">${buildTimeScript}<\/script>`}
 	</body>
 </html>
 <style>
@@ -142,6 +150,7 @@ more.addEventListener("click", showMore);`;
 		--youtube: #e00000;
 		--letterboxd: #00a85a;
 		--codepen: #47484a;
+		--blog: #c2410c;
 		--radius: 12px;
 	}
 	@media (prefers-color-scheme: dark) {
@@ -158,6 +167,7 @@ more.addEventListener("click", showMore);`;
 			--youtube: #ff4e45;
 			--letterboxd: #40bcf4;
 			--codepen: #b7b7b7;
+			--blog: #fb8a4c;
 		}
 	}
 	* { box-sizing: border-box; }
@@ -188,6 +198,7 @@ more.addEventListener("click", showMore);`;
 	.site-stats :is(th, td):last-child { padding-right: .5rem; }
 	.site-stats :is(tbody, tfoot) th { font-weight: 600; }
 	.site-stats th a { color: inherit; }
+	.site-stats :is(tbody, tfoot) tr { border-top: 1px solid var(--border); }
 	.site-stats--total { background: color-mix(in srgb, var(--text) 3%, transparent); }
 	.site-stats--total th { color: var(--text); }
 	.site-stats--bluesky th { color: var(--bluesky); }
@@ -197,11 +208,17 @@ more.addEventListener("click", showMore);`;
 	.site-stats--youtube th { color: var(--youtube); }
 	.site-stats--letterboxd th { color: var(--letterboxd); }
 	.site-stats--codepen th { color: var(--codepen); }
+	.site-stats--blog th { color: var(--blog); }
 	.site-stats :is(time, .site-stats-value) { white-space: nowrap; }
 	.site-stats-value svg { margin-right: .25em; }
+	.site-stats thead svg + svg { margin-left: .25em; }
 	@media (max-width: 40em) {
 		.site-stats { font-size: .75rem; }
 		.site-stats :is(th, td) { padding-left: .5rem; }
+	}
+	@media (max-width: 474.98px) {
+		.site-stats-col--views { display: none; }
+		.site-stats-col--reposts { padding-right: .5rem; }
 	}
 	:is(.site-stats, .source-links) svg { height: 1em; overflow: visible; vertical-align: -.125em; }
 	.source-links svg { margin-right: .35em; }
@@ -237,6 +254,7 @@ more.addEventListener("click", showMore);`;
 	.post-source--youtube { --accent: var(--youtube); }
 	.post-source--letterboxd { --accent: var(--letterboxd); }
 	.post-source--codepen { --accent: var(--codepen); }
+	.post-source--blog { --accent: var(--blog); }
 	.post.post--crosspost {
 		border-left: 3px solid transparent;
 		background: linear-gradient(var(--surface), var(--surface)) padding-box, linear-gradient(var(--bluesky), var(--fediverse)) border-box;
@@ -249,6 +267,7 @@ more.addEventListener("click", showMore);`;
 	.post.post--youtube { border-left: 3px solid var(--youtube); }
 	.post.post--letterboxd { border-left: 3px solid var(--letterboxd); }
 	.post.post--codepen { border-left: 3px solid var(--codepen); }
+	.post.post--blog { border-left: 3px solid var(--blog); }
 	.post-title { margin: .5rem 0 0; font-size: 1.1rem; }
 	.post-title a { color: inherit; text-decoration: none; }
 	.post-image { display: block; margin-top: .75rem; }
@@ -297,6 +316,7 @@ more.addEventListener("click", showMore);`;
 	.source-link--youtube, .search-result--youtube { --accent: var(--youtube); }
 	.source-link--letterboxd, .search-result--letterboxd { --accent: var(--letterboxd); }
 	.source-link--codepen, .search-result--codepen { --accent: var(--codepen); }
+	.source-link--blog, .search-result--blog { --accent: var(--blog); }
 	.source-link--all { --accent: var(--text); }
 	.search-results { margin: .25rem 0 1rem; }
 	.search-message { margin: 0 0 1rem; font-size: .9rem; color: var(--muted); }
