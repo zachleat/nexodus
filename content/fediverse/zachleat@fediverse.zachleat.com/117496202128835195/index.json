@@ -64,11 +64,24 @@
 			"date": "2026-10-25T03:44:23.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> brb upgrading the diaper pail in the baby’s room</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117502063751916060",
+			"parentId": 0,
+			"url": "https://mastodon.social/@chrisfinazzo/117502063172603370",
+			"author": {
+				"name": "Chris Finazzo",
+				"url": "https://mastodon.social/@chrisfinazzo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/526/160/762/976/693/original/d4989b5b8cc742dc.jpg"
+			},
+			"date": "2026-10-25T14:39:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
 		"likes": 13,
-		"comments": 2,
+		"comments": 3,
 		"via": "fediverse"
 	}
 }
