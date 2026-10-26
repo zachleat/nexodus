@@ -2,6 +2,8 @@ import { Importer } from "@11ty/import";
 
 // Optional source types to import, e.g. `npm run import -- github npm`
 const sources = process.argv.slice(2).filter(arg => !arg.startsWith("--"));
+// Only import recent entries, e.g. `npm run import -- --within=*` for everything
+const within = process.argv.find(arg => arg.startsWith("--within="))?.slice("--within=".length) || "90d";
 
 async function runImport(type, target, output) {
 	if(sources.length && !sources.includes(type)) {
@@ -22,6 +24,7 @@ async function runImport(type, target, output) {
 	let entries = await importer.getEntries({
 		contentType: "markdown",
 		target: "fs",
+		within,
 	});
 	await importer.toFiles(entries);
 	importer.logResults();

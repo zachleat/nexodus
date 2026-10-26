@@ -211,7 +211,7 @@ more.addEventListener("click", showMore);`;
 	.site-stats--blog th { color: var(--blog); }
 	.site-stats :is(time, .site-stats-value) { white-space: nowrap; }
 	.site-stats-value svg { margin-right: .25em; }
-	.site-stats thead svg + svg { margin-left: .25em; }
+	.site-stats-icon-separator { margin-inline: .2em; }
 	@media (max-width: 40em) {
 		.site-stats { font-size: .75rem; }
 		.site-stats :is(th, td) { padding-left: .5rem; }

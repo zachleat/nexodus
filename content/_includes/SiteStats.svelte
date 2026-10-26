@@ -50,7 +50,7 @@
 	<div class="site-stats-wrap">
 		<table class="site-stats">
 			<thead>
-				<tr><td></td><th scope="col" title="Since"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Since</span></th>{#each statLabels as { key, plural, icon }}<th scope="col" class="site-stats-col--{key}" title={plural}>{#each [icon].flat() as iconClass}<i class={iconClass}></i>{/each}<span class="visually-hidden">{plural}</span></th>{/each}</tr>
+				<tr><td></td><th scope="col" title="Since"><i class="fa-regular fa-calendar"></i><span class="visually-hidden">Since</span></th>{#each statLabels as { key, plural, icon }}<th scope="col" class="site-stats-col--{key}" title={plural}>{#each [icon].flat() as iconClass, index}{#if index}<span class="site-stats-icon-separator" aria-hidden="true">/</span>{/if}<i class={iconClass}></i>{/each}<span class="visually-hidden">{plural}</span></th>{/each}</tr>
 			</thead>
 			<!-- Per-source rows, with the All row in the table footer -->
 			<tbody>
