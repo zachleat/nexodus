@@ -121,13 +121,12 @@ more.addEventListener("click", showMore);`;
 						<button type="button" class="search-more" hidden>Load more results</button>
 					</div>
 				</form>
-				{#if page.url === "/popular/"}<SiteStats />{/if}
+				{#if page.url === "/popular/"}<SiteStats /><Activity groups={collections.postGroups} />{/if}
 			</div>
 		</header>
 		<main class="wrap">{@html content}</main>
 		<footer class="site-footer wrap">
-			{#if page.url !== "/popular/"}<SiteStats />{/if}
-			<Activity groups={collections.postGroups} />
+			{#if page.url !== "/popular/"}<SiteStats /><Activity groups={collections.postGroups} />{/if}
 			<p>Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
 			<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 		</footer>
@@ -197,7 +196,7 @@ more.addEventListener("click", showMore);`;
 	ol.feed { margin: 0; padding: 0; list-style: none; }
 	.site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
 	.site-stats-wrap { margin-bottom: 1.5rem; overflow-x: auto; }
-	.site-header .site-stats-wrap { margin: 1rem 0 0; }
+	.site-header .site-stats-wrap { margin: 1rem 0 0; font-size: .85rem; }
 	.site-stats { width: 100%; border-collapse: collapse; color: var(--muted); font-variant-numeric: tabular-nums; }
 	.site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; vertical-align: top; }
 	.site-stats :is(th, td):first-child { padding-left: .5rem; text-align: left; }
@@ -227,6 +226,7 @@ more.addEventListener("click", showMore);`;
 		.site-stats-col--views { display: none; }
 		.site-stats-col--reposts { padding-right: .5rem; }
 	}
+	.site-header .activity { margin: 1rem 0 0; }
 	.activity { margin: 0 0 1.5rem; color: var(--muted); font-size: .75rem; font-variant-numeric: tabular-nums; }
 	.activity-years { display: grid; grid-template-columns: repeat(var(--years), 1fr); gap: 2px; margin: 0; padding: 0; list-style: none; }
 	.activity-year { min-width: 0; }
