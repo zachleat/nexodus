@@ -1,0 +1,153 @@
+{
+	"comments": [
+		{
+			"id": "116620165483689770",
+			"parentId": 0,
+			"url": "https://neighborhood.11ty.dev/@11ty/116620165483689770",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-05-22T20:41:45.548Z",
+			"content": "<p>(independent of any specific site generator or tool)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620249906279898",
+			"parentId": 0,
+			"url": "https://notes.kvibber.com/@kelson/statuses/01KS8QZMTBZY59NKCYS3XJT2SM",
+			"author": {
+				"name": "Kelson",
+				"url": "https://notes.kvibber.com/@kelson",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/478/807/479/883/196/original/f542bd38a70698c1.png"
+			},
+			"date": "2026-05-22T21:03:12.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> I use a shell script that builds the 11ty site and rsyncs it to the server. Rarely more than a minute, unless I'm building on my PineTab2 (which can do it, but is slow as heck)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620293262915770",
+			"parentId": 0,
+			"url": "https://mastodon.design/@dobody/116620293218652784",
+			"author": {
+				"name": "Dobody 🇺🇦🍉",
+				"url": "https://mastodon.design/@dobody",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/399/946/799/173/165/original/529eebaa387e1f8f.jpg"
+			},
+			"date": "2026-05-22T21:14:14.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> is this a lowkey way to see the average sizes of websites made with 11ty? :D either way the build is near-instant for me, kudos on that!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620297731057322",
+			"parentId": "116620293262915770",
+			"url": "https://neighborhood.11ty.dev/@11ty/116620297731057322",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-05-22T21:15:23.486Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.design/@dobody\" class=\"u-url mention\">@<span>dobody</span></a></span> working on some deployment improvements! faster faster faster!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620301118761571",
+			"parentId": "116620249906279898",
+			"url": "https://neighborhood.11ty.dev/@11ty/116620301118761571",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-05-22T21:16:15.177Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://notes.kvibber.com/@kelson\" class=\"u-url mention\">@<span>kelson</span></a></span> do you have the 4GB ram version or the 8GB?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620369524263764",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/116620369463076773",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/298/945/180/699/original/d0948c8298e02724.png"
+			},
+			"date": "2026-05-22T21:33:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> 23 sec for the 11ty bundle build, and then just under a minute total (incl that 23 sec) to run a pagefind index and then use wrangler to upload the site to Cloudflare. Mucho cache savings in all that.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620463102079717",
+			"parentId": "116620369524263764",
+			"url": "https://neighborhood.11ty.dev/@11ty/116620463102079717",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-05-22T21:57:26.847Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> we love a finely tuned cache 👍</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620885106643290",
+			"parentId": 0,
+			"url": "https://toots.inbutts.lol/@shnizmuffin/116620885063269169",
+			"author": {
+				"name": "ShnizmuffiN",
+				"url": "https://toots.inbutts.lol/@shnizmuffin",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/399/958/532/210/455/original/2058cf7c4efb6b22.png"
+			},
+			"date": "2026-05-22T23:44:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> build step? ~2 min.  Approval gate to push to prod? LMAO. Deploy step? ~10 sec.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116620969789472226",
+			"parentId": "116620301118761571",
+			"url": "https://notes.kvibber.com/@kelson/statuses/01KS92EVQ59ZAMYAV7ZRKQFCT8",
+			"author": {
+				"name": "Kelson",
+				"url": "https://notes.kvibber.com/@kelson",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/478/807/479/883/196/original/f542bd38a70698c1.png"
+			},
+			"date": "2026-05-23T00:06:16.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> 8GB. I usually run LXQt to keep the desktop overhead as low as possible.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116625268249587953",
+			"parentId": 0,
+			"url": "https://mastodon.social/@pepelsbey/116625268181946611",
+			"author": {
+				"name": "Vadim Makeev",
+				"url": "https://mastodon.social/@pepelsbey",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/115/401/002/706/original/f946785695b6a845.png"
+			},
+			"date": "2026-05-23T18:19:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> It used to be much longer, but I started to cache everything (test build on GitHub Actions, production builds on Netlify), and now it’s always under 30 seconds.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116631807360161247",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@d3v1an7/116631807346224535",
+			"author": {
+				"name": "d3v1an7",
+				"url": "https://infosec.exchange/@d3v1an7",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/123/755/889/229/original/6e7d957197290396.png"
+			},
+			"date": "2026-05-24T22:02:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> <br>we do a 'full build' at night which takes longer than 10 min, so we implemented a custom 'incremental'  build (bool in frontmatter) that allows newsroom publishes during the day to stay snappy. those finish in less than a minute.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"reposts": 7,
+		"comments": 7,
+		"via": "fediverse"
+	}
+}

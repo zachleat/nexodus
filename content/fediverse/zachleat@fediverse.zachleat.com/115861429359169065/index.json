@@ -61,6 +61,19 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "115861609000707637",
+			"parentId": 0,
+			"url": "https://front-end.social/@mayank/115861608991649951",
+			"author": {
+				"name": "Mayank",
+				"url": "https://front-end.social/@mayank",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/462/864/608/665/271/original/8b5dc61c243a9498.jpg"
+			},
+			"date": "2026-01-08T21:30:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yes, thank you! it really bothers me that one guy gets to control the narrative and blames it on some external factor.</p><p>they had ~3 years to react, it surely didn't come as a surprise.</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "115863945074497801",
 			"parentId": 0,
 			"url": "https://mastodon.social/@rikschennink/115863945018338603",
@@ -71,6 +84,19 @@
 			},
 			"date": "2026-01-09T07:24:56.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> when a billion dollar enterprise barricades your store entrance and gives a scrambled version of your product away for free, what could you do about it?</p><p>I’m asking because I might be next in line, luckily I’ll only have to fire myself.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115865849816964485",
+			"parentId": "115861609000707637",
+			"url": "https://fediverse.zachleat.com/@zachleat/115865849816964485",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-01-09T15:29:21.904Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@mayank\" class=\"u-url mention\">@<span>mayank</span></a></span> I don’t have their ARR numbers but I do believe it’s in the millions (still)</p>",
 			"via": "fediverse"
 		}
 	],

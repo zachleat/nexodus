@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "116836023614901005",
+			"parentId": 0,
+			"url": "https://mastodon.social/@scrwd/116836023566929614",
+			"author": {
+				"name": "Jon",
+				"url": "https://mastodon.social/@scrwd",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/340/489/288/455/original/8af72268a5b88e5a.png"
+			},
+			"date": "2026-06-29T23:37:18.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> what's the story behind forking (and improving) Nunjucks? The README says it's a temporary fork… where is it expected to go?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116839775424277478",
+			"parentId": "116836023614901005",
+			"url": "https://neighborhood.11ty.dev/@11ty/116839775424277478",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-06-30T15:31:27.309Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\">@<span>scrwd</span></a></span> it started as a temporary fork but I’ll remove that. We’re all in now.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 17,
+		"reposts": 3,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

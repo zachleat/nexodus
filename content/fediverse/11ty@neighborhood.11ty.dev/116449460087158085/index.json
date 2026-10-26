@@ -1,0 +1,62 @@
+{
+	"comments": [
+		{
+			"id": "116454356470092869",
+			"parentId": 0,
+			"url": "https://blobfox.coffee/@Ember/116454356356879996",
+			"author": {
+				"name": "Ember is so tired of people. :catplant:​",
+				"url": "https://blobfox.coffee/@Ember",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/364/480/961/279/original/437ba41ca5b5aa89.png"
+			},
+			"date": "2026-04-23T13:54:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> \"no lock in\" does that mean build awesome pro will be open source (or at least something like visible source) and selfhostable?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116454822341472805",
+			"parentId": "116454356470092869",
+			"url": "https://neighborhood.11ty.dev/@11ty/116454822341472805",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-04-23T15:52:49.419Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://blobfox.coffee/@Ember\" class=\"u-url mention\">@<span>Ember</span></a></span> the initial Pro product will be the editing piece running on our infrastructure (and you can host your project on our infrastructure too, optionally). So it’s unlikely we’ll allow folks to self host that part, but you will always be able to build and host your project anywhere you’d like even after you’re using Pro because Pro will be a Progressive Enhancement</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116454968813667393",
+			"parentId": "116454822341472805",
+			"url": "https://blobfox.coffee/@Ember/116454968703774622",
+			"author": {
+				"name": "Ember is so tired of people. :catplant:​",
+				"url": "https://blobfox.coffee/@Ember",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/364/480/961/279/original/437ba41ca5b5aa89.png"
+			},
+			"date": "2026-04-23T16:30:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> hm, okay (is even paid binaries off the table?) then it would be nice to have some sort of assurance in case FA goes under or gets bought</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116455820367183319",
+			"parentId": "116454968813667393",
+			"url": "https://neighborhood.11ty.dev/@11ty/116455820367183319",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-04-23T20:06:38.082Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://blobfox.coffee/@Ember\" class=\"u-url mention\">@<span>Ember</span></a></span> I wouldn’t say anything is “off the table” as we iterating, building, and accepting all feedback! I’ll pass your concerns along!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 11,
+		"reposts": 7,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

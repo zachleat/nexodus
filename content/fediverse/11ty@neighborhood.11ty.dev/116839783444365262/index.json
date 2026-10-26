@@ -1,0 +1,156 @@
+{
+	"comments": [
+		{
+			"id": "116839806090360621",
+			"parentId": 0,
+			"url": "https://mastodon.social/@damianwalsh/116839805852448833",
+			"author": {
+				"name": "damianwalsh",
+				"url": "https://mastodon.social/@damianwalsh",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/025/088/391/617/original/1531614660d1935f.jpg"
+			},
+			"date": "2026-06-30T15:39:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Get in!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116839809813506780",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/116839809297694511",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/299/290/886/036/original/984f3271be9d0e3e.png"
+			},
+			"date": "2026-06-30T15:40:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Dear god... I'm old.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116839814331624655",
+			"parentId": "116839809813506780",
+			"url": "https://neighborhood.11ty.dev/@11ty/116839814331624655",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-06-30T15:41:20.988Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\">@<span>khalidabuhakmeh</span></a></span> may all stable software last this long</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116839904040825985",
+			"parentId": 0,
+			"url": "https://social.dzajew.xyz/@dzajew/statuses/01KWCMC3WY9Q65XSW3YD0HV0HY",
+			"private": true,
+			"date": "2026-06-30T16:04:09.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "116839910666381790",
+			"parentId": "116839904040825985",
+			"url": "https://neighborhood.11ty.dev/@11ty/116839910666381790",
+			"private": true,
+			"date": "2026-06-30T16:05:50.940Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "116839914629456329",
+			"parentId": "116839806090360621",
+			"url": "https://neighborhood.11ty.dev/@11ty/116839914629456329",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-06-30T16:06:51.413Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@damianwalsh\" class=\"u-url mention\">@<span>damianwalsh</span></a></span> …wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116840802471666429",
+			"parentId": 0,
+			"url": "https://mastodon.social/@benkenawell/116840802313256224",
+			"author": {
+				"name": "ben",
+				"url": "https://mastodon.social/@benkenawell",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/115/647/054/944/973/951/original/8c8cc1275b57439a.png"
+			},
+			"date": "2026-06-30T19:52:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> seems exciting! Any public plans on what you're going to change?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116841263000972430",
+			"parentId": "116840802471666429",
+			"url": "https://neighborhood.11ty.dev/@11ty/116841263000972430",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-06-30T21:49:45.926Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@benkenawell\" class=\"u-url mention\">@<span>benkenawell</span></a></span> the changes we’ve already implemented are documented on the readme: <a href=\"https://github.com/11ty/nunjucks/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/11ty/nunjucks/</span><span class=\"invisible\"></span></a> and on the releases page! <a href=\"https://github.com/11ty/nunjucks/releases\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/nunjucks/relea</span><span class=\"invisible\">ses</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116841908522720374",
+			"parentId": "116841263000972430",
+			"url": "https://mastodon.social/@benkenawell/116841908496634389",
+			"author": {
+				"name": "ben",
+				"url": "https://mastodon.social/@benkenawell",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/115/647/054/944/973/951/original/8c8cc1275b57439a.png"
+			},
+			"date": "2026-07-01T00:33:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> oh awesome, thank you! I don't know how I missed that earlier</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116843531128836953",
+			"parentId": "116841908522720374",
+			"url": "https://typo.social/@letterror/116843531081083145",
+			"author": {
+				"name": "Erik",
+				"url": "https://typo.social/@letterror",
+				"avatarUrl": "https://neighborhood.11ty.dev/avatars/original/missing.png"
+			},
+			"date": "2026-07-01T07:26:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@benkenawell\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>benkenawell</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> I just started using eleventy and Nunjucks — what does this mean?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116844276411144153",
+			"parentId": "116843531128836953",
+			"url": "https://mastodon.social/@benkenawell/116844276279357787",
+			"author": {
+				"name": "ben",
+				"url": "https://mastodon.social/@benkenawell",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/115/647/054/944/973/951/original/8c8cc1275b57439a.png"
+			},
+			"date": "2026-07-01T10:36:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@letterror\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>letterror</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> what do you want to know more about? Nunjucks is a great templating library that hasn't seen much love in years. 11ty has forked it, and it looks like they're removing some of the cruft they don't need for their project. I'm excited to see what it brings cause I like Nunjucks a lot and there are other improvements I think would be great.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116844748256520437",
+			"parentId": "116843531128836953",
+			"url": "https://mastodon.social/@benkenawell/116844748212414899",
+			"author": {
+				"name": "ben",
+				"url": "https://mastodon.social/@benkenawell",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/115/647/054/944/973/951/original/8c8cc1275b57439a.png"
+			},
+			"date": "2026-07-01T12:36:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://typo.social/@letterror\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>letterror</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> for a new user of nunjucks and 11ty, I think you're in a great place to start!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 21,
+		"reposts": 8,
+		"comments": 4,
+		"via": "fediverse"
+	}
+}

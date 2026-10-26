@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "116172142742469225",
+			"parentId": 0,
+			"url": "https://yakshed.social/@moonglum/statuses/01KJWZ5GSR3522XSXJWS6B7T07",
+			"author": {
+				"name": "Lucas Dohmen",
+				"url": "https://yakshed.social/@moonglum",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/115/968/573/727/933/543/original/891cb93b5178194e.jpeg"
+			},
+			"date": "2026-03-04T17:43:40.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Congratulations ❤️ Will eleventy 4 be the last version of eleventy or the first version of build awesome?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116172421981860289",
+			"parentId": "116172142742469225",
+			"url": "https://neighborhood.11ty.dev/@11ty/116172421981860289",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-03-04T18:54:41.898Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yakshed.social/@moonglum\" class=\"u-url mention\">@<span>moonglum</span></a></span> For convenience, Build Awesome will start at version 4 (and will retain compatibility with Eleventy plugins/ecosystem and CLI commands)</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 18,
+		"reposts": 7,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

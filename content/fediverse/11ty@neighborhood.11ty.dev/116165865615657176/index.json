@@ -1,0 +1,141 @@
+{
+	"comments": [
+		{
+			"id": "116165876840928807",
+			"parentId": 0,
+			"url": "https://social.lol/@robb/116165876798818651",
+			"author": {
+				"name": "Robb Knight",
+				"url": "https://social.lol/@robb",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/074/383/902/947/original/c682bcda9ee90d82.jpg"
+			},
+			"date": "2026-03-03T15:10:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> HOW SOON THOUGH</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116165987427362046",
+			"parentId": "116165876840928807",
+			"url": "https://hachyderm.io/@kpwags/116165987381202372",
+			"author": {
+				"name": "Keith Wagner :csharp:",
+				"url": "https://hachyderm.io/@kpwags",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/305/094/253/347/original/335f1835b85df8f6.jpeg"
+			},
+			"date": "2026-03-03T15:38:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@robb\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>robb</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> WHEN WILL THEN BE NOW!?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116166182414195859",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/116166182381410801",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/298/945/180/699/original/d0948c8298e02724.png"
+			},
+			"date": "2026-03-03T16:27:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> That is one awesome possum!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116166517193089509",
+			"parentId": 0,
+			"url": "https://thoresson.social/@anders/116166517177841137",
+			"author": {
+				"name": "Anders Thoresson",
+				"url": "https://thoresson.social/@anders",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/415/769/242/611/243/original/4b0c10a255dea97c.png"
+			},
+			"date": "2026-03-03T17:53:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Trying to understand subscription vs license: If I back the project I get updates for as long as my subscription runs, and when that ends I can still selfhost with all the Peo features I had at that time? And update the Free part as new versions are released?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116166526663522627",
+			"parentId": "116166517193089509",
+			"url": "https://fediverse.zachleat.com/@zachleat/116166526620116860",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/306/462/599/186/original/bfb580e375edf4b0.png"
+			},
+			"date": "2026-03-03T17:55:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>anders</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> *some* of the Pro features are runtime services, and will require an active subscription to have access to those. For example: collaboration will require an active sub. But the snapshot of your web site will be fully exportable and usable on any host if you decide to cancel</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116166545463134317",
+			"parentId": "116165987427362046",
+			"url": "https://neighborhood.11ty.dev/@11ty/116166545463134317",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2026-03-03T18:00:13.341Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@kpwags\" class=\"u-url mention\">@<span>kpwags</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@robb\" class=\"u-url mention\">@<span>robb</span></a></span> now now!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116166552377123383",
+			"parentId": "116166526663522627",
+			"url": "https://thoresson.social/@anders/116166548064649513",
+			"author": {
+				"name": "Anders Thoresson",
+				"url": "https://thoresson.social/@anders",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/415/769/242/611/243/original/4b0c10a255dea97c.png"
+			},
+			"date": "2026-03-03T18:00:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span>  Thanks!</p><p>As a sidenote: When I published my latest post on my blog last weekend, I realized I haven’t updated 11ty once since I launched my site, which was at least 18 months ago. It just builds and gets on with it. Amazing!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116166559318326715",
+			"parentId": "116166552377123383",
+			"url": "https://fediverse.zachleat.com/@zachleat/116166556191676824",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/306/462/599/186/original/bfb580e375edf4b0.png"
+			},
+			"date": "2026-03-03T18:02:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>anders</span></a></span> We love to see it!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116167940761577335",
+			"parentId": "116166526663522627",
+			"url": "https://social.lol/@ewie/116167940738029237",
+			"author": {
+				"name": "evie",
+				"url": "https://social.lol/@ewie",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/187/012/415/238/original/bda25de5ebe9f360.jpeg"
+			},
+			"date": "2026-03-03T23:55:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>anders</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> will it be possible to offer a version of those pro features without requiring an active subscription (or relying on your hardware)? i don’t use 11ty but i’m overall involved in the ecosystem (since i’m using a js ssg that’s based on 11ty) and i would like for this rising tide to lift all ships. overall feeling unconvinced seeing y’all having people fund a subscription service that they’ll have to pay for afterwards. like the features are cool and i know that base will stay the same, but all this isn’t going to have *no* impact on the ecosystem.</p><p>i guess my point is that i am imagining the best case and the worst case future for this and i don’t feel great thinking the realistic future is that base 11ty doesn’t languish but also this rising tide will only lift the ships of those willing to pay for a subscription.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116171450113682855",
+			"parentId": "116167940761577335",
+			"url": "https://fediverse.zachleat.com/@zachleat/116171450053697808",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/306/462/599/186/original/bfb580e375edf4b0.png"
+			},
+			"date": "2026-03-04T14:47:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@ewie\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ewie</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://thoresson.social/@anders\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>anders</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> importantly this funding will go towards improving the free version of Build Awesome/11ty, but the plan right now is that the self hosted version of your site will not include access to the Pro runtime services (but those are enhancements and will be decoupled from the self hosted version). Hopefully that answers your question!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 15,
+		"reposts": 6,
+		"comments": 3,
+		"quotes": 1,
+		"via": "fediverse"
+	}
+}

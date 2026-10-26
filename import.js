@@ -33,8 +33,6 @@ async function runImport(type, target, output) {
 await runImport("bluesky", "@zachleat.com", "content/bluesky");
 await runImport("bluesky", "@11ty.dev", "content/bluesky");
 await runImport("fediverse", "zachleat@fediverse.zachleat.com", "content/fediverse");
-// The access token only works on fediverse.zachleat.com
-delete process.env.MASTODON_ACCESS_TOKEN;
 await runImport("fediverse", "11ty@neighborhood.11ty.dev", "content/fediverse");
 await runImport("github", "zachleat", "content/github");
 // Subfolder avoids repo name collisions with zachleat/*

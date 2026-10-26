@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "115724387622740763",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/115724387567563474",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/021/979/634/611/original/2fe58b409aaad10c.jpg"
+			},
+			"date": "2025-12-15T15:53:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> based on your build performance tests, can I assume it would slow down builds for sites using only Markdown and Nunjucks (like mine)? 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115724464410438522",
+			"parentId": "115724387622740763",
+			"url": "https://neighborhood.11ty.dev/@11ty/115724464410438522",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-12-15T16:13:11.809Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> naw, that difference was statistically negligible (but please let me know if you see otherwise!)</p><p>you will be able to A/B test using the ENV variable</p><p>I think the biggest wins will come during --watch/--serve</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115724473738438018",
+			"parentId": "115724464410438522",
+			"url": "https://mamot.fr/@nhoizey/115724473703064993",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/021/979/634/611/original/2fe58b409aaad10c.jpg"
+			},
+			"date": "2025-12-15T16:15:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> I was joking, the difference is really small, I guess each project will have different results, and I don't think my projects are representative.</p><p>I'll try to A/B test when I make the switch! 👍</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"reposts": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

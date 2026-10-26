@@ -66,6 +66,32 @@
 			"via": "fediverse"
 		},
 		{
+			"id": "116088223722224489",
+			"parentId": 0,
+			"url": "https://mastodon.social/@patrickfulton/116088223679236809",
+			"author": {
+				"name": "Patrick Fulton",
+				"url": "https://mastodon.social/@patrickfulton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/306/995/308/676/811/original/7964663418ceb366.png"
+			},
+			"date": "2026-02-17T22:01:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> You're absolutely right! I'll make that change now!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116088227816432000",
+			"parentId": "116088223722224489",
+			"url": "https://fediverse.zachleat.com/@zachleat/116088227816432000",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-02-17T22:03:00.890Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@patrickfulton\" class=\"u-url mention\">@<span>patrickfulton</span></a></span> *eyes narrow*</p>",
+			"via": "fediverse"
+		},
+		{
 			"id": "116090137617774714",
 			"parentId": 0,
 			"url": "https://vickerson.me/@josh/116090137608806178",

@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "115731516002078443",
+			"parentId": 0,
+			"url": "https://meow.social/@petafloppa/115731515981497878",
+			"author": {
+				"name": "Peta :neofox_woozy: foppa",
+				"url": "https://meow.social/@petafloppa",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/115/583/993/974/297/732/original/5b97b47ac7f74235.jpg"
+			},
+			"date": "2025-12-16T22:06:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Thanks for the TypeScript support!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115731559408016894",
+			"parentId": "115731516002078443",
+			"url": "https://neighborhood.11ty.dev/@11ty/115731559408016894",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-12-16T22:17:32.881Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://meow.social/@petafloppa\" class=\"u-url mention\">@<span>petafloppa</span></a></span> planning on adding stock in Eleventy v4!</p><p>Subscribe to <a href=\"https://github.com/11ty/eleventy/issues/4195\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/4195</span></a> and <a href=\"https://github.com/11ty/eleventy/issues/4194\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/issue</span><span class=\"invisible\">s/4194</span></a>!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}
