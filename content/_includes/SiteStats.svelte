@@ -40,7 +40,7 @@
 {#snippet row({ key, label, icon })}
 	<tr class="site-stats--{key}">
 		{#if icon}<th scope="row" title={label}><a href="/{key}/"><i class={icon}></i><span class="visually-hidden">{label}</span></a></th>{:else}<th scope="row">{label}</th>{/if}
-		{#each statLabels as stat}<td>{#each getStatCell(key, stat.key) as { icon, title, value }, index}{#if index}<br>{/if} {#if icon}<i class={icon} {title}></i>{/if} {value.toLocaleString("en-US")}{/each}</td>{/each}
+		{#each statLabels as stat}<td>{#each getStatCell(key, stat.key) as { icon, title, value }, index}{#if index}<br>{/if}<span class="site-stats-value">{#if icon}<i class={icon} {title}></i> {/if}{value.toLocaleString("en-US")}</span>{/each}</td>{/each}
 		<td><time datetime={siteStats[key].oldest.toISOString()}>{shortDate(siteStats[key].oldest)}</time></td>
 	</tr>
 {/snippet}

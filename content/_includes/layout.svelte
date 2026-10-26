@@ -197,7 +197,7 @@ more.addEventListener("click", showMore);`;
 	.site-stats--youtube th { color: var(--youtube); }
 	.site-stats--letterboxd th { color: var(--letterboxd); }
 	.site-stats--codepen th { color: var(--codepen); }
-	.site-stats time { white-space: nowrap; }
+	.site-stats :is(time, .site-stats-value) { white-space: nowrap; }
 	@media (max-width: 40em) {
 		.site-stats { font-size: .75rem; }
 		.site-stats :is(th, td) { padding-left: .5rem; }
