@@ -150,7 +150,6 @@ more.addEventListener("click", showMore);`;
 		--npm: #cb3837;
 		--youtube: #e00000;
 		--letterboxd: #00a85a;
-		--codepen: #47484a;
 		--hackernews: #ff6600;
 		--blog: #475569;
 		--activity: #2da44e;
@@ -169,7 +168,6 @@ more.addEventListener("click", showMore);`;
 			--npm: #e5605f;
 			--youtube: #ff4e45;
 			--letterboxd: #40bcf4;
-			--codepen: #b7b7b7;
 			--hackernews: #ff8a3d;
 			--blog: #94a3b8;
 			--activity: #39d353;
@@ -212,7 +210,6 @@ more.addEventListener("click", showMore);`;
 	.site-stats--npm th { color: var(--npm); }
 	.site-stats--youtube th { color: var(--youtube); }
 	.site-stats--letterboxd th { color: var(--letterboxd); }
-	.site-stats--codepen th { color: var(--codepen); }
 	.site-stats--hackernews th { color: var(--hackernews); }
 	.site-stats--blog th { color: var(--blog); }
 	.site-stats :is(time, .site-stats-value) { white-space: nowrap; }
@@ -275,7 +272,6 @@ more.addEventListener("click", showMore);`;
 	.post-source--npm { --accent: var(--npm); }
 	.post-source--youtube { --accent: var(--youtube); }
 	.post-source--letterboxd { --accent: var(--letterboxd); }
-	.post-source--codepen { --accent: var(--codepen); }
 	.post-source--hackernews { --accent: var(--hackernews); }
 	.post-source--blog { --accent: var(--blog); }
 	.post.post--crosspost {
@@ -289,7 +285,6 @@ more.addEventListener("click", showMore);`;
 	.post.post--npm { border-left: 3px solid var(--npm); }
 	.post.post--youtube { border-left: 3px solid var(--youtube); }
 	.post.post--letterboxd { border-left: 3px solid var(--letterboxd); }
-	.post.post--codepen { border-left: 3px solid var(--codepen); }
 	.post.post--hackernews { border-left: 3px solid var(--hackernews); }
 	.post.post--blog { border-left: 3px solid var(--blog); }
 	.post-title { margin: .5rem 0 0; font-size: 1.1rem; }
@@ -339,7 +334,6 @@ more.addEventListener("click", showMore);`;
 	.source-link--npm, .search-result--npm { --accent: var(--npm); }
 	.source-link--youtube, .search-result--youtube { --accent: var(--youtube); }
 	.source-link--letterboxd, .search-result--letterboxd { --accent: var(--letterboxd); }
-	.source-link--codepen, .search-result--codepen { --accent: var(--codepen); }
 	.source-link--hackernews, .search-result--hackernews { --accent: var(--hackernews); }
 	.source-link--blog, .search-result--blog { --accent: var(--blog); }
 	.source-link--all { --accent: var(--text); }

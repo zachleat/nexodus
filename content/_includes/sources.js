@@ -7,6 +7,5 @@ export const statSources = [
 	{ key: "letterboxd", label: "Letterboxd", icon: "fa-brands fa-letterboxd" },
 	{ key: "blog", label: "Blog", icon: "fa-regular fa-newspaper" },
 	{ key: "hackernews", label: "Hacker News", icon: "fa-brands fa-hacker-news" },
-	{ key: "codepen", label: "CodePen", icon: "fa-brands fa-codepen" },
 	{ key: "total", label: "All" },
 ];

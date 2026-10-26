@@ -14,7 +14,6 @@
 		youtube: "fa-brands fa-youtube",
 		letterboxd: "fa-brands fa-letterboxd",
 		blog: "fa-regular fa-newspaper",
-		codepen: "fa-brands fa-codepen",
 		hackernews: "fa-brands fa-hacker-news",
 	};
 	const countLabels = [
@@ -55,7 +54,7 @@
 		<span class="post-links">
 			<span class="post-counts">
 				{#if replyCount}<a href="{post.url}#replies-title" title={plural(replyCount, "reply", "replies")}><i class="fa-regular fa-comment"></i><span aria-hidden="true">{replyCount}</span><span class="visually-hidden">{plural(replyCount, "reply", "replies")}</span></a>{/if}
-				{#each countLabels as { key, label, icon }}{#if counts[key]}<span title={plural(counts[key], label)}><i class={icon}></i><span aria-hidden="true">{counts[key]}</span><span class="visually-hidden">{plural(counts[key], label)}</span></span>{/if}{/each}
+				{#each countLabels as { key, label, icon }}{#if counts[key] && !(key === "comments" && replyCount)}<span title={plural(counts[key], label)}><i class={icon}></i><span aria-hidden="true">{counts[key]}</span><span class="visually-hidden">{plural(counts[key], label)}</span></span>{/if}{/each}
 			</span>
 			{#each group.posts as p}<a href={p.data.metadata.url} title="View on {p.data.sectionTitle}"><i class={sourceIcons[p.data.metadata.type]}></i>Original<span class="visually-hidden">{" "}on {p.data.sectionTitle}</span></a>{/each}
 		</span>
