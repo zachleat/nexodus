@@ -127,7 +127,7 @@ more.addEventListener("click", showMore);`;
 		<main class="wrap">{@html content}</main>
 		<footer class="site-footer wrap">
 			{#if page.url !== "/popular/"}<SiteStats />{/if}
-			{#if page.url === "/" || page.url === "/popular/"}<Activity groups={collections.postGroups} />{/if}
+			<Activity groups={collections.postGroups} />
 			<p>Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
 			<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 		</footer>

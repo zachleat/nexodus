@@ -151,12 +151,16 @@ export default function(eleventyConfig) {
 		return statsByGroups.get(groups);
 	});
 	// Post groups per UTC year, including years without posts
+	let activityByGroups = new WeakMap();
 	eleventyConfig.addFilter("getActivity", groups => {
-		let counts = Map.groupBy(groups, group => group.date.getUTCFullYear());
-		let first = Math.min(...counts.keys());
-		let last = Math.max(...counts.keys());
-		let years = Array.from({ length: last - first + 1 }, (_, index) => ({ year: first + index, count: counts.get(first + index)?.length || 0 }));
-		return { years, max: Math.max(...years.map(({ count }) => count)), total: groups.length };
+		if(!activityByGroups.has(groups)) {
+			let counts = Map.groupBy(groups, group => group.date.getUTCFullYear());
+			let first = Math.min(...counts.keys());
+			let last = Math.max(...counts.keys());
+			let years = Array.from({ length: last - first + 1 }, (_, index) => ({ year: first + index, count: counts.get(first + index)?.length || 0 }));
+			activityByGroups.set(groups, { years, max: Math.max(...years.map(({ count }) => count)), total: groups.length });
+		}
+		return activityByGroups.get(groups);
 	});
 	// Groups with the most likes, reposts, quotes, and replies
 	eleventyConfig.addFilter("getPopularGroups", (groups, limit) => {
