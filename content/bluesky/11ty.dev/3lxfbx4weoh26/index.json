@@ -1,0 +1,37 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lxfcis3nz22o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lxfcis3nz22o",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-08-27T15:05:11.596Z",
+			"content": "<p>I spend a lot of time thinking about automatically generating READMEs and this would really help with that!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lxfgdjen622s",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lxfcis3nz22o",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lxfgdjen622s",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-08-27T16:13:49.648Z",
+			"content": "<p>awesome!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 27,
+		"reposts": 4,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

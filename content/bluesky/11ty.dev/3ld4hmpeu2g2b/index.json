@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3ld4kiq6g7o2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/simoncox.com/post/3ld4kiq6g7o2g",
+			"author": {
+				"name": "SimonCox",
+				"url": "https://bsky.app/profile/simoncox.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tki7vwlanxbwrz2er67eaeqa/bafkreiabali2634y2slw3yiixyfgxibw6qhnvmp6imzbvyuflezvkjg4em"
+			},
+			"date": "2024-12-12T15:10:29.023Z",
+			"content": "<p>Ahh - does this mean I would be able to store all my gires images in a folder at top level (same as src and dist) using paths: [],<br>\nand if so would I need to add a path in markdown?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ld4n33xxvk2t",
+			"parentId": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3ld4kiq6g7o2g",
+			"url": "https://bsky.app/profile/11ty.dev/post/3ld4n33xxvk2t",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-12-12T15:56:33.158Z",
+			"content": "<p>yeah, absolutely—that’s what the `paths` option can facilitate. This unlocks some aliasing without requiring any content changes in your markdown files</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3ld4n653gn32r",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ld4n33xxvk2t",
+			"url": "https://bsky.app/profile/simoncox.com/post/3ld4n653gn32r",
+			"author": {
+				"name": "SimonCox",
+				"url": "https://bsky.app/profile/simoncox.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tki7vwlanxbwrz2er67eaeqa/bafkreiabali2634y2slw3yiixyfgxibw6qhnvmp6imzbvyuflezvkjg4em"
+			},
+			"date": "2024-12-12T15:58:14.687Z",
+			"content": "<p>Oh that's potentially going to make my workflow much easier! Hurrah!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"reposts": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

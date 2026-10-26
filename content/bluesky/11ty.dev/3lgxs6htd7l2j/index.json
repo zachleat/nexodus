@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:x6gox2spfccened4qbaj4b5b/app.bsky.feed.post/3lhc7rrwbb225",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/robmeyer.net/post/3lhc7rrwbb225",
+			"author": {
+				"name": "Rob Meyer",
+				"url": "https://bsky.app/profile/robmeyer.net",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6gox2spfccened4qbaj4b5b/bafkreih3chn4ludv3lf2hodduusqt7psewtxvssoggn5glkbjdtzlp46su"
+			},
+			"date": "2025-02-03T18:55:26.921Z",
+			"content": "<p>Neato! <a href=\"https://bsky.app/profile/did:plc:xpchjovbk6sxl3bv74z7cs54\">@zachleat.com</a> curious why each symbol has its own svg parent rather than putting all the symbols together under one &lt;svg&gt; to save a few characters. It seems to render fine this way.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lhcca6lyxc2o",
+			"parentId": "at://did:plc:x6gox2spfccened4qbaj4b5b/app.bsky.feed.post/3lhc7rrwbb225",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lhcca6lyxc2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-02-03T19:39:17.466Z",
+			"content": "<p>fair question! This is the markup returned from the `icon` method when using symbol: true in the Font Awesome JS API <a href=\"https://github.com/11ty/eleventy-plugin-font-awesome/blob/0cd3614968a02ed5f33ca9ab3f41ec198a35f060/src/icon-to-html.js#L27-L33\">github.com/11ty/elevent...</a></p>\n<p>see <a href=\"https://docs.fontawesome.com/apis/javascript/methods#iconicondefinition-params\">docs.fontawesome.com/apis/javascr...</a> in the docs.</p>\n<p>It could be improved a tiny bit more!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 19,
+		"reposts": 3,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

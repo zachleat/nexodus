@@ -1,0 +1,62 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:n43l2ddupvdqve6kx6fblqe2/app.bsky.feed.post/3kk7rwss2lv2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mehulkar.com/post/3kk7rwss2lv2e",
+			"author": {
+				"name": "Mehul Kar",
+				"url": "https://bsky.app/profile/mehulkar.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:n43l2ddupvdqve6kx6fblqe2/bafkreifdngy6kq4pt7gf3g2nnubgl4hdyzacy6ienvhra2k56s5yfvxsma"
+			},
+			"date": "2024-01-30T18:31:46.463Z",
+			"content": "<p>website doesn't say \"where\" it is. Is it virtual or in person? Majorly affects my interest level LD</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3kka55g65nc27",
+			"parentId": "at://did:plc:n43l2ddupvdqve6kx6fblqe2/app.bsky.feed.post/3kk7rwss2lv2e",
+			"url": "https://bsky.app/profile/11ty.dev/post/3kka55g65nc27",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-01-30T21:52:19.136Z",
+			"content": "<p>“A brand new exclusively (and extremely) online (virtual) single-day single-track conference”</p>\n<p>(it’s a virtual event!)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:n43l2ddupvdqve6kx6fblqe2/app.bsky.feed.post/3kka57lqrlt2q",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3kka55g65nc27",
+			"url": "https://bsky.app/profile/mehulkar.com/post/3kka57lqrlt2q",
+			"author": {
+				"name": "Mehul Kar",
+				"url": "https://bsky.app/profile/mehulkar.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:n43l2ddupvdqve6kx6fblqe2/bafkreifdngy6kq4pt7gf3g2nnubgl4hdyzacy6ienvhra2k56s5yfvxsma"
+			},
+			"date": "2024-01-30T21:53:32.280Z",
+			"content": "<p>Ah! I was looking for a heading since What and When were there 😥.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3kka5azdick2o",
+			"parentId": "at://did:plc:n43l2ddupvdqve6kx6fblqe2/app.bsky.feed.post/3kka57lqrlt2q",
+			"url": "https://bsky.app/profile/11ty.dev/post/3kka5azdick2o",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-01-30T21:54:19.987Z",
+			"content": "<p>no worries! We’ll add Where and Who and Why to the backlog</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 9,
+		"reposts": 5,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

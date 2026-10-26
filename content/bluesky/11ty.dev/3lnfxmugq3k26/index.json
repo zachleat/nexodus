@@ -1,0 +1,75 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lnfxp2udd226",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3lnfxp2udd226",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-04-22T15:12:34.421Z",
+			"content": "<p>See it in action on `eleventy-base-blog`: <a href=\"https://github.com/11ty/eleventy-base-blog/blob/3ce8514007c777fc284602126cc1064c5879e8ee/eleventy.config.js#L34-L49\">github.com/11ty/elevent...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lnfxr7vlmc2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lnfxr7vlmc2v",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-04-22T15:13:46.812Z",
+			"content": "<p>Keeping the styles alongside the HTML makes previewing the HTML easier!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnfxtpzqds2z",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lnfxr7vlmc2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lnfxtpzqds2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-22T15:15:10.836Z",
+			"content": "<p>I’m not quite sure if you’re agreeing or disagreeing here but this is an opt-in feature 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lnfxvwvcts2v",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnfxtpzqds2z",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lnfxvwvcts2v",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-04-22T15:16:25.139Z",
+			"content": "<p>Shoot! Agreeing! Easier than hoping the stylesheets are named the same as the components! A good idea!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3lnfy67el2s2x",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lnfxvwvcts2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3lnfy67el2s2x",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2025-04-22T15:21:02.460Z",
+			"content": "<p>Yay! 🙌🏻</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 7,
+		"reposts": 1,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

@@ -1,0 +1,127 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ll7k4wwqz222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3ll7k4wwqz222",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-03-25T15:03:25.996Z",
+			"content": "<p>We made a small modification to the leaderboards this time: for scaling and maintenance reasons (this list now includes over 1100 web sites!) the results will only show sites that have scored 400 on Lighthouse. Thanks y’all!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3ll7mt545li2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/simoncox.com/post/3ll7mt545li2n",
+			"author": {
+				"name": "SimonCox",
+				"url": "https://bsky.app/profile/simoncox.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tki7vwlanxbwrz2er67eaeqa/bafkreiabali2634y2slw3yiixyfgxibw6qhnvmp6imzbvyuflezvkjg4em"
+			},
+			"date": "2025-03-25T15:51:37.926Z",
+			"content": "<p>Wait - my site is the only one in the top 24 on Cloudflare?  How odd!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ll7o73bjbs2f",
+			"parentId": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3ll7mt545li2n",
+			"url": "https://bsky.app/profile/11ty.dev/post/3ll7o73bjbs2f",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-03-25T16:16:12.619Z",
+			"content": "<p>there are a lot of netlify sites on the leaderboards</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3ll7plow6fi2v",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ll7o73bjbs2f",
+			"url": "https://bsky.app/profile/simoncox.com/post/3ll7plow6fi2v",
+			"author": {
+				"name": "SimonCox",
+				"url": "https://bsky.app/profile/simoncox.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tki7vwlanxbwrz2er67eaeqa/bafkreiabali2634y2slw3yiixyfgxibw6qhnvmp6imzbvyuflezvkjg4em"
+			},
+			"date": "2025-03-25T16:41:09.490Z",
+			"content": "<p>Ironic that I moved fron Netlify to Cloudflare recently!  I note that there were 4 Cloudflare and 4 Netlify in the top 10 previously.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bxuncred3t7neoojsbsbljio/app.bsky.feed.post/3ll7xdmso6c23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/sia.codes/post/3ll7xdmso6c23",
+			"author": {
+				"name": "Sia Karamalegos",
+				"url": "https://bsky.app/profile/sia.codes",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bxuncred3t7neoojsbsbljio/bafkreieth7wmpg7vgiragypoxluona3vstnywugdlqrvd6fexjonh6z3ty"
+			},
+			"date": "2025-03-25T18:59:48.902Z",
+			"content": "<p>Thanks to this, I learned I was suffering from a Lighthouse bug. Sadly, it looks like I'll have to diminish user experience slightly to achieve 100. Not doing that only for the leaderboard but because potential clients will run my website through Lighthouse to see if I really know web perf. 🤦🏻‍♀️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bxuncred3t7neoojsbsbljio/app.bsky.feed.post/3ll7xdv4vpc23",
+			"parentId": "at://did:plc:bxuncred3t7neoojsbsbljio/app.bsky.feed.post/3ll7xdmso6c23",
+			"url": "https://bsky.app/profile/sia.codes/post/3ll7xdv4vpc23",
+			"author": {
+				"name": "Sia Karamalegos",
+				"url": "https://bsky.app/profile/sia.codes",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bxuncred3t7neoojsbsbljio/bafkreieth7wmpg7vgiragypoxluona3vstnywugdlqrvd6fexjonh6z3ty"
+			},
+			"date": "2025-03-25T18:59:57.626Z",
+			"content": "<p><a href=\"https://github.com/GoogleChrome/lighthouse/issues/11460\">github.com/GoogleChrome...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ll7yroxqb22u",
+			"parentId": "at://did:plc:bxuncred3t7neoojsbsbljio/app.bsky.feed.post/3ll7xdv4vpc23",
+			"url": "https://bsky.app/profile/11ty.dev/post/3ll7yroxqb22u",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-03-25T19:25:34.669Z",
+			"content": "<p>oh interesting — I use preload for fonts on both 11ty.dev (×1) and <a href=\"https://zachleat.com\">zachleat.com</a> (×2)</p>\n<p>there might be some ordering variation you can do to workaround the issue?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ll7ytgthc22u",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ll7yroxqb22u",
+			"url": "https://bsky.app/profile/11ty.dev/post/3ll7ytgthc22u",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-03-25T19:26:33.248Z",
+			"content": "<p>you’re talking about this site right? it tested as 100 perf <a href=\"https://www.11ty.dev/speedlify/sia-codes/\">www.11ty.dev/speedlify/si...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bxuncred3t7neoojsbsbljio/app.bsky.feed.post/3ll7zetsbek2m",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ll7ytgthc22u",
+			"url": "https://bsky.app/profile/sia.codes/post/3ll7zetsbek2m",
+			"author": {
+				"name": "Sia Karamalegos",
+				"url": "https://bsky.app/profile/sia.codes",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bxuncred3t7neoojsbsbljio/bafkreieth7wmpg7vgiragypoxluona3vstnywugdlqrvd6fexjonh6z3ty"
+			},
+			"date": "2025-03-25T19:36:17.266Z",
+			"content": "<p>Yes though weird it was 100 there and 80 on PSI. Lantern does some weird fake throttling for preloads.</p>\n<p>Fixed the a11y issues so hopefully get back on the board next time. Didn't notice my footer links weren't underlined</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"reposts": 1,
+		"comments": 3,
+		"via": "bluesky"
+	}
+}

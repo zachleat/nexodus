@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lydphkzcjs25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3lydphkzcjs25",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-09-08T17:17:01.420Z",
+			"content": "<p>Some more information about the payload here: <a href=\"https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised\">www.aikido.dev/blog/npm-deb...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

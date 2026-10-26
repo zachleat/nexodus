@@ -1,0 +1,284 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3lpcylwv4zs2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3lpcylwv4zs2l",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-05-16T21:41:07.372Z",
+			"content": "<p>Brb, building my whole website in the Eleventy docs and then  iframing on my index page.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:32evoefettraraw5qdjc2ffc/app.bsky.feed.post/3lpcyqcx4uc2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/deborahwrites.co.uk/post/3lpcyqcx4uc2x",
+			"author": {
+				"name": "Deborah Barnard",
+				"url": "https://bsky.app/profile/deborahwrites.co.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:32evoefettraraw5qdjc2ffc/bafkreifc6orcalwzc5vtlc3xeax4yg5u3ylljfpkflruvm6gnihzyt5ux4"
+			},
+			"date": "2025-05-16T21:43:34.221Z",
+			"content": "<p>Ooh . . . This would be a piece of a puzzle I'm trying to pull together. Assume the playground is open source as well? (I'll go poke properly tomorrow, I should be asleep)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpcyvrqdbs27",
+			"parentId": "at://did:plc:32evoefettraraw5qdjc2ffc/app.bsky.feed.post/3lpcyqcx4uc2x",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpcyvrqdbs27",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-16T21:46:37.515Z",
+			"content": "<p>stay tuned! it is on the 11ty-website repo but the playground is running a not yet available clientside bundle of v3.2.0-alpha.1</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpcyxbnsl227",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3lpcylwv4zs2l",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpcyxbnsl227",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-16T21:47:27.764Z",
+			"content": "<p>mike I’ve put you on an 11ty watchlist</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lpczanw6ds2k",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpcyxbnsl227",
+			"url": "https://bsky.app/profile/benmyers.dev/post/3lpczanw6ds2k",
+			"author": {
+				"name": "Ben Myers",
+				"url": "https://bsky.app/profile/benmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml5axo24i4xibb4rdfwgzrle/bafkreignrv6se54v3yuuyhp57emnrg4z3jws3k3oro5ur44yjt2qkdaiiy"
+			},
+			"date": "2025-05-16T21:52:42.611Z",
+			"content": "<p>npx @11ty/eleventy --watchlist</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpczi6epwk2a",
+			"parentId": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lpczanw6ds2k",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpczi6epwk2a",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-16T21:56:54.747Z",
+			"content": "<p>how do I gitignore someone on bsky</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3lpczjt6pz22k",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpcyxbnsl227",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3lpczjt6pz22k",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-05-16T21:57:50.121Z",
+			"content": "<p>Not my first watchlist, I’m sure!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cthxjdywgnkfrepeyf7cecx4/app.bsky.feed.post/3lpczk4jrds2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/marktomlinson.dev/post/3lpczk4jrds2b",
+			"author": {
+				"name": "Mark Tomlinson",
+				"url": "https://bsky.app/profile/marktomlinson.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cthxjdywgnkfrepeyf7cecx4/bafkreicgi7jpv4m3wlzhafjr5cg5lxz4vbquk5dk6klmu5bcxmyrindplu"
+			},
+			"date": "2025-05-16T21:57:59.923Z",
+			"content": "<p>Oh god yes</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lpczkgr5vs2g",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpczi6epwk2a",
+			"url": "https://bsky.app/profile/benmyers.dev/post/3lpczkgr5vs2g",
+			"author": {
+				"name": "Ben Myers",
+				"url": "https://bsky.app/profile/benmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml5axo24i4xibb4rdfwgzrle/bafkreignrv6se54v3yuuyhp57emnrg4z3jws3k3oro5ur44yjt2qkdaiiy"
+			},
+			"date": "2025-05-16T21:58:10.651Z",
+			"content": "<p>Too late, Zach, I'm already committed!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpczpxr22c2r",
+			"parentId": "at://did:plc:cthxjdywgnkfrepeyf7cecx4/app.bsky.feed.post/3lpczk4jrds2b",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpczpxr22c2r",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-16T22:01:16.245Z",
+			"content": "<p>yay!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpczrhaf6s2r",
+			"parentId": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lpczkgr5vs2g",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpczrhaf6s2r",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-16T22:02:06.031Z",
+			"content": "<p>fine but .npmignore is still calling</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ml5axo24i4xibb4rdfwgzrle/app.bsky.feed.post/3lpczsucbss2g",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpczrhaf6s2r",
+			"url": "https://bsky.app/profile/benmyers.dev/post/3lpczsucbss2g",
+			"author": {
+				"name": "Ben Myers",
+				"url": "https://bsky.app/profile/benmyers.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml5axo24i4xibb4rdfwgzrle/bafkreignrv6se54v3yuuyhp57emnrg4z3jws3k3oro5ur44yjt2qkdaiiy"
+			},
+			"date": "2025-05-16T22:02:53.279Z",
+			"content": "<p>I'll pack it up, I guess!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lpe3sd2z6c22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/hejchristian.com/post/3lpe3sd2z6c22",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2025-05-17T08:11:02.438Z",
+			"content": "<p>Not me learning from this demo that you can run an NJK for loop within the markdown file 😅</p>\n<p>Playground component sounds awesome, looking forward to see more!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:derdua4mnjknb3t5pskwbqx3/app.bsky.feed.post/3lpedabmkzk22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dwkns.bsky.social/post/3lpedabmkzk22",
+			"author": {
+				"name": "dwkns.bsky.social",
+				"url": "https://bsky.app/profile/dwkns.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:derdua4mnjknb3t5pskwbqx3/bafkreiczi2whi5yh5zef6lq4bjyj2kbhsznbee5e533wk4lfpjv2pihvqu"
+			},
+			"date": "2025-05-17T10:24:06.870Z",
+			"content": "<p>Stupidly excited about this. Is there an alpha we can play with?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lpf733vmmk2w",
+			"parentId": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lpe3sd2z6c22",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lpf733vmmk2w",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-05-17T18:42:17.864Z",
+			"content": "<p>I have such sights to show you</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpfb35xmc22u",
+			"parentId": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lpe3sd2z6c22",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpfb35xmc22u",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-17T19:18:07.521Z",
+			"content": "<p>this is liquid but yes it is also possible to use NJK to preprocess your markdown files! <a href=\"https://www.11ty.dev/docs/config/#default-template-engine-for-markdown-files\">www.11ty.dev/docs/config/...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpfb3ijev22u",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lpf733vmmk2w",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpfb3ijev22u",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-17T19:18:18.589Z",
+			"content": "<p>oh no</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dkf6u7hhzicecvumdlfza2ux/app.bsky.feed.post/3lpfboabvzc25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jeremias.codes/post/3lpfboabvzc25",
+			"author": {
+				"name": "jeremAIas",
+				"url": "https://bsky.app/profile/jeremias.codes",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dkf6u7hhzicecvumdlfza2ux/bafkreihloo56nu2go2uaqhk25iydang5kcmgimlybtu7mv2wlto3pazvqi"
+			},
+			"date": "2025-05-17T19:28:47.490Z",
+			"content": "<p>I want this available like yesterday, please.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lpferrwgp22u",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpfb35xmc22u",
+			"url": "https://bsky.app/profile/hejchristian.com/post/3lpferrwgp22u",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2025-05-17T20:24:27.877Z",
+			"content": "<p>Oops, my bad - I should look into switching to liquid some time given it seems to be default :) Thanks for linking to the docs too 👌</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zoubwk2yw3miramcfch6t44u/app.bsky.feed.post/3lphcdgyqa22h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cwacht.bsky.social/post/3lphcdgyqa22h",
+			"author": {
+				"name": "Chris Wachtman",
+				"url": "https://bsky.app/profile/cwacht.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zoubwk2yw3miramcfch6t44u/bafkreieqi4hljwd2tkvrakffhpziurtct4qtund2sumpdcqpluitbhod44"
+			},
+			"date": "2025-05-18T14:45:58.648Z",
+			"content": "<p>11ty CMS when?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpjq7hunas2o",
+			"parentId": "at://did:plc:derdua4mnjknb3t5pskwbqx3/app.bsky.feed.post/3lpedabmkzk22",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lpjq7hunas2o",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-19T13:59:37.208Z",
+			"content": "<p>not yet! <a href=\"https://bsky.app/profile/11ty.dev/post/3lpcyvrqdbs27\">bsky.app/profile/11ty...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 51,
+		"reposts": 9,
+		"comments": 7,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

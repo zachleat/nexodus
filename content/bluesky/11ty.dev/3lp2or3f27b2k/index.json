@@ -1,0 +1,214 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:wkd374xinxaugweumwpw3pdn/app.bsky.feed.post/3lp2plcl2nk22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chriscoleman.name/post/3lp2plcl2nk22",
+			"author": {
+				"name": "Chris Coleman",
+				"url": "https://bsky.app/profile/chriscoleman.name",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkd374xinxaugweumwpw3pdn/bafkreifwptpdw3ke4vsuzewislydexhwm335vlngjme2ukas6xb4cf6fu4"
+			},
+			"date": "2025-05-13T14:38:24.486Z",
+			"content": "",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lp2pnvdoj22z",
+			"parentId": "at://did:plc:wkd374xinxaugweumwpw3pdn/app.bsky.feed.post/3lp2plcl2nk22",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lp2pnvdoj22z",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-13T14:39:51.277Z",
+			"content": "<p>eleventy: the site generator for SICKOS</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lp2pokk7fk23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3lp2pokk7fk23",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2025-05-13T14:40:13.506Z",
+			"content": "<p>Now running on Eleventy 3.1.0: <a href=\"https://arielsalminen.com\">arielsalminen.com</a> 😍</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lp2psyd6yk2v",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lp2pokk7fk23",
+			"url": "https://bsky.app/profile/bell.bz/post/3lp2psyd6yk2v",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2025-05-13T14:42:42.178Z",
+			"content": "<p>0.37 seconds is superb</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lp2pybco2k2q",
+			"parentId": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lp2psyd6yk2v",
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3lp2pybco2k2q",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2025-05-13T14:45:39.370Z",
+			"content": "<p>That is even with the prod settings with minification and all that nonsense enabled you wouldn’t need in dev. But with this speed, do I even care to have separate configs anymore 🤷‍♀️</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lp2q3uutu22v",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lp2pybco2k2q",
+			"url": "https://bsky.app/profile/bell.bz/post/3lp2q3uutu22v",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2025-05-13T14:47:40.553Z",
+			"content": "<p>It's really impressive!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3lp2qdswai22l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fvsch.com/post/3lp2qdswai22l",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://bsky.app/profile/fvsch.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zaidtnw6g74outanobj5g2i/bafkreia2brueyxlkikm6g3b3t4rrplscoycca2ajcwk5aygkfncmovg2ri"
+			},
+			"date": "2025-05-13T14:52:06.937Z",
+			"content": "<p>🤏 small dep energy 🤏</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lp2qg2tacs2z",
+			"parentId": "at://did:plc:4zaidtnw6g74outanobj5g2i/app.bsky.feed.post/3lp2qdswai22l",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lp2qg2tacs2z",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-13T14:53:22.336Z",
+			"content": "<p>I bet we can make it even smaller tbh</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lp2qmws6fs2e",
+			"parentId": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lp2q3uutu22v",
+			"url": "https://bsky.app/profile/arielsalminen.com/post/3lp2qmws6fs2e",
+			"author": {
+				"name": "Ariel Salminen",
+				"url": "https://bsky.app/profile/arielsalminen.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpsx3s2etvh52nmox2l6so5a/bafkreicxpwcl2542ix4fopo6i4lpxt3okimjam2jbmib4l5wzhrn7voy64"
+			},
+			"date": "2025-05-13T14:57:12.983Z",
+			"content": "<p>Had to test running in dev env 🫠</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lp2qq3tzsk2l",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lp2qmws6fs2e",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lp2qq3tzsk2l",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-13T14:58:58.954Z",
+			"content": "<p>jump in — we’re saving 230ms</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pzgvqg4ihnaihkrpmxqz5pu6/app.bsky.feed.post/3lp2qrlxhjk2v",
+			"parentId": "at://did:plc:qpsx3s2etvh52nmox2l6so5a/app.bsky.feed.post/3lp2qmws6fs2e",
+			"url": "https://bsky.app/profile/bell.bz/post/3lp2qrlxhjk2v",
+			"author": {
+				"name": "Andy Bell",
+				"url": "https://bsky.app/profile/bell.bz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzgvqg4ihnaihkrpmxqz5pu6/bafkreiaapdk2gfx55k2bvki4b3c4azfba5uae6ej43yrgqi3cjwxrvk4ie"
+			},
+			"date": "2025-05-13T14:59:49.398Z",
+			"content": "<p>getting to the level where it's too fast for our brain to even notice</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lp2r357nkk2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lp2r357nkk2v",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2025-05-13T15:05:09.483Z",
+			"content": "<p>i did some benchmarking a few weeks ago, i wonder how much more we can improve that performance! 👀<br>\n<a href=\"https://github.com/uncenter/ssg-benchmark\">github.com/uncenter/ssg...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lp2rkkslzs2q",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lp2r357nkk2v",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lp2rkkslzs2q",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2025-05-13T15:13:47.052Z",
+			"content": "<p>forked this from lume's benchmarks but actually the numbers seem really off compared to just executing in the terminal... will investigate</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2d2qpuuyarvyfl5tcvhmdtim/app.bsky.feed.post/3lp2v3ox6fk2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/neckam.nl/post/3lp2v3ox6fk2g",
+			"private": true,
+			"date": "2025-05-13T16:17:03.044Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:otf4aymnfrfsrotvs2lz4ppc/app.bsky.feed.post/3lq6buhq77s2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davidwaumsley.bsky.social/post/3lq6buhq77s2g",
+			"author": {
+				"name": "David Waumsley",
+				"url": "https://bsky.app/profile/davidwaumsley.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:otf4aymnfrfsrotvs2lz4ppc/bafkreih4mfibdgmtjazj7bj4qlpcm75jswveq2uiet36efob35kczw3r7q"
+			},
+			"date": "2025-05-27T18:08:50.084Z",
+			"content": "<p>Thank you.  This is great. Just updated with no issues.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lqad2nut2s2a",
+			"parentId": "at://did:plc:otf4aymnfrfsrotvs2lz4ppc/app.bsky.feed.post/3lq6buhq77s2g",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lqad2nut2s2a",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-05-28T13:35:31.072Z",
+			"content": "<p>Amazing! 🏆</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 59,
+		"reposts": 10,
+		"comments": 7,
+		"quotes": 2,
+		"via": "bluesky"
+	}
+}

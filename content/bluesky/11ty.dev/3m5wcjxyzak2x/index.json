@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:3akk2lpjh6vz7yr74j2wgjk6/app.bsky.feed.post/3m5wgomljic2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/goldavelez.org/post/3m5wgomljic2j",
+			"author": {
+				"name": "Golda Velez",
+				"url": "https://bsky.app/profile/goldavelez.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3akk2lpjh6vz7yr74j2wgjk6/bafkreicl4gslglsfaovu4zm6v6wen5427mpuxxfligv7w7fwxcc2y72e5q"
+			},
+			"date": "2025-11-18T19:06:27.437Z",
+			"content": "<p>hey lazy question, am working on some ghost atproto simple auto-publishing stuff, is there the concept of syndication in 11ty?  any atproto plugins.  ya i can search but i am lazy.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m5wkgll6ic2d",
+			"parentId": "at://did:plc:3akk2lpjh6vz7yr74j2wgjk6/app.bsky.feed.post/3m5wgomljic2j",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3m5wkgll6ic2d",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2025-11-18T20:13:32.910Z",
+			"content": "<p>as far as i know there aren't any plugins that do that directly (yet), but you can use existing general atproto libraries to pull in post or comment data as data to use in your templates</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3akk2lpjh6vz7yr74j2wgjk6/app.bsky.feed.post/3m5wkjfbus223",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m5wkgll6ic2d",
+			"url": "https://bsky.app/profile/goldavelez.org/post/3m5wkjfbus223",
+			"author": {
+				"name": "Golda Velez",
+				"url": "https://bsky.app/profile/goldavelez.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3akk2lpjh6vz7yr74j2wgjk6/bafkreicl4gslglsfaovu4zm6v6wen5427mpuxxfligv7w7fwxcc2y72e5q"
+			},
+			"date": "2025-11-18T20:15:06.976Z",
+			"content": "<p>ya i want to like post the article then sync the comments back maybe.  there's other things too like on ghost, because there's email subscribers, syndication has like more meaning between ghost sites (not involving atproto necessarily, tho it could be the intermediary)</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"reposts": 3,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

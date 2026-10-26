@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:4f4yurbfwxo3sass3bcita67/app.bsky.feed.post/3molkvivrhc2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/blades.dev/post/3molkvivrhc2n",
+			"author": {
+				"name": "Blades CSS",
+				"url": "https://bsky.app/profile/blades.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4f4yurbfwxo3sass3bcita67/bafkreid57tl26es4ubm2lqktvbitxws2gqrc4ro4rjowpzhxstojivbd2m"
+			},
+			"date": "2026-06-18T19:30:53.978Z",
+			"content": "<p>awesome news!  🕶️🪀</p>\n<p>as our first try, we just upgraded to `@awesome.me/buildawesome`:</p>\n<p>1. <a href=\"https://github.com/anyblades/eleventy-blades\">github.com/anyblades/el...</a> plugin<br>\n2. <a href=\"https://11ty.blades.ninja/base/\">11ty.blades.ninja/base/</a> package<br>\n3. 6-in-1 micro-starter: <a href=\"https://github.com/anyblades/buildawesome-starters\">github.com/anyblades/bu...</a></p>\n<p>^ all 3 running on `4.0.0-alpha.8`, 6-in-1 demo here: <a href=\"https://tw.11ty.blades.ninja/\">tw.11ty.blades.ninja</a></p>\n<p>🥷</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4f4yurbfwxo3sass3bcita67/app.bsky.feed.post/3mowpym6dok22",
+			"parentId": "at://did:plc:4f4yurbfwxo3sass3bcita67/app.bsky.feed.post/3molkvivrhc2n",
+			"url": "https://bsky.app/profile/blades.dev/post/3mowpym6dok22",
+			"author": {
+				"name": "Blades CSS",
+				"url": "https://bsky.app/profile/blades.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4f4yurbfwxo3sass3bcita67/bafkreid57tl26es4ubm2lqktvbitxws2gqrc4ro4rjowpzhxstojivbd2m"
+			},
+			"date": "2026-06-23T06:01:23.897Z",
+			"content": "<p>more awesome news! 🧩</p>\n<p><a href=\"https://11tybundle.dev/starters/\">11tybundle.dev/starters/</a> now recognizes `Build Awesome version`, thanks to <a href=\"https://bsky.app/profile/did:plc:nnn7hle65gspngcmwf4jar7w\">@bobmonsour.com</a></p>\n<p>and <a href=\"https://github.com/anyblades/buildawesome-starters\">github.com/anyblades/bu...</a> just became the first one to be recognized!</p>\n<p>🥷🕶️ <a href=\"https://bsky.app/hashtag/11tyBuildAwesome\">#11tyBuildAwesome</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 8,
+		"reposts": 4,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

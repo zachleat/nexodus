@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3msxymulxvk2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3msxymulxvk2i",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-08-13T15:49:20.007Z",
+			"content": "<p>hax</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3msxytwx55k22",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3msxymulxvk2i",
+			"url": "https://bsky.app/profile/11ty.dev/post/3msxytwx55k22",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2026-08-13T15:53:17.351Z",
+			"content": "<p>should we add configuration via DNS records</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 4,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:5qa544tzvkfohwvc34r37z2c/app.bsky.feed.post/3lbdj24jyr22r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/davetron5000.com/post/3lbdj24jyr22r",
+			"author": {
+				"name": "Dave Copeland",
+				"url": "https://bsky.app/profile/davetron5000.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5qa544tzvkfohwvc34r37z2c/bafkreifv6w5rlb6x3teltyieabqmjntutyq2qerpxh23buub6eqq7h7y4q"
+			},
+			"date": "2024-11-19T22:42:40.141Z",
+			"content": "<p>Either my internet is broken or something is seriously wrong with this survey.  Each page - and some interactions - cause all the roundrects to go blank.  Then, after 1-2 seconds, the text intended for them shows up.</p>\n<p>And here I am building sites with \"content entangled in HTML\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5qa544tzvkfohwvc34r37z2c/app.bsky.feed.post/3lbdjnnw5gk2m",
+			"parentId": "at://did:plc:5qa544tzvkfohwvc34r37z2c/app.bsky.feed.post/3lbdj24jyr22r",
+			"url": "https://bsky.app/profile/davetron5000.com/post/3lbdjnnw5gk2m",
+			"author": {
+				"name": "Dave Copeland",
+				"url": "https://bsky.app/profile/davetron5000.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5qa544tzvkfohwvc34r37z2c/bafkreifv6w5rlb6x3teltyieabqmjntutyq2qerpxh23buub6eqq7h7y4q"
+			},
+			"date": "2024-11-19T22:53:35.899Z",
+			"content": "<p>I think my internet IS actually messed up - a lot of sites are responding slowly.  The survey spent 6 seconds fetching a JS bundle and fetched 9 different FA fonts during the survey, each one taking about 1s each to be delivered. <a href=\"https://api.tally.so\">api.tally.so</a> was pinged frequently with 1s+ response times.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lbdkmpeu6225",
+			"parentId": "at://did:plc:5qa544tzvkfohwvc34r37z2c/app.bsky.feed.post/3lbdjnnw5gk2m",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lbdkmpeu6225",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-11-19T23:10:57.617Z",
+			"content": "<p>We’ll post about it again tomorrow—maybe just let it breathe a bit! Bluesky has definitely had issues today too, for whatever that’s worth!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lbfykvqs522b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lbfykvqs522b",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2024-11-20T22:25:49.052Z",
+			"content": "<p>not sure how involved you are but i would love to be able to specify multiple \"other\" text options in some cases, i feel bad leaving some frameworks/tools/projects out!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lbfyn52gtc2b",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lbfykvqs522b",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lbfyn52gtc2b",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2024-11-20T22:27:03.817Z",
+			"content": "<p>specifically the \"What do you use for website icons?\" question - it seems to be missing a lot of popular options, including <a href=\"https://lucide.dev/\">lucide.dev</a>, <a href=\"https://simpleicons.org/\">simpleicons.org</a>, and <a href=\"https://phosphoricons.com/\">phosphoricons.com</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lbfyove54s2b",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lbfyn52gtc2b",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lbfyove54s2b",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2024-11-20T22:28:02.855Z",
+			"content": "<p>SolidStart is also missing from the build tools / metaframeworks list</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:eagnfcoqnbtzpkglrtej6ayg/app.bsky.feed.post/3lbg2ecfbuc2i",
+			"parentId": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lbfykvqs522b",
+			"url": "https://bsky.app/profile/lea.verou.me/post/3lbg2ecfbuc2i",
+			"author": {
+				"name": "Lea Verou, PhD",
+				"url": "https://bsky.app/profile/lea.verou.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eagnfcoqnbtzpkglrtej6ayg/bafkreifqblqmhftcg7nlualjssskxth7dll6q5najlfee26yuzfkq2vm64"
+			},
+			"date": "2024-11-20T22:57:54.910Z",
+			"content": "<p>Thank you for the feedback! I'd LOVE that too! I've only seen it in State Of surveys, and that's because I designed the widget 😅 Alas, no mainstream survey tool supports it, this one uses Tally.</p>\n<p>That said, I added the options you mentioned, so if you haven't yet submitted you could select them now!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lbg2zbjyqk2l",
+			"parentId": "at://did:plc:eagnfcoqnbtzpkglrtej6ayg/app.bsky.feed.post/3lbg2ecfbuc2i",
+			"url": "https://bsky.app/profile/spacegirl.ing/post/3lbg2zbjyqk2l",
+			"author": {
+				"name": "leah 🛸",
+				"url": "https://bsky.app/profile/spacegirl.ing",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkm6m4dsc4da2yzdlvxorhf3/bafkreib4k3j5hywmnckspfrcswqutvr7td52gry4qy27q2u3l4rr6trski"
+			},
+			"date": "2024-11-20T23:09:38.659Z",
+			"content": "<p>oh no i submitted 😭 i didn't think anyone would respond!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lbkqutycws26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/hejchristian.com/post/3lbkqutycws26",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2024-11-22T19:51:31.504Z",
+			"content": "<p>Whew, done.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lbrvxxh7rk22",
+			"parentId": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3lbkqutycws26",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lbrvxxh7rk22",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-11-25T16:11:22.679Z",
+			"content": "<p>thank you!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 19,
+		"reposts": 19,
+		"comments": 3,
+		"quotes": 4,
+		"via": "bluesky"
+	}
+}

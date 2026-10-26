@@ -1,0 +1,12 @@
+---
+title: Securely Publishing our Packages to npm
+authors:
+  - name: Zach Leatherman
+date: 2025-12-03T06:00:00.000Z
+metadata:
+  uuid: 11ty/import::atom::https://www.11ty.dev/blog/npm-security/
+  type: atom
+  url: https://www.11ty.dev/blog/npm-security/
+  importHash: 6f9857e0232e4bc5
+---
+\<p>As we harden our release practices in the wake of numerous recent vulnerabilities in npm packages amongst high profile authors, it seems worthwhile to celebrate a major milestone for 11ty core and our official suite of plugins: \<em>we are now npm Access Token-free!\</em>\</p> \<p>The \<code>@11ty/\*\</code> ecosystem on npm is now fully migrated to \<a href="https://docs.npmjs.com/trusted-publishers">Trusted Publishers\</a>.\</p> \<p>If you’re interested in taking steps to improve your own security footprint, you can read more about the steps we took at \<a href="https://www.zachleat.com/web/npm-security/">\<em>No more tokens! Locking down npm Publish Workflows\</em>\</a>\</p> \<p>\<a href="https://www.zachleat.com/web/npm-security/" style="display: block; max-width: 16em;">\<img alt="No more tokens! Locking down npm Publish Workflows" loading="lazy" decoding="async" class="sites-screenshot" src="https://screenshot.11ty.app/https%3A%2F%2Fwww.zachleat.com%2Fweb%2Fnpm-security%2F/small/1:1/\_wait:2/" width="375" height="375" />\</a>\</p> \<h2 id="dependency-watch">Dependency Watch\</h2> \<p>In this same vein, as a project Eleventy has continuously and relentlessly focused on reducing our dependency footprint. You may remember the latest Dependency Watch on our \<a href="https://github.com/11ty/eleventy/releases/tag/v3.1.0">v3.1.0 core release notes\</a>:\</p> \<table> \<thead> \<tr> \<th>Version\</th> \<th>Production Dep Count\</th> \<th>Production Size\</th> \</tr> \</thead> \<tbody> \<tr> \<td>v3.1.0\</td> \<td>×142\</td> \<td>21.4 MB\</td> \</tr> \<tr> \<td>v3.0.0\</td> \<td>×187\</td> \<td>27.4 MB\</td> \</tr> \<tr> \<td>v2.0.1\</td> \<td>×215\</td> \<td>36.4 MB\</td> \</tr> \<tr> \<td>v1.0.2\</td> \<td>×356\</td> \<td>73.3 MB\</td> \</tr> \</tbody> \</table> \<p>Very astute observers may also be eyeing the \<a href="https://www.zachleat.com/web/adventures-in-date-parsing/#a-new-challenger-appears">upcoming 4.0 canaries which include even more improvements to these numbers\</a>! v4.0.0-alpha.4 is \<strong>16.6 MB\</strong> with ×131 deps (with more improvements on the way)!\</p>

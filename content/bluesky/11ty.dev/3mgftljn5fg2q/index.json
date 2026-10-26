@@ -1,0 +1,115 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mgfugeuxzk2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brob.dev/post/3mgfugeuxzk2o",
+			"author": {
+				"name": "Bryan Robinson",
+				"url": "https://bsky.app/profile/brob.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
+			},
+			"date": "2026-03-06T17:43:52.406Z",
+			"content": "<p>That's rough, y'all! Email is terrible. Here's to an even bigger launch when you get it squared away!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgfupxtidk2g",
+			"parentId": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mgfugeuxzk2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mgfupxtidk2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-06T17:49:14.271Z",
+			"content": "<p>Thank you Bryan! Email is terrible but also somehow the best option to escape a tight coupling to social media 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:u245ppickxm7kcu4s2cam5qm/app.bsky.feed.post/3mgfv5lapmk26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/hejchristian.com/post/3mgfv5lapmk26",
+			"author": {
+				"name": "Christian Alder",
+				"url": "https://bsky.app/profile/hejchristian.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:u245ppickxm7kcu4s2cam5qm/bafkreibfblj7zohxpdzx4qnlvsbpiopuazopq3lh3rzh4li4cwfnmw7msa"
+			},
+			"date": "2026-03-06T17:56:50.835Z",
+			"content": "<p>Sorry email let you down 😩 Must be a pain, but also kind of relief? to know that the lower-than-expected numbers had a reason.</p>\n<p>Best of luck on v2 launch! I will be there again, refreshing the page all day 😊</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mgfvacdnb22o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgfupxtidk2g",
+			"url": "https://bsky.app/profile/brob.dev/post/3mgfvacdnb22o",
+			"author": {
+				"name": "Bryan Robinson",
+				"url": "https://bsky.app/profile/brob.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
+			},
+			"date": "2026-03-06T17:58:22.157Z",
+			"content": "<p>Things I've said in the past few weeks:</p>\n<p>\"I used to hate for work email, but then I used Slack.\"</p>\n<p>\"Social media was probably a mistake\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mgfvmiweak26",
+			"parentId": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mgfvacdnb22o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mgfvmiweak26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-03-06T18:05:11.714Z",
+			"content": "<p>These are all very accurate, yes</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mgfyyqopts24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mgfyyqopts24",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-03-06T19:05:43.731Z",
+			"content": "<p>uh, sucks. you can also ask people to reply to your newsletter email. I heard that does wonders to the gmail spam filter.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3mgg37fb5wc2p",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mgfyyqopts24",
+			"url": "https://bsky.app/profile/11ty.dev/post/3mgg37fb5wc2p",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2026-03-06T19:45:14.118Z",
+			"content": "<p>yeah, good shout!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3mggg5vvjuc2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3mggg5vvjuc2q",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2026-03-06T23:01:15.614Z",
+			"content": "<p>Just a little update in video form too: <a href=\"https://www.youtube.com/watch?v=EWqP9fX9xn4\">www.youtube.com/watch?v=EWqP...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 20,
+		"reposts": 5,
+		"comments": 4,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

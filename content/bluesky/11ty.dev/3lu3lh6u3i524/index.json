@@ -1,0 +1,45 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ekeumpbnvthvlmkuse4a2gxw/app.bsky.feed.post/3lu3ll7dhbc24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ranork.bsky.social/post/3lu3ll7dhbc24",
+			"author": {
+				"name": "Emir  🇹🇷",
+				"url": "https://bsky.app/profile/ranork.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ekeumpbnvthvlmkuse4a2gxw/bafkreif2mr4nmhiccusypbpbogtcclde42tu6h67ipqyii3xjlg3zrvosu"
+			},
+			"date": "2025-07-16T14:05:24.001Z",
+			"content": "<p>Wow, that's amazing!  Cutting down dependencies like that is a huge win for performance and maintainability.  Impressive work!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lu3lpypb322d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lu3lpypb322d",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-07-16T14:08:04.820Z",
+			"content": "<p>\"Eleventy: Make your website just a website again\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:67lhsh3uyhzcxh2wlxmssyxx/app.bsky.feed.post/3lualdpa4ac2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/oliviac.dev/post/3lualdpa4ac2y",
+			"private": true,
+			"date": "2025-07-18T13:44:30.926Z",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 64,
+		"reposts": 10,
+		"comments": 3,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

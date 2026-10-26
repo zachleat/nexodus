@@ -1,0 +1,180 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lfsrd3dl622m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lfsrd3dl622m",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-01-15T22:01:33.392Z",
+			"content": "<p>I feel like there's some content to be made around the basic framework of \"You know [thing] from WordPress? Here's how you'd do that in 11ty\"</p>\n<p>Taxonomies, custom post types, custom fields, the-stuff-Yoast-does-for-you. It's not all 1:1 but I feel like it could help make the transition accessible?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfsrec5nb222",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lfsrd3dl622m",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lfsrec5nb222",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-01-15T22:02:14.093Z",
+			"content": "<p>It’s a good idea!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lfsrewjqh22m",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3lfsrd3dl622m",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3lfsrewjqh22m",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2025-01-15T22:02:35.461Z",
+			"content": "<p>It's not even all concepts the same way, like \"custom fields\" are just how 11ty works, but let's break that open for people?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:3lxzadv7otbmxhk6ra6ranrf/app.bsky.feed.post/3lfssbqhf6k2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jovianmoon.io/post/3lfssbqhf6k2w",
+			"author": {
+				"name": "Stephen G",
+				"url": "https://bsky.app/profile/jovianmoon.io",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3lxzadv7otbmxhk6ra6ranrf/bafkreicrhtnn7hrueth5h73wwcyyotjf22x6r2d22g2mgzfj3cp2gyl6de"
+			},
+			"date": "2025-01-15T22:18:42.170Z",
+			"content": "<p>New John Carpenter movie??</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfssk3q2q225",
+			"parentId": "at://did:plc:3lxzadv7otbmxhk6ra6ranrf/app.bsky.feed.post/3lfssbqhf6k2w",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lfssk3q2q225",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-01-15T22:23:22.424Z",
+			"content": "<p>*exactly* — wait</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3lfuh5caucs2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3lfuh5caucs2n",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-01-16T14:04:41.371Z",
+			"content": "<p>Currently escaping from Instagram using 11ty!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfuhvpdw4c2s",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3lfuh5caucs2n",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lfuhvpdw4c2s",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-01-16T14:18:20.414Z",
+			"content": "<p>Love that HyperText shirt!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3lfui43en2k2n",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfuhvpdw4c2s",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3lfui43en2k2n",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2025-01-16T14:21:54.346Z",
+			"content": "<p><a href=\"https://cottonbureau.com/p/EGM9Q5/shirt/kottkeorg-hypertext-tee#/16551572/tee-men-premium-lightweight-vintage-black-tri-blend-s\">cottonbureau.com/p/EGM9Q5/shi...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfuitxxv7c2k",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3lfui43en2k2n",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lfuitxxv7c2k",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-01-16T14:35:16.090Z",
+			"content": "<p>sold, thank you</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3lfuwg56sjk2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/richholman.com/post/3lfuwg56sjk2p",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://bsky.app/profile/richholman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fsgldxdhhtceel4mzjwko3ta/bafkreiewi2ur6qxzco7yrgr6h2saxguk4566paaicw23ijgc5oti2iq4du"
+			},
+			"date": "2025-01-16T18:38:04.180Z",
+			"content": "<p>Really great plugin this. 👏</p>\n<p>I recently did a vision quest on how one might go about getting the base styles from WordPress’ theme.json. Works nicely with the import.</p>\n<p><a href=\"https://dgw.ltd/2025/01/10/wp-scss/\">dgw.ltd/2025/01/10/w...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfv5kfky322y",
+			"parentId": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3lfuwg56sjk2p",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lfv5kfky322y",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-01-16T20:45:43.381Z",
+			"content": "<p>Thanks Rich!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfv5n4ts6s2y",
+			"parentId": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3lfuwg56sjk2p",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lfv5n4ts6s2y",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-01-16T20:47:14.896Z",
+			"content": "<p>it’d be great to get this on the wordpress page here: <a href=\"https://www.11ty.dev/docs/migrate/wordpress/\">www.11ty.dev/docs/migrate...</a> has <a href=\"https://bsky.app/profile/did:plc:nnn7hle65gspngcmwf4jar7w\">@bobmonsour.com</a> added your quest to 11tybundle yet?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:nnn7hle65gspngcmwf4jar7w/app.bsky.feed.post/3lfv7jd7byc2a",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lfv5n4ts6s2y",
+			"url": "https://bsky.app/profile/bobmonsour.com/post/3lfv7jd7byc2a",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://bsky.app/profile/bobmonsour.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nnn7hle65gspngcmwf4jar7w/bafkreifo2mfr56qzeojg52yc7mjs54ba7pun5ywe4l63ya7mgt6ek2lc4a"
+			},
+			"date": "2025-01-16T21:20:54.830Z",
+			"content": "<p>Of course he has...days ago. <a href=\"https://11tybundle.dev/authors/rich-holman/\">11tybundle.dev/authors/rich...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 45,
+		"reposts": 19,
+		"comments": 4,
+		"quotes": 2,
+		"via": "bluesky"
+	}
+}

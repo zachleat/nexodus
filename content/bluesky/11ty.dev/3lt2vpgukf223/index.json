@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3ltg4w5pem22f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/michaelbishop.me/post/3ltg4w5pem22f",
+			"author": {
+				"name": "Michael Bishop",
+				"url": "https://bsky.app/profile/michaelbishop.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ulxk572dnu5v56yssqyupulk/bafkreihhophmss3nylwemptob3iei5w2u3hc34v6jdzjh2exvkallh6egu"
+			},
+			"date": "2025-07-08T01:17:10.759Z",
+			"content": "<p>could this lead to possibly having 11ty \"themes\"? Or at least packaged styles?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3ltwpeprxi227",
+			"parentId": "at://did:plc:ulxk572dnu5v56yssqyupulk/app.bsky.feed.post/3ltg4w5pem22f",
+			"url": "https://bsky.app/profile/11ty.dev/post/3ltwpeprxi227",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-07-14T15:30:02.649Z",
+			"content": "<p>for sure! you could absolutely call this type of thing in an `addPlugin`</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 8,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

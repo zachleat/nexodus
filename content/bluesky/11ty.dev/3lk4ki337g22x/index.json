@@ -1,0 +1,50 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:cxanujrx65atb5ln5rpw4g3l/app.bsky.feed.post/3lk4l4vw63s2m",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/pborenstein.com/post/3lk4l4vw63s2m",
+			"author": {
+				"name": "Philip Borenstein",
+				"url": "https://bsky.app/profile/pborenstein.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cxanujrx65atb5ln5rpw4g3l/bafkreihjjzz5fpvsi4epj72rnctlp7r4sedh5ad3flj7ecbjbetgs57vie"
+			},
+			"date": "2025-03-11T17:18:07.826Z",
+			"content": "<p>From afar the logos are so similar that I couldn't figure out why <a href=\"https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2\">@11ty.dev</a> was quoting itself :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lk4mxziisc2r",
+			"parentId": "at://did:plc:cxanujrx65atb5ln5rpw4g3l/app.bsky.feed.post/3lk4l4vw63s2m",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lk4mxziisc2r",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-03-11T17:51:11.285Z",
+			"content": "<p>the 18f typeface is much better, tbf</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:d5umsb2ibiw7hzqkiwcs4sb7/app.bsky.feed.post/3lk4ofpakrs2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mxb.dev/post/3lk4ofpakrs2u",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://bsky.app/profile/mxb.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:d5umsb2ibiw7hzqkiwcs4sb7/bafkreibc3agbliwxgmcfkgxtzxl67gf4xn5bx4mwwo4sd7joohggf4a52i"
+			},
+			"date": "2025-03-11T18:16:44.040Z",
+			"content": "<p>This makes me happy on multiple levels</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 32,
+		"reposts": 3,
+		"comments": 2,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

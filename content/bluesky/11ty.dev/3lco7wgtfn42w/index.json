@@ -1,0 +1,75 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lcob5fshkc2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3lcob5fshkc2l",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-12-06T22:45:49.333Z",
+			"content": "<p>oops *the upcoming AutoCopy plugin—let me just go in and edit this Bluesky post real quick</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pmrgh46r2srgmh4khu52oozn/app.bsky.feed.post/3lcobtwg4q22t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/wavebeem.com/post/3lcobtwg4q22t",
+			"author": {
+				"name": "sage 🌿",
+				"url": "https://bsky.app/profile/wavebeem.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pmrgh46r2srgmh4khu52oozn/bafkreidoz5l5bl73vgrelxfdnod6pjbqykticrmztm5r4ny2zkccwhr76i"
+			},
+			"date": "2024-12-06T22:58:24.953Z",
+			"content": "<p>ive definitely been interested in something like this!! what type of feedback are you hoping to get?</p>\n<p>high level feedback based on the PR description?</p>\n<p>testing out integration with the new code and giving feedback based on real use?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lcocr5lovc2g",
+			"parentId": "at://did:plc:pmrgh46r2srgmh4khu52oozn/app.bsky.feed.post/3lcobtwg4q22t",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lcocr5lovc2g",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-12-06T23:14:45.554Z",
+			"content": "<p>any and all! If you’re able to install directly from the branch on github, I’d love some help testing!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pmrgh46r2srgmh4khu52oozn/app.bsky.feed.post/3lcogihpqmc2w",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lcocr5lovc2g",
+			"url": "https://bsky.app/profile/wavebeem.com/post/3lcogihpqmc2w",
+			"author": {
+				"name": "sage 🌿",
+				"url": "https://bsky.app/profile/wavebeem.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pmrgh46r2srgmh4khu52oozn/bafkreidoz5l5bl73vgrelxfdnod6pjbqykticrmztm5r4ny2zkccwhr76i"
+			},
+			"date": "2024-12-07T00:21:29.150Z",
+			"content": "<p>ill see if i can get it running this weekend 💚</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pmrgh46r2srgmh4khu52oozn/app.bsky.feed.post/3lcoglkcsjk2w",
+			"parentId": "at://did:plc:pmrgh46r2srgmh4khu52oozn/app.bsky.feed.post/3lcogihpqmc2w",
+			"url": "https://bsky.app/profile/wavebeem.com/post/3lcoglkcsjk2w",
+			"author": {
+				"name": "sage 🌿",
+				"url": "https://bsky.app/profile/wavebeem.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pmrgh46r2srgmh4khu52oozn/bafkreidoz5l5bl73vgrelxfdnod6pjbqykticrmztm5r4ny2zkccwhr76i"
+			},
+			"date": "2024-12-07T00:23:12.535Z",
+			"content": "<p>the other thing i wanted to do recently was auto add width/height in markdown image tags so i didnt need to use html, but the first plugin i found couldn't use absolute paths because its unaware of the eleventy static dir</p>\n<p>if i could colocate images that would help the makedown CLS use case!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 14,
+		"reposts": 1,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

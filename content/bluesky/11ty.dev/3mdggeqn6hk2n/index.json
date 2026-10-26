@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:4f4yurbfwxo3sass3bcita67/app.bsky.feed.post/3mdgo5yyqfs2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/blades.dev/post/3mdgo5yyqfs2t",
+			"author": {
+				"name": "Blades CSS",
+				"url": "https://bsky.app/profile/blades.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4f4yurbfwxo3sass3bcita67/bafkreid57tl26es4ubm2lqktvbitxws2gqrc4ro4rjowpzhxstojivbd2m"
+			},
+			"date": "2026-01-27T21:08:53.915Z",
+			"content": "<p>just upgraded <a href=\"https://github.com/anydigital/sveleven\">github.com/anydigital/s...</a> from v3 to v4.0.0-alpha.6 -- w/o changing a single line of code!</p>\n<p>so happy with v4.0.0-alpha.6</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 27,
+		"reposts": 4,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

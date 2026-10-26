@@ -1,0 +1,37 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lydmi75uxs2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3lydmi75uxs2c",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-09-08T16:23:41.315Z",
+			"content": "<p>To check to see if your project was affected, check your package-lock.json file to see what version of `debug` you have installed.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lydphkzcjs25",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lydmi75uxs2c",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lydphkzcjs25",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-09-08T17:17:01.420Z",
+			"content": "<p>Some more information about the payload here: <a href=\"https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised\">www.aikido.dev/blog/npm-deb...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 49,
+		"reposts": 18,
+		"comments": 1,
+		"quotes": 5,
+		"via": "bluesky"
+	}
+}

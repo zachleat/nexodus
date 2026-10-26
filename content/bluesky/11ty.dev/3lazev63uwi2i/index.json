@@ -1,0 +1,37 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3lazimreeo72c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/richholman.com/post/3lazimreeo72c",
+			"author": {
+				"name": "Rich Holman",
+				"url": "https://bsky.app/profile/richholman.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:fsgldxdhhtceel4mzjwko3ta/bafkreiewi2ur6qxzco7yrgr6h2saxguk4566paaicw23ijgc5oti2iq4du"
+			},
+			"date": "2024-11-15T23:08:34.772Z",
+			"content": "<p>Woh. Good work friends.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lazisa5k5s2b",
+			"parentId": "at://did:plc:fsgldxdhhtceel4mzjwko3ta/app.bsky.feed.post/3lazimreeo72c",
+			"url": "https://bsky.app/profile/11ty.dev/post/3lazisa5k5s2b",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2024-11-15T23:11:38.108Z",
+			"content": "<p>thanks Rich!! 🙌</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 86,
+		"reposts": 29,
+		"comments": 1,
+		"quotes": 7,
+		"via": "bluesky"
+	}
+}

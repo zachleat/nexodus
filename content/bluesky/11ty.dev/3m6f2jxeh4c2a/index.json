@@ -1,0 +1,75 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:derdua4mnjknb3t5pskwbqx3/app.bsky.feed.post/3m6feoxe6vs22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dwkns.bsky.social/post/3m6feoxe6vs22",
+			"author": {
+				"name": "dwkns.bsky.social",
+				"url": "https://bsky.app/profile/dwkns.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:derdua4mnjknb3t5pskwbqx3/bafkreiczi2whi5yh5zef6lq4bjyj2kbhsznbee5e533wk4lfpjv2pihvqu"
+			},
+			"date": "2025-11-24T17:40:47.323Z",
+			"content": "<p>I didn't really understand your desire to reduce dependencies in <a href=\"https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2\">@11ty.dev</a>. I do now.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3m6ff2yhnik2p",
+			"parentId": "at://did:plc:derdua4mnjknb3t5pskwbqx3/app.bsky.feed.post/3m6feoxe6vs22",
+			"url": "https://bsky.app/profile/11ty.dev/post/3m6ff2yhnik2p",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-11-24T17:47:31.138Z",
+			"content": "<p>Reducing our security footprint, one package at a time 🏆</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:giplx3mfo7nnb44f3yzhclu3/app.bsky.feed.post/3m6hgqv7yzk2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/basefortify.bsky.social/post/3m6hgqv7yzk2o",
+			"author": {
+				"name": "BaseFortify.eu",
+				"url": "https://bsky.app/profile/basefortify.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:giplx3mfo7nnb44f3yzhclu3/bafkreifk33ovibkl55us6jjr5mrcjs6wwtztepmbskmbk6sgflnbdijhca"
+			},
+			"date": "2025-11-25T13:22:59.159Z",
+			"content": "<p>Good to know and yes we should all take into account what packages we integrate into our software. It reduces our footprint and, I believe, our understanding of what we do include</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3m6i2aobmb22a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3m6i2aobmb22a",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2025-11-25T19:11:49.836Z",
+			"content": "<p>Update: at time of writing Eleventy core (0.x, 1.x, 2.x, 3.x, 4.x prereleases) and our official plugins are still unaffected.</p>\n<p>(Compromised package count was updated to 834 from 533 in the latest <a href=\"https://bsky.app/profile/did:plc:n6f3j47vjucu5ijwdmow7n2w\">@socket.dev</a> update)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:mxdqvruhze7qxiessj6isga2/app.bsky.feed.post/3m6i4q2v6722o",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3m6i2aobmb22a",
+			"url": "https://bsky.app/profile/feross.bsky.social/post/3m6i4q2v6722o",
+			"author": {
+				"name": "Feross",
+				"url": "https://bsky.app/profile/feross.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxdqvruhze7qxiessj6isga2/bafkreicqzwcqbqfkj5zbv76f2sbmvdb7j5awmbh5i7ksuycxunsx662m3i"
+			},
+			"date": "2025-11-25T19:56:13.861Z",
+			"content": "<p>Glad to hear it!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 14,
+		"reposts": 3,
+		"comments": 3,
+		"via": "bluesky"
+	}
+}
