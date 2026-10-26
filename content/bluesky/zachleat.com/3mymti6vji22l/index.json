@@ -246,12 +246,25 @@
 			"date": "2026-10-25T05:16:37.145Z",
 			"content": "<p>Kinda correct though</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:t3mgojfn6ouudblxlq2o7v5v/app.bsky.feed.post/3myqa5vsqck25",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/erichowey.dev/post/3myqa5vsqck25",
+			"author": {
+				"name": "Eric Howey",
+				"url": "https://bsky.app/profile/erichowey.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:t3mgojfn6ouudblxlq2o7v5v/bafkreigkgw5am7ozbonr3fvbwlimpg2kq7xlhy437zolgc4qsv2puoru4m"
+			},
+			"date": "2026-10-25T22:13:59.753Z",
+			"content": "<p>So what does that make the septic tank trucks?....</p>\n<p>This made me laugh!</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 39,
+		"likes": 40,
 		"reposts": 1,
-		"comments": 6,
+		"comments": 7,
 		"via": "bluesky"
 	}
 }

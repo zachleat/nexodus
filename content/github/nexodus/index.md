@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/nexodus
   type: github
   url: https://github.com/zachleat/nexodus
-  importHash: 73401661abff806f
+  importHash: 6b103972ce958b24
 ---
 # Nexodus
 
@@ -32,7 +32,7 @@ Cross-posts of the same text are grouped together.
 
 -   Templates use [`@11ty/eleventy-plugin-vue`](https://github.com/11ty/plugin-template-languages/tree/main/vue) (Vue 3).
 -   Search uses [Pagefind](https://pagefind.app/).
--   A GitHub Action imports new posts daily and deploys to GitHub Pages.
+-   A GitHub Action imports new posts regularly and deploys to GitHub Pages.
 
 ## Usage
 
