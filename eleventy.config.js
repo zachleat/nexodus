@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import * as pagefind from "pagefind";
 import { HtmlBasePlugin } from "@11ty/eleventy";
-import eleventyVue from "@11ty/eleventy-plugin-vue";
+import eleventySvelte from "@11ty/eleventy-plugin-svelte";
 import fontAwesomePlugin from "@11ty/font-awesome";
 import { getComments, getCounts, resolveAssetUrl } from "./content/_includes/replies.js";
 
@@ -175,16 +175,11 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.ignores.add("README.md");
-	eleventyConfig.addPlugin(eleventyVue);
+	// Watching thousands of imported post files exhausts file handles (restart after `npm run import`)
+	eleventyConfig.watchIgnores.add("content/*/*/**");
+	eleventyConfig.addPlugin(eleventySvelte);
 	eleventyConfig.addPlugin(fontAwesomePlugin);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
-	// Vue templates can’t output a doctype
-	eleventyConfig.addTransform("doctype", function(content) {
-		if(this.page.outputPath?.endsWith(".html") && content.startsWith("<html")) {
-			return `<!doctype html>\n${content}`;
-		}
-		return content;
-	});
 	eleventyConfig.setServerOptions({ port: 8347 });
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
 	eleventyConfig.addFilter("readableDate", date => date.toLocaleString("en-US", {

@@ -1,6 +1,6 @@
 export default {
 	"tags": "github",
-	"layout": "postlayout.vue",
+	"layout": "postlayout.svelte",
 	"sectionTitle": "GitHub",
 	// Search result heading, since the README already includes the title
 	"eleventyComputed": {

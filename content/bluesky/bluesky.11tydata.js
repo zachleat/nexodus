@@ -1,6 +1,6 @@
 export default {
 	"tags": "bluesky",
-	"layout": "postlayout.vue",
+	"layout": "postlayout.svelte",
 	"sectionTitle": "Bluesky",
 	"permalink": data => `/bluesky/${data.page.fileSlug}/`
 }
