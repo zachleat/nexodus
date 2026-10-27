@@ -336,6 +336,7 @@ more.addEventListener("click", showMore);`;
 	.post.post--blog { --service: var(--blog); border-left: 3px solid var(--blog); }
 	.post-title { margin: .5rem 0 0; font-size: 1.1rem; }
 	.post-title a { color: inherit; text-decoration: none; }
+	.post-title svg { height: 1em; overflow: visible; vertical-align: -.125em; margin-right: .35em; }
 	.post-image { display: block; margin-top: .75rem; }
 	.post--letterboxd .post-image { width: 6rem; border-radius: 4px; }
 	.post { min-width: 0; }

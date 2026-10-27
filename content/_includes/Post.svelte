@@ -27,7 +27,9 @@
 
 	// Posts without content (e.g. npm releases) and GitHub READMEs outside their own page show their description instead
 	let html = $derived(resolveAssets(postContent || (post.data.metadata.type === "github" ? "" : post.content), post));
-	let replyParent = $derived(group.posts.map(p => getReplyParent(collections.all, p.data.metadata.url)).find(Boolean));
+	// GitHub and npm titles link to the repository
+	let repoUrl = $derived(post.data.metadata.type === "github" ? post.data.metadata.url : post.data.metadata.type === "npm" ? post.data.metadata.repository || post.data.metadata.url : undefined);
+	let replyParent =$derived(group.posts.map(p => getReplyParent(collections.all, p.data.metadata.url)).find(Boolean));
 	// npm downloads are for the whole package in the past year
 	let counts = $derived({ ...getCounts(group.posts), downloads: post.data.metadata.type === "npm" ? post.data.counts?.downloads : 0 });
 	// Source of the other half of a cross-post
@@ -43,7 +45,7 @@
 </script>
 <article class={["post", `post--${post.data.metadata.type}`, { "post--crosspost": crosspostType }]} style:--crosspost-accent={crosspostType ? `var(--${crosspostType})` : null}>
 	{#if replyParent}<div class="post-meta"><span>In reply to <a href={replyParent.url}>{replyParent.data.sectionTitle} post</a></span></div>{/if}
-	{#if post.data.showTitle}<h2 class="post-title"><a href={post.url}>{post.data.title}</a></h2>{/if}
+	{#if post.data.showTitle}<h2 class="post-title">{#if repoUrl}<a href={repoUrl}><i class={sourceIcons[post.data.metadata.type]}></i>{post.data.title}</a>{:else}<a href={post.url}>{post.data.title}</a>{/if}</h2>{/if}
 	{#if post.data.metadata.media?.featuredImage}{#if post.data.metadata.type === "youtube" && post.data.metadata.url}<a href={post.data.metadata.url} class="post-image-link"><img src={post.data.metadata.media.featuredImage} class="post-image" alt="Watch {post.data.title} on YouTube" loading="lazy" decoding="async"></a>{:else}<img src={post.data.metadata.media.featuredImage} class="post-image" alt="" loading="lazy" decoding="async">{/if}{/if}
 	<div class="post-content" data-pagefind-body={indexBody ? "" : null}>{#if openGraphImage}<a href={post.data.metadata.url}><img src={openGraphImage} class="post-image" width="1200" height="630" alt={post.data.title} loading="lazy" decoding="async"></a>{:else if html?.trim() || !post.data.description}{@html html}{:else}<p>{post.data.description}</p>{/if}</div>
 	<div class="post-footer">
