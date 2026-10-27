@@ -27,8 +27,8 @@
 
 	// Posts without content (e.g. npm releases) and GitHub READMEs outside their own page show their description instead
 	let html = $derived(resolveAssets(postContent || (post.data.metadata.type === "github" ? "" : post.content), post));
-	// GitHub and npm titles link to the repository
-	let repoUrl = $derived(post.data.metadata.type === "github" ? post.data.metadata.url : post.data.metadata.type === "npm" ? post.data.metadata.repository || post.data.metadata.url : undefined);
+	// GitHub and npm titles link to the repository or release
+	let repoUrl = $derived(["github", "npm"].includes(post.data.metadata.type) ? post.data.metadata.url : undefined);
 	let replyParent =$derived(group.posts.map(p => getReplyParent(collections.all, p.data.metadata.url)).find(Boolean));
 	// npm downloads are for the whole package in the past year
 	let counts = $derived({ ...getCounts(group.posts), downloads: post.data.metadata.type === "npm" ? post.data.counts?.downloads : 0 });
