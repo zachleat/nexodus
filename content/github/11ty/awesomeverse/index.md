@@ -9,10 +9,11 @@ date: 2026-10-27T15:22:37.000Z
 metadata:
   name: 11ty/awesomeverse
   language: Svelte
+  homepage: https://11ty.github.io/awesomeverse/
   uuid: 11ty/import::github::11ty/awesomeverse
   type: github
   url: https://github.com/11ty/awesomeverse
-  importHash: a86f2049f1b15e69
+  importHash: af87fbbf5329e967
 ---
 # Across the Awesomeverse
 

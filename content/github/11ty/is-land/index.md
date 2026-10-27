@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::11ty/is-land
   type: github
   url: https://github.com/11ty/is-land
-  importHash: fa2f9c806bf6e893
+  importHash: 9ea0d37d882fb8bf
 ---
 # `<is-land>`
 
@@ -104,6 +104,19 @@ Add any number of loading conditions to this tag to control how and when the isl
 </is-land>
 ```
 
+### Programmatic API
+
+Each loading condition is also available as a promise-returning method on `Island`.
+
+```
+await Island.onidle();
+await Island.onvisible(element);
+await Island.onload();
+await Island.oninteraction(element); // or Island.oninteraction(element, "mouseenter,focusin")
+await Island.onmedia("(min-width: 64em)");
+await Island.onsavedata(); // or Island.onsavedata("false")
+```
+
 ### Controlling Fallback Content
 
 #### Pre-JS
@@ -151,6 +164,21 @@ Embed a script inside the template to run custom JS when the island’s loading 
 </is-land>
 ```
 
+#### Import a module
+
+Use `import` to load a JavaScript module when the island’s loading conditions have been satisfied. Add `import-mount` to also call the module’s default export with the `<is-land>` element (after fallback content is restored and before `ready` is set, awaiting any returned promise).
+
+```
+<is-land on:visible import="my-component.js" import-mount></is-land>
+```
+
+```
+// my-component.js
+export default async function(island) {
+  // hydrate `island` here
+}
+```
+
 You can also use the `ready` attribute for styling, added to the `<is-land>` when the island has been hydrated.
 
 ```
@@ -160,6 +188,22 @@ is-land[ready] {
 }
 </style>
 ```
+
+#### View Transitions
+
+Use `Island.setSwapBehavior` to wrap the template and fallback content swap in a [View Transition](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API). Framework init types run after the swap and are not included.
+
+```
+Island.setSwapBehavior((swap, island) => {
+  if(document.startViewTransition) {
+    document.startViewTransition(swap);
+  } else {
+    swap();
+  }
+});
+```
+
+Your callback must call `swap`, otherwise the island never hydrates. The `island` argument is the `<is-land>` element being hydrated.
 
 ### Framework Component Support
 
