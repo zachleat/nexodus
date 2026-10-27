@@ -27,9 +27,9 @@ const CROSSPOST_SIMULTANEOUS = 60 * 1000;
 const SOURCE_PAGE_SIZE = 100;
 
 // Post words without links (or just their URLs), markup, or punctuation
-function getCrosspostWords(rawInput = "", keepLinkText = false) {
+function getCrosspostWords(rawInput = "", keepLinkText = false, keepAltText = false) {
 	return rawInput
-		.replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
+		.replace(/!\[([^\]]*)\]\([^)]*\)/g, keepAltText ? " $1 " : " ")
 		.replace(/\[([^\]]*)\]\([^)]*\)/g, keepLinkText ? " $1 " : " ")
 		.replace(/\.bsky\.social\b/g, "")
 		.replace(/<[^>]+>/g, " ")
@@ -61,10 +61,12 @@ function isCrosspost(a, b, gap) {
 	if(gap < CROSSPOST_SIMULTANEOUS && getWordSimilarity(a.linkWords, b.linkWords) >= CROSSPOST_SIMILARITY) {
 		return true;
 	}
-	if(a.key === b.key) {
+	if(a.key && a.key === b.key) {
 		return a.key.length >= 20;
 	}
-	return Math.min(a.words.length, b.words.length) >= CROSSPOST_MIN_WORDS && getWordSimilarity(a.words, b.words) >= CROSSPOST_SIMILARITY;
+	let isSimilar = (x, y) => Math.min(x.length, y.length) >= CROSSPOST_MIN_WORDS && getWordSimilarity(x, y) >= CROSSPOST_SIMILARITY;
+	// Image alt text also counts, so image-only posts can match
+	return isSimilar(a.words, b.words) || isSimilar(a.altWords, b.altWords);
 }
 
 // Groups the same (or nearly the same) text posted to different networks within a day, newest first
@@ -73,7 +75,7 @@ function getPostGroups(items) {
 	let recent = [];
 	for(let item of [...items].sort((a, b) => a.date - b.date)) {
 		let words = getCrosspostWords(item.page.rawInput);
-		let text = { words, key: words.join(""), linkWords: getCrosspostWords(item.page.rawInput, true) };
+		let text = { words, key: words.join(""), linkWords: getCrosspostWords(item.page.rawInput, true), altWords: getCrosspostWords(item.page.rawInput, false, true) };
 		recent = recent.filter(group => item.date - group.posts[0].date < CROSSPOST_WINDOW);
 		let group = recent.find(group => !group.posts.some(p => p.data.metadata.type === item.data.metadata.type) && isCrosspost(group.text, text, item.date - group.posts[0].date));
 		if(group) {
