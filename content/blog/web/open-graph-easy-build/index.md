@@ -7,6 +7,26 @@ metadata:
   uuid: 11ty/import::atom::https://www.zachleat.com/web/open-graph-easy-build/
   type: atom
   url: https://www.zachleat.com/web/open-graph-easy-build/
-  importHash: 259fff585f18dc25
+  importHash: 6770d913d7ca55fb
 ---
-\<p>\<em>Prior blog post (if you want the full context): \<a href="https://www.zachleat.com/web/automatic-opengraph/">If I work really hard on my Open Graph Images, People will share my Blog Posts\</a> (2021 Aug)\</em>\</p> \<p>Here’s the gist:\</p> \<blockquote> \<p>Open Graph images are those little pictures that show up when your site is shared on social media. \[…\] Each individual blog post (on my website) has a dedicated Open Graph image page.\</p> \</blockquote> \<p>These Open Graph pages had the URL shape \<code>/web/:title/opengraph/\</code> and there were 474 of them.\</p> \<p>This was great from a purist’s perspective (in that the Open Graph pages were built similarly to how I build other websites) but my perspective has changed a bit. I don’t think that server rendering a static page for each of the 474 blog posts is necessary! 🫣\</p> \<p>Now I use \<a href="https://www.zachleat.com/opengraph/">\<strong>one \<code>/opengraph/\</code> page\</strong>\</a> that \<strong>client renders\</strong> \<em>(the horror!)\</em> the appropriate metadata for the Open Graph image. Client rendering here is an appropriate tradeoff for build time because this page is still going through a Chromium-based screenshot service and the ultimate deliverable is a static image. This page isn’t intended to be consumed by human beings (unless they \<em>really\</em> want to, I dunno, I’m not your dad).\</p> \<p>Note that the caching mechanism hasn’t changed: it still lives in the screenshot service and the \<em>image\</em> content isn’t being regenerated from scratch (with my old static pages method or this new client rendered method).\</p> \<p>I now use this approach on a few places and it’s made implementing Open Graph support on websites much easier to build and manage:\</p> \<ul> \<li>\<a href="https://www.zachleat.com/opengraph/">zachleat.com\</a> (this is the web site you’re on now)\</li> \<li>\<a href="https://build.awesome.me/opengraph/">build.awesome.me\</a>\</li> \<li>\<a href="https://speedlify.dev/opengraph/">speedlify.dev\</a>\</li> \</ul> \<p>Importantly, there is no freeform mechanism on these pages to modify the content of the images via URL parameter. There is no \<code>?text=…\</code> to control the title text, it’s keyed off of the local page URL and that alone. I don’t want y’all to put whatever text you want next to my picture on my website (you have to do that on \<em>your\</em> website 😘).\</p>
+_Prior blog post (if you want the full context): [If I work really hard on my Open Graph Images, People will share my Blog Posts](https://www.zachleat.com/web/automatic-opengraph/) (2021 Aug)_
+
+Here’s the gist:
+
+> Open Graph images are those little pictures that show up when your site is shared on social media. \[…\] Each individual blog post (on my website) has a dedicated Open Graph image page.
+
+These Open Graph pages had the URL shape `/web/:title/opengraph/` and there were 474 of them.
+
+This was great from a purist’s perspective (in that the Open Graph pages were built similarly to how I build other websites) but my perspective has changed a bit. I don’t think that server rendering a static page for each of the 474 blog posts is necessary! 🫣
+
+Now I use [**one `/opengraph/` page**](https://www.zachleat.com/opengraph/) that **client renders** _(the horror!)_ the appropriate metadata for the Open Graph image. Client rendering here is an appropriate tradeoff for build time because this page is still going through a Chromium-based screenshot service and the ultimate deliverable is a static image. This page isn’t intended to be consumed by human beings (unless they _really_ want to, I dunno, I’m not your dad).
+
+Note that the caching mechanism hasn’t changed: it still lives in the screenshot service and the _image_ content isn’t being regenerated from scratch (with my old static pages method or this new client rendered method).
+
+I now use this approach on a few places and it’s made implementing Open Graph support on websites much easier to build and manage:
+
+-   [zachleat.com](https://www.zachleat.com/opengraph/) (this is the web site you’re on now)
+-   [build.awesome.me](https://build.awesome.me/opengraph/)
+-   [speedlify.dev](https://speedlify.dev/opengraph/)
+
+Importantly, there is no freeform mechanism on these pages to modify the content of the images via URL parameter. There is no `?text=…` to control the title text, it’s keyed off of the local page URL and that alone. I don’t want y’all to put whatever text you want next to my picture on my website (you have to do that on _your_ website 😘).

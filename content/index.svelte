@@ -4,7 +4,7 @@
 		eleventyExcludeFromCollections: true,
 		pagination: {
 			data: "collections.postGroups",
-			size: 50,
+			size: 100,
 			alias: "groups",
 		},
 		permalink: data => data.pagination.pageNumber > 0 ? `/page/${data.pagination.pageNumber + 1}/` : "/",

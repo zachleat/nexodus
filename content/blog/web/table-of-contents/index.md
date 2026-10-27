@@ -7,6 +7,38 @@ metadata:
   uuid: 11ty/import::atom::https://www.zachleat.com/web/table-of-contents/
   type: atom
   url: https://www.zachleat.com/web/table-of-contents/
-  importHash: e8f864d1429a5c15
+  importHash: 54cc528e52ba3756
 ---
-\<blockquote> \<p>…and another one.\</p> \</blockquote> \<p>This little (zero CSS) web component has two modes: progressively enhance a hierarchy of server rendered \<code>&lt;ol&gt;\</code> or \<code>&lt;ul&gt;\</code> elements (or conveniently client render them for you if they don’t exist) to highlight which are currently visible in the viewport.\</p> \<p>I pulled this code out of the \<a href="https://github.com/11ty/tugboat/blob/main/\_components/table-of-contents.webc">\<code>table-of-contents.webc\</code>\</a> component from the \<a href="https://tugboat.11ty.dev/">WebC Tugboat starter project\</a> for standalone use.\</p> \<ul> \<li>\<a href="https://zachleat.github.io/table-of-contents/demo.html">\<strong>Demo\</strong>\</a> \<ul> \<li>And a demo in the sidebar of this blog post on my website.\</li> \<li>And a server rendered demo on Blog Awesome, \<em>e.g. \<a href="https://blog.fontawesome.com/font-awesome-7-3-release/">Font Awesome 7.3 Is Here!\</a>\</em>\</li> \</ul> \</li> \<li>\<a href="https://github.com/zachleat/table-of-contents">Source code\</a>\</li> \<li>\<a href="https://www.npmjs.com/package/@zachleat/table-of-contents">\<code>@zachleat/table-of-contents\</code> on npm\</a>\</li> \</ul> \<p>You can configure a \<code>selector\</code> attribute to control the scope of the headings search. My site uses \<code>main :is(h2, h3)\</code> but the default is \<code>main :is(h2, h3, h4, h5, h6)\</code>.\</p> \<p>Again, all styles for this component are application styles. There is no component CSS on this one.\</p> \<h2 id="installation">Installation\</h2> \<pre tabindex="0">\<code>npm install @zachleat/table-of-contents\</code>\</pre> \<h2 id="some-sample-headings">Some sample headings\</h2> \<div class="card card--demo"> \<h3 id="heading-3a">Heading 3a\</h3> \<h4 id="heading-4-via-3a">Heading 4 (via 3a)\</h4> \<h3 id="heading-3b">Heading 3b\</h3> \<h4 id="heading-4-via-3b">Heading 4 (via 3b)\</h4> \<h3 id="heading-3c">Heading 3c\</h3> \</div>
+> …and another one.
+
+This little (zero CSS) web component has two modes: progressively enhance a hierarchy of server rendered `<ol>` or `<ul>` elements (or conveniently client render them for you if they don’t exist) to highlight which are currently visible in the viewport.
+
+I pulled this code out of the [`table-of-contents.webc`](https://github.com/11ty/tugboat/blob/main/_components/table-of-contents.webc) component from the [WebC Tugboat starter project](https://tugboat.11ty.dev/) for standalone use.
+
+-   [**Demo**](https://zachleat.github.io/table-of-contents/demo.html)
+    -   And a demo in the sidebar of this blog post on my website.
+    -   And a server rendered demo on Blog Awesome, _e.g. [Font Awesome 7.3 Is Here!](https://blog.fontawesome.com/font-awesome-7-3-release/)_
+-   [Source code](https://github.com/zachleat/table-of-contents)
+-   [`@zachleat/table-of-contents` on npm](https://www.npmjs.com/package/@zachleat/table-of-contents)
+
+You can configure a `selector` attribute to control the scope of the headings search. My site uses `main :is(h2, h3)` but the default is `main :is(h2, h3, h4, h5, h6)`.
+
+Again, all styles for this component are application styles. There is no component CSS on this one.
+
+## Installation
+
+```
+npm install @zachleat/table-of-contents
+```
+
+## Some sample headings
+
+### Heading 3a
+
+#### Heading 4 (via 3a)
+
+### Heading 3b
+
+#### Heading 4 (via 3b)
+
+### Heading 3c

@@ -13,7 +13,8 @@ function cleanCustomEmoji(str) {
 
 function renderAuthors(authors) {
 	return (authors || []).map(author => {
-		return `<a href="${author.url}">${cleanCustomEmoji(author.name)}</a>`
+		let name = cleanCustomEmoji(author.name);
+		return author.url ? `<a href="${author.url}">${name}</a>` : name;
 	}).join(" ");
 }
 
@@ -21,13 +22,16 @@ const CROSSPOST_WINDOW = 24 * 60 * 60 * 1000;
 // Share of words two posts need in common to count as a cross-post
 const CROSSPOST_SIMILARITY = .8;
 const CROSSPOST_MIN_WORDS = 5;
-const SOURCE_PAGE_SIZE = 50;
+// Posts published this close together only need similar text, including link text
+const CROSSPOST_SIMULTANEOUS = 60 * 1000;
+const SOURCE_PAGE_SIZE = 100;
 
-// Post words without links, URLs, markup, or punctuation
-function getCrosspostWords(rawInput = "") {
+// Post words without links (or just their URLs), markup, or punctuation
+function getCrosspostWords(rawInput = "", keepLinkText = false) {
 	return rawInput
 		.replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
-		.replace(/\[([^\]]*)\]\([^)]*\)/g, " ")
+		.replace(/\[([^\]]*)\]\([^)]*\)/g, keepLinkText ? " $1 " : " ")
+		.replace(/\.bsky\.social\b/g, "")
 		.replace(/<[^>]+>/g, " ")
 		.replace(/\\(.)/g, "$1")
 		.replace(/https?:\/\/\S+/g, " ")
@@ -53,7 +57,10 @@ function getWordSimilarity(a, b) {
 	return 2 * shared / (a.length + b.length);
 }
 
-function isCrosspost(a, b) {
+function isCrosspost(a, b, gap) {
+	if(gap < CROSSPOST_SIMULTANEOUS && getWordSimilarity(a.linkWords, b.linkWords) >= CROSSPOST_SIMILARITY) {
+		return true;
+	}
 	if(a.key === b.key) {
 		return a.key.length >= 20;
 	}
@@ -66,9 +73,9 @@ function getPostGroups(items) {
 	let recent = [];
 	for(let item of [...items].sort((a, b) => a.date - b.date)) {
 		let words = getCrosspostWords(item.page.rawInput);
-		let text = { words, key: words.join("") };
+		let text = { words, key: words.join(""), linkWords: getCrosspostWords(item.page.rawInput, true) };
 		recent = recent.filter(group => item.date - group.posts[0].date < CROSSPOST_WINDOW);
-		let group = recent.find(group => !group.posts.some(p => p.data.metadata.type === item.data.metadata.type) && isCrosspost(group.text, text));
+		let group = recent.find(group => !group.posts.some(p => p.data.metadata.type === item.data.metadata.type) && isCrosspost(group.text, text, item.date - group.posts[0].date));
 		if(group) {
 			group.posts.push(item);
 		} else {
@@ -142,25 +149,37 @@ export default function(eleventyConfig) {
 					if(post.data.metadata.type === "npm") {
 						(source.packageNames ??= new Set()).add(post.data.metadata.name);
 						source.packages = source.packageNames.size;
+						// Yearly downloads are per package, repeated on each release
+						(source.packageDownloads ??= new Map()).set(post.data.metadata.name, Math.max(source.packageDownloads.get(post.data.metadata.name) || 0, post.data.counts?.downloads || 0));
+						source.downloads = source.packageDownloads.values().reduce((sum, count) => sum + count, 0);
 					}
 					add(source, [post]);
 				}
 			}
+			// npm downloads count as views in the total
+			stats.total.views += stats.npm?.downloads || 0;
 			statsByGroups.set(groups, stats);
 		}
 		return statsByGroups.get(groups);
 	});
-	// Post groups per UTC year, including years without posts
+	// Post groups per UTC year, including years without posts, with how many include a source type
 	let activityByGroups = new WeakMap();
-	eleventyConfig.addFilter("getActivity", groups => {
+	eleventyConfig.addFilter("getActivity", (groups, type) => {
 		if(!activityByGroups.has(groups)) {
+			activityByGroups.set(groups, new Map());
+		}
+		let cache = activityByGroups.get(groups);
+		if(!cache.has(type)) {
 			let counts = Map.groupBy(groups, group => group.date.getUTCFullYear());
 			let first = Math.min(...counts.keys());
 			let last = Math.max(...counts.keys());
-			let years = Array.from({ length: last - first + 1 }, (_, index) => ({ year: first + index, count: counts.get(first + index)?.length || 0 }));
-			activityByGroups.set(groups, { years, max: Math.max(...years.map(({ count }) => count)), total: groups.length });
+			let years = Array.from({ length: last - first + 1 }, (_, index) => {
+				let matches = counts.get(first + index) || [];
+				return { year: first + index, count: matches.length, typeCount: type ? matches.filter(group => group.posts.some(post => post.data.metadata.type === type)).length : matches.length };
+			});
+			cache.set(type, { years, max: Math.max(...years.map(({ count }) => count)), typeTotal: years.reduce((sum, { typeCount }) => sum + typeCount, 0) });
 		}
-		return activityByGroups.get(groups);
+		return cache.get(type);
 	});
 	// Groups with the most likes, reposts, quotes, and replies
 	eleventyConfig.addFilter("getPopularGroups", (groups, limit) => {
@@ -188,11 +207,17 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.ignores.add("README.md");
+	// Letterboxd lists stay archived but aren’t published
+	eleventyConfig.ignores.add("content/letterboxd/*/list/**");
 	// Watching thousands of imported post files exhausts file handles (restart after `npm run import`)
 	eleventyConfig.watchIgnores.add("content/*/*/**");
 	eleventyConfig.addPlugin(eleventySvelte);
 	eleventyConfig.addPlugin(fontAwesomePlugin);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
+	eleventyConfig.addPassthroughCopy({
+		"node_modules/@zachleat/solar-eclipse-toggle/solar-eclipse-toggle.js": "solar-eclipse-toggle/solar-eclipse-toggle.js",
+		"node_modules/@zachleat/solar-eclipse-toggle/solar-eclipse-toggle.css": "solar-eclipse-toggle/solar-eclipse-toggle.css",
+	});
 	eleventyConfig.setServerOptions({ port: 8347 });
 	eleventyConfig.addGlobalData("buildTime", () => new Date());
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
@@ -271,11 +296,21 @@ export default function(eleventyConfig) {
 			node.attrs["eleventy:ignore"] = "";
 			return node;
 		});
+		tree.match({ tag: "video" }, node => {
+			node.attrs = { loading: "lazy", muted: "", autoplay: "", ...node.attrs };
+			return node;
+		});
 		return tree;
 	});
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		formats: ["passthrough"],
 		urlPath: "/img/",
+		defaultAttributes: {
+			alt: "",
+		},
+		sharpOptions: {
+			animated: true,
+		},
 	});
 
 	eleventyConfig.on("eleventy.after", async ({ results }) => {

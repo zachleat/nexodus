@@ -7,6 +7,36 @@ metadata:
   uuid: 11ty/import::atom::https://www.zachleat.com/web/two-state-dark-mode-toggle/
   type: atom
   url: https://www.zachleat.com/web/two-state-dark-mode-toggle/
-  importHash: ea21ec54ce7c63a1
+  importHash: 467f837bbb499cca
 ---
-\<div class="callout callout-update"> \<svg class="z-icon" width="1em" height="1em" viewBox="0 0 576 512">\<use href="#fas-fa-clock-rotate-left" xlink:href="#fas-fa-clock-rotate-left">\</use>\</svg> \<h3 id="update">Update\</h3> \<p>\<em>I made some updates and released it as a web component: details in \<a href="https://www.zachleat.com/web/solar-eclipse/">Solar Eclipse Toggle, a Dark/Light mode Toggle Web Component\</a>.\</em>\</p> \</div> \<p>Lea Verou sparked some lovely discussions about \<a href="https://lea.verou.me/blog/2026/dark-mode-toggles/">dark/light mode toggles\</a> by asking a simple question: do these form controls need three options for two user-facing states?\</p> \<p>You have \<em>Dark\</em> mode (1). You have \<em>Light\</em> mode (2). You have \<em>System\</em> mode (inheriting your operating system preference) which is ultimately \<em>Dark\</em> (1) or \<em>Light\</em> mode (2). Typically the form controls have three options:\</p> \<ul> \<li>\<em>System\</em> (auto)\</li> \<li>\<em>Light\</em> (saved on device as an override)\</li> \<li>\<em>Dark\</em> (saved on device as an override)\</li> \</ul> \<p>In Lea’s proposal, you’d have:\</p> \<ul> \<li>\<em>System\</em> (auto)\</li> \<li>Opposite of \<em>System\</em> (saved on device as an override)\</li> \</ul> \<p>Toggling back to system/auto should always clear any saved override preference.\</p> \<p>I’ve added a little toggle to the footer of my own site (noting when the system preference matches the current selection with \<code>(auto)\</code>) and it looks like:\</p> \<ul> \<li>\<s>\<code>Dark (auto) \[Toggle\] Light\</code>\</s>\</li> \<li>\<s>\<code>Dark \[Toggle\] Light (auto)\</code>\</s>\</li> \<li>\<code>Use light theme\</code> (shown) and \<code>Use dark theme (auto)\</code> for users with a \<em>Dark\</em> system preference.\</li> \<li>\<code>Use dark theme\</code> (shown) and \<code>Use light theme (auto)\</code> for users with a \<em>Light\</em> system preference.\</li> \</ul> \<p>I’m enjoying it so far!\</p> \<p>I should also note that \<a href="https://www.bram.us/2026/08/18/the-case-for-tri-state-dark-mode-toggles/">Bramus did write a criticism\</a> of the approach, noting a special case for users that have their system preference switch automatically (which I do personally use). I do think the simpler control and the simpler interaction (every toggle has a noticeable visual effect on the page) is worth the tradeoff there (personally). The strongest counterargument is that \<strong>one of the three options on the tri-state toggle has no visual effect at all.\</strong>\</p> \<p>\<em>Related: Lea’s reactions follow-up post: \<a href="https://lea.verou.me/blog/2026/dark-mode-toggles-2/">The best dark mode toggle is probably none\</a>.\</em>\</p>
+### Update
+
+_I made some updates and released it as a web component: details in [Solar Eclipse Toggle, a Dark/Light mode Toggle Web Component](https://www.zachleat.com/web/solar-eclipse/)._
+
+Lea Verou sparked some lovely discussions about [dark/light mode toggles](https://lea.verou.me/blog/2026/dark-mode-toggles/) by asking a simple question: do these form controls need three options for two user-facing states?
+
+You have _Dark_ mode (1). You have _Light_ mode (2). You have _System_ mode (inheriting your operating system preference) which is ultimately _Dark_ (1) or _Light_ mode (2). Typically the form controls have three options:
+
+-   _System_ (auto)
+-   _Light_ (saved on device as an override)
+-   _Dark_ (saved on device as an override)
+
+In Lea’s proposal, you’d have:
+
+-   _System_ (auto)
+-   Opposite of _System_ (saved on device as an override)
+
+Toggling back to system/auto should always clear any saved override preference.
+
+I’ve added a little toggle to the footer of my own site (noting when the system preference matches the current selection with `(auto)`) and it looks like:
+
+-   <s><code>Dark (auto) [Toggle] Light</code></s>
+-   <s><code>Dark [Toggle] Light (auto)</code></s>
+-   `Use light theme` (shown) and `Use dark theme (auto)` for users with a _Dark_ system preference.
+-   `Use dark theme` (shown) and `Use light theme (auto)` for users with a _Light_ system preference.
+
+I’m enjoying it so far!
+
+I should also note that [Bramus did write a criticism](https://www.bram.us/2026/08/18/the-case-for-tri-state-dark-mode-toggles/) of the approach, noting a special case for users that have their system preference switch automatically (which I do personally use). I do think the simpler control and the simpler interaction (every toggle has a noticeable visual effect on the page) is worth the tradeoff there (personally). The strongest counterargument is that **one of the three options on the tri-state toggle has no visual effect at all.**
+
+_Related: Lea’s reactions follow-up post: [The best dark mode toggle is probably none](https://lea.verou.me/blog/2026/dark-mode-toggles-2/)._

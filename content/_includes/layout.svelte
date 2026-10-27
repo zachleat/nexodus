@@ -12,6 +12,13 @@
 	let siteStats = $derived(collections?.postGroups?.length ? getSiteStats(collections.postGroups) : undefined);
 	// Sources with posts, labeled by the Pagefind `source` filter value
 	let postSources = $derived(statSources.filter(({ key }) => key !== "total" && siteStats?.[key]));
+	// Saved theme applied before first paint
+	const themeScript = `try {
+	let theme = localStorage.getItem("theme");
+	if(theme === "light" || theme === "dark") {
+		document.documentElement.setAttribute("data-theme", theme);
+	}
+} catch(e) {}`;
 	// Time since the build, e.g. “3 hours ago”
 	const buildTimeScript = `const time = document.querySelector(".build-time");
 const seconds = (new Date(time.dateTime) - Date.now()) / 1000;
@@ -98,6 +105,9 @@ more.addEventListener("click", showMore);`;
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{fullTitle}</title>
+		{@html `<script>${themeScript}<\/script>`}
+		<link rel="stylesheet" href="/solar-eclipse-toggle/solar-eclipse-toggle.css">
+		<script type="module" src="/solar-eclipse-toggle/solar-eclipse-toggle.js"></script>
 		{@html `<style>${getBundle("css")}</style>`}
 		{@html `<script type="module">${searchScript}<\/script>`}
 	</head>
@@ -106,29 +116,39 @@ more.addEventListener("click", showMore);`;
 			<div class="wrap">
 				<div class="site-nav">
 					<a href="/" class="site-title">{pageTitle}</a>
-					<nav aria-label="Site"><a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>Popular</a></nav>
 				</div>
-				<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, Hacker News, and blogs.</p>
-				<nav class="source-links" aria-label="Sources">
-					<a href="/" class="source-link source-link--all" aria-current={page.url === "/" ? "page" : null}><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{siteStats.total.posts.toLocaleString("en-US")}</span></a>
-					{#each postSources as { key, label, icon }}<a href="/{key}/" class={["source-link", `source-link--${key}`]} aria-current={sourcePage?.type === key ? "page" : null}><i class={icon}></i>{label} <span class="source-link-count">{siteStats[key].posts.toLocaleString("en-US")}</span></a>{/each}
-				</nav>
-				<form id="search" class="search" role="search" action="javascript:void(0)">
-					<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
-					<div class="search-results" hidden>
-						<p class="search-message" aria-live="polite"></p>
-						<ol class="search-list"></ol>
-						<button type="button" class="search-more" hidden>Load more results</button>
+				<div class="header-columns">
+					<div class="header-browse">
+						<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, Hacker News, and blogs. Browse the <a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>most popular posts</a>.</p>
+						<p class="site-built">Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
+						<nav class="source-links" aria-label="Sources">
+							<a href="/" class="source-link source-link--all" aria-current={page.url === "/" ? "page" : null}><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{siteStats.total.posts.toLocaleString("en-US")}</span></a>
+							{#each postSources as { key, label, icon }}<a href="/{key}/" class={["source-link", `source-link--${key}`]} aria-current={sourcePage?.type === key ? "page" : null}><i class={icon}></i>{label} <span class="source-link-count">{siteStats[key].posts.toLocaleString("en-US")}</span></a>{/each}
+						</nav>
+						<form id="search" class="search" role="search" action="javascript:void(0)">
+							<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
+							<div class="search-results" hidden>
+								<p class="search-message" aria-live="polite"></p>
+								<ol class="search-list"></ol>
+								<button type="button" class="search-more" hidden>Load more results</button>
+							</div>
+						</form>
 					</div>
-				</form>
-				{#if page.url === "/popular/"}<SiteStats /><Activity groups={collections.postGroups} />{/if}
+					<div class="header-stats"><SiteStats /><Activity groups={collections.postGroups} type={sourcePage?.type} /></div>
+				</div>
 			</div>
 		</header>
 		<main class="wrap">{@html content}</main>
 		<footer class="site-footer wrap">
-			{#if page.url !== "/popular/"}<SiteStats /><Activity groups={collections.postGroups} />{/if}
-			<p>Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
-			<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
+			<p><a href="https://build.awesome.me/">Built Awesome</a> with <a href="https://github.com/11ty/eleventy-import">11ty/import</a> and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
+			<solar-eclipse-toggle>
+				<button type="button" disabled>
+					<span class="se-label-dark" hidden><i class="fa-solid fa-moon"></i>Use dark theme</span>
+					<span class="se-label-light" hidden><i class="fa-solid fa-sun"></i>Use light theme</span>
+					<span class="se-label-unknown"><i class="fa-solid fa-circle-half-stroke"></i>Theme</span>
+					<span class="se-system">System</span>
+				</button>
+			</solar-eclipse-toggle>
 		</footer>
 		<div>{@html getBundle("fontawesome")}</div>
 		{@html `<script type="module">${buildTimeScript}<\/script>`}
@@ -137,9 +157,11 @@ more.addEventListener("click", showMore);`;
 <style>
 :global {
 	:root {
-		color-scheme: light dark;
+		color-scheme: light;
 		--bg: #f6f5f2;
 		--surface: #ffffff;
+		--wrap-max: 72rem;
+		--card-shadow: 0 1px 3px rgb(0 0 0 / .04), 0 2px 8px rgb(0 0 0 / .03);
 		--text: #1c1b19;
 		--muted: #6b6862;
 		--border: #e4e1da;
@@ -156,7 +178,8 @@ more.addEventListener("click", showMore);`;
 		--radius: 12px;
 	}
 	@media (prefers-color-scheme: dark) {
-		:root {
+		:root:not([data-theme="light"]) {
+			color-scheme: dark;
 			--bg: #141413;
 			--surface: #1d1c1a;
 			--text: #ecebe8;
@@ -173,6 +196,23 @@ more.addEventListener("click", showMore);`;
 			--activity: #39d353;
 		}
 	}
+	:root[data-theme="dark"] {
+		color-scheme: dark;
+		--bg: #141413;
+		--surface: #1d1c1a;
+		--text: #ecebe8;
+		--muted: #9c9890;
+		--border: #2e2c29;
+		--link: #8eaaff;
+		--fediverse: #c97ee6;
+		--github: #9198a1;
+		--npm: #e5605f;
+		--youtube: #ff4e45;
+		--letterboxd: #40bcf4;
+		--hackernews: #ff8a3d;
+		--blog: #94a3b8;
+		--activity: #39d353;
+	}
 	* { box-sizing: border-box; }
 	body {
 		margin: 0;
@@ -183,26 +223,26 @@ more.addEventListener("click", showMore);`;
 	}
 	a { color: var(--link); text-underline-offset: .15em; }
 	img, video { max-width: 100%; height: auto; border-radius: 8px; }
-	.wrap { max-width: 40rem; margin-inline: auto; padding-inline: 16px; }
+	.wrap { max-width: var(--wrap-max); margin-inline: auto; padding-inline: 16px; }
 
 	.site-header { padding-block: 2.5rem 1.5rem; }
 	.site-title { color: var(--text); font-size: 1.6rem; font-weight: 700; letter-spacing: -.02em; text-decoration: none; }
 	.site-nav { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1rem; }
-	.site-nav nav a { font-weight: 600; }
-	.site-nav nav a[aria-current] { color: var(--text); text-decoration: none; }
-	.page-title { margin: 0 0 .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
+	.page-title { max-width: calc(var(--wrap-max) - 32px); margin: 0 auto .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
 	ol.feed { margin: 0; padding: 0; list-style: none; }
-	.site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
+	.site-tagline { margin: .25rem 0 .5rem; color: var(--muted); }
+	.site-built { margin: 0 0 1.25rem; color: var(--muted); font-size: .85rem; }
+	.header-columns { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 28rem), 1fr)); gap: 1.5rem 3rem; align-items: start; }
+	.header-stats > :last-child { margin-bottom: 0; }
 	.site-stats-wrap { margin-bottom: 1.5rem; overflow-x: auto; }
-	.site-header .site-stats-wrap { margin: 1rem 0 0; font-size: .85rem; }
-	.site-stats { width: 100%; border-collapse: collapse; color: var(--muted); font-variant-numeric: tabular-nums; }
+	.site-stats { width: 100%; border-collapse: collapse; font-size: .85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
 	.site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; vertical-align: top; }
 	.site-stats :is(th, td):first-child { padding-left: .5rem; text-align: left; }
 	.site-stats :is(th, td):last-child { padding-right: .5rem; }
 	.site-stats :is(tbody, tfoot) th { font-weight: 600; }
 	.site-stats th a { color: inherit; }
 	.site-stats :is(tbody, tfoot) tr { border-top: 1px solid var(--border); }
-	.site-stats--total { background: color-mix(in srgb, var(--text) 3%, transparent); }
+	:is(.site-stats thead, .site-stats--total) { background: color-mix(in srgb, var(--text) 3%, transparent); }
 	.site-stats--total th { color: var(--text); }
 	.site-stats--bluesky th { color: var(--bluesky); }
 	.site-stats--fediverse th { color: var(--fediverse); }
@@ -223,15 +263,17 @@ more.addEventListener("click", showMore);`;
 		.site-stats-col--views { display: none; }
 		.site-stats-col--reposts { padding-right: .5rem; }
 	}
-	.site-header .activity { margin: 1rem 0 0; }
 	.activity { margin: 0 0 1.5rem; color: var(--muted); font-size: .75rem; font-variant-numeric: tabular-nums; }
 	.activity-years { display: grid; grid-template-columns: repeat(var(--years), 1fr); gap: 2px; margin: 0; padding: 0; list-style: none; }
 	.activity-year { min-width: 0; }
 	/* Top padding leaves room for the tallest bar’s count */
-	.activity-track { display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 7rem; padding-top: 1.25rem; }
-	.activity-bar { flex-shrink: 0; width: 100%; border-radius: 2px 2px 0 0; background: var(--activity); }
-	.activity-count { font-size: .65rem; white-space: nowrap; }
-	.activity-label { display: block; padding-top: .25rem; border-top: 1px solid var(--border); text-align: center; white-space: nowrap; }
+	.activity-track { position: relative; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 7rem; padding-top: 1.25rem; }
+	.activity-bar { display: flex; flex-direction: column-reverse; flex-shrink: 0; width: 100%; border-radius: 2px 2px 0 0; overflow: hidden; }
+	.activity-segment { flex-basis: 0; background: var(--activity); }
+	/* Posts from other sources on source pages */
+	.activity-segment--other { opacity: .15; }
+	.activity-count { position: absolute; inset-inline: 0; bottom: calc((100% - 1.25rem) * var(--level)); font-size: .65rem; line-height: 1.4; text-align: center; white-space: nowrap; }
+	.activity-label { display: block; padding-top: .25rem; border-top: 1px solid var(--border); font-size: .625rem; text-align: center; white-space: nowrap; }
 	.activity-label-short { display: none; }
 	.activity-caption { margin-top: .5rem; }
 	@media (max-width: 40em) {
@@ -241,15 +283,21 @@ more.addEventListener("click", showMore);`;
 	}
 	:is(.site-stats, .source-links) svg { height: 1em; overflow: visible; vertical-align: -.125em; }
 	.source-links svg { margin-right: .35em; }
-	.summary { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
+	.summary { max-width: calc(var(--wrap-max) - 32px); color: var(--muted); font-size: .9rem; margin: 0 auto 1rem; }
 
-	.feed { display: grid; gap: 1rem; }
+	main.wrap:has(.feed) { max-width: none; }
+	.entry { max-width: 40rem; margin-inline: auto; }
+	.entry > .pager:first-child { margin-block: 0 1rem; }
+	.crossposts { margin: .75rem 0 0; color: var(--muted); font-size: .9rem; }
+	.feed { columns: 24rem; column-gap: 1rem; }
+	.feed > * { break-inside: avoid; margin-bottom: 1rem; }
 	.post {
 		background: var(--surface);
 		border: 1px solid var(--border);
 		border-radius: var(--radius);
 		padding: 1rem 1.25rem;
 		overflow-wrap: anywhere;
+		box-shadow: var(--card-shadow);
 	}
 	.post-meta, .post-footer {
 		display: flex;
@@ -274,19 +322,18 @@ more.addEventListener("click", showMore);`;
 	.post-source--letterboxd { --accent: var(--letterboxd); }
 	.post-source--hackernews { --accent: var(--hackernews); }
 	.post-source--blog { --accent: var(--blog); }
-	.post.post--crosspost {
-		border-left: 3px solid transparent;
-		background: linear-gradient(var(--surface), var(--surface)) padding-box, linear-gradient(var(--bluesky), var(--fediverse)) border-box;
-	}
+	/* Service tint fading to the surface, and a second stripe beside the primary source border for cross-posts */
+	.post { background: linear-gradient(to right, color-mix(in srgb, var(--service, var(--surface)) 2%, var(--surface)), var(--surface)); }
+	.post.post--crosspost { background: linear-gradient(to right, color-mix(in srgb, var(--service) 2%, var(--surface)), color-mix(in srgb, var(--crosspost-accent) 2%, var(--surface))); box-shadow: inset 1px 0 0 var(--surface), inset 4px 0 0 var(--crosspost-accent), var(--card-shadow); }
 	.post-links { display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
-	.post.post--bluesky { border-left: 3px solid var(--bluesky); }
-	.post.post--fediverse { border-left: 3px solid var(--fediverse); }
-	.post.post--github { border-left: 3px solid var(--github); }
-	.post.post--npm { border-left: 3px solid var(--npm); }
-	.post.post--youtube { border-left: 3px solid var(--youtube); }
-	.post.post--letterboxd { border-left: 3px solid var(--letterboxd); }
-	.post.post--hackernews { border-left: 3px solid var(--hackernews); }
-	.post.post--blog { border-left: 3px solid var(--blog); }
+	.post.post--bluesky { --service: var(--bluesky); border-left: 3px solid var(--bluesky); }
+	.post.post--fediverse { --service: var(--fediverse); border-left: 3px solid var(--fediverse); }
+	.post.post--github { --service: var(--github); border-left: 3px solid var(--github); }
+	.post.post--npm { --service: var(--npm); border-left: 3px solid var(--npm); }
+	.post.post--youtube { --service: var(--youtube); border-left: 3px solid var(--youtube); }
+	.post.post--letterboxd { --service: var(--letterboxd); border-left: 3px solid var(--letterboxd); }
+	.post.post--hackernews { --service: var(--hackernews); border-left: 3px solid var(--hackernews); }
+	.post.post--blog { --service: var(--blog); border-left: 3px solid var(--blog); }
 	.post-title { margin: .5rem 0 0; font-size: 1.1rem; }
 	.post-title a { color: inherit; text-decoration: none; }
 	.post-image { display: block; margin-top: .75rem; }
@@ -296,7 +343,15 @@ more.addEventListener("click", showMore);`;
 	.post-content pre { padding: .75rem 1rem; background: var(--bg); border-radius: calc(var(--radius) - 4px); font-size: .85rem; }
 	.post-content > :first-child { margin-top: .5rem; }
 	.post-content > :last-child { margin-bottom: 0; }
+	.post > :first-child, .post > .post-content:first-child > :first-child { margin-top: 0; }
 	.post-content p { margin: .6rem 0; }
+	.feed .post-content { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 8; line-clamp: 8; overflow: hidden; }
+	/* Fade only when clamped, since the scroll timeline is inactive without overflow */
+	.feed .post-content { animation: post-content-fade linear both; animation-timeline: scroll(self); }
+	@keyframes post-content-fade {
+		from { mask-image: linear-gradient(to bottom, #000 calc(100% - 3em), transparent); }
+		to { mask-image: none; }
+	}
 
 	/* Mastodon link truncation */
 	.invisible { display: none; }
@@ -304,11 +359,10 @@ more.addEventListener("click", showMore);`;
 
 	.pager { display: flex; justify-content: space-between; margin-block: 2rem; font-weight: 600; }
 	.pager-disabled { color: var(--muted); opacity: .6; cursor: default; }
-	.pager--top { align-items: baseline; margin-block: 0 1rem; }
-	.pager--top > * { flex: 1; }
-	.pager--top > .summary { margin: 0; text-align: center; font-weight: 400; }
-	.pager--top > :last-child { text-align: right; }
-	.site-footer { padding-block: 2rem 3rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--border); }
+	.pager--top { align-items: baseline; justify-content: center; gap: 1.5rem; margin-block: 0 1rem; }
+	.pager--top > .summary { margin: 0; font-weight: 400; }
+	.site-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-block: 2rem 3rem; color: var(--muted); font-size: .85rem; }
+	.site-footer > p { margin: 0; }
 
 	/* Search */
 	.search { display: grid; gap: .75rem; }
