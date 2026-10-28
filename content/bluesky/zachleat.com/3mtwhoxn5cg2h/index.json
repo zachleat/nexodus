@@ -1,32 +1,4 @@
 {
-	"comments": [
-		{
-			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mtwixsi3322i",
-			"parentId": 0,
-			"url": "https://bsky.app/profile/brob.dev/post/3mtwixsi3322i",
-			"author": {
-				"name": "Bryan Robinson",
-				"url": "https://bsky.app/profile/brob.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
-			},
-			"date": "2026-08-25T19:01:38.901Z",
-			"content": "<p>One of the best non-profit ideas and implementations ever, in my opinion (as a father whose son received 60 books and is now an avid reader)</p>",
-			"via": "bluesky"
-		},
-		{
-			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtwjtig3bc2i",
-			"parentId": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mtwixsi3322i",
-			"url": "https://bsky.app/profile/zachleat.com/post/3mtwjtig3bc2i",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
-			},
-			"date": "2026-08-25T19:17:07.874Z",
-			"content": "<p>dang — what an incredible impact</p>",
-			"via": "bluesky"
-		}
-	],
 	"counts": {
 		"likes": 32,
 		"reposts": 1,
