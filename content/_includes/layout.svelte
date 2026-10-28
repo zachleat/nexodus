@@ -25,6 +25,65 @@ const seconds = (new Date(time.dateTime) - Date.now()) / 1000;
 const units = [["year", 31536000], ["month", 2592000], ["day", 86400], ["hour", 3600], ["minute", 60], ["second", 1]];
 const [unit, size] = units.find(([, size]) => Math.abs(seconds) >= size) || units.at(-1);
 document.querySelector(".build-time-ago").textContent = \` (\${new Intl.RelativeTimeFormat("en-US", { numeric: "auto" }).format(Math.round(seconds / size), unit)})\`;`;
+	// Stacks releases of the same npm package within a run of npm cards, before first paint
+	const npmStackScript = `for(let feed of document.querySelectorAll(".feed")) {
+	let groups = [];
+	let run = new Map();
+	for(let card of [...feed.children]) {
+		let name = card.dataset.npmPackage;
+		if(!name) {
+			run = new Map();
+		} else if(run.has(name)) {
+			run.get(name).push(card);
+		} else {
+			let group = [card];
+			run.set(name, group);
+			groups.push(group);
+		}
+	}
+	for(let cards of groups.filter(group => group.length > 1)) {
+		let stack = document.createElement("div");
+		stack.className = "npm-stack";
+		stack.style.setProperty("--npm-stack-peeks", Math.min(cards.length - 1, 3));
+		cards[0].before(stack);
+		let deck = document.createElement("div");
+		deck.className = "npm-stack-cards";
+		deck.append(...cards);
+		cards.forEach((card, index) => {
+			card.style.setProperty("--npm-stack-index", index);
+			card.inert = index > 0;
+		});
+		let toggle = document.createElement("button");
+		toggle.type = "button";
+		toggle.className = "npm-stack-toggle";
+		toggle.setAttribute("aria-expanded", "false");
+		let label = \`\${cards.length - 1} more \${cards.length === 2 ? "release" : "releases"}: \${cards.slice(1).map(card => card.dataset.npmVersion).join(", ")}\`;
+		toggle.textContent = \`Show \${label}\`;
+		let stackId = document.querySelectorAll(".npm-stack").length;
+		let update = () => {
+			let open = stack.classList.toggle("npm-stack--open");
+			toggle.setAttribute("aria-expanded", open);
+			toggle.textContent = open ? "Show fewer releases" : \`Show \${label}\`;
+			cards.slice(1).forEach(card => card.inert = !open);
+		};
+		toggle.addEventListener("click", () => {
+			if(!document.startViewTransition || matchMedia("(prefers-reduced-motion: reduce)").matches) {
+				update();
+				return;
+			}
+			// Named only during the transition so the cards fan out from (or fold into) the stack
+			let named = [...cards, toggle];
+			named.forEach((el, index) => {
+				el.style.viewTransitionName = \`npm-stack-\${stackId}-\${index}\`;
+				el.style.viewTransitionClass = "npm-stack";
+			});
+			document.startViewTransition(update).finished.finally(() => {
+				named.forEach(el => el.style.viewTransitionName = el.style.viewTransitionClass = "");
+			});
+		});
+		stack.append(deck, toggle);
+	}
+}`;
 	let searchScript = $derived.by(() => {
 		let keys = Object.fromEntries(postSources.map(({ key, label }) => [label, key]));
 		return `const base = ${JSON.stringify(htmlBaseUrl("/"))};
@@ -139,6 +198,7 @@ more.addEventListener("click", showMore);`;
 			</div>
 		</header>
 		<main class="wrap">{@html content}</main>
+		{@html `<script>${npmStackScript}<\/script>`}
 		<footer class="site-footer wrap">
 			<p><a href="https://build.awesome.me/">Built Awesome</a> with <a href="https://github.com/11ty/eleventy-import">11ty/import</a> and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
 			<solar-eclipse-toggle>
@@ -291,6 +351,42 @@ more.addEventListener("click", showMore);`;
 	.crossposts { margin: .75rem 0 0; color: var(--muted); font-size: .9rem; }
 	.feed { columns: 24rem; column-gap: 1rem; }
 	.feed > * { break-inside: avoid; margin-bottom: 1rem; }
+	/* Older releases of the same npm package peek out beneath the newest */
+	.npm-stack { position: relative; }
+	.npm-stack-cards { position: relative; isolation: isolate; display: grid; gap: 1rem; }
+	.npm-stack-cards > .post { z-index: calc(10 - var(--npm-stack-index)); }
+	.npm-stack:not(.npm-stack--open) .npm-stack-cards { padding-block-end: calc(var(--npm-stack-peeks) * 2rem); }
+	.npm-stack:not(.npm-stack--open) .post:not(:first-child) {
+		position: absolute;
+		inset: 0 0 calc(var(--npm-stack-peeks) * 2rem);
+		overflow: hidden;
+		translate: 0 calc(var(--npm-stack-index) * 2rem);
+		scale: calc(1 - var(--npm-stack-index) * .03) 1;
+		transition: translate .2s;
+	}
+	.npm-stack:not(.npm-stack--open) .post:not(:first-child) > * { visibility: hidden; }
+	/* Small title peeking out of each edge */
+	.npm-stack:not(.npm-stack--open) .post:not(:first-child) > .post-title {
+		visibility: visible;
+		position: absolute;
+		inset-block-end: .4rem;
+		inset-inline: 1.25rem;
+		margin: 0;
+		color: var(--muted);
+		font-size: .8rem;
+		font-weight: 600;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+	.npm-stack:not(.npm-stack--open) .post:nth-child(n + 5) { display: none; }
+	.npm-stack:not(.npm-stack--open):has(.npm-stack-toggle:hover) .post:not(:first-child) { translate: 0 calc(var(--npm-stack-index) * 2rem + .15rem); }
+	.npm-stack-toggle { padding: 0; border: 0; background: none; color: var(--muted); font: inherit; font-size: .85rem; cursor: pointer; }
+	/* Collapsed, the whole peeking area is the button */
+	.npm-stack:not(.npm-stack--open) .npm-stack-toggle { position: absolute; inset: auto 0 0; z-index: 1; height: calc(var(--npm-stack-peeks) * 2rem); color: transparent; overflow: hidden; }
+	.npm-stack--open .npm-stack-toggle { display: block; margin: .5rem auto 0; }
+	.npm-stack--open .npm-stack-toggle:hover { color: var(--text); text-decoration: underline; }
+	::view-transition-group(.npm-stack) { animation-duration: .4s; animation-timing-function: cubic-bezier(.2, .8, .2, 1); }
 	.post {
 		background: var(--surface);
 		border: 1px solid var(--border);

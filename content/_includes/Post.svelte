@@ -43,7 +43,7 @@
 		return `${count.toLocaleString("en-US")} ${count === 1 ? singular : pluralForm}`;
 	}
 </script>
-<article class={["post", `post--${post.data.metadata.type}`, { "post--crosspost": crosspostType }]} style:--crosspost-accent={crosspostType ? `var(--${crosspostType})` : null}>
+<article class={["post", `post--${post.data.metadata.type}`, { "post--crosspost": crosspostType }]} data-npm-package={post.data.metadata.type === "npm" ? post.data.metadata.name : null} data-npm-version={post.data.metadata.type === "npm" ? post.data.metadata.version : null} style:--crosspost-accent={crosspostType ? `var(--${crosspostType})` : null}>
 	{#if replyParent}<div class="post-meta"><span>In reply to <a href={replyParent.url}>{replyParent.data.sectionTitle} post</a></span></div>{/if}
 	{#if post.data.showTitle}<h2 class="post-title">{#if repoUrl}<a href={repoUrl}><i class={sourceIcons[post.data.metadata.type]}></i>{post.data.title}</a>{:else}<a href={post.url}>{post.data.title}</a>{/if}</h2>{/if}
 	{#if post.data.metadata.media?.featuredImage}{#if post.data.metadata.type === "youtube" && post.data.metadata.url}<a href={post.data.metadata.url} class="post-image-link"><img src={post.data.metadata.media.featuredImage} class="post-image" alt="Watch {post.data.title} on YouTube" loading="lazy" decoding="async"></a>{:else}<img src={post.data.metadata.media.featuredImage} class="post-image" alt="" loading="lazy" decoding="async">{/if}{/if}
