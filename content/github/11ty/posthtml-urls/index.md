@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/posthtml-urls
   type: github
   url: https://github.com/11ty/posthtml-urls
-  importHash: 7d9720210bb60c28
+  importHash: 2498d38b3e75ab9f
 ---
 # `@11ty/posthtml-urls`
 
@@ -30,8 +30,8 @@ npm install @11ty/posthtml-urls
 ## Usage
 
 ```
-const posthtml = require('posthtml');
-const urls = require('@11ty/posthtml-urls');
+import posthtml from 'posthtml';
+import urls from '@11ty/posthtml-urls';
 
 const options = {
   // rawNode added in v1.0.3
