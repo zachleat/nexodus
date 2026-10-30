@@ -144,19 +144,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "117479470027499597",
-			"parentId": 0,
-			"url": "https://mastodon.world/@rzeta0/117479469985275923",
-			"author": {
-				"name": "rzeta0",
-				"url": "https://mastodon.world/@rzeta0",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/413/751/695/443/328/original/5c6c00952044a7bb.png"
-			},
-			"date": "2026-10-21T14:54:11.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>does your definition of static include javascript?</p><p>mine doesn't</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "117479548658822517",
 			"parentId": 0,
 			"url": "https://fosstodon.org/@Monal/117479548551889503",
@@ -201,19 +188,6 @@
 			},
 			"date": "2026-10-21T16:15:57.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://infosec.exchange/@AlesandroOrtiz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AlesandroOrtiz</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Did you say Node? <a href=\"https://nodejs.org/en/blog/vulnerability/october-2026-security-releases\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nodejs.org/en/blog/vulnerabili</span><span class=\"invisible\">ty/october-2026-security-releases</span></a></p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "117479816818259611",
-			"parentId": "117479470027499597",
-			"url": "https://fediverse.zachleat.com/@zachleat/117479816818259611",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2026-10-21T16:22:23.932Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@rzeta0\" class=\"u-url mention\">@<span>rzeta0</span></a></span> no but I don’t begrudge you either way!</p>",
 			"via": "fediverse"
 		},
 		{
@@ -414,8 +388,8 @@
 	],
 	"counts": {
 		"likes": 386,
-		"reposts": 136,
-		"comments": 14,
+		"reposts": 133,
+		"comments": 13,
 		"via": "fediverse"
 	}
 }

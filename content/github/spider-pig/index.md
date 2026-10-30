@@ -10,10 +10,11 @@ metadata:
   name: zachleat/spider-pig
   language: JavaScript
   license: MIT
+  archived: true
   uuid: 11ty/import::github::zachleat/spider-pig
   type: github
   url: https://github.com/zachleat/spider-pig
-  importHash: e89cdfdf068a16e2
+  importHash: d8d7278bef55f4b7
 ---
 ![Homer Simpson holding the Spider Pig](spider-pig-eMfBPZOHDsvz.jpg)
 

@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/is-this-still-being-maintained
   type: github
   url: https://github.com/zachleat/is-this-still-being-maintained
-  importHash: 82804173933908ff
+  importHash: bb09f3f5b537e10d
 ---
 # is-this-still-being-maintained
 
@@ -86,7 +86,7 @@ A repo is skipped automatically if it's a fork, private, disabled, or has a `pac
 
 This gets exactly the same bypass as an `alwaysInclude` entry — the archived, private-package, monitor-allowlist, and unpublished filters, everywhere they're checked. Only a boolean `true` counts; anything else is ignored.
 
-**Archived repos are kept**, flagged with `isArchived: true`. Archiving retires the _repo_, not the published package — the code stays on npm and people keep installing it — so archived projects still contribute their publishing and download stats to the report and the cumulative totals. They always score 0 (see below).
+**Archived repos are kept**, flagged with `isArchived: true`. Archiving retires the _repo_, not the published package — the code stays on npm and people keep installing it — so archived projects still contribute their publishing and download stats to the report and the cumulative totals. They always score 0 (see below). Archived repos that aren't a project (e.g. folded into a monorepo) are listed in `archivedRepos` with their stars, closed issues and PRs.
 
 **Template copies are de-duplicated.** Many repos are generated from a starter (e.g. `eleventy-base-blog`) and keep the template's `package.json` name, so several repos claim the same npm package. Each published package is attributed only to the repo npm names in its `repository` field; repos that merely inherited the name are marked `not-source` and dropped, so the same package never appears more than once. If npm has no `repository` field, the package is kept as-is (it can't be disproven). With `publishedOnly` (the default), repos that have a `package.json` but were never published to npm — demos, starters, one-offs — are also left out of the report; the run summary still tells you how many were excluded. Set `publishedOnly: false` to include them.
 
@@ -101,7 +101,7 @@ This gets exactly the same bypass as an `alwaysInclude` entry — the archived, 
 Two extra files sit next to `report.json`, both keyed for direct sparkline rendering and both free of any timestamp — so they change (and get committed) only when the underlying data does, never just because the clock moved:
 
 -   `report-sparklines.json` — per package: `monthlyReleases`, `monthlyDownloads`, and `monthlyCdnHits`, each `{ start: "YYYY-MM", counts: [...] }` with a dense month-by-month series.
--   `report-sparkline-aggregate.json` — the same three series summed across every published package, plus `monthlyOpenVulnerabilities`, `monthlyOpenIssues` and `monthlyOpenPRs`: open totals across active packages (issues and PRs counted once per repo), snapshotted each run and ending at the current, partial month (vulnerabilities are backfilled from git history to 2026-08).
+-   `report-sparkline-aggregate.json` — the same three series summed across every published package, plus `monthlyOpenVulnerabilities`, `monthlyOpenIssues` and `monthlyOpenPRs`: open totals across active packages (issues and PRs counted once per repo), snapshotted each run and ending at the current, partial month (backfilled from git history: vulnerabilities to 2026-08, issues and PRs to 2026-07). Each also carries `low` and `high`, the lowest and highest counts seen by any run, since the current month is overwritten each run, with `lowMonth` and `highMonth` (`"YYYY-MM"`, most recent month on a tie).
 
 `monthlyDownloads` and `monthlyCdnHits` share a start month and length, so they can be plotted on the same axis. Every series is trimmed to **complete** months at both ends: a partial leading or trailing month silently undercounts and would render as a false dip.
 

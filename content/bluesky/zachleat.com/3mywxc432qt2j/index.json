@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mywxepl5fs2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/kilianvalkhof.com/post/3mywxepl5fs2z",
+			"author": {
+				"name": "Kilian Valkhof",
+				"url": "https://bsky.app/profile/kilianvalkhof.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6uec3g7xgkvxpy442663waq/bafkreierzj24duh6a4bulcv46iest4pl5zzvbmgrnetuzkd2ff66spv2lq"
+			},
+			"date": "2026-10-28T14:25:22.588Z",
+			"content": "<p>it sucks extra because it's a really nice font when used in the right place.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mywxnv5ubc2a",
+			"parentId": "at://did:plc:z6uec3g7xgkvxpy442663waq/app.bsky.feed.post/3mywxepl5fs2z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mywxnv5ubc2a",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-28T14:30:30.434Z",
+			"content": "<p>somehow reminded of this too <a href=\"https://www.jezebel.com/type-artist-who-created-the-font-the-white-house-now-uses-says-fuck-trump\">www.jezebel.com/type-artist-...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:udlfmtlefi6ypb3cczb7aju2/app.bsky.feed.post/3myx7xwxxq22x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/logicface.co.uk/post/3myx7xwxxq22x",
+			"author": {
+				"name": "LOGiCFACE",
+				"url": "https://bsky.app/profile/logicface.co.uk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:udlfmtlefi6ypb3cczb7aju2/bafkreiaxbbzn6fs7tahqouluyhdo4vn5me6y7fsv7p4jza6lvnyjmy6mpe"
+			},
+			"date": "2026-10-28T16:59:17.817Z",
+			"content": "<p>okay not just me then</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 9,
+		"comments": 2,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}
