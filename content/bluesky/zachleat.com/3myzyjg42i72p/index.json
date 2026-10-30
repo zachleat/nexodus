@@ -1,0 +1,48 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:l4oopsoxraqat2yc4a74f7mi/app.bsky.feed.post/3mz2ff744422f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tonjohn.bsky.social/post/3mz2ff744422f",
+			"author": {
+				"name": "BurtonJ",
+				"url": "https://bsky.app/profile/tonjohn.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4oopsoxraqat2yc4a74f7mi/bafkreih23c43zc2hikxvgkcbfqpri5yy4hyymuq77ipoqeqtkn2vw37g3a"
+			},
+			"date": "2026-10-29T23:14:10.473Z",
+			"content": "<p>Hill I’ll die on:</p>\n<p>people are sleeping on Angular</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mz2inc6ses2g",
+			"parentId": "at://did:plc:l4oopsoxraqat2yc4a74f7mi/app.bsky.feed.post/3mz2ff744422f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mz2inc6ses2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-30T00:12:23.368Z",
+			"content": "<p>for this one piece alone you’re absolutely right.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4pb3ctkfjsh6hmtl4mxuezrh/app.bsky.feed.post/3mz2ixkmif422",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/djara.dev/post/3mz2ixkmif422",
+			"author": {
+				"name": "Juan D. Jara",
+				"url": "https://bsky.app/profile/djara.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4pb3ctkfjsh6hmtl4mxuezrh/bafkreigvdzkg2iheal2ct56ty4m6m6kgcrpq7runz6enkxbuxplm7nhsbi"
+			},
+			"date": "2026-10-30T00:18:06.731Z",
+			"content": "<p><a href=\"https://bsky.app/profile/did:plc:wvlbhx2c2srslifqzdiyaqpt\">@gabboman.xyz</a> would like this</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 7,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

@@ -163,10 +163,23 @@
 			"private": true,
 			"date": "2026-10-29T05:02:39.966Z",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mz2n45m2ck22",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3myy75um5ss2g",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mz2n45m2ck22",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-10-30T01:32:16.841Z",
+			"content": "<p>I want to see the vision. I want to be a true believer.</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 18,
+		"likes": 20,
 		"comments": 4,
 		"via": "bluesky"
 	}

@@ -61,14 +61,6 @@
 			"via": "bluesky"
 		},
 		{
-			"id": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mu6ics5wy22c",
-			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu6cr2m7cs2u",
-			"url": "https://bsky.app/profile/toddl.dev/post/3mu6ics5wy22c",
-			"private": true,
-			"date": "2026-08-28T23:11:11.832Z",
-			"via": "bluesky"
-		},
-		{
 			"id": "at://did:plc:gb43id6us6iqho6fvkhik5x2/app.bsky.feed.post/3mu6in54v522t",
 			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mu6cr2m7cs2u",
 			"url": "https://bsky.app/profile/wildbuilt.eurosky.social/post/3mu6in54v522t",
@@ -141,19 +133,6 @@
 			"via": "bluesky"
 		},
 		{
-			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mub3v4a7cs25",
-			"parentId": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mu6ics5wy22c",
-			"url": "https://bsky.app/profile/zachleat.com/post/3mub3v4a7cs25",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
-			},
-			"date": "2026-08-30T00:06:46.944Z",
-			"content": "<p>jackson pollack could make a fine favicon</p>",
-			"via": "bluesky"
-		},
-		{
 			"id": "at://did:plc:ab3gkdukcv4niwl3ck3jx6ew/app.bsky.feed.post/3mub3yetfo227",
 			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mub3qt7xg225",
 			"url": "https://bsky.app/profile/matthewmorete.com/post/3mub3yetfo227",
@@ -164,14 +143,6 @@
 			},
 			"date": "2026-08-30T00:08:36.624Z",
 			"content": "<p>very fair I was just checking! I thought maybe we were disavowing all data urls so just wanted to share my fav usage</p>",
-			"via": "bluesky"
-		},
-		{
-			"id": "at://did:plc:gevyqibw5p2xsonkbsbjm5vy/app.bsky.feed.post/3mub5a4d2kc2d",
-			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mub3v4a7cs25",
-			"url": "https://bsky.app/profile/toddl.dev/post/3mub5a4d2kc2d",
-			"private": true,
-			"date": "2026-08-30T00:30:49.874Z",
 			"via": "bluesky"
 		},
 		{
@@ -296,7 +267,7 @@
 			"parentId": 0,
 			"url": "https://bsky.app/profile/alvaromontoro.com/post/3muf3zcqads23",
 			"author": {
-				"name": "Álvaro Montoro",
+				"name": "Álvaro Montoro at JSConf MX",
 				"url": "https://bsky.app/profile/alvaromontoro.com",
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xei4kpuuaogvgnvufre7wvjm/bafkreigphqyvgorv7zyiphugwgccquzbevo7hvxflrujfoy6qhee4o6goy"
 			},

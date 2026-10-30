@@ -1,0 +1,96 @@
+{
+	"comments": [
+		{
+			"id": "117526171836032093",
+			"parentId": 0,
+			"url": "https://front-end.social/@conr/117526171823395372",
+			"author": {
+				"name": "Conor 💻",
+				"url": "https://front-end.social/@conr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/481/835/877/623/120/original/fade07d7e15e42fe.png"
+			},
+			"date": "2026-10-29T20:51:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Would pnpm be able to audit those better?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117526288542467469",
+			"parentId": "117526171836032093",
+			"url": "https://fediverse.zachleat.com/@zachleat/117526288542467469",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-29T21:20:46.170Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@conr\" class=\"u-url mention\">@<span>conr</span></a></span> oh, I don’t know! I wouldn’t expect pnpm to look at package contents to try to find bundled deps, that seems like a costly practice!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117526312807900895",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117526312807900895",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-29T21:26:56.432Z",
+			"content": "<p>Found this excellent article about this topic from <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@43081j\" class=\"u-url mention\">@<span>43081j</span></a></span> <a href=\"https://e18e.dev/blog/bundling-dependencies\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">e18e.dev/blog/bundling-depende</span><span class=\"invisible\">ncies</span></a></p><p>I might suggest adding `next` as an example here (and also maybe add one more benefit and drawback: explicit control of the supply chain)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117526313541690412",
+			"parentId": "117526288542467469",
+			"url": "https://front-end.social/@conr/117526313452095502",
+			"author": {
+				"name": "Conor 💻",
+				"url": "https://front-end.social/@conr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/481/835/877/623/120/original/fade07d7e15e42fe.png"
+			},
+			"date": "2026-10-29T21:27:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117526931014418801",
+			"parentId": 0,
+			"url": "https://mamot.fr/@mokobien/117526930995975403",
+			"private": true,
+			"date": "2026-10-30T00:04:09.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117529622300449437",
+			"parentId": 0,
+			"url": "https://social.lol/@tonymottaz/117529622281271566",
+			"author": {
+				"name": "Tony Mottaz",
+				"url": "https://social.lol/@tonymottaz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/424/018/357/353/594/original/88559af774df21ad.jpeg"
+			},
+			"date": "2026-10-30T11:28:34.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> and I think they’re monkey patching some stuff in this dependencies so… who knows how many vulnerabilities there actually are!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117529901486068268",
+			"parentId": "117529622300449437",
+			"url": "https://fediverse.zachleat.com/@zachleat/117529901486068268",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T12:39:35.315Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tonymottaz\" class=\"u-url mention\">@<span>tonymottaz</span></a></span> whoa, really!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 8,
+		"reposts": 4,
+		"comments": 4,
+		"via": "fediverse"
+	}
+}

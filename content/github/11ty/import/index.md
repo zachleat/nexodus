@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::11ty/import
   type: github
   url: https://github.com/11ty/import
-  importHash: 2a1756cfc7bf754a
+  importHash: 568af08c47f1a671
 ---
 # `@11ty/import`
 
@@ -307,7 +307,7 @@ Some sources also add a `counts` object (e.g. `{ "likes": 12, "reposts": 3, "com
 -   `youtubeuser`: `likes`, `views`
 -   `flickr`: `likes` (faves), `comments`, `views`
 -   `devto`: `likes` (reactions), `comments`
--   `npm`: `downloads` (of the package in the previous year, on every release)
+-   `npm`: `downloads` and `cdnHits` (jsDelivr requests for the package’s files), both for the package in the previous year, on every release
 -   `substack`: `likes` (reactions), `reposts` (restacks), `comments`
 -   `instagram`: `likes` (unless hidden), `comments`
 -   `hackernews`: `points`, `comments`
