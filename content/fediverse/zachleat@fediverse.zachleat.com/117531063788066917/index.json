@@ -1,0 +1,91 @@
+{
+	"comments": [
+		{
+			"id": "117531183542348210",
+			"parentId": 0,
+			"url": "https://mastodon.guerilla.studio/@tixie/117531183503333764",
+			"private": true,
+			"date": "2026-10-30T18:05:37.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531261515522486",
+			"parentId": "117531183542348210",
+			"url": "https://fediverse.zachleat.com/@zachleat/117531261515522486",
+			"private": true,
+			"date": "2026-10-30T18:25:27.716Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531333995164074",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117531333995164074",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T18:43:53.667Z",
+			"content": "<p>anyway I hope the <a href=\"https://www.cia.gov/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">cia.gov/</span><span class=\"invisible\"></span></a> gatsby website is doing ok</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531645009195886",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117531645009195886",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T20:02:59.364Z",
+			"content": "<p>worth noting in case it isn’t clear: this isn’t the fault of the developer team, this is a funding and resource allocation issue</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531833907245097",
+			"parentId": 0,
+			"url": "https://mastodon.social/@localnerve/117531833346961533",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2026-10-30T20:50:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>Get in, let's go<br><a href=\"https://mastodon.social/@localnerve/117531806346986830\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@localnerve/11</span><span class=\"invisible\">7531806346986830</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531852329906088",
+			"parentId": "117531833907245097",
+			"url": "https://fediverse.zachleat.com/@zachleat/117531852329906088",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T20:55:42.829Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@localnerve\" class=\"u-url mention\">@<span>localnerve</span></a></span> …wait</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531942863918378",
+			"parentId": "117531852329906088",
+			"url": "https://mastodon.social/@localnerve/117531942671103993",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/141/968/680/223/545/original/1d8ffc7eeafe91eb.png"
+			},
+			"date": "2026-10-30T21:18:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>You snooze, you lose 😂</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 1,
+		"comments": 4,
+		"via": "fediverse"
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"comments": [
+		{
+			"id": "117531863858527106",
+			"parentId": 0,
+			"url": "https://mastodon.social/@kleinfreund/117531863657616318",
+			"author": {
+				"name": "Philipp Tootloff",
+				"url": "https://mastodon.social/@kleinfreund",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/804/437/227/104/original/cf0e31e8d330ec8c.png"
+			},
+			"date": "2026-10-30T20:58:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> How many ports could one man need</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531866867191807",
+			"parentId": 0,
+			"url": "https://mementomori.social/@autiomaa/117531866821120383",
+			"private": true,
+			"date": "2026-10-30T20:59:23.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117531976604178414",
+			"parentId": 0,
+			"url": "https://mastodon.social/@sil/117531976529686405",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2026-10-30T21:27:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I have a certain amount of sympathy with the browser team here because… there’s nobody else you can show the error to. A way to have a failing web page email its creator would be fabulous for this but it doesn’t exist. I think what chrome are doing here is bad, I agree. I’m not sure what else they can do. Maybe they should do nothing: that’s about it.</p><p><a href=\"https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kryogenix.org/days/2023/01/02/</span><span class=\"invisible\">what-to-do-about-hotlinking/</span></a> is this same problem from a different angle and I didn’t know what to do about it there either.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532118730032567",
+			"parentId": 0,
+			"url": "https://aus.social/@peterwilsoncc/117532118637326188",
+			"author": {
+				"name": "Peter Wilson",
+				"url": "https://aus.social/@peterwilsoncc",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/454/460/911/870/255/original/0b4c5fd3f963a4e6.png"
+			},
+			"date": "2026-10-30T22:03:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I haven’t checked recently but at some point Chrome was showing both that error and a warning for missing style sheets.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532126017964343",
+			"parentId": "117531976604178414",
+			"url": "https://fediverse.zachleat.com/@zachleat/117532126017964343",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T22:05:18.977Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> hmm… I guess I had expected that they would just inject the XSLT JS polyfill clientside. Not ideal but better than this.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532127425300709",
+			"parentId": "117532118730032567",
+			"url": "https://fediverse.zachleat.com/@zachleat/117532127425300709",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T22:05:40.451Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@peterwilsoncc\" class=\"u-url mention\">@<span>peterwilsoncc</span></a></span> ugh.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532152444088312",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117532152444088312",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T22:12:02.206Z",
+			"content": "<p>filed a few followups to this, for interested folks:</p><p><a href=\"https://github.com/11ty/eleventy-base-blog/issues/264\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-base-</span><span class=\"invisible\">blog/issues/264</span></a><br /><a href=\"https://github.com/11ty/plugin-rss/issues/106\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/plugin-rss/iss</span><span class=\"invisible\">ues/106</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 2,
+		"comments": 5,
+		"via": "fediverse"
+	}
+}

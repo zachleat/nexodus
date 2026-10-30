@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mz4p5tw34k2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3mz4p5tw34k2t",
+			"private": true,
+			"date": "2026-10-30T21:14:20.754Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mz4rehps6k2r",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mz4p5tw34k2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mz4rehps6k2r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-30T21:53:50.331Z",
+			"content": "<p>…oh no</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mz4smpvivs2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mz4smpvivs2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-30T22:16:21.084Z",
+			"content": "<p>filed a few followups to this, for interested folks:</p>\n<p><a href=\"https://github.com/11ty/eleventy-base-blog/issues/264\">github.com/11ty/elevent...</a><br>\n<a href=\"https://github.com/11ty/plugin-rss/issues/106\">github.com/11ty/plugin-...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 11,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

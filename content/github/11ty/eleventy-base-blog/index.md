@@ -10,7 +10,7 @@ authors:
 date: 2018-01-15T19:28:07.000Z
 metadata:
   name: 11ty/eleventy-base-blog
-  language: Nunjucks
+  language: JavaScript
   license: MIT
   homepage: https://demo-base-blog.11ty.dev/
   tags:
@@ -20,7 +20,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-base-blog
   type: github
   url: https://github.com/11ty/eleventy-base-blog
-  importHash: c85a8f16abc4362a
+  importHash: 042535baa79fbf62
 tags:
   - blog
   - eleventy

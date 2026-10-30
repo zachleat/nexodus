@@ -1,0 +1,48 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ka6432pfe364n2kjrfhi7aro/app.bsky.feed.post/3mz4hvxrjjs2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/chance.dev/post/3mz4hvxrjjs2w",
+			"author": {
+				"name": "Chance",
+				"url": "https://bsky.app/profile/chance.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ka6432pfe364n2kjrfhi7aro/bafkreihpirsrdqzw4bcqsekfuzo6xh3aienjl57iggo2dbze7nttp573iu"
+			},
+			"date": "2026-10-30T19:04:40.170Z",
+			"content": "<p>I hope nothing related to the CIA is doing ok</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mz4izy4x7c2y",
+			"parentId": "at://did:plc:ka6432pfe364n2kjrfhi7aro/app.bsky.feed.post/3mz4hvxrjjs2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mz4izy4x7c2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-10-30T19:24:48.506Z",
+			"content": "<p>well their tech stack is in real trouble here</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ka6432pfe364n2kjrfhi7aro/app.bsky.feed.post/3mz4lchu6mk2g",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mz4izy4x7c2y",
+			"url": "https://bsky.app/profile/chance.dev/post/3mz4lchu6mk2g",
+			"author": {
+				"name": "Chance",
+				"url": "https://bsky.app/profile/chance.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ka6432pfe364n2kjrfhi7aro/bafkreihpirsrdqzw4bcqsekfuzo6xh3aienjl57iggo2dbze7nttp573iu"
+			},
+			"date": "2026-10-30T20:05:20.912Z",
+			"content": "<p>Let the great gatsby be its downfall!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}
