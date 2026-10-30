@@ -32,5 +32,9 @@ async function runImport(type, target, output) {
 }
 
 for(let { type, target, output } of config) {
-	await runImport(type, target, output);
+	try {
+		await runImport(type, target, output);
+	} catch(e) {
+		console.error(`[nexodus] Import failed for ${type} (${target}):`, e);
+	}
 }
