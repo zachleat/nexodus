@@ -1,8 +1,8 @@
 {
 	"counts": {
-		"likes": 7,
+		"likes": 8,
 		"reposts": 1,
-		"comments": 1,
+		"comments": 2,
 		"via": "fediverse"
 	},
 	"comments": [
@@ -17,6 +17,19 @@
 			},
 			"date": "2026-10-30T22:50:17.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🍿</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117536705903977312",
+			"parentId": 0,
+			"url": "https://mastodon.online/@tunafishtiger/117536705852725159",
+			"author": {
+				"name": "TunafishTiger",
+				"url": "https://mastodon.online/@tunafishtiger",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/078/713/514/036/549/original/57a1c9d12b27a3f6.png"
+			},
+			"date": "2026-10-31T17:30:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I view the reality of dependencies on the web the same way I view flash-drives you find on the ground. Don’t plug them in unless you really have to, and with the knowledge that it’s a bad idea.</p>",
 			"via": "fediverse"
 		}
 	]

@@ -215,6 +215,97 @@
 			"date": "2026-10-31T06:59:43.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> from the folks who tried to convince the world that AMP was the future, and who are hell-bent on putting \"agentic\" webMCP bullshit everywhere</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117535725152316547",
+			"parentId": "117533931472786419",
+			"url": "https://fediverse.zachleat.com/@zachleat/117535725152316547",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-31T13:20:37.409Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> oh, they maintained the polyfill? Let me maintain the polyfill, then! 🫣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117535912321531688",
+			"parentId": "117535725152316547",
+			"url": "https://mastodon.social/@sil/117535912242763274",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2026-10-31T14:08:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> no no, if they inject a polyfill then... that's them supporting xsl, right? and they want to not support it. (I don't think there's a meaningful difference between \"we support XSL in browser\" and \"we automatically inject JS which supports XSL\". In particular, if you file a bug about it, getting told \"we won't fix that because we don't actually support it, technically it's JS that's auto-injected by us but it's not actually us, so no fixes for you\" is for the birds as an answer)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117536085171996548",
+			"parentId": "117535912321531688",
+			"url": "https://fediverse.zachleat.com/@zachleat/117536085171996548",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-31T14:52:10.873Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> i’m confused what the goal is here 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117536640219943211",
+			"parentId": "117536085171996548",
+			"url": "https://mastodon.social/@sil/117536640149117926",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2026-10-31T17:13:19.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> maybe I'm being dim today? I think:</p><p>1. chrome want to stop supporting xsl entirely, so XML pages will just display as XML and won't be transformed<br>2. they don't have a way to tell people who publish such pages to prep for this, so they put a notice up for the users of those pages instead<br>3. we are all sad about how a web user, the one person guaranteed to not be able to help with it, gets given an error message they can't resolve</p><p>but we're unsure whether \"no error message\" is worse?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117536662251851195",
+			"parentId": "117531976604178414",
+			"url": "https://front-end.social/@robinwhittleton/117536662223943503",
+			"author": {
+				"name": "Robin Whittleton",
+				"url": "https://front-end.social/@robinwhittleton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/111/368/535/474/087/976/original/bbcae0cbe7e6c684.jpg"
+			},
+			"date": "2026-10-31T17:18:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh hang on, this is a _browser_ error? Why’s it injected into the viewport and which designer signed off on it? That’s awful!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117536965947507390",
+			"parentId": "117536662251851195",
+			"url": "https://mastodon.social/@sil/117536965816756662",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2026-10-31T18:36:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@robinwhittleton\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>robinwhittleton</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> oh! maybe this is totally my misunderstanding and it's been added by that webpage itself? if it's not being put there by the browser then I have completely misunderstood and you should ignore everything I've said while I go and sit on the step for stupid boys.<br>If the website themselves are putting a big red user-facing error on a page they own rather than *fixing* it then yeah totally I entirely understand why Zach's questioning it! why would you do that? that's crap!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117537379505053114",
+			"parentId": "117536965947507390",
+			"url": "https://fediverse.zachleat.com/@zachleat/117537379505053114",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-31T20:21:20.828Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@sil\" class=\"u-url mention\">@<span>sil</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@robinwhittleton\" class=\"u-url mention\">@<span>robinwhittleton</span></a></span> I have full control of that code so I didn’t add the error! I suppose I may have missed something there but my read was that it is a browser level error message</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {

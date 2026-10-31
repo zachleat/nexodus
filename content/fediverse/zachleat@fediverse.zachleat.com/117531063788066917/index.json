@@ -93,12 +93,38 @@
 			"date": "2026-10-30T22:50:17.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> 🍿</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117536705903977312",
+			"parentId": "117531333995164074",
+			"url": "https://mastodon.online/@tunafishtiger/117536705852725159",
+			"author": {
+				"name": "TunafishTiger",
+				"url": "https://mastodon.online/@tunafishtiger",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/078/713/514/036/549/original/57a1c9d12b27a3f6.png"
+			},
+			"date": "2026-10-31T17:30:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I view the reality of dependencies on the web the same way I view flash-drives you find on the ground. Don’t plug them in unless you really have to, and with the knowledge that it’s a bad idea.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117536743207714196",
+			"parentId": 0,
+			"url": "https://mastodon.online/@tunafishtiger/117536743145572455",
+			"author": {
+				"name": "TunafishTiger",
+				"url": "https://mastodon.online/@tunafishtiger",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/112/078/713/514/036/549/original/57a1c9d12b27a3f6.png"
+			},
+			"date": "2026-10-31T17:39:30.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> This is a resource issue but also I think the biggest unsolved problem in computer science besides “what is a string” is networks. We moved computers into production on networks way too quickly by about a hundred years and everything we’re dealing with in this world now is because of that.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
 		"likes": 11,
 		"reposts": 1,
-		"comments": 4,
+		"comments": 5,
 		"via": "fediverse"
 	}
 }
