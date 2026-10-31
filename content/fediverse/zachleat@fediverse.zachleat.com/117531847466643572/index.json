@@ -85,12 +85,129 @@
 			"date": "2026-10-30T22:12:02.206Z",
 			"content": "<p>filed a few followups to this, for interested folks:</p><p><a href=\"https://github.com/11ty/eleventy-base-blog/issues/264\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-base-</span><span class=\"invisible\">blog/issues/264</span></a><br /><a href=\"https://github.com/11ty/plugin-rss/issues/106\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/plugin-rss/iss</span><span class=\"invisible\">ues/106</span></a></p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117532313255439442",
+			"parentId": 0,
+			"url": "https://front-end.social/@conr/117532313243828787",
+			"author": {
+				"name": "Conor 💻",
+				"url": "https://front-end.social/@conr",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/481/835/877/623/120/original/fade07d7e15e42fe.png"
+			},
+			"date": "2026-10-30T22:52:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> There’s a poly-fill for it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532374058424290",
+			"parentId": "117532313255439442",
+			"url": "https://fediverse.zachleat.com/@zachleat/117532374058424290",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T23:08:23.774Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@conr\" class=\"u-url mention\">@<span>conr</span></a></span> I want the browser to do it 🫣</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532545904685039",
+			"parentId": "117532152444088312",
+			"url": "https://indieweb.social/@bobmonsour/117532545861673244",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2026-10-30T23:52:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Damn! Just looked at my XSLT-styled RSS feed and got that whack-job warning.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532719766848726",
+			"parentId": "117532545904685039",
+			"url": "https://fediverse.zachleat.com/@zachleat/117532719766848726",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-31T00:36:18.866Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> I did push a workaround at that issue (but it’s client JS 🥹)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532734910537343",
+			"parentId": 0,
+			"url": "https://mastodon.online/@mwichary/117532734854770271",
+			"author": {
+				"name": "Marcin Wichary",
+				"url": "https://mastodon.online/@mwichary",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/419/131/244/576/867/original/3020b744bd0ffcc4.jpeg"
+			},
+			"date": "2026-10-31T00:40:09.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That looks so awful, too.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117533331422208577",
+			"parentId": "117532734910537343",
+			"url": "https://fediverse.zachleat.com/@zachleat/117533331422208577",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-31T03:11:51.987Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\">@<span>mwichary</span></a></span> Yeah. Scary and verbose, fine—but make it well designed!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117533732254782269",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/117533732218731996",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-10-31T04:53:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And if the site owner creates a polyfill that only loads if the XSLT instructions aren't processed by the browser... how the heck do they tell the browser not to show that warning?</p><p>I guess your JS also has to remove the xml-stylesheet processing instruction?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117533918291192558",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@fvsch/117533918247807917",
+			"author": {
+				"name": "Florens Verschelde",
+				"url": "https://hachyderm.io/@fvsch",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/834/091/035/043/627/original/4367bd08dd68da57.jpg"
+			},
+			"date": "2026-10-31T05:41:06.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> &lt;del&gt;don't&lt;/del&gt; &lt;ins&gt;loudly&lt;/ins&gt; break the Web</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117533931472786419",
+			"parentId": "117532126017964343",
+			"url": "https://mastodon.social/@sil/117533931302948808",
+			"author": {
+				"name": "Stuart Langridge",
+				"url": "https://mastodon.social/@sil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/302/147/382/032/479/original/ab95a50a2e58e997.png"
+			},
+			"date": "2026-10-31T05:44:25.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but that’s not “drop support for xslt”, which is clearly their goal here. That’s “keep supporting it when you don’t wanna” :)</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 3,
-		"reposts": 2,
-		"comments": 5,
+		"likes": 7,
+		"reposts": 3,
+		"comments": 9,
 		"via": "fediverse"
 	}
 }

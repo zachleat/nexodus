@@ -64,12 +64,38 @@
 			"date": "2026-10-28T16:43:07.862Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@larsmb\" class=\"u-url mention\">@<span>larsmb</span></a></span> Hyperlegible is such a good name too!</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117532314330202529",
+			"parentId": 0,
+			"url": "https://mastodon.social/@csilverman/117532311340888570",
+			"author": {
+				"name": "Chris Silverman 🌻",
+				"url": "https://mastodon.social/@csilverman",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/925/316/192/008/original/50b0c3dda2140bf0.png"
+			},
+			"date": "2026-10-30T22:52:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> It's especially frustrating because Instrument Serif looks pretty clearly inspired by Apple Garamond, which I've always liked. Apple's 80s–90s branding will always be one of my favorites.</p><p>I still have no idea what these goons saw in that typographic style. It's not garish or authoritarian, which is the aesthetic I would have assumed they were looking for.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117532385997509658",
+			"parentId": "117532314330202529",
+			"url": "https://fediverse.zachleat.com/@zachleat/117532385997509658",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-30T23:11:25.950Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@csilverman\" class=\"u-url mention\">@<span>csilverman</span></a></span> all of right wing silicon valley sees themselves as steve jobs-esque, maybe it’s the exact vibe they are trying to replicate 🤷</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 23,
+		"likes": 27,
 		"reposts": 4,
-		"comments": 3,
+		"comments": 4,
 		"via": "fediverse"
 	}
 }

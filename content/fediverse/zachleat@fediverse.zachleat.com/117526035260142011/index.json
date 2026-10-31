@@ -85,6 +85,32 @@
 			"date": "2026-10-30T12:39:35.315Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tonymottaz\" class=\"u-url mention\">@<span>tonymottaz</span></a></span> whoa, really!</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117532722447417049",
+			"parentId": "117529901486068268",
+			"url": "https://social.lol/@tonymottaz/117532722412105061",
+			"author": {
+				"name": "Tony Mottaz",
+				"url": "https://social.lol/@tonymottaz",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/424/018/357/353/594/original/88559af774df21ad.jpeg"
+			},
+			"date": "2026-10-31T00:36:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> yeah I remember a few years back that was definitely true for some React APIs, and I think they did some weird stuff with undici.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117533326048223311",
+			"parentId": "117532722447417049",
+			"url": "https://fediverse.zachleat.com/@zachleat/117533326048223311",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-31T03:10:29.986Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@tonymottaz\" class=\"u-url mention\">@<span>tonymottaz</span></a></span> oh yes the fetch() monkey patch!</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
