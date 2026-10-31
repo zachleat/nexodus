@@ -202,12 +202,25 @@
 			"date": "2026-10-31T05:44:25.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> but that’s not “drop support for xslt”, which is clearly their goal here. That’s “keep supporting it when you don’t wanna” :)</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117534228566856120",
+			"parentId": 0,
+			"url": "https://mastodon.social/@patrick_h_lauke/117534227429041334",
+			"author": {
+				"name": "Patrick H. Lauke",
+				"url": "https://mastodon.social/@patrick_h_lauke",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/299/616/989/749/627/original/35dcc6013f4cadd4.jpg"
+			},
+			"date": "2026-10-31T06:59:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> from the folks who tried to convince the world that AMP was the future, and who are hell-bent on putting \"agentic\" webMCP bullshit everywhere</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 7,
-		"reposts": 3,
-		"comments": 9,
+		"likes": 10,
+		"reposts": 4,
+		"comments": 10,
 		"via": "fediverse"
 	}
 }
