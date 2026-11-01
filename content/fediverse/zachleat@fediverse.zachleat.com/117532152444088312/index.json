@@ -25,6 +25,58 @@
 			"date": "2026-10-31T00:36:18.866Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@bobmonsour\" class=\"u-url mention\">@<span>bobmonsour</span></a></span> I did push a workaround at that issue (but it’s client JS 🥹)</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117537836867350060",
+			"parentId": "117532719766848726",
+			"url": "https://indieweb.social/@bobmonsour/117537836828295821",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2026-10-31T22:17:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Works like a charm! </p><p><a href=\"https://bobmonsour.com/feed.xml\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bobmonsour.com/feed.xml</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117537881857888497",
+			"parentId": "117532719766848726",
+			"url": "https://indieweb.social/@bobmonsour/117537881829342388",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2026-10-31T22:29:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> And, of course, this…</p><p><a href=\"https://11tybundle.dev/feed.xml\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">11tybundle.dev/feed.xml</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117538093540036714",
+			"parentId": "117532719766848726",
+			"url": "https://indieweb.social/@bobmonsour/117538093502435575",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2026-10-31T23:22:55.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Confession…I used Claude to extract my former XSL styles and changed the pretty-atom-feed.js to refer to a css file that reflects that earlier look. I’m seeing a FOUC, but the result looks like it used to without the Chrome shenanigans.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117538940416981616",
+			"parentId": "117538093540036714",
+			"url": "https://indieweb.social/@bobmonsour/117538940382496423",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/383/215/820/991/530/original/40e304ac671b1755.png"
+			},
+			"date": "2026-11-01T02:58:17.000Z",
+			"content": "<p>Minimized the FOUC by inlining the CSS with the pretty-atom-feed.js file rather than loading it separately.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
