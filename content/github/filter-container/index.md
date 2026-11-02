@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/filter-container
   type: github
   url: https://github.com/zachleat/filter-container
-  importHash: dabfb71c7ba2002a
+  importHash: 8407f0a36b221f1f
 tags:
   - web-components
 ---
@@ -57,6 +57,7 @@ Please see the demo for sample code. Use:
     -   Add `aria-live="polite"` to this element and screen readers will announce when the text changes.
 -   Use `<filter-container delimiter=",">` if your content elements may have more than one filter value assigned (in this example delimited by a comma).
     -   For example, Egypt is in both Africa and Asia: `<li data-filter-continent="africa,asia">Egypt</li>`
+-   A `<button type="reset">` inside a child `<form>` clears the filters.
 
 ## Changelog
 

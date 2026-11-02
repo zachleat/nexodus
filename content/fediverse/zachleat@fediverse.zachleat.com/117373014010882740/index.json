@@ -27,32 +27,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "117373030101673267",
-			"parentId": 0,
-			"url": "https://id.geff.re/@geffrey/statuses/01M3Z2C906GAE4FEDQX91ZYDPZ",
-			"author": {
-				"name": "Geffrey van der Bos",
-				"url": "https://id.geff.re/@geffrey",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/960/597/471/251/893/original/7d29aa78bac3ff8e.jpeg"
-			},
-			"date": "2026-10-02T19:45:07.000Z",
-			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> No need! AI ran automated tests! They were all green! /s</p>",
-			"via": "fediverse"
-		},
-		{
-			"id": "117373033428107497",
-			"parentId": "117373030101673267",
-			"url": "https://fediverse.zachleat.com/@zachleat/117373033428107497",
-			"author": {
-				"name": "Zach Leatherman",
-				"url": "https://fediverse.zachleat.com/@zachleat",
-				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
-			},
-			"date": "2026-10-02T19:45:58.707Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://id.geff.re/@geffrey\" class=\"u-url mention\">@<span>geffrey</span></a></span> oh no</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "117373035527468316",
 			"parentId": "117373024494062076",
 			"url": "https://toot.cat/@gkatsev/117373035449373143",
@@ -69,7 +43,7 @@
 	"counts": {
 		"likes": 12,
 		"reposts": 2,
-		"comments": 2,
+		"comments": 1,
 		"via": "fediverse"
 	}
 }
