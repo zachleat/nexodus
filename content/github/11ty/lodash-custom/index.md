@@ -9,12 +9,15 @@ date: 2023-03-22T15:18:33.000Z
 metadata:
   name: 11ty/lodash-custom
   language: JavaScript
+  archived: true
   uuid: 11ty/import::github::11ty/lodash-custom
   type: github
   url: https://github.com/11ty/lodash-custom
-  importHash: 4c7d2aefe14b9155
+  importHash: 068513fb9b887dc3
 ---
 # @11ty/lodash-custom
+
+> \[!NOTE\] This package source code has moved to [`eleventy-utils`](https://github.com/11ty/eleventy-utils).
 
 Eleventy uses 3 small `lodash` functions:
 

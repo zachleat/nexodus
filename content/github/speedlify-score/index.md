@@ -10,13 +10,14 @@ metadata:
   name: zachleat/speedlify-score
   language: JavaScript
   homepage: https://zachleat.github.io/speedlify-score/demo.html
+  archived: true
   tags:
     - speedlify
     - web-components
   uuid: 11ty/import::github::zachleat/speedlify-score
   type: github
   url: https://github.com/zachleat/speedlify-score
-  importHash: 896fae7054dea721
+  importHash: 083e8f28d73fe959
 tags:
   - speedlify
   - web-components

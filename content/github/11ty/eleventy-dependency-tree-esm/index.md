@@ -13,11 +13,11 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-dependency-tree-esm
   type: github
   url: https://github.com/11ty/eleventy-dependency-tree-esm
-  importHash: 0897be4cba43eb66
+  importHash: e181d5e00ca934b9
 ---
 # `@11ty/dependency-tree-esm`
 
-> \[!WARNING\] This plugin has moved to [`11ty/eleventy-utils/parse-deps-esm`](https://github.com/11ty/eleventy-utils/tree/main/parse-deps-esm).
+> \[!NOTE\] This plugin has moved to [`11ty/eleventy-utils/parse-deps`](https://github.com/11ty/eleventy-utils/tree/main/parse-deps).
 
 Returns an unordered array of local paths to dependencies of a Node ES module JavaScript file.
 
