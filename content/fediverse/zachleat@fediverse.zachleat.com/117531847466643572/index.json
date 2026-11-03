@@ -397,6 +397,84 @@
 			"date": "2026-11-02T16:22:58.562Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> oh.</p><p>oh no. I’d be surprised if that worked</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117549061065342497",
+			"parentId": "117547766812548340",
+			"url": "https://front-end.social/@AmeliaBR/117549060832005943",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-11-02T21:52:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Either way, it's not much help for the use case of styling an RSS xml feed to be user-friendly if viewed in a browser. I don't know how you'd load a JS polyfill for that!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117549083094362445",
+			"parentId": "117549061065342497",
+			"url": "https://mastodon.social/@iamdavidobrien/117549082150089956",
+			"author": {
+				"name": "David O'Brien",
+				"url": "https://mastodon.social/@iamdavidobrien",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/354/785/613/429/original/6bf358a40e472f8b.jpg"
+			},
+			"date": "2026-11-02T21:57:29.000Z",
+			"content": "<p>xslt was *entirely* ridiculous, except in this one use case: making RSS [other XML formats exist] human readable.</p><p>It should have been retained for that.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117549094220463625",
+			"parentId": "117549083094362445",
+			"url": "https://mastodon.social/@iamdavidobrien/117549094147599758",
+			"author": {
+				"name": "David O'Brien",
+				"url": "https://mastodon.social/@iamdavidobrien",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/321/354/785/613/429/original/6bf358a40e472f8b.jpg"
+			},
+			"date": "2026-11-02T22:00:32.000Z",
+			"content": "<p>I mean:</p><p>&lt;xslt:otherwise&gt;<br>    &lt;!-- Puh-leese --&gt;<br>&lt;/xslt:otherwise&gt;</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>AmeliaBR</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117549094373992030",
+			"parentId": "117549061065342497",
+			"url": "https://fediverse.zachleat.com/@zachleat/117549094373992030",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-02T22:00:35.543Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> oh: just in case our conversation wires are crossed here <a href=\"https://demo-base-blog.11ty.dev/feed/feed.xml\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">demo-base-blog.11ty.dev/feed/f</span><span class=\"invisible\">eed.xml</span></a> has a working example of that! (not a polyfill though)</p><p>and <a href=\"https://github.com/benmillett/11tyTweaks/tree/main/feed\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benmillett/11tyTwea</span><span class=\"invisible\">ks/tree/main/feed</span></a> has a script for it too!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117549101549577817",
+			"parentId": "117549094220463625",
+			"url": "https://fediverse.zachleat.com/@zachleat/117549101549577817",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-02T22:02:25.033Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@iamdavidobrien\" class=\"u-url mention\">@<span>iamdavidobrien</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> I *loved* XSLT in the IE days, it was so much faster than DOM — lots of fun perf hacks</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117549155694645934",
+			"parentId": "117549094373992030",
+			"url": "https://front-end.social/@AmeliaBR/117549155669062767",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-11-02T22:16:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Oh, good to know that works! (HTML script element in an RSS feed)</p><p>But yeah, then it's definitely a problem if Chrome's sticking user-facing errors on something that was designed for graceful degradation.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
