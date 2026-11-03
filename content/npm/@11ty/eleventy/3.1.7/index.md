@@ -8,8 +8,6 @@ date: 2026-10-15T19:55:22.207Z
 metadata:
   name: '@11ty/eleventy'
   version: 3.1.7
-  distTags:
-    - latest
   license: MIT
   repository: https://github.com/11ty/buildawesome
   tags:
@@ -32,7 +30,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy::3.1.7
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy/v/3.1.7
-  importHash: dc960fbaa7877c1c
+  importHash: 9e712cf327fc4190
 tags:
   - static-site-generator
   - static-site
