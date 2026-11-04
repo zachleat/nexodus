@@ -38,10 +38,24 @@
 			"date": "2026-11-04T05:56:07.368Z",
 			"content": "<p>da ba dee da ba dah</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mziimqidbk2i",
+			"parentId": "at://did:plc:lz53vdkjqexeqipseg7xfxoj/app.bsky.feed.post/3mzhjpt4ius2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mziimqidbk2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-11-04T13:49:21.143Z",
+			"content": "",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 14,
+		"likes": 37,
+		"reposts": 1,
 		"comments": 3,
 		"via": "bluesky"
 	}
