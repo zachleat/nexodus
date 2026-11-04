@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3msswyd2amc2w
   type: bluesky
   url: https://bsky.app/profile/zachleat.com/post/3msswyd2amc2w
-  importHash: ac6c1bed8bf697db
+  importHash: 208dab160c65aff7
 ---
 Folks may not know but [@fontawesome.com](https://bsky.app/profile/did:plc:spcmfh6ub7op2y2rrondrfwg) does this (for their heavily discounted Kickstarter pricing, too!)
 
@@ -17,4 +17,4 @@ Folks may not know but [@fontawesome.com](https://bsky.app/profile/did:plc:spcmf
 > 
 > raise the floor for new customers only and reward early adopter loyalty. easy win.
 > 
-> — [natemoore on elm street 👻](https://bsky.app/profile/natemoo.re) ([July 30, 2026 at 5:44:19 PM UTC](https://bsky.app/profile/natemoo.re/post/3mruyjlxt5s2n))
+> — [nate moore](https://bsky.app/profile/natemoo.re) ([July 30, 2026 at 5:44:19 PM UTC](https://bsky.app/profile/natemoo.re/post/3mruyjlxt5s2n))
