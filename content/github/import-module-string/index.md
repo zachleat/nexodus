@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/import-module-string
   type: github
   url: https://github.com/zachleat/import-module-string
-  importHash: 5034774e1bf9e3d3
+  importHash: 888f9ea927a4ec16
 ---
 # `import-module-string`
 
@@ -108,6 +108,18 @@ await importFromString("const a = import.meta.url;", { filePath: import.meta.url
 { a: `file:///…` }
 ```
 
+### Compile as a function
+
+`compileAsFunction` returns a default-exported async function instead of executing the code, so you can pass live values (functions, class instances) without serialization. Undeclared identifiers become its arguments and it resolves with the exports (or implicit exports), so names the code declares itself always win.
+
+```
+let mod = await importFromString("const a = await fn(b);", { compileAsFunction: true });
+await mod.default({ fn: async n => n * 2, b: 2 });
+
+// Returns
+{ a: 4 }
+```
+
 ### Imports (experimental feature)
 
 #### Relative references
@@ -145,6 +157,7 @@ As a side note, you _can_ shim `fs` into the browser with [`memfs`](https://gith
 
 ## Changelog
 
+-   `v4.0.0` `compileAsFunction` returns an `async` function (supports top-level `await`) and respects `implicitExports` when the code has no `export`. Adds support for `export` aliases, `export … from` and `export *` ([#3](https://github.com/zachleat/import-module-string/issues/3)).
 -   `v3.0.0` bump Node support minimum to 22.18+
 -   `v2.0.0` removes `adapter` (no longer necessary!)
 -   `v1.0.5` bug fixes
