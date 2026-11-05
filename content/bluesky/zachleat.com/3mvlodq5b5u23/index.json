@@ -46,7 +46,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-16T12:30:35.089Z",
 			"content": "<p>hm? bundle size isn’t the only important concern worth scrutinizing (though stating bundle size independent of dependency/library bundle cost is one of my mildest pet peeves 😅)</p>",
@@ -127,7 +127,7 @@
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
 			},
 			"date": "2026-09-16T14:03:35.871Z",
-			"content": "<p>I'm curious where you got 1.6kb. Is that locally with treeshaking or something?</p>\n<p>I see 5.26kb gzipped on bundlejs</p>\n<p><a href=\"https://bsky.app/profile/konnorrogers.com/post/3mvnbmfxlw22y\">bsky.app/profile/konn...</a></p>",
+			"content": "<p>I'm curious where you got 1.6kb. Is that locally with treeshaking or something?</p>\n<p>I see 5.26kb gzipped on bundlejs</p>\n<p><a href=\"https://bsky.app/profile/konnorrogers.com/post/3mvnbmfxlw22y\">bsky.app/profile/konn...</a></p>\n<p><a href=\"https://bsky.app/profile/konnorrogers.com/post/3mvnbmfxlw22y\">Quoted post</a></p>",
 			"via": "bluesky"
 		},
 		{
@@ -137,7 +137,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-16T14:05:14.479Z",
 			"content": "<p>likely excluding peerdeps <a href=\"https://zachleat.github.io/bundlewhys/?package=react-textarea-autosize\">zachleat.github.io/bundlewhys/?...</a></p>",
@@ -176,7 +176,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-16T14:20:44.063Z",
 			"content": "<p>ahh, hmm — that’s a fair critique of my post. it looks like bundle versus install weight is a pet peeve of yours! 😅</p>",

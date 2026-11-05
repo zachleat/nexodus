@@ -9,8 +9,8 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3mupnyyt4f225
   type: bluesky
   url: https://bsky.app/profile/11ty.dev/post/3mupnyyt4f225
-  importHash: 4421cfdb160da965
+  importHash: 667e614f3776bbd1
 ---
 websites deserve weekends
 
-[Quoted post](https://bsky.app/profile/internethippo.bsky.social/post/3mupja74ays23)
+[Quoted post (visible to signed-in users only)](https://bsky.app/profile/internethippo.bsky.social/post/3mupja74ays23)

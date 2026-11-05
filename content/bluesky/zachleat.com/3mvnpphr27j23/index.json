@@ -15,7 +15,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-16T18:30:02.067Z",
 			"content": "<p>I’m curious what the costs are. My hunch would be that Shadow DOM has overhead costs but are those costs better than dumping everything into light dom when you hit 100 instances? 1000? I suppose i can test this myself just curious if folks have done it already</p>",
@@ -96,7 +96,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-17T15:53:52.276Z",
 			"content": "<p><a href=\"https://bsky.app/profile/did:plc:343p6xcgmvkpz5abgezlgyep\">@bram.us</a> added some benchmarks: <a href=\"https://chrome.dev/css-selector-benchmark/benchmarks/light-vs-shadow/mount/\">chrome.dev/css-selector...</a></p>\n<p>Seems like Light &gt; Shadow &gt; Light/Shadow 50/50 mix</p>",
@@ -135,7 +135,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-21T15:23:28.730Z",
 			"content": "<p>that would be interesting to test!</p>",
@@ -156,7 +156,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-21T15:52:57.616Z",
 			"content": "<p>sure, but are you saying that isolation has perf benefits or downsides?</p>",
@@ -177,7 +177,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-21T16:01:37.119Z",
 			"content": "<p>that makes sense, thanks! appreciate your insight!</p>",
@@ -230,7 +230,7 @@
 			"author": {
 				"name": "Zach Leatherman",
 				"url": "https://bsky.app/profile/zachleat.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
 			},
 			"date": "2026-09-21T16:31:26.861Z",
 			"content": "<p>I sent my thank you too early! you had more to share! (still appreciated!)</p>",
