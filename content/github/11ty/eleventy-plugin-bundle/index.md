@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-plugin-bundle
   type: github
   url: https://github.com/11ty/eleventy-plugin-bundle
-  importHash: 3a2f33b1973bef00
+  importHash: f5608cfebe495c6b
 ---
 # eleventy-plugin-bundle
 
@@ -78,6 +78,9 @@ export default function(eleventyConfig) {
 		// (Optional) In 11ty.js templates, having a named export of `bundle` will populate your bundles.
 		bundleExportKey: "bundle",
 		// bundleExportKey: false, // disable this feature.
+
+		// (Optional) Add the bundle to every page automatically, see Inject bundles below
+		inject: false,
 	});
 };
 ```
@@ -147,6 +150,41 @@ Writes the bundle content to a content-hashed file location in your output direc
 ```
 
 > **NOTE:** Writing bundles to files will likely be slower for empty-cache first time visitors but better cached in the browser for repeat-views (and across multiple pages, too).
+
+### Inject bundles
+
+Use `inject` to add a bundle to pages without a `getBundle` or `getBundleFileUrl` call, useful for plugins that ship their own CSS or JS.
+
+```
+// Shorthand: true (same as "inline"), "inline", "file", or "size"
+eleventyConfig.addBundle("css", { inject: "inline" });
+
+// Full options
+eleventyConfig.addBundle("css", {
+	inject: {
+		// "inline" (default) <style>…</style>, "file" <link rel="stylesheet" href="…">, or "size"
+		mode: "inline",
+
+		// "<title>", "</head>" (default), "<body>", or "</body>"
+		location: "</head>",
+
+		// When `location` isn’t found: "ignore" (default), "error", "append", or "prepend"
+		missingLocation: "ignore",
+
+		// (Optional) Return the tag HTML, `%s` is replaced with the bundle content (`inline`) or URL (`file`)
+		html: ({ mode, name }) => `<style media="print">%s</style>`,
+
+		// With "size", bundles up to this many bytes are inlined, larger ones are written to a file
+		maxInlineSize: 4096,
+	},
+});
+```
+
+-   `"</head>"` and `"</body>"` insert before the closing tag, `"<body>"` inserts after the opening tag, and `"<title>"` inserts after the `<title>` element.\* Default markup is chosen by file extension: `css` uses `<style>` or `<link>`, `js` uses `<script type="module">`, and anything else is inlined as-is (`file` requires `css`, `js`, or an `html` callback).
+-   `html` replaces the default markup; put `%s` where the bundle content or URL belongs. With `"size"`, its `mode` argument is the chosen `"inline"` or `"file"`.
+-   `"size"` measures the bundle after `transforms`, per page.
+-   Only the `default` bucket is output, and nothing is added if it’s empty or the page already references it via `getBundle` or `getBundleFileUrl`.
+-   Disable a plugin’s injection in your config with `eleventyConfig.getBundleManagers()["my-plugin-bundle"].setInject(false)`.
 
 ### Asset bucketing
 
@@ -327,6 +365,8 @@ export default function(eleventyConfig) {
 	});
 };
 ```
+
+> **NOTE:** Code is bundled in the order it’s added, so content templates come before layouts. Order-sensitive code like CSS `@import` (which must come first) may need its own bucket.
 
 ## Advanced
 
