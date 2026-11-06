@@ -1,0 +1,123 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:2qxx3logksogtveaxqmn4oaj/app.bsky.feed.post/3mznncdinuk2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/curiouslycory.com/post/3mznncdinuk2y",
+			"author": {
+				"name": "CuriouslyCory",
+				"url": "https://bsky.app/profile/curiouslycory.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qxx3logksogtveaxqmn4oaj/bafkreihqn6pr5dc5m4c3kabbpbun256fjguooxace2slfdcee7jhbe6cnu"
+			},
+			"date": "2026-11-06T14:56:19.378Z",
+			"content": "<p>Not sure what Next.js did to deserve this, but that's a high quality burn 🔥</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mznnerxrdk2q",
+			"parentId": "at://did:plc:2qxx3logksogtveaxqmn4oaj/app.bsky.feed.post/3mznncdinuk2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mznnerxrdk2q",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-06T14:57:41.663Z",
+			"content": "<p>a client-side exception has occurred while replying (see the browser console for more information)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mznnuqyclk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mznnuqyclk2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-06T15:06:37.503Z",
+			"content": "<p>I killed comedy — it was me — I did it</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bqqamzqieuyniwrpcosasyod/app.bsky.feed.post/3mznnvd7ug22c",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mznnerxrdk2q",
+			"url": "https://bsky.app/profile/gu5.org/post/3mznnvd7ug22c",
+			"author": {
+				"name": "Gus",
+				"url": "https://bsky.app/profile/gu5.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqqamzqieuyniwrpcosasyod/bafkreibgh3tjitr5i6nndlakbwnq7zeaa5azj6bksulhfflbx7ploajbxe"
+			},
+			"date": "2026-11-06T15:06:56.604Z",
+			"content": "<p>and monkeypatching window.fetch</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:o7acrxc6lyiya3bx6uxnxrbg/app.bsky.feed.post/3mzno6agnzs26",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mznnerxrdk2q",
+			"url": "https://bsky.app/profile/maartenvanlieshout.nl/post/3mzno6agnzs26",
+			"private": true,
+			"date": "2026-11-06T15:11:55.692Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3mznoge6qec2u",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mznnuqyclk2t",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3mznoge6qec2u",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-11-06T15:16:28.062Z",
+			"content": "<p>Comedy is finally illegal on bsky</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mznp6hoh722r",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3mznoge6qec2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mznp6hoh722r",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-06T15:29:57.029Z",
+			"content": "<p>I’ve been waiting!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:us5uau3bkmccu57zuou6wx4f/app.bsky.feed.post/3mznswr3bdc2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/greysemanticist.com/post/3mznswr3bdc2w",
+			"author": {
+				"name": "·𐑜𐑮𐑱𐑕𐑦𐑥𐑨𐑯𐑑𐑦𐑕𐑦𐑕𐑑 | Greysemanticist",
+				"url": "https://bsky.app/profile/greysemanticist.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:us5uau3bkmccu57zuou6wx4f/bafkreiaax3wzjw4t4r2gwf2ihsikzm47msyboyvvnkths2eoke7kcaru2a"
+			},
+			"date": "2026-11-06T16:37:13.417Z",
+			"content": "<p>catchingstrays.js</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ctc2resgvlow7q6fbde6ekls/app.bsky.feed.post/3mzo2ykyqbk2d",
+			"parentId": "at://did:plc:us5uau3bkmccu57zuou6wx4f/app.bsky.feed.post/3mznswr3bdc2w",
+			"url": "https://bsky.app/profile/tristengrant.com/post/3mzo2ykyqbk2d",
+			"author": {
+				"name": "Tristen Grant",
+				"url": "https://bsky.app/profile/tristengrant.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctc2resgvlow7q6fbde6ekls/bafkreic3bdqxmd2pnw2272qtcdogmxy533wajll4njfou6a5o3rxd7rqcq"
+			},
+			"date": "2026-11-06T19:01:24.087Z",
+			"content": "<p>So much AI slop on your profile.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 98,
+		"reposts": 9,
+		"comments": 3,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

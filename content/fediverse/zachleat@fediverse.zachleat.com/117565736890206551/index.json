@@ -33,12 +33,38 @@
 			"private": true,
 			"date": "2026-11-05T22:29:55.000Z",
 			"via": "fediverse"
+		},
+		{
+			"id": "117568542282366445",
+			"parentId": 0,
+			"url": "https://seocommunity.social/@simoncox/117568542245161919",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2026-11-06T08:26:26.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I say this to nascent tech SEOs all the time - build your own site - doesn’t matter if no-one visits because you will learn so much building and running it.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117569777171006268",
+			"parentId": "117568542282366445",
+			"url": "https://fediverse.zachleat.com/@zachleat/117569777171006268",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-06T13:40:29.979Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\">@<span>simoncox</span></a></span> even that flying car couldn’t stop rubber from meeting the road</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 15,
+		"likes": 16,
 		"reposts": 2,
-		"comments": 2,
+		"comments": 3,
 		"via": "fediverse"
 	}
 }

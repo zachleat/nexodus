@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "117570176080982202",
+			"parentId": 0,
+			"url": "https://front-end.social/@phil/117570176061863375",
+			"author": {
+				"name": "phil’s masto don",
+				"url": "https://front-end.social/@phil",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/115/341/191/641/092/786/original/99e8b35a7fd2c436.jpeg"
+			},
+			"date": "2026-11-06T15:21:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> comedy is illegal again</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117570203510125647",
+			"parentId": "117570176080982202",
+			"url": "https://fediverse.zachleat.com/@zachleat/117570203510125647",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-06T15:28:55.398Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@phil\" class=\"u-url mention\">@<span>phil</span></a></span> finally</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}
