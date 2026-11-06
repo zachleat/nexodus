@@ -13,7 +13,9 @@ export function getComments(posts) {
 		for(let comment of post.data.comments || []) {
 			if(!byId.has(comment.id)) {
 				let avatarUrl = resolveAssetUrl(comment.author?.avatarUrl, post.url);
-				byId.set(comment.id, avatarUrl === comment.author?.avatarUrl ? comment : { ...comment, author: { ...comment.author, avatarUrl } });
+				// Comments show on every post in the group, so colocated assets need their own post URL
+				let content = comment.content?.replace(/(\s(?:src|href|poster)=")([^"/:#?]+)"/g, (match, attr, name) => `${attr}${resolveAssetUrl(name, post.url)}"`);
+				byId.set(comment.id, { ...comment, content, author: comment.author && { ...comment.author, avatarUrl } });
 			}
 		}
 	}
