@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/is-this-still-being-maintained
   type: github
   url: https://github.com/zachleat/is-this-still-being-maintained
-  importHash: bb09f3f5b537e10d
+  importHash: eb1395a10758a8fe
 ---
 # is-this-still-being-maintained
 
@@ -98,10 +98,11 @@ This gets exactly the same bypass as an `alwaysInclude` entry — the archived, 
 
 ### Sparkline companion files
 
-Two extra files sit next to `report.json`, both keyed for direct sparkline rendering and both free of any timestamp — so they change (and get committed) only when the underlying data does, never just because the clock moved:
+Three extra files sit next to `report.json`, all free of any timestamp — so they change (and get committed) only when the underlying data does, never just because the clock moved:
 
 -   `report-sparklines.json` — per package: `monthlyReleases`, `monthlyDownloads`, and `monthlyCdnHits`, each `{ start: "YYYY-MM", counts: [...] }` with a dense month-by-month series.
 -   `report-sparkline-aggregate.json` — the same three series summed across every published package, plus `monthlyOpenVulnerabilities`, `monthlyOpenIssues` and `monthlyOpenPRs`: open totals across active packages (issues and PRs counted once per repo), snapshotted each run and ending at the current, partial month (backfilled from git history: vulnerabilities to 2026-08, issues and PRs to 2026-07). Each also carries `low` and `high`, the lowest and highest counts seen by any run, since the current month is overwritten each run, with `lowMonth` and `highMonth` (`"YYYY-MM"`, most recent month on a tie).
+-   `report-downloads-by-year.json` — per package, npm downloads for each completed calendar year (`{ "2023": 1234, ... }`), so they're fetched once and never again.
 
 `monthlyDownloads` and `monthlyCdnHits` share a start month and length, so they can be plotted on the same axis. Every series is trimmed to **complete** months at both ends: a partial leading or trailing month silently undercounts and would render as a false dip.
 
@@ -196,6 +197,8 @@ Each project carries **`isPinned`** — `true` when the repo is pinned to any of
 Each published package carries **`npmDeprecated`** — `true` when its `latest` version is marked deprecated on npm (`null` for anything not published). This is **reported only**: it does not feed the score, filtering, or any other logic.
 
 Each published package carries **`releaseUrl`** — the GitHub release matching `lastPublishVersion`, trying tags `v{version}`, `{version}`, `{name}@{version}`, `{name}@v{version}`, then for workspace packages `{folder}@{version}` and `{folder}@v{version}` (the workspace folder's basename) in order (drafts skipped). `null` when unpublished or no release matches.
+
+Each project carries **`downloadsAllTime`** — the lifetime npm download total, summed from one request per calendar year since `firstPublish` (completed years are read from `report-downloads-by-year.json` instead of refetched), with `downloadsAllTimeKnown: false` and `null` when unpublished or any year's lookup failed.
 
 Each project carries **`recentPublishes`** — up to the 10 most recent published npm versions as `[{ version, date, releaseUrl }]`, newest first, prereleases included (`[]` when unpublished); each `releaseUrl` is matched the same way as above.
 

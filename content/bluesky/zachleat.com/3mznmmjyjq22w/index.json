@@ -111,11 +111,24 @@
 			"date": "2026-11-06T19:01:24.087Z",
 			"content": "<p>So much AI slop on your profile.</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:je24a6b52kmzridje5dycgtt/app.bsky.feed.post/3mzoe4f3x4k2x",
+			"parentId": "at://did:plc:2qxx3logksogtveaxqmn4oaj/app.bsky.feed.post/3mznncdinuk2y",
+			"url": "https://bsky.app/profile/eduplessis.bsky.social/post/3mzoe4f3x4k2x",
+			"author": {
+				"name": "Édouard Duplessis",
+				"url": "https://bsky.app/profile/eduplessis.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:je24a6b52kmzridje5dycgtt/bafkreibifj4ugbq3umve62tpxqg4tp6uzu6kmuqhsq5ir7nk7fhhx6mpee"
+			},
+			"date": "2026-11-06T21:44:35.794Z",
+			"content": "<p>👆 Exactly</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 98,
-		"reposts": 9,
+		"likes": 129,
+		"reposts": 12,
 		"comments": 3,
 		"quotes": 1,
 		"via": "bluesky"

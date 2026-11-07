@@ -10,13 +10,13 @@ authors:
 date: 2024-08-29T20:10:23.000Z
 metadata:
   name: zachleat/heading-anchors
-  language: HTML
+  language: JavaScript
   license: MIT
   homepage: https://zachleat.github.io/heading-anchors/demo.html
   uuid: 11ty/import::github::zachleat/heading-anchors
   type: github
   url: https://github.com/zachleat/heading-anchors
-  importHash: f04f63bd7b98c79d
+  importHash: 0f7f00c6f35fd108
 ---
 # `<heading-anchors>` Web Component
 
@@ -49,8 +49,17 @@ Include the `heading-anchors.js` file on your web site (via `<script type="modul
     -   Default: `h2,h3,h4,h5,h6`
 -   Internationalization (i18n) friendly using the `prefix` attribute to change the accessible text inside the anchor links, e.g. `<heading-anchors prefix="Ir a la sección titulada">`
     -   Default: `Jump to section titled`
--   Use the `content` attribute to change the character used.
+-   Use the `content` attribute to change the character used (plain text).
     -   Default: `#`, supports an empty string if you want to use CSS pseudo elements.
+-   Use a child `<template data-ha-content>` to use markup (e.g. an icon) instead. It takes precedence over `content`, e.g. with an SVG sprite from [`@11ty/font-awesome`](https://github.com/11ty/eleventy-plugin-font-awesome):
+
+```
+<heading-anchors>
+	<template data-ha-content><svg aria-hidden="true" viewBox="0 0 576 512"><use href="#fas-fa-link"></use></svg></template>
+	<h2 id="my-heading">My heading</h2>
+</heading-anchors>
+```
+
 -   Style the anchor link using `.ha-placeholder` selector (change font-family, etc).
 -   Use the `data-ha-exclude` attribute to opt-out of an anchor link.
 
