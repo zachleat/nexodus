@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/is-this-still-being-maintained
   type: github
   url: https://github.com/zachleat/is-this-still-being-maintained
-  importHash: eb1395a10758a8fe
+  importHash: f0cd66c99cbd60f9
 ---
 # is-this-still-being-maintained
 
@@ -189,6 +189,8 @@ All GitHub and npm responses are cached to `.cache/` for `cacheDuration` (defaul
     
 
 Each project carries a `scoreHistory` — an array of its last 10 neglect `score`s, so you can see a package trending better or worse over time. It's persisted by reading the previous `report.json`: a run on a **new calendar day** appends the current score, while a **same-day rerun replaces** the newest entry (using the report's `generatedAt`, so reruns don't pile up). Oldest drops off past 10. The top-level **`healthRatingHistory`** tracks the overall Health Rating the same way.
+
+**`scoreHistoryWeekly`** keeps the last score of each ISO week (Monday start, UTC) for 26 weeks, replacing its newest entry when a run lands in the week named by the top-level **`scoreHistoryWeeklyEnd`**. `node scripts/backfill-weekly-scores.js` rebuilds it from the git history of `docs/report.json`.
 
 Each project's **`description`** comes from the published `latest` version's npm `package.json`, falling back to the **GitHub repo description** when there's no npm data — so templates and unpublished repos still get one. The two often differ (a repo's GitHub "About" blurb is usually punchier than its terse `package.json` description); npm wins whenever the package is published.
 
