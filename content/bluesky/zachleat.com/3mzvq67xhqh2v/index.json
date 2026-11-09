@@ -1,0 +1,103 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mzvsc25qes2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tunetheweb.com/post/3mzvsc25qes2i",
+			"author": {
+				"name": "Barry Pollard",
+				"url": "https://bsky.app/profile/tunetheweb.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ilj6i6evo5xxl5iixp2y76nt/bafkreibuvkjedijpuyongathjpsslib3hz6hf5fh3gbydrfvtiqeqtiuwe"
+			},
+			"date": "2026-11-09T20:46:56.199Z",
+			"content": "<p>On one hand:<br>\n- If users are happy, then does it matter that lab's unhappy? (\"If a tree falls in a forest and no one is around...\").<br>\n- Lab being slower than real life can be a good thing to emphasis issues.<br>\n- Lab ignores faster cached visits.<br>\n- Lab only tests few pages (usually home page).</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mzvsc2guek2i",
+			"parentId": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mzvsc25qes2i",
+			"url": "https://bsky.app/profile/tunetheweb.com/post/3mzvsc2guek2i",
+			"author": {
+				"name": "Barry Pollard",
+				"url": "https://bsky.app/profile/tunetheweb.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ilj6i6evo5xxl5iixp2y76nt/bafkreibuvkjedijpuyongathjpsslib3hz6hf5fh3gbydrfvtiqeqtiuwe"
+			},
+			"date": "2026-11-09T20:46:56.200Z",
+			"content": "<p>On the other hand:<br>\n- Maybe you're excluding some as you're only usable by fast users (see YouTube Project Feather)<br>\n- Field also has slow users, bit easy to ignore if aggregate us fast.<br>\n- Similarly field can hide issues for all users (like first visits being slow) if offset by others<br>\n- Field complex!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mzvsc2gvds2i",
+			"parentId": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mzvsc2guek2i",
+			"url": "https://bsky.app/profile/tunetheweb.com/post/3mzvsc2gvds2i",
+			"author": {
+				"name": "Barry Pollard",
+				"url": "https://bsky.app/profile/tunetheweb.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ilj6i6evo5xxl5iixp2y76nt/bafkreibuvkjedijpuyongathjpsslib3hz6hf5fh3gbydrfvtiqeqtiuwe"
+			},
+			"date": "2026-11-09T20:46:56.201Z",
+			"content": "<p>TLDR: it's complicated!</p>\n<p>On that note are you using origin field? Or URL field?</p>\n<p>Good to see you using Lighthouse 13.6 as it had some improvements.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzvshkqljk2f",
+			"parentId": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mzvsc2gvds2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzvshkqljk2f",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-09T20:50:01.366Z",
+			"content": "<p>I believe it attempts url first but falls back to origin if there isn’t enough data for the former</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ilj6i6evo5xxl5iixp2y76nt/app.bsky.feed.post/3mzvtehjga22i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzvshkqljk2f",
+			"url": "https://bsky.app/profile/tunetheweb.com/post/3mzvtehjga22i",
+			"author": {
+				"name": "Barry Pollard",
+				"url": "https://bsky.app/profile/tunetheweb.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ilj6i6evo5xxl5iixp2y76nt/bafkreibuvkjedijpuyongathjpsslib3hz6hf5fh3gbydrfvtiqeqtiuwe"
+			},
+			"date": "2026-11-09T21:06:11.064Z",
+			"content": "<p>Ah so it could be comparing apples to oranges. Well, even more so, keeping the other points above in mind too 😀</p>\n<p>I wonder if it would be closer if it ONLY used URLs (and dropped those without enough data to have that)? But then I'll just fallback to the other excuses 😉</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mzvvtq5j2s2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3mzvvtq5j2s2s",
+			"private": true,
+			"date": "2026-11-09T21:50:30.911Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzvxcilims27",
+			"parentId": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mzvvtq5j2s2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzvxcilims27",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-09T22:16:40.040Z",
+			"content": "<p>maybe? I’m thinking about it through the lens of this old post: <a href=\"https://blog.chriszacharias.com/page-weight-matters\">blog.chriszacharias.com/page-weight-...</a> where slower field data meant the site was accessible by a more diverse audience</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qvdituik52qoaiods3ycupfo/app.bsky.feed.post/3mzvxunet3s2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzvxcilims27",
+			"url": "https://bsky.app/profile/lawnsea.bsky.social/post/3mzvxunet3s2s",
+			"private": true,
+			"date": "2026-11-09T22:26:49.044Z",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}
