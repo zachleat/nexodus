@@ -1,6 +1,6 @@
 {
 	"counts": {
-		"likes": 4,
+		"likes": 6,
 		"comments": 1,
 		"via": "fediverse"
 	},
@@ -16,6 +16,19 @@
 			},
 			"date": "2026-11-10T01:46:04.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> We have to turn this graph into the survivorship bias plane diagram somehow</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117592458486010096",
+			"parentId": "117589617232022229",
+			"url": "https://fediverse.zachleat.com/@zachleat/117592458486010096",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-10T13:48:39.380Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tigt\" class=\"u-url mention\">@<span>tigt</span></a></span></p>",
 			"via": "fediverse"
 		}
 	]

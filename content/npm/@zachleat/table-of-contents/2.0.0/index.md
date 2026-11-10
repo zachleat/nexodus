@@ -11,8 +11,6 @@ date: 2026-09-24T18:24:06.674Z
 metadata:
   name: '@zachleat/table-of-contents'
   version: 2.0.0
-  distTags:
-    - latest
   license: MIT
   repository: https://github.com/zachleat/table-of-contents
   tags:
@@ -22,7 +20,7 @@ metadata:
   uuid: 11ty/import::npm::@zachleat/table-of-contents::2.0.0
   type: npm
   url: https://www.npmjs.com/package/@zachleat/table-of-contents/v/2.0.0
-  importHash: 13be42f4e28fc445
+  importHash: 564df97c7e8f0611
 tags:
   - web-components
   - custom-elements

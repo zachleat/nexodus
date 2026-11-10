@@ -119,10 +119,36 @@
 			"date": "2026-11-10T00:09:50.000Z",
 			"content": "<p>But the other trees laugh…</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gs6cjxjo2rypalnyqta6cp4c/app.bsky.feed.post/3mzx5zsrhzk22",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzvxcilims27",
+			"url": "https://bsky.app/profile/sergeyche.dev/post/3mzx5zsrhzk22",
+			"author": {
+				"name": "Sergey Chernyshev",
+				"url": "https://bsky.app/profile/sergeyche.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gs6cjxjo2rypalnyqta6cp4c/bafkreifcvhpzlmu4al5eytgg2ppgooupv5n45fad4x25mulxil3pyfvrn4"
+			},
+			"date": "2026-11-10T09:49:44.663Z",
+			"content": "<p>I’d say that field data by definition will be more diverse than lab data represents simply because you just can’t have as many test node options as you have users (unless you have very few users).</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxm3zcmyk2n",
+			"parentId": "at://did:plc:gs6cjxjo2rypalnyqta6cp4c/app.bsky.feed.post/3mzx5zsrhzk22",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzxm3zcmyk2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T14:01:31.008Z",
+			"content": "<p>I think field data can very easily fall into diversity that looks like this</p>\n<img src=\"bafkreiekcibwhlyyiecogezag2wta-PCgIFZ5uHM4W.webp\" alt=\"White Guys Selfie meme, at the sports event a group of eight men in business casual attire all with similar skin color and facial expression take a selfie together\">",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 3,
+		"likes": 5,
 		"comments": 3,
 		"via": "bluesky"
 	}

@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::11ty/import
   type: github
   url: https://github.com/11ty/import
-  importHash: d15c013e8940ee22
+  importHash: ed2677b99f608972
 ---
 # `@11ty/import`
 
@@ -91,6 +91,9 @@ npx @11ty/import [type] [target] --assetrefs=absolute
 npx @11ty/import [type] [target] --assetrefs=colocate
 # Don’t download any assets
 npx @11ty/import [type] [target] --assetrefs=disabled
+
+# Only download assets up to a size (bytes, or KB, MB, GB)
+npx @11ty/import [type] [target] --assetmaxsize=10MB
 
 # Change avatar reference URLs, same values as --assetrefs (default: absolute, or disabled with --assetrefs=disabled)
 # Avatars are shared across posts, so the default is one root assets folder
@@ -409,6 +412,7 @@ importer.setPruneAssets(false); // --prune
 importer.setDraftsFolder("drafts");
 importer.setAssetsFolder("assets");
 importer.setAssetReferenceType("relative"); // --assetrefs
+importer.setAssetMaxSize("10MB"); // --assetmaxsize, larger assets keep their remote URL
 importer.setAvatarReferenceType("absolute"); // --avatarrefs
 
 // Sources (one or more)

@@ -1,0 +1,346 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzxz4bpmp22a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lavalva.dev/post/3mzxz4bpmp22a",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-10T17:54:18.468Z",
+			"content": "<p>This is referencing this discussion?</p>\n<p>I agree the definition is hazy and the \"etc\" here carries a lot of weight, but I'd expect that for the purposes of these e18e benchmarks the first four items listed in this message are requirements</p>\n<p><a href=\"https://bsky.app/profile/43081j.com/post/3mzxtoirmck24\">bsky.app/profile/4308...</a></p>\n<p><a href=\"https://bsky.app/profile/43081j.com/post/3mzxtoirmck24\">Quoted post</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxziqk35227",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzxz4bpmp22a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzxziqk35227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T18:01:16.668Z",
+			"content": "<p>so: frontend + backend + routing + state</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxzxm4ggs2i",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxziqk35227",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzxzxm4ggs2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T18:09:35.343Z",
+			"content": "<p>(but practically speaking it means rendering on-request architecture)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:god7lmgkgqlybavtrf2clc2h/app.bsky.feed.post/3mzxzxo4wvc2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/quirksmode.org/post/3mzxzxo4wvc2q",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://bsky.app/profile/quirksmode.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:god7lmgkgqlybavtrf2clc2h/bafkreibp3m2ycs66haihiby2qli3qajkjabg2ahmz7o2ni5wl5p377q7oa"
+			},
+			"date": "2026-11-10T18:09:37.458Z",
+			"content": "<p>It's a framework other frameworks look up to.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxzzjroxs2i",
+			"parentId": "at://did:plc:god7lmgkgqlybavtrf2clc2h/app.bsky.feed.post/3mzxzxo4wvc2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzxzzjroxs2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T18:10:40.004Z",
+			"content": "<p>a framework that lies about its height?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yzwsezbk6fkgkljgbv4widal/app.bsky.feed.post/3mzy22xenik2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/wildcatzack.bsky.social/post/3mzy22xenik2s",
+			"author": {
+				"name": "WildcatZack",
+				"url": "https://bsky.app/profile/wildcatzack.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yzwsezbk6fkgkljgbv4widal/bafkreibnnb6biebpl3py3rvlcxdohwlltiuodk42gw7htafpumsi6n2jnq"
+			},
+			"date": "2026-11-10T18:11:27.811Z",
+			"content": "<p>Me trying to keep up with the evolving web landscape.</p>\n<img src=\"https://static.klipy.com/ii/8ce8357c78ea940b9c2015daf05ce1a5/28/06/4zE4znBB.gif?hh=372&amp;ww=498&amp;mp4=Ciz27xwguniWzS0yTg&amp;webm=XUBkRXukEoYd\" alt=\"Squidward Scared of the Future\">",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:god7lmgkgqlybavtrf2clc2h/app.bsky.feed.post/3mzy267cvwc2q",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxzzjroxs2i",
+			"url": "https://bsky.app/profile/quirksmode.org/post/3mzy267cvwc2q",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://bsky.app/profile/quirksmode.org",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:god7lmgkgqlybavtrf2clc2h/bafkreibp3m2ycs66haihiby2qli3qajkjabg2ahmz7o2ni5wl5p377q7oa"
+			},
+			"date": "2026-11-10T18:13:16.806Z",
+			"content": "<p>You know how with Chinese restaurants you should always go where the Chinese themselves go for the best chicken feet and so on?</p>\n<p>Go to the meta-framework that all the frameworks themselves go to.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3mzy2aeilss27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/papa.yaga.gay/post/3mzy2aeilss27",
+			"private": true,
+			"date": "2026-11-10T18:14:29.343Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzy2fzkacc2a",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxzxm4ggs2i",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3mzy2fzkacc2a",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-10T18:17:39.190Z",
+			"content": "<p>Again it's fuzzy! But yes, on-request architecture is probably the easiest practical requirement to point to</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:bgiuklsedj6jytu5w5stv7cn/app.bsky.feed.post/3mzy32dtno22z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/remysharp.com/post/3mzy32dtno22z",
+			"author": {
+				"name": "rem / Remy Sharp ",
+				"url": "https://bsky.app/profile/remysharp.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgiuklsedj6jytu5w5stv7cn/bafkreifdnzfv67uzr7tq3t4eokccv6444yqz7mkbkps54vwmfd3ldxby5m"
+			},
+			"date": "2026-11-10T18:29:01.070Z",
+			"content": "<p>It's a framework that can only be used by meta tags</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:duarqnv277snl27e4yv5b564/app.bsky.feed.post/3mzy344hga22y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ichris.bsky.social/post/3mzy344hga22y",
+			"author": {
+				"name": "Chris from 🇨🇦",
+				"url": "https://bsky.app/profile/ichris.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:duarqnv277snl27e4yv5b564/bafkreie7omnub3jgyp7s73rhdbal5eb4r2ptrn3wc67vdvnscwchwyji6i"
+			},
+			"date": "2026-11-10T18:30:00.441Z",
+			"content": "<p>obviously a framework owned by Zuckerberg? what else could it be?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ceea32mut6aq55yrmudqhpz2/app.bsky.feed.post/3mzy37xpo2c2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/clairebaire.dev/post/3mzy37xpo2c2u",
+			"private": true,
+			"date": "2026-11-10T18:32:09.686Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzy3bi4ubc2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mzy3bi4ubc2u",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-11-10T18:33:00.450Z",
+			"content": "<p>1. Assume client-side frameworks are the center of the world<br>\n2. Realize that performance sucks<br>\n3. Somehow force the client-side framework to also run on the server<br>\nVoila, you have a metaframework!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zcanytzlaumjwgaopolw6wes/app.bsky.feed.post/3mzy3mtc2722l",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxziqk35227",
+			"url": "https://bsky.app/profile/chrisshank.me/post/3mzy3mtc2722l",
+			"author": {
+				"name": "𝕮 • Chris Shank",
+				"url": "https://bsky.app/profile/chrisshank.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zcanytzlaumjwgaopolw6wes/bafkreif7yjd6wsyowd7gura7776oluo5qamehxbbvsaohqh7sfqmhhurzm"
+			},
+			"date": "2026-11-10T18:39:21.252Z",
+			"content": "<p>I get why vite could be considered a metaframework because you can build a framework with vite. But the way metaframework is being used here to describe opinionated fullstack frameworks doesn't make sense lol</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ktfgyauw2thvwwrlqucdomdo/app.bsky.feed.post/3mzy4dtwxms2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jed.is/post/3mzy4dtwxms2y",
+			"author": {
+				"name": "Jed Schmidt",
+				"url": "https://bsky.app/profile/jed.is",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ktfgyauw2thvwwrlqucdomdo/bafkreibenuxzpc7455citfexsrsn5gmpakmspcxrb5enw73aekkqpo3y4y"
+			},
+			"date": "2026-11-10T18:52:12.835Z",
+			"content": "<p>react from 5/29/13 to 2/24/26?</p>\n<p><a href=\"https://react.dev/blog/2026/02/24/the-react-foundation\">The React Foundation: A New Home for React Hosted by the Linux Foundation – React</a><br>\nThe library for web and native user interfaces</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy5mc3lck2y",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzy2fzkacc2a",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy5mc3lck2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:14:50.699Z",
+			"content": "<p>I hate fuzzy definitions 😭</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy5mw724s2y",
+			"parentId": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3mzy2aeilss27",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy5mw724s2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:15:11.784Z",
+			"content": "<p>excuse me</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy5ne4b722y",
+			"parentId": "at://did:plc:bgiuklsedj6jytu5w5stv7cn/app.bsky.feed.post/3mzy32dtno22z",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy5ne4b722y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:15:26.373Z",
+			"content": "<p>now we’re getting somewhere</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy5nz52ik2y",
+			"parentId": "at://did:plc:ceea32mut6aq55yrmudqhpz2/app.bsky.feed.post/3mzy37xpo2c2u",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy5nz52ik2y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:15:48.419Z",
+			"content": "<p>::xzibit meme::</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy5ptlxn22y",
+			"parentId": "at://did:plc:ktfgyauw2thvwwrlqucdomdo/app.bsky.feed.post/3mzy4dtwxms2y",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy5ptlxn22y",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:16:49.725Z",
+			"content": "<p>Jed. You’re too right.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzy6tbepz22m",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy5mc3lck2y",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3mzy6tbepz22m",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-10T19:36:38.572Z",
+			"content": "<p>Haha me too. From what I understand <a href=\"https://bsky.app/profile/did:plc:rnqol7ddqwydvhnxhe6xhlml\">@solidjs.com</a> is moving away from this definition as they absorb SolidStart into core, maybe the rest of the industry can follow!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy73o2fyc26",
+			"parentId": "at://did:plc:zcanytzlaumjwgaopolw6wes/app.bsky.feed.post/3mzy3mtc2722l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy73o2fyc26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:41:20.302Z",
+			"content": "<p>that’s partly my issue too, I think some folks are using it to mean fullstack and some folks are using it to mean onrequest</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mzy76rj3os2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mzy76rj3os2t",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-11-10T19:43:04.592Z",
+			"content": "<p>Yes.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mzy7e6r4uk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mzy7e6r4uk2t",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-11-10T19:46:06.259Z",
+			"content": "<p>Step 1.) Be built on top of large SPA framework<br>\nStep 2.) Add SSR on top of your component model<br>\nStep 3.) Introduce some funky terms like PPR, ISR, etc<br>\nStep 4.) ????<br>\nStep 5.) Acquire VC funding</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy7lbtlac2t",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mzy7e6r4uk2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy7lbtlac2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:50:04.366Z",
+			"content": "<p>I… first of all…</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy7lqfej22t",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mzy76rj3os2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzy7lqfej22t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T19:50:19.629Z",
+			"content": "<p>*eyes narrow*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:2ya7x62bqsrhu3sf2urlg5gr/app.bsky.feed.post/3mzy7nv3gfk2f",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzy5mw724s2y",
+			"url": "https://bsky.app/profile/papa.yaga.gay/post/3mzy7nv3gfk2f",
+			"private": true,
+			"date": "2026-11-10T19:51:31.653Z",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"reposts": 1,
+		"comments": 11,
+		"via": "bluesky"
+	}
+}
