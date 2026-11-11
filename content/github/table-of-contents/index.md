@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/table-of-contents
   type: github
   url: https://github.com/zachleat/table-of-contents
-  importHash: 6f6d9e23f85a7d21
+  importHash: e7b43e1bda906b26
 ---
 # `<table-of-contents>`
 
@@ -57,6 +57,7 @@ TableOfContents.define("my-toc");
 
 -   `selector`: headings to include (default `main :is(h2, h3, h4, h5, h6)`). Headings without an `id` are listed without a link.
 -   `best-match`: highlight only the section crossing a reading line 25% down the viewport.
+-   `data-toc-exclude`: add to any element inside a heading to leave it out of the generated link text.
 
 ## Styling
 

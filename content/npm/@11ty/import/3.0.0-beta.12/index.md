@@ -9,13 +9,11 @@ metadata:
   name: '@11ty/import'
   version: 3.0.0-beta.12
   prerelease: true
-  distTags:
-    - beta
   license: MIT
   repository: https://github.com/11ty/import
   uuid: 11ty/import::npm::@11ty/import::3.0.0-beta.12
   type: npm
   url: https://www.npmjs.com/package/@11ty/import/v/3.0.0-beta.12
-  importHash: 55c123463d952981
+  importHash: e50015b31b0c1ee2
 ---
 

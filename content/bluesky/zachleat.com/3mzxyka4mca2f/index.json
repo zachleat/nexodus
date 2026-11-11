@@ -335,12 +335,272 @@
 			"private": true,
 			"date": "2026-11-10T19:51:31.653Z",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zivbusxwcsom5o6mf7kljzms/app.bsky.feed.post/3mzya4ekxrk2l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/joshwcomeau.com/post/3mzya4ekxrk2l",
+			"author": {
+				"name": "Josh W. Comeau",
+				"url": "https://bsky.app/profile/joshwcomeau.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zivbusxwcsom5o6mf7kljzms/bafkreibsa7me52rykre4zbykvigeks3a4jbjmdizavxj5bmwwmld3yyyba"
+			},
+			"date": "2026-11-10T19:59:37.655Z",
+			"content": "<p>It's what happens when you give a framework DMT and it gets real philosophical.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzya6mtgsc2c",
+			"parentId": "at://did:plc:zivbusxwcsom5o6mf7kljzms/app.bsky.feed.post/3mzya4ekxrk2l",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzya6mtgsc2c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T20:00:53.430Z",
+			"content": "<p>DMT is my favorite time zone</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:cjinybngj7dlvspewakwjab2/app.bsky.feed.post/3mzycqm3dus2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mindplay.dk/post/3mzycqm3dus2i",
+			"author": {
+				"name": "Rasmus Schultz",
+				"url": "https://bsky.app/profile/mindplay.dk",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:cjinybngj7dlvspewakwjab2/bafkreibqgovup3fiqtxmawik2bcsdeap4os7bz7mubvpeg6mmsbokcurve"
+			},
+			"date": "2026-11-10T20:46:44.103Z",
+			"content": "<p>it's a framework that abstracts the framework. (isn't it?)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzydajmv7s2o",
+			"parentId": "at://did:plc:cjinybngj7dlvspewakwjab2/app.bsky.feed.post/3mzycqm3dus2i",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzydajmv7s2o",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T20:55:38.404Z",
+			"content": "<p>generically, yes! folks are using it much more specifically than this though</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gvymykdoxt2ipzpdjd235bbk/app.bsky.feed.post/3mzydre52vs2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzya6mtgsc2c",
+			"url": "https://bsky.app/profile/bnijenhuis.nl/post/3mzydre52vs2o",
+			"author": {
+				"name": "Bernard Nijenhuis",
+				"url": "https://bsky.app/profile/bnijenhuis.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvymykdoxt2ipzpdjd235bbk/bafkreihbvgk3vwallesr7ekxybhl62jvc7qiqhz2e67jdpmppcpfpeeaf4"
+			},
+			"date": "2026-11-10T21:05:03.068Z",
+			"content": "<p>No, you're thinking of GMT. DMT was that rapper that used to bark a lot in his songs.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzye5sa2ek2f",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzye5sa2ek2f",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-10T21:12:00.498Z",
+			"content": "<p>It's a framework that's built on top an existing framework. Typically it adds fullstack capabilities to a clientside JS framework. The meta-prefix indicates its relationship to an existing framework. Examples: SvelteKit for Svelte, React Router for React, SolidStart for Solid 1.0, Nuxt for Vue</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzye5sk2ok2f",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzye5sa2ek2f",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzye5sk2ok2f",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-10T21:12:00.499Z",
+			"content": "<p>Can anyone define what exactly a static site is?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzyecb6n3k2f",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzy3bi4ubc2u",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzyecb6n3k2f",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-10T21:14:30.399Z",
+			"content": "<p>Performance for MPAs is better on first load but worse on subsequent loads. Performance for SPAs is worse on first load but better on subsequent loads. Metaframeworks sidestep that entirely. Although there are other tradeoffs</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzyff2k46s2t",
+			"parentId": "at://did:plc:gvymykdoxt2ipzpdjd235bbk/app.bsky.feed.post/3mzydre52vs2o",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzyff2k46s2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T21:33:57.840Z",
+			"content": "<p>No, you’re thinking of the DMZ, GMT is an inconsistently applied abbreviation for a term describing a color space</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzyfkule3s2k",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzye5sk2ok2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzyfkule3s2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T21:37:12.916Z",
+			"content": "<p>yes! that’s an widely agreed upon definition (and it has nothing to do with client JavaScript) 😅😅😅</p>\n<p>it’s a folder full of static files that can be served without any dynamic server/on-request/runtime processing</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzyfl7ji722f",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzxz4bpmp22a",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzyfl7ji722f",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-10T21:37:24.386Z",
+			"content": "<p>I may be wrong but I sense this is due to a perception that the e2e benchmark includes only metaframeworks as a means to privilege metaframeworks over other web frameworks instead of in order to compare apples to apples</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzyfrolcks2k",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzye5sa2ek2f",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzyfrolcks2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T21:41:01.504Z",
+			"content": "<p>I’ve seen folks use fullstack, I’ve seen folks say client bundling, component frameworks et al, I’ve seen folks say server runtimes, and the venn diagram here varies</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzykl5pses2q",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzyfl7ji722f",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3mzykl5pses2q",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-10T23:06:51.207Z",
+			"content": "<p>It is an arbitrary line that they chose, but I agree that there is a difference between the frameworks they evaluated and static site generators</p>\n<p>Whether \"metaframeworks\" is the right terminology is another question, but 11ty &amp; Remix are apples &amp; oranges from my perspective</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mzyl36hm6k2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mzyl36hm6k2d",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-11-10T23:15:48.858Z",
+			"content": "<p>it’s a framework for your framework</p>\n<img src=\"https://static.klipy.com/ii/39f2394ae36df6e199be9eb7c9fa1012/76/54/4xwaLtTl.gif?hh=464&amp;ww=310&amp;mp4=Vjq7nNQkM9D8bDS1WFfg&amp;webm=ivdfZS2TKoHOSaJWVC1\" alt=\"Xzibit Inception Meme\">",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzylgqbuhs2n",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzykl5pses2q",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzylgqbuhs2n",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-10T23:22:16.644Z",
+			"content": "<p>say more! what is 11ty missing that remix has?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzyqwqyj2c2s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzylgqbuhs2n",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3mzyqwqyj2c2s",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-11T01:00:42.965Z",
+			"content": "<p>The biggest and most obvious gap is on-request architecture, but there are a number of features that client-heavy frameworks have which can't be accomplished in a static site or even in a php app</p>\n<p>Most sites don't need those features, but my hunch is people choose these tools in case one day they do</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzyqwrf3fc2s",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzyqwqyj2c2s",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3mzyqwrf3fc2s",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-11T01:00:42.966Z",
+			"content": "<p>Persistent state across navigations (video player, chat UI) is the one people always point to, most apps never need it but \"what if one day? 🙄\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzyr3drtis2s",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzyqwrf3fc2s",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3mzyr3drtis2s",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-11T01:03:16.888Z",
+			"content": "<p>The other **big** difference is that what e18e is calling metaframeworks use a single component model across the server-client boundary, which enables things like end-to-end type safety</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzysftwogc2k",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzyr3drtis2s",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mzysftwogc2k",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-11T01:27:03.107Z",
+			"content": "<p>this is invaluable feedback, thank you!! I will ruminate on it 🙌🏻</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:avjnsilnwbpskwnwcumwn7c7/app.bsky.feed.post/3mzyszax4fc2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/stevenspriggs.bsky.social/post/3mzyszax4fc2h",
+			"author": {
+				"name": "Steven Spriggs",
+				"url": "https://bsky.app/profile/stevenspriggs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:avjnsilnwbpskwnwcumwn7c7/bafkreie4qgjbz5yvahrrca2rz746qxdagc3xvpmzmpfnsmwksdadmuejnq"
+			},
+			"date": "2026-11-11T01:37:54.285Z",
+			"content": "<p>Zuck’s new framework</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 6,
+		"likes": 9,
 		"reposts": 1,
-		"comments": 11,
+		"comments": 16,
 		"via": "bluesky"
 	}
 }

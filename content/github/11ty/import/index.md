@@ -14,7 +14,7 @@ metadata:
   uuid: 11ty/import::github::11ty/import
   type: github
   url: https://github.com/11ty/import
-  importHash: ed2677b99f608972
+  importHash: 1309f348dbde3fd3
 ---
 # `@11ty/import`
 
@@ -117,7 +117,7 @@ npx @11ty/import git . --path=README.md,src/Eleventy.js
 -   `fediverse` (username)
 -   `jsonfeed` (URL)
 -   `rss` (URL)
--   `wordpress` (blog home page URL, discovers the site’s own REST API or falls back to the WordPress.com API, then to the site’s paged RSS feed for posts only)
+-   `wordpress` (blog home page URL, discovers the site’s own REST API or falls back to the WordPress.com API, then to the site’s paged RSS feed for posts only, the `route` source option, `api`, `wordpressdotcom`, or `rss`, skips discovery)
 -   `wordpressxml` (WordPress export file path or URL)
 -   `youtubeuser` (user id)
 
@@ -223,7 +223,7 @@ npx @11ty/import bluesky @11ty.dev
 -   `hobix` (Hobix blog URL or domain, from the Wayback Machine)
 -   `tumblr` (blog name, domain, or URL, public posts and reblogs, requires a `TUMBLR_API_KEY` environment variable, the OAuth consumer key from [registering an app](https://www.tumblr.com/oauth/apps), `--posttypes` filters by `text`, `photo`, `quote`, `link`, `chat`, `audio`, `video`, or `answer`)
 -   `twitter` (Twitter/X archive `.zip` file or extracted folder path)
--   `wayback` (site URL or domain, optionally with a path, from the Internet Archive’s Wayback Machine, links to other imported pages point to their files)
+-   `wayback` (site URL or domain, optionally with a path, from the Internet Archive’s Wayback Machine, links to other imported pages point to their files, the `contentSelector` source option picks a content element and skips pages without a match)
 -   `webmentions` (domain or site URL, data files only, see [Webmentions](#webmentions))
 
 ```
@@ -293,9 +293,6 @@ npx @11ty/import wayback example.com --until=2022
 # Same, using a Wayback Machine URL
 npx @11ty/import wayback https://web.archive.org/web/2022/https://example.com/
 
-# Use a specific content element (tag, id, and/or class names), pages without a match are skipped
-npx @11ty/import wayback example.com --contentselector=div.entry
-
 # Import posts and pages with comments from a Typepad blog (offline since September 30, 2025) via the Wayback Machine
 npx @11ty/import typepad sethgodin.typepad.com/seths_blog/
 
@@ -364,7 +361,7 @@ npx @11ty/import webmentions example.com
 
 Import the commit history of files into a `commits` array in the [template data file](https://www.11ty.dev/docs/data-template-dir/) next to each file, whether or not the file was imported.
 
-The route is picked automatically: a local checkout is read with `git log`, which is faster, has no rate limit, and follows renames. Otherwise the GitHub API is used, where an optional `GITHUB_TOKEN` environment variable raises the rate limit from 60 to 5,000 requests per hour.
+The route is picked automatically: a local checkout is read with `git log`, which is faster, has no rate limit, and follows renames. Otherwise the GitHub API is used, where an optional `GITHUB_TOKEN` environment variable raises the rate limit from 60 to 5,000 requests per hour. Use the `route` source option, `api` or `local`, to choose one (`api` on a folder target uses its GitHub `origin` remote and reads the branch it tracks there, otherwise the default branch).
 
 ```
 # Authoring history for one file in this checkout
@@ -376,18 +373,20 @@ npx @11ty/import git ~/Code/eleventy --path=README.md,src/Eleventy.js
 # `owner/repo` uses the local checkout when the current folder is one, otherwise the GitHub API
 npx @11ty/import git 11ty/eleventy --path=README.md
 
-# Every tracked file in a folder (the API route makes one request per file, so mind the rate limit)
+# Every tracked file in a folder (the API route makes one request per 100 commits per file, so mind the rate limit)
 npx @11ty/import git . --path=src/docs/
 ```
 
 -   Each commit has `id` (the full SHA), `url`, `author`, `date`, `message` (the subject line only), and `via`. Author emails are not imported.
--   Data files go where the file lives in the repository: `--path=src/posts/one.md` writes `src/posts/one.json` (under `--output`). Paths are relative to the folder you target, or to the repository root for an `owner/repo` target.
+-   Data files go where the file lives in the repository: `--path=src/posts/one.md` writes `src/posts/one.json` (under `--output`). Paths are relative to the folder you target (on both routes), or to the repository root for an `owner/repo` target.
+-   Only the 10 newest commits are kept in `commits`. Use the `commits` source option to change this (`0` keeps the full history), e.g. `importer.addSource("git", { url: ".", path: "README.md", commits: 25 })`. The full history is still read, so the API route makes one request per 100 commits per file.
+-   An `authors` array lists each author from the file’s full history (up to `--until`) once, oldest first. New authors are appended on every import and are never removed.
 -   The history is always rewritten (no `--overwrite` needed), so commits that are no longer reachable are removed. If one file fails, its data file is left alone and the other files merge instead of replacing.
 -   `--until` limits the history to the commits at that point in time.
 
 Differences between the two routes:
 
-<table><thead><tr><th></th><th>local checkout</th><th>GitHub API</th></tr></thead><tbody><tr><td>Renames</td><td>followed (<code>git log --follow</code>)</td><td>not followed, history stops at the last rename</td></tr><tr><td><code>author</code></td><td>commit author <code>name</code></td><td>GitHub <code>name</code> (login), <code>url</code>, and <code>avatarUrl</code>, falling back to the commit author’s name</td></tr><tr><td>Commit <code>url</code></td><td>from a GitHub <code>origin</code> remote, omitted without one</td><td>always</td></tr><tr><td>Requires</td><td>the repository on disk</td><td>network, and the repository to be public (or a <code>GITHUB_TOKEN</code>)</td></tr></tbody></table>
+<table><thead><tr><th></th><th>local checkout</th><th>GitHub API</th></tr></thead><tbody><tr><td>Renames</td><td>followed (<code>git log --follow</code>)</td><td>not followed, history stops at the last rename</td></tr><tr><td><code>author</code></td><td>commit author <code>name</code>, with <code>.mailmap</code> applied</td><td>GitHub <code>name</code> (login), <code>url</code>, and <code>avatarUrl</code>, falling back to the commit author’s name (no <code>.mailmap</code>)</td></tr><tr><td>Commit <code>url</code></td><td>from a GitHub <code>origin</code> remote, omitted without one</td><td>always</td></tr><tr><td>Requires</td><td>the repository on disk</td><td>network, and the repository to be public (or a <code>GITHUB_TOKEN</code>)</td></tr></tbody></table>
 
 ### Programmatic API
 
