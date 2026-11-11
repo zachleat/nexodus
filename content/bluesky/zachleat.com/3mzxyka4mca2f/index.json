@@ -595,12 +595,177 @@
 			"date": "2026-11-11T01:37:54.285Z",
 			"content": "<p>Zuck’s new framework</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:zjmckaxprnusdgfbfxf3bzoh/app.bsky.feed.post/3mzzg4maeyc2b",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mzxzxm4ggs2i",
+			"url": "https://bsky.app/profile/lethalspatula.bsky.social/post/3mzzg4maeyc2b",
+			"private": true,
+			"date": "2026-11-11T07:19:47.881Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzzgz7xp222v",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzyecb6n3k2f",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mzzgz7xp222v",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-11-11T07:35:48.096Z",
+			"content": "<p>That was the theory, yes. I wrote a few words about this here: <a href=\"https://mastrojs.github.io/guide/client-side-vs-server-side-javascript-static-vs-ondemand-spa-vs-mpa/\">mastrojs.github.io/guide/client...</a></p>\n<p>And even if that were true, on average users only navigate once (1) after loading the page: <a href=\"https://infrequently.org/2025/11/performance-inequality-gap-2026/#are-spas-working%3F\">infrequently.org/2025/11/perf...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzzirs2uzs2v",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzyr3drtis2s",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mzzirs2uzs2v",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-11-11T08:07:26.123Z",
+			"content": "<p>nit-pick: these are two independent features. For example, while “Reactive Mastro” can be used to client-side render the same components as core Mastro uses on the server, typesafe APIs without any components are possible as well: <a href=\"https://github.com/mastrojs/api\">github.com/mastrojs/api</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzzlbvh3es27",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzzgz7xp222v",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzzlbvh3es27",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-11T08:52:14.023Z",
+			"content": "<p>\"The theory behind SPAs was that the client-side JavaScript can do a better job at page navigation than the browser\" <br>\nThat's not how I understand it. The theory behind SPAs is that a site will run faster if you minimize server hops. I don't think these libraries purport to be superior to the browser</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzzlbvporc27",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzzlbvh3es27",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzzlbvporc27",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-11T08:52:14.024Z",
+			"content": "<p>JS frameworks are still the only cross browser compatible way to get a page with an app-like feel. View transitions are baseline newly available only for same document transitions. Cross document view transitions don't have cross browser support. Speculation rules aren't cross browser either</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzzmo4iwvs2y",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzzlbvporc27",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mzzmo4iwvs2y",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-11-11T09:16:57.817Z",
+			"content": "<p>- most SPAs need to do a request to the server to get the next's page data anyway (e.g. getInitialProps)<br>\n- Firefox is in the process of implementing cross-document view transitions. those and speculation rules also fall back gracefully if the browser doesn't support it. it doesn't crash the page!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzzmo5bxos2y",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzzmo4iwvs2y",
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3mzzmo5bxos2y",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-11-11T09:16:57.818Z",
+			"content": "<p>funny you should mention the app-like feel. at a previous job, we had a Next SPA and wanted to pack it into a native app. the client wanted transitions where the old and new page are visible at the same time – that you can't do with Next. So we added a second webview, effectively making an MPA 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzznwexyhk27",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3mzykl5pses2q",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzznwexyhk27",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-11T09:39:28.878Z",
+			"content": "<p>I'm just going to admit my ignorance here: how does a static site generator work with a database? In my understanding, once your app needs a database, then it needs a server. Everyone is acting like it's totally obvious that SSGs are just as capable as JS frameworks, but sincerely don't understand</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzznwfgidc27",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzznwexyhk27",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzznwfgidc27",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-11T09:39:28.879Z",
+			"content": "<p>When I say I'm sincere, I truly mean sincere. I feel like I'm missing something huge. Here's what I've heard are the benefits of SSGs:<br>\n- no server vulnerabilities <br>\n- lower bundle size<br>\n- better performance due to lack of JS<br>\n- progressive enhancement<br>\n- embrace browser natives<br>\n- no versioning</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzznwfglb227",
+			"parentId": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3mzznwfgidc27",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3mzznwfglb227",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-11T09:39:28.880Z",
+			"content": "<p>If I were making a website with the full feature set of Bluesky, how would I do it with something like 11ty without sacrificing any of those listed benefits?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n222ldcwb225",
+			"parentId": "at://did:plc:zjmckaxprnusdgfbfxf3bzoh/app.bsky.feed.post/3mzzg4maeyc2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n222ldcwb225",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-11T13:25:56.685Z",
+			"content": "<p>it matches more than folks want to admit 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n22ciygutc2o",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n222ldcwb225",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3n22ciygutc2o",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-11T15:47:48.104Z",
+			"content": "<p>This is the important place where PHP isn't a metaframework<br>\n<a href=\"https://bsky.app/profile/lavalva.dev/post/3mzyr3drtis2s\">bsky.app/profile/lava...</a></p>\n<p><a href=\"https://bsky.app/profile/lavalva.dev/post/3mzyr3drtis2s\">Quoted post</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n22cycpmuk2o",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3mzzirs2uzs2v",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3n22cycpmuk2o",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-11T15:56:22.195Z",
+			"content": "<p>Valid nitpick! My wording could have been better, but a typesafe API isn't the **only** requirement for end-to-end type safety. Full type safety includes typed middlewares, routes, potentially session storage. Not every \"metaframework\" has all of these but they are categorically capable of them</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 9,
+		"likes": 12,
 		"reposts": 1,
 		"comments": 16,
+		"quotes": 1,
 		"via": "bluesky"
 	}
 }

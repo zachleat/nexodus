@@ -440,11 +440,50 @@
 			"private": true,
 			"date": "2026-11-10T22:58:45.000Z",
 			"via": "fediverse"
+		},
+		{
+			"id": "117597217513747065",
+			"parentId": 0,
+			"url": "https://mastodon.social/@kisaragi_hiu/117597216861493833",
+			"author": {
+				"name": "如月飛羽🌈",
+				"url": "https://mastodon.social/@kisaragi_hiu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/921/095/705/077/863/original/b1c326d172bccc89.png"
+			},
+			"date": "2026-11-11T09:58:46.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Routing + a standard project structure + some integration with client side component framework(s)</p><p>which is why something like create-react-app ended up basically becoming a metaframework (often listed alongside Next when it was still around); Astro can probably be considered a metaframework; but Hugo can't (no client-side component integration)</p><p>I think</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117597231725311298",
+			"parentId": "117597217513747065",
+			"url": "https://mastodon.social/@kisaragi_hiu/117597229718958732",
+			"author": {
+				"name": "如月飛羽🌈",
+				"url": "https://mastodon.social/@kisaragi_hiu",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/921/095/705/077/863/original/b1c326d172bccc89.png"
+			},
+			"date": "2026-11-11T10:02:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> The \"meta\" is because the word \"framework\" is extremely overloaded and \"application framework (with routing &amp; project structure &amp; other bells and whistles) on top of / integrated with one / many component frameworks\" gets seen as \"framework on top of a framework\" and then called \"metaframework\"</p><p>...is my understanding of it, I didn't actually watch the history of the word happen</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117597460211864756",
+			"parentId": "117593738990002361",
+			"url": "https://indieweb.social/@nomster/117597460190414048",
+			"author": {
+				"name": "Noam Rosenthal",
+				"url": "https://indieweb.social/@nomster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/688/723/348/709/original/95007aa07d35dfd9.jpg"
+			},
+			"date": "2026-11-11T11:00:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> given the other comments on your thread I'm not sure if you're joking but I am being totally serious! At least when I hear the term I think of something that actively runs both server and client code in a coordinated way, as in you can't just include a client JS lib and \"render\" into a container.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
 		"likes": 5,
-		"comments": 11,
+		"comments": 12,
 		"quotes": 2,
 		"via": "fediverse"
 	}
