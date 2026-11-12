@@ -15,7 +15,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/browser-window
   type: github
   url: https://github.com/zachleat/browser-window
-  importHash: 080860df4fcabf0e
+  importHash: cd0fb86a66fd128e
 tags:
   - web-components
 ---
@@ -38,5 +38,7 @@ npm install @zachleat/browser-window
 
 ## Changelog
 
+-   `v3.2.0` `url` accepts a root-relative path (`url="/post1/"`), shown as-is.
+-   `v3.1.0` adds an opt-in `fill` attribute so the window fills the height of a stretched flex or grid item.
 -   `v3.0.0` swaps to use `light-dark` and `color-scheme` for easier light/dark mode configuration! This has browser support implications!
 -   `v2.0.0` URL bar now shows the full url by default (including pathname, searchParams, et al). Use `url-mode="hostname-only"` to swap back to previous behavior.

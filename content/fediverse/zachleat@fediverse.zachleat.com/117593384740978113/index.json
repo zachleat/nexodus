@@ -492,6 +492,123 @@
 			"date": "2026-11-12T04:57:35.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> XHTML, so meta. 🤯</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117603881419629858",
+			"parentId": "117597460211864756",
+			"url": "https://fediverse.zachleat.com/@zachleat/117603881419629858",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-12T14:13:39.515Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nomster\" class=\"u-url mention\">@<span>nomster</span></a></span> (I am not joking unless you’re joking in which case I am joking)</p><p>I’m curious if you see isomorphism as a requirement!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117603890708303241",
+			"parentId": "117597231725311298",
+			"url": "https://fediverse.zachleat.com/@zachleat/117603890708303241",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-12T14:16:01.250Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@kisaragi_hiu\" class=\"u-url mention\">@<span>kisaragi_hiu</span></a></span> I hate these terms that everyone uses but no one has really defined so we get all of these fuzzy definitions. It seems like in my recent conversations, but I have seen your definition used (though I wouldn’t consider it definitive!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117603894823465558",
+			"parentId": "117603881419629858",
+			"url": "https://indieweb.social/@nomster/117603894797103866",
+			"author": {
+				"name": "Noam Rosenthal",
+				"url": "https://indieweb.social/@nomster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/688/723/348/709/original/95007aa07d35dfd9.jpg"
+			},
+			"date": "2026-11-12T14:17:03.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> not necessarily though it's usually part of it. It's more of a question of whether the framework is opinionated about the whole server/client stack. NextJS/SvelteKit/Nuxt/etc are. React/HTMX/Vue aren't as much.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117603899822103259",
+			"parentId": "117603894823465558",
+			"url": "https://fediverse.zachleat.com/@zachleat/117603899822103259",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-12T14:18:20.315Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nomster\" class=\"u-url mention\">@<span>nomster</span></a></span> that’s helpful, thanks! the thing that fascinates me is that static isn’t seen as an opinion about the server/client stack 🤷</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117603931586283441",
+			"parentId": "117603899822103259",
+			"url": "https://indieweb.social/@nomster/117603931568557842",
+			"author": {
+				"name": "Noam Rosenthal",
+				"url": "https://indieweb.social/@nomster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/688/723/348/709/original/95007aa07d35dfd9.jpg"
+			},
+			"date": "2026-11-12T14:26:24.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I guess static/SSG is an architecture rather than a framework. It's hard to compare it to frameworks on the same scale. e.g. the SSG architecture is not in itself opinionated about how or whether to handle forms and links that don't refresh the whole page. (meta-)frameworks are.</p><p>SSG can be compared with an SSR+SPA architecture as a whole, not with a particular implementation of that architecture, if that makes sense.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117603948316829371",
+			"parentId": "117603931586283441",
+			"url": "https://fediverse.zachleat.com/@zachleat/117603948316829371",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-12T14:30:40.286Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nomster\" class=\"u-url mention\">@<span>nomster</span></a></span> that makes some sense, yeah. All of the discussions I’ve been having online this week are in the nuance of this space. For example, I wouldn’t bifurcate something like the <a href=\"https://www.speedlify.dev/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">speedlify.dev/</span><span class=\"invisible\"></span></a> project to only have SSG or SSR+SPA. I want to compare them.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117603983437163332",
+			"parentId": "117603948316829371",
+			"url": "https://indieweb.social/@nomster/117603983419428957",
+			"author": {
+				"name": "Noam Rosenthal",
+				"url": "https://indieweb.social/@nomster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/688/723/348/709/original/95007aa07d35dfd9.jpg"
+			},
+			"date": "2026-11-12T14:39:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> perhaps it's ok that you can't easily compare architectures with a performance benchmark. An architecture is not a commodity and has a lot of qualitative tradeoffs that don't necessarily translate to numbers in an obvious way.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117604013117104918",
+			"parentId": "117603983437163332",
+			"url": "https://fediverse.zachleat.com/@zachleat/117604013117104918",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-12T14:47:09.059Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@nomster\" class=\"u-url mention\">@<span>nomster</span></a></span> HM! would be fun to discuss the nuances of that in person!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117604029382097234",
+			"parentId": "117604013117104918",
+			"url": "https://indieweb.social/@nomster/117604029357882075",
+			"author": {
+				"name": "Noam Rosenthal",
+				"url": "https://indieweb.social/@nomster",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/874/688/723/348/709/original/95007aa07d35dfd9.jpg"
+			},
+			"date": "2026-11-12T14:51:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Absolutely! Let me know if you are in the hood (Brighton England)</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
