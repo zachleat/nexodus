@@ -53,6 +53,27 @@
 			"via": "bluesky"
 		},
 		{
+			"id": "at://did:plc:v3bkfge7g7ef35ggdokbe52k/app.bsky.feed.post/3mtf7zxp6k22j",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtf7j2uabk2o",
+			"url": "https://bsky.app/profile/gn-arp.bsky.social/post/3mtf7zxp6k22j",
+			"private": true,
+			"date": "2026-08-18T22:06:32.256Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mtfa5lpiic2z",
+			"parentId": "at://did:plc:v3bkfge7g7ef35ggdokbe52k/app.bsky.feed.post/3mtf7zxp6k22j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mtfa5lpiic2z",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-08-18T22:08:33.902Z",
+			"content": "<p>…wait, that clears up a few things</p>",
+			"via": "bluesky"
+		},
+		{
 			"id": "at://did:plc:dwekxqrcsvhaufcud63eaxz2/app.bsky.feed.post/3mtffrsktbk2t",
 			"parentId": 0,
 			"url": "https://bsky.app/profile/alexnozer.bsky.social/post/3mtffrsktbk2t",

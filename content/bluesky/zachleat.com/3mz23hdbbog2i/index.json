@@ -38,19 +38,6 @@
 			"date": "2026-10-29T21:08:15.070Z",
 			"content": "<p>aha no apologies necessary (it is what I think but I’m tired of javascript bros so I always leave myself a little wiggle room so that’s why I am replying to this via DM… wait)</p>",
 			"via": "bluesky"
-		},
-		{
-			"id": "at://did:plc:asodcn76lcar32eawgwza3os/app.bsky.feed.post/3mz3n4zfy3g2l",
-			"parentId": 0,
-			"url": "https://bsky.app/profile/yankeemorla.bsky.social/post/3mz3n4zfy3g2l",
-			"author": {
-				"name": "Jean Carlos Morla · Conditec",
-				"url": "https://bsky.app/profile/yankeemorla.bsky.social",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:asodcn76lcar32eawgwza3os/bafkreihdu7svdmxxke2j3uowr5kvyswa4tkbsfqzgn555hiiddbkh4wpaq"
-			},
-			"date": "2026-10-30T11:05:25.660Z",
-			"content": "<p>Este es el punto ciego de npm audit: solo ve el árbol declarado, no lo que va empaquetado dentro del build. Para equipos pequeños en LATAM que dependen de ese 0 vulnerabilidades como señal de salud, un SBOM del artefacto final da una imagen más honesta. ¿Lo usas en CI?</p>",
-			"via": "bluesky"
 		}
 	],
 	"counts": {

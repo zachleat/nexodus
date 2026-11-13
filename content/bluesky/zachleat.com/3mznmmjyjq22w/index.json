@@ -126,19 +126,6 @@
 			"via": "bluesky"
 		},
 		{
-			"id": "at://did:plc:asodcn76lcar32eawgwza3os/app.bsky.feed.post/3mzpqtsvv7x2i",
-			"parentId": 0,
-			"url": "https://bsky.app/profile/yankeemorla.bsky.social/post/3mzpqtsvv7x2i",
-			"author": {
-				"name": "Jean Carlos Morla · Conditec",
-				"url": "https://bsky.app/profile/yankeemorla.bsky.social",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:asodcn76lcar32eawgwza3os/bafkreihdu7svdmxxke2j3uowr5kvyswa4tkbsfqzgn555hiiddbkh4wpaq"
-			},
-			"date": "2026-11-07T11:05:06.630Z",
-			"content": "<p>Lo que más me preocupa son las actualizaciones de versión mayor sin ambiente de staging. Equipos pequeños que actualizan el framework directo en producción y se enteran de los breaking changes por sus usuarios. Fijar versiones y probar antes sigue siendo clave.</p>",
-			"via": "bluesky"
-		},
-		{
 			"id": "at://did:plc:t3mgojfn6ouudblxlq2o7v5v/app.bsky.feed.post/3mzpxp4vt7227",
 			"parentId": 0,
 			"url": "https://bsky.app/profile/erichowey.dev/post/3mzpxp4vt7227",
