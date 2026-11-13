@@ -25,12 +25,25 @@
 			"date": "2026-11-12T15:40:13.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> joke terrible That a was </p><p>I'll see myself out</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117607379216796754",
+			"parentId": 0,
+			"url": "https://mastodon.social/@SavaRocks/117607379156126818",
+			"author": {
+				"name": "Sava",
+				"url": "https://mastodon.social/@SavaRocks",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/648/886/144/005/940/original/60eb15edd0afa530.jpeg"
+			},
+			"date": "2026-11-13T05:03:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that's why I prefer to rsync from time to time</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 8,
+		"likes": 11,
 		"reposts": 1,
-		"comments": 2,
+		"comments": 3,
 		"via": "fediverse"
 	}
 }

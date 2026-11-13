@@ -8,7 +8,7 @@ authors:
 date: 2018-01-06T06:44:47.000Z
 metadata:
   name: 11ty/docs
-  language: Nunjucks
+  language: JavaScript
   license: MIT
   homepage: https://www.11ty.dev/
   tags:
@@ -17,7 +17,7 @@ metadata:
   uuid: 11ty/import::github::11ty/docs
   type: github
   url: https://github.com/11ty/docs
-  importHash: b84b1606d6173000
+  importHash: e4df9b61d9e7d14d
 tags:
   - eleventy
   - eleventy-sample

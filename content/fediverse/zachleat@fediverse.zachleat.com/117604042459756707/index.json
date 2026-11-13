@@ -90,12 +90,38 @@
 			"date": "2026-11-12T15:40:13.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> joke terrible That a was </p><p>I'll see myself out</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117605611410975127",
+			"parentId": 0,
+			"url": "https://infosec.exchange/@paul_ipv6/117605611364034901",
+			"author": {
+				"name": "Paul_IPv6",
+				"url": "https://infosec.exchange/@paul_ipv6",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/366/329/772/774/270/original/104ea4a9b6272827.jpg"
+			},
+			"date": "2026-11-12T21:33:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>only question is whether he uses a collating sequence for his affairs or does AI assisted random access...</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117607379216796754",
+			"parentId": "117604059916818033",
+			"url": "https://mastodon.social/@SavaRocks/117607379156126818",
+			"author": {
+				"name": "Sava",
+				"url": "https://mastodon.social/@SavaRocks",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/648/886/144/005/940/original/60eb15edd0afa530.jpeg"
+			},
+			"date": "2026-11-13T05:03:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> that's why I prefer to rsync from time to time</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 70,
-		"reposts": 15,
-		"comments": 2,
+		"likes": 93,
+		"reposts": 28,
+		"comments": 3,
 		"via": "fediverse"
 	}
 }
