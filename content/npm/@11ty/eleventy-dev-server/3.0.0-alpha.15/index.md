@@ -11,8 +11,6 @@ metadata:
   name: '@11ty/eleventy-dev-server'
   version: 3.0.0-alpha.15
   prerelease: true
-  distTags:
-    - canary
   license: MIT
   repository: https://github.com/11ty/dev-server
   tags:
@@ -22,7 +20,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy-dev-server::3.0.0-alpha.15
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy-dev-server/v/3.0.0-alpha.15
-  importHash: 145037b1b3341231
+  importHash: 1b4704b6ad595885
 tags:
   - eleventy
   - server

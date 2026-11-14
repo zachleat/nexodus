@@ -5,9 +5,9 @@
 			"parentId": 0,
 			"url": "https://tilde.zone/@dashdsrdash/117610839824511095",
 			"author": {
-				"name": "-dsr- (hypoparenthetically)",
+				"name": "-dsr- (citations pending)",
 				"url": "https://tilde.zone/@dashdsrdash",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/576/551/267/830/030/original/f3858608e9acb6d1.png"
 			},
 			"date": "2026-11-13T19:43:16.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>then wouldn't it be LMHT ?</p>",
@@ -38,10 +38,36 @@
 			"date": "2026-11-13T19:50:31.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span><br>&lt;html lang=“fr”&gt; ???</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117610875027988645",
+			"parentId": "117610839840822015",
+			"url": "https://fediverse.zachleat.com/@zachleat/117610875027988645",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-13T19:52:13.510Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tilde.zone/@dashdsrdash\" class=\"u-url mention\">@<span>dashdsrdash</span></a></span> LGTM</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117610875924660687",
+			"parentId": "117610869019997789",
+			"url": "https://fediverse.zachleat.com/@zachleat/117610875924660687",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-13T19:52:27.192Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rianmurnen\" class=\"u-url mention\">@<span>rianmurnen</span></a></span> …wait</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 2,
+		"likes": 5,
 		"comments": 3,
 		"via": "fediverse"
 	}

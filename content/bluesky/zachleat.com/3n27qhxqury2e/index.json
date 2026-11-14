@@ -1,6 +1,35 @@
 {
 	"counts": {
-		"likes": 2,
+		"likes": 7,
+		"comments": 2,
 		"via": "bluesky"
-	}
+	},
+	"comments": [
+		{
+			"id": "at://did:plc:tki7vwlanxbwrz2er67eaeqa/app.bsky.feed.post/3n27qzeyttc2g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/simoncox.com/post/3n27qzeyttc2g",
+			"author": {
+				"name": "SimonCox",
+				"url": "https://bsky.app/profile/simoncox.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tki7vwlanxbwrz2er67eaeqa/bafkreiabali2634y2slw3yiixyfgxibw6qhnvmp6imzbvyuflezvkjg4em"
+			},
+			"date": "2026-11-13T19:50:49.223Z",
+			"content": "<p>&lt;linga-franca&gt;</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:hj3lnahvcdgflnqgqfsbbew6/app.bsky.feed.post/3n27tlke4uc2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/jlunman.bsky.social/post/3n27tlke4uc2i",
+			"author": {
+				"name": "Jon Lunman",
+				"url": "https://bsky.app/profile/jlunman.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hj3lnahvcdgflnqgqfsbbew6/bafkreih736qrmxwnajszy72qox5bivj5tbdk6j7t4npsyufbn6h3f6cd7a"
+			},
+			"date": "2026-11-13T20:36:46.301Z",
+			"content": "<p>&lt;html lang=\"fr\"&gt;</p>",
+			"via": "bluesky"
+		}
+	]
 }
