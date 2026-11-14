@@ -64,11 +64,25 @@
 			"date": "2026-11-13T19:52:27.192Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rianmurnen\" class=\"u-url mention\">@<span>rianmurnen</span></a></span> …wait</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117613829414175655",
+			"parentId": 0,
+			"url": "https://thoresson.social/@anders/117613829401580510",
+			"author": {
+				"name": "Anders Thoresson",
+				"url": "https://thoresson.social/@anders",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/421/197/971/976/581/original/b993784d786d0049.png"
+			},
+			"date": "2026-11-14T08:23:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Very timely post as “lingua franca” was the answer two one of the questions in Sweden’s most popular tv quiz show at more or less the same time you posted this. </p><p>Not sure they had html in mind though.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 5,
-		"comments": 3,
+		"likes": 11,
+		"reposts": 1,
+		"comments": 4,
 		"via": "fediverse"
 	}
 }
