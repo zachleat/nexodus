@@ -1,0 +1,114 @@
+{
+	"comments": [
+		{
+			"id": "117626867431171666",
+			"parentId": 0,
+			"url": "https://front-end.social/@sturobson/117626867351268588",
+			"author": {
+				"name": "Stu Robson",
+				"url": "https://front-end.social/@sturobson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/080/951/366/767/original/890b671ce87c51ca.jpeg"
+			},
+			"date": "2026-11-16T15:39:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>bUt dOeS It sCaLe?!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117626878069444845",
+			"parentId": "117626867431171666",
+			"url": "https://fediverse.zachleat.com/@zachleat/117626878069444845",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-16T15:42:00.542Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sturobson\" class=\"u-url mention\">@<span>sturobson</span></a></span> my snakeskin theme chooser has plenty of scales</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117627239159169207",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117627239159169207",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-16T17:13:50.333Z",
+			"content": "<p>The relationship between constraints and healthy guardrails.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117627250005557979",
+			"parentId": "117627239159169207",
+			"url": "https://front-end.social/@sturobson/117627249972916121",
+			"author": {
+				"name": "Stu Robson",
+				"url": "https://front-end.social/@sturobson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/080/951/366/767/original/890b671ce87c51ca.jpeg"
+			},
+			"date": "2026-11-16T17:16:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is this about the new James Bond?!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117627290433259485",
+			"parentId": "117627250005557979",
+			"url": "https://fediverse.zachleat.com/@zachleat/117627290433259485",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-16T17:26:52.715Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sturobson\" class=\"u-url mention\">@<span>sturobson</span></a></span> I am… James Batman</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117627663096068842",
+			"parentId": 0,
+			"url": "https://mastodon.evilgeniuschronicles.org/@geniodiabolico/117627663041486931",
+			"author": {
+				"name": "Dave Slusher - Tech/Podcast/Maker Stuff",
+				"url": "https://mastodon.evilgeniuschronicles.org/@geniodiabolico",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/482/129/010/943/760/original/f148c086eb78ae60.png"
+			},
+			"date": "2026-11-16T19:01:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Very condensed version of this story.</p><p>Early 2000s we were rolling out a secure e-publishing system. I spec'd it as requiring sustained 2 tx/second, bursts to 10. Implentors freaked out because it did not do 50 transactions a second. Days of phone calls.</p><p>The system rolls out, then I am laid off. In the middle of the TX ID is a counter, so I can tell exactly how many credentials were minted. I requested one every month to see where they were. 200 in the first 18 months.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117627670698558958",
+			"parentId": "117627663096068842",
+			"url": "https://mastodon.evilgeniuschronicles.org/@geniodiabolico/117627670526262985",
+			"author": {
+				"name": "Dave Slusher - Tech/Podcast/Maker Stuff",
+				"url": "https://mastodon.evilgeniuschronicles.org/@geniodiabolico",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/482/129/010/943/760/original/f148c086eb78ae60.png"
+			},
+			"date": "2026-11-16T19:03:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.evilgeniuschronicles.org/@geniodiabolico\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>geniodiabolico</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Bear in mind, my transactions to read the counter were 10% of those. The thing we argued about for maybe 20 hours over two weeks, the rate they said was necessary in 4 seconds would have served all the transactions that happened in a year and a half.</p><p>Optimism is nice, but sometimes you got to be realistic.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117627680515560241",
+			"parentId": "117627670698558958",
+			"url": "https://mastodon.evilgeniuschronicles.org/@geniodiabolico/117627680473837247",
+			"author": {
+				"name": "Dave Slusher - Tech/Podcast/Maker Stuff",
+				"url": "https://mastodon.evilgeniuschronicles.org/@geniodiabolico",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/117/482/129/010/943/760/original/f148c086eb78ae60.png"
+			},
+			"date": "2026-11-16T19:06:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.evilgeniuschronicles.org/@geniodiabolico\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>geniodiabolico</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Also fun, in one of those argument calls when they were saying 2/10 was insufficient, after I was too exhausted for politeness. I asked \"Can anyone on the call explain the significance of those numbers? I can, because I'm the one who created them and I know why. I will concede my argument right now if anyone can explain why those are significant.\" Of course they couldn't. I made my point that they were cargo culting specs that I CREATED AND TELLING ME I WAS WRONG!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 25,
+		"reposts": 8,
+		"comments": 3,
+		"via": "fediverse"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "117627250005557979",
+			"parentId": 0,
+			"url": "https://front-end.social/@sturobson/117627249972916121",
+			"author": {
+				"name": "Stu Robson",
+				"url": "https://front-end.social/@sturobson",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/080/951/366/767/original/890b671ce87c51ca.jpeg"
+			},
+			"date": "2026-11-16T17:16:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> is this about the new James Bond?!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117627290433259485",
+			"parentId": "117627250005557979",
+			"url": "https://fediverse.zachleat.com/@zachleat/117627290433259485",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-16T17:26:52.715Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@sturobson\" class=\"u-url mention\">@<span>sturobson</span></a></span> I am… James Batman</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

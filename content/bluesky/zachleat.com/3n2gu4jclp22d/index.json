@@ -1,0 +1,395 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3n2guefyess2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brob.dev/post/3n2guefyess2n",
+			"author": {
+				"name": "Bryan Robinson",
+				"url": "https://bsky.app/profile/brob.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
+			},
+			"date": "2026-11-16T15:39:18.752Z",
+			"content": "<p>What drives me bonkers with modern dev is that we should have been (and still should) operate and evaluate on the rule of least power... and yet... everything is abstractions for abstraction's sake (up to and including LLMs in this argument)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2gui52pi227",
+			"parentId": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3n2guefyess2n",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n2gui52pi227",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-16T15:41:23.609Z",
+			"content": "<p>*yes* Rule of Least Power is exactly the idea. When deciding how to implement a feature and when deciding higher level architecture too!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3n2gwdlg3722j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3n2gwdlg3722j",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-11-16T16:14:38.372Z",
+			"content": "<p>I saw the term \"minimal computing\" (<a href=\"http://go-dh.github.io/mincomp/about/\">go-dh.github.io/mincomp/about/</a>) once and I like that.</p>\n<p>Why are we planning for unexpected changes to the website? Aren't we the ones who will be changing it?</p>\n<p>... what other parts of the future is this company not prepared for?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3n2gx7g6dw22k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ericwbailey.website/post/3n2gx7g6dw22k",
+			"author": {
+				"name": "Eric Bailey",
+				"url": "https://bsky.app/profile/ericwbailey.website",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c577wa5hifxtmprlqc5mo5cb/bafkreihpor2oxmufrmbnapr3n4vp6zopr4bvlwciiaholzd7dxe3tpzopi"
+			},
+			"date": "2026-11-16T16:30:12.401Z",
+			"content": "<p>boring and stable doesn't get promotions</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xze6eimrnifbpwdv5uapb4d7/app.bsky.feed.post/3n2gxmme5fc2h",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3n2gwdlg3722j",
+			"url": "https://bsky.app/profile/svillegas.com/post/3n2gxmme5fc2h",
+			"author": {
+				"name": "sylvia",
+				"url": "https://bsky.app/profile/svillegas.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xze6eimrnifbpwdv5uapb4d7/bafkreif426bfbkkyj7viyow5v6lix66povopmzevwdzkbk4dvgx2nbkxqa"
+			},
+			"date": "2026-11-16T16:37:35.089Z",
+			"content": "<p>&gt; Why are we planning for unexpected changes to the website? Aren't we the ones who will be changing it?</p>\n<p>I like that. If we build for an unknown future, we over-complicate the present. If we build a simpler present, we have clarity for clean change in the future.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n2gyfcaj5c2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lavalva.dev/post/3n2gyfcaj5c2v",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-16T16:51:23.343Z",
+			"content": "<p>I've thought about this a lot, I think it's the primary reason why the industry chose React/SPA. At first I blamed them, but now I think they have a point</p>\n<p>Forcing everyone to carry a swiss army knife is less scary than realizing you gave everybody a screwdriver and now they need a bottle opener</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n2gyfcrlzc2v",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n2gyfcaj5c2v",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3n2gyfcrlzc2v",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-16T16:51:23.344Z",
+			"content": "<p>The engineering solution to this problem is to design tools that **can** scale up to future needs, but don't do so until it's needed. This is a big part of what we're trying to do with Marko</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3n2gzkteais24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3n2gzkteais24",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-11-16T17:12:22.805Z",
+			"content": "<p>Disheartening how every “frontend” and design system job seems to require “7+ years of React/TypeScript”. Like a contractor job saying “7+ years of ball peen hammer experience. We only use ball peen hammers here!”</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2gzwb4yb223",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3n2gzkteais24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n2gzwb4yb223",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-16T17:18:46.348Z",
+			"content": "<p>I’d even grant that there are paths to navigate that ecosystem in a simpler way but that ecosystem uniquely buys into complexity in a huge way (pejorative)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2gzxbrqus23",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3n2gwdlg3722j",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n2gzxbrqus23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-16T17:19:20.584Z",
+			"content": "<p>I like that a lot, yes!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2gzzod7os2w",
+			"parentId": "at://did:plc:xze6eimrnifbpwdv5uapb4d7/app.bsky.feed.post/3n2gxmme5fc2h",
+			"url": "https://bsky.app/profile/grahamcox82.bsky.social/post/3n2gzzod7os2w",
+			"author": {
+				"name": "Graham Cox",
+				"url": "https://bsky.app/profile/grahamcox82.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxwrfkzslfgje3pew4tpjm52/bafkreibdv5dnhrru7j563232rzihdtbuzimnl4itc2ahkdy57zmgtngeya"
+			},
+			"date": "2026-11-16T17:20:40.847Z",
+			"content": "<p>That's true, but you also have to bear in mind that some things you do that are simpler now can make certain future changes harder or even impossible, so unless you know those future changes will never be needed you need to at least consider them now...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2h22kdkck23",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n2gyfcaj5c2v",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n2h22kdkck23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-16T17:21:10.219Z",
+			"content": "<p>I’d agree if it were a swiss army knife in practice (and not a $150M F-22 raptor fighter jet 😅)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2h23vkxtk23",
+			"parentId": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2gzzod7os2w",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n2h23vkxtk23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-16T17:21:55.551Z",
+			"content": "<p>*backs away slowly* 🫣</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3n2h24vubbc24",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2gzwb4yb223",
+			"url": "https://bsky.app/profile/peruvianidol.com/post/3n2h24vubbc24",
+			"author": {
+				"name": "Mike Aparicio",
+				"url": "https://bsky.app/profile/peruvianidol.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rj7gcscy3x3vskk7y6f2nbx6/bafkreic5ipu4lntspjmr7jhuqt2te5stqmqxn4vfr6gh4bzbkbjibbbhn4"
+			},
+			"date": "2026-11-16T17:22:29.410Z",
+			"content": "<p>Feels like a lot of postings are looking to check boxes for the skills to maintain the status quo in their org and not actually trying to solve the problems they have.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3n2h2bz5kas22",
+			"parentId": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2gzzod7os2w",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3n2h2bz5kas22",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-11-16T17:25:20.632Z",
+			"content": "<p>I've worked in small-to-medium business websites my whole career and the scope of a redesign has hardly ever exceeded the scope of the previous iteration, no matter how much we sold it like it did.</p>\n<p>It's mostly text and pictures on a page. We can plan for that.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2h2dehrms23",
+			"parentId": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3n2h24vubbc24",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n2h2dehrms23",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-16T17:26:06.056Z",
+			"content": "<p>don’t make the org reflect!!! it doesn’t support reflection!</p>\n<img src=\"GLT1XUtz-xVL3v9oVVLIa.gif\" alt=\"Chris Traeger (Rob Lowe) on Parts and Rec says : “Oh, my god. I Am Part Of The Problem.”\">",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3n2h2gud6nc22",
+			"parentId": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n2gyfcaj5c2v",
+			"url": "https://bsky.app/profile/mwdelaney.me/post/3n2h2gud6nc22",
+			"author": {
+				"name": "Michael",
+				"url": "https://bsky.app/profile/mwdelaney.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:dmgoddsemnyljdrp4jgt4dam/bafkreiceamr3su5jnraffld424q2i5vw3dap5aei43qliywmg7glbm6exi"
+			},
+			"date": "2026-11-16T17:28:03.346Z",
+			"content": "<p>\"React can do it\" for Elizabeth Holmes values of \"can\".</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rvfjpyltvfkaf5ggxaefylft/app.bsky.feed.post/3n2h35kvobc2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2h22kdkck23",
+			"url": "https://bsky.app/profile/lavalva.dev/post/3n2h35kvobc2t",
+			"author": {
+				"name": "Luca LaValva",
+				"url": "https://bsky.app/profile/lavalva.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvfjpyltvfkaf5ggxaefylft/bafkreigol36dic7ayfuwyurtummesuke3j7zux3k5xs6db6u24anhkmcxe"
+			},
+			"date": "2026-11-16T17:40:45.217Z",
+			"content": "<p>Haha yeah I'm certainly not advocating for React! I just think fear of a future migration is stronger than what I initially gave it credit for</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2h3bvchx22l",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3n2h2bz5kas22",
+			"url": "https://bsky.app/profile/grahamcox82.bsky.social/post/3n2h3bvchx22l",
+			"author": {
+				"name": "Graham Cox",
+				"url": "https://bsky.app/profile/grahamcox82.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxwrfkzslfgje3pew4tpjm52/bafkreibdv5dnhrru7j563232rzihdtbuzimnl4itc2ahkdy57zmgtngeya"
+			},
+			"date": "2026-11-16T17:43:10.334Z",
+			"content": "<p>I remember something from many years ago when version 1 used MongoDB because \"we don't know what the schema will need to be so this lets us get on with it faster\".</p>\n<p>A later version then needed full text searching, which led to rewriting the entire data access layer to use postgres instead.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xybzbr52ulelhjwj4usgxutc/app.bsky.feed.post/3n2h3iymaos2j",
+			"parentId": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2gzzod7os2w",
+			"url": "https://bsky.app/profile/william-oconnell.bsky.social/post/3n2h3iymaos2j",
+			"private": true,
+			"date": "2026-11-16T17:47:08.687Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2h3jse3xs2l",
+			"parentId": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2h3bvchx22l",
+			"url": "https://bsky.app/profile/grahamcox82.bsky.social/post/3n2h3jse3xs2l",
+			"author": {
+				"name": "Graham Cox",
+				"url": "https://bsky.app/profile/grahamcox82.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxwrfkzslfgje3pew4tpjm52/bafkreibdv5dnhrru7j563232rzihdtbuzimnl4itc2ahkdy57zmgtngeya"
+			},
+			"date": "2026-11-16T17:47:35.683Z",
+			"content": "<p>This was back before postgres had native JSON support, so you could store it as a text column but not query against it. Anything you wanted to reference in a query - SELECT, WHERE, ORDER BY, etc - had to be a distinct column.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2h3pbsl2k2l",
+			"parentId": "at://did:plc:xybzbr52ulelhjwj4usgxutc/app.bsky.feed.post/3n2h3iymaos2j",
+			"url": "https://bsky.app/profile/grahamcox82.bsky.social/post/3n2h3pbsl2k2l",
+			"author": {
+				"name": "Graham Cox",
+				"url": "https://bsky.app/profile/grahamcox82.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxwrfkzslfgje3pew4tpjm52/bafkreibdv5dnhrru7j563232rzihdtbuzimnl4itc2ahkdy57zmgtngeya"
+			},
+			"date": "2026-11-16T17:50:39.658Z",
+			"content": "<p>To be fair, that's true of almost every decision. And it's best managed with experience and with keeping in mind what might be important - even if you don't act on it right now, just think it through...</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3n2h54lu4o22p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3n2h54lu4o22p",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-11-16T18:16:00.139Z",
+			"content": "<p>100% agreed. Stick with static sites. And if/when you need a route or two that are generated on-demand, just add an edge function.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:75dign6ixqnw7uc3i4zprtt4/app.bsky.feed.post/3n2h7745ols2w",
+			"parentId": "at://did:plc:dmgoddsemnyljdrp4jgt4dam/app.bsky.feed.post/3n2gwdlg3722j",
+			"url": "https://bsky.app/profile/carbontwelve.bsky.social/post/3n2h7745ols2w",
+			"author": {
+				"name": "Mx Autumn",
+				"url": "https://bsky.app/profile/carbontwelve.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:75dign6ixqnw7uc3i4zprtt4/bafkreicqs2dewtnxf6gmuliu5kov22wg5pv3qqemvt2elylk6fvnlajuxu"
+			},
+			"date": "2026-11-16T18:53:11.826Z",
+			"content": "<p>This is also why I quite enjoy solar powered computing and by extension of that solar powered websites.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:d5umsb2ibiw7hzqkiwcs4sb7/app.bsky.feed.post/3n2hakpxcfk2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mxb.dev/post/3n2hakpxcfk2y",
+			"author": {
+				"name": "Max Böck",
+				"url": "https://bsky.app/profile/mxb.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:d5umsb2ibiw7hzqkiwcs4sb7/bafkreibc3agbliwxgmcfkgxtzxl67gf4xn5bx4mwwo4sd7joohggf4a52i"
+			},
+			"date": "2026-11-16T19:17:35.424Z",
+			"content": "<p>Funny because future-proofing is a big part of why I love static sites.</p>\n<p>How will the tech stack hold up when the project is 5 years old? What if there's a big outage or ... idk, a catastrophic exploit?</p>\n<p>Static HTML let's me sleep at night 💤</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3n2hataoc3227",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3n2hataoc3227",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-16T19:22:21.395Z",
+			"content": "<p>In my day, this was called YAGNI</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:4q4gbz2leefj42wgosoulqmv/app.bsky.feed.post/3n2haz3a67c27",
+			"parentId": "at://did:plc:pxwrfkzslfgje3pew4tpjm52/app.bsky.feed.post/3n2gzzod7os2w",
+			"url": "https://bsky.app/profile/evaogbe.bsky.social/post/3n2haz3a67c27",
+			"author": {
+				"name": "Eva Ogbe",
+				"url": "https://bsky.app/profile/evaogbe.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:4q4gbz2leefj42wgosoulqmv/bafkreie24xxgjtxyuq67gsf6dpjx4k775qo4zlqqype2xv7eeswa5ajkqq"
+			},
+			"date": "2026-11-16T19:25:37.017Z",
+			"content": "<p>The software landscape changes so fast that you can't know until you get to the future when you need it what the limitations of the future are. Some things that were impossible yesterday will be possible tomorrow. You can figure out the limitations of the present pretty reliably</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:kq37apzqtqwn2lnddrjdop64/app.bsky.feed.post/3n2hb5p3jjk2x",
+			"parentId": "at://did:plc:c577wa5hifxtmprlqc5mo5cb/app.bsky.feed.post/3n2gx7g6dw22k",
+			"url": "https://bsky.app/profile/danlechambre.bsky.social/post/3n2hb5p3jjk2x",
+			"author": {
+				"name": "DanLeChambre",
+				"url": "https://bsky.app/profile/danlechambre.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kq37apzqtqwn2lnddrjdop64/bafkreignee563ofogqhlmpgljxcxm6funm7zssmqvdhvhli4osukp2ejlu"
+			},
+			"date": "2026-11-16T19:28:12.053Z",
+			"content": "<p>100% this</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tqku76h7admt4oakzanm4ztg/app.bsky.feed.post/3n2hcczh5ts2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/robodobdob.bsky.social/post/3n2hcczh5ts2j",
+			"author": {
+				"name": "Robodobdob",
+				"url": "https://bsky.app/profile/robodobdob.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqku76h7admt4oakzanm4ztg/bafkreigokgf3epavdazpdjq7atf5b6cnaryznhp4owg7es7gzaiiezn7wa"
+			},
+			"date": "2026-11-16T19:49:04.436Z",
+			"content": "<p><a href=\"https://simplicity-first.dev\">simplicity-first.dev</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:lgwjb57dmzw7w63s65cjlfxp/app.bsky.feed.post/3n2hfwymk6c2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/nick-gard.bsky.social/post/3n2hfwymk6c2x",
+			"author": {
+				"name": "nick-gard.bsky.social",
+				"url": "https://bsky.app/profile/nick-gard.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:lgwjb57dmzw7w63s65cjlfxp/bafkreihr7hywrpvedtj3nej6xbef3avhd3fs5tmb5vxqs6ww46tmaxxvyu"
+			},
+			"date": "2026-11-16T20:53:55.878Z",
+			"content": "<p>My biggest gripe with orgs requiring react right now is that they automatically assume or require client-side routing. If you want to fuck up a single page with react, that's one thing. But fucking up every page with react because you decided to use client-side routing is another level of madness.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 41,
+		"reposts": 3,
+		"comments": 10,
+		"via": "bluesky"
+	}
+}
