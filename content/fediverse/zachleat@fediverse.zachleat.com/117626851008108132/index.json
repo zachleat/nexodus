@@ -103,12 +103,51 @@
 			"date": "2026-11-16T19:06:04.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.evilgeniuschronicles.org/@geniodiabolico\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>geniodiabolico</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Also fun, in one of those argument calls when they were saying 2/10 was insufficient, after I was too exhausted for politeness. I asked \"Can anyone on the call explain the significance of those numbers? I can, because I'm the one who created them and I know why. I will concede my argument right now if anyone can explain why those are significant.\" Of course they couldn't. I made my point that they were cargo culting specs that I CREATED AND TELLING ME I WAS WRONG!</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117631369450112204",
+			"parentId": 0,
+			"url": "https://seocommunity.social/@simoncox/117631369418704018",
+			"author": {
+				"name": "Simon Cox :SEO:",
+				"url": "https://seocommunity.social/@simoncox",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/352/939/518/629/968/original/36b9201887db4fff.jpg"
+			},
+			"date": "2026-11-17T10:44:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> </p><p>This is a great approach! <br>Keep going!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117632380657320840",
+			"parentId": "117631369450112204",
+			"url": "https://fediverse.zachleat.com/@zachleat/117632380657320840",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-17T15:01:23.370Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://seocommunity.social/@simoncox\" class=\"u-url mention\">@<span>simoncox</span></a></span> thanks Simon!!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117632384935489659",
+			"parentId": "117627680515560241",
+			"url": "https://fediverse.zachleat.com/@zachleat/117632384935489659",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-17T15:02:28.650Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.evilgeniuschronicles.org/@geniodiabolico\" class=\"u-url mention\">@<span>geniodiabolico</span></a></span> MY GOD.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 29,
+		"likes": 32,
 		"reposts": 8,
-		"comments": 3,
+		"comments": 4,
 		"via": "fediverse"
 	}
 }

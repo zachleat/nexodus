@@ -423,12 +423,25 @@
 			"date": "2026-11-17T07:57:42.232Z",
 			"content": "<p>Feels like the same bias shows up in tools too, everyone builds for the scale they don't have yet. Where do you draw the line? What's usually the first real need that pushes a project off static?</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:rfp2zkaswyhiqiz6dknuguhz/app.bsky.feed.post/3n2izc5o6bc2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/cjaythecreator.bsky.social/post/3n2izc5o6bc2a",
+			"author": {
+				"name": "Cj",
+				"url": "https://bsky.app/profile/cjaythecreator.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:rfp2zkaswyhiqiz6dknuguhz/bafkreickgsb2grxaalloc5gchx65fuytlnmwbv3jtiyuuen75nxte25xma"
+			},
+			"date": "2026-11-17T12:12:51.106Z",
+			"content": "<p>yeah, devs will build a globally distributed, horizontally scalable microservices architecture for a fucking bakery website because the owner might eventually open a second bakery</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 49,
+		"likes": 51,
 		"reposts": 3,
-		"comments": 11,
+		"comments": 12,
 		"via": "bluesky"
 	}
 }

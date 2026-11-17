@@ -16,7 +16,7 @@ metadata:
   uuid: 11ty/import::github::11ty/api-screenshot
   type: github
   url: https://github.com/11ty/api-screenshot
-  importHash: 570d4410f17bbec3
+  importHash: fa73a93f8ad4c394
 tags:
   - eleventy
   - eleventy-api
@@ -84,6 +84,35 @@ Number of seconds to wait before the request times out. We will attempt to simul
 ```
 /:url/_timeout:3/
 /:url/_timeout:9/
+```
+
+#### Dark Mode
+
+Emulates `prefers-color-scheme: dark`. Pair it with the default (light) URL in a `<picture>`:
+
+```
+/:url/_dark/
+```
+
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/:url/_dark/">
+  <img src="/:url/" alt="">
+</picture>
+```
+
+#### Disable JavaScript
+
+```
+/:url/_nojs/
+```
+
+#### Reduced Motion
+
+Emulates `prefers-reduced-motion: reduce`, useful when load-in animations are captured mid-way.
+
+```
+/:url/_nomotion/
 ```
 
 #### Combine these options
