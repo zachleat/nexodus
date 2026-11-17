@@ -384,12 +384,51 @@
 			"date": "2026-11-16T20:53:55.878Z",
 			"content": "<p>My biggest gripe with orgs requiring react right now is that they automatically assume or require client-side routing. If you want to fuck up a single page with react, that's one thing. But fucking up every page with react because you decided to use client-side routing is another level of madness.</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3n2igaq5jms2s",
+			"parentId": "at://did:plc:d5umsb2ibiw7hzqkiwcs4sb7/app.bsky.feed.post/3n2hakpxcfk2y",
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3n2igaq5jms2s",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-11-17T06:32:02.277Z",
+			"content": "<p>5 years? Thats beyond future</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3n2igfmjucc2s",
+			"parentId": "at://did:plc:tqku76h7admt4oakzanm4ztg/app.bsky.feed.post/3n2hcczh5ts2j",
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3n2igfmjucc2s",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-11-17T06:34:46.262Z",
+			"content": "<p>Is that the same sort of simple as in this 15 year old talk? <a href=\"https://youtu.be/SxdOUGdseq4\">youtu.be/SxdOUGdseq4</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:5vj7hql7jstm5vfppjir3rww/app.bsky.feed.post/3n2ikzw5zji2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/adirs.co/post/3n2ikzw5zji2q",
+			"author": {
+				"name": "Adirs Code",
+				"url": "https://bsky.app/profile/adirs.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:5vj7hql7jstm5vfppjir3rww/bafkreieuuo2qml54iktfmlsfpptumbjftjo27dbra3qll65bzfww7fxecm"
+			},
+			"date": "2026-11-17T07:57:42.232Z",
+			"content": "<p>Feels like the same bias shows up in tools too, everyone builds for the scale they don't have yet. Where do you draw the line? What's usually the first real need that pushes a project off static?</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 41,
+		"likes": 49,
 		"reposts": 3,
-		"comments": 10,
+		"comments": 11,
 		"via": "bluesky"
 	}
 }
