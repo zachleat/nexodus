@@ -1,0 +1,88 @@
+{
+	"comments": [
+		{
+			"id": "117638508646428423",
+			"parentId": 0,
+			"url": "https://social.lol/@db/117638508558159673",
+			"author": {
+				"name": "David Bushell 🫪",
+				"url": "https://social.lol/@db",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/114/405/525/396/979/963/original/64aa96d405856bfc.png"
+			},
+			"date": "2026-11-18T16:59:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> more like \"Lock in\" am i right</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117638517204644591",
+			"parentId": 0,
+			"url": "https://toot.tux.si/@aljaxus/117638517166797458",
+			"author": {
+				"name": "Aljaž Starc",
+				"url": "https://toot.tux.si/@aljaxus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/425/076/626/635/765/original/31d74e1a28127831.jpg"
+			},
+			"date": "2026-11-18T17:01:59.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Unless self-hosted IDP.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117638575556206754",
+			"parentId": "117638517204644591",
+			"url": "https://fediverse.zachleat.com/@zachleat/117638575556206754",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-18T17:16:50.026Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.tux.si/@aljaxus\" class=\"u-url mention\">@<span>aljaxus</span></a></span> hmm!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117638584823567885",
+			"parentId": "117638575556206754",
+			"url": "https://toot.tux.si/@aljaxus/117638584791161964",
+			"author": {
+				"name": "Aljaž Starc",
+				"url": "https://toot.tux.si/@aljaxus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/425/076/626/635/765/original/31d74e1a28127831.jpg"
+			},
+			"date": "2026-11-18T17:19:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> of course, on platforms you do not control, you can not use your own idp ... uless the devs know what's up and allow you to roll your own idp into your tenant :)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117638602036482210",
+			"parentId": "117638584823567885",
+			"url": "https://fediverse.zachleat.com/@zachleat/117638602036482210",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-18T17:23:34.083Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.tux.si/@aljaxus\" class=\"u-url mention\">@<span>aljaxus</span></a></span> now I’m thinking about <a href=\"https://indieauth.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">indieauth.com/</span><span class=\"invisible\"></span></a> here</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117638658339713449",
+			"parentId": "117638602036482210",
+			"url": "https://toot.tux.si/@aljaxus/117638658289042081",
+			"author": {
+				"name": "Aljaž Starc",
+				"url": "https://toot.tux.si/@aljaxus",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/110/425/076/626/635/765/original/31d74e1a28127831.jpg"
+			},
+			"date": "2026-11-18T17:37:52.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Interesting project. I tend to use goAuthentik and PocketID, depending on the organization.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 13,
+		"reposts": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

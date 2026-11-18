@@ -8,8 +8,6 @@ date: 2026-09-17T22:15:51.422Z
 metadata:
   name: '@11ty/eleventy-plugin-bundle'
   version: 4.0.3
-  distTags:
-    - latest
   license: MIT
   repository: https://github.com/11ty/eleventy-plugin-bundle
   tags:
@@ -18,7 +16,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy-plugin-bundle::4.0.3
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy-plugin-bundle/v/4.0.3
-  importHash: 8e9473172e297538
+  importHash: da89742d83e299bf
 tags:
   - eleventy
   - eleventy-plugin

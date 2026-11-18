@@ -142,12 +142,25 @@
 			"date": "2026-11-17T15:02:28.650Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.evilgeniuschronicles.org/@geniodiabolico\" class=\"u-url mention\">@<span>geniodiabolico</span></a></span> MY GOD.</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117637123864902144",
+			"parentId": 0,
+			"url": "https://indieweb.social/@anthony/117637123835300043",
+			"author": {
+				"name": "Anthony",
+				"url": "https://indieweb.social/@anthony",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/693/059/248/931/906/original/2d9b808801cf2aef.png"
+			},
+			"date": "2026-11-18T11:07:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Also called YAGNI <a href=\"https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/You_aren</span><span class=\"invisible\">%27t_gonna_need_it</span></a></p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 32,
+		"likes": 33,
 		"reposts": 8,
-		"comments": 4,
+		"comments": 5,
 		"via": "fediverse"
 	}
 }

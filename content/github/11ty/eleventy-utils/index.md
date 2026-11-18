@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-utils
   type: github
   url: https://github.com/11ty/eleventy-utils
-  importHash: b5be9eb2644e933d
+  importHash: 31cc5bf5ccf3d8e3
 ---
 ![eleventy Logo](logo-github-kLfaL7otOeRT.png)
 
@@ -25,6 +25,7 @@ metadata:
     -   Features from both [`@11ty/dependency-tree-esm`](https://www.npmjs.com/package/@11ty/dependency-tree-esm) and [`@11ty/dependency-tree-typescript`](https://www.npmjs.com/package/@11ty/dependency-tree-typescript) are now available in `@11ty/dependency-tree` v5.0.0+.
 -   [`@11ty/chokidar-with-glob-support` in `chokidar-with-glob-support/`](https://github.com/11ty/eleventy-utils/blob/HEAD/chokidar-with-glob-support/)
 -   [`@11ty/lodash-custom` in `lodash-custom/`](https://github.com/11ty/eleventy-utils/blob/HEAD/lodash-custom/)
+-   [`@11ty/posthtml-match-selector` in `posthtml-match-selector/`](https://github.com/11ty/eleventy-utils/blob/HEAD/posthtml-match-selector/)
 
 ## Tests
 
