@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::11ty/eleventy-utils
   type: github
   url: https://github.com/11ty/eleventy-utils
-  importHash: 31cc5bf5ccf3d8e3
+  importHash: e950b8a327540eff
 ---
 ![eleventy Logo](logo-github-kLfaL7otOeRT.png)
 
@@ -26,6 +26,7 @@ metadata:
 -   [`@11ty/chokidar-with-glob-support` in `chokidar-with-glob-support/`](https://github.com/11ty/eleventy-utils/blob/HEAD/chokidar-with-glob-support/)
 -   [`@11ty/lodash-custom` in `lodash-custom/`](https://github.com/11ty/eleventy-utils/blob/HEAD/lodash-custom/)
 -   [`@11ty/posthtml-match-selector` in `posthtml-match-selector/`](https://github.com/11ty/eleventy-utils/blob/HEAD/posthtml-match-selector/)
+-   [`@11ty/posthtml-urls` in `posthtml-urls/`](https://github.com/11ty/eleventy-utils/blob/HEAD/posthtml-urls/)
 
 ## Tests
 

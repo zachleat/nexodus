@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:qwyxpd4q2nqdxrn644u2arve/app.bsky.feed.post/3n2ojnhtxc22x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/motahir.bsky.social/post/3n2ojnhtxc22x",
+			"author": {
+				"name": "Mohommed Motahir Alam",
+				"url": "https://bsky.app/profile/motahir.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qwyxpd4q2nqdxrn644u2arve/bafkreif7ywx3sfvks53m7odvcxlbwc55empzvvwsb4h4nkuoesbdzgo6ry"
+			},
+			"date": "2026-11-19T16:48:49.440Z",
+			"content": "<p>Issue first is what most CONTRIBUTING files already ask for, and it's the step drive-by PRs skip, agent-written or not. A setting would turn the request into a gate.</p>\n<p>Until then, an Action that closes PRs with no linked issue gets close, though you still get the notification.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"reposts": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

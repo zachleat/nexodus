@@ -10,12 +10,15 @@ metadata:
   name: 11ty/posthtml-urls
   language: JavaScript
   license: MIT
+  archived: true
   uuid: 11ty/import::github::11ty/posthtml-urls
   type: github
   url: https://github.com/11ty/posthtml-urls
-  importHash: 2498d38b3e75ab9f
+  importHash: 89ca8eaafa6d74bb
 ---
 # `@11ty/posthtml-urls`
+
+> \[!NOTE\] This package source code has moved to [`eleventy-utils`](https://github.com/11ty/eleventy-utils/tree/main/posthtml-urls).
 
 PostHTML plugin for transforming URLs. This is a fork of [`posthtml/posthtml-urls`](https://github.com/posthtml/posthtml-urls).
 

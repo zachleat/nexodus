@@ -9,8 +9,6 @@ metadata:
   name: '@11ty/eleventy'
   version: 4.0.0-alpha.11
   prerelease: true
-  distTags:
-    - canary
   license: MIT
   repository: https://github.com/11ty/buildawesome
   tags:
@@ -33,7 +31,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy::4.0.0-alpha.11
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy/v/4.0.0-alpha.11
-  importHash: 469475f9abf1dec4
+  importHash: 9cbc4212ebd4dd41
 tags:
   - static-site-generator
   - static-site
