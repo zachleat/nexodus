@@ -77,10 +77,23 @@
 			"date": "2026-11-18T17:37:52.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Interesting project. I tend to use goAuthentik and PocketID, depending on the organization.</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117639893226226101",
+			"parentId": "117638508646428423",
+			"url": "https://mastodon.social/@kleinfreund/117639893074679681",
+			"author": {
+				"name": "Philipp Tootloff",
+				"url": "https://mastodon.social/@kleinfreund",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/287/804/437/227/104/original/cf0e31e8d330ec8c.png"
+			},
+			"date": "2026-11-18T22:51:53.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@db\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>db</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> That _is_ what the young people say, isn't it?</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 13,
+		"likes": 19,
 		"reposts": 1,
 		"comments": 2,
 		"via": "fediverse"

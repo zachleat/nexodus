@@ -9,10 +9,11 @@ date: 2022-03-05T05:26:48.000Z
 metadata:
   name: 11ty/dev-server
   language: JavaScript
+  license: MIT
   uuid: 11ty/import::github::11ty/dev-server
   type: github
   url: https://github.com/11ty/dev-server
-  importHash: 3103297620a35303
+  importHash: e7cd32763f8d1fd2
 ---
 ![11ty Logo](logo-github-gW5pow8pImUR.svg)
 
