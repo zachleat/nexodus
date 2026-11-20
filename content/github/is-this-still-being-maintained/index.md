@@ -13,7 +13,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/is-this-still-being-maintained
   type: github
   url: https://github.com/zachleat/is-this-still-being-maintained
-  importHash: f0cd66c99cbd60f9
+  importHash: efdb8aba726b1dbf
 ---
 # is-this-still-being-maintained
 
@@ -166,6 +166,8 @@ Why this rather than GitHub's Dependabot alerts:
 -   **It measures what consumers install.** npm doesn't ship lockfiles for dependencies, so a consumer of your library resolves fresh — the published tree is what actually reaches them. (Dependabot instead scans _your repo's_ lockfile, which mostly reflects your own dev environment.)
 -   **Runtime only by construction** — a published tree has no devDependencies, so there's nothing to filter out.
 -   **npm packages only** — templates, unpublished repos, and docs sites report `null` and get no security signal.
+
+`prereleaseVulnerabilities` is the same count for `prereleaseVersion`, the highest-semver prerelease ahead of `latest` (otherwise `null`), and isn't scored. That same prerelease sets `prerelease: true` and supplies `description`.
 
 Dependency versions are deduped across every package, so OSV is queried once for the whole set rather than per package. A package whose tree can't be resolved reports `null` (unknown) rather than a misleading `0`. The trade-off: this won't flag a stale **lockfile** in your own repo — that's what Dependabot on GitHub is for, and it already emails you.
 
