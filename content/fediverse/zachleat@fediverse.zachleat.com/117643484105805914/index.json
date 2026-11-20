@@ -33,11 +33,50 @@
 			"private": true,
 			"date": "2026-11-19T14:33:35.000Z",
 			"via": "fediverse"
+		},
+		{
+			"id": "117645209717251792",
+			"parentId": 0,
+			"url": "https://front-end.social/@AmeliaBR/117645209695656516",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-11-19T21:23:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So, what you want is to be able to give someone limited-time PR permission, or permission for a PR only if it's linked to a specific issue?</p><p>And ideally be able to grant this permission quickly from the issue discussion, I guess. An alternative to \"Close Issue\" button when you make an issue comment: a \"Request Pull Request\" button.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117645253096920756",
+			"parentId": "117645209717251792",
+			"url": "https://fediverse.zachleat.com/@zachleat/117645253096920756",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-19T21:35:01.212Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@AmeliaBR\" class=\"u-url mention\">@<span>AmeliaBR</span></a></span> I don’t need it to be that prescriptive I guess. Just a quick way to escalate permission to a person for PR creation while browsing an issue. Doesn’t need to be time limited</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117645521983961024",
+			"parentId": "117645253096920756",
+			"url": "https://front-end.social/@AmeliaBR/117645521960212472",
+			"author": {
+				"name": "Amelia Bellamy-Royds",
+				"url": "https://front-end.social/@AmeliaBR",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/304/885/279/901/783/original/ac1081e7e8ac0f19.jpg"
+			},
+			"date": "2026-11-19T22:43:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> So maybe what you need is something like a button on the profile-preview pop-up that allows you to make that person a collaborator (or another category of permissions) on the current repo?</p><p>(Assuming that pop-up is also made accessible, I guess. I'm currently not sure how to trigger it other than by hovering.)</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
 		"likes": 6,
-		"comments": 2,
+		"comments": 3,
 		"via": "fediverse"
 	}
 }
