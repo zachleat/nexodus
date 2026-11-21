@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:kcv2wxrb4n2udsrtzethln64/app.bsky.feed.post/3n2tcttgovk2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ameye.dev/post/3n2tcttgovk2t",
+			"author": {
+				"name": "ameye",
+				"url": "https://bsky.app/profile/ameye.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:kcv2wxrb4n2udsrtzethln64/bafkreiabx57sw24eflgyv752dhor6rgibc7mef7z2ghnqpsfhqcbpnnoom"
+			},
+			"date": "2026-11-21T14:30:25.410Z",
+			"content": "<p>Unrelated but I’m excited to try out webc coming from njk templates in eleventy! Do you have a preference between the two?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n2tiaelrvc2i",
+			"parentId": "at://did:plc:kcv2wxrb4n2udsrtzethln64/app.bsky.feed.post/3n2tcttgovk2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n2tiaelrvc2i",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-21T16:06:54.769Z",
+			"content": "<p>unsatisfyingly they are very different with different goals! if you want to lean more into components, webc is a path forward there!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:l4oopsoxraqat2yc4a74f7mi/app.bsky.feed.post/3n2ttdnhll22c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tonjohn.bsky.social/post/3n2ttdnhll22c",
+			"author": {
+				"name": "BurtonJ",
+				"url": "https://bsky.app/profile/tonjohn.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4oopsoxraqat2yc4a74f7mi/bafkreih23c43zc2hikxvgkcbfqpri5yy4hyymuq77ipoqeqtkn2vw37g3a"
+			},
+			"date": "2026-11-21T19:25:35.892Z",
+			"content": "<p>Hill I’ll die on: the modern web would be far better if we moved on from React and it’s ecosystem.</p>\n<p>So much engineering time &amp; talent wasted fixing react specific problems it created for itself that all other major frameworks solved long ago.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 26,
+		"reposts": 2,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"comments": [
+		{
+			"id": "117655123050898265",
+			"parentId": 0,
+			"url": "https://mastodon.social/@Zearin/117655122848721035",
+			"author": {
+				"name": "Zearin",
+				"url": "https://mastodon.social/@Zearin",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/649/109/777/365/234/original/08ea4f2d7e8778bd.jpeg"
+			},
+			"date": "2026-11-21T15:25:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I actually find that fortunate! 😎</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117655361039829820",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@rauschma/117655360992565978",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2026-11-21T16:25:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> My impression: It comes down to what someone thinks a website should be.</p><p>If a website is dynamic (and not a collection of documents) then, to me, it is an app: I want it to be offline first and sync with a data server. That way, it works even if the internet is flaky.</p><p>However, many people want their websites to work without JavaScript and their pages rendered as quickly as possible—even on slow devices. Then you need server-side rendering (right?).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117655445950745693",
+			"parentId": "117655361039829820",
+			"url": "https://fosstodon.org/@rauschma/117655445905560093",
+			"author": {
+				"name": "Axel Rauschmayer",
+				"url": "https://fosstodon.org/@rauschma",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/291/906/591/238/009/original/76fd351b6f7a848e.jpg"
+			},
+			"date": "2026-11-21T16:47:11.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I also love static websites: You never have to worry about them getting hacked, you never have to update anything.</p><p>And it’s amazing how much you can do without a server—e.g., even full-text search: <a href=\"https://pagefind.app\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pagefind.app</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117655468946640066",
+			"parentId": 0,
+			"url": "https://front-end.social/@ppk/117655468906890285",
+			"author": {
+				"name": "ppk 🇪🇺",
+				"url": "https://front-end.social/@ppk",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/034/668/175/414/original/c0d4895d91ab41e8.jpg"
+			},
+			"date": "2026-11-21T16:53:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Make it an annoying blog post instead?</p><p>Though you do have a point about the ecosystem, annoyedly.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 12,
+		"comments": 3,
+		"via": "fediverse"
+	}
+}
