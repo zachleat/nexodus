@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:nnn7hle65gspngcmwf4jar7w/app.bsky.feed.post/3n2ri4erfzs2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/bobmonsour.com/post/3n2ri4erfzs2q",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://bsky.app/profile/bobmonsour.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:nnn7hle65gspngcmwf4jar7w/bafkreifo2mfr56qzeojg52yc7mjs54ba7pun5ywe4l63ya7mgt6ek2lc4a"
+			},
+			"date": "2026-11-20T20:59:21.259Z",
+			"content": "<p>This is very very cool indeed! I'm honored to be a part of this thing of ours.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3n2rida6l4n24",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/11ty.dev/post/3n2rida6l4n24",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
+			},
+			"date": "2026-11-20T21:03:11.246Z",
+			"content": "<p>We also shipped a little thank you face-pile of all the 122 helpful folks that have contributed to the docs: <a href=\"https://build.awesome.me/docs/community/\">https://build.awesome.me/docs/community/</a> Thanks everyone!</p>\n<p>(Page specific contribution avatars will start to show up on the bottom of each docs page too)</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 1,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

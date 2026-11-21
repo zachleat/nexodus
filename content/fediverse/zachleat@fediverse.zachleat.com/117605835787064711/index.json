@@ -90,11 +90,102 @@
 			"date": "2026-11-13T01:31:23.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Seems like everyone has been ratcheting up prices for the last few years. I’m in the process of switching most of mine from Hover to Porkbun, which has most domains “at cost”. Privately owned, no “Controversies” sections on Wikipedia. They white-label Cloudflare’s DNS hosting, if that’s something that’s important to you.</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117650812281091262",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117650812281091262",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-20T21:08:47.631Z",
+			"content": "<p>oops, I already started migrating them to <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@porkbun\" class=\"u-url mention\">@<span>porkbun</span></a></span> 🤷</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117650828665835604",
+			"parentId": 0,
+			"url": "https://friend.camp/@cody/117650828600418874",
+			"author": {
+				"name": "cody",
+				"url": "https://friend.camp/@cody",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/293/771/781/560/091/original/ff290673815c7e3d.jpeg"
+			},
+			"date": "2026-11-20T21:12:56.000Z",
+			"content": "<p>Why the fuck does Zach Leatherman use Squarespace for anything? Really skews my view of him (negatively).</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117650835340252788",
+			"parentId": "117650812281091262",
+			"url": "https://front-end.social/@alvaromontoro/117650835288972106",
+			"author": {
+				"name": "Alvaro Montoro",
+				"url": "https://front-end.social/@alvaromontoro",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/305/118/895/663/903/original/6c146f1f0773995d.jpg"
+			},
+			"date": "2026-11-20T21:14:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@porkbun\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>porkbun</span></a></span> I got the same email. I wonder if they were testing the waters and they faced backlash.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117650880280322600",
+			"parentId": "117606314272041758",
+			"url": "https://toot.works/@joe/117650880266775158",
+			"author": {
+				"name": "Joe Steinbring :thisisfine:",
+				"url": "https://toot.works/@joe",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/314/700/399/157/655/original/2c18c7725abd4da4.png"
+			},
+			"date": "2026-11-20T21:26:05.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@maxfenton\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>maxfenton</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I looked at moving all of mine to Cloudflare a while back because their thing was (and might still be) that they only charge you what they are charged for, but they don't support \"premium domain names,\" and I have a few.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117650932895506437",
+			"parentId": "117650812281091262",
+			"url": "https://typo.social/@lari/117650932881508557",
+			"author": {
+				"name": "Lari",
+				"url": "https://typo.social/@lari",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/711/794/621/987/843/original/2b3f836747b462c1.png"
+			},
+			"date": "2026-11-20T21:39:27.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@porkbun\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>porkbun</span></a></span> 599 – Trying to charge too much</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117651304400623373",
+			"parentId": "117650812281091262",
+			"url": "https://mas.to/@maxfenton/117651304372626785",
+			"author": {
+				"name": "Max Fenton",
+				"url": "https://mas.to/@maxfenton",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/393/205/249/439/115/original/4a4276a22126faf2.jpeg"
+			},
+			"date": "2026-11-20T23:13:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> LOL</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117651346597736256",
+			"parentId": "117651304400623373",
+			"url": "https://fediverse.zachleat.com/@zachleat/117651346597736256",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-20T23:24:40.654Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@maxfenton\" class=\"u-url mention\">@<span>maxfenton</span></a></span> 8 days is a long time to admit a boo-boo!</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 4,
-		"comments": 3,
+		"likes": 6,
+		"comments": 5,
 		"via": "fediverse"
 	}
 }
