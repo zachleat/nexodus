@@ -38,12 +38,77 @@
 			"date": "2026-11-21T19:25:35.892Z",
 			"content": "<p>Hill I’ll die on: the modern web would be far better if we moved on from React and it’s ecosystem.</p>\n<p>So much engineering time &amp; talent wasted fixing react specific problems it created for itself that all other major frameworks solved long ago.</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:ndtkfmkenpin7jdu5mz2r3ot/app.bsky.feed.post/3n2tzvtatlc2s",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/w-lfpup.bsky.social/post/3n2tzvtatlc2s",
+			"author": {
+				"name": "w-lfpup",
+				"url": "https://bsky.app/profile/w-lfpup.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ndtkfmkenpin7jdu5mz2r3ot/bafkreiejgikkabqwtyvb3g32s2vn5bwzj5kx674hs3qrcemjcexrp43ey4"
+			},
+			"date": "2026-11-21T21:23:08.393Z",
+			"content": "<p>It’s been wild to watch the reinvention of php meet “kick the ladder” CTOs over the last 10 years</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tqku76h7admt4oakzanm4ztg/app.bsky.feed.post/3n2uasontyk2i",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/robodobdob.bsky.social/post/3n2uasontyk2i",
+			"author": {
+				"name": "Robodobdob",
+				"url": "https://bsky.app/profile/robodobdob.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqku76h7admt4oakzanm4ztg/bafkreigokgf3epavdazpdjq7atf5b6cnaryznhp4owg7es7gzaiiezn7wa"
+			},
+			"date": "2026-11-21T23:26:39.104Z",
+			"content": "<p>I’m willing to bet React was created for the same reason as GraphQL - so fronted devs don’t have to speak to backend devs.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6zdiiughb4fj2yau6z6f2w5r/app.bsky.feed.post/3n2um6rffj22w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/yoyoyoyo.bsky.social/post/3n2um6rffj22w",
+			"author": {
+				"name": "Yo",
+				"url": "https://bsky.app/profile/yoyoyoyo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6zdiiughb4fj2yau6z6f2w5r/bafkreifboxdrbimc2kxaltuk6zc73zkl6el3fhodnmmwquw2iex52hrmma"
+			},
+			"date": "2026-11-22T02:50:15.789Z",
+			"content": "<p>Yep. The goal of selling servers and services is so clear to me. Theyre are all fully into AI too because then you need agents and mcps running all the time. So wild that big brained CEOs and architects don’t see it when frontend folks can (but are being minimized at a lot of companies)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6zdiiughb4fj2yau6z6f2w5r/app.bsky.feed.post/3n2umatzf5c2w",
+			"parentId": "at://did:plc:tqku76h7admt4oakzanm4ztg/app.bsky.feed.post/3n2uasontyk2i",
+			"url": "https://bsky.app/profile/yoyoyoyo.bsky.social/post/3n2umatzf5c2w",
+			"author": {
+				"name": "Yo",
+				"url": "https://bsky.app/profile/yoyoyoyo.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6zdiiughb4fj2yau6z6f2w5r/bafkreifboxdrbimc2kxaltuk6zc73zkl6el3fhodnmmwquw2iex52hrmma"
+			},
+			"date": "2026-11-22T02:51:25.649Z",
+			"content": "<p>Maybe server components, but react static you still need to talk to backend folks all the time.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tqku76h7admt4oakzanm4ztg/app.bsky.feed.post/3n2unhw4iqs2i",
+			"parentId": "at://did:plc:6zdiiughb4fj2yau6z6f2w5r/app.bsky.feed.post/3n2umatzf5c2w",
+			"url": "https://bsky.app/profile/robodobdob.bsky.social/post/3n2unhw4iqs2i",
+			"author": {
+				"name": "Robodobdob",
+				"url": "https://bsky.app/profile/robodobdob.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqku76h7admt4oakzanm4ztg/bafkreigokgf3epavdazpdjq7atf5b6cnaryznhp4owg7es7gzaiiezn7wa"
+			},
+			"date": "2026-11-22T03:13:16.471Z",
+			"content": "<p>That’s not really what I meant.</p>\n<p>My tongue-in-cheek response was suggesting that React (and the entire JS ecosystem) was a technical solution to a human problem like GraphQL was.</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 26,
+		"likes": 37,
 		"reposts": 2,
-		"comments": 2,
+		"comments": 5,
 		"via": "bluesky"
 	}
 }
