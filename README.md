@@ -2,7 +2,7 @@
 
 A demo of [`@11ty/import`](https://github.com/11ty/eleventy-import) to build a git-persisted archive of social posts (from Mastodon and Bluesky) for one or more users.
 
-* [Demo](https://zachleat.github.io/nexodus/)
+* [Demo](https://nexodus.zachleat.dev/)
 * [Source code](https://github.com/zachleat/nexodus)
 
 ## Sources
