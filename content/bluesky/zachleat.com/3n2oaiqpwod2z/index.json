@@ -12,6 +12,19 @@
 			"date": "2026-11-19T16:48:49.440Z",
 			"content": "<p>Issue first is what most CONTRIBUTING files already ask for, and it's the step drive-by PRs skip, agent-written or not. A setting would turn the request into a gate.</p>\n<p>Until then, an Action that closes PRs with no linked issue gets close, though you still get the notification.</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tfgxgzmlm3xiqsb6pv63qlm2/app.bsky.feed.post/3n2xb6jnbzc2v",
+			"parentId": "at://did:plc:qwyxpd4q2nqdxrn644u2arve/app.bsky.feed.post/3n2ojnhtxc22x",
+			"url": "https://bsky.app/profile/ar9av.bsky.social/post/3n2xb6jnbzc2v",
+			"author": {
+				"name": "Arnav",
+				"url": "https://bsky.app/profile/ar9av.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tfgxgzmlm3xiqsb6pv63qlm2/bafkreics53hnxnwc5iwjc2jowtqsvgc5yujmpaexch5x7vwv2tqaxl4eki"
+			},
+			"date": "2026-11-23T04:11:15.714Z",
+			"content": "<p>issue approval answers \"do we want this change?\" i'm trying the next gate with PullViva: questions about the submitted diff before merge. neither replaces the other. a perfectly understood patch can still be work the maintainer never asked for.</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
