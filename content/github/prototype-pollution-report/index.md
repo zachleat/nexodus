@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::github::zachleat/prototype-pollution-report
   type: github
   url: https://github.com/zachleat/prototype-pollution-report
-  importHash: 51a938a092062864
+  importHash: cb963da5ca605802
 ---
 # Prototype Pollution Report
 
@@ -33,4 +33,4 @@ Next.js's precompiled `dist/compiled` packages are audited as regular dependenci
 Icons:
 
 -   [Font Awesome](https://fontawesome.com/)
--   [Simple Icons](https://simpleicons.org/) (CC0): Nuxt, Next.js, Astro, Gatsby, TanStack, Solid, Remix, Preact and Lit logos in `logos.js`
+-   [Simple Icons](https://simpleicons.org/) (CC0): Nuxt, Next.js, Astro, Gatsby, TanStack, Solid, Remix, Preact, Lit and Vite logos in `logos.js`

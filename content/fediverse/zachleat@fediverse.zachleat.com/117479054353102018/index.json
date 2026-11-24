@@ -46,7 +46,7 @@
 			"author": {
 				"name": "wfk",
 				"url": "https://social.v.st/@wfk",
-				"avatarUrl": "https://fediverse.zachleat.com/avatars/original/missing.png"
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/113/011/646/636/111/912/original/2557150630bc0d39.jpg"
 			},
 			"date": "2026-10-21T13:55:18.000Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <br>My mitigation has been to just remove PHP from my servers.  There shouldn't have been any remaining service depending on it, and if there accidentally was, I prefer learning about that from it not working, rather than it compromising my systems.</p>",

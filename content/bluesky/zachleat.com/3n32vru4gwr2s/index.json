@@ -1,0 +1,97 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n33a3zakac26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3n33a3zakac26",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-24T18:02:36.622Z",
+			"content": "<p>Your tools are hiding npm audits from you: <a href=\"https://www.zachleat.com/web/npm-audit-report/\">www.zachleat.com/web/npm-audi...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3n33aqrw47k2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/mastrojs.bsky.social/post/3n33aqrw47k2k",
+			"author": {
+				"name": "Mastro.{js,ts}",
+				"url": "https://bsky.app/profile/mastrojs.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:slxmn2ejggkwwbzlej2axmx6/bafkreicizuiyr3nvt254ufexepmsoerc5gfcpdjg4b43l4hueantbveslm"
+			},
+			"date": "2026-11-24T18:14:13.577Z",
+			"content": "<p>Can’t have vulnerable dependencies if you have no dependencies 😎</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n33au7az2k2b",
+			"parentId": "at://did:plc:slxmn2ejggkwwbzlej2axmx6/app.bsky.feed.post/3n33aqrw47k2k",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n33au7az2k2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-24T18:16:08.235Z",
+			"content": "<p>delete all software!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:67u6vekwv4meimluuaa22rix/app.bsky.feed.post/3n33aw4zut22h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/stalinkay.bsky.social/post/3n33aw4zut22h",
+			"private": true,
+			"date": "2026-11-24T18:17:13.013Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n33b3l7yvc2t",
+			"parentId": "at://did:plc:67u6vekwv4meimluuaa22rix/app.bsky.feed.post/3n33aw4zut22h",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n33b3l7yvc2t",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-24T18:20:15.666Z",
+			"content": "<p>I did a longer write-up here, but here’s the deep link to that question specifically <a href=\"https://www.zachleat.com/web/npm-audit-report/#behind-the-curtain\">www.zachleat.com/web/npm-audi...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3n33lghwhx22c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3n33lghwhx22c",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-11-24T21:25:18.725Z",
+			"content": "<p>Simple, I just ignore them 😎</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3n33lrzhci22c",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3n33lghwhx22c",
+			"url": "https://bsky.app/profile/zachleat.com/post/3n33lrzhci22c",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "bafkreie4yypxcxrte6shppdo6glzt-Qi98YxUtBg8x.webp"
+			},
+			"date": "2026-11-24T21:31:46.200Z",
+			"content": "<p>😱</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 25,
+		"reposts": 4,
+		"comments": 4,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}
