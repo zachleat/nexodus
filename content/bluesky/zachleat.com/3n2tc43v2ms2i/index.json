@@ -103,12 +103,25 @@
 			"date": "2026-11-22T03:13:16.471Z",
 			"content": "<p>That’s not really what I meant.</p>\n<p>My tongue-in-cheek response was suggesting that React (and the entire JS ecosystem) was a technical solution to a human problem like GraphQL was.</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pftjufgriyqcvqys2av3q3o6/app.bsky.feed.post/3n2xt3q6dwc2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/andreacorinti.com/post/3n2xt3q6dwc2t",
+			"author": {
+				"name": "Xab",
+				"url": "https://bsky.app/profile/andreacorinti.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pftjufgriyqcvqys2av3q3o6/bafkreih7iogryxw2u5nqo7qfwavp2krzlor6klz7ozurzbsky7dp3pye3a"
+			},
+			"date": "2026-11-23T09:31:49.254Z",
+			"content": "<p>As someone who tinkers but doesn't code for a living: static is what lets people like me run their own site at all! The real win would be making it easy for everyone, so people could own their corner of the web instead of renting it from platforms. Servers, JS and CMSes just raise the bar</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"likes": 37,
+		"likes": 38,
 		"reposts": 2,
-		"comments": 5,
+		"comments": 6,
 		"via": "bluesky"
 	}
 }

@@ -9,11 +9,11 @@ date: 2026-09-16T13:56:33.000Z
 metadata:
   name: zachleat/bundlewhys
   language: JavaScript
-  homepage: https://zachleat.github.io/bundlewhys/
+  homepage: http://bundlewhys.zachleat.dev/
   uuid: 11ty/import::github::zachleat/bundlewhys
   type: github
   url: https://github.com/zachleat/bundlewhys
-  importHash: bc0f319744f3df74
+  importHash: aac5ca83dc0e3f18
 ---
 # Bundlewhys
 

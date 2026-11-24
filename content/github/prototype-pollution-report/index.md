@@ -8,11 +8,11 @@ date: 2026-10-29T17:47:27.000Z
 metadata:
   name: zachleat/prototype-pollution-report
   language: HTML
-  homepage: https://zachleat.github.io/prototype-pollution-report/
+  homepage: http://ppr.zachleat.dev/
   uuid: 11ty/import::github::zachleat/prototype-pollution-report
   type: github
   url: https://github.com/zachleat/prototype-pollution-report
-  importHash: 3e4620c6828969ab
+  importHash: 51a938a092062864
 ---
 # Prototype Pollution Report
 

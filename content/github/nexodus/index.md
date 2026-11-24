@@ -8,17 +8,17 @@ date: 2026-10-23T22:15:24.000Z
 metadata:
   name: zachleat/nexodus
   language: Svelte
-  homepage: http://zachleat.github.io/nexodus/
+  homepage: http://nexodus.zachleat.dev/
   uuid: 11ty/import::github::zachleat/nexodus
   type: github
   url: https://github.com/zachleat/nexodus
-  importHash: e524455bf9454b38
+  importHash: 35e8067fa195ea56
 ---
 # Nexodus
 
 A demo of [`@11ty/import`](https://github.com/11ty/eleventy-import) to build a git-persisted archive of social posts (from Mastodon and Bluesky) for one or more users.
 
--   [Demo](https://zachleat.github.io/nexodus/)
+-   [Demo](https://nexodus.zachleat.dev/)
 -   [Source code](https://github.com/zachleat/nexodus)
 
 ## Sources
