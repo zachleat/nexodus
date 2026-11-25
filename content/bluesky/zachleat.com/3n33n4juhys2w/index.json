@@ -1,6 +1,22 @@
 {
 	"counts": {
-		"likes": 6,
+		"likes": 12,
+		"comments": 1,
 		"via": "bluesky"
-	}
+	},
+	"comments": [
+		{
+			"id": "at://did:plc:ws2eqwncu4sn332h6g5z47ex/app.bsky.feed.post/3n33ziu3xgc2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/habichue.la/post/3n33ziu3xgc2o",
+			"author": {
+				"name": "habichuela",
+				"url": "https://bsky.app/profile/habichue.la",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ws2eqwncu4sn332h6g5z47ex/bafkreiebgus4jxiflhsuzvw6hifqv34d2m5obo76mvzfrh5lxaxakiqgbi"
+			},
+			"date": "2026-11-25T01:37:10.981Z",
+			"content": "<img src=\"https://static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/e8/7b/QogTRTCTc3LI0j.gif?hh=276&amp;ww=498&amp;mp4=6tGkrZpyrC7y&amp;webm=Ounl8MFWg74UIOgAWAS\" alt=\"ALT: Makes No Sense\">",
+			"via": "bluesky"
+		}
+	]
 }
