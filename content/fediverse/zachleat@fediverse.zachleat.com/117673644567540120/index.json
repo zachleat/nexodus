@@ -77,12 +77,38 @@
 			"date": "2026-11-24T22:10:33.712Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@kmck\" class=\"u-url mention\">@<span>kmck</span></a></span> if there’s one thing I can guarantee we won’t see it’s accountability</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117677561158451291",
+			"parentId": 0,
+			"url": "https://fediverse.zachleat.com/@zachleat/117677561158451291",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-11-25T14:31:23.104Z",
+			"content": "<p>T-minus 30 minutes to detonation!</p><p>I am in Iowa but not in close proximity to the explosion.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117678041957062218",
+			"parentId": 0,
+			"url": "https://justme.masto.host/@ScottMGS/117678041946500069",
+			"author": {
+				"name": "ScottMGS",
+				"url": "https://justme.masto.host/@ScottMGS",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/502/540/585/675/522/original/4251d771994a46ad.jpg"
+			},
+			"date": "2026-11-25T16:33:39.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Seems like a good time for everyone living near (or far) from a military base should be asking what's being stored there and whether it should be disposed of safely.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
-		"likes": 14,
-		"reposts": 2,
-		"comments": 2,
+		"likes": 17,
+		"reposts": 4,
+		"comments": 4,
 		"via": "fediverse"
 	}
 }
